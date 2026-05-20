@@ -104,7 +104,7 @@ export class GeminiSummarizer implements Summarizer {
   private ai: GoogleGenAI;
   private model: string;
 
-  constructor(apiKey: string, model = process.env.GEMINI_MODEL ?? 'gemini-2.0-flash') {
+  constructor(apiKey: string, model = process.env.GEMINI_MODEL ?? 'gemini-2.5-flash') {
     this.ai = new GoogleGenAI({ apiKey });
     this.model = model;
   }
@@ -169,7 +169,7 @@ export type SummarizeResult = {
 };
 
 // Espaçamento entre chamadas à IA p/ respeitar o RPM do free tier.
-const THROTTLE_MS = Number(process.env.GEMINI_THROTTLE_MS ?? 4500);
+const THROTTLE_MS = Number(process.env.GEMINI_THROTTLE_MS ?? 6000);
 // Após N falhas de quota (429) seguidas, desiste da IA no resto do run (fallback
 // rápido) — evita um run eterno quando a cota do dia acabou.
 const QUOTA_BREAKER = 4;
