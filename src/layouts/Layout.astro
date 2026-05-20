@@ -26,6 +26,7 @@ const canonical = new URL(Astro.url.pathname, Astro.site!).href;
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
     <meta name="robots" content="index, follow" />
+    <link rel="alternate" type="application/rss+xml" title={SITE.name} href="/rss.xml" />
 
     <!-- Open Graph / Twitter -->
     <meta property="og:site_name" content={SITE.name} />

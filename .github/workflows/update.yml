@@ -73,3 +73,7 @@ jobs:
           # Cria o projeto Pages no 1º deploy (idempotente: ignora se já existe).
           pnpm dlx wrangler@latest pages project create globalnoticias --production-branch=main || true
           pnpm dlx wrangler@latest pages deploy dist --project-name=globalnoticias --branch=main
+
+      - name: Avisar buscadores (IndexNow — Bing/Yandex)
+        if: ${{ env.CLOUDFLARE_API_TOKEN != '' }}
+        run: pnpm tsx pipeline/indexnow.ts
