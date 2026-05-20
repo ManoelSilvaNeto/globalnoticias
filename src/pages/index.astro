@@ -1,0 +1,42 @@
+---
+import Layout from '../layouts/Layout.astro';
+import StoryList from '../components/StoryList.astro';
+import CategorySection from '../components/CategorySection.astro';
+import AdSlot from '../components/AdSlot.astro';
+import { currentEdition, hasContent } from '../lib/data';
+import { CATEGORIES } from '../lib/categories';
+import { formatDateFull } from '../lib/format';
+import { SITE } from '../lib/site';
+import { itemListJsonLd, websiteJsonLd } from '../lib/seo';
+
+const edition = currentEdition;
+const filled = hasContent(edition);
+const siteUrl = new URL('/', Astro.site!).href;
+const pageUrl = new URL(Astro.url.pathname, Astro.site!).href;
+const jsonLd = [websiteJsonLd(siteUrl), itemListJsonLd(edition.home, pageUrl)];
+---
+
+<Layout jsonLd={jsonLd}>
+  <header>
+    <h1 class="font-serif text-3xl font-bold tracking-tight">{SITE.name}</h1>
+    <p class="mt-1 text-neutral-600 dark:text-neutral-400">{SITE.tagline}</p>
+    {filled && <p class="mt-1 text-sm text-neutral-500">Edição de {formatDateFull(edition.date)}</p>}
+  </header>
+
+  {
+    !filled ? (
+      <p class="py-16 text-center text-neutral-500">A primeira edição está sendo preparada. Volte em instantes.</p>
+    ) : (
+      <>
+        <section class="mt-6">
+          <h2 class="sr-only">Principais notícias</h2>
+          <StoryList stories={edition.home} featureFirst />
+        </section>
+
+        <AdSlot />
+
+        {CATEGORIES.map((cat) => <CategorySection category={cat} stories={edition.categorias[cat]} />)}
+      </>
+    )
+  }
+</Layout>

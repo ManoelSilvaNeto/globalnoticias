@@ -1,0 +1,23 @@
+---
+import { CATEGORIES, CATEGORY_LABELS } from '../lib/categories';
+import { SITE } from '../lib/site';
+
+const year = new Date().getFullYear();
+---
+
+<footer class="mt-12 border-t border-neutral-200 bg-neutral-50 dark:border-neutral-800 dark:bg-neutral-900">
+  <div class="mx-auto max-w-3xl px-4 py-8 text-sm text-neutral-600 dark:text-neutral-400">
+    <p class="font-serif text-base font-semibold text-neutral-900 dark:text-neutral-100">{SITE.name}</p>
+    <p class="mt-1 max-w-prose">
+      {SITE.name} agrega e resume automaticamente notícias publicadas por veículos de imprensa.
+      Os resumos são originais; os direitos das matérias e o crédito pertencem às fontes citadas.
+      Clique nos links para ler a reportagem completa na origem.
+    </p>
+
+    <nav aria-label="Categorias" class="mt-4 flex flex-wrap gap-x-4 gap-y-1">
+      {CATEGORIES.map((cat) => <a href={`/${cat}`} class="hover:text-sky-600 hover:underline">{CATEGORY_LABELS[cat]}</a>)}
+    </nav>
+
+    <p class="mt-6 text-xs text-neutral-500">© {year} {SITE.name}. Resumos por IA — podem conter imprecisões; confira sempre na fonte.</p>
+  </div>
+</footer>

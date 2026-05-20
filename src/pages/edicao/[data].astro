@@ -1,0 +1,33 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import StoryList from '../../components/StoryList.astro';
+import CategorySection from '../../components/CategorySection.astro';
+import { editions, editionByDate } from '../../lib/data';
+import { CATEGORIES } from '../../lib/categories';
+import { formatDateFull } from '../../lib/format';
+import { itemListJsonLd } from '../../lib/seo';
+
+export function getStaticPaths() {
+  return editions.map((e) => ({ params: { data: e.date } }));
+}
+
+const data = Astro.params.data as string;
+const edition = editionByDate(data)!;
+const titulo = `Edição de ${formatDateFull(edition.date)}`;
+const pageUrl = new URL(Astro.url.pathname, Astro.site!).href;
+const jsonLd = [itemListJsonLd(edition.home, pageUrl)];
+---
+
+<Layout title={titulo} description={`Resumo das principais notícias de ${formatDateFull(edition.date)}.`} ogType="article" jsonLd={jsonLd}>
+  <header>
+    <p class="text-sm text-sky-700 dark:text-sky-400"><a href="/" class="hover:underline">← edição atual</a></p>
+    <h1 class="mt-2 font-serif text-2xl font-bold">{titulo}</h1>
+  </header>
+
+  <section class="mt-6">
+    <h2 class="sr-only">Principais notícias</h2>
+    <StoryList stories={edition.home} featureFirst />
+  </section>
+
+  {CATEGORIES.map((cat) => <CategorySection category={cat} stories={edition.categorias[cat]} />)}
+</Layout>

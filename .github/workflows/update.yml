@@ -1,0 +1,72 @@
+name: Atualizar e publicar
+
+on:
+  schedule:
+    - cron: '0 */4 * * *' # a cada 4h (UTC)
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'data/**'
+      - 'docs/**'
+      - '**/*.md'
+
+permissions:
+  contents: write
+
+# Evita runs sobrepostos (o agendado + um push manual, por ex.).
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      # Disponibiliza os segredos do Cloudflare como env p/ a condição do deploy.
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Instalar pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - name: Instalar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Instalar dependências
+        run: pnpm install --frozen-lockfile
+
+      - name: Testes
+        run: pnpm test
+
+      - name: Rodar pipeline (coleta + cluster + resumo + dados)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: pnpm pipeline
+
+      - name: Commitar dados (se mudaram)
+        run: |
+          git config user.name "globalnoticias-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data; then
+            echo "Sem mudanças em data/ — nada a commitar."
+          else
+            git add data
+            git commit -m "dados: edição $(date -u +%FT%TZ) [skip ci]"
+            git push
+          fi
+
+      - name: Build do site
+        run: pnpm build
+
+      - name: Deploy no Cloudflare Pages
+        if: ${{ env.CLOUDFLARE_API_TOKEN != '' }}
+        run: pnpm dlx wrangler@latest pages deploy dist --project-name=globalnoticias --branch=main

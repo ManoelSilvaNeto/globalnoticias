@@ -1,0 +1,21 @@
+---
+import type { Story } from '../lib/types';
+import StoryCard from './StoryCard.astro';
+
+interface Props {
+  stories: Story[];
+  featureFirst?: boolean;
+}
+
+const { stories, featureFirst = false } = Astro.props;
+---
+
+{
+  stories.length === 0 ? (
+    <p class="py-8 text-center text-sm text-neutral-500">Nenhuma história por aqui ainda. Volte em breve.</p>
+  ) : (
+    <div>
+      {stories.map((story, i) => <StoryCard story={story} featured={featureFirst && i === 0} />)}
+    </div>
+  )
+}

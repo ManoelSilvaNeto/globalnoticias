@@ -1,0 +1,25 @@
+---
+import Layout from '../layouts/Layout.astro';
+import StoryList from '../components/StoryList.astro';
+import { currentEdition } from '../lib/data';
+import { CATEGORIES, CATEGORY_LABELS, type Category } from '../lib/categories';
+import { itemListJsonLd } from '../lib/seo';
+
+export function getStaticPaths() {
+  return CATEGORIES.map((categoria) => ({ params: { categoria } }));
+}
+
+const categoria = Astro.params.categoria as Category;
+const stories = currentEdition.categorias[categoria] ?? [];
+const label = CATEGORY_LABELS[categoria];
+const pageUrl = new URL(Astro.url.pathname, Astro.site!).href;
+const description = `As principais notícias de ${label.toLowerCase()} resumidas e organizadas, com link para as fontes.`;
+const jsonLd = [itemListJsonLd(stories, pageUrl)];
+---
+
+<Layout title={label} description={description} jsonLd={jsonLd}>
+  <h1 class="border-b-2 border-neutral-900 pb-1 font-serif text-2xl font-bold dark:border-neutral-100">{label}</h1>
+  <div class="mt-2">
+    <StoryList stories={stories} />
+  </div>
+</Layout>

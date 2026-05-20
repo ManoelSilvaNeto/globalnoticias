@@ -1,0 +1,27 @@
+---
+import type { Story } from '../lib/types';
+import type { Category } from '../lib/categories';
+import { CATEGORY_LABELS } from '../lib/categories';
+import StoryCard from './StoryCard.astro';
+
+interface Props {
+  category: Category;
+  stories: Story[];
+  limit?: number;
+}
+
+const { category, stories, limit = 4 } = Astro.props;
+const shown = stories.slice(0, limit);
+---
+
+{
+  shown.length > 0 && (
+    <section class="mt-10">
+      <div class="flex items-baseline justify-between border-b-2 border-neutral-900 pb-1 dark:border-neutral-100">
+        <h2 class="font-serif text-xl font-bold">{CATEGORY_LABELS[category]}</h2>
+        <a href={`/${category}`} class="text-sm text-sky-700 hover:underline dark:text-sky-400">ver tudo →</a>
+      </div>
+      {shown.map((story) => <StoryCard story={story} />)}
+    </section>
+  )
+}
