@@ -77,4 +77,16 @@ describe('summarizeClusters', () => {
     const { stats } = await summarizeClusters([c], null, {}, NOW);
     expect(stats.fallback).toBe(1);
   });
+
+  it('abre o disjuntor após 429 seguidos e para de chamar a IA', async () => {
+    const clusters = Array.from({ length: 6 }, (_, i) => cluster(`c${i}`, [article(`https://a.com/${i}`, 'G1')]));
+    const quota = Object.assign(new Error('quota'), { status: 429 });
+    const summarizer: Summarizer = { summarize: vi.fn().mockRejectedValue(quota) };
+
+    const { stats } = await summarizeClusters(clusters, summarizer, {}, NOW, 0);
+
+    expect(summarizer.summarize).toHaveBeenCalledTimes(4); // QUOTA_BREAKER
+    expect(stats.fallback).toBe(6);
+    expect(stats.generated).toBe(0);
+  });
 });

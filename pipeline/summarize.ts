@@ -80,16 +80,51 @@ function buildPrompt(input: SummarizeInput): string {
   ].join('\n');
 }
 
+const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
+
+// Extrai o status HTTP de um erro do SDK (ApiError tem .status; senão lê do texto).
+export function errorStatus(err: unknown): number | null {
+  const e = err as { status?: number; code?: number; message?: string };
+  if (typeof e?.status === 'number') return e.status;
+  if (typeof e?.code === 'number') return e.code;
+  const m = String(e?.message ?? err);
+  const match = m.match(/"code":\s*(\d+)/) ?? m.match(/\b(429|500|503)\b/);
+  return match ? Number(match[1]) : null;
+}
+
+export function isQuotaError(err: unknown): boolean {
+  return errorStatus(err) === 429;
+}
+
+// Transientes que vale a pena re-tentar (rate-limit momentâneo / sobrecarga).
+const TRANSIENT = new Set([429, 500, 503]);
+const RETRY_BACKOFF_MS = [5_000, 12_000];
+
 export class GeminiSummarizer implements Summarizer {
   private ai: GoogleGenAI;
   private model: string;
 
-  constructor(apiKey: string, model = process.env.GEMINI_MODEL ?? 'gemini-2.5-flash') {
+  constructor(apiKey: string, model = process.env.GEMINI_MODEL ?? 'gemini-2.0-flash') {
     this.ai = new GoogleGenAI({ apiKey });
     this.model = model;
   }
 
   async summarize(input: SummarizeInput): Promise<Summary> {
+    for (let attempt = 0; ; attempt++) {
+      try {
+        return await this.callOnce(input);
+      } catch (err) {
+        const status = errorStatus(err);
+        if (status !== null && TRANSIENT.has(status) && attempt < RETRY_BACKOFF_MS.length) {
+          await sleep(RETRY_BACKOFF_MS[attempt]!);
+          continue;
+        }
+        throw err;
+      }
+    }
+  }
+
+  private async callOnce(input: SummarizeInput): Promise<Summary> {
     const response = await this.ai.models.generateContent({
       model: this.model,
       contents: buildPrompt(input),
@@ -133,15 +168,26 @@ export type SummarizeResult = {
   stats: SummarizeStats;
 };
 
+// Espaçamento entre chamadas à IA p/ respeitar o RPM do free tier.
+const THROTTLE_MS = Number(process.env.GEMINI_THROTTLE_MS ?? 4500);
+// Após N falhas de quota (429) seguidas, desiste da IA no resto do run (fallback
+// rápido) — evita um run eterno quando a cota do dia acabou.
+const QUOTA_BREAKER = 4;
+
 export async function summarizeClusters(
   clusters: Cluster[],
   summarizer: Summarizer | null,
   cache: Record<string, CachedSummary>,
   now: Date = new Date(),
+  throttleMs: number = THROTTLE_MS,
 ): Promise<SummarizeResult> {
   const summaries = new Map<string, Summary>();
   const nextCache: Record<string, CachedSummary> = { ...cache };
   const stats: SummarizeStats = { fromCache: 0, generated: 0, fallback: 0 };
+
+  let iaCalls = 0;
+  let quotaFails = 0;
+  let breakerOpen = false;
 
   for (const cluster of clusters) {
     const key = cacheKey(cluster);
@@ -153,15 +199,25 @@ export async function summarizeClusters(
       continue;
     }
 
-    if (summarizer) {
+    if (summarizer && !breakerOpen) {
+      if (iaCalls > 0 && throttleMs > 0) await sleep(throttleMs);
+      iaCalls++;
       try {
         const summary = sanitize(await summarizer.summarize(toInput(cluster)));
         summaries.set(cluster.id, summary);
         nextCache[key] = { ...summary, cachedAt: now.toISOString() };
         stats.generated++;
+        quotaFails = 0;
         continue;
       } catch (err) {
-        console.warn(`  resumo IA falhou (${cluster.id}): ${String(err).slice(0, 120)} — fallback`);
+        if (isQuotaError(err)) {
+          quotaFails++;
+          if (quotaFails >= QUOTA_BREAKER) {
+            breakerOpen = true;
+            console.warn('  quota da IA esgotada — usando fallback no restante deste run.');
+          }
+        }
+        console.warn(`  resumo IA falhou (${cluster.id}): ${String(err).slice(0, 100)} — fallback`);
       }
     }
 
