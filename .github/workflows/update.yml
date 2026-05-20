@@ -69,4 +69,7 @@ jobs:
 
       - name: Deploy no Cloudflare Pages
         if: ${{ env.CLOUDFLARE_API_TOKEN != '' }}
-        run: pnpm dlx wrangler@latest pages deploy dist --project-name=globalnoticias --branch=main
+        run: |
+          # Cria o projeto Pages no 1º deploy (idempotente: ignora se já existe).
+          pnpm dlx wrangler@latest pages project create globalnoticias --production-branch=main || true
+          pnpm dlx wrangler@latest pages deploy dist --project-name=globalnoticias --branch=main
