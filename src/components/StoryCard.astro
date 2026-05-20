@@ -20,57 +20,19 @@ const when = formatDateTime(story.updatedAt);
     {when && <time class="text-neutral-500" datetime={story.updatedAt}>{when}</time>}
   </div>
 
-  <div class="mt-2 flex flex-row-reverse gap-4 sm:flex-row">
-    <div class="min-w-0 flex-1">
-      <h2 class:list={['font-serif font-bold leading-snug', featured ? 'text-2xl sm:text-3xl' : 'text-lg']}>
-        <a
-          href={primary?.url}
-          target="_blank"
-          rel="noopener noreferrer"
-          class="hover:text-sky-700 hover:underline dark:hover:text-sky-400"
-        >
-          {story.titulo}
-        </a>
-      </h2>
+  <h2 class:list={['mt-2 font-serif font-bold leading-snug', featured ? 'text-2xl sm:text-3xl' : 'text-lg']}>
+    <a
+      href={primary?.url}
+      target="_blank"
+      rel="noopener noreferrer"
+      class="hover:text-sky-700 hover:underline dark:hover:text-sky-400"
+    >
+      {story.titulo}
+    </a>
+  </h2>
 
-      {featured && story.imageUrl && (
-        <img
-          src={story.imageUrl}
-          alt=""
-          loading="lazy"
-          decoding="async"
-          referrerpolicy="no-referrer"
-          onerror="this.remove()"
-          class="mt-3 aspect-video w-full rounded-lg object-cover"
-        />
-      )}
-
-      <p class:list={['mt-2 text-neutral-700 dark:text-neutral-300', featured ? 'text-base' : 'text-sm']}>{story.resumo}</p>
-
-      {story.porQueImporta && (
-        <p class="mt-3 border-l-2 border-sky-500 pl-3 text-sm text-neutral-600 dark:text-neutral-400">
-          <span class="font-semibold text-neutral-800 dark:text-neutral-200">Por que importa:</span> {story.porQueImporta}
-        </p>
-      )}
-
-      <div class="mt-3 flex flex-wrap items-center gap-2 text-xs">
-        <span class="text-neutral-400">Fontes:</span>
-        {
-          story.sources.map((s) => (
-            <a
-              href={s.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              class="rounded-full bg-neutral-100 px-2 py-0.5 text-neutral-600 hover:bg-neutral-200 hover:text-neutral-900 dark:bg-neutral-800 dark:text-neutral-300 dark:hover:bg-neutral-700"
-            >
-              {s.name}
-            </a>
-          ))
-        }
-      </div>
-    </div>
-
-    {!featured && story.imageUrl && (
+  {
+    featured && story.imageUrl && (
       <img
         src={story.imageUrl}
         alt=""
@@ -78,8 +40,34 @@ const when = formatDateTime(story.updatedAt);
         decoding="async"
         referrerpolicy="no-referrer"
         onerror="this.remove()"
-        class="h-20 w-24 shrink-0 rounded-md object-cover sm:h-24 sm:w-32"
+        class="mt-3 aspect-video w-full rounded-lg object-cover"
       />
-    )}
+    )
+  }
+
+  <p class:list={['mt-2 text-neutral-700 dark:text-neutral-300', featured ? 'text-base' : 'text-sm']}>{story.resumo}</p>
+
+  {
+    story.porQueImporta && (
+      <p class="mt-3 border-l-2 border-sky-500 pl-3 text-sm text-neutral-600 dark:text-neutral-400">
+        <span class="font-semibold text-neutral-800 dark:text-neutral-200">Por que importa:</span> {story.porQueImporta}
+      </p>
+    )
+  }
+
+  <div class="mt-3 flex flex-wrap items-center gap-2 text-xs">
+    <span class="text-neutral-400">Fontes:</span>
+    {
+      story.sources.map((s) => (
+        <a
+          href={s.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="rounded-full bg-neutral-100 px-2 py-0.5 text-neutral-600 hover:bg-neutral-200 hover:text-neutral-900 dark:bg-neutral-800 dark:text-neutral-300 dark:hover:bg-neutral-700"
+        >
+          {s.name}
+        </a>
+      ))
+    }
   </div>
 </article>
