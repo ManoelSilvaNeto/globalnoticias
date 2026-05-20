@@ -20,7 +20,7 @@ const when = formatDateTime(story.updatedAt);
     {when && <time class="text-neutral-500" datetime={story.updatedAt}>{when}</time>}
   </div>
 
-  <div class="mt-2 flex gap-4">
+  <div class="mt-2 flex flex-row-reverse gap-4 sm:flex-row">
     <div class="min-w-0 flex-1">
       <h2 class:list={['font-serif font-bold leading-snug', featured ? 'text-2xl sm:text-3xl' : 'text-lg']}>
         <a
