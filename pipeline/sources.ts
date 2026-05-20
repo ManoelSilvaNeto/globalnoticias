@@ -18,7 +18,7 @@ export const SOURCES: Source[] = [
   { name: 'G1', url: 'https://g1.globo.com/rss/g1/economia/', category: 'economia' },
   { name: 'G1', url: 'https://g1.globo.com/rss/g1/mundo/', category: 'mundo' },
   { name: 'G1', url: 'https://g1.globo.com/rss/g1/tecnologia/', category: 'tecnologia' },
-  { name: 'G1', url: 'https://g1.globo.com/rss/g1/ciencia-e-saude/', category: 'ciencia' },
+  { name: 'G1', url: 'https://g1.globo.com/rss/g1/ciencia/', category: 'ciencia' },
   { name: 'G1', url: 'https://g1.globo.com/rss/g1/bemestar/', category: 'saude' },
   { name: 'G1', url: 'https://g1.globo.com/rss/g1/pop-arte/', category: 'entretenimento' },
   { name: 'GE', url: 'https://ge.globo.com/rss/ge/', category: 'esportes' },
@@ -41,6 +41,11 @@ export const SOURCES: Source[] = [
 
   // ── Saúde ─────────────────────────────────────────────────────────────────
   { name: 'Drauzio Varella', url: 'https://drauziovarella.uol.com.br/feed/', category: 'saude' },
+
+  // ── Ciência ───────────────────────────────────────────────────────────────
+  { name: 'Pesquisa FAPESP', url: 'https://revistapesquisa.fapesp.br/feed/', category: 'ciencia' },
+  { name: 'Jornal da USP', url: 'https://jornal.usp.br/feed/', category: 'ciencia' },
+  { name: 'Super Interessante', url: 'https://super.abril.com.br/feed/', category: 'ciencia' },
 
   // ── Geral (multi-editoria) ────────────────────────────────────────────────
   { name: 'CNN Brasil', url: 'https://www.cnnbrasil.com.br/feed/', category: 'geral' },
