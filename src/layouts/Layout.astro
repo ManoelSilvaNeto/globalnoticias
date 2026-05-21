@@ -9,11 +9,15 @@ interface Props {
   description?: string;
   jsonLd?: Record<string, unknown>[];
   ogType?: string;
+  image?: string;
 }
 
-const { title, description = SITE.description, jsonLd = [], ogType = 'website' } = Astro.props;
+const { title, description = SITE.description, jsonLd = [], ogType = 'website', image } = Astro.props;
 const fullTitle = title ? `${title} — ${SITE.name}` : `${SITE.name} — ${SITE.tagline}`;
 const canonical = new URL(Astro.url.pathname, Astro.site!).href;
+// Imagem do preview social (foto da matéria de destaque). Absoluta — resolve
+// contra o site se vier relativa; URLs externas das fontes passam intactas.
+const ogImage = image ? new URL(image, Astro.site!).href : undefined;
 ---
 
 <!doctype html>
@@ -36,9 +40,11 @@ const canonical = new URL(Astro.url.pathname, Astro.site!).href;
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
     <meta property="og:locale" content="pt_BR" />
-    <meta name="twitter:card" content="summary_large_image" />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    <meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
     <meta name="twitter:title" content={fullTitle} />
     <meta name="twitter:description" content={description} />
+    {ogImage && <meta name="twitter:image" content={ogImage} />}
 
     {jsonLd.map((node) => <script type="application/ld+json" set:html={JSON.stringify(node)} />)}
 

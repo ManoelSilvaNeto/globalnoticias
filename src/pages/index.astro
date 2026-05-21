@@ -14,9 +14,10 @@ const filled = hasContent(edition);
 const siteUrl = new URL('/', Astro.site!).href;
 const pageUrl = new URL(Astro.url.pathname, Astro.site!).href;
 const jsonLd = [websiteJsonLd(siteUrl), itemListJsonLd(edition.home, pageUrl)];
+const ogImage = edition.home.find((s) => s.imageUrl)?.imageUrl;
 ---
 
-<Layout jsonLd={jsonLd}>
+<Layout image={ogImage} jsonLd={jsonLd}>
   <header>
     <h1 class="font-serif text-3xl font-bold tracking-tight">{SITE.name}</h1>
     <p class="mt-1 text-neutral-600 dark:text-neutral-400">{SITE.tagline}</p>

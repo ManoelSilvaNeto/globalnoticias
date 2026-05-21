@@ -16,9 +16,10 @@ const edition = editionByDate(data)!;
 const titulo = `Edição de ${formatDateFull(edition.date)}`;
 const pageUrl = new URL(Astro.url.pathname, Astro.site!).href;
 const jsonLd = [itemListJsonLd(edition.home, pageUrl)];
+const ogImage = edition.home.find((s) => s.imageUrl)?.imageUrl;
 ---
 
-<Layout title={titulo} description={`Resumo das principais notícias de ${formatDateFull(edition.date)}.`} ogType="article" jsonLd={jsonLd}>
+<Layout title={titulo} description={`Resumo das principais notícias de ${formatDateFull(edition.date)}.`} ogType="article" image={ogImage} jsonLd={jsonLd}>
   <header>
     <p class="text-sm text-sky-700 dark:text-sky-400"><a href="/" class="hover:underline">← edição atual</a></p>
     <h1 class="mt-2 font-serif text-2xl font-bold">{titulo}</h1>
