@@ -52,6 +52,11 @@ pipeline/     ingestão: sources, fetch, cluster, rank, summarize, build-data, i
 - `CLOUDFLARE_API_TOKEN` e `CLOUDFLARE_ACCOUNT_ID` — deploy no Pages. Sem eles, o
   workflow roda tudo e só pula o passo de deploy.
 
+## Restauração / recuperação
+
+Como rodar localmente, voltar a uma versão antiga ou recriar a produção do zero:
+veja **[docs/RESTAURAR.md](docs/RESTAURAR.md)**.
+
 ## Jurídico
 
 Modelo Google News: resumo **original** + crédito + link. Nunca republica o texto
