@@ -29,23 +29,46 @@ describe('cacheKey', () => {
     expect(a).toBe(b);
   });
 
-  it('muda quando a composição do cluster muda', () => {
+  it('mantém a chave quando um novo membro entra na mesma história', () => {
+    const seed = article('https://a.com/1', 'G1'); // o mais antigo = âncora
+    const newer = { ...article('https://c.com/3', 'Veja'), publishedAt: '2026-05-20T13:00:00.000Z' };
+    const a = cacheKey(cluster('x', [seed]));
+    const b = cacheKey(cluster('x', [seed, newer]));
+    expect(a).toBe(b);
+  });
+
+  it('muda quando a história-âncora é outra', () => {
     const a = cacheKey(cluster('x', [article('https://a.com/1', 'G1')]));
-    const b = cacheKey(cluster('x', [article('https://a.com/1', 'G1'), article('https://c.com/3', 'Veja')]));
+    const b = cacheKey(cluster('y', [article('https://z.com/9', 'CNN Brasil')]));
     expect(a).not.toBe(b);
   });
 });
 
 describe('summarizeClusters', () => {
-  it('usa o cache e não chama a IA', async () => {
+  it('usa o cache fresco (dentro do TTL) e não chama a IA', async () => {
     const c = cluster('c1', [article('https://a.com/1', 'G1')]);
-    const cached: Record<string, CachedSummary> = { [cacheKey(c)]: { ...SUMMARY, cachedAt: '2026-05-19T00:00:00.000Z' } };
+    // 6h antes de NOW → dentro do TTL de 24h.
+    const cached: Record<string, CachedSummary> = { [cacheKey(c)]: { ...SUMMARY, cachedAt: '2026-05-20T06:00:00.000Z' } };
     const summarizer: Summarizer = { summarize: vi.fn() };
 
     const { summaries, stats } = await summarizeClusters([c], summarizer, cached, NOW);
 
     expect(summarizer.summarize).not.toHaveBeenCalled();
     expect(stats.fromCache).toBe(1);
+    expect(summaries.get('c1')).toEqual(SUMMARY);
+  });
+
+  it('reusa o resumo antigo (TTL vencido) em vez de RSS quando a IA está fora', async () => {
+    const c = cluster('c1', [article('https://a.com/1', 'G1', 'T', 'Descrição do RSS.')]);
+    // cachedAt bem antigo → TTL vencido; a IA falha → deve cair no resumo antigo, não no RSS.
+    const stale: Record<string, CachedSummary> = { [cacheKey(c)]: { ...SUMMARY, cachedAt: '2026-05-18T00:00:00.000Z' } };
+    const summarizer: Summarizer = { summarize: vi.fn().mockRejectedValue(new Error('quota')) };
+
+    const { summaries, stats } = await summarizeClusters([c], summarizer, stale, NOW);
+
+    expect(summarizer.summarize).toHaveBeenCalledOnce();
+    expect(stats.staleCache).toBe(1);
+    expect(stats.fallback).toBe(0);
     expect(summaries.get('c1')).toEqual(SUMMARY);
   });
 

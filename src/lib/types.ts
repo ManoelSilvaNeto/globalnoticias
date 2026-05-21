@@ -65,5 +65,5 @@ export type CachedSummary = Summary & { cachedAt: string };
 // Estado persistido entre runs (data/state.json): cache de resumos da janela 48–72h.
 export type State = {
   updatedAt: string; // ISO 8601
-  summaries: Record<string, CachedSummary>; // cacheKey (hash das URLs) -> resumo
+  summaries: Record<string, CachedSummary>; // cacheKey (hash da URL do artigo-âncora) -> resumo
 };

@@ -1,7 +1,9 @@
 // Resumo dos clusters do topo via Gemini Flash, atrás de uma interface trocável
-// (Summarizer). Cache por hash das URLs do cluster: cluster já resumido não
-// chama a IA. Fallback resiliente: falha/quota → usa a descrição do RSS. O build
-// nunca quebra por causa da IA.
+// (Summarizer). Cache pela IDENTIDADE da história (URL do artigo-âncora, o mais
+// antigo): a história mantém a chave mesmo ganhando novos membros, então um resumo
+// já feito é reaproveitado entre runs e a cobertura de IA acumula. Resiliente: IA
+// fora/cota esgotada → reusa o resumo antigo do cache; sem cache → descrição do
+// RSS. O build nunca quebra por causa da IA.
 
 import { createHash } from 'node:crypto';
 import { GoogleGenAI, Type } from '@google/genai';
@@ -17,11 +19,19 @@ export interface Summarizer {
   summarize(input: SummarizeInput): Promise<Summary>;
 }
 
-// Chave de cache = hash das URLs normalizadas dos membros (estável p/ a mesma
-// composição de cluster; muda se entra/sai artigo → re-resume).
+// Chave de cache = identidade da história: a URL normalizada do artigo-âncora (o
+// mais antigo = origem da história). Estável enquanto a história se desenvolve e
+// ganha novos membros, então o resumo já feito é reaproveitado entre runs em vez
+// de re-resumir a cada coleta. Empate de data (ou sem data) → menor URL.
 export function cacheKey(cluster: Pick<Cluster, 'articles'>): string {
-  const urls = cluster.articles.map((a) => normalizeUrl(a.url)).sort();
-  return createHash('sha1').update(urls.join('|')).digest('hex').slice(0, 16);
+  const anchor = [...cluster.articles].sort((a, b) => {
+    const ta = Date.parse(a.publishedAt) || Number.POSITIVE_INFINITY;
+    const tb = Date.parse(b.publishedAt) || Number.POSITIVE_INFINITY;
+    if (ta !== tb) return ta - tb;
+    return normalizeUrl(a.url).localeCompare(normalizeUrl(b.url));
+  })[0];
+  const anchorUrl = anchor ? normalizeUrl(anchor.url) : '';
+  return createHash('sha1').update(anchorUrl).digest('hex').slice(0, 16);
 }
 
 function toInput(cluster: Cluster): SummarizeInput {
@@ -160,7 +170,12 @@ export function summarizerFromEnv(): Summarizer | null {
 }
 
 // ── Orquestração: cache + IA + fallback ───────────────────────────────────────
-export type SummarizeStats = { fromCache: number; generated: number; fallback: number };
+export type SummarizeStats = {
+  fromCache: number; // resumo de IA fresco reaproveitado (dentro do TTL)
+  generated: number; // resumo novo gerado pela IA neste run
+  staleCache: number; // IA fora → reusou resumo de IA antigo (TTL vencido) em vez de RSS
+  fallback: number; // sem IA e sem cache → descrição crua do RSS
+};
 
 export type SummarizeResult = {
   summaries: Map<string, Summary>; // clusterId → resumo
@@ -173,6 +188,11 @@ const THROTTLE_MS = Number(process.env.GEMINI_THROTTLE_MS ?? 6000);
 // Após N falhas de quota (429) seguidas, desiste da IA no resto do run (fallback
 // rápido) — evita um run eterno quando a cota do dia acabou.
 const QUOTA_BREAKER = 4;
+// Idade máxima de um resumo cacheado p/ servir SEM re-chamar a IA. Dentro do TTL,
+// a história é um cache hit; vencido, tenta refrescar (cota permitindo) e, se a IA
+// estiver fora, reusa o resumo antigo mesmo assim (melhor que RSS cru).
+const TTL_HOURS = Number(process.env.SUMMARY_TTL_HOURS ?? 24);
+const hoursSince = (iso: string, now: Date) => (now.getTime() - Date.parse(iso)) / 3_600_000;
 
 export async function summarizeClusters(
   clusters: Cluster[],
@@ -183,7 +203,7 @@ export async function summarizeClusters(
 ): Promise<SummarizeResult> {
   const summaries = new Map<string, Summary>();
   const nextCache: Record<string, CachedSummary> = { ...cache };
-  const stats: SummarizeStats = { fromCache: 0, generated: 0, fallback: 0 };
+  const stats: SummarizeStats = { fromCache: 0, generated: 0, staleCache: 0, fallback: 0 };
 
   let iaCalls = 0;
   let quotaFails = 0;
@@ -192,13 +212,16 @@ export async function summarizeClusters(
   for (const cluster of clusters) {
     const key = cacheKey(cluster);
     const cached = nextCache[key];
-    if (cached) {
+
+    // Cache hit fresco (dentro do TTL): reusa sem chamar a IA.
+    if (cached && hoursSince(cached.cachedAt, now) <= TTL_HOURS) {
       const { cachedAt: _cachedAt, ...summary } = cached;
       summaries.set(cluster.id, summary);
       stats.fromCache++;
       continue;
     }
 
+    // Sem cache fresco: tenta a IA (refresca o resumo vencido ou cria um novo).
     if (summarizer && !breakerOpen) {
       if (iaCalls > 0 && throttleMs > 0) await sleep(throttleMs);
       iaCalls++;
@@ -221,7 +244,17 @@ export async function summarizeClusters(
       }
     }
 
-    // Fallback NÃO é cacheado: assim o próximo run tenta a IA de novo.
+    // IA fora e existe um resumo antigo (TTL vencido): mostra o resumo de IA
+    // anterior em vez de regredir pra descrição crua do RSS. cachedAt fica como
+    // está, então o próximo run tenta refrescá-lo de novo.
+    if (cached) {
+      const { cachedAt: _cachedAt, ...summary } = cached;
+      summaries.set(cluster.id, summary);
+      stats.staleCache++;
+      continue;
+    }
+
+    // Nada em cache: fallback. NÃO é cacheado — o próximo run tenta a IA de novo.
     summaries.set(cluster.id, fallbackSummary(cluster));
     stats.fallback++;
   }

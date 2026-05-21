@@ -43,7 +43,9 @@ async function main(): Promise<void> {
   const state = await readState(DATA_DIR);
   const summarizer = summarizerFromEnv();
   const { summaries, cache, stats } = await summarizeClusters(toSummarize, summarizer, state.summaries, now);
-  console.log(`resumos: cache=${stats.fromCache} IA=${stats.generated} fallback=${stats.fallback}`);
+  console.log(
+    `resumos: cache=${stats.fromCache} IA=${stats.generated} reuso=${stats.staleCache} fallback=${stats.fallback}`,
+  );
 
   // 5. montagem
   const edition = buildEdition({ home, categorias }, summaries, now);
