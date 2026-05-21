@@ -2,20 +2,20 @@
 import type { Story } from '../lib/types';
 import { CATEGORY_LABELS, isCategory } from '../lib/categories';
 import { formatDateTime } from '../lib/format';
+import { storySlug } from '../lib/story';
 
 interface Props {
   story: Story;
   featured?: boolean;
-  editionDate: string;
 }
 
-const { story, featured = false, editionDate } = Astro.props;
+const { story, featured = false } = Astro.props;
 const primary = story.sources[0];
 const badge = isCategory(story.category) ? CATEGORY_LABELS[story.category] : null;
 const when = formatDateTime(story.updatedAt);
-// Link estável da notícia: âncora no permalink congelado da edição do dia (não
-// quebra quando a história sai da home). Usado pelo botão de compartilhar.
-const shareUrl = new URL(`/edicao/${editionDate}/#${story.clusterId}`, Astro.site!).href;
+// Link estável da notícia: a página própria dela (/noticia/<slug>), que carrega
+// o og:image da própria história — compartilhamento vai com a foto certa.
+const shareUrl = new URL(`/noticia/${storySlug(story)}`, Astro.site!).href;
 ---
 
 <article id={story.clusterId} class="scroll-mt-28 border-b border-neutral-200 py-5 dark:border-neutral-800">

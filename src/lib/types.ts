@@ -41,7 +41,8 @@ export type Summary = {
 
 // História renderizável no site (pipeline/build-data.ts → data/*.json).
 export type Story = {
-  clusterId: string;
+  clusterId: string; // âncora interna (id do cluster; muda entre runs)
+  slug?: string; // id ESTÁVEL p/ a URL /noticia/<slug> (hash da URL do artigo-âncora)
   titulo: string;
   resumo: string;
   porQueImporta: string;

@@ -44,6 +44,15 @@ describe('toStory', () => {
     ]);
     expect(story.imageUrl).toBe('https://img/x.jpg');
   });
+
+  it('gera um slug estável que não muda quando entra um novo membro na história', () => {
+    const seed = article('https://a.com/1', 'G1'); // o mais antigo = âncora
+    const newer = { ...article('https://c.com/3', 'Veja'), publishedAt: '2026-05-20T13:00:00.000Z' };
+    const so = toStory(cluster('c1', [seed]), SUMMARY);
+    const sn = toStory(cluster('c1-grande', [seed, newer]), SUMMARY);
+    expect(so.slug).toBeTruthy();
+    expect(so.slug).toBe(sn.slug); // mesma âncora → mesmo slug → mesma URL /noticia/<slug>
+  });
 });
 
 describe('buildEdition', () => {

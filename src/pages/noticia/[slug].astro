@@ -1,0 +1,84 @@
+---
+// Página própria de cada história: carrega o og:image/título/descrição DELA, então
+// o compartilhamento (e o preview no WhatsApp/redes) vai com a foto certa. URL
+// estável (/noticia/<slug>) que não muda quando a história sai da home → bom p/ SEO.
+import Layout from '../../layouts/Layout.astro';
+import { currentEdition, editions } from '../../lib/data';
+import { storySlug } from '../../lib/story';
+import { CATEGORY_LABELS, isCategory } from '../../lib/categories';
+import { formatDateTime } from '../../lib/format';
+import type { Story } from '../../lib/types';
+
+export function getStaticPaths() {
+  // Uma página por história, deduplicada por slug (a mais recente vence).
+  const seen = new Map<string, Story>();
+  for (const ed of [currentEdition, ...editions]) {
+    const stories = [...ed.home, ...Object.values(ed.categorias).flat()];
+    for (const s of stories) {
+      const slug = storySlug(s);
+      if (!seen.has(slug)) seen.set(slug, s);
+    }
+  }
+  return [...seen].map(([slug, story]) => ({ params: { slug }, props: { story } }));
+}
+
+const { story } = Astro.props as { story: Story };
+const badge = isCategory(story.category) ? CATEGORY_LABELS[story.category] : null;
+const when = formatDateTime(story.updatedAt);
+const description = story.resumo.length > 200 ? `${story.resumo.slice(0, 197)}…` : story.resumo;
+---
+
+<Layout title={story.titulo} description={description} image={story.imageUrl} ogType="article">
+  <article>
+    <p class="text-sm text-sky-700 dark:text-sky-400"><a href="/" class="hover:underline">← todas as notícias</a></p>
+
+    <div class="mt-4 flex items-center gap-2 text-xs">
+      {badge && <a href={`/${story.category}`} class="font-medium uppercase tracking-wide text-sky-700 hover:underline dark:text-sky-400">{badge}</a>}
+      {when && <time class="text-neutral-500" datetime={story.updatedAt}>{when}</time>}
+    </div>
+
+    <h1 class="mt-2 font-serif text-2xl font-bold leading-tight sm:text-3xl">{story.titulo}</h1>
+
+    {
+      story.imageUrl && (
+        <img
+          src={story.imageUrl}
+          alt=""
+          loading="lazy"
+          decoding="async"
+          referrerpolicy="no-referrer"
+          onerror="this.remove()"
+          class="mt-4 aspect-video w-full rounded-lg object-cover"
+        />
+      )
+    }
+
+    <p class="mt-4 text-base text-neutral-700 dark:text-neutral-300">{story.resumo}</p>
+
+    {
+      story.porQueImporta && (
+        <p class="mt-4 border-l-2 border-sky-500 pl-3 text-sm text-neutral-600 dark:text-neutral-400">
+          <span class="font-semibold text-neutral-800 dark:text-neutral-200">Por que importa:</span> {story.porQueImporta}
+        </p>
+      )
+    }
+
+    <div class="mt-6 border-t border-neutral-200 pt-4 dark:border-neutral-800">
+      <p class="text-xs text-neutral-400">Leia nas fontes:</p>
+      <div class="mt-2 flex flex-wrap items-center gap-2 text-sm">
+        {
+          story.sources.map((s) => (
+            <a
+              href={s.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="rounded-full bg-neutral-100 px-3 py-1 text-neutral-700 hover:bg-neutral-200 hover:text-neutral-900 dark:bg-neutral-800 dark:text-neutral-300 dark:hover:bg-neutral-700"
+            >
+              {s.name} ↗
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </article>
+</Layout>

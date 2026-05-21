@@ -6,7 +6,7 @@ import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import type { Cluster, Edition, State, Story, Summary, CachedSummary } from '../src/lib/types';
 import { CATEGORIES, type Category } from '../src/lib/categories';
-import { fallbackSummary } from './summarize';
+import { cacheKey, fallbackSummary } from './summarize';
 
 const CACHE_WINDOW_HOURS = 72;
 
@@ -36,6 +36,7 @@ function storySources(cluster: Cluster): { name: string; url: string }[] {
 export function toStory(cluster: Cluster, summary: Summary): Story {
   const story: Story = {
     clusterId: cluster.id,
+    slug: cacheKey(cluster), // estável entre runs (hash do artigo-âncora) → URL fixa
     titulo: summary.titulo,
     resumo: summary.resumo,
     porQueImporta: summary.porQueImporta,
