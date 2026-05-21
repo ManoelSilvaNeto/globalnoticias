@@ -21,6 +21,6 @@ const ogImage = stories.find((s) => s.imageUrl)?.imageUrl;
 <Layout title={label} description={description} image={ogImage} jsonLd={jsonLd}>
   <h1 class="border-b-2 border-neutral-900 pb-1 font-serif text-2xl font-bold dark:border-neutral-100">{label}</h1>
   <div class="mt-2">
-    <StoryList stories={stories} />
+    <StoryList stories={stories} editionDate={currentEdition.date} />
   </div>
 </Layout>

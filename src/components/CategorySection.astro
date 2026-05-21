@@ -8,9 +8,10 @@ interface Props {
   category: Category;
   stories: Story[];
   limit?: number;
+  editionDate: string;
 }
 
-const { category, stories, limit = 4 } = Astro.props;
+const { category, stories, limit = 4, editionDate } = Astro.props;
 const shown = stories.slice(0, limit);
 ---
 
@@ -21,7 +22,7 @@ const shown = stories.slice(0, limit);
         <h2 class="font-serif text-xl font-bold">{CATEGORY_LABELS[category]}</h2>
         <a href={`/${category}`} class="text-sm text-sky-700 hover:underline dark:text-sky-400">ver tudo →</a>
       </div>
-      {shown.map((story) => <StoryCard story={story} />)}
+      {shown.map((story) => <StoryCard story={story} editionDate={editionDate} />)}
     </section>
   )
 }

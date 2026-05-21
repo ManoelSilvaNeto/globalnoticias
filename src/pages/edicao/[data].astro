@@ -27,8 +27,8 @@ const ogImage = edition.home.find((s) => s.imageUrl)?.imageUrl;
 
   <section class="mt-6">
     <h2 class="sr-only">Principais notícias</h2>
-    <StoryList stories={edition.home} featureFirst />
+    <StoryList stories={edition.home} featureFirst editionDate={edition.date} />
   </section>
 
-  {CATEGORIES.map((cat) => <CategorySection category={cat} stories={edition.categorias[cat]} />)}
+  {CATEGORIES.map((cat) => <CategorySection category={cat} stories={edition.categorias[cat]} editionDate={edition.date} />)}
 </Layout>
