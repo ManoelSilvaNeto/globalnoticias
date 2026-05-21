@@ -15,7 +15,7 @@ const badge = isCategory(story.category) ? CATEGORY_LABELS[story.category] : nul
 const when = formatDateTime(story.updatedAt);
 // Link estável da notícia: a página própria dela (/noticia/<slug>), que carrega
 // o og:image da própria história — compartilhamento vai com a foto certa.
-const shareUrl = new URL(`/noticia/${storySlug(story)}`, Astro.site!).href;
+const shareUrl = new URL(`/noticia/${storySlug(story)}/`, Astro.site!).href;
 ---
 
 <article id={story.clusterId} class="scroll-mt-28 border-b border-neutral-200 py-5 dark:border-neutral-800">
