@@ -1,0 +1,17 @@
+---
+// Cloudflare Web Analytics — mede visitas/pageviews sem cookie, sem PII (LGPD ok).
+// O token abaixo é PÚBLICO por natureza (vai no HTML de todo mundo), igual à tag
+// de verificação do Google no Layout. Pegue em:
+//   Cloudflare → Analytics & Logs → Web Analytics → Add a site
+//   → site: noticias.globalnote.com.br → copie o "token" do snippet.
+// Enquanto estiver vazio, o beacon não é emitido (build local/preview não conta acesso).
+const TOKEN = 'f7e894773703483a8b8e94e71fa7cfb9';
+---
+{TOKEN && (
+  <script
+    is:inline
+    defer
+    src="https://static.cloudflareinsights.com/beacon.min.js"
+    data-cf-beacon={JSON.stringify({ token: TOKEN })}
+  />
+)}
