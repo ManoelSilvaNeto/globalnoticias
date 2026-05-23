@@ -21,10 +21,13 @@ const ogImage = edition.home.find((s) => s.imageUrl)?.imageUrl;
 ---
 
 <Layout image={ogImage} jsonLd={jsonLd}>
-  <header>
-    <h1 class="font-serif text-3xl font-bold tracking-tight">{SITE.name}</h1>
-    <p class="mt-1 text-neutral-600 dark:text-neutral-400">{SITE.tagline}</p>
-    {filled && <p class="mt-1 text-sm text-neutral-500">Edição de {formatDateFull(edition.date)}</p>}
+  <header class="flex items-center gap-4">
+    <img src="/logo.png" alt="" width="64" height="64" class="h-14 w-14 shrink-0 sm:h-16 sm:w-16" />
+    <div>
+      <h1 class="font-serif text-3xl font-bold tracking-tight">{SITE.name}</h1>
+      <p class="mt-1 text-neutral-600 dark:text-neutral-400">{SITE.tagline}</p>
+      {filled && <p class="mt-1 text-sm text-neutral-500">Edição de {formatDateFull(edition.date)}</p>}
+    </div>
   </header>
 
   {
