@@ -52,7 +52,7 @@ export function newsArticleJsonLd(
       '@type': 'Organization',
       name: SITE.name,
       url: siteUrl,
-      logo: { '@type': 'ImageObject', url: `${siteUrl}/favicon.svg` },
+      logo: { '@type': 'ImageObject', url: `${siteUrl}/logo.png` },
     },
     citation: story.sources.map((s) => ({ '@type': 'CreativeWork', name: s.name, url: s.url })),
     isBasedOn: story.sources.map((s) => s.url),
