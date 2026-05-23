@@ -11,9 +11,10 @@ interface Props {
   jsonLd?: Record<string, unknown>[];
   ogType?: string;
   image?: string;
+  noindex?: boolean;
 }
 
-const { title, description = SITE.description, jsonLd = [], ogType = 'website', image } = Astro.props;
+const { title, description = SITE.description, jsonLd = [], ogType = 'website', image, noindex = false } = Astro.props;
 const fullTitle = title ? `${title} — ${SITE.name}` : `${SITE.name} — ${SITE.tagline}`;
 const canonical = new URL(Astro.url.pathname, Astro.site!).href;
 // Imagem do preview social (foto da matéria de destaque). Absoluta — resolve
@@ -30,7 +31,7 @@ const ogImage = image ? new URL(image, Astro.site!).href : undefined;
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
-    <meta name="robots" content="index, follow" />
+    <meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow'} />
     <meta name="google-site-verification" content="Wnfp1BNuxtOj3Mev6_MbWboryw7Nbj2HKlEL1Fa-Ze8" />
     <Analytics />
     <link rel="alternate" type="application/rss+xml" title={SITE.name} href="/rss.xml" />

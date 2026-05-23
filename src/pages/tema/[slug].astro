@@ -1,0 +1,42 @@
+---
+// Página-tema âncora: junta toda a cobertura de um assunto recorrente. Evergreen,
+// boa p/ SEO (ver src/lib/topics.ts p/ as travas anti-página-fina).
+import Layout from '../../layouts/Layout.astro';
+import StoryList from '../../components/StoryList.astro';
+import { topics, type Topic } from '../../lib/topics';
+import { itemListJsonLd, breadcrumbJsonLd } from '../../lib/seo';
+
+export function getStaticPaths() {
+  return topics.map((t) => ({ params: { slug: t.slug }, props: { topic: t } }));
+}
+
+const { topic } = Astro.props as { topic: Topic };
+const pageUrl = new URL(Astro.url.pathname, Astro.site!).href;
+const siteUrl = new URL('/', Astro.site!).href.replace(/\/$/, '');
+const description = `Tudo sobre ${topic.label}: ${topic.stories.length} notícias resumidas e organizadas, com link para as fontes originais.`;
+const ogImage = topic.stories.find((s) => s.imageUrl)?.imageUrl;
+const jsonLd = [
+  itemListJsonLd(topic.stories, pageUrl),
+  breadcrumbJsonLd([
+    { name: 'Início', url: `${siteUrl}/` },
+    { name: topic.label, url: pageUrl },
+  ]),
+];
+---
+
+<Layout
+  title={`${topic.label} — todas as notícias`}
+  description={description}
+  image={ogImage}
+  jsonLd={jsonLd}
+  noindex={!topic.indexable}
+>
+  <p class="text-sm text-sky-700 dark:text-sky-400"><a href="/" class="hover:underline">← todas as notícias</a></p>
+  <h1 class="mt-3 border-b-2 border-neutral-900 pb-1 font-serif text-2xl font-bold dark:border-neutral-100">
+    {topic.label}
+  </h1>
+  <p class="mt-2 text-sm text-neutral-500">{topic.stories.length} notícias sobre este tema</p>
+  <div class="mt-2">
+    <StoryList stories={topic.stories} />
+  </div>
+</Layout>

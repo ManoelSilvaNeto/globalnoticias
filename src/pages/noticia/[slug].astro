@@ -3,32 +3,40 @@
 // o compartilhamento (e o preview no WhatsApp/redes) vai com a foto certa. URL
 // estável (/noticia/<slug>) que não muda quando a história sai da home → bom p/ SEO.
 import Layout from '../../layouts/Layout.astro';
-import { currentEdition, editions } from '../../lib/data';
+import StoryList from '../../components/StoryList.astro';
+import { allStories, relatedStories } from '../../lib/data';
 import { storySlug } from '../../lib/story';
+import { topicsForStory } from '../../lib/topics';
 import { CATEGORY_LABELS, isCategory } from '../../lib/categories';
 import { formatDateTime } from '../../lib/format';
+import { newsArticleJsonLd, breadcrumbJsonLd } from '../../lib/seo';
 import type { Story } from '../../lib/types';
 
 export function getStaticPaths() {
-  // Uma página por história, deduplicada por slug (a mais recente vence).
-  const seen = new Map<string, Story>();
-  for (const ed of [currentEdition, ...editions]) {
-    const stories = [...ed.home, ...Object.values(ed.categorias).flat()];
-    for (const s of stories) {
-      const slug = storySlug(s);
-      if (!seen.has(slug)) seen.set(slug, s);
-    }
-  }
-  return [...seen].map(([slug, story]) => ({ params: { slug }, props: { story } }));
+  // Uma página por história (catálogo único já deduplicado por slug estável).
+  return allStories.map((story) => ({ params: { slug: storySlug(story) }, props: { story } }));
 }
 
 const { story } = Astro.props as { story: Story };
 const badge = isCategory(story.category) ? CATEGORY_LABELS[story.category] : null;
 const when = formatDateTime(story.updatedAt);
 const description = story.resumo.length > 200 ? `${story.resumo.slice(0, 197)}…` : story.resumo;
+
+const pageUrl = new URL(Astro.url.pathname, Astro.site!).href;
+const siteUrl = new URL('/', Astro.site!).href.replace(/\/$/, '');
+const related = relatedStories(story);
+const storyTopics = topicsForStory(story);
+const jsonLd = [
+  newsArticleJsonLd(story, pageUrl, siteUrl),
+  breadcrumbJsonLd([
+    { name: 'Início', url: `${siteUrl}/` },
+    ...(badge ? [{ name: badge, url: `${siteUrl}/${story.category}/` }] : []),
+    { name: story.titulo, url: pageUrl },
+  ]),
+];
 ---
 
-<Layout title={story.titulo} description={description} image={story.imageUrl} ogType="article">
+<Layout title={story.titulo} description={description} image={story.imageUrl} ogType="article" jsonLd={jsonLd}>
   <article>
     <p class="text-sm text-sky-700 dark:text-sky-400"><a href="/" class="hover:underline">← todas as notícias</a></p>
 
@@ -79,6 +87,35 @@ const description = story.resumo.length > 200 ? `${story.resumo.slice(0, 197)}�
           ))
         }
       </div>
+
+      {
+        storyTopics.length > 0 && (
+          <div class="mt-5">
+            <p class="text-xs text-neutral-400">Temas:</p>
+            <div class="mt-2 flex flex-wrap items-center gap-2 text-sm">
+              {storyTopics.map((t) => (
+                <a
+                  href={`/tema/${t.slug}/`}
+                  class="rounded-full border border-sky-200 px-3 py-1 text-sky-700 hover:bg-sky-50 dark:border-sky-900 dark:text-sky-400 dark:hover:bg-sky-950"
+                >
+                  #{t.label}
+                </a>
+              ))}
+            </div>
+          </div>
+        )
+      }
     </div>
+
+    {
+      related.length > 0 && (
+        <section class="mt-10 border-t border-neutral-200 pt-6 dark:border-neutral-800">
+          <h2 class="font-serif text-lg font-bold">Leia também</h2>
+          <div class="mt-2">
+            <StoryList stories={related} />
+          </div>
+        </section>
+      )
+    }
   </article>
 </Layout>

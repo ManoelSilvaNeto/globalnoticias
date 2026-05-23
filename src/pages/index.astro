@@ -5,12 +5,14 @@ import CategorySection from '../components/CategorySection.astro';
 import AdSlot from '../components/AdSlot.astro';
 import { currentEdition, hasContent } from '../lib/data';
 import { CATEGORIES } from '../lib/categories';
+import { topics } from '../lib/topics';
 import { formatDateFull } from '../lib/format';
 import { SITE } from '../lib/site';
 import { itemListJsonLd, websiteJsonLd } from '../lib/seo';
 
 const edition = currentEdition;
 const filled = hasContent(edition);
+const hotTopics = topics.filter((t) => t.indexable).slice(0, 24);
 const siteUrl = new URL('/', Astro.site!).href;
 const pageUrl = new URL(Astro.url.pathname, Astro.site!).href;
 const jsonLd = [websiteJsonLd(siteUrl), itemListJsonLd(edition.home, pageUrl)];
@@ -37,6 +39,24 @@ const ogImage = edition.home.find((s) => s.imageUrl)?.imageUrl;
         <AdSlot />
 
         {CATEGORIES.map((cat) => <CategorySection category={cat} stories={edition.categorias[cat]} />)}
+
+        {
+          hotTopics.length > 0 && (
+            <section class="mt-10 border-t border-neutral-200 pt-6 dark:border-neutral-800">
+              <h2 class="font-serif text-lg font-bold">Temas em alta</h2>
+              <div class="mt-3 flex flex-wrap gap-2 text-sm">
+                {hotTopics.map((t) => (
+                  <a
+                    href={`/tema/${t.slug}/`}
+                    class="rounded-full border border-neutral-200 px-3 py-1 text-neutral-700 hover:border-sky-300 hover:text-sky-700 dark:border-neutral-700 dark:text-neutral-300 dark:hover:text-sky-400"
+                  >
+                    {t.label}
+                  </a>
+                ))}
+              </div>
+            </section>
+          )
+        }
       </>
     )
   }

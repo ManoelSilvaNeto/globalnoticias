@@ -28,3 +28,47 @@ export function itemListJsonLd(stories: Story[], pageUrl: string): Record<string
     })),
   };
 }
+
+// Marca a página de uma história como NewsArticle. Honesto: o resumo É original
+// (escrito pela IA, neutro), então autoria/publisher = a Organização; as matérias
+// originais entram como `citation`/`isBasedOn`. Habilita elegibilidade a Top Stories.
+export function newsArticleJsonLd(
+  story: Story,
+  pageUrl: string,
+  siteUrl: string,
+): Record<string, unknown> {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'NewsArticle',
+    headline: story.titulo.slice(0, 110), // Google ignora headline > 110 chars
+    description: story.resumo,
+    datePublished: story.updatedAt,
+    dateModified: story.updatedAt,
+    ...(story.imageUrl ? { image: [story.imageUrl] } : {}),
+    url: pageUrl,
+    mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+    author: { '@type': 'Organization', name: SITE.name, url: siteUrl },
+    publisher: {
+      '@type': 'Organization',
+      name: SITE.name,
+      url: siteUrl,
+      logo: { '@type': 'ImageObject', url: `${siteUrl}/favicon.svg` },
+    },
+    citation: story.sources.map((s) => ({ '@type': 'CreativeWork', name: s.name, url: s.url })),
+    isBasedOn: story.sources.map((s) => s.url),
+  };
+}
+
+// Trilha de navegação (Home › Categoria › Notícia) — rich result + contexto p/ o robô.
+export function breadcrumbJsonLd(items: { name: string; url: string }[]): Record<string, unknown> {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: items.map((it, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: it.name,
+      item: it.url,
+    })),
+  };
+}
