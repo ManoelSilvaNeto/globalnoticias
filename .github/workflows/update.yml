@@ -91,6 +91,8 @@ jobs:
 
       - name: Commitar estado social (se mudou)
         if: ${{ env.CLOUDFLARE_API_TOKEN != '' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "globalnoticias-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -99,5 +101,6 @@ jobs:
           else
             git add data/social.json
             git commit -m "social: estado de divulgação $(date -u +%FT%TZ) [skip ci]"
-            git push
+            # push com token explícito: o 2º push do job não herda a credencial do checkout
+            git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main
           fi
