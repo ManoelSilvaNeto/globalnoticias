@@ -1,15 +1,23 @@
 {
   "date": "2026-05-23",
-  "generatedAt": "2026-05-23T13:27:36.954Z",
+  "generatedAt": "2026-05-23T14:59:49.696Z",
   "home": [
     {
-      "clusterId": "e29c27281ad76af6",
+      "clusterId": "ac169f6de0a8dd7c",
       "slug": "06585e011be183ff",
       "titulo": "Pesquisa Datafolha, Ações Governamentais e Movimentações Políticas Recentes",
       "resumo": "Uma pesquisa Datafolha recente indicou que 38% dos entrevistados consideram o governo Lula ruim ou péssimo, enquanto 32% o avaliam como ótimo ou bom. Em relação a ações governamentais, houve uma redução de 11% nos gastos com a Defesa nos primeiros três anos da gestão, e o governo recuou de uma proposta mais rígida para combater o comércio de celulares roubados. Além disso, um programa de crédito para motoristas de aplicativo e táxi não deve alterar votos, e o presidente Lula visitou o Rio de Janeiro com foco na saúde. Paralelamente, o senador Flávio Bolsonaro viajou aos EUA em busca de uma agenda positiva em meio a uma crise política.",
       "porQueImporta": "Esses fatos refletem a percepção pública da gestão atual, as prioridades orçamentárias e as estratégias políticas em andamento.",
       "category": "politica",
       "sources": [
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/datafolha-avaliacao-negativa-do-governo-lula-cai-para-38/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/datafolha-avalicao-negativa-do-governo-lula-e-de-38-positiva-32/"
+        },
         {
           "name": "G1",
           "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/05/23/datafolha-avaliam-governo-lula-como-ruim-ou-pessimo-como-otimo-ou-bom.ghtml"
@@ -27,25 +35,69 @@
           "url": "https://exame.com/brasil/nao-vai-mudar-voto-para-lula-dizem-motoristas-uber-taxi-sobre-programa-governo/"
         },
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/lula-volta-ao-rj-com-foco-em-entregas-na-area-da-saude/"
-        },
-        {
           "name": "Canaltech",
           "url": "https://canaltech.com.br/smartphone/governo-explica-por-que-desistiu-de-punir-quem-compra-celular-roubado/"
         }
       ],
-      "updatedAt": "2026-05-23T13:11:25.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/QBTAADThY9r0Z1Ad7FTE89PIyQs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/W/F0udgGRWuBb22CE9aDcA/55195371739-a6083464fd-k.jpg"
+      "updatedAt": "2026-05-23T14:38:52.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/03/lula_reuniao_ministerial.jpg"
     },
     {
-      "clusterId": "df4b23625fada715",
-      "slug": "53d1a61ef63414ca",
-      "titulo": "Pesquisa Datafolha avalia cenário eleitoral e impacto do caso Vorcaro em Flávio Bolsonaro",
-      "resumo": "Uma pesquisa Datafolha, realizada após a divulgação de conversas entre o senador Flávio Bolsonaro e o banqueiro Daniel Vorcaro, revelou que 48% dos eleitores acreditam que o senador deveria desistir de uma candidatura presidencial, enquanto 44% defendem que ele a mantenha. Entre os próprios eleitores de Flávio Bolsonaro, 88% apoiam sua candidatura. O levantamento também apontou que o presidente Lula tem 40% das intenções de voto no primeiro turno, contra 31% de Flávio Bolsonaro, e 47% contra 43% em um eventual segundo turno. A taxa de rejeição de Flávio Bolsonaro alcançou 46%, superando a de Lula, que ficou em 45%.",
-      "porQueImporta": "Os dados da pesquisa indicam um impacto nas intenções de voto e na percepção pública sobre Flávio Bolsonaro, influenciando o panorama para as eleições presidenciais de 2026.",
+      "clusterId": "c2722f995af0f283",
+      "slug": "f7f774919525e409",
+      "titulo": "Surto de Ebola na República Democrática do Congo e Uganda leva OMS a declarar emergência internacional",
+      "resumo": "Um novo surto de Ebola, causado pela variante Bundibugyo, foi identificado na província de Ituri, na República Democrática do Congo, em 15 de maio. O vírus se espalhou rapidamente para Kampala, Uganda, levando a Organização Mundial da Saúde (OMS) a declarar, em 17 de maio, uma emergência de saúde pública de preocupação internacional e a elevar o risco do surto para \"muito alto\". Até 19 de maio, foram registrados 536 casos suspeitos e 105 prováveis, e a variante Bundibugyo, que mata cerca de um terço dos infectados, ainda não possui um imunizante com eficácia comprovada, embora uma vacina britânica possa estar pronta para testes em meses.",
+      "porQueImporta": "A declaração de emergência internacional pela OMS e a ausência de uma vacina eficaz para a variante Bundibugyo destacam a gravidade da situação.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-saude/ebola-entenda-causa-de-surtos-na-africa/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/novos-casos-de-ebola-em-uganda-acendem-alerta-da-oms"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/saude/noticia/2026/05/23/uganda-confirma-novos-casos-de-ebola.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/mundo/uganda-confirma-novos-casos-de-ebola/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/uganda-confirma-tres-novos-casos-de-ebola-em-meio-a-surto-em-pais-vizinho/"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cx21rq97597o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Drauzio Varella",
+          "url": "https://drauziovarella.uol.com.br/infectologia/surto-de-ebola-na-republica-democratica-do-congo-qual-o-risco-para-o-brasil/"
+        }
+      ],
+      "updatedAt": "2026-05-23T14:30:25.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/05/gettyimages-2277182933.jpg"
+    },
+    {
+      "clusterId": "8d97a0ea8f538a9e",
+      "slug": "f6d6dc9b973de235",
+      "titulo": "Pesquisa Datafolha avalia percepções sobre Flávio Bolsonaro após caso Vorcaro",
+      "resumo": "Uma pesquisa Datafolha, realizada após a divulgação de conversas entre o senador Flávio Bolsonaro e o banqueiro Daniel Vorcaro, indicou que 88% dos eleitores do senador desejam que ele mantenha sua candidatura. Contudo, 64% do eleitorado geral consideram que Flávio agiu de forma inadequada ao pedir dinheiro a Vorcaro, e 48% defendem que ele desista da disputa presidencial. O levantamento também apontou que a rejeição a Flávio Bolsonaro atingiu 46%, superando a do presidente Lula, e que Lula ampliou sua vantagem em cenários de primeiro e segundo turno.",
+      "porQueImporta": "Os resultados da pesquisa refletem o impacto do caso 'Dark Horse' na imagem e nas intenções de voto de Flávio Bolsonaro para as eleições de 2026.",
       "category": "politica",
       "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes/88-dos-eleitores-querem-que-flavio-siga-na-disputa-diz-datafolha/"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/datafolha-88-dos-eleitores-de-flavio-defendem-candidatura-mesmo-apos-audios/"
+        },
         {
           "name": "CartaCapital",
           "url": "https://www.cartacapital.com.br/politica/datafolha-88-dos-eleitores-de-flavio-querem-senador-na-disputa-a-presidencia-apesar-do-escandalo-vorcaro-dark-horse/"
@@ -67,220 +119,211 @@
           "url": "https://super.abril.com.br/cultura/teste-este-filme-custou-mais-do-que-dark-horse-a-biografia-de-bolsonaro/"
         }
       ],
-      "updatedAt": "2026-05-23T13:22:37.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/03/flavio-bolsonaro-avenida-paulista-reproducao.jpeg"
+      "updatedAt": "2026-05-23T14:29:37.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-14T215009Z_865536769_RC2W7LAGCJVO_RTRMADP_3_BRAZIL-ELECTION-BOLSONARO-FILM_b0db1c.jpg?fit=300%2C212&amp;quality=70&amp;strip=all"
     },
     {
-      "clusterId": "31e749761d93ded8",
-      "slug": "f7f774919525e409",
-      "titulo": "Surto de Ebola na República Democrática do Congo e Uganda leva OMS a declarar emergência internacional",
-      "resumo": "Um novo surto de Ebola, causado pela variante Bundibugyo, foi identificado na província de Ituri, na República Democrática do Congo, em 15 de maio. O vírus se espalhou rapidamente para Kampala, Uganda, levando a Organização Mundial da Saúde (OMS) a declarar, em 17 de maio, uma emergência de saúde pública de preocupação internacional e a elevar o risco do surto para \"muito alto\". Até 19 de maio, foram registrados 536 casos suspeitos e 105 prováveis, e a variante Bundibugyo, que mata cerca de um terço dos infectados, ainda não possui um imunizante com eficácia comprovada, embora uma vacina britânica possa estar pronta para testes em meses.",
-      "porQueImporta": "A declaração de emergência internacional pela OMS e a ausência de uma vacina eficaz para a variante Bundibugyo destacam a gravidade da situação.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-saude/variante-do-ebola-nao-tem-vacina-e-corre-risco-de-disseminacao-regional/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/saude/noticia/2026/05/23/uganda-confirma-novos-casos-de-ebola.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/uganda-confirma-tres-novos-casos-de-ebola-em-meio-a-surto-em-pais-vizinho/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cx21rq97597o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Drauzio Varella",
-          "url": "https://drauziovarella.uol.com.br/infectologia/surto-de-ebola-na-republica-democratica-do-congo-qual-o-risco-para-o-brasil/"
-        }
-      ],
-      "updatedAt": "2026-05-23T13:00:11.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/HLypst9co3ocRatdJT5veYCWbv8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/i/OAUiXiR7CG2rI4G4RyjA/afp-20260518-b38c7k7-v2-highres-topshotugandadrcongohealthvirusebola-1-.jpg"
-    },
-    {
-      "clusterId": "a94d50ed2ef290a7",
-      "slug": "310605a8baa0191a",
-      "titulo": "STF tem dois votos para manter prisões de pai e primo de Daniel Vorcaro",
-      "resumo": "A Segunda Turma do Supremo Tribunal Federal (STF) registrou dois votos pela manutenção das prisões de Henrique Vorcaro, pai, e Felipe Cançado Vorcaro, primo do banqueiro Daniel Vorcaro. Os ministros André Mendonça, relator do caso, e Luiz Fux votaram a favor da continuidade das detenções. O julgamento no plenário virtual foi suspenso após o ministro Gilmar Mendes pedir vista, o que pode paralisar a análise por até 90 dias. Felipe Cançado Vorcaro foi preso em maio pela \"Operação Compliance Zero\", sendo apontado pela Polícia Federal como peça central do núcleo financeiro-operacional investigado.",
-      "porQueImporta": "A decisão do STF pode definir o futuro das prisões de investigados em uma operação de grande repercussão.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/stf-tem-dois-votos-para-manter-prisao-de-pai-e-primo-de-vorcaro/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/05/23/stf-tem-2-votos-para-manter-prisoes-de-pai-e-primo-de-vorcaro-gilmar-pediu-vista.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/blog-do-noblat/vorcaro-ganha-privilegios-na-prisao-mas-seu-pai-desaba-em-surtos"
-        }
-      ],
-      "updatedAt": "2026-05-23T13:10:58.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/I5uSHXbVpatQ97IWnWlnyNSGvnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/t/7EmVVERZSg4t2WokIIag/henrique-vorcaro.jpg"
-    },
-    {
-      "clusterId": "403460fe153ef1d1",
-      "slug": "ebc7b1c5687da644",
-      "titulo": "Europa quer ajudar Brasil a depender menos da americana Starlink",
-      "resumo": "A operadora de satélites SES iniciou conversas com o governo brasileiro para trazer a infraestrutura do programa europeu IRIS² ao país. O anúncio ocorreu na última quarta-feira, (20), durante o Painel Telebrasil Summit 2026, em Brasília. Rival da Starlink é autorizada a operar no Brasil; veja como vai funcionar \"Starlink sem antena\" no celular já está em 17 países; Brasil ainda faz planos O projeto da União Europeia surgiu no final de 2024 com o objetivo de construir uma constelação de satélites multi-órbita. A iniciativa faz parte de uma estratégia de soberania digital para diminuir o…",
-      "porQueImporta": "",
-      "category": "tecnologia",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/saude/idosos-demencia-sem-diagnostico"
-        },
-        {
-          "name": "Pesquisa FAPESP",
-          "url": "https://revistapesquisa.fapesp.br/o-brasil-das-montanhas/?utm_source=rss&utm_medium=rss&utm_campaign=o-brasil-das-montanhas"
-        },
-        {
-          "name": "Canaltech",
-          "url": "https://canaltech.com.br/telecom/europa-quer-ajudar-brasil-a-depender-menos-da-americana-starlink/"
-        }
-      ],
-      "updatedAt": "2026-05-23T13:02:27.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/05/demencia-capa.jpg"
-    },
-    {
-      "clusterId": "6ad06a2d9521af6f",
-      "slug": "d29b2ccedffc80ff",
-      "titulo": "São Paulo x Botafogo: onde assistir ao vivo, horário e escalações",
-      "resumo": "São Paulo x Botafogo: informações e palpite para o jogo São Paulo e Botafogo se enfrentam às 17h (de Brasília) deste sábado, no Morumbis, pela 17ª rodada do Campeonato Brasileiro. A partida terá transmissão da Globo, da ge tv, do Premiere, e o ge acompanha tem Tempo Real - clique aqui. O São Paulo volta ao Morumbis depois de dois jogos como mandante no Brasileirão longe de seu estádio. O time precisou atuar em Campinas e em Bragança Paulista por causa dos shows do The Weeknd, mas tem sua casa à disposição novamente neste sábado. + Veja a tabela completa do Campeonato Brasileiro + São Paulo x…",
-      "porQueImporta": "",
+      "clusterId": "47da51fdf5c0492e",
+      "slug": "0f4b6a574e93e586",
+      "titulo": "Agenda esportiva e incidente em concurso de beleza internacional",
+      "resumo": "A programação do dia 23 de maio de 2026 inclui uma vasta agenda de jogos de futebol, com partidas válidas pelas Séries A, B, C e D do Campeonato Brasileiro, além de confrontos de ligas europeias como a LaLiga e a final da Copa da Alemanha, todos com opções de transmissão ao vivo. Em outro evento, a Miss Brasil Joana Camargo se desequilibrou e caiu no palco durante a final do Miss Eco International 2026, no Egito, no momento em que seu nome foi anunciado para o Top 5.",
+      "porQueImporta": "Os eventos esportivos oferecem diversas opções de entretenimento, e o incidente no concurso de beleza atraiu atenção.",
       "category": "esportes",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/em-busca-da-paz-sao-paulo-e-botafogo-duelam-e-querem-estabilidade/"
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml"
         },
         {
           "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/sao-paulo-x-botafogo-no-brasileirao-onde-assistir-ao-vivo-horario-e-escalacoes/"
+          "url": "https://veja.abril.com.br/esporte/vitoria-x-internacional-no-brasileirao-onde-assistir-ao-vivo-horario-e-escalacoes/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/fabia-oliveira/miss-brasil-cai-ao-vivo-na-final-de-concurso-no-egito"
         },
         {
           "name": "GE",
-          "url": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2026/05/23/solucao-para-o-ataque-problema-para-a-defesa-sao-paulo-aproveita-artur-mas-sofre-sem-ferraresi.ghtml"
-        }
-      ],
-      "updatedAt": "2026-05-23T13:00:42.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/04/GettyImages-2173028716.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "b62788fd120c20a7",
-      "slug": "3e29297d4d96bf60",
-      "titulo": "Litoral da Paraíba tem quatro trechos impróprios para banho; veja quais",
-      "resumo": "João Pessoa Praia de João Pessoa Construção Civil de João Pessoa Construção Civil em João Pessoa Kleide Teixeira/Arquivo A Paraíba tem quatro trechos impróprios para banho de acordo com o relatório de balneabilidade divulgado pela Superintendência de Administração do Meio Ambiente (Sudema) nesta sexta-feira (22). Três trechos estão localizados em João Pessoa e um em Pitimbu, no Litoral Sul. ✅ Clique aqui para seguir o canal do g1 PB no WhatsApp O relatório coletou amostras nos períodos de 18 a 21 de maio, e é válido até 29 de maio, data de divulgação do próximo relatório. ⚠️ Segundo o órgão…",
-      "porQueImporta": "",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-economia/bh-e-a-capital-mais-inadimplente-joao-pessoa-tem-a-menor-taxa/"
+          "url": "https://ge.globo.com/sc/futebol/brasileirao-serie-b/noticia/2026/05/23/avai-x-goias-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
         },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/pb/paraiba/noticia/2026/05/23/litoral-da-paraiba-tem-quatro-trechos-improprios-para-banho-veja-quais.ghtml"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/clyddgmmz6jo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-05-23T13:00:26.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/XchgaJ7N1wwhOV3yMY5gQ114m04=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Q/h/A54phySBiogQsVZoTW6A/joao-pessoa-praia-construcao-civil.jpeg"
-    },
-    {
-      "clusterId": "edefe448f843bd73",
-      "slug": "d0b7d7989598e764",
-      "titulo": "Surfista quebra recorde com maior onda surfada por uma mulher no Brasil; veja",
-      "resumo": "Michaela Fregonese surfa maior onda de uma mulher no Brasil - Vídeo: Bred Oliveira A surfista Michaela Fregonese é a dona da maior onda já surfada por uma mulher no Brasil. A ondulação de 12,25 metros foi registrada em 11 de maio, na Laje da Jagua, em Jaguaruna (SC), conhecida como a 'Nazaré Brasileira' (veja vídeo acima). Após uma semana de análise por especialistas, a marca histórica foi confirmada. Havia a expectativa da quebra de recorde geral, porém, a onda de 14,82m, surfada por Lucas Chumbo em 2025, também em Jaguaruna, segue sendo a maior do país. \"Nazaré Brasileira\" pode registrar…",
-      "porQueImporta": "",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/brasil/maior-ladrao-de-obras-do-brasil-pode-ser-o-mandante-do-roubo-a-mario-de-andrade/"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/sc/surfe/noticia/2026/05/23/surfista-quebra-recorde-com-maior-onda-surfada-por-uma-mulher-no-brasil-veja.ghtml"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/sociedade/policia-de-sp-aponta-mandante-de-roubo-a-biblioteca-mario-de-andrade/"
-        }
-      ],
-      "updatedAt": "2026-05-23T13:00:00.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/obras-roubadas.png?fit=271%2C300&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "3f4e8ee4338a9f54",
-      "slug": "217a03057464f082",
-      "titulo": "DC decide expulsar Aldo Rebelo do partido; político diz que aposta em Joaquim Barbosa é 'afronta'",
-      "resumo": "DC decide expulsar Aldo Rebelo do partido O partido Democracia Cristã (DC) decidiu abrir um processo disciplinar que resultará na expulsão do ex-ministro Aldo Rebelo do partido. Rebelo tem questionado na imprensa e nas redes sociais a decisão do partido de trocar o nome dele como pré-candidato à Presidência pelo do ex-ministro do Supremo Tribunal Federal (STF) Joaquim Barbosa. Em nota, a legenda informou que a medida ocorre após ataques do político recém-filiado contra a direção e a presidência nacional da sigla. ➡️ Barbosa integrou a Corte entre 2003 e 2014. O ministro se aposentou…",
-      "porQueImporta": "",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-eleicoes/cidadania-da-aval-para-lancar-aecio-candidato-a-presidencia/"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/dc-faz-video-de-ia-mostrando-joaquim-barbosa-como-pre-candidato-a-presidencia/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/05/22/cidadania-aecio-neves-pre-candidato.ghtml"
-        }
-      ],
-      "updatedAt": "2026-05-23T12:49:19.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/joaquim-barbosa-foto-de-carlos-humberto-stf.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "bea6bef2d9b362a3",
-      "slug": "cf370599bafd7338",
-      "titulo": "Palpite ge 2026: veja as apostas de apresentadores e comentaristas para a 17ª rodada do Brasileirão",
-      "resumo": "Seleção sportv: Quem é melhor entre Flamengo e Palmeiras? Os apresentadores e comentaristas registraram seus palpites para a 17ª rodada do Campeonato Brasileiro. Há duas unanimidades entre os palpiteiros e confrontos equilibrados na disputa. As vitórias de Cruzeiro e Vasco diante de Chapecoense e Bragantino, respectivamente, foram as mais cotadas entre os participantes. Os dois times receberam todos os votos da bancada e surgem como os favoritos da rodada. Flamengo e Palmeiras se reencontram pela primeira vez depois da final da Libertadores de 2025 Divulgação/Conmebol + Veja a classificação e…",
-      "porQueImporta": "",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/cartola/noticia/2026/05/23/dicas-da-cami-influenciadora-acredita-em-favoritismo-do-cruzeiro-na-rodada-17-do-brasileirao.ghtml"
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/05/23/internet-e-redes-sociais/jogos-de-hoje-23-05-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-x-palmeiras-veja-as-provaveis-escalacoes-do-jogo-pelo-brasileirao/"
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/valencia-x-barcelona-horario-e-onde-assistir-ao-jogo-de-laliga/"
+        }
+      ],
+      "updatedAt": "2026-05-23T14:55:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg"
+    },
+    {
+      "clusterId": "1ba5949259cd370a",
+      "slug": "348ed2e7e60b5d16",
+      "titulo": "Entrada dos Palmitos da Festa do Divino de 2026 em Mogi das Cruzes",
+      "resumo": "A Entrada dos Palmitos da Festa do Divino de 2026 foi realizada em Mogi das Cruzes no sábado, 23 de maio. O cortejo, considerado um ponto alto cultural do evento, prosseguiu apesar da chuva, com a participação do público e dos devotos. A celebração é vista como um agradecimento pelas colheitas e pela fartura. Além disso, é um meio de cumprir promessas e preservar a tradição.",
+      "porQueImporta": "O evento representa a continuidade de uma significativa tradição cultural e religiosa na região.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/festa-do-divino/ao-vivo/entrada-dos-palmitos-da-festa-do-divino-de-2026-acontece-neste-sabado-em-mogi-das-cruzes-acompanhe-em-tempo-real.ghtml"
+        },
+        {
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/05/23/ciencia-e-espaco/lua-hoje-confira-a-fase-da-lua-neste-sabado-23-05-2026/"
         },
         {
           "name": "Exame",
-          "url": "https://exame.com/esporte/classico-no-brasileirao-quanto-vale-o-elenco-do-palmeiras/"
+          "url": "https://exame.com/esporte/quem-sao-os-atletas-mais-bem-pagos-do-mundo-confira-o-ranking-de-2026/"
+        },
+        {
+          "name": "Jornal da USP",
+          "url": "https://jornal.usp.br/campus-ribeirao-preto/edicao-de-22-de-maio-de-2026/"
         }
       ],
-      "updatedAt": "2026-05-23T12:41:08.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/Q7Qmyvj3fWg-DEiknicdA_QZcyg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/y/z/LMe6GBT7uAitbbbzsB2g/thumb-cami-2305.jpg"
+      "updatedAt": "2026-05-23T14:33:56.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/_BUNDZkReAC16sJCSQdK4s1kPK8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/l/D0hMEhSferdiDITG4ImQ/capelasantacruz-caue.jpeg"
+    },
+    {
+      "clusterId": "dc2a4eaab703c05b",
+      "slug": "b112e07f09f3f657",
+      "titulo": "Dólar sobe e fecha a R$ 5,02 com tensão EUA-Irã e posse de Warsh no Fed; Ibovespa cai",
+      "resumo": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em alta de 0,55% nesta sexta-feira (22), cotado a R$ 5,0282. O Ibovespa, principal índice da bolsa brasileira, caiu 0,81%, a 176.210 pontos. ▶️ O foco do mercado continuou voltado para a guerra no Oriente Médio. Sem um acordo entre Washington e Teerã para encerrar o conflito, os preços do petróleo voltaram a subir nesta sexta-feira, embora novas declarações tenham aumentado a expectativa de avanço nas negociações. O secretário de Estado dos EUA, Marco Rubio, afirmou que houve “algum progresso” nas conversas com o Irã, mas admitiu…",
+      "porQueImporta": "",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/eua-e-ira-estao-proximos-de-estender-cessar-fogo-por-60-dias-diz-jornal/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/05/23/eua-ou-ira-quem-vencera-o-jogo-de-resistencia-no-estreito-de-ormuz.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/mundo/ira-acusa-eua-de-sabotar-negociacoes-e-ameaca-resposta-devastadora-se-guerra-for-retomada/"
+        }
+      ],
+      "updatedAt": "2026-05-23T14:54:14.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-09T194503Z_1_LYNXMPEM480DO_RTROPTP_4_IRAN-CRISIS-OMAN-HORMUZ.jpg?fit=300%2C197&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "39c184052f6347c4",
+      "slug": "f573286e6db88262",
+      "titulo": "Justiça autoriza R$ 2,5 bilhões em atrasados do INSS para aposentados e pensionistas; veja quem recebe",
+      "resumo": "O Conselho da Justiça Federal (CJF) autorizou na quinta-feira (21) a liberação de R$ 2,5 bilhões para o pagamento de mais de 208 mil pessoas que ganharam ações judiciais de menor valor contra órgãos federais. Os recursos correspondem a 163,4 mil processos protocolados até abril de 2026. 🔎 As chamadas Requisições de Pequeno Valor (RPVs) são pagamentos que o governo federal é obrigado a fazer após perder ações judiciais de até 60 salários mínimos. Todos os meses, o CJF autoriza o repasse de recursos aos Tribunais Regionais Federais (TRFs) para quitar ações já encerradas na Justiça. No caso do…",
+      "porQueImporta": "",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/caso-rumble-justica-dos-eua-autoriza-que-moraes-seja-notificado-por-e-mail/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/justica-dos-eua-autoriza-citacao-de-moraes-por-e-mail-em-acao/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/economia/noticia/2026/05/22/justica-autoriza-r-25-bilhoes-em-atrasados-do-inss-para-aposentados-e-pensionistas-veja-quem-recebe.ghtml"
+        }
+      ],
+      "updatedAt": "2026-05-23T14:25:16.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/54962809122_7a0bd756a5_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "3a8673eb59a159b3",
+      "slug": "76556089b07f336d",
+      "titulo": "Explosão de gás em mina de carvão deixa ao menos 90 mortos na China",
+      "resumo": "Explosão de mina de carvão deixa mortos na China Uma explosão de gás em uma mina de carvão deixou ao menos 90 mortos na província de Shanxi, no norte da China, na noite desta sexta-feira (22). A explosão ocorreu na mina de carvão de Liushenyu, no condado de Qinyuan, com 247 trabalhadores em serviço no subsolo, informou a agência de notícias estatal Xinhua. Nove trabalhadores ainda estão desaparecidos e mais de 120 foram hospitalizados. Esse é o acidente de mineração mais mortal no país ao menos desde 2009. O presidente da China, Xi Jinping, pediu às autoridades que \"não poupem esforços\" nos…",
+      "porQueImporta": "",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/china-abre-investigacao-sobre-explosao-em-mina-que-matou-ao-menos-90"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/explosao-em-mina-de-carvao-na-china-deixa-ao-menos-90-mortos-diz-agencia-estatal/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/05/23/explosao-de-gas-em-mina-de-carvao-deixa-mortos-na-china.ghtml"
+        }
+      ],
+      "updatedAt": "2026-05-23T14:23:02.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/05/china.jpg"
+    },
+    {
+      "clusterId": "6fcd03abc19e53ed",
+      "slug": "56b232fb6f5f5418",
+      "titulo": "Notícias sobre impactos climáticos, recordes do futebol e atletas mais bem pagos",
+      "resumo": "As fontes fornecidas abordam tópicos distintos, incluindo o potencial impacto do fenômeno climático El Niño no agronegócio brasileiro, dados históricos de artilheiros e jogadores mais jovens em Copas do Mundo, e a presença de um atleta brasileiro na lista dos mais bem pagos do mundo.",
+      "porQueImporta": "Os temas cobrem desde projeções econômicas e ambientais até marcos históricos do esporte e finanças de atletas de destaque.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/esportes/cristiano-ronaldo-e-atleta-mais-bem-pago-do-mundo-top-50-tem-so-um-brasileiro/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/05/23/cristiano-ronaldo-e-o-atleta-mais-bem-pago-do-mundo-pelo-quarto-ano-seguido-veja-top-10-e-valores.ghtml"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/economia/negocios/noticia/2026/05/22/brasil-tem-apenas-um-nome-na-lista-de-atletas-mais-bem-pagos-do-mundo-veja-quem-e-e-quanto-ganha.ghtml"
+        }
+      ],
+      "updatedAt": "2026-05-23T13:59:51.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/06/2025-06-04T193907Z_100308004_UP1EL641IL5KO_RTRMADP_3_SOCCER-UEFANATIONS-GER-POR-REPORT.jpg?fit=300%2C217&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "476aa49766a78c69",
+      "slug": "329870542151ec33",
+      "titulo": "Nvidia segue apostando na China – mesmo com restrições dos EUA",
+      "resumo": "CEO Jensen Huang projetou um mercado bilionário para as tecnologias da Nvidia - e isso inclui o mercado chinês O post Nvidia segue apostando na China – mesmo com restrições dos EUA apareceu primeiro em Olhar Digital.",
+      "porQueImporta": "",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/05/23/pro/nvidia-segue-apostando-na-china-mesmo-com-restricoes-dos-eua/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-china/desemprego-na-china-segue-perto-de-recorde-historico/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/mundo/a-nova-queda-de-braco-entre-china-e-eua-livre-comercio-ou-guerra-tarifaria/"
+        }
+      ],
+      "updatedAt": "2026-05-23T13:29:50.000Z"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "e29c27281ad76af6",
+        "clusterId": "ac169f6de0a8dd7c",
         "slug": "06585e011be183ff",
         "titulo": "Pesquisa Datafolha, Ações Governamentais e Movimentações Políticas Recentes",
         "resumo": "Uma pesquisa Datafolha recente indicou que 38% dos entrevistados consideram o governo Lula ruim ou péssimo, enquanto 32% o avaliam como ótimo ou bom. Em relação a ações governamentais, houve uma redução de 11% nos gastos com a Defesa nos primeiros três anos da gestão, e o governo recuou de uma proposta mais rígida para combater o comércio de celulares roubados. Além disso, um programa de crédito para motoristas de aplicativo e táxi não deve alterar votos, e o presidente Lula visitou o Rio de Janeiro com foco na saúde. Paralelamente, o senador Flávio Bolsonaro viajou aos EUA em busca de uma agenda positiva em meio a uma crise política.",
         "porQueImporta": "Esses fatos refletem a percepção pública da gestão atual, as prioridades orçamentárias e as estratégias políticas em andamento.",
         "category": "politica",
         "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/datafolha-avaliacao-negativa-do-governo-lula-cai-para-38/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/datafolha-avalicao-negativa-do-governo-lula-e-de-38-positiva-32/"
+          },
           {
             "name": "G1",
             "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/05/23/datafolha-avaliam-governo-lula-como-ruim-ou-pessimo-como-otimo-ou-bom.ghtml"
@@ -298,25 +341,29 @@
             "url": "https://exame.com/brasil/nao-vai-mudar-voto-para-lula-dizem-motoristas-uber-taxi-sobre-programa-governo/"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/lula-volta-ao-rj-com-foco-em-entregas-na-area-da-saude/"
-          },
-          {
             "name": "Canaltech",
             "url": "https://canaltech.com.br/smartphone/governo-explica-por-que-desistiu-de-punir-quem-compra-celular-roubado/"
           }
         ],
-        "updatedAt": "2026-05-23T13:11:25.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/QBTAADThY9r0Z1Ad7FTE89PIyQs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/W/F0udgGRWuBb22CE9aDcA/55195371739-a6083464fd-k.jpg"
+        "updatedAt": "2026-05-23T14:38:52.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/03/lula_reuniao_ministerial.jpg"
       },
       {
-        "clusterId": "df4b23625fada715",
-        "slug": "53d1a61ef63414ca",
-        "titulo": "Pesquisa Datafolha avalia cenário eleitoral e impacto do caso Vorcaro em Flávio Bolsonaro",
-        "resumo": "Uma pesquisa Datafolha, realizada após a divulgação de conversas entre o senador Flávio Bolsonaro e o banqueiro Daniel Vorcaro, revelou que 48% dos eleitores acreditam que o senador deveria desistir de uma candidatura presidencial, enquanto 44% defendem que ele a mantenha. Entre os próprios eleitores de Flávio Bolsonaro, 88% apoiam sua candidatura. O levantamento também apontou que o presidente Lula tem 40% das intenções de voto no primeiro turno, contra 31% de Flávio Bolsonaro, e 47% contra 43% em um eventual segundo turno. A taxa de rejeição de Flávio Bolsonaro alcançou 46%, superando a de Lula, que ficou em 45%.",
-        "porQueImporta": "Os dados da pesquisa indicam um impacto nas intenções de voto e na percepção pública sobre Flávio Bolsonaro, influenciando o panorama para as eleições presidenciais de 2026.",
+        "clusterId": "8d97a0ea8f538a9e",
+        "slug": "f6d6dc9b973de235",
+        "titulo": "Pesquisa Datafolha avalia percepções sobre Flávio Bolsonaro após caso Vorcaro",
+        "resumo": "Uma pesquisa Datafolha, realizada após a divulgação de conversas entre o senador Flávio Bolsonaro e o banqueiro Daniel Vorcaro, indicou que 88% dos eleitores do senador desejam que ele mantenha sua candidatura. Contudo, 64% do eleitorado geral consideram que Flávio agiu de forma inadequada ao pedir dinheiro a Vorcaro, e 48% defendem que ele desista da disputa presidencial. O levantamento também apontou que a rejeição a Flávio Bolsonaro atingiu 46%, superando a do presidente Lula, e que Lula ampliou sua vantagem em cenários de primeiro e segundo turno.",
+        "porQueImporta": "Os resultados da pesquisa refletem o impacto do caso 'Dark Horse' na imagem e nas intenções de voto de Flávio Bolsonaro para as eleições de 2026.",
         "category": "politica",
         "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes/88-dos-eleitores-querem-que-flavio-siga-na-disputa-diz-datafolha/"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/datafolha-88-dos-eleitores-de-flavio-defendem-candidatura-mesmo-apos-audios/"
+          },
           {
             "name": "CartaCapital",
             "url": "https://www.cartacapital.com.br/politica/datafolha-88-dos-eleitores-de-flavio-querem-senador-na-disputa-a-presidencia-apesar-do-escandalo-vorcaro-dark-horse/"
@@ -338,104 +385,31 @@
             "url": "https://super.abril.com.br/cultura/teste-este-filme-custou-mais-do-que-dark-horse-a-biografia-de-bolsonaro/"
           }
         ],
-        "updatedAt": "2026-05-23T13:22:37.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/03/flavio-bolsonaro-avenida-paulista-reproducao.jpeg"
+        "updatedAt": "2026-05-23T14:29:37.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-14T215009Z_865536769_RC2W7LAGCJVO_RTRMADP_3_BRAZIL-ELECTION-BOLSONARO-FILM_b0db1c.jpg?fit=300%2C212&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "a94d50ed2ef290a7",
-        "slug": "310605a8baa0191a",
-        "titulo": "STF tem dois votos para manter prisões de pai e primo de Daniel Vorcaro",
-        "resumo": "A Segunda Turma do Supremo Tribunal Federal (STF) registrou dois votos pela manutenção das prisões de Henrique Vorcaro, pai, e Felipe Cançado Vorcaro, primo do banqueiro Daniel Vorcaro. Os ministros André Mendonça, relator do caso, e Luiz Fux votaram a favor da continuidade das detenções. O julgamento no plenário virtual foi suspenso após o ministro Gilmar Mendes pedir vista, o que pode paralisar a análise por até 90 dias. Felipe Cançado Vorcaro foi preso em maio pela \"Operação Compliance Zero\", sendo apontado pela Polícia Federal como peça central do núcleo financeiro-operacional investigado.",
-        "porQueImporta": "A decisão do STF pode definir o futuro das prisões de investigados em uma operação de grande repercussão.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/stf-tem-dois-votos-para-manter-prisao-de-pai-e-primo-de-vorcaro/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/05/23/stf-tem-2-votos-para-manter-prisoes-de-pai-e-primo-de-vorcaro-gilmar-pediu-vista.ghtml"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/blog-do-noblat/vorcaro-ganha-privilegios-na-prisao-mas-seu-pai-desaba-em-surtos"
-          }
-        ],
-        "updatedAt": "2026-05-23T13:10:58.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/I5uSHXbVpatQ97IWnWlnyNSGvnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/t/7EmVVERZSg4t2WokIIag/henrique-vorcaro.jpg"
-      },
-      {
-        "clusterId": "b62788fd120c20a7",
-        "slug": "3e29297d4d96bf60",
-        "titulo": "Litoral da Paraíba tem quatro trechos impróprios para banho; veja quais",
-        "resumo": "João Pessoa Praia de João Pessoa Construção Civil de João Pessoa Construção Civil em João Pessoa Kleide Teixeira/Arquivo A Paraíba tem quatro trechos impróprios para banho de acordo com o relatório de balneabilidade divulgado pela Superintendência de Administração do Meio Ambiente (Sudema) nesta sexta-feira (22). Três trechos estão localizados em João Pessoa e um em Pitimbu, no Litoral Sul. ✅ Clique aqui para seguir o canal do g1 PB no WhatsApp O relatório coletou amostras nos períodos de 18 a 21 de maio, e é válido até 29 de maio, data de divulgação do próximo relatório. ⚠️ Segundo o órgão…",
+        "clusterId": "476aa49766a78c69",
+        "slug": "329870542151ec33",
+        "titulo": "Nvidia segue apostando na China – mesmo com restrições dos EUA",
+        "resumo": "CEO Jensen Huang projetou um mercado bilionário para as tecnologias da Nvidia - e isso inclui o mercado chinês O post Nvidia segue apostando na China – mesmo com restrições dos EUA apareceu primeiro em Olhar Digital.",
         "porQueImporta": "",
         "category": "politica",
         "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/05/23/pro/nvidia-segue-apostando-na-china-mesmo-com-restricoes-dos-eua/"
+          },
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-economia/bh-e-a-capital-mais-inadimplente-joao-pessoa-tem-a-menor-taxa/"
+            "url": "https://www.poder360.com.br/poder-china/desemprego-na-china-segue-perto-de-recorde-historico/"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/pb/paraiba/noticia/2026/05/23/litoral-da-paraiba-tem-quatro-trechos-improprios-para-banho-veja-quais.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/clyddgmmz6jo?at_medium=RSS&at_campaign=rss"
+            "name": "Exame",
+            "url": "https://exame.com/mundo/a-nova-queda-de-braco-entre-china-e-eua-livre-comercio-ou-guerra-tarifaria/"
           }
         ],
-        "updatedAt": "2026-05-23T13:00:26.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/XchgaJ7N1wwhOV3yMY5gQ114m04=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Q/h/A54phySBiogQsVZoTW6A/joao-pessoa-praia-construcao-civil.jpeg"
-      },
-      {
-        "clusterId": "edefe448f843bd73",
-        "slug": "d0b7d7989598e764",
-        "titulo": "Surfista quebra recorde com maior onda surfada por uma mulher no Brasil; veja",
-        "resumo": "Michaela Fregonese surfa maior onda de uma mulher no Brasil - Vídeo: Bred Oliveira A surfista Michaela Fregonese é a dona da maior onda já surfada por uma mulher no Brasil. A ondulação de 12,25 metros foi registrada em 11 de maio, na Laje da Jagua, em Jaguaruna (SC), conhecida como a 'Nazaré Brasileira' (veja vídeo acima). Após uma semana de análise por especialistas, a marca histórica foi confirmada. Havia a expectativa da quebra de recorde geral, porém, a onda de 14,82m, surfada por Lucas Chumbo em 2025, também em Jaguaruna, segue sendo a maior do país. \"Nazaré Brasileira\" pode registrar…",
-        "porQueImporta": "",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/brasil/maior-ladrao-de-obras-do-brasil-pode-ser-o-mandante-do-roubo-a-mario-de-andrade/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/sc/surfe/noticia/2026/05/23/surfista-quebra-recorde-com-maior-onda-surfada-por-uma-mulher-no-brasil-veja.ghtml"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/sociedade/policia-de-sp-aponta-mandante-de-roubo-a-biblioteca-mario-de-andrade/"
-          }
-        ],
-        "updatedAt": "2026-05-23T13:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/obras-roubadas.png?fit=271%2C300&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "3f4e8ee4338a9f54",
-        "slug": "217a03057464f082",
-        "titulo": "DC decide expulsar Aldo Rebelo do partido; político diz que aposta em Joaquim Barbosa é 'afronta'",
-        "resumo": "DC decide expulsar Aldo Rebelo do partido O partido Democracia Cristã (DC) decidiu abrir um processo disciplinar que resultará na expulsão do ex-ministro Aldo Rebelo do partido. Rebelo tem questionado na imprensa e nas redes sociais a decisão do partido de trocar o nome dele como pré-candidato à Presidência pelo do ex-ministro do Supremo Tribunal Federal (STF) Joaquim Barbosa. Em nota, a legenda informou que a medida ocorre após ataques do político recém-filiado contra a direção e a presidência nacional da sigla. ➡️ Barbosa integrou a Corte entre 2003 e 2014. O ministro se aposentou…",
-        "porQueImporta": "",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes/cidadania-da-aval-para-lancar-aecio-candidato-a-presidencia/"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/dc-faz-video-de-ia-mostrando-joaquim-barbosa-como-pre-candidato-a-presidencia/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/05/22/cidadania-aecio-neves-pre-candidato.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-23T12:49:19.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/joaquim-barbosa-foto-de-carlos-humberto-stf.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-05-23T13:29:50.000Z"
       },
       {
         "clusterId": "7cfeaa84e320253e",
@@ -462,57 +436,193 @@
         "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/AFP__20260520__B3HH394__v1__MidRes__BrazilPoliticsFemicide.jpg"
       },
       {
-        "clusterId": "25c9d403e7251f17",
-        "slug": "9e70a28e9ff24c95",
-        "titulo": "'Dinheiro acabando': brasileiro relata angústia em La Paz com protestos que não o deixam sair da Bolívia",
-        "resumo": "Manifestantes enfrentam polícia na Bolívia Em viagem de mochilão pela América do Sul, o designer Gabriel Medeiros, de 26 anos, chegou a La Paz, capital da Bolívia, no dia 5 de maio, pretendendo ficar três dias. Neste sábado (23), ele completa 18 dias na cidade, sem previsão de sair. Isso porque a Bolívia vive uma onda de protestos desde o início do mês contra o governo do presidente Rodrigo Paz, que assumiu o poder há seis meses. 📲 Participe do canal do g1 Bauru e Marília no WhatsApp Estradas têm sido bloqueadas em várias regiões do país, e a polícia tem reagido com bombas e gás a protestos…",
+        "clusterId": "92415565417652e8",
+        "slug": "1963b293cffb87a3",
+        "titulo": "Advogado de Vorcaro deixa defesa do dono do Master após PF rejeitar proposta de delação",
+        "resumo": "Advogado de Vorcaro deixa defesa do dono do Master após PF rejeitar proposta de delação O advogado José Luis Oliveira Lima deixou a defesa de Daniel Vorcaro, dono do Banco Master. Ao blog, o advogado confirmou a saída e afirmou que a decisão ocorreu “de comum acordo”. A mudança acontece na mesma semana em que a Polícia Federal (PF) rejeitou a proposta de delação premiada apresentada pelo banqueiro. Apesar de a Procuradoria-Geral da República ter mantido as negociações em andamento, cresce, nos bastidores, a avaliação de que um eventual acordo chancelado pela gestão de Paulo Gonet seria visto…",
         "porQueImporta": "",
         "category": "politica",
         "sources": [
           {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/justica/a-mudanca-na-estrategia-de-vorcaro-para-tentar-destravar-delacao/"
+          },
+          {
             "name": "G1",
-            "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/05/23/dinheiro-acabando-brasileiro-relata-angustia-em-la-paz-com-protestos-que-nao-o-deixam-sair-da-bolivia.ghtml"
+            "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/05/22/advogado-de-vorcaro-deixa-defesa-do-dono-do-master.ghtml"
           },
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cpwp0nj9djjo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/trabalhadores-pressionam-presidente-da-bolivia-com-protestos/"
+            "url": "https://www.bbc.com/portuguese/articles/cdrp2ljx6mmo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-05-23T11:33:29.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/sZR40GKTPuiXsXhcZPMTOqz_nUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/J/BdfYOXTYCbOYa9mdWhUw/gabriel.webp"
+        "updatedAt": "2026-05-22T23:12:17.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/03/Foto-ReproducaoPF.png"
+      },
+      {
+        "clusterId": "96cc95628643e1fd",
+        "slug": "2ae236672846e53a",
+        "titulo": "Em resposta a Dino, Motta diz que pedido de viagem de Mário Frias ao exterior ainda está 'em apreciação'",
+        "resumo": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB) disse nesta quinta-feira (21) que os pedidos de viagem ao exterior do deputado Mário Frias (PL-SP) não foram autorizados e que ainda estão \"em apreciação\". O presidente da Câmara respondeu a um questionamento do ministro do Supremo Tribunal Federal (STF) Flávio Dino, que cobrou explicações da Câmara dos Deputados sobre a viagem do deputado ao exterior. \"O Deputado Mário Frias realizou dois pedidos de missão oficial internacional, sendo o primeiro ao Reino do Bahrein, entre 12 e 18 de maio de 2026 e afastamento solicitado de 11…",
+        "porQueImporta": "",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-congresso/ex-funcionaria-pagou-contas-de-mulher-de-mario-frias-diz-site/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/05/22/comprovantes-indicam-que-ex-funcionaria-pagou-cartao-da-esposa-de-mario-frias-e-fez-pix-para-ex-chefe-de-gabinete.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-23T14:23:18.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/kojYLFvIUTE3_ByDq6jDd5-MRwg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/R/SqSGg2Qpq0fPaGvtFMww/img20250218185913389.jpg"
+      },
+      {
+        "clusterId": "e3607436ba269b07",
+        "slug": "d145b46f4d15536c",
+        "titulo": "40 mil pessoas recebem ordens de evacuação por vazamento em tanque químico na Califórnia",
+        "resumo": "Vazamento de tanque provoca evacuação em massa na Califórnia, EUA Cerca de 40 mil pessoas na Califórnia receberam ordens de evacuação nesta sexta-feira (22) após um tanque químico apresentar vazamento e ficar sob risco de explosão. O caso ocorreu em Garden Grove, no condado de Orange, ao sudeste de Los Angeles. O tanque de capacidade de 22.700 a 26.500 litros contém metacrilato de metila, um líquido inflamável e volátil utilizado na fabricação de plástico. Segundo a agência de notícias AFP, o tanque começou a liberar vapores no ar em uma fábrica de plásticos aeroespaciais nesta quinta-feira…",
+        "porQueImporta": "",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-internacional/california-evacua-40-mil-pessoas-apos-risco-de-explosao-de-tanque-toxico/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/05/23/40-mil-pessoas-recebem-ordens-de-evacuacao-por-vazamento-em-tanque-quimico-na-california.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-23T14:03:26.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/-Iunj9eO-anNBdYUdoDCoD-oB9M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/y/0mpSugRdeOSnVAA3cXwA/2026-05-23t011355z-786029805-rc2helakr6ef-rtrmadp-3-california-chemical-garden-grove.jpg"
+      },
+      {
+        "clusterId": "b081990a01882523",
+        "slug": "310605a8baa0191a",
+        "titulo": "STF tem dois votos para manter prisões de pai e primo de Daniel Vorcaro",
+        "resumo": "A Segunda Turma do Supremo Tribunal Federal (STF) registrou dois votos pela manutenção das prisões de Henrique Vorcaro, pai, e Felipe Cançado Vorcaro, primo do banqueiro Daniel Vorcaro. Os ministros André Mendonça, relator do caso, e Luiz Fux votaram a favor da continuidade das detenções. O julgamento no plenário virtual foi suspenso após o ministro Gilmar Mendes pedir vista, o que pode paralisar a análise por até 90 dias. Felipe Cançado Vorcaro foi preso em maio pela \"Operação Compliance Zero\", sendo apontado pela Polícia Federal como peça central do núcleo financeiro-operacional investigado.",
+        "porQueImporta": "A decisão do STF pode definir o futuro das prisões de investigados em uma operação de grande repercussão.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/stf-tem-dois-votos-para-manter-prisao-de-pai-e-primo-de-vorcaro/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/05/23/stf-tem-2-votos-para-manter-prisoes-de-pai-e-primo-de-vorcaro-gilmar-pediu-vista.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-23T13:10:58.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/I5uSHXbVpatQ97IWnWlnyNSGvnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/t/7EmVVERZSg4t2WokIIag/henrique-vorcaro.jpg"
       }
     ],
     "economia": [
       {
-        "clusterId": "7317373611e78c26",
-        "slug": "d10c19082e46a07a",
-        "titulo": "Mega-Sena realiza sorteio especial de 30 anos com prêmio de R$ 300 milhões",
-        "resumo": "A Caixa Econômica Federal promove um sorteio especial da Mega-Sena para celebrar os 30 anos da modalidade, com um prêmio estimado em R$ 300 milhões. O concurso comemorativo será realizado no dia 24 de maio, às 11h, e as apostas podem ser feitas até o dia 23 de maio. Uma regra específica para este sorteio é que o prêmio não acumula, sendo distribuído entre os acertadores da quina ou quadra caso não haja ganhadores com seis dezenas. A Mega-Sena, que teve seu primeiro sorteio em março de 1996, já movimentou R$ 115,2 bilhões.",
-        "porQueImporta": "O sorteio marca três décadas da loteria mais popular do país com um dos maiores prêmios já oferecidos.",
+        "clusterId": "1ba5949259cd370a",
+        "slug": "348ed2e7e60b5d16",
+        "titulo": "Entrada dos Palmitos da Festa do Divino de 2026 em Mogi das Cruzes",
+        "resumo": "A Entrada dos Palmitos da Festa do Divino de 2026 foi realizada em Mogi das Cruzes no sábado, 23 de maio. O cortejo, considerado um ponto alto cultural do evento, prosseguiu apesar da chuva, com a participação do público e dos devotos. A celebração é vista como um agradecimento pelas colheitas e pela fartura. Além disso, é um meio de cumprir promessas e preservar a tradição.",
+        "porQueImporta": "O evento representa a continuidade de uma significativa tradição cultural e religiosa na região.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/festa-do-divino/ao-vivo/entrada-dos-palmitos-da-festa-do-divino-de-2026-acontece-neste-sabado-em-mogi-das-cruzes-acompanhe-em-tempo-real.ghtml"
+          },
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/05/23/ciencia-e-espaco/lua-hoje-confira-a-fase-da-lua-neste-sabado-23-05-2026/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/esporte/quem-sao-os-atletas-mais-bem-pagos-do-mundo-confira-o-ranking-de-2026/"
+          },
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/campus-ribeirao-preto/edicao-de-22-de-maio-de-2026/"
+          }
+        ],
+        "updatedAt": "2026-05-23T14:33:56.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/_BUNDZkReAC16sJCSQdK4s1kPK8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/l/D0hMEhSferdiDITG4ImQ/capelasantacruz-caue.jpeg"
+      },
+      {
+        "clusterId": "dc2a4eaab703c05b",
+        "slug": "b112e07f09f3f657",
+        "titulo": "Dólar sobe e fecha a R$ 5,02 com tensão EUA-Irã e posse de Warsh no Fed; Ibovespa cai",
+        "resumo": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em alta de 0,55% nesta sexta-feira (22), cotado a R$ 5,0282. O Ibovespa, principal índice da bolsa brasileira, caiu 0,81%, a 176.210 pontos. ▶️ O foco do mercado continuou voltado para a guerra no Oriente Médio. Sem um acordo entre Washington e Teerã para encerrar o conflito, os preços do petróleo voltaram a subir nesta sexta-feira, embora novas declarações tenham aumentado a expectativa de avanço nas negociações. O secretário de Estado dos EUA, Marco Rubio, afirmou que houve “algum progresso” nas conversas com o Irã, mas admitiu…",
+        "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/consumo/mega-sena-30-anos-como-apostar/"
+            "url": "https://www.infomoney.com.br/mundo/eua-e-ira-estao-proximos-de-estender-cessar-fogo-por-60-dias-diz-jornal/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pi/piaui/noticia/2026/05/23/mega-sena-apostas.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/05/23/eua-ou-ira-quem-vencera-o-jogo-de-resistencia-no-estreito-de-ormuz.ghtml"
           },
           {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cgrpz4nl0xeo?at_medium=RSS&at_campaign=rss"
+            "name": "Exame",
+            "url": "https://exame.com/mundo/ira-acusa-eua-de-sabotar-negociacoes-e-ameaca-resposta-devastadora-se-guerra-for-retomada/"
           }
         ],
-        "updatedAt": "2026-05-23T12:05:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/04/mega-sena-volantes.jpg?fit=300%2C179&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-05-23T14:54:14.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-09T194503Z_1_LYNXMPEM480DO_RTROPTP_4_IRAN-CRISIS-OMAN-HORMUZ.jpg?fit=300%2C197&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "f5dd226b62dbcd75",
+        "clusterId": "39c184052f6347c4",
+        "slug": "f573286e6db88262",
+        "titulo": "Justiça autoriza R$ 2,5 bilhões em atrasados do INSS para aposentados e pensionistas; veja quem recebe",
+        "resumo": "O Conselho da Justiça Federal (CJF) autorizou na quinta-feira (21) a liberação de R$ 2,5 bilhões para o pagamento de mais de 208 mil pessoas que ganharam ações judiciais de menor valor contra órgãos federais. Os recursos correspondem a 163,4 mil processos protocolados até abril de 2026. 🔎 As chamadas Requisições de Pequeno Valor (RPVs) são pagamentos que o governo federal é obrigado a fazer após perder ações judiciais de até 60 salários mínimos. Todos os meses, o CJF autoriza o repasse de recursos aos Tribunais Regionais Federais (TRFs) para quitar ações já encerradas na Justiça. No caso do…",
+        "porQueImporta": "",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/caso-rumble-justica-dos-eua-autoriza-que-moraes-seja-notificado-por-e-mail/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/justica-dos-eua-autoriza-citacao-de-moraes-por-e-mail-em-acao/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/05/22/justica-autoriza-r-25-bilhoes-em-atrasados-do-inss-para-aposentados-e-pensionistas-veja-quem-recebe.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-23T14:25:16.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/54962809122_7a0bd756a5_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "6fcd03abc19e53ed",
+        "slug": "56b232fb6f5f5418",
+        "titulo": "Notícias sobre impactos climáticos, recordes do futebol e atletas mais bem pagos",
+        "resumo": "As fontes fornecidas abordam tópicos distintos, incluindo o potencial impacto do fenômeno climático El Niño no agronegócio brasileiro, dados históricos de artilheiros e jogadores mais jovens em Copas do Mundo, e a presença de um atleta brasileiro na lista dos mais bem pagos do mundo.",
+        "porQueImporta": "Os temas cobrem desde projeções econômicas e ambientais até marcos históricos do esporte e finanças de atletas de destaque.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/esportes/cristiano-ronaldo-e-atleta-mais-bem-pago-do-mundo-top-50-tem-so-um-brasileiro/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/05/23/cristiano-ronaldo-e-o-atleta-mais-bem-pago-do-mundo-pelo-quarto-ano-seguido-veja-top-10-e-valores.ghtml"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/negocios/noticia/2026/05/22/brasil-tem-apenas-um-nome-na-lista-de-atletas-mais-bem-pagos-do-mundo-veja-quem-e-e-quanto-ganha.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-23T13:59:51.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/06/2025-06-04T193907Z_100308004_UP1EL641IL5KO_RTRMADP_3_SOCCER-UEFANATIONS-GER-POR-REPORT.jpg?fit=300%2C217&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "c358f33d2cac1be5",
         "slug": "60a4e09cc7c4d399",
         "titulo": "Convocação vale publi? Como Neymar e outros atletas da seleção podem lucrar após lista da Copa",
         "resumo": "O técnico da seleção brasileira, Carlo Ancelotti, incluiu o Neymar, do Santos, em sua convocação durante a coletiva de imprensa. Reuters/Ricardo Moraes A convocação dos 26 jogadores que vão representar a seleção brasileira na Copa do Mundo de 2026 movimentou o mercado publicitário e deve render ganhos aos atletas da seleta lista do treinador Carlo Ancelotti. O próprio formato de divulgação dos nomes relacionados ao Mundial, realizado pela CBF (Confederação Brasileira de Futebol) na última segunda-feira (18), foi um indicativo do que o esporte se transformou quando o assunto é marketing e…",
@@ -525,7 +635,7 @@
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/05/23/ex-jogador-faz-tatuagem-com-nome-de-neymar-no-rosto-apos-convocacao-da-selecao-brasileira-algo-que-eu-queria.ghtml"
+            "url": "https://g1.globo.com/economia/noticia/2026/05/23/convocacao-vale-publi-como-neymar-e-outros-atletas-da-selecao-podem-lucrar-apos-lista-da-copa.ghtml"
           },
           {
             "name": "GE",
@@ -536,88 +646,44 @@
         "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/GettyImages-1245391548.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "1d3f0757252c7f28",
-        "slug": "56b232fb6f5f5418",
-        "titulo": "Notícias sobre impactos climáticos, recordes do futebol e atletas mais bem pagos",
-        "resumo": "As fontes fornecidas abordam tópicos distintos, incluindo o potencial impacto do fenômeno climático El Niño no agronegócio brasileiro, dados históricos de artilheiros e jogadores mais jovens em Copas do Mundo, e a presença de um atleta brasileiro na lista dos mais bem pagos do mundo.",
-        "porQueImporta": "Os temas cobrem desde projeções econômicas e ambientais até marcos históricos do esporte e finanças de atletas de destaque.",
+        "clusterId": "e186e5f392ef7bb4",
+        "slug": "f8a85fe63c692dfc",
+        "titulo": "Alain Prost é assaltado na Suíça e sofre ferimento leve na cabeça, diz jornal",
+        "resumo": "Alain Prost fala sobre sua relação com Ayrton Senna: “Tínhamos uma conexão” Alain Prost foi vítima de um assalto em sua casa na cidade suíça de Nyon, a 25 km de Genebra, na última terça-feira (23). De acordo com o jornal local \"Blick\", o tetracampeão de Fórmula 1 sofreu ferimentos leves na cabeça durante a ação dos criminosos. Os bandidos invadiram o local por volta de 8h30 e, após ferirem Prost, ameaçaram o restante de sua família. Um dos filhos do ex-piloto foi obrigado a abrir o cofre, mas ainda não há detalhes sobre o que foi roubado. Alain Prost foi vítima de assalto na Suíça Reprodução…",
+        "porQueImporta": "",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mundo/alain-prost-e-vitima-de-assalto-na-suica-e-sofre-ferimento-na-cabeca-afirma-jornal/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/motor/noticia/2026/05/23/alain-prost-e-assaltado-na-suica-e-sofre-ferimento-leve-na-cabeca-diz-jornal.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-23T14:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Image-2026-05-23T110335.126.jpg?fit=300%2C229&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "8b29a679704263a6",
+        "slug": "295d6599bb2b9d34",
+        "titulo": "Copa do Mundo 2026: como identificar figurinhas falsas do álbum?",
+        "resumo": "Impressão ruim, preço baixo: como identificar figurinhas falsas da Copa? Com a chegada da Copa do Mundo de 2026, golpistas tentam lucrar em cima dos torcedores de diversas maneiras — e uma delas é através do álbum de figurinhas da Copa. Nesta sexta-feira (22), a Polícia Civil apreendeu cerca de 200 mil figurinhas em Nova Iguaçu, na Baixada Fluminense. 📱Baixe o app do g1 para ver notícias em tempo real e de graça Para não ser lesado, é preciso ficar atento a alguns detalhes ao comprar os pacotes. Como identificar se uma figurinha da Copa é falsa Veja abaixo alguns sinais que podem indicar que…",
+        "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
             "name": "Exame",
-            "url": "https://exame.com/esporte/quem-sao-os-atletas-mais-bem-pagos-do-mundo-confira-o-ranking-de-2026/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/05/23/cristiano-ronaldo-e-o-atleta-mais-bem-pago-do-mundo-pelo-quarto-ano-seguido-veja-top-10-e-valores.ghtml"
+            "url": "https://exame.com/casual/copa-do-mundo-2026-quanto-custa-ir-ao-jogo-do-brasil-e-marrocos-passagem-hotel-e-ingresso/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/economia/negocios/noticia/2026/05/22/brasil-tem-apenas-um-nome-na-lista-de-atletas-mais-bem-pagos-do-mundo-veja-quem-e-e-quanto-ganha.ghtml"
+            "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/05/23/copa-do-mundo-2026-como-identificar-figurinhas-falsas-do-album.ghtml"
           }
         ],
-        "updatedAt": "2026-05-23T09:25:52.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/t5m5lSpfm1fcG4Wrvya6krywbHw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/C/5/SCe7M5Q3mT5mVCQqYC5A/2026-04-03t181452z-1435262066-up1em431eoqub-rtrmadp-3-soccer-saudi-nsr-naj.jpg"
-      },
-      {
-        "clusterId": "3235477f45c01089",
-        "slug": "cee5967b8f67c34f",
-        "titulo": "Inteligência Artificial ainda engatinha nas empresas, diz gestor da IP Capital",
-        "resumo": "O tema exige \"humildade intelectual gigante\" e muita disposição para rever opiniões The post Inteligência Artificial ainda engatinha nas empresas, diz gestor da IP Capital appeared first on InfoMoney.",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/onde-investir/inteligencia-artificial-ainda-engatinha-nas-empresas-diz-gestor-da-ip-capital/"
-          },
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/comunicados/usp-oferecera-disciplina-sobre-o-uso-da-inteligencia-artificial-na-vida-academica/"
-          }
-        ],
-        "updatedAt": "2026-05-23T13:20:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Gabriel-Raoni-socio-e-cogestor-da-IP-Capital-Partners-2.webp?fit=300%2C137&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "f1276e90cc781036",
-        "slug": "90ee51be635acd95",
-        "titulo": "Como Deolane tem Cadillac Escalade? SUV de R$ 2,1 milhões não é vendido oficialmente no Brasil",
-        "resumo": "Ao menos quatro carros de luxo são apreendidos durante Operação Vérnix. Bervelin Albuquerque/TV Globo A Cadillac ainda não vende carros no Brasil, a marca confirmou que chega ao país no último trimestre de 2026. Mesmo assim, a marca norte-americana vai oferecer somente carros elétricos no mercado brasileiro. Então, como a influenciadora Deolane Bezerra tem um Cadillac Escalade na garagem? O SUV de luxo foi apreendido nesta quinta-feira (21) quando Deolane foi presa por suspeita de lavar dinheiro para o PCC. Além do modelo norte-americano, foram apreendidos um Mercedes-Benz G63, um Range Rover…",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/brasil/cadillac-mercedes-os-carros-de-luxo-de-deolane-apreendidos-em-operacao-contra-o-pcc/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/carros/noticia/2026/05/21/deolane-bezerra-cadillac-escalade-suv-de-r-21-milhoes.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-23T13:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/09/Captura-de-tela-2024-09-24-132449.png?fit=300%2C218&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "7713d764c18888d7",
-        "slug": "fa0f9400d3791d1a",
-        "titulo": "SpaceX realiza 12º voo de teste da Starship e divulga detalhes de IPO",
-        "resumo": "A SpaceX realizou o 12º voo de teste de sua nave Starship, a maior e mais poderosa do mundo, na sexta-feira (22). O veículo de 124 metros de altura decolou da Starbase, no Texas, por volta das 19h30 ou 20h30 (horário de Brasília), e seu estágio superior realizou um pouso controlado no oceano aproximadamente uma hora após a decolagem. Este teste, o primeiro do ano, visa avançar no desenvolvimento de um sistema de transporte espacial totalmente reutilizável para futuras missões tripuladas à Lua e a Marte. Simultaneamente, a empresa divulgou documentos relacionados aos seus planos de abertura de capital (IPO), que detalham as finanças da SpaceX e incluem uma cláusula de bônus para Elon Musk vinculada à colonização de Marte.",
-        "porQueImporta": "O sucesso do teste da Starship é crucial para o futuro das viagens espaciais, enquanto o IPO da SpaceX pode ter grande impacto no mercado financeiro e na fortuna de Elon Musk.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/starship-v3-atualizada-da-spacex-conclui-seu-primeiro-voo-de-teste-no-texas/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/inovacao/ao-vivo/starship-voo-12-nave-starship.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-23T12:40:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-22T230156Z_648549245_RC2NELAE6X7S_RTRMADP_3_SPACEX-STARSHIP.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-05-23T11:39:24.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/dbPQzOaKnwF014GMOD9Hl_4U7tA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/n/BX5h52R8iy3hw4z1BBYQ/hiov28jxyaabwp3.jpg"
       },
       {
         "clusterId": "b0c72a95f789df21",
@@ -638,31 +704,11 @@
         ],
         "updatedAt": "2026-05-23T11:20:08.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/9qzbwuOaHfI3Sz7sOEDVVf0kFqw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/K/wdhneMQhGZPn3sE5v0ow/2026-05-21t173743z-1-lynxmpem4k1ke-rtroptp-4-tech-conference-mwc.jpg"
-      },
-      {
-        "clusterId": "ac2a0587e126237d",
-        "slug": "1c2193f98fc3a2ae",
-        "titulo": "Irã e Paquistão se reúnem em meio a negociações que buscam fim de guerra",
-        "resumo": "O ministro das Relações Exteriores do Irã, Abbas Araghchi (à direita), se reúne com Asim Munir, comandante do exército do Paquistão, em Teerã, em 22 de maio de 2026. Reprodução/IRNA O principal negociador do Irã e presidente do Parlamento, Mohammad Bagher Qalibaf, se reuniu com o chefe do Exército paquistanês, Asim Munir, em Teerã, como parte dos esforços diplomáticos em curso para lidar com as tensões regionais, informou a mídia estatal iraniana neste sábado (23). Qalibaf afirmou que não abriria mão dos direitos do país e que as forças armadas iranianas reconstruíram suas capacidades durante…",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/05/23/ira-e-paquistao-se-reunem-em-meio-a-negociacoes-que-buscam-fim-de-guerra.ghtml"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/trump-afirma-que-guerra-com-ira-sera-encerrada-em-breve/"
-          }
-        ],
-        "updatedAt": "2026-05-23T11:02:18.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/WEsIm5foB3vTVx7gsY0fR35bl4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/m/YuSaE9TruYVjwhvne2mg/172881071.jpg"
       }
     ],
     "mundo": [
       {
-        "clusterId": "31e749761d93ded8",
+        "clusterId": "c2722f995af0f283",
         "slug": "f7f774919525e409",
         "titulo": "Surto de Ebola na República Democrática do Congo e Uganda leva OMS a declarar emergência internacional",
         "resumo": "Um novo surto de Ebola, causado pela variante Bundibugyo, foi identificado na província de Ituri, na República Democrática do Congo, em 15 de maio. O vírus se espalhou rapidamente para Kampala, Uganda, levando a Organização Mundial da Saúde (OMS) a declarar, em 17 de maio, uma emergência de saúde pública de preocupação internacional e a elevar o risco do surto para \"muito alto\". Até 19 de maio, foram registrados 536 casos suspeitos e 105 prováveis, e a variante Bundibugyo, que mata cerca de um terço dos infectados, ainda não possui um imunizante com eficácia comprovada, embora uma vacina britânica possa estar pronta para testes em meses.",
@@ -671,11 +717,19 @@
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-saude/variante-do-ebola-nao-tem-vacina-e-corre-risco-de-disseminacao-regional/"
+            "url": "https://www.poder360.com.br/poder-saude/ebola-entenda-causa-de-surtos-na-africa/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/novos-casos-de-ebola-em-uganda-acendem-alerta-da-oms"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/saude/noticia/2026/05/23/uganda-confirma-novos-casos-de-ebola.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/mundo/uganda-confirma-novos-casos-de-ebola/"
           },
           {
             "name": "CNN Brasil",
@@ -690,11 +744,59 @@
             "url": "https://drauziovarella.uol.com.br/infectologia/surto-de-ebola-na-republica-democratica-do-congo-qual-o-risco-para-o-brasil/"
           }
         ],
-        "updatedAt": "2026-05-23T13:00:11.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/HLypst9co3ocRatdJT5veYCWbv8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/i/OAUiXiR7CG2rI4G4RyjA/afp-20260518-b38c7k7-v2-highres-topshotugandadrcongohealthvirusebola-1-.jpg"
+        "updatedAt": "2026-05-23T14:30:25.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/05/gettyimages-2277182933.jpg"
       },
       {
-        "clusterId": "fcc6aaa2a56c132f",
+        "clusterId": "3a8673eb59a159b3",
+        "slug": "76556089b07f336d",
+        "titulo": "Explosão de gás em mina de carvão deixa ao menos 90 mortos na China",
+        "resumo": "Explosão de mina de carvão deixa mortos na China Uma explosão de gás em uma mina de carvão deixou ao menos 90 mortos na província de Shanxi, no norte da China, na noite desta sexta-feira (22). A explosão ocorreu na mina de carvão de Liushenyu, no condado de Qinyuan, com 247 trabalhadores em serviço no subsolo, informou a agência de notícias estatal Xinhua. Nove trabalhadores ainda estão desaparecidos e mais de 120 foram hospitalizados. Esse é o acidente de mineração mais mortal no país ao menos desde 2009. O presidente da China, Xi Jinping, pediu às autoridades que \"não poupem esforços\" nos…",
+        "porQueImporta": "",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/china-abre-investigacao-sobre-explosao-em-mina-que-matou-ao-menos-90"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/explosao-em-mina-de-carvao-na-china-deixa-ao-menos-90-mortos-diz-agencia-estatal/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/05/23/explosao-de-gas-em-mina-de-carvao-deixa-mortos-na-china.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-23T14:23:02.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/05/china.jpg"
+      },
+      {
+        "clusterId": "25c9d403e7251f17",
+        "slug": "9e70a28e9ff24c95",
+        "titulo": "'Dinheiro acabando': brasileiro relata angústia em La Paz com protestos que não o deixam sair da Bolívia",
+        "resumo": "Manifestantes enfrentam polícia na Bolívia Em viagem de mochilão pela América do Sul, o designer Gabriel Medeiros, de 26 anos, chegou a La Paz, capital da Bolívia, no dia 5 de maio, pretendendo ficar três dias. Neste sábado (23), ele completa 18 dias na cidade, sem previsão de sair. Isso porque a Bolívia vive uma onda de protestos desde o início do mês contra o governo do presidente Rodrigo Paz, que assumiu o poder há seis meses. 📲 Participe do canal do g1 Bauru e Marília no WhatsApp Estradas têm sido bloqueadas em várias regiões do país, e a polícia tem reagido com bombas e gás a protestos…",
+        "porQueImporta": "",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/05/23/dinheiro-acabando-brasileiro-relata-angustia-em-la-paz-com-protestos-que-nao-o-deixam-sair-da-bolivia.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cpwp0nj9djjo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/mundo/trabalhadores-pressionam-presidente-da-bolivia-com-protestos/"
+          }
+        ],
+        "updatedAt": "2026-05-23T11:33:29.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/sZR40GKTPuiXsXhcZPMTOqz_nUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/J/BdfYOXTYCbOYa9mdWhUw/gabriel.webp"
+      },
+      {
+        "clusterId": "150c03364e07a400",
         "slug": "24ecd6812f2723fa",
         "titulo": "Drone atinge dormitório estudantil em cidade da Ucrânia controlada pela Rússia e deixa ao menos 4 mortos e 35 feridos; VÍDEO",
         "resumo": "Drone da Ucrânia atinge dormitório estudantil e deixa jovens mortos e feridos Pelo menos quatro adolescentes morreram e 35 ficaram feridos em um ataque de drones ucranianos contra um dormitório estudantil em Luhansk, cidade controlada pela Rússia no leste da Ucrânia, durante a madrugada desta sexta-feira (22), afirmam autoridades russas. Yana Lantratova, comissária de Direitos Humanos do governo russo, afirmou que 86 adolescentes com idades entre 14 e 18 anos estavam dormindo no prédio do colégio Starobilsk, que pertence à Universidade Pedagógica de Luhansk, quando o bombardeio ocorreu. \"As…",
@@ -703,42 +805,18 @@
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/sobe-para-12-numero-de-mortos-em-ataque-a-dormitorio-estudantil-na-ucrania/"
+            "url": "https://www.cnnbrasil.com.br/internacional/putin-ordena-retaliacao-apos-ataque-a-dormitorio-estudantil-com-mortos/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/05/22/drone-ucrania-dormitorio-estudantil-mortos-feridos.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/05/23/ataque-ucraniano-a-escola-em-cidade-ocupada-pela-russia.ghtml"
           }
         ],
-        "updatedAt": "2026-05-23T12:21:28.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/P-LWgbQVBcFssev89I3Iw3P5RI4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/I/GWeBaDQYSELnRoB1gOGA/2026-05-22t074018z-546037667-rc27elavy4lw-rtrmadp-3-ukraine-crisis-luhansk-attack-1-.jpg"
+        "updatedAt": "2026-05-23T14:01:49.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/wV6hk0Wh3A54on0eC4UuchtntMg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/Q/u3s2BaRUea2yOOLoEWvw/2026-05-23t080208z-812164978-rc2helapyeov-rtrmadp-3-ukraine-crisis-luhansk-attack-toll.jpg"
       },
       {
-        "clusterId": "f79584a673be282e",
-        "slug": "ac30da2e0f39e698",
-        "titulo": "'Justiça foi absolutamente feita', diz mãe que perdeu filho no voo AF447, após a condenação de Air France e Airbus",
-        "resumo": "Presidente da associação de familiares das vítimas do acidente com o AF447, Daniele Lamy comparece a tribunal de Paris, antes da leitura do veredicto no julgamento da Airbus e da Air France, em 21 de maio de 2026. Stephane de Sakutin/AFP Daniele Lamy, presidente da associação de vítimas do voo AF447 que caiu em 2009 e matou 228 pessoas afirmou nesta quinta-feira (21) que a \"justiça foi absolutamente feita\". Ela perdeu um filho no acidente. A declaração ocorreu após a Justiça francesa considerar a Airbus e a Air France culpadas por homicídio culposo, quase 17 anos depois do pior desastre aéreo…",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/carros/justica-francesa-condena-air-france-e-airbus-por-tragedia-do-voo-rio-paris/"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cd0p3dpegkgo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/05/21/a-justica-foi-feita-diz-presidente-de-associacao-de-vitimas-do-voo-af447-que-matou-228-pessoas-em-2009.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-22T16:00:00.000Z",
-        "imageUrl": "https://t.ctcdn.com.br/xUqFoGQZkoU1pkNzIZ_Pc2gGGRk=/700x394/smart/i1128763.png"
-      },
-      {
-        "clusterId": "0c833b7affc52cef",
+        "clusterId": "5adc524729a525a6",
         "slug": "781e56c7154cf021",
         "titulo": "EUA e Cuba intensificam tensões com prisão, acusações diplomáticas e decisões judiciais",
         "resumo": "As tensões entre Estados Unidos e Cuba se intensificaram com uma série de eventos recentes. Os EUA prenderam Adys Lastres Morera, irmã da presidente-executiva do GAESA, um conglomerado militar cubano acusado pelo Secretário de Estado americano Marco Rubio de saquear a economia da ilha. Em resposta, o chanceler cubano, Bruno Rodríguez Parrilla, acusou Rubio de instigar uma ação militar e rotular falsamente Cuba como patrocinador do terrorismo. Paralelamente, voos de vigilância militar dos EUA foram observados perto de Cuba, e a Suprema Corte americana decidiu a favor de uma empresa que teve propriedades confiscadas pela revolução cubana.",
@@ -747,67 +825,47 @@
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/o-que-e-a-gaesa-grupo-que-ocupa-o-centro-das-tensoes-entre-os-eua-e-cuba/"
+            "url": "https://www.cnnbrasil.com.br/internacional/eua-x-cuba-ha-risco-de-intervencao-militar-entenda-a-escalada-de-tensoes/"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/mundo/noticia/2026/05/21/eua-prendem-irma-de-executivo-ligado-a-empresas-controladas-por-militares-cubanos.ghtml"
           }
         ],
-        "updatedAt": "2026-05-23T09:00:31.000Z",
+        "updatedAt": "2026-05-23T14:00:45.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/J7mQ1r6iAKYXLW6JZM5AjT-W5XA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/j/LPr4HfQmGiB0OAWMMoDA/260521miami-0.jpg"
       },
       {
-        "clusterId": "ad7cfd528f422a16",
-        "slug": "85ae3461f555ae37",
-        "titulo": "Aumento de casos de câncer em adultos jovens é tema de preocupação",
-        "resumo": "Especialistas e estudos recentes indicam um crescimento no número de diagnósticos de câncer em pessoas com menos de 50 anos. Essa tendência tem gerado preocupação na comunidade médica, que busca compreender as causas por trás desse fenômeno. Fatores como estilo de vida, o bioma intestinal e outros riscos conhecidos, como obesidade, tabagismo, consumo de álcool, dieta e sedentarismo, estão sendo investigados como possíveis contribuintes. Uma pesquisa do Reino Unido, publicada em abril na BMJ Oncology, corrobora essa realidade e reflete a situação observada no Brasil.",
-        "porQueImporta": "O fenômeno exige atenção para a saúde pública e o desenvolvimento de estratégias de prevenção e tratamento.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/saude/dr-kalil-e-especialistas-explicam-aumento-de-casos-de-cancer-em-jovens/"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cg4pqgd2e1go?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-05-23T07:00:23.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a87c/live/773f0b00-44ac-11f1-a323-5fb501c33fac.jpg"
-      },
-      {
-        "clusterId": "022858efcdb4d152",
-        "slug": "e85375393a1a9403",
-        "titulo": "'Panamá não é um país inventado pelos EUA para construir um canal'",
-        "resumo": "\"A Rebelião Infinita\", o mais recente romance histórico do escritor panamenho, se apresenta como uma tentativa de reconhecer a dívida de seu país para com os povos nativos e também como uma exploração da identidade nacional",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/czj21rmepl9o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-05-23T13:15:07.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7fc0/live/e9eab6c0-4a62-11f1-a4c0-1961880a461f.jpg"
-      },
-      {
-        "clusterId": "f68be886bd1233dd",
-        "slug": "93fd59c052915fcc",
-        "titulo": "Escanteada por Trump, saída de diretora de Inteligência dos EUA era questão de tempo",
-        "resumo": "A Diretora de Inteligência Nacional, Tulsi Gabbard, na Casa Branca, em 23 de julho de 2025, em Washington. AP/Alex Brandon A doença do marido justificou a renúncia de Tulsi Gabbard ao cargo de Diretora Nacional de Inteligência dos EUA, mas a sua saída do governo, anunciada nesta sexta-feira pelo presidente e por ela, era especulada há tempos e não causou surpresa alguma. Gabbard vinha sendo escanteada por Trump e não participava de decisões cruciais, como principal autoridade da equipe de segurança nacional do presidente, embora seu departamento lidere 18 agências, entre elas a CIA, o FBI e o…",
+        "clusterId": "3d6790b4f5a0cb67",
+        "slug": "c5420b3b650de4db",
+        "titulo": "VÍDEO: Homem é resgatado de incêndio em ilha, que pode ter sido causado por sinalizador usado por ele para pedir socorro",
+        "resumo": "Marinheiro de 67 anos é resgatado durante incêndio em ilha Um marinheiro de 67 anos foi resgatado, na manhã desta sexta-feira (22), pela Guarda Costeira dos Estados Unidos após passar a noite isolado na Ilha de Santa Rosa, enquanto um grande incêndio florestal avançava pela região. O homem estava em um veleiro que bateu contra rochas na ilha, localizada no Parque Nacional das Ilhas do Canal, na costa sul da Califórnia. Segundo a Guarda Costeira dos Estados Unidos, o resgate aconteceu na manhã de sexta-feira (15), após equipes localizarem o marinheiro na ilha e enviarem um nadador de resgate…",
         "porQueImporta": "",
         "category": "mundo",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/05/23/escanteada-por-trump-saida-de-diretora-de-inteligencia-dos-eua-era-questao-de-tempo.ghtml"
+            "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/05/23/video-mostra-momento-em-que-suspeita-provoca-incendio-que-matou-homem-em-situacao-de-rua-em-ms.ghtml"
           }
         ],
-        "updatedAt": "2026-05-23T12:40:08.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/kgcjOtVsx8AV796j8ntYDpCXNDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/m/1eayY6TJe7nhJUTtlUkg/ap26142625145918.jpg"
+        "updatedAt": "2026-05-23T14:52:30.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/CqTcvU6A7jRhtJ3aE8Viz4mhmnI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/r/HSJ5QKQxWwu1Do5BUGfg/fdtbhgjhkmj-k.png"
+      },
+      {
+        "clusterId": "0786bb071fffda4a",
+        "slug": "7f9c856480d8a687",
+        "titulo": "Comissão de Belas Artes dos EUA aprova projeto de arco triunfal de Trump",
+        "resumo": "A Comissão de Belas Artes dos Estados Unidos aprovou, na quinta-feira (21), o projeto de um arco triunfal proposto pelo presidente Donald Trump. A estrutura, que será erguida em Washington, D.C., é descrita por Trump como o maior e mais bonito arco triunfal do mundo, com aproximadamente 76 metros de altura. O design final prevê duas águias douradas ao lado da estrutura principal, mas removeu os quatro leões inicialmente planejados para a base. A aprovação ocorreu apesar da forte oposição pública e foi realizada por comissários nomeados pelo próprio Trump.",
+        "porQueImporta": "A construção de um monumento de grande porte em Washington, D.C., com apoio presidencial e controvérsia pública, representa um marco significativo.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/05/23/trump-posta-imagem-segurando-groenlandia-em-meio-a-pressao-por-controle-da-ilha.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-23T13:59:16.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/2_GnsEAsHk_v7zbXwNnq4cqVGiE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/d/snG3U8SBuU7Fwo8aKbAA/4fc335c31ccbedd9.jpg"
       },
       {
         "clusterId": "973019a780a787f7",
@@ -832,7 +890,27 @@
     ],
     "tecnologia": [
       {
-        "clusterId": "403460fe153ef1d1",
+        "clusterId": "ab47f3702165d941",
+        "slug": "ff1d11cff32e0611",
+        "titulo": "Samsung pode evitar greve, mas vai custar R$ 133 bilhões em bônus a funcionários",
+        "resumo": "A Samsung pode ter evitado uma das maiores greves de sua história, mas um acordo recém-negociado com o sindicato deve custar US$ 27 bilhões (cerca de R$ 133 bilhões) em bônus para funcionários da divisão de semicondutores. Paralisação em fábricas da Samsung corta até 58% da produção Quando a crise dos chips vai acabar? Ex-chefe da Samsung lança palpite Segundo esse acordo preliminar, a Samsung poderá distribuir aproximadamente 40 trilhões de wones em bonificações aos trabalhadores da área. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Parte da compensação será feita em ações…",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/05/23/reviews/samsung-galaxy-s26-plus-5g-oferta/"
+          },
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/smartphone/samsung-quer-economizar-r-25-usando-tela-inferior-no-galaxy-s27-diz-site/"
+          }
+        ],
+        "updatedAt": "2026-05-23T14:06:00.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/zf_Pz6dThEz7BAR5xh-Uc-R8DxE=/700x394/smart/i1108701.jpeg"
+      },
+      {
+        "clusterId": "542e332a3457d0a6",
         "slug": "ebc7b1c5687da644",
         "titulo": "Europa quer ajudar Brasil a depender menos da americana Starlink",
         "resumo": "A operadora de satélites SES iniciou conversas com o governo brasileiro para trazer a infraestrutura do programa europeu IRIS² ao país. O anúncio ocorreu na última quarta-feira, (20), durante o Painel Telebrasil Summit 2026, em Brasília. Rival da Starlink é autorizada a operar no Brasil; veja como vai funcionar \"Starlink sem antena\" no celular já está em 17 países; Brasil ainda faz planos O projeto da União Europeia surgiu no final de 2024 com o objetivo de construir uma constelação de satélites multi-órbita. A iniciativa faz parte de uma estratégia de soberania digital para diminuir o…",
@@ -840,8 +918,8 @@
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/saude/idosos-demencia-sem-diagnostico"
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/saude-publica/quais-sao-os-direitos-dos-pacientes-no-brasil/"
           },
           {
             "name": "Pesquisa FAPESP",
@@ -852,52 +930,8 @@
             "url": "https://canaltech.com.br/telecom/europa-quer-ajudar-brasil-a-depender-menos-da-americana-starlink/"
           }
         ],
-        "updatedAt": "2026-05-23T13:02:27.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/05/demencia-capa.jpg"
-      },
-      {
-        "clusterId": "a249c1fe65028686",
-        "slug": "5de7b826f2367e9e",
-        "titulo": "Marcha para Jesus acontece neste sábado (23) em Natal; veja programação",
-        "resumo": "Prefeitura de Avaré promove a Marcha Para Jesus na sexta-feira (1º) Divulgação/Prefeitura de Avaré A 24ª edição da Marcha para Jesus 2026 será realizada na tarde deste sábado (23), na Zona Norte de Natal. Pela primeira vez, o evento acontecerá na região mais populosa do município. ⏱️ A concentração da marcha terá início às 14h, na Avenida Itapetinga, no bairro Potengi. A saída dos trios elétricos está prevista para as 15h. 📳 Clique aqui para seguir o canal do g1 RN no WhatsApp ⏱️ O encerramento acontecerá no estacionamento do Ginásio Nélio Dias, a partir das 17h, com apresentações musicais e…",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/05/23/marcha-para-jesus-natal.ghtml"
-          },
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/05/23/ciencia-e-espaco/lua-hoje-confira-a-fase-da-lua-neste-sabado-23-05-2026/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/pb/futebol/paraibano-sub-20/noticia/2026/05/23/campeonato-paraibano-sub-20-2026-comeca-neste-sabado-confira-jogos-1a-rodada.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-23T12:27:12.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/emBOdVBznUb--xwbBtUcDbTbqAE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/I/nJr6BUTxiX8Qnivg6W7w/96f40472d953d23d11ccf556b82d048b.jpg"
-      },
-      {
-        "clusterId": "cc808ba943d62082",
-        "slug": "4afab9758b803767",
-        "titulo": "Taça Clube Interbairros 2026: veja horários e locais dos jogos das quartas de final",
-        "resumo": "Taça Clube Interbairros de Futebol: 8 equipes se classificaram; quartas no sábado A Taça Clube Interbairros de Futebol segue neste sábado com os jogos das quartas de final. Oito equipes entrarão em campo a partir das 16h, nos campos do Bariri (na zona norte) e do Dezoitão (na zona sul). A Rede Clube vai transmitir ao vivo os jogos do Dezoitão na TV Clube, canal 4.2, e no ge.globo/piaui; e nas rádios FM Clube News 90,9 e FM Clube 99,1. Confira abaixo todos os detalhes dos duelos. Campo do Bariri, Taça Clube Interbairros de Futebol 2026 Isaias André A grande decisão será no tradicional estádio…",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/05/23/internet-e-redes-sociais/jogos-de-hoje-23-05-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/pi/taca-clube-interbairros/noticia/2026/05/23/taca-clube-interbairros-2026-veja-horarios-e-locais-dos-jogos-das-quartas-de-final.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-23T11:00:00.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/FtvfSmY4Qrrd3le_bIiirLdSCA4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/k/R/hccKSDR8S4f7tjmuku4g/whatsapp-image-2026-05-16-at-15.38.47.jpeg"
+        "updatedAt": "2026-05-22T18:01:15.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/6z7jn2i3UaGRCZHbQ8y_WLZAWzQ=/700x394/smart/i1079045.png"
       },
       {
         "clusterId": "1cb6a08da0f794c0",
@@ -920,21 +954,6 @@
         "imageUrl": "https://t.ctcdn.com.br/pkjyHD--4PxfBvPUruBitImdKRk=/700x394/smart/i1128821.jpeg"
       },
       {
-        "clusterId": "fc9568f9d18db338",
-        "slug": "d4983716e5a57049",
-        "titulo": "Hong Kong enviará primeira astronauta à estação espacial chinesa",
-        "resumo": "Astronauta vai para a estação espacial Tiangong, laboratório orbital chinês O post Hong Kong enviará primeira astronauta à estação espacial chinesa apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/05/23/ciencia-e-espaco/hong-kong-tera-primeira-astronauta-em-uma-missao-espacial-chinesa/"
-          }
-        ],
-        "updatedAt": "2026-05-23T12:44:46.000Z"
-      },
-      {
         "clusterId": "3a84b42f4bb2358b",
         "slug": "5116fefa9f00afcb",
         "titulo": "Spotify agora deixa qualquer um criar podcasts com ajuda de IA",
@@ -953,6 +972,21 @@
         ],
         "updatedAt": "2026-05-22T18:00:00.000Z",
         "imageUrl": "https://t.ctcdn.com.br/UmKDHWh2MB4mDpYbGkTyaE09dqA=/700x394/smart/i1059643.png"
+      },
+      {
+        "clusterId": "fc9568f9d18db338",
+        "slug": "d4983716e5a57049",
+        "titulo": "Hong Kong enviará primeira astronauta à estação espacial chinesa",
+        "resumo": "Astronauta vai para a estação espacial Tiangong, laboratório orbital chinês O post Hong Kong enviará primeira astronauta à estação espacial chinesa apareceu primeiro em Olhar Digital.",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/05/23/ciencia-e-espaco/hong-kong-tera-primeira-astronauta-em-uma-missao-espacial-chinesa/"
+          }
+        ],
+        "updatedAt": "2026-05-23T12:44:46.000Z"
       },
       {
         "clusterId": "9d5e64991f19407c",
@@ -984,29 +1018,24 @@
           }
         ],
         "updatedAt": "2026-05-23T10:19:00.000Z"
+      },
+      {
+        "clusterId": "c8eaf232abc41ef2",
+        "slug": "eaaa61781780ec2c",
+        "titulo": "Estamos perto de um Red Dead Redemption 3?",
+        "resumo": "Com o lançamento de GTA VI se aproximando, a esperança por um Red Dead Redemption 3 é cada vez maior. Entretanto, pronunciamentos oficiais são bem escassos, enquanto boatos e rumores são bem vagos. Veja aqui o que temos até o momento, para descobrir o que temos de fato até agora. O post Estamos perto de um Red Dead Redemption 3? apareceu primeiro em Olhar Digital.",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/05/23/games-e-consoles/estamos-perto-de-um-red-dead-redemption-3/"
+          }
+        ],
+        "updatedAt": "2026-05-23T10:00:00.000Z"
       }
     ],
     "ciencia": [
-      {
-        "clusterId": "e785874cddb12438",
-        "slug": "3c9a3782a10c7ef8",
-        "titulo": "Bruno Rosa fala da experiência de ser pai e revela “feat” dos sonhos",
-        "resumo": "O cantor sertanejo Bruno Rosa, companheiro de Key Alves, conversou com a coluna e abriu o coração sobre a vida profissional e pessoal",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/fabia-oliveira/bruno-rosa-fala-da-experiencia-de-ser-pai-e-revela-feat-dos-sonhos"
-          },
-          {
-            "name": "Pesquisa FAPESP",
-            "url": "https://revistapesquisa.fapesp.br/bruno-cogliati/?utm_source=rss&utm_medium=rss&utm_campaign=bruno-cogliati"
-          }
-        ],
-        "updatedAt": "2026-05-23T12:00:43.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/05/bruno-rosa-1.jpg"
-      },
       {
         "clusterId": "985ab38bfdce52b7",
         "slug": "d46bb334965f106d",
@@ -1117,6 +1146,22 @@
         ],
         "updatedAt": "2026-05-22T20:01:23.000Z",
         "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/05/20260522_grecia-1024x538.jpg"
+      },
+      {
+        "clusterId": "908a7ef77580c497",
+        "slug": "341edc0d68052f2c",
+        "titulo": "Gênero e transformação do trabalho estarão em debate na USP",
+        "resumo": "Encontro no Instituto de Estudos Avançados (IEA) reunirá especialistas no tema; em discussão a divisão sexual do trabalho, economia do cuidado e precarização laboral",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/diversidade/genero-e-transformacao-do-trabalho-estarao-em-debate-na-usp/"
+          }
+        ],
+        "updatedAt": "2026-05-22T19:45:47.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/05/20260522_mulheres-trabalhando-1024x538.jpg"
       }
     ],
     "saude": [
@@ -1136,21 +1181,6 @@
         "updatedAt": "2026-05-22T21:31:00.000Z"
       },
       {
-        "clusterId": "5a9944742066aa5a",
-        "slug": "8a1ce9b519967747",
-        "titulo": "Quais são os direitos dos pacientes no Brasil?",
-        "resumo": "Antes dispersos em normas, resoluções e decisões judiciais, os direitos dos pacientes passam agora a ser reunidos em um estatuto. Entenda o que muda. The post Quais são os direitos dos pacientes no Brasil? first appeared on Portal Drauzio Varella.",
-        "porQueImporta": "",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/saude-publica/quais-sao-os-direitos-dos-pacientes-no-brasil/"
-          }
-        ],
-        "updatedAt": "2026-05-22T18:01:15.000Z"
-      },
-      {
         "clusterId": "79b952cdeb105161",
         "slug": "2fc2fd8207c964ee",
         "titulo": "Doença cardíaca isquêmica: o que acontece quando falta oxigênio ao coração",
@@ -1168,31 +1198,83 @@
     ],
     "esportes": [
       {
-        "clusterId": "6ad06a2d9521af6f",
-        "slug": "d29b2ccedffc80ff",
-        "titulo": "São Paulo x Botafogo: onde assistir ao vivo, horário e escalações",
-        "resumo": "São Paulo x Botafogo: informações e palpite para o jogo São Paulo e Botafogo se enfrentam às 17h (de Brasília) deste sábado, no Morumbis, pela 17ª rodada do Campeonato Brasileiro. A partida terá transmissão da Globo, da ge tv, do Premiere, e o ge acompanha tem Tempo Real - clique aqui. O São Paulo volta ao Morumbis depois de dois jogos como mandante no Brasileirão longe de seu estádio. O time precisou atuar em Campinas e em Bragança Paulista por causa dos shows do The Weeknd, mas tem sua casa à disposição novamente neste sábado. + Veja a tabela completa do Campeonato Brasileiro + São Paulo x…",
+        "clusterId": "47da51fdf5c0492e",
+        "slug": "0f4b6a574e93e586",
+        "titulo": "Agenda esportiva e incidente em concurso de beleza internacional",
+        "resumo": "A programação do dia 23 de maio de 2026 inclui uma vasta agenda de jogos de futebol, com partidas válidas pelas Séries A, B, C e D do Campeonato Brasileiro, além de confrontos de ligas europeias como a LaLiga e a final da Copa da Alemanha, todos com opções de transmissão ao vivo. Em outro evento, a Miss Brasil Joana Camargo se desequilibrou e caiu no palco durante a final do Miss Eco International 2026, no Egito, no momento em que seu nome foi anunciado para o Top 5.",
+        "porQueImporta": "Os eventos esportivos oferecem diversas opções de entretenimento, e o incidente no concurso de beleza atraiu atenção.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/vitoria-x-internacional-no-brasileirao-onde-assistir-ao-vivo-horario-e-escalacoes/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/colunas/fabia-oliveira/miss-brasil-cai-ao-vivo-na-final-de-concurso-no-egito"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/sc/futebol/brasileirao-serie-b/noticia/2026/05/23/avai-x-goias-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+          },
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/05/23/internet-e-redes-sociais/jogos-de-hoje-23-05-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/valencia-x-barcelona-horario-e-onde-assistir-ao-jogo-de-laliga/"
+          }
+        ],
+        "updatedAt": "2026-05-23T14:55:30.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg"
+      },
+      {
+        "clusterId": "ae4a2f84ee1679e8",
+        "slug": "5b19bbad5ced93a7",
+        "titulo": "Dois homens são presos por suspeita de manter adolescente em cárcere privado em Volta Redonda",
+        "resumo": "Dois homens são presos por suspeita de manter adolescente em cárcere privado em Volta Redonda Mariah Morais/g1 Dois homens foram presos por suspeita de manter uma adolescente, de 16 anos, em cárcere privado neste sábado (23) em Volta Redonda (RJ). O caso aconteceu no bairro Conforto. Segundo a Polícia Militar, os agentes receberam informações que uma adolescente estava sendo coagida e mantida contra a sua vontade em um estabelecimento comercial. A ação foi em conjunto com a Polícia Civil. Ainda de acordo com a corporação, no local, a vítima afirmou que veio do município do Rio de Janeiro (RJ)…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/em-busca-da-paz-sao-paulo-e-botafogo-duelam-e-querem-estabilidade/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/sao-paulo-x-botafogo-no-brasileirao-onde-assistir-ao-vivo-horario-e-escalacoes/"
+            "name": "G1",
+            "url": "https://g1.globo.com/es/espirito-santo/norte-noroeste-es/noticia/2026/05/23/tres-irmaos-da-bahia-sao-presos-suspeitos-de-trafico-e-de-ameacar-moradores-em-linhares.ghtml"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2026/05/23/solucao-para-o-ataque-problema-para-a-defesa-sao-paulo-aproveita-artur-mas-sofre-sem-ferraresi.ghtml"
+            "url": "https://ge.globo.com/rj/sul-do-rio-costa-verde/futebol/brasileirao-serie-c/jogo/24-05-2026/volta-redonda-ypiranga-rs.ghtml"
           }
         ],
-        "updatedAt": "2026-05-23T13:00:42.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/04/GettyImages-2173028716.jpg?quality=70&strip=info"
+        "updatedAt": "2026-05-23T14:44:32.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/uc2rkKRqOINbxJLCiCpNT2f0n5I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/c/A3M7IATBiBFGzTCw3wbA/whatsapp-image-2026-05-23-at-10.42.16-1-.jpeg"
       },
       {
-        "clusterId": "bea6bef2d9b362a3",
+        "clusterId": "d61c9e1b6ba9477a",
+        "slug": "8d21007890d09542",
+        "titulo": "Brasília x Franca no jogo 3 da semifinal do NBB: onde assistir ao vivo e horário",
+        "resumo": "Franca perde para Brasília e semifinal do NBB fica empatada Brasília e Sesi Franca Basquete se enfrentam neste sábado, no Nilson Nelson, em Brasília (DF), pelo terceiro jogo da série melhor de cinco na semifinal do NBB 2025/2026. A bola sobe às 19h45 e o jogo tem transmissão ao vivo do sportv2. A semi está empatada em 1 a 1. O Sesi venceu o primeiro confronto, em Franca (SP), por 76 a 67. A equipe brasiliense deu o troco na sequência, e fez 67 a 50, com a partida em seus domínios. Brasília e Franca fazem o jogo 3 da semifinal do NBB no DF Marcos Limonti/Relance/Sesi Franca Pelo Franca, o…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv1.ghtml"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/basquete/nbb/noticia/2026/05/23/brasilia-x-franca-no-jogo-3-da-semifinal-do-nbb-onde-assistir-ao-vivo-e-horario.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-23T14:44:23.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg"
+      },
+      {
+        "clusterId": "38447e960cf07536",
         "slug": "cf370599bafd7338",
         "titulo": "Palpite ge 2026: veja as apostas de apresentadores e comentaristas para a 17ª rodada do Brasileirão",
         "resumo": "Seleção sportv: Quem é melhor entre Flamengo e Palmeiras? Os apresentadores e comentaristas registraram seus palpites para a 17ª rodada do Campeonato Brasileiro. Há duas unanimidades entre os palpiteiros e confrontos equilibrados na disputa. As vitórias de Cruzeiro e Vasco diante de Chapecoense e Bragantino, respectivamente, foram as mais cotadas entre os participantes. Os dois times receberam todos os votos da bancada e surgem como os favoritos da rodada. Flamengo e Palmeiras se reencontram pela primeira vez depois da final da Libertadores de 2025 Divulgação/Conmebol + Veja a classificação e…",
@@ -1200,26 +1282,62 @@
         "category": "esportes",
         "sources": [
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/cartola/noticia/2026/05/23/dicas-da-cami-influenciadora-acredita-em-favoritismo-do-cruzeiro-na-rodada-17-do-brasileirao.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/flamengo-critica-cbf-por-nao-adiar-jogos-do-brasileirao-nao-ha-isonomia/"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-x-palmeiras-veja-as-provaveis-escalacoes-do-jogo-pelo-brasileirao/"
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/05/23/flamengo-critica-nao-adiamento-de-rodada-sem-jogadores-convocados-nao-ha-isonomia.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-23T14:11:57.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/crbPQHL0tasrheDwiQO_pD5HB1A=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/U/Y/yQD5g6Qzuji3el332rlQ/54740367069-50406d6b81-o.jpg"
+      },
+      {
+        "clusterId": "806147279e4823ba",
+        "slug": "71310518dd8e5240",
+        "titulo": "Como Diniz tem trabalhado para evitar desmanche no Corinthians durante a Copa do Mundo",
+        "resumo": "Diniz alcança marca histórica na Libertadores, mas pede foco do Corinthians no Brasileirão A possibilidade de um desmanche no elenco do Corinthians durante a Copa do Mundo tem incomodado o técnico Fernando Diniz. Ciente da iminência da chegada de ofertas europeias para nomes como Yuri Alberto, Breno Bidon, Hugo Souza, Matheuzinho e André, o treinador tido conversas constantes com seus principais jogadores nos corredores do CT Joaquim Grava na tentativa de mantê-los no clube no segundo semestre. + Siga o canal ge Corinthians no WhatsApp A comissão técnica entende que o Corinthians está bem…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/05/23/como-diniz-tem-trabalhado-para-evitar-desmanche-no-corinthians-durante-a-copa-do-mundo.ghtml"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/esporte/classico-no-brasileirao-quanto-vale-o-elenco-do-palmeiras/"
+            "url": "https://exame.com/esporte/qual-vai-ser-o-proximo-jogo-do-corinthians/"
           }
         ],
-        "updatedAt": "2026-05-23T12:41:08.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/Q7Qmyvj3fWg-DEiknicdA_QZcyg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/y/z/LMe6GBT7uAitbbbzsB2g/thumb-cami-2305.jpg"
+        "updatedAt": "2026-05-23T14:00:34.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/O-02GHYZ92n3cb-LY8yTErkOY3k=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/N/Q/cPdn7hRQ2ar0qQR8Y7sQ/244910.jpg"
       },
       {
-        "clusterId": "1dd39f0c116133c2",
-        "slug": "5dbea61981856920",
-        "titulo": "Mirassol x Fluminense: onde assistir ao vivo, horário e escalações",
-        "resumo": "Mirassol x Fluminense: informações e palpite para o jogo Mirassol e Fluminense se enfrentam neste sábado, às 19h, no estádio Maião, em Mirassol, pela 17ª rodada do Campeonato Brasileiro. A partida terá transmissão ao vivo do Premiere. O ge acompanha a partida em Tempo Real - clique aqui para seguir. Initial plugin text O Mirassol enfrenta cenários opostos na temporada. No meio de semana, garantiu a vaga nas oitavas de final da Libertadores ao vencer o Always Ready e avançou para a mesma fase na Copa do Brasil. Já no Brasileirão, a situação preocupa: o Leão vem de derrota fora de casa para o…",
+        "clusterId": "a21c572a1e22ecf6",
+        "slug": "c9e680ca8002868d",
+        "titulo": "Em boa fase no Inter, Alerrandro reencontra o Vitória, onde foi artilheiro do Brasileirão",
+        "resumo": "Trio ABC: podcast ge Inter analisa atuações de Alerrandro, Bernabei e Carbonero O duelo deste sábado entre Vitória e Inter, pela 17ª rodada do Brasileirão, reserva um momento especial para Alerrandro. O centroavante vive bom momento na temporada pelo time gaúcho e terá um reencontro com o clube onde teve o maior destaque na carreira. + O ge está no WhatsApp! Siga o canal ge Inter Em 2024, emprestado pelo Bragantino ao Vitória, Alerrandro encerrou a temporada como artilheiro do Brasileirão, com 15 gols, ao lado de Yuri Alberto. Tornou-se o primeiro jogador do time baiano a alcançar tal feito…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/vitoria-busca-dar-fim-a-inconstancia-contra-inter-embalado-no-brasileirao/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/05/23/gabigol-ganha-nova-oportunidade-e-vira-esperanca-do-santos-para-se-afastar-do-z-4-no-brasileirao.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-23T13:50:59.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/jjYChtFexZe_FWvA3AABizi4l5g=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/S/U/VJSkJASXuR78r8hnpwoQ/agif26052019500628.jpg"
+      },
+      {
+        "clusterId": "5170ba6b5187ef73",
+        "slug": "a244892f7300c59f",
+        "titulo": "Jemmes reencontra o Mirassol em busca de reafirmação no Fluminense",
+        "resumo": "Mirassol x Fluminense: informações e palpite para o jogo O Fluminense encara o Mirassol neste sábado, pelo Brasileirão, e o jogo marcará o reencontro do zagueiro Jemmes com seu ex-clube. Contratado pela equipe tricolor para esta temporada, o defensor se destacou com a camisa do time paulista no ano passado. Ao lado de João Victor, Jemmes formou uma das melhores duplas de zaga do Campeonato Brasileiro na surpreendente campanha do Mirassol, que se classificou para a Conmebol Libertadores. Valorizado, ele despertou o interesse de outros clubes brasileiros, mas chegou ao Flu, que pagou R$ 22…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
@@ -1236,127 +1354,27 @@
         "imageUrl": "https://s2-ge.glbimg.com/cdVNcts3HzWgwM6NfZn-PNc6Q38=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/P/T/UPaTGzSnyA8lo6EEfscA/agif26030122330997.jpg"
       },
       {
-        "clusterId": "d204d0c74eb8e26d",
-        "slug": "e0a18da12b97b452",
-        "titulo": "Bruno Fernandes é eleito o melhor jogador da Premier League",
-        "resumo": "Casemiro foi homenageado pela torcida ao se despedir do Manchester United Bruno Fernandes foi eleito o melhor jogador da temporada 2025/26 na Premier League. O meio-campista do Manchester United superou Gibbs-White, do Nottingham Forest, Haaland e Semenyo, do Manchester City, Gabriel Magalhães, Raya e Declan Rice, do Arsenal, e Igor Thiago, do Brentford. O meia português atua no United desde 2020, mas recebe o prêmio pela primeira vez aos 31 anos. Ele foi escolhido em uma combinação de votos populares, dos capitães dos clubes e de um grupo de especialistas, formado por ex-jogadores e…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/05/23/bruno-fernandes-e-eleito-o-melhor-jogador-da-premier-league.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/bruno-fernandes-e-eleito-o-melhor-jogador-da-premier-league-na-temporada/"
-          }
-        ],
-        "updatedAt": "2026-05-23T12:55:26.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/-z26kBGXOaBxK8yD_4DwocFMSYE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/B/a/cQzuSMSfSU6ZMGXhkmGA/bruno-fernandes.jfif"
-      },
-      {
-        "clusterId": "2732854544f3f9f0",
-        "slug": "1a201e49c6938c80",
-        "titulo": "A Era Guardiola no Manchester City: reveja a trajetória em 10 atos",
-        "resumo": "Manchester City anuncia a saída de Pep Guardiola Ainda é cedo para mensurar o tamanho do impacto do trabalho de Pep Guardiola no futebol inglês. Mas, recém confirmado o fim da \"Era Guardiola\" no Manchester City, é possível dizer que o treinador deixa um legado de inovações táticas, recordes, desenvolvimento de grandes talentos, identidade clara de jogo, e um total de 20 títulos. + Guardiola revela um arrependimento em seus 10 anos de Manchester City Guardiola vai deixar o Manchester City Reprodução X + Confira a tabela do Campeonato Inglês 2025/26 O Manchester City anunciou a chegada de Pep…",
+        "clusterId": "b0fc3be7996bf14d",
+        "slug": "51b0c6dc8fbde5a3",
+        "titulo": "Solução para o ataque, problema para a defesa: São Paulo aproveita Artur, mas sofre sem Ferraresi",
+        "resumo": "Voz do Setorista: Entenda como está a renovação de Calleri no São Paulo Em março deste ano, o São Paulo concluiu duas negociações com o Botafogo, adversário deste sábado, às 17h, pelo Brasileirão. O clube não sabia, àquela altura, que elas resolveriam um problema, mas deixariam uma lacuna no elenco agora comandado pelo técnico Dorival Júnior. + Siga o canal ge São Paulo no WhatsApp O São Paulo emprestou o zagueiro Ferraresi ao Botafogo, com contrato válido até o fim de 2026. Duas semanas depois, o clube contratou, também por empréstimo até o fim da temporada, o atacante Artur. O reforço…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/guardiola-revela-maior-arrependimento-em-passagem-pelo-manchester-city/"
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/em-busca-da-paz-sao-paulo-e-botafogo-duelam-e-querem-estabilidade/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/05/23/a-era-guardiola-no-manchester-city-reveja-a-trajetoria-em-10-atos.ghtml"
+            "url": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2026/05/23/solucao-para-o-ataque-problema-para-a-defesa-sao-paulo-aproveita-artur-mas-sofre-sem-ferraresi.ghtml"
           }
         ],
-        "updatedAt": "2026-05-23T12:38:18.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/svRguXvHPImsm1KtzBxPCYQ3hzA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/H/H/Si2svcTHS4W1W0g4Gx7g/hi6qfp9wcaa9xdb.jpg"
-      },
-      {
-        "clusterId": "13eb67a2a9eed535",
-        "slug": "379cc331fe7bf803",
-        "titulo": "Thunder vence Spurs em jogo marcado por confusão e abre 2 a 1 na final da Conferência Oeste",
-        "resumo": "O Oklahoma City Thunder engatou a segunda vitória seguida na final da Conferência Oeste e abriu 2 a 1 contra o San Antonio Spurs. Nesta sexta-feira (22), no Frost Bank Center - casa do adversário, o time venceu por 123 a 108. O confronto contou com confusão, destaque para performance do banco de reservas do OKC e o desempenho apagado de Shai Gilgeous-Alexander no primeiro tempo, embora tenha terminado a partida como o maior pontuador. + Playoffs da NBA 2025/2026: veja tabela, datas, horários e jogos O entrevero aconteceu no terceiro período. Após iniciar um rebote ofensivo, o armador dos…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/rs/futebol/futebol-feminino/brasileiro-feminino/jogo/22-05-2026/internacional-flamengo-feminino.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/basquete/nba-thunder-vence-spurs-fora-de-casa-e-abre-2-a-1-no-oeste/"
-          }
-        ],
-        "updatedAt": "2026-05-23T12:23:53.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/cNTV4xlw3RRECPaN9y9819c22x0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/A/x/BSgfxSQiS0e9PRQ1ZRJA/gettyimages-2277757507.jpg"
-      },
-      {
-        "clusterId": "73c341bd1cbe7c43",
-        "slug": "ab85abd847d70424",
-        "titulo": "Luisa Stefani é bicampeã de duplas do WTA 500 de Estrasburgo",
-        "resumo": "Luisa Stefani se sagrou campeã nas duplas femininas do WTA 500 de Estrasbrugo. Ao lado da canadense Gabriela Dabrowski, Luisa venceu a grande final por 2 sets a 0 com parciais 7/5 e 6/4, derrotando a dupla formada por Quinn Gleason (EUA) e Ulrikke Eikeri (NOR). Com a vitória, a brasileira conseguiu o bicampeonato na competição, que é sediada no norte da França. + João Fonseca estreia em Roland Garros; veja horário e onde assistir + João Fonseca vai estrear em Roland Garros contra o francês Luka Pavlovic, 240º do mundo + Luisa Stefani é campeã do WTA 500 de Estrasburgo Reprodução/ Instagram…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/tenis/noticia/2026/05/23/luisa-stefani-e-campea-de-duplas-do-wta-500-de-estrasburgo.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/tenis/luisa-stefani-brilha-e-conquista-titulo-no-wta-de-estrasburgo/"
-          }
-        ],
-        "updatedAt": "2026-05-23T11:56:00.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/a5NBaYuYGHZsDmVqneLWxPIyj1I=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/J/v/1tmW5YRludAYpliOXxVg/whatsapp-image-2026-05-23-at-08.49.58.jpeg"
-      },
-      {
-        "clusterId": "258d1e2a26a58c0b",
-        "slug": "c2465c04e6bdce26",
-        "titulo": "Por que primeira derrota em dois meses liga alerta no Palmeiras antes de confronto direto",
-        "resumo": "Thiago Ferri e Leandro Bocca comentam momento do Palmeiras O Palmeiras perdeu um jogo pela primeira vez em 69 dias, continua líder do Campeonato Brasileiro e ainda depende apenas de si para avançar às oitavas de final da Conmebol Libertadores. O momento, contudo, não é bom, com críticas e vaias após a derrota para o Cerro Porteño, quarta-feira. + Siga o ge Palmeiras no WhatsApp A presidente Leila Pereira ironizou as cornetas na tarde de quinta, mas há uma cobrança para melhoras. O ge explica abaixo os motivos pelos quais, apesar dos bons números, há uma preocupação antes do confronto direto…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/05/23/por-que-primeira-derrota-em-dois-meses-liga-alerta-no-palmeiras-antes-de-confronto-direto.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/com-abel-ferreira-pressionado-palmeiras-visita-flamengo-em-duelo-direto/"
-          }
-        ],
-        "updatedAt": "2026-05-23T11:01:06.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/GLD3aNZnAa-ST2fBQUobX0ctNdU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/W/X/3qEmezQkmjayO1DnMzIg/rib3167.jpg"
+        "updatedAt": "2026-05-23T13:00:42.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/-K_kCWGJScxwZilDsjwPIMp_IRg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/C/D/tODtVDRv6hG0UBxirGTw/rib6503.jpg"
       }
     ],
     "entretenimento": [
-      {
-        "clusterId": "df013b6a186e9d4f",
-        "slug": "0ccbb19dd21e995e",
-        "titulo": "Música para MC Kevin, funk com as irmãs e 'Baile da Doutora': relembre a carreira musical de Deolane, que durou nove meses",
-        "resumo": "Deolane Bezerra é presa suspeita de lavar dinheiro para cúpula do PCC Presa na manhã desta quinta-feira (21) em uma operação da Polícia Federal, a advogada e influenciadora digital Deolane Bezerra, de 38 anos, já se aventurou pelo mercado fonográfico brasileiro. A jornada durou nove meses. Entre o fim de 2021 e meados de 2022, ela tentou engatar uma carreira musical como cantora e DJ, apostando em vertentes como o funk ostentação, o rap e o piseiro. Sua discografia de três músicas inclui \"Meu Menino\", uma homenagem ao ex-marido MC Kevin, morto em 2021. No Spotify, onde o perfil da empresária…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/deolane-presa-veja-como-foi-2o-dia-da-influenciadora-em-presidio-de-sp/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/05/21/deolane-em-ultimo-story-antes-de-ser-presa-amanha-vou-ficar-bem-ativa-aqui-nessa-rede.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-23T06:37:47.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/vGPLpcaoPX66WVPl7_CEr5GBtfQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/l/BwF48mR8qBTJs4LbAZxg/pgm-globonews-limpo-ao-vivo-20260521-0659-frame-58938.jpeg"
-      },
       {
         "clusterId": "1c4cd8e7b6a02ed8",
         "slug": "0d69368f717fc86b",
@@ -1468,6 +1486,22 @@
         ],
         "updatedAt": "2026-05-22T07:01:45.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/53wlE5sU9xq2usBc-hwmnKoLTLk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/B/UAIFiTTmWBUV1PA5giJw/mv5bmzkwodc5mgqtzjayny00mjqzltkznzqtnzvjnmu5mdcyzde4xkeyxkfqcgc-.-v1-.jpg"
+      },
+      {
+        "clusterId": "2b14869e3a71f3dd",
+        "slug": "2a08dbdfb8ad149a",
+        "titulo": "Com Anitta no time de intérpretes e o duo Tropkillaz na coprodução, 'Goals' põe funk, pop e afrobeat em campo",
+        "resumo": "Anitta divide o canto da música 'Goals' com o cantor nigeriano Rema e a rapper tailandesa Lisa Divulgação ♫ CRÍTICA DE SINGLE Título: Goals Artistas: Anitta, Lisa, Rema Cotação: ★ ★ ★ 1/2 ♬ O duo paulistano Tropkillaz fez bem em reivindicar publicamente os créditos como coprodutor da gravação de “Goals”. música lançada hoje, 21 de maio, em single que faz parte do álbum produzido pela Fifa com a trilha sonora oficial da Copa do Mundo de 2026. Na gravação que junta Anitta com a rapper tailandesa Lisa (integrante do grupo sul-coreano de k-pop Blackpink) e o cantor nigeriano Rema, a batida do…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/05/21/com-anitta-no-time-de-interpretes-e-o-duo-tropkillaz-na-coproducao-goals-poe-funk-pop-e-afrobeat-em-campo.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-21T23:06:58.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/NUZyg9VD18wz4eIaH9HNjgTeMlg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/R/eHEv4dTG2HBaX4b3k5Ag/anittagoalsfoto.jpg"
       }
     ]
   }
