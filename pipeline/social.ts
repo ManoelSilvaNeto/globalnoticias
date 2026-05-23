@@ -18,13 +18,48 @@ const SITE_NAME = 'GlobalNotícias';
 const MAX_PER_RUN = 5; // teto de histórias por execução
 const STATE_PATH = resolve(process.cwd(), 'data/social.json');
 
-type Story = { clusterId: string; slug?: string; titulo: string; resumo: string };
+type Story = { clusterId: string; slug?: string; titulo: string; resumo: string; category?: string };
 type Edition = { home: Story[] };
 type SocialState = { updatedAt: string; posted: string[] };
 
 const slugOf = (s: Story): string => s.slug ?? s.clusterId;
 const urlOf = (s: Story): string => `${SITE}/noticia/${slugOf(s)}/`;
 const clip = (s: string, n: number): string => (s.length > n ? `${s.slice(0, n - 1)}…` : s);
+
+const CATEGORY_TAG: Record<string, string> = {
+  politica: 'politica', economia: 'economia', mundo: 'mundo', tecnologia: 'tecnologia',
+  ciencia: 'ciencia', saude: 'saude', esportes: 'esportes', entretenimento: 'entretenimento',
+};
+
+// Hashtags p/ alcançar quem NÃO segue (feeds de hashtag do Bluesky/Mastodon).
+function hashtagsFor(story: Story): string[] {
+  const tags = ['noticias', 'brasil'];
+  const c = story.category ? CATEGORY_TAG[story.category] : undefined;
+  if (c && !tags.includes(c)) tags.push(c);
+  return tags;
+}
+
+// Facets do Bluesky: marca cada #tag com offset em BYTES (UTF-8) p/ virar hashtag
+// clicável/indexada — sem facet o "#" fica só como texto morto.
+function tagFacets(text: string, tags: string[]): Record<string, unknown>[] {
+  const enc = new TextEncoder();
+  const facets: Record<string, unknown>[] = [];
+  let from = 0;
+  for (const tag of tags) {
+    const needle = `#${tag}`;
+    const idx = text.indexOf(needle, from);
+    if (idx < 0) continue;
+    facets.push({
+      index: {
+        byteStart: enc.encode(text.slice(0, idx)).length,
+        byteEnd: enc.encode(text.slice(0, idx + needle.length)).length,
+      },
+      features: [{ $type: 'app.bsky.richtext.facet#tag', tag }],
+    });
+    from = idx + needle.length;
+  }
+  return facets;
+}
 
 async function readState(): Promise<SocialState> {
   try {
@@ -66,11 +101,15 @@ async function postBluesky(story: Story): Promise<boolean> {
     return false;
   }
   const { accessJwt, did } = (await session.json()) as { accessJwt: string; did: string };
+  const tags = hashtagsFor(story);
+  const tagLine = tags.map((t) => `#${t}`).join(' ');
+  const text = `${clip(story.titulo, 295 - tagLine.length)}\n\n${tagLine}`; // limite 300 graphemes
   const record = {
     $type: 'app.bsky.feed.post',
-    text: clip(story.titulo, 280),
+    text,
     createdAt: new Date().toISOString(),
     langs: ['pt-BR'],
+    facets: tagFacets(text, tags),
     embed: {
       $type: 'app.bsky.embed.external',
       external: { uri: urlOf(story), title: clip(story.titulo, 200), description: clip(story.resumo, 280) },
@@ -90,7 +129,8 @@ async function postMastodon(story: Story): Promise<boolean> {
   const instance = process.env.MASTODON_INSTANCE?.replace(/\/$/, '');
   const token = process.env.MASTODON_TOKEN;
   if (!instance || !token) return false;
-  const status = `${clip(story.titulo, 450)}\n\n${urlOf(story)}`;
+  const tagLine = hashtagsFor(story).map((t) => `#${t}`).join(' ');
+  const status = `${clip(story.titulo, 380)}\n\n${urlOf(story)}\n\n${tagLine}`; // limite 500
   const res = await fetch(`${instance}/api/v1/statuses`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${token}` },
