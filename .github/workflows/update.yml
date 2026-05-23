@@ -77,3 +77,27 @@ jobs:
       - name: Avisar buscadores (IndexNow — Bing/Yandex)
         if: ${{ env.CLOUDFLARE_API_TOKEN != '' }}
         run: pnpm tsx pipeline/indexnow.ts
+
+      - name: Divulgar nas redes (Telegram/Bluesky/Mastodon)
+        if: ${{ env.CLOUDFLARE_API_TOKEN != '' }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          MASTODON_INSTANCE: ${{ secrets.MASTODON_INSTANCE }}
+          MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
+        run: pnpm tsx pipeline/social.ts
+
+      - name: Commitar estado social (se mudou)
+        if: ${{ env.CLOUDFLARE_API_TOKEN != '' }}
+        run: |
+          git config user.name "globalnoticias-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/social.json; then
+            echo "Sem novidades sociais — nada a commitar."
+          else
+            git add data/social.json
+            git commit -m "social: estado de divulgação $(date -u +%FT%TZ) [skip ci]"
+            git push
+          fi

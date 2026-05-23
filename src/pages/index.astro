@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import StoryList from '../components/StoryList.astro';
 import CategorySection from '../components/CategorySection.astro';
 import AdSlot from '../components/AdSlot.astro';
+import Newsletter from '../components/Newsletter.astro';
 import { currentEdition, hasContent } from '../lib/data';
 import { CATEGORIES } from '../lib/categories';
 import { topics } from '../lib/topics';
@@ -39,6 +40,8 @@ const ogImage = edition.home.find((s) => s.imageUrl)?.imageUrl;
         <AdSlot />
 
         {CATEGORIES.map((cat) => <CategorySection category={cat} stories={edition.categorias[cat]} />)}
+
+        <Newsletter />
 
         {
           hotTopics.length > 0 && (
