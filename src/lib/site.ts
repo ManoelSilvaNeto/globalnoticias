@@ -10,5 +10,5 @@ export const SITE = {
 // vazio = o formulário não aparece. O embed do Buttondown só usa o nome de
 // usuário público — não tem chave/segredo na página.
 export const NEWSLETTER = {
-  buttondownUser: '',
+  buttondownUser: 'globalnoticias',
 } as const;
