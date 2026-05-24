@@ -1,15 +1,19 @@
 {
   "date": "2026-05-24",
-  "generatedAt": "2026-05-24T03:41:51.974Z",
+  "generatedAt": "2026-05-24T07:21:51.560Z",
   "home": [
     {
-      "clusterId": "be64e95691cd38be",
+      "clusterId": "e5770b036946e68b",
       "slug": "e816d4bc30169155",
       "titulo": "Suspeito morre após disparar contra agentes perto da Casa Branca",
       "resumo": "Um homem abriu fogo contra agentes do Serviço Secreto nas proximidades da Casa Branca, em Washington, resultando na mobilização das forças de segurança. O suspeito foi baleado pelos agentes e morreu. Durante o incidente, um pedestre também foi atingido. O presidente Donald Trump estava na residência oficial, mas não foi afetado.",
       "porQueImporta": "O incidente levou à interdição temporária da área e mobilizou autoridades de segurança.",
       "category": "economia",
       "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/trump-elogia-servico-secreto-apos-tiroteio-perto-da-casa-branca/"
+        },
         {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/c87qwp3xgn9o?at_medium=RSS&at_campaign=rss"
@@ -23,10 +27,6 @@
           "url": "https://www.poder360.com.br/poder-internacional/disparos-na-casa-branca-mobilizam-servico-secreto-e-ferem-2/"
         },
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/homem-que-efetuou-disparos-contra-agentes-perto-da-casa-branca-foi-morto/"
-        },
-        {
           "name": "G1",
           "url": "https://g1.globo.com/jornal-nacional/noticia/2026/05/23/disparos-contra-agentes-levam-a-interdicao-temporaria-da-casa-branca.ghtml"
         },
@@ -35,32 +35,28 @@
           "url": "https://veja.abril.com.br/mundo/tiros-sao-ouvidos-nos-arredores-da-casa-branca/"
         },
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/tiros-sao-disparados-perto-da-casa-branca-e-fbi-e-acionado"
-        },
-        {
           "name": "Exame",
           "url": "https://exame.com/mundo/disparos-no-entorno-da-casa-branca-provocam-bloqueio-de-seguranca-e-mobilizam-autoridades-dos-eua/"
         }
       ],
-      "updatedAt": "2026-05-24T00:42:58.000Z",
+      "updatedAt": "2026-05-24T05:14:00.000Z",
       "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/871c/live/27232bc0-5707-11f1-b682-cf91850925ea.jpg"
     },
     {
-      "clusterId": "6cc2a6799ab106fd",
-      "slug": "1c2193f98fc3a2ae",
-      "titulo": "Trump anuncia acordo de paz com Irã 'amplamente negociado', mas Teerã contesta detalhes",
-      "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou que um acordo de paz com o Irã foi 'amplamente negociado' e está próximo de ser finalizado, incluindo a reabertura do Estreito de Ormuz. Contudo, o Irã contestou a inclusão da abertura do estreito no tratado e classificou a declaração de Trump como 'incompleta e inconsistente com a realidade', embora também tenha sinalizado progresso nas negociações. O Paquistão, atuando como mediador, confirmou avanços 'encorajadores' nas conversas, enquanto a incerteza sobre o acordo gerou volatilidade nos mercados de petróleo.",
-      "porQueImporta": "Um possível acordo de paz entre EUA e Irã pode encerrar um conflito de meses, impactando a estabilidade regional e os mercados globais de energia.",
-      "category": "economia",
+      "clusterId": "f2980dfbc25bdf61",
+      "slug": "7004842b0802a525",
+      "titulo": "Estados Unidos e Irã se aproximam de acordo para reabrir Estreito de Ormuz",
+      "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou que um acordo de paz com o Irã está amplamente negociado, envolvendo a reabertura do Estreito de Ormuz. O Irã também sinalizou progresso nas negociações, com agências iranianas reportando que o tráfego de navios no estreito retornaria aos níveis pré-guerra em 30 dias e que parte dos fundos iranianos congelados seria liberada. No entanto, há divergência sobre o controle do estreito, com a mídia iraniana indicando que Teerã manterá a gestão das passagens, enquanto fontes americanas mencionam um cessar-fogo de 60 dias para a reabertura, e as negociações também abordam a limitação do programa nuclear iraniano, embora o Irã afirme que essa questão não faz parte da estrutura inicial do acordo.",
+      "porQueImporta": "O Estreito de Ormuz é uma rota marítima vital para o transporte global de petróleo, e um acordo pode aliviar tensões regionais e impactar o mercado energético.",
+      "category": "mundo",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/premie-do-paquistao-agradece-trump-por-esforcos-para-buscar-a-paz/"
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/05/24/numero-de-navios-que-passam-pelo-estreito-de-ormuz-voltara-ao-nivel-pre-guerra.ghtml"
         },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/05/23/apos-meses-de-conflito-trump-diz-que-acordo-entre-eua-e-ira-esta-quase-fechado.ghtml"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/turquia-esta-pronta-para-apoiar-um-possivel-acordo-com-ira-diz-presidente/"
         },
         {
           "name": "Veja",
@@ -77,106 +73,62 @@
         {
           "name": "Exame",
           "url": "https://exame.com/mundo/trump-diz-que-acordo-para-encerrar-guerra-com-ira-esta-proximo/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/ira-acusa-eua-de-sabotar-negociacoes-de-paz/"
         }
       ],
-      "updatedAt": "2026-05-24T01:57:49.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/AFP__20260520__B3J26BK__v1__HighRes__776499691-1.jpg?quality=70&strip=info"
+      "updatedAt": "2026-05-24T07:06:54.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/WWlkYAwGtptSkBzyvKlD-z2Iqvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/J/KhrA5iRmAERy0xka0P6A/77268041-906.jpg"
     },
     {
-      "clusterId": "0e7e0f9e34d86619",
-      "slug": "3091a76b62e75579",
-      "titulo": "São Paulo empata com Botafogo e amplia jejum no Brasileirão",
-      "resumo": "O São Paulo empatou em 1 a 1 com o Botafogo no Morumbis, em partida válida pela 17ª rodada do Campeonato Brasileiro. Luciano marcou para o time paulista, enquanto Jordan Barrera igualou o placar nos minutos finais para os cariocas. Este resultado estendeu o jejum de vitórias do São Paulo para oito jogos na competição. O técnico Dorival Júnior lamentou a queda de desempenho da equipe no segundo tempo e também a saída do zagueiro Dória, que rescindiu contrato devido a problemas familiares de saúde e supostas ameaças de torcedores.",
-      "porQueImporta": "O empate mantém o São Paulo em uma situação de crise no Brasileirão, com uma longa sequência sem vitórias.",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-confortavel-e-sao-paulo-em-crise-o-resumo-do-dia-de-brasileirao/"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/23-05-2026/sao-paulo-botafogo.ghtml"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/05/23/paulo-miklos-extrapola-o-karaoke-em-coisas-da-vida-album-de-crooner-com-vies-existencialista-e-moldura-orquestral.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/casual/taste-sao-paulo-milhares-de-quilos-de-insumos-e-milhoes-movimentados/"
-        },
-        {
-          "name": "Canaltech",
-          "url": "https://canaltech.com.br/carros/detail-land-feirao-de-estetica-automotiva-chega-a-sao-paulo/"
-        },
-        {
-          "name": "Jornal da USP",
-          "url": "https://jornal.usp.br/radio-usp/pocos-artesianos-em-sao-paulo-correm-risco-de-contaminacao/"
-        }
-      ],
-      "updatedAt": "2026-05-24T03:00:15.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/u445SU1z9CD1OoHSkApznwmydvQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/V/i/Qw9vIbS7ycUvWBj5BVBQ/g-kbq7jxkaasnhs.jpg"
-    },
-    {
-      "clusterId": "a47e37ee07d5617e",
-      "slug": "27e0a1b6d9eda54a",
-      "titulo": "Datafolha: 38% avaliam governo Lula como ruim ou péssimo; 32% como ótimo ou bom",
-      "resumo": "Presidente Lula durante entrevista Ricardo Stuckert/PR Pesquisa Datafolha divulgada neste sábado (23) mostra que a avaliação negativa do governo do presidente Luiz Inácio Lula da Silva ainda supera a positiva, mas a diferença entre os índices vem diminuindo nas últimas semanas. Segundo o levantamento, 38% consideram a gestão ruim ou péssima, enquanto 32% avaliam o governo como ótimo ou bom. Outros 28% classificam a administração como regular, e 1% não soube responder. Na pesquisa anterior, divulgada em 16 de maio, 39% avaliavam o governo como ruim ou péssimo, enquanto 30% o consideravam ótimo…",
-      "porQueImporta": "",
+      "clusterId": "b85d64bd478b0c64",
+      "slug": "618f5ed9fabe2021",
+      "titulo": "Pesquisa Datafolha indica melhora na avaliação de Lula e vantagem sobre Flávio Bolsonaro",
+      "resumo": "A pesquisa Datafolha, realizada entre 20 e 21 de maio, mostrou que 48% aprovam o trabalho do presidente Lula, e 32% avaliam seu governo como ótimo ou bom, enquanto 38% o consideram ruim ou péssimo, indicando uma redução na diferença entre os índices. Em cenários para as eleições presidenciais de 2026, Lula obteve 40% das intenções de voto no primeiro turno contra 31% de Flávio Bolsonaro, ampliando sua vantagem, e 47% contra 43% em um eventual segundo turno. Flávio Bolsonaro registrou 46% de rejeição e viajou aos EUA em meio a uma queda nas pesquisas e acusações, enquanto o governo Lula busca medidas para aumentar a popularidade e enfrenta desafios como a fragmentação da esquerda em Minas Gerais.",
+      "porQueImporta": "Os resultados da pesquisa e os movimentos políticos recentes fornecem um panorama da percepção pública sobre o governo e o cenário da corrida presidencial de 2026.",
       "category": "politica",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/lula-nao-tem-moral-para-dar-licao-sobre-combate-ao-crime-diz-ruas"
+          "url": "https://www.metropoles.com/minas-gerais/apos-aposta-em-pacheco-esquerda-mineira-se-fragmenta-e-complica-lula"
         },
         {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-governo/sostenes-critica-fala-de-lula-que-associou-alerj-a-milicianos/"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/analise-flavio-cai-em-pesquisas-e-lula-investe-em-pacote-de-bondades/"
         },
         {
           "name": "G1",
           "url": "https://g1.globo.com/jornal-nacional/noticia/2026/05/23/aprovacao-de-lula-volta-a-crescer-apos-sequencia-de-quedas-mostra-datafolha.ghtml"
         },
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/video-lula-pede-a-governador-do-rio-que-trabalhe-para-prender-os-ladroes-que-geriram-o-estado/"
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/ao-lado-de-lula-padilha-chama-flavio-de-poderoso-chefao-dos-hospitais-do-rj/"
         },
         {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/no-rj-lula-faz-apelo-a-couto-trabalhe-para-prender-todos-os-ladroes-que-governaram-esse-estado/"
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/aliado-de-lula-chama-neymar-de-vagabundo-mas-diz-que-vai-torcer-por-ele/"
         },
         {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/cr5plprj4qpo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-05-24T02:32:58.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/04/douglas-ruas-alerj-fala.jpg"
+      "updatedAt": "2026-05-24T06:00:57.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/05/Presidente-Lula-e-Rodrigo-Pacheco-Senado-reune-cupula-dos-Poderes-para-debater-combate-a-incendio-no-Brasil-Metropoles-6.jpg"
     },
     {
-      "clusterId": "1ac05c7f673dc35b",
-      "slug": "724f0a3e5f42a86c",
-      "titulo": "De cadela abandonada a estrela de Cannes: cachorrinha chilena Yuri ganha Palma Canina",
-      "resumo": "Cadela resgatada Yuri rouba a cena em Cannes com prêmio Palm Dog REUTERS/Gonzalo Fuentes A nova estrela canina das ruas de Cannes já tem nome. A Palma Canina (Dog Palm) do festival coroou, nesta sexta-feira (22), Yuri, a protagonista do filme \"La perra\", da diretora chilena Dominga Sotomayor. O longa conta com o brasileiro Selton Mello no elenco. Criado em 2001 à margem do Festival de Cannes, este prêmio informal coroa as melhores atuações caninas nas telonas, tornando-se uma das tradições mais excêntricas e queridas do evento. Este ano, a cerimônia foi realizada em uma praia do calçadão de…",
-      "porQueImporta": "",
-      "category": "economia",
+      "clusterId": "0b98b477e3c2d6fb",
+      "slug": "2fbd0e7aa482bfcd",
+      "titulo": "Filme 'Fjord' vence Palma de Ouro em Cannes e Virada Cultural movimenta São Paulo",
+      "resumo": "O Festival de Cannes de 2026 encerrou-se no sábado, 23 de maio, com o filme 'Fjord', do diretor Cristian Mungiu, recebendo a Palma de Ouro. Esta foi a segunda vez que Mungiu conquistou a principal premiação do festival, após sua vitória em 2007. Enquanto isso, a cidade de São Paulo se prepara para a Virada Cultural 2026, que oferecerá uma programação de 24 horas em diversos palcos neste domingo, 24 de maio.",
+      "porQueImporta": "Esses eventos representam marcos significativos no cinema internacional e na cultura urbana brasileira.",
+      "category": "politica",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/entretenimento/cannes-2026-confira-vencedores"
+          "url": "https://www.metropoles.com/sao-paulo/virada-cultural-2026-veja-as-melhores-atracoes-deste-domingo-24-5"
         },
         {
           "name": "Veja",
           "url": "https://veja.abril.com.br/coluna/veja-gente/os-looks-mais-absurdos-do-festival-de-cannes-2026/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/entretenimento/festival-de-cannes-com-producao-brasileira-elefante-na-nevoa-e-premiado/"
         },
         {
           "name": "G1",
@@ -185,45 +137,77 @@
         {
           "name": "Exame",
           "url": "https://exame.com/casual/fjord-vence-a-palma-de-ouro-no-festival-de-cannes-2026-veja-todos-os-vencedores/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/astrologia/tarot-do-dia-previsao-para-os-12-signos-em-23-05-2026/"
         }
       ],
-      "updatedAt": "2026-05-24T02:27:37.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/05/festival-cannes-2026.jpeg"
+      "updatedAt": "2026-05-24T05:20:44.000Z",
+      "imageUrl": "https://images.metroimg.com/2025/05/22134308/Virada-Cultural-2025-tudo-o-que-voce-precisa-saber-sobre-megaevento.jpg"
     },
     {
-      "clusterId": "29d5956bef8c87ec",
-      "slug": "8511c391394f7985",
-      "titulo": "Morre Gabriel Ganley, fisiculturista e influenciador, aos 22 anos",
-      "resumo": "Morre Gabriel Ganley, um dos nomes promissores do fisiculturismo brasileiro O atleta de fisiculturismo e influenciador fitness Gabriel Ganley morreu aos 22 anos. A informação foi confirmada neste sábado (23) pela Integralmédica, marca de suplementos pela qual ele era patrocinado. A causa da morte não foi informada. Em uma publicação nas redes sociais, a empresa lamentou a perda e descreveu o jovem como um dos nomes promissores da nova geração do fisiculturismo brasileiro. “Hoje perdemos muito mais do que um atleta talentoso e dedicado”, escreveu a marca, que também destacou a relação próxima…",
-      "porQueImporta": "",
-      "category": "economia",
+      "clusterId": "3680cac4a2715d62",
+      "slug": "0f7f7de435c7c90c",
+      "titulo": "Pesquisa Datafolha avalia impacto de escândalo na candidatura de Flávio Bolsonaro e cenário eleitoral de 2026",
+      "resumo": "Uma pesquisa Datafolha recente avaliou o cenário eleitoral para 2026, mostrando que 48% dos eleitores defendem que o senador Flávio Bolsonaro desista de sua candidatura à presidência após a divulgação de conversas com o banqueiro Daniel Vorcaro, enquanto 44% apoiam que ele a mantenha. Contudo, 88% dos eleitores do próprio senador desejam que ele prossiga na disputa. O levantamento também indicou que, em um cenário de primeiro turno, Lula teria 40% das intenções de voto contra 31% de Flávio Bolsonaro, e em um eventual segundo turno, Lula alcançaria 47% contra 43% de Flávio. A pesquisa apontou ainda uma rejeição de 46% ao senador.",
+      "porQueImporta": "Os dados revelam a percepção do eleitorado sobre um pré-candidato à presidência e o impacto de controvérsias em sua imagem.",
+      "category": "politica",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/fabia-oliveira/o-relato-comovente-de-mel-maia-apos-morte-de-gabriel-ganley"
+          "url": "https://www.metropoles.com/sao-paulo/tarcisio-substituir-flavio"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/datafolha-88-dos-eleitores-de-flavio-querem-senador-na-disputa-a-presidencia-apesar-do-escandalo-vorcaro-dark-horse/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/05/22/datafolha-88percent-acham-que-flavio-bolsonaro-deveria-manter-a-candidatura-apos-divulgacao-de-suas-conversas-com-vorcaro.ghtml"
+        },
+        {
+          "name": "Super Interessante",
+          "url": "https://super.abril.com.br/cultura/teste-este-filme-custou-mais-do-que-dark-horse-a-biografia-de-bolsonaro/"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/c1k2pk3p700o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-05-24T05:15:26.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/02/flavio-e-tarcisio-na-alesp-1.jpg"
+    },
+    {
+      "clusterId": "27414dfb4b43498a",
+      "slug": "1ecc9d259603aeca",
+      "titulo": "Morte de fisiculturista e influenciador Gabriel Ganley aos 22 anos é investigada",
+      "resumo": "O fisiculturista e influenciador digital Gabriel Ganley, de 22 anos, faleceu no sábado (23) em sua residência na Zona Leste de São Paulo. A causa da morte não foi oficialmente divulgada, e o caso está sendo investigado como \"morte suspeita - morte súbita\", sem sinais aparentes de violência encontrados no local. Natural do Rio de Janeiro, Ganley era conhecido por seu conteúdo sobre treinos e rotina fitness, acumulando milhões de seguidores nas redes sociais.",
+      "porQueImporta": "A morte precoce de uma figura proeminente nas redes sociais e no esporte gerou grande repercussão entre fãs e colegas.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/05/24/gabriel-ganley-o-que-se-sabe-e-o-que-falta-saber-sobre-a-morte-do-fisiculturista-de-22-anos.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/fisiculturismo/luto-no-fisiculturismo-atletas-lamentam-morte-de-ganley-aos-22-anos/"
         },
         {
           "name": "InfoMoney",
           "url": "https://www.infomoney.com.br/mercados/quem-foi-o-fisiculturista-e-influenciador-gabriel-ganley-que-morreu-aos-22-anos/"
         },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/am/amazonas/noticia/2026/05/23/atletas-amazonenses-lamentam-morte-do-influenciador-fitness-e-fisiculturista-gabriel-ganley.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/entretenimento/mel-maia-lamenta-morte-de-fisiculturista-gabriel-ganley/"
-        },
-        {
           "name": "Veja",
           "url": "https://veja.abril.com.br/esporte/morre-o-fisiculturista-gabriel-ganley-aos-22-anos/"
         }
       ],
-      "updatedAt": "2026-05-24T00:42:54.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/05/o-relato-comovente-de-mel-maia-apos-morte-de-gabriel-ganley.jpg"
+      "updatedAt": "2026-05-24T07:00:58.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/hYjz0YjspZqGqvrgVg7eG9DKwqQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/s/wyz0P7TvaVp5Ow9fbODA/fotojet-76-.jpg"
     },
     {
-      "clusterId": "170ef6ef600a0968",
+      "clusterId": "2d4974b04c82e496",
       "slug": "295d6599bb2b9d34",
       "titulo": "Copa do Mundo de 2026: Preparativos, Informações para Torcedores e Notícias das Seleções",
       "resumo": "O México, um dos países-sede da Copa do Mundo de 2026, venceu Gana em um amistoso preparatório. Para os torcedores brasileiros, o Itamaraty divulgou um guia com informações sobre vistos, segurança e consulados nos EUA, Canadá e México. A estreia da seleção brasileira está agendada para 13 de junho, às 19h, no MetLife Stadium, em Nova Jersey, local que também sediará a final do torneio. Enquanto isso, a convocação da Inglaterra gerou críticas pela ausência de alguns jogadores, e clubes como o Corinthians buscam evitar a saída de atletas durante o período da competição, além de haver alertas sobre a apreensão de figurinhas falsas do álbum do evento.",
@@ -231,12 +215,12 @@
       "category": "economia",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/jovem-tatua-nome-de-neymar-no-rosto-apos-convocacao-para-a-copa-do-mundo/"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/compare-a-primeira-lista-de-ancelotti-com-a-convocacao-final-para-copa"
         },
         {
-          "name": "GE",
-          "url": "https://ge.globo.com/al/noticia/2026/05/23/chef-da-selecao-vini-jr-em-maceio-neymar-investidor-veja-curiosidades-que-envolvem-alagoas-e-a-copa.ghtml"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/jovem-tatua-nome-de-neymar-no-rosto-apos-convocacao-para-a-copa-do-mundo/"
         },
         {
           "name": "G1",
@@ -247,8 +231,36 @@
           "url": "https://exame.com/esporte/ira-troca-eua-por-mexico-na-copa-do-mundo-2026-para-driblar-visto/"
         }
       ],
-      "updatedAt": "2026-05-24T02:19:18.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/u_Duosb2X-tA2Pv6tznPO3viFEM=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/b/P/4JroOERuAEWgjVngouyw/whatsapp-image-2026-01-04-at-09.05.24.jpeg"
+      "updatedAt": "2026-05-24T05:00:44.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/05/carlo-ancelotti-selecao-brasileira-renovacao-2.jpg"
+    },
+    {
+      "clusterId": "c26db81c98b16a9f",
+      "slug": "f92858a275286501",
+      "titulo": "Lula pede prisão de 'ladrões' e 'milicianos' no RJ e critica Alerj",
+      "resumo": "O presidente Luiz Inácio Lula da Silva, durante evento no Rio de Janeiro, pediu ao governador em exercício Ricardo Couto que atue para prender 'ladrões' e 'milicianos' que comandaram o estado. As declarações ocorreram na inauguração de uma nova sede da Fiocruz. Lula também afirmou que, se a Assembleia Legislativa do RJ indicasse o governador, 'ia vir miliciano', o que foi criticado pelo deputado de oposição Sóstenes Cavalcante como um ataque à democracia.",
+      "porQueImporta": "As falas do presidente abordam questões de segurança pública e corrupção no Rio de Janeiro, além de gerar repercussão política.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-governo/sostenes-critica-fala-de-lula-que-associou-alerj-a-milicianos/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/video-lula-pede-a-governador-do-rio-que-trabalhe-para-prender-os-ladroes-que-geriram-o-estado/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/no-rj-lula-faz-apelo-a-couto-trabalhe-para-prender-todos-os-ladroes-que-governaram-esse-estado/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/05/23/no-rj-lula-diz-a-governador-para-trabalhar-para-prender-ladroes-e-milicianos-que-comandaram-o-estado.ghtml"
+        }
+      ],
+      "updatedAt": "2026-05-24T01:37:52.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/lula-.jpg?quality=70&strip=info"
     },
     {
       "clusterId": "a514936ec5e61410",
@@ -279,104 +291,112 @@
       "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/AFP__20260515__B2WT3KE__v1__MidRes__DrCongoFilesDrcongoHealthEpidemicEbola.jpg"
     },
     {
-      "clusterId": "6280c5938e47b5ae",
-      "slug": "0f7f7de435c7c90c",
-      "titulo": "Pesquisa Datafolha avalia impacto de escândalo na candidatura de Flávio Bolsonaro e cenário eleitoral de 2026",
-      "resumo": "Uma pesquisa Datafolha recente avaliou o cenário eleitoral para 2026, mostrando que 48% dos eleitores defendem que o senador Flávio Bolsonaro desista de sua candidatura à presidência após a divulgação de conversas com o banqueiro Daniel Vorcaro, enquanto 44% apoiam que ele a mantenha. Contudo, 88% dos eleitores do próprio senador desejam que ele prossiga na disputa. O levantamento também indicou que, em um cenário de primeiro turno, Lula teria 40% das intenções de voto contra 31% de Flávio Bolsonaro, e em um eventual segundo turno, Lula alcançaria 47% contra 43% de Flávio. A pesquisa apontou ainda uma rejeição de 46% ao senador.",
-      "porQueImporta": "Os dados revelam a percepção do eleitorado sobre um pré-candidato à presidência e o impacto de controvérsias em sua imagem.",
-      "category": "politica",
+      "clusterId": "dd96e6d1efb451bd",
+      "slug": "46f87ef2d0434e20",
+      "titulo": "George Russell conquista pole position e vitória na sprint do GP do Canadá de Fórmula 1",
+      "resumo": "O piloto George Russell, da Mercedes, garantiu a pole position para o Grande Prêmio do Canadá de Fórmula 1, superando seu companheiro de equipe Kimi Antonelli por uma margem de 68 milésimos de segundo. Russell também venceu a corrida sprint do evento. A primeira fila do grid será composta pelos dois pilotos da Mercedes, com a McLaren logo atrás. A corrida principal ocorrerá no domingo, 24 de junho, às 17h (horário de Brasília), no Circuito Gilles Villeneuve.",
+      "porQueImporta": "A performance de Russell e Antonelli destaca a rivalidade interna na Mercedes e a busca por quebrar a sequência de vitórias do líder do campeonato, Kimi Antonelli.",
+      "category": "economia",
       "sources": [
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/datafolha-88-dos-eleitores-de-flavio-querem-senador-na-disputa-a-presidencia-apesar-do-escandalo-vorcaro-dark-horse/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/05/22/datafolha-88percent-acham-que-flavio-bolsonaro-deveria-manter-a-candidatura-apos-divulgacao-de-suas-conversas-com-vorcaro.ghtml"
-        },
-        {
-          "name": "Super Interessante",
-          "url": "https://super.abril.com.br/cultura/teste-este-filme-custou-mais-do-que-dark-horse-a-biografia-de-bolsonaro/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/c1k2pk3p700o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-05-23T13:22:37.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/03/flavio-bolsonaro-avenida-paulista-reproducao.jpeg"
-    },
-    {
-      "clusterId": "31338b5381a8e67e",
-      "slug": "186749d8bf6aacbe",
-      "titulo": "Flamengo 0 x 3 Palmeiras quebra recorde de público no Campeonato Brasileiro 2026; veja ranking",
-      "resumo": "Flamengo 0 x 3 Palmeiras | Melhores momentos | 17ª rodada | Brasileirão 2026 Recorde de público no Campeonato Brasileiro 2026! A vitória do Palmeiras sobre o Flamengo, por 3 a 0, registrou o maior público da atual competição, com 67,2 mil pagantes (71,2 mil presentes) no Maracanã. A renda da partida foi de R$ 7,7 milhões, também a melhor da Série A. + Ranking de público 2026: Flamengo amplia distância na liderança, Corinthians segue em segundo + Flamengo e Palmeiras gastam mais de R$ 3,3 bilhões em reforços e têm 30 títulos desde 2019; veja lista Torcida do Flamengo lotou o Maracanã e quebrou…",
-      "porQueImporta": "",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/palmeiras-atropela-flamengo-vence-por-3-x-0-e-dispara-na-lideranca"
-        },
         {
           "name": "GE",
-          "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/05/23/leonardo-jardim-lamenta-expulsao-de-carrascal-em-flamengo-x-palmeiras-condicionou-o-jogo.ghtml"
+          "url": "https://ge.globo.com/motor/formula-1/noticia/2026/05/24/analise-rivalidade-entre-russell-e-antonelli-explode-no-canada.ghtml"
         },
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-encerra-jejum-e-vence-flamengo-pelo-brasileirao-apos-nove-anos/"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/f1-no-canada-mclaren-desafia-hegemonia-da-mercedes-na-temporada"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/esporte/f1-russell-lidera-treino-classificatorio-e-garante-pole-do-gp-do-canada/"
         }
       ],
-      "updatedAt": "2026-05-24T03:07:43.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/05/palmeiras-futebol-flamengo.jpg"
+      "updatedAt": "2026-05-24T07:01:00.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/65itzm26P8s1a6Bu4OGs9TLTRd8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/R/s/uUnKCqT6C0rSdVohY8KQ/gettyimages-2277366519.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "a47e37ee07d5617e",
-        "slug": "27e0a1b6d9eda54a",
-        "titulo": "Datafolha: 38% avaliam governo Lula como ruim ou péssimo; 32% como ótimo ou bom",
-        "resumo": "Presidente Lula durante entrevista Ricardo Stuckert/PR Pesquisa Datafolha divulgada neste sábado (23) mostra que a avaliação negativa do governo do presidente Luiz Inácio Lula da Silva ainda supera a positiva, mas a diferença entre os índices vem diminuindo nas últimas semanas. Segundo o levantamento, 38% consideram a gestão ruim ou péssima, enquanto 32% avaliam o governo como ótimo ou bom. Outros 28% classificam a administração como regular, e 1% não soube responder. Na pesquisa anterior, divulgada em 16 de maio, 39% avaliavam o governo como ruim ou péssimo, enquanto 30% o consideravam ótimo…",
-        "porQueImporta": "",
+        "clusterId": "b85d64bd478b0c64",
+        "slug": "618f5ed9fabe2021",
+        "titulo": "Pesquisa Datafolha indica melhora na avaliação de Lula e vantagem sobre Flávio Bolsonaro",
+        "resumo": "A pesquisa Datafolha, realizada entre 20 e 21 de maio, mostrou que 48% aprovam o trabalho do presidente Lula, e 32% avaliam seu governo como ótimo ou bom, enquanto 38% o consideram ruim ou péssimo, indicando uma redução na diferença entre os índices. Em cenários para as eleições presidenciais de 2026, Lula obteve 40% das intenções de voto no primeiro turno contra 31% de Flávio Bolsonaro, ampliando sua vantagem, e 47% contra 43% em um eventual segundo turno. Flávio Bolsonaro registrou 46% de rejeição e viajou aos EUA em meio a uma queda nas pesquisas e acusações, enquanto o governo Lula busca medidas para aumentar a popularidade e enfrenta desafios como a fragmentação da esquerda em Minas Gerais.",
+        "porQueImporta": "Os resultados da pesquisa e os movimentos políticos recentes fornecem um panorama da percepção pública sobre o governo e o cenário da corrida presidencial de 2026.",
         "category": "politica",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/lula-nao-tem-moral-para-dar-licao-sobre-combate-ao-crime-diz-ruas"
+            "url": "https://www.metropoles.com/minas-gerais/apos-aposta-em-pacheco-esquerda-mineira-se-fragmenta-e-complica-lula"
           },
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-governo/sostenes-critica-fala-de-lula-que-associou-alerj-a-milicianos/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/analise-flavio-cai-em-pesquisas-e-lula-investe-em-pacote-de-bondades/"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/jornal-nacional/noticia/2026/05/23/aprovacao-de-lula-volta-a-crescer-apos-sequencia-de-quedas-mostra-datafolha.ghtml"
           },
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/video-lula-pede-a-governador-do-rio-que-trabalhe-para-prender-os-ladroes-que-geriram-o-estado/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/ao-lado-de-lula-padilha-chama-flavio-de-poderoso-chefao-dos-hospitais-do-rj/"
           },
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/no-rj-lula-faz-apelo-a-couto-trabalhe-para-prender-todos-os-ladroes-que-governaram-esse-estado/"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/aliado-de-lula-chama-neymar-de-vagabundo-mas-diz-que-vai-torcer-por-ele/"
           },
           {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/cr5plprj4qpo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-05-24T02:32:58.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/04/douglas-ruas-alerj-fala.jpg"
+        "updatedAt": "2026-05-24T06:00:57.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/05/Presidente-Lula-e-Rodrigo-Pacheco-Senado-reune-cupula-dos-Poderes-para-debater-combate-a-incendio-no-Brasil-Metropoles-6.jpg"
       },
       {
-        "clusterId": "6280c5938e47b5ae",
+        "clusterId": "0b98b477e3c2d6fb",
+        "slug": "2fbd0e7aa482bfcd",
+        "titulo": "Filme 'Fjord' vence Palma de Ouro em Cannes e Virada Cultural movimenta São Paulo",
+        "resumo": "O Festival de Cannes de 2026 encerrou-se no sábado, 23 de maio, com o filme 'Fjord', do diretor Cristian Mungiu, recebendo a Palma de Ouro. Esta foi a segunda vez que Mungiu conquistou a principal premiação do festival, após sua vitória em 2007. Enquanto isso, a cidade de São Paulo se prepara para a Virada Cultural 2026, que oferecerá uma programação de 24 horas em diversos palcos neste domingo, 24 de maio.",
+        "porQueImporta": "Esses eventos representam marcos significativos no cinema internacional e na cultura urbana brasileira.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/sao-paulo/virada-cultural-2026-veja-as-melhores-atracoes-deste-domingo-24-5"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/coluna/veja-gente/os-looks-mais-absurdos-do-festival-de-cannes-2026/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/05/23/drama-familiar-sobre-polarizacao-leva-a-palma-de-ouro-em-cannes-2026-veja-ganhadores.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/casual/fjord-vence-a-palma-de-ouro-no-festival-de-cannes-2026-veja-todos-os-vencedores/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/astrologia/tarot-do-dia-previsao-para-os-12-signos-em-23-05-2026/"
+          }
+        ],
+        "updatedAt": "2026-05-24T05:20:44.000Z",
+        "imageUrl": "https://images.metroimg.com/2025/05/22134308/Virada-Cultural-2025-tudo-o-que-voce-precisa-saber-sobre-megaevento.jpg"
+      },
+      {
+        "clusterId": "3680cac4a2715d62",
         "slug": "0f7f7de435c7c90c",
         "titulo": "Pesquisa Datafolha avalia impacto de escândalo na candidatura de Flávio Bolsonaro e cenário eleitoral de 2026",
         "resumo": "Uma pesquisa Datafolha recente avaliou o cenário eleitoral para 2026, mostrando que 48% dos eleitores defendem que o senador Flávio Bolsonaro desista de sua candidatura à presidência após a divulgação de conversas com o banqueiro Daniel Vorcaro, enquanto 44% apoiam que ele a mantenha. Contudo, 88% dos eleitores do próprio senador desejam que ele prossiga na disputa. O levantamento também indicou que, em um cenário de primeiro turno, Lula teria 40% das intenções de voto contra 31% de Flávio Bolsonaro, e em um eventual segundo turno, Lula alcançaria 47% contra 43% de Flávio. A pesquisa apontou ainda uma rejeição de 46% ao senador.",
         "porQueImporta": "Os dados revelam a percepção do eleitorado sobre um pré-candidato à presidência e o impacto de controvérsias em sua imagem.",
         "category": "politica",
         "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/sao-paulo/tarcisio-substituir-flavio"
+          },
           {
             "name": "CartaCapital",
             "url": "https://www.cartacapital.com.br/politica/datafolha-88-dos-eleitores-de-flavio-querem-senador-na-disputa-a-presidencia-apesar-do-escandalo-vorcaro-dark-horse/"
@@ -394,39 +414,43 @@
             "url": "https://www.bbc.com/portuguese/articles/c1k2pk3p700o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-05-23T13:22:37.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/03/flavio-bolsonaro-avenida-paulista-reproducao.jpeg"
+        "updatedAt": "2026-05-24T05:15:26.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/02/flavio-e-tarcisio-na-alesp-1.jpg"
       },
       {
-        "clusterId": "205266df25146581",
-        "slug": "3258203cd624bfca",
-        "titulo": "Direita errou em ser leniente com as falhas e crimes da família Bolsonaro, diz Renan",
-        "resumo": "Pré-candidato do Missão afirmou, em entrevista a jornalistas no Fórum Esfera, no Guarujá, que eleitor de direita foi “enganado por muito tempo",
-        "porQueImporta": "",
+        "clusterId": "c26db81c98b16a9f",
+        "slug": "f92858a275286501",
+        "titulo": "Lula pede prisão de 'ladrões' e 'milicianos' no RJ e critica Alerj",
+        "resumo": "O presidente Luiz Inácio Lula da Silva, durante evento no Rio de Janeiro, pediu ao governador em exercício Ricardo Couto que atue para prender 'ladrões' e 'milicianos' que comandaram o estado. As declarações ocorreram na inauguração de uma nova sede da Fiocruz. Lula também afirmou que, se a Assembleia Legislativa do RJ indicasse o governador, 'ia vir miliciano', o que foi criticado pelo deputado de oposição Sóstenes Cavalcante como um ataque à democracia.",
+        "porQueImporta": "As falas do presidente abordam questões de segurança pública e corrupção no Rio de Janeiro, além de gerar repercussão política.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes/quem-e-eduardo-fischer-novo-marqueteiro-de-flavio-bolsonaro/"
+            "url": "https://www.poder360.com.br/poder-governo/sostenes-critica-fala-de-lula-que-associou-alerj-a-milicianos/"
           },
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/a-hora-e-a-vez-de-michelle-bolsonaro/"
+            "url": "https://veja.abril.com.br/politica/video-lula-pede-a-governador-do-rio-que-trabalhe-para-prender-os-ladroes-que-geriram-o-estado/"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/direita-errou-em-ser-leniente-com-as-falhas-e-crimes-da-familia-bolsonaro-diz-renan/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/no-rj-lula-faz-apelo-a-couto-trabalhe-para-prender-todos-os-ladroes-que-governaram-esse-estado/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/05/23/no-rj-lula-diz-a-governador-para-trabalhar-para-prender-ladroes-e-milicianos-que-comandaram-o-estado.ghtml"
           }
         ],
-        "updatedAt": "2026-05-23T22:12:08.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/michelleflavio.jpg?quality=70&strip=info"
+        "updatedAt": "2026-05-24T01:37:52.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/lula-.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "660e4d7c60ed1ed8",
-        "slug": "ae5abb8e1f581e55",
-        "titulo": "Caso Deolane: investigada que movimentou milhões recebeu Bolsa Família",
-        "resumo": "Dona de transportadora ligada ao PCC movimentou R$ 20 milhões em contas da empresa, mas manteve cadastro do Bolsa Família até 2017",
-        "porQueImporta": "",
+        "clusterId": "cc3fbd15d0e0cde4",
+        "slug": "3258203cd624bfca",
+        "titulo": "Luciano Huck e Renan fazem declarações sobre Bolsa Família e política no Fórum Esfera",
+        "resumo": "Durante o 5º Fórum Esfera, o apresentador Luciano Huck afirmou que não há estímulo para que beneficiários deixem o programa Bolsa Família, indicando que famílias buscariam meios de permanecer nele. No mesmo evento, o pré-candidato Renan, do partido Missão, criticou a direita por uma suposta leniência em relação a falhas e crimes atribuídos à família Bolsonaro. Ele sugeriu que eleitores de direita teriam sido enganados por um longo período.",
+        "porQueImporta": "As declarações refletem debates atuais sobre políticas sociais e o cenário político brasileiro.",
         "category": "politica",
         "sources": [
           {
@@ -434,19 +458,18 @@
             "url": "https://www.poder360.com.br/poder-economia/nao-ha-estimulo-para-sair-do-bolsa-familia-diz-luciano-huck/"
           },
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/sao-paulo/caso-deolane-investigada-bolsa-familia"
+            "name": "Exame",
+            "url": "https://exame.com/brasil/direita-errou-em-ser-leniente-com-as-falhas-e-crimes-da-familia-bolsonaro-diz-renan/"
           }
         ],
-        "updatedAt": "2026-05-24T02:54:15.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/04/captura-de-tela-2026-04-21-212107.jpg"
+        "updatedAt": "2026-05-24T02:54:15.000Z"
       },
       {
         "clusterId": "bab33be154e381ca",
         "slug": "c12bde6acecaf54c",
-        "titulo": "Tenda de tratamento de Ebola é incendiada novamente no Congo, e pacientes suspeitos fogem de centro de saúde",
-        "resumo": "Um funcionário da limpeza urbana da prefeitura de Bunia pulveriza cloro para desinfetar o mercado central, enquanto a província de Ituri continua a combater um surto de Ebola AP/Moses Sawasawa Uma tenda usada no tratamento de pacientes com Ebola foi incendiada pela segunda vez em menos de uma semana no leste da República Democrática do Congo, em meio ao avanço de um surto da variante Bundibugyo, uma forma rara do vírus para a qual não há vacina aprovada. Segundo autoridades locais, o ataque aconteceu na noite de sexta-feira (22), na cidade de Mongbwalu, considerada o epicentro do surto.…",
-        "porQueImporta": "",
+        "titulo": "Centro de tratamento de ebola é incendiado no Congo e pacientes fogem",
+        "resumo": "Uma tenda de tratamento para pacientes com suspeita de ebola foi incendiada na cidade de Mongbwalu, leste da República Democrática do Congo, na noite de sexta-feira (22). O incidente, que é o segundo em menos de uma semana, resultou na fuga de 18 pessoas que estavam sob observação. A região é considerada o epicentro de um surto da variante Bundibugyo do vírus, para a qual não há vacina aprovada.",
+        "porQueImporta": "O ataque dificulta os esforços de contenção de um surto de ebola em uma área já vulnerável.",
         "category": "politica",
         "sources": [
           {
@@ -464,9 +487,9 @@
       {
         "clusterId": "7fe4d5bb0c87acdc",
         "slug": "55cc8839ff293f8f",
-        "titulo": "Advogado Daniel Bialski surge nos bastidores como nome cotado para defesa de Vorcaro",
-        "resumo": "O nome do criminalista Daniel Bialski passou a ser citado nos bastidores entre pessoas próximas ao banqueiro Daniel Vorcaro como opção para assumir sua defesa no caso Master, após a saída de José Luis Oliveira Lima. A avaliação desse grupo é de que Vorcaro precisaria de um advogado com trânsito no gabinete do ministro do Supremo Tribunal Federal (STF), André Mendonça — uma vez que Juca, como é conhecido José Luis Oliveira Lima,, o advogado anterior, já não era mais recebido —, e Bialski tem boa relação com o relator do processo no STF. Bastidores: acompanhe o canal da Sadi no WhatsApp Bialski…",
-        "porQueImporta": "",
+        "titulo": "Daniel Vorcaro avalia novo advogado e eleva proposta de delação",
+        "resumo": "O advogado José Luis Oliveira Lima deixou a defesa de Daniel Vorcaro, dono do Banco Master, após a Polícia Federal rejeitar uma proposta de delação premiada. O criminalista Daniel Bialski é avaliado como opção para assumir o caso, sendo considerado por pessoas próximas a Vorcaro como alguém com bom trânsito no gabinete do ministro André Mendonça, relator do processo no STF. Paralelamente, Vorcaro aceitou aumentar de R$ 40 bilhões para R$ 60 bilhões o valor a ser devolvido em uma eventual delação com a Procuradoria-Geral da República, que mantém as negociações.",
+        "porQueImporta": "As mudanças na equipe jurídica e na proposta de delação indicam novos desenvolvimentos no processo envolvendo o banqueiro.",
         "category": "politica",
         "sources": [
           {
@@ -482,55 +505,39 @@
         "imageUrl": "https://s2-g1.glbimg.com/G3l6LPJjGLoCWjBxYSSPWYyX4QI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/e/OeKL6ORtCq02Y6mrGAew/260306-montagem-fotos-vorcaro.jpg"
       },
       {
-        "clusterId": "aefa124ff67594cf",
-        "slug": "310605a8baa0191a",
-        "titulo": "STF tem dois votos para manter prisões de pai e primo de Daniel Vorcaro",
-        "resumo": "A Segunda Turma do Supremo Tribunal Federal (STF) registrou dois votos pela manutenção das prisões de Henrique Vorcaro, pai, e Felipe Cançado Vorcaro, primo do banqueiro Daniel Vorcaro. Os ministros André Mendonça, relator do caso, e Luiz Fux votaram a favor da continuidade das detenções. O julgamento no plenário virtual foi suspenso após o ministro Gilmar Mendes pedir vista, o que pode paralisar a análise por até 90 dias. Felipe Cançado Vorcaro foi preso em maio pela \"Operação Compliance Zero\", sendo apontado pela Polícia Federal como peça central do núcleo financeiro-operacional investigado.",
-        "porQueImporta": "A decisão do STF pode definir o futuro das prisões de investigados em uma operação de grande repercussão.",
+        "clusterId": "a778f4374a251b92",
+        "slug": "99eef8a60e757dbc",
+        "titulo": "Desenvolvimentos políticos envolvendo a família Bolsonaro",
+        "resumo": "O senador Flávio Bolsonaro contratou o publicitário Eduardo Fischer, de 69 anos, conhecido por sua atuação em campanhas como a da seleção brasileira de 1994, para sua equipe de marketing. Ao mesmo tempo, a ex-primeira-dama Michelle Bolsonaro tem ganhado destaque político, sendo vista como um ativo eleitoral valioso em meio a um possível desgaste da imagem de Flávio. Em um contexto diferente, o deputado Eduardo Bolsonaro comemorou a decisão da Justiça italiana que anulou a extradição da ex-deputada Carla Zambelli, resultando em sua libertação.",
+        "porQueImporta": "Esses fatos indicam movimentações e percepções sobre a influência e o cenário político futuro de membros da família Bolsonaro.",
         "category": "politica",
         "sources": [
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/cartaexpressa/fux-vota-e-stf-forma-2-a-0-para-manter-prisoes-de-pai-e-primo-de-vorcaro/"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes/quem-e-eduardo-fischer-novo-marqueteiro-de-flavio-bolsonaro/"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/05/23/stf-tem-2-votos-para-manter-prisoes-de-pai-e-primo-de-vorcaro-gilmar-pediu-vista.ghtml"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/a-hora-e-a-vez-de-michelle-bolsonaro/"
           }
         ],
-        "updatedAt": "2026-05-23T16:57:53.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/09/000_748H3JP.jpg"
-      },
-      {
-        "clusterId": "e3bea8429042284d",
-        "slug": "0e04f35d7d91fb9a",
-        "titulo": "Como a IA está mudando a publicidade digital",
-        "resumo": "Durante o Google Marketing Live 2026, empresa apresentou soluções baseadas em inteligência artificial que aproximam busca, anúncios, conteúdo e compras dentro de um mesmo ecossistema",
-        "porQueImporta": "",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/toquetec/onu-ve-publicidade-digital-e-ia-como-motores-da-crise-global-de-desinformacao/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/bussola/como-a-inteligencia-artificial-esta-mudando-a-publicidade-digital/"
-          }
-        ],
-        "updatedAt": "2026-05-23T16:00:25.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/Design-sem-nome-2026-05-21T143021.433.jpg"
+        "updatedAt": "2026-05-23T22:12:08.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/michelleflavio.jpg?quality=70&strip=info"
       }
     ],
     "economia": [
       {
-        "clusterId": "be64e95691cd38be",
+        "clusterId": "e5770b036946e68b",
         "slug": "e816d4bc30169155",
         "titulo": "Suspeito morre após disparar contra agentes perto da Casa Branca",
         "resumo": "Um homem abriu fogo contra agentes do Serviço Secreto nas proximidades da Casa Branca, em Washington, resultando na mobilização das forças de segurança. O suspeito foi baleado pelos agentes e morreu. Durante o incidente, um pedestre também foi atingido. O presidente Donald Trump estava na residência oficial, mas não foi afetado.",
         "porQueImporta": "O incidente levou à interdição temporária da área e mobilizou autoridades de segurança.",
         "category": "economia",
         "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/trump-elogia-servico-secreto-apos-tiroteio-perto-da-casa-branca/"
+          },
           {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/c87qwp3xgn9o?at_medium=RSS&at_campaign=rss"
@@ -544,10 +551,6 @@
             "url": "https://www.poder360.com.br/poder-internacional/disparos-na-casa-branca-mobilizam-servico-secreto-e-ferem-2/"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/homem-que-efetuou-disparos-contra-agentes-perto-da-casa-branca-foi-morto/"
-          },
-          {
             "name": "G1",
             "url": "https://g1.globo.com/jornal-nacional/noticia/2026/05/23/disparos-contra-agentes-levam-a-interdicao-temporaria-da-casa-branca.ghtml"
           },
@@ -556,123 +559,43 @@
             "url": "https://veja.abril.com.br/mundo/tiros-sao-ouvidos-nos-arredores-da-casa-branca/"
           },
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/tiros-sao-disparados-perto-da-casa-branca-e-fbi-e-acionado"
-          },
-          {
             "name": "Exame",
             "url": "https://exame.com/mundo/disparos-no-entorno-da-casa-branca-provocam-bloqueio-de-seguranca-e-mobilizam-autoridades-dos-eua/"
           }
         ],
-        "updatedAt": "2026-05-24T00:42:58.000Z",
+        "updatedAt": "2026-05-24T05:14:00.000Z",
         "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/871c/live/27232bc0-5707-11f1-b682-cf91850925ea.jpg"
       },
       {
-        "clusterId": "6cc2a6799ab106fd",
-        "slug": "1c2193f98fc3a2ae",
-        "titulo": "Trump anuncia acordo de paz com Irã 'amplamente negociado', mas Teerã contesta detalhes",
-        "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou que um acordo de paz com o Irã foi 'amplamente negociado' e está próximo de ser finalizado, incluindo a reabertura do Estreito de Ormuz. Contudo, o Irã contestou a inclusão da abertura do estreito no tratado e classificou a declaração de Trump como 'incompleta e inconsistente com a realidade', embora também tenha sinalizado progresso nas negociações. O Paquistão, atuando como mediador, confirmou avanços 'encorajadores' nas conversas, enquanto a incerteza sobre o acordo gerou volatilidade nos mercados de petróleo.",
-        "porQueImporta": "Um possível acordo de paz entre EUA e Irã pode encerrar um conflito de meses, impactando a estabilidade regional e os mercados globais de energia.",
+        "clusterId": "27414dfb4b43498a",
+        "slug": "1ecc9d259603aeca",
+        "titulo": "Morte de fisiculturista e influenciador Gabriel Ganley aos 22 anos é investigada",
+        "resumo": "O fisiculturista e influenciador digital Gabriel Ganley, de 22 anos, faleceu no sábado (23) em sua residência na Zona Leste de São Paulo. A causa da morte não foi oficialmente divulgada, e o caso está sendo investigado como \"morte suspeita - morte súbita\", sem sinais aparentes de violência encontrados no local. Natural do Rio de Janeiro, Ganley era conhecido por seu conteúdo sobre treinos e rotina fitness, acumulando milhões de seguidores nas redes sociais.",
+        "porQueImporta": "A morte precoce de uma figura proeminente nas redes sociais e no esporte gerou grande repercussão entre fãs e colegas.",
         "category": "economia",
         "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/premie-do-paquistao-agradece-trump-por-esforcos-para-buscar-a-paz/"
-          },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/05/23/apos-meses-de-conflito-trump-diz-que-acordo-entre-eua-e-ira-esta-quase-fechado.ghtml"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/trump-diz-que-acordo-de-paz-com-israel-esta-sendo-finalizado-e-sera-anunciado-em-breve/"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/ira-contesta-trump-e-diz-que-ormuz-seguira-sob-controle-de-teera/"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cpvpx4y40ezo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/trump-diz-que-acordo-para-encerrar-guerra-com-ira-esta-proximo/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/ira-acusa-eua-de-sabotar-negociacoes-de-paz/"
-          }
-        ],
-        "updatedAt": "2026-05-24T01:57:49.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/AFP__20260520__B3J26BK__v1__HighRes__776499691-1.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "1ac05c7f673dc35b",
-        "slug": "724f0a3e5f42a86c",
-        "titulo": "De cadela abandonada a estrela de Cannes: cachorrinha chilena Yuri ganha Palma Canina",
-        "resumo": "Cadela resgatada Yuri rouba a cena em Cannes com prêmio Palm Dog REUTERS/Gonzalo Fuentes A nova estrela canina das ruas de Cannes já tem nome. A Palma Canina (Dog Palm) do festival coroou, nesta sexta-feira (22), Yuri, a protagonista do filme \"La perra\", da diretora chilena Dominga Sotomayor. O longa conta com o brasileiro Selton Mello no elenco. Criado em 2001 à margem do Festival de Cannes, este prêmio informal coroa as melhores atuações caninas nas telonas, tornando-se uma das tradições mais excêntricas e queridas do evento. Este ano, a cerimônia foi realizada em uma praia do calçadão de…",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/entretenimento/cannes-2026-confira-vencedores"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/coluna/veja-gente/os-looks-mais-absurdos-do-festival-de-cannes-2026/"
+            "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/05/24/gabriel-ganley-o-que-se-sabe-e-o-que-falta-saber-sobre-a-morte-do-fisiculturista-de-22-anos.ghtml"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/entretenimento/festival-de-cannes-com-producao-brasileira-elefante-na-nevoa-e-premiado/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/05/23/drama-familiar-sobre-polarizacao-leva-a-palma-de-ouro-em-cannes-2026-veja-ganhadores.ghtml"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/casual/fjord-vence-a-palma-de-ouro-no-festival-de-cannes-2026-veja-todos-os-vencedores/"
-          }
-        ],
-        "updatedAt": "2026-05-24T02:27:37.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/05/festival-cannes-2026.jpeg"
-      },
-      {
-        "clusterId": "29d5956bef8c87ec",
-        "slug": "8511c391394f7985",
-        "titulo": "Morre Gabriel Ganley, fisiculturista e influenciador, aos 22 anos",
-        "resumo": "Morre Gabriel Ganley, um dos nomes promissores do fisiculturismo brasileiro O atleta de fisiculturismo e influenciador fitness Gabriel Ganley morreu aos 22 anos. A informação foi confirmada neste sábado (23) pela Integralmédica, marca de suplementos pela qual ele era patrocinado. A causa da morte não foi informada. Em uma publicação nas redes sociais, a empresa lamentou a perda e descreveu o jovem como um dos nomes promissores da nova geração do fisiculturismo brasileiro. “Hoje perdemos muito mais do que um atleta talentoso e dedicado”, escreveu a marca, que também destacou a relação próxima…",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/fabia-oliveira/o-relato-comovente-de-mel-maia-apos-morte-de-gabriel-ganley"
+            "url": "https://www.cnnbrasil.com.br/esportes/fisiculturismo/luto-no-fisiculturismo-atletas-lamentam-morte-de-ganley-aos-22-anos/"
           },
           {
             "name": "InfoMoney",
             "url": "https://www.infomoney.com.br/mercados/quem-foi-o-fisiculturista-e-influenciador-gabriel-ganley-que-morreu-aos-22-anos/"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/am/amazonas/noticia/2026/05/23/atletas-amazonenses-lamentam-morte-do-influenciador-fitness-e-fisiculturista-gabriel-ganley.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/entretenimento/mel-maia-lamenta-morte-de-fisiculturista-gabriel-ganley/"
-          },
-          {
             "name": "Veja",
             "url": "https://veja.abril.com.br/esporte/morre-o-fisiculturista-gabriel-ganley-aos-22-anos/"
           }
         ],
-        "updatedAt": "2026-05-24T00:42:54.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/05/o-relato-comovente-de-mel-maia-apos-morte-de-gabriel-ganley.jpg"
+        "updatedAt": "2026-05-24T07:00:58.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/hYjz0YjspZqGqvrgVg7eG9DKwqQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/s/wyz0P7TvaVp5Ow9fbODA/fotojet-76-.jpg"
       },
       {
-        "clusterId": "170ef6ef600a0968",
+        "clusterId": "2d4974b04c82e496",
         "slug": "295d6599bb2b9d34",
         "titulo": "Copa do Mundo de 2026: Preparativos, Informações para Torcedores e Notícias das Seleções",
         "resumo": "O México, um dos países-sede da Copa do Mundo de 2026, venceu Gana em um amistoso preparatório. Para os torcedores brasileiros, o Itamaraty divulgou um guia com informações sobre vistos, segurança e consulados nos EUA, Canadá e México. A estreia da seleção brasileira está agendada para 13 de junho, às 19h, no MetLife Stadium, em Nova Jersey, local que também sediará a final do torneio. Enquanto isso, a convocação da Inglaterra gerou críticas pela ausência de alguns jogadores, e clubes como o Corinthians buscam evitar a saída de atletas durante o período da competição, além de haver alertas sobre a apreensão de figurinhas falsas do álbum do evento.",
@@ -680,12 +603,12 @@
         "category": "economia",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/jovem-tatua-nome-de-neymar-no-rosto-apos-convocacao-para-a-copa-do-mundo/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/compare-a-primeira-lista-de-ancelotti-com-a-convocacao-final-para-copa"
           },
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/al/noticia/2026/05/23/chef-da-selecao-vini-jr-em-maceio-neymar-investidor-veja-curiosidades-que-envolvem-alagoas-e-a-copa.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/jovem-tatua-nome-de-neymar-no-rosto-apos-convocacao-para-a-copa-do-mundo/"
           },
           {
             "name": "G1",
@@ -696,39 +619,63 @@
             "url": "https://exame.com/esporte/ira-troca-eua-por-mexico-na-copa-do-mundo-2026-para-driblar-visto/"
           }
         ],
-        "updatedAt": "2026-05-24T02:19:18.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/u_Duosb2X-tA2Pv6tznPO3viFEM=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/b/P/4JroOERuAEWgjVngouyw/whatsapp-image-2026-01-04-at-09.05.24.jpeg"
+        "updatedAt": "2026-05-24T05:00:44.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/05/carlo-ancelotti-selecao-brasileira-renovacao-2.jpg"
       },
       {
-        "clusterId": "03058ba5e972a27a",
+        "clusterId": "dd96e6d1efb451bd",
         "slug": "46f87ef2d0434e20",
-        "titulo": "GP do Canadá da F1 2026: horários e onde assistir ao vivo",
-        "resumo": "Veja os melhores momentos do sprint e do treino classificatório do GP do Canadá George Russell largará como pole position no GP do Canadá neste domingo, depois da classificação de sábado; agora, os pilotos voltam à pista para a largada oficial na tarde deste domingo (24), às 17h (horário de Brasília), no Circuito Gilles Villeneuve. Após a vitória de Kimi Antonelli em Miami - a terceira consecutiva do líder da Fórmula 1 - a expectativa é de que os demais pilotos se empenhem ainda mais para quebrar a sequência favorável do jovem italiano e da Mercedes até aqui. O GP do Canadá é neste domingo…",
-        "porQueImporta": "",
+        "titulo": "George Russell conquista pole position e vitória na sprint do GP do Canadá de Fórmula 1",
+        "resumo": "O piloto George Russell, da Mercedes, garantiu a pole position para o Grande Prêmio do Canadá de Fórmula 1, superando seu companheiro de equipe Kimi Antonelli por uma margem de 68 milésimos de segundo. Russell também venceu a corrida sprint do evento. A primeira fila do grid será composta pelos dois pilotos da Mercedes, com a McLaren logo atrás. A corrida principal ocorrerá no domingo, 24 de junho, às 17h (horário de Brasília), no Circuito Gilles Villeneuve.",
+        "porQueImporta": "A performance de Russell e Antonelli destaca a rivalidade interna na Mercedes e a busca por quebrar a sequência de vitórias do líder do campeonato, Kimi Antonelli.",
         "category": "economia",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/motor/formula-1/noticia/2026/05/24/gp-do-canada-da-f1-2026-horarios-e-onde-assistir-ao-vivo.ghtml"
+            "url": "https://ge.globo.com/motor/formula-1/noticia/2026/05/24/analise-rivalidade-entre-russell-e-antonelli-explode-no-canada.ghtml"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/f1-veja-o-grid-de-largada-do-gp-do-canada-com-russell-na-pole/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/f1-no-canada-mclaren-desafia-hegemonia-da-mercedes-na-temporada"
           },
           {
             "name": "Exame",
             "url": "https://exame.com/esporte/f1-russell-lidera-treino-classificatorio-e-garante-pole-do-gp-do-canada/"
           }
         ],
-        "updatedAt": "2026-05-24T03:01:33.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/ZvF7Tr7JErm5kso4HDNUxxpSiPs=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/c/H/gT5H0JTAach3lo9UYCdg/gettyimages-2277883957.jpg"
+        "updatedAt": "2026-05-24T07:01:00.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/65itzm26P8s1a6Bu4OGs9TLTRd8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/R/s/uUnKCqT6C0rSdVohY8KQ/gettyimages-2277366519.jpg"
+      },
+      {
+        "clusterId": "521767c2498fdcd4",
+        "slug": "1c2193f98fc3a2ae",
+        "titulo": "Trump anuncia acordo de paz com Irã 'amplamente negociado', mas Teerã contesta detalhes",
+        "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou que um acordo de paz com o Irã foi 'amplamente negociado' e está próximo de ser finalizado, incluindo a reabertura do Estreito de Ormuz. Contudo, o Irã contestou a inclusão da abertura do estreito no tratado e classificou a declaração de Trump como 'incompleta e inconsistente com a realidade', embora também tenha sinalizado progresso nas negociações. O Paquistão, atuando como mediador, confirmou avanços 'encorajadores' nas conversas, enquanto a incerteza sobre o acordo gerou volatilidade nos mercados de petróleo.",
+        "porQueImporta": "Um possível acordo de paz entre EUA e Irã pode encerrar um conflito de meses, impactando a estabilidade regional e os mercados globais de energia.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/eua-e-ira-paquistao-diz-que-progressos-foram-alcancados-em-negociacoes/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/mundo/ira-acusa-eua-de-sabotar-negociacoes-de-paz/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/05/23/ira-e-paquistao-se-reunem-em-meio-a-negociacoes-que-buscam-fim-de-guerra.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-24T05:49:07.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/AFP__20260210__96TM9DK__v1__MidRes__IranUsDiplomacy.jpg"
       },
       {
         "clusterId": "9e17d92ac90cf180",
         "slug": "69f1e894658de7f0",
-        "titulo": "+Milionária hoje: resultado do concurso 357 e números sorteados",
-        "resumo": "Resultado da +Milionária g1 Veja abaixo os números do sorteio do concurso 357 da +Milionária realizado neste sábado (23): Dezenas: 7 - 8 - 10 - 23 - 38 - 42 Trevos: 1 - 2 Confira o resultado do sorteio da +Milionária. Veja quantas apostas foram premiadas no concurso 357: Ninguém conseguiu os 6 acertos, e a premiação acumulou para R$ 44 milhões; 6 acertos + 1 ou nenhum trevo: não houve aposta ganhadora; 5 acertos + 2 trevos: 1 aposta ganhadora, que vai receber R$ 219.960,95; 5 acertos + 1 ou nenhum trevo: 15 apostas ganhadoras, cada uma vai receber R$ 6.517,36; 4 acertos + 2 trevos: 49 apostas…",
-        "porQueImporta": "",
+        "titulo": "Resultados dos sorteios da +Milionária, Quina, Lotofácil, Dia de Sorte, Timemania e Loteria Federal",
+        "resumo": "Os sorteios de diversas loterias foram realizados neste sábado (23). A +Milionária (concurso 357), Quina (concurso 7033), Dia de Sorte (concurso 1217) e Timemania (concurso 2395) acumularam seus prêmios principais, que agora somam R$ 44 milhões, R$ 3 milhões, R$ 400 mil e R$ 30 milhões, respectivamente. Na Lotofácil (concurso 3693), cinco apostas acertaram as 15 dezenas, com cada uma recebendo R$ 351.527,84. Já a Loteria Federal (concurso 6068) premiou o bilhete 016600 com R$ 500.000 no primeiro prêmio.",
+        "porQueImporta": "Os resultados das loterias impactam diretamente os apostadores e definem os valores dos próximos prêmios.",
         "category": "economia",
         "sources": [
           {
@@ -746,6 +693,26 @@
         ],
         "updatedAt": "2026-05-24T00:45:32.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/goPkosJRGjRQnPyD65mqNhE2Wv0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/u/wBqol4SEytAben9IgrSQ/maismilionaria-357-bncfm.jpeg"
+      },
+      {
+        "clusterId": "ec0ee3a02e6b53ce",
+        "slug": "a2437661a8e91b2b",
+        "titulo": "Contrabando de canetas emagrecedoras no Brasil e seu impacto econômico na Dinamarca",
+        "resumo": "Foz do Iguaçu, na fronteira com o Paraguai, tornou-se o principal ponto de entrada para o contrabando de canetas emagrecedoras no Brasil, com mais de 69 mil medicamentos apreendidos pela Receita Federal entre janeiro e maio deste ano. A localização estratégica da cidade é apontada como fator para o avanço dessa atividade ilegal. Paralelamente, na Dinamarca, a indústria farmacêutica ligada à produção desses medicamentos é esperada para impulsionar o Produto Interno Bruto (PIB) do país em 2026, conforme revisão de estimativas do Ministério da Economia dinamarquês.",
+        "porQueImporta": "O fenômeno das canetas emagrecedoras demonstra impactos diversos, desde o comércio ilegal em um país até o estímulo econômico em outro.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/05/24/por-que-foz-do-iguacu-se-tornou-o-epicentro-do-contrabando-de-canetas-emagrecedoras-no-brasil.ghtml"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mundo/canetas-emagrecedoras-devem-impulsionar-o-pib-da-dinamarca-em-2026/"
+          }
+        ],
+        "updatedAt": "2026-05-24T07:01:41.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/L5aewrgZW_HGprM0IB_yWVTaxxM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/g/1L26JHSMyvjx5ifgn3Bg/g1-pr-71-.jpg"
       },
       {
         "clusterId": "0690f6a1451ec297",
@@ -769,6 +736,42 @@
       }
     ],
     "mundo": [
+      {
+        "clusterId": "f2980dfbc25bdf61",
+        "slug": "7004842b0802a525",
+        "titulo": "Estados Unidos e Irã se aproximam de acordo para reabrir Estreito de Ormuz",
+        "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou que um acordo de paz com o Irã está amplamente negociado, envolvendo a reabertura do Estreito de Ormuz. O Irã também sinalizou progresso nas negociações, com agências iranianas reportando que o tráfego de navios no estreito retornaria aos níveis pré-guerra em 30 dias e que parte dos fundos iranianos congelados seria liberada. No entanto, há divergência sobre o controle do estreito, com a mídia iraniana indicando que Teerã manterá a gestão das passagens, enquanto fontes americanas mencionam um cessar-fogo de 60 dias para a reabertura, e as negociações também abordam a limitação do programa nuclear iraniano, embora o Irã afirme que essa questão não faz parte da estrutura inicial do acordo.",
+        "porQueImporta": "O Estreito de Ormuz é uma rota marítima vital para o transporte global de petróleo, e um acordo pode aliviar tensões regionais e impactar o mercado energético.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/05/24/numero-de-navios-que-passam-pelo-estreito-de-ormuz-voltara-ao-nivel-pre-guerra.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/turquia-esta-pronta-para-apoiar-um-possivel-acordo-com-ira-diz-presidente/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/trump-diz-que-acordo-de-paz-com-israel-esta-sendo-finalizado-e-sera-anunciado-em-breve/"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mundo/ira-contesta-trump-e-diz-que-ormuz-seguira-sob-controle-de-teera/"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cpvpx4y40ezo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/mundo/trump-diz-que-acordo-para-encerrar-guerra-com-ira-esta-proximo/"
+          }
+        ],
+        "updatedAt": "2026-05-24T07:06:54.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/WWlkYAwGtptSkBzyvKlD-z2Iqvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/J/KhrA5iRmAERy0xka0P6A/77268041-906.jpg"
+      },
       {
         "clusterId": "a514936ec5e61410",
         "slug": "d1b16fa82626ab42",
@@ -800,9 +803,9 @@
       {
         "clusterId": "540ec09c5329f010",
         "slug": "24ecd6812f2723fa",
-        "titulo": "Drone atinge dormitório estudantil em cidade da Ucrânia controlada pela Rússia e deixa ao menos 4 mortos e 35 feridos; VÍDEO",
-        "resumo": "Drone da Ucrânia atinge dormitório estudantil e deixa jovens mortos e feridos Pelo menos quatro adolescentes morreram e 35 ficaram feridos em um ataque de drones ucranianos contra um dormitório estudantil em Luhansk, cidade controlada pela Rússia no leste da Ucrânia, durante a madrugada desta sexta-feira (22), afirmam autoridades russas. Yana Lantratova, comissária de Direitos Humanos do governo russo, afirmou que 86 adolescentes com idades entre 14 e 18 anos estavam dormindo no prédio do colégio Starobilsk, que pertence à Universidade Pedagógica de Luhansk, quando o bombardeio ocorreu. \"As…",
-        "porQueImporta": "",
+        "titulo": "Ataque ucraniano a dormitório em Luhansk provoca retaliação russa em Kiev",
+        "resumo": "Um ataque de drones ucranianos atingiu um dormitório estudantil em Starobilsk, na região de Luhansk, controlada pela Rússia, na madrugada de sexta-feira (22). Inicialmente, autoridades russas reportaram quatro mortes e 35 feridos, principalmente adolescentes. Posteriormente, o número de óbitos subiu para 18, com nove pessoas ainda desaparecidas. Em retaliação a este incidente, o presidente russo Vladimir Putin ordenou uma investida de mísseis contra a capital ucraniana, Kiev.",
+        "porQueImporta": "O incidente intensifica o conflito, com ataques a alvos civis e retaliações diretas entre as partes.",
         "category": "mundo",
         "sources": [
           {
@@ -824,9 +827,9 @@
       {
         "clusterId": "83f1a1882d51a03b",
         "slug": "8151d0c2a5735f31",
-        "titulo": "'Dinheiro acabando': brasileiro relata angústia em La Paz com protestos que não o deixam sair da Bolívia",
-        "resumo": "Manifestantes enfrentam polícia na Bolívia Em viagem de mochilão pela América do Sul, o designer Gabriel Medeiros, de 26 anos, chegou a La Paz, capital da Bolívia, no dia 5 de maio, pretendendo ficar três dias. Neste sábado (23), ele completa 18 dias na cidade, sem previsão de sair. Isso porque a Bolívia vive uma onda de protestos desde o início do mês contra o governo do presidente Rodrigo Paz, que assumiu o poder há seis meses. 📲 Participe do canal do g1 Bauru e Marília no WhatsApp Estradas têm sido bloqueadas em várias regiões do país, e a polícia tem reagido com bombas e gás a protestos…",
-        "porQueImporta": "",
+        "titulo": "Bolívia enfrenta protestos com bloqueios de estradas e ação policial",
+        "resumo": "A Bolívia tem sido palco de protestos contra o presidente Rodrigo Paz, que está no cargo há seis meses. Manifestantes têm bloqueado estradas em diversas regiões do país, resultando em ações policiais com uso de gás lacrimogêneo. Essa situação tem causado transtornos, como o relato de um turista brasileiro retido em La Paz desde o início de maio.",
+        "porQueImporta": "A situação reflete a instabilidade política e os desafios de mobilidade no país.",
         "category": "mundo",
         "sources": [
           {
@@ -848,9 +851,9 @@
       {
         "clusterId": "14747f6c0f02a89a",
         "slug": "56a68e0b5d304545",
-        "titulo": "Trump publica imagem 'segurando' Groenlândia em meio a pressão por controle da ilha",
-        "resumo": "Trump posta montagem \"com as mãos\" na Groelândia Truth Social O presidente dos Estados Unidos, Donald Trump, publicou neste sábado (23) uma imagem em que aparece \"segurando\" a Groenlândia, acompanhada da frase “Hello, Greenland!” (“Olá, Groenlândia!”), em mais uma demonstração pública de interesse pelo território ártico controlado pela Dinamarca. Na montagem publicada no Truth Social, Trump surge gigante sobre montanhas da ilha, com a mão posicionada sobre o território e pequenas casas ao fundo. O post não tinha legenda adicional. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp A…",
-        "porQueImporta": "",
+        "titulo": "Donald Trump publica imagem sobre a Groenlândia em rede social",
+        "resumo": "Donald Trump publicou em sua rede social Truth Social uma imagem gerada por inteligência artificial que o mostra \"segurando\" a Groenlândia. A montagem exibe Trump em tamanho gigante com a mão sobre o território ártico, acompanhada da frase \"Hello, Greenland!\". Essa publicação ocorre em um contexto de repetidas rejeições do governo dinamarquês e das autoridades locais a propostas de maior controle americano sobre a ilha.",
+        "porQueImporta": "A postagem reitera o interesse de Trump no território, apesar da oposição da Dinamarca.",
         "category": "mundo",
         "sources": [
           {
@@ -868,9 +871,9 @@
       {
         "clusterId": "719988b4de9ca0c9",
         "slug": "7a20b517ff964429",
-        "titulo": "O 'último cidadão soviético': o cosmonauta 'abandonado' no espaço há 35 anos durante o colapso da União Soviética",
-        "resumo": "O cosmonauta Sergei K. Krikalev, engenheiro de voo da Expedição 1, recupera algumas ferramentas no Módulo de Serviço Zvezda da Estação Espacial Internacional. 2000. NASA Da estação espacial soviética Mir, o cosmonauta Sergei Krikalev tinha uma vista privilegiada do planeta Terra, tão idílica que não pôde ver a fogueira política em que seu país estava queimando. Esta semana marcou o 35º aniversário de lançamento da missão. Em 18 de maio de 1991, Krikalev partiu a bordo da espaçonave Soyuz TM-12 para uma missão de cinco meses na estação Mir, que orbitava a Terra. Junto com ele viajaram a…",
-        "porQueImporta": "",
+        "titulo": "Sergei Krikalev: O cosmonauta que orbitou a Terra durante o colapso da União Soviética",
+        "resumo": "O cosmonauta Sergei Krikalev partiu em maio de 1991 para uma missão de cinco meses na estação espacial Mir. Contudo, sua permanência no espaço se estendeu por mais de dez meses, período em que a União Soviética entrou em colapso. Ao retornar à Terra, Krikalev pousou em um país diferente daquele que havia deixado, sendo posteriormente referido como o 'último cidadão soviético'.",
+        "porQueImporta": "A experiência de Krikalev simboliza o impacto de grandes transformações geopolíticas na vida de um indivíduo.",
         "category": "mundo",
         "sources": [
           {
@@ -886,43 +889,11 @@
         "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3cf6/live/c2e09010-56cc-11f1-8b8c-6d33e1d5abb6.jpg"
       },
       {
-        "clusterId": "95dad4ca967465fa",
-        "slug": "801972d410120173",
-        "titulo": "Em busca do soldado Tom: a solução do mistério do prisioneiro de guerra soviético da 2ª Guerra Mundial",
-        "resumo": "Ele escapou de um campo de trabalhos forçados dos nazistas e foi salvo por uma família de Jersey, no Canal da Mancha. Depois da guerra, ele desapareceu na União Soviética, até que a BBC descobriu qual foi o seu destino",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c4g0jyr92xdo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-05-24T00:46:25.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/203a/live/052444b0-48a6-11f1-90e6-350a323e11ac.png"
-      },
-      {
-        "clusterId": "968930b675e596db",
-        "slug": "76556089b07f336d",
-        "titulo": "Explosão em mina de carvão na China deixa dezenas de mortos",
-        "resumo": "Explosão em mina de carvão mata mais de 80 na China A explosão de uma mina no nordeste da China deixou 82 mortos. É o pior acidente do tipo no país em 16 anos. 247 pessoas trabalhavam na extração de carvão no momento da explosão, na última sexta-feira (22). Mais de 120 foram hospitalizadas. Muitas intoxicadas pela fumaça e pelos gases liberados pela explosão. Sobreviventes relataram um forte cheiro de gás e uma nuvem preta pouco antes do incidente. Os responsáveis pela mina foram presos e o governo determinou uma investigação rigorosa. Em 2009, uma explosão de uma mina também no nordeste do…",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/05/23/explosao-em-mina-de-carvao-na-china-deixa-dezenas-de-mortos.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-23T23:58:30.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/wQQ-cyEjo7-VuI9UF2LxFXIpEcs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/v/eBtkUjQdSzyIdzgLL7rA/2026-05-23t063602z-1444527846-rc2uelad8ohy-rtrmadp-3-china-coal-mine-accident.jpg"
-      },
-      {
         "clusterId": "b37c8b0418e80839",
         "slug": "3bab45e21b414794",
-        "titulo": "“Taracá” e neologismos de aqui",
-        "resumo": "Por Henrique Braga, doutor pela Faculdade de Filosofia, Letras e Ciências Humanas (FFLCH) da USP, e Marcelo Módolo, professor da FFLCH-USP",
-        "porQueImporta": "",
+        "titulo": "Fontes Abordam Tópicos Distintos Sem Conexão Temática",
+        "resumo": "As duas fontes fornecidas tratam de assuntos completamente diferentes. Uma delas, publicada pelo Jornal da USP, discute o termo 'Taracá' e a formação de neologismos, com autoria de pesquisadores da FFLCH-USP. A outra, da BBC Brasil, refere-se a estimativas de intenção de voto, direcionando o leitor a um agregador de pesquisas.",
+        "porQueImporta": "As informações apresentadas pelas fontes não possuem relação temática, abordando áreas distintas como linguística e política eleitoral.",
         "category": "mundo",
         "sources": [
           {
@@ -936,15 +907,31 @@
         ],
         "updatedAt": "2026-05-22T17:51:53.000Z",
         "imageUrl": "https://jornal.usp.br/wp-content/uploads/2024/06/20240612_henrique-braga_marcelo-modolo-1024x538.jpg"
+      },
+      {
+        "clusterId": "95dad4ca967465fa",
+        "slug": "801972d410120173",
+        "titulo": "Desvendado o destino de prisioneiro de guerra soviético da Segunda Guerra Mundial",
+        "resumo": "Um prisioneiro de guerra soviético da Segunda Guerra Mundial, conhecido como 'Tom', conseguiu escapar de um campo de trabalhos forçados nazista. Ele foi acolhido por uma família na ilha de Jersey, no Canal da Mancha. Após o término do conflito, Tom retornou à União Soviética, e seu paradeiro permaneceu desconhecido por décadas, até que uma investigação da BBC revelou seu destino final.",
+        "porQueImporta": "A descoberta encerra um mistério de décadas sobre o destino de um indivíduo em meio à guerra.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c4g0jyr92xdo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-05-24T00:46:25.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/203a/live/052444b0-48a6-11f1-90e6-350a323e11ac.png"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "560a9bc0623b77fd",
+        "clusterId": "fe37927db1ba39d5",
         "slug": "07271b6b73f9180d",
-        "titulo": "Mercado financeiro registra queda e avanços em inteligência artificial são destaque",
-        "resumo": "Nesta sexta-feira, 22 de maio de 2026, o Ibovespa apresentou queda de 0,81%, com o dólar mantendo-se em R$ 5, refletindo a cautela nos mercados nacional e internacional. No campo da tecnologia, o aplicativo CapCut anunciou uma parceria com o Google para integrar suas funcionalidades ao Gemini, permitindo a edição de fotos e vídeos diretamente na interface da inteligência artificial, com lançamento futuro. Adicionalmente, um pesquisador da USP desenvolveu o Mindbet, um aplicativo que emprega IA para identificar comportamentos compulsivos e impulsivos no uso de dispositivos digitais.",
-        "porQueImporta": "Os acontecimentos do dia evidenciam tanto a dinâmica econômica quanto a crescente aplicação da inteligência artificial em soluções tecnológicas.",
+        "titulo": "Novidades em aplicativos e inteligência artificial",
+        "resumo": "Um pesquisador da Escola de Enfermagem de Ribeirão Preto da USP criou o aplicativo Mindbet, que utiliza inteligência artificial para identificar sinais de compulsão e impulsividade no uso de dispositivos digitais. Em paralelo, o CapCut anunciou uma parceria com o Google para integrar suas ferramentas de edição de fotos e vídeos ao Gemini, com o objetivo de otimizar o processo criativo. A integração ainda não está disponível ao público, mas será lançada em breve.",
+        "porQueImporta": "Essas inovações demonstram a crescente aplicação da inteligência artificial em áreas como saúde digital e edição de conteúdo.",
         "category": "tecnologia",
         "sources": [
           {
@@ -964,31 +951,11 @@
         "imageUrl": "https://s2-g1.glbimg.com/YTU0rFD8JX2kU9DIotrbvPFtbYw=/s01.video.glbimg.com/deo/vi/77/01/14640177"
       },
       {
-        "clusterId": "eb28b8f89597b577",
-        "slug": "124533020cd1088e",
-        "titulo": "Governo explica por que desistiu de punir quem compra celular roubado",
-        "resumo": "Na última quinta-feira (21), o presidente Lula afirmou que o governo federal recuou de uma proposta mais rígida relacionada ao combate ao mercado de celulares roubados no Brasil. A ideia inicial previa medidas mais duras que poderiam atingir também pessoas que compraram celular roubado sem saber que eles tinham origem ilícita. Polícia recupera centenas de celulares roubados e aguarda donos para retirada Para onde vão os celulares roubados? Saiba como evitar um prejuízo maior Segundo o presidente, a decisão foi tomada para evitar injustiças e buscar uma abordagem considerada mais equilibrada.…",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/governo-lula-prepara-ofensiva-com-estados-contra-roubo-de-celulares"
-          },
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/smartphone/governo-explica-por-que-desistiu-de-punir-quem-compra-celular-roubado/"
-          }
-        ],
-        "updatedAt": "2026-05-24T00:55:37.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/04/lula-planaltina-16.jpeg"
-      },
-      {
         "clusterId": "8b3bfc152fec1c40",
         "slug": "bc275c7d802b22b2",
-        "titulo": "Samsung pode evitar greve, mas vai custar R$ 133 bilhões em bônus a funcionários",
-        "resumo": "A Samsung pode ter evitado uma das maiores greves de sua história, mas um acordo recém-negociado com o sindicato deve custar US$ 27 bilhões (cerca de R$ 133 bilhões) em bônus para funcionários da divisão de semicondutores. Paralisação em fábricas da Samsung corta até 58% da produção Quando a crise dos chips vai acabar? Ex-chefe da Samsung lança palpite Segundo esse acordo preliminar, a Samsung poderá distribuir aproximadamente 40 trilhões de wones em bonificações aos trabalhadores da área. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Parte da compensação será feita em ações…",
-        "porQueImporta": "",
+        "titulo": "Samsung anuncia descontos em produtos, avalia estratégias futuras e fecha acordo trabalhista",
+        "resumo": "A Samsung tem oferecido promoções significativas em seus produtos, como o smartphone Galaxy S26+ 5G com 44% de desconto e o monitor Odyssey OLED G5 27\" com preço reduzido. Paralelamente, a empresa estaria avaliando a adoção de telas mais baratas para o futuro Galaxy S27, visando reduzir custos de produção. Internamente, a Samsung negociou um acordo com o sindicato para evitar uma greve, comprometendo-se a pagar cerca de R$ 133 bilhões em bônus aos funcionários da divisão de semicondutores.",
+        "porQueImporta": "Esses eventos refletem as estratégias da Samsung para impulsionar vendas, otimizar custos de produção e gerenciar suas relações trabalhistas.",
         "category": "tecnologia",
         "sources": [
           {
@@ -1006,9 +973,9 @@
       {
         "clusterId": "f58c59c0adbab935",
         "slug": "3210814e9e73c6eb",
-        "titulo": "NVIDIA dá sinais de que não se importa mais com placas de vídeo; entenda",
-        "resumo": "As grandes fabricantes de placas de vídeo e processadores costumam revelar como o segmento de consumo, que tem a ver com os produtos que você e eu podemos comprar, foi em vendas em um determinado período no relatório fiscal. A NVIDIA está mudando isso, integrando o segmento de gaming a um grupo geral, eliminando os dados de vendas específicos das GeForce. O que é a tecnologia Nvidia DLSS? Recursos exclusivos das placas de vídeo NVIDIA GeForce RTX O primeiro trimestre do ano fiscal de 2027 terminou e a NVIDIA revelou um lucro de US$ 81,6 bilhões, valor recorde em toda a história da empresa de…",
-        "porQueImporta": "",
+        "titulo": "Nvidia registra lucro recorde, mantém aposta na China e reestrutura relatórios de jogos",
+        "resumo": "A Nvidia anunciou um lucro de US$ 81,6 bilhões no primeiro trimestre do ano fiscal de 2027, um valor que a empresa descreveu como recorde em sua história. A companhia continua a focar no mercado chinês, apesar das restrições impostas pelos Estados Unidos. Além disso, a Nvidia está integrando o segmento de jogos em uma categoria geral em seus relatórios fiscais, deixando de divulgar dados específicos de vendas para as placas GeForce.",
+        "porQueImporta": "Essas ações indicam uma reorientação estratégica da Nvidia em mercados-chave e na forma como comunica seus resultados financeiros.",
         "category": "tecnologia",
         "sources": [
           {
@@ -1026,9 +993,9 @@
       {
         "clusterId": "81f6d038f479e82e",
         "slug": "131bc07aab88e52a",
-        "titulo": "Spotify agora deixa qualquer um criar podcasts com ajuda de IA",
-        "resumo": "O Spotify anunciou o lançamento do “Personal Podcasts”, novo recurso de inteligência artificial para criar episódios personalizados a partir de comandos de texto simples. A novidade começará a ser liberada no próximo mês para assinantes Premium nos Estados Unidos e promete transformar qualquer usuário em criador de podcasts sem precisar gravar áudio ou editar programas manualmente. Como colocar o seu podcast no Spotify Como encontrar podcasts no Spotify A ferramenta funciona de maneira parecida com as “Prompted Playlists” já existentes na plataforma. O usuário apenas escreve o tema que deseja…",
-        "porQueImporta": "",
+        "titulo": "Spotify anuncia novas ferramentas de IA e monetização",
+        "resumo": "O Spotify anunciou o lançamento de novas funcionalidades, como o recurso \"Memberships\", que permite a criadores de conteúdo cobrar assinaturas recorrentes diretamente na plataforma, buscando competir com serviços como o Patreon. A empresa também revelou o \"Personal Podcasts\", uma ferramenta de inteligência artificial que cria episódios personalizados a partir de comandos de texto, inicialmente disponível para assinantes Premium nos EUA. Adicionalmente, em parceria com a Universal Music Group, o Spotify permitirá que usuários criem remixes e covers de músicas de artistas selecionados por meio de IA, mediante uma taxa extra.",
+        "porQueImporta": "Essas iniciativas visam expandir as funcionalidades da plataforma, atrair e reter criadores, e oferecer novas formas de interação com o conteúdo musical e de áudio.",
         "category": "tecnologia",
         "sources": [
           {
@@ -1046,9 +1013,9 @@
       {
         "clusterId": "38a95d74d688af9c",
         "slug": "684f1a8dbbda6e5f",
-        "titulo": "Ferrari e IBM usam IA para criar experiência personalizada para fãs de Fórmula 1",
-        "resumo": "A colaboração foca no uso de IA para garantir maior engajamento através do aplicativo oficial da equipe italiana O post Ferrari e IBM usam IA para criar experiência personalizada para fãs de Fórmula 1 apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
+        "titulo": "Ferrari e IBM colaboram para personalizar experiência de fãs de Fórmula 1 com IA",
+        "resumo": "A Ferrari e a IBM estabeleceram uma colaboração para aprimorar a experiência dos fãs de Fórmula 1. A iniciativa envolve o uso de inteligência artificial para personalizar o conteúdo e as interações. O objetivo é aumentar o engajamento dos torcedores por meio do aplicativo oficial da equipe italiana.",
+        "porQueImporta": "A parceria demonstra a aplicação de tecnologia avançada para otimizar o engajamento de públicos em eventos esportivos.",
         "category": "tecnologia",
         "sources": [
           {
@@ -1076,9 +1043,9 @@
       {
         "clusterId": "c6a58bf2e2062a38",
         "slug": "b1203e04fdb6b759",
-        "titulo": "DeepSeek adota estratégia agressiva na corrida das IAs",
-        "resumo": "Startup chinesa anunciou redução permanente no preço do seu modelo de IA mais recente, o DeepSeek V4 Pro O post DeepSeek adota estratégia agressiva na corrida das IAs apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
+        "titulo": "DeepSeek reduz permanentemente preço de seu modelo de IA",
+        "resumo": "A startup chinesa DeepSeek anunciou uma redução permanente no preço de seu modelo de inteligência artificial mais recente, o DeepSeek V4 Pro. Essa medida é vista como uma estratégia agressiva no cenário competitivo do desenvolvimento de IAs.",
+        "porQueImporta": "A decisão pode intensificar a competição no mercado de modelos de inteligência artificial.",
         "category": "tecnologia",
         "sources": [
           {
@@ -1087,15 +1054,30 @@
           }
         ],
         "updatedAt": "2026-05-23T17:53:20.000Z"
+      },
+      {
+        "clusterId": "8251f2db0540e66c",
+        "slug": "db1766c777c7ad2f",
+        "titulo": "Megafoguete da Blue Origin é liberado para voar",
+        "resumo": "O megafoguete da Blue Origin recebeu autorização para retomar seus voos. A liberação ocorre após a conclusão de uma investigação de segurança que havia suspendido os lançamentos. Essa decisão pode impactar a concorrência no setor de exploração espacial.",
+        "porQueImporta": "A retomada das operações do foguete pode intensificar a competição no mercado de lançamentos espaciais.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/05/23/ciencia-e-espaco/competicao-para-starship-megafoguete-da-blue-origin-e-liberado-para-voar/"
+          }
+        ],
+        "updatedAt": "2026-05-23T16:45:17.000Z"
       }
     ],
     "ciencia": [
       {
         "clusterId": "836f99cb955223b6",
         "slug": "8a1ce9b519967747",
-        "titulo": "Quais são os direitos dos pacientes no Brasil?",
-        "resumo": "Antes dispersos em normas, resoluções e decisões judiciais, os direitos dos pacientes passam agora a ser reunidos em um estatuto. Entenda o que muda. The post Quais são os direitos dos pacientes no Brasil? first appeared on Portal Drauzio Varella.",
-        "porQueImporta": "",
+        "titulo": "Classificação do relevo brasileiro e direitos dos pacientes em foco",
+        "resumo": "Um podcast da Pesquisa FAPESP explora um debate científico sobre a classificação do relevo do Brasil, incluindo a discussão sobre a existência de montanhas. Paralelamente, os direitos dos pacientes no país estão sendo compilados em um estatuto, reunindo normas e decisões judiciais que antes estavam dispersas.",
+        "porQueImporta": "Esses assuntos abordam aspectos relevantes da geografia e da legislação de saúde no Brasil.",
         "category": "ciencia",
         "sources": [
           {
@@ -1235,211 +1217,167 @@
     ],
     "esportes": [
       {
-        "clusterId": "0e7e0f9e34d86619",
-        "slug": "3091a76b62e75579",
-        "titulo": "São Paulo empata com Botafogo e amplia jejum no Brasileirão",
-        "resumo": "O São Paulo empatou em 1 a 1 com o Botafogo no Morumbis, em partida válida pela 17ª rodada do Campeonato Brasileiro. Luciano marcou para o time paulista, enquanto Jordan Barrera igualou o placar nos minutos finais para os cariocas. Este resultado estendeu o jejum de vitórias do São Paulo para oito jogos na competição. O técnico Dorival Júnior lamentou a queda de desempenho da equipe no segundo tempo e também a saída do zagueiro Dória, que rescindiu contrato devido a problemas familiares de saúde e supostas ameaças de torcedores.",
-        "porQueImporta": "O empate mantém o São Paulo em uma situação de crise no Brasileirão, com uma longa sequência sem vitórias.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-confortavel-e-sao-paulo-em-crise-o-resumo-do-dia-de-brasileirao/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/23-05-2026/sao-paulo-botafogo.ghtml"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/05/23/paulo-miklos-extrapola-o-karaoke-em-coisas-da-vida-album-de-crooner-com-vies-existencialista-e-moldura-orquestral.ghtml"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/casual/taste-sao-paulo-milhares-de-quilos-de-insumos-e-milhoes-movimentados/"
-          },
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/carros/detail-land-feirao-de-estetica-automotiva-chega-a-sao-paulo/"
-          },
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/radio-usp/pocos-artesianos-em-sao-paulo-correm-risco-de-contaminacao/"
-          }
-        ],
-        "updatedAt": "2026-05-24T03:00:15.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/u445SU1z9CD1OoHSkApznwmydvQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/V/i/Qw9vIbS7ycUvWBj5BVBQ/g-kbq7jxkaasnhs.jpg"
-      },
-      {
-        "clusterId": "31338b5381a8e67e",
-        "slug": "186749d8bf6aacbe",
-        "titulo": "Flamengo 0 x 3 Palmeiras quebra recorde de público no Campeonato Brasileiro 2026; veja ranking",
-        "resumo": "Flamengo 0 x 3 Palmeiras | Melhores momentos | 17ª rodada | Brasileirão 2026 Recorde de público no Campeonato Brasileiro 2026! A vitória do Palmeiras sobre o Flamengo, por 3 a 0, registrou o maior público da atual competição, com 67,2 mil pagantes (71,2 mil presentes) no Maracanã. A renda da partida foi de R$ 7,7 milhões, também a melhor da Série A. + Ranking de público 2026: Flamengo amplia distância na liderança, Corinthians segue em segundo + Flamengo e Palmeiras gastam mais de R$ 3,3 bilhões em reforços e têm 30 títulos desde 2019; veja lista Torcida do Flamengo lotou o Maracanã e quebrou…",
+        "clusterId": "4b85d6e0f680debc",
+        "slug": "0e2d357b322ec39a",
+        "titulo": "Decisão x Serra Branca: onde assistir, horário e prováveis escalações",
+        "resumo": "Decisão e Serra Branca se enfrentam neste domingo, pela quarta divisão nacional. O jogo começa às 16h, no Estádio José Dionísio. O ge acompanha a partida lance a lance em tempo real. Confira a tabela completa da Série D do Brasileiro Initial plugin text O Decisão chega para a partida na busca por recuperação no campeonato. A equipe vem de derrota para o Retrô e trocou de treinador no início da semana. Josué Gamma foi desligado do comando técnico, e Maurício Ramos, ex-zagueiro do Palmeiras, assumiu o cargo. Após manter um certo equilíbrio no início da campanha, o Serra Branca está passando por…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/palmeiras-atropela-flamengo-vence-por-3-x-0-e-dispara-na-lideranca"
-          },
-          {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/05/23/leonardo-jardim-lamenta-expulsao-de-carrascal-em-flamengo-x-palmeiras-condicionou-o-jogo.ghtml"
+            "url": "https://ge.globo.com/pe/caruaru-regiao/futebol/brasileirao-serie-d/noticia/2026/05/24/decisao-x-serra-branca-onde-assistir-horario-e-provaveis-escalacoes.ghtml"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-encerra-jejum-e-vence-flamengo-pelo-brasileirao-apos-nove-anos/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/tottenham-x-everton-horario-e-onde-assistir-ao-jogo-da-premier-league/"
           }
         ],
-        "updatedAt": "2026-05-24T03:07:43.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/05/palmeiras-futebol-flamengo.jpg"
+        "updatedAt": "2026-05-24T07:02:14.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/hQ_h2xc29_H68OdWmpsb7_ZdPBg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/6/w/TNC34jRNKUf8VykteFBw/whatsapp-image-2026-02-05-at-15.48.38.jpeg"
       },
       {
-        "clusterId": "166702ecd7f19152",
+        "clusterId": "28328a817fb12b39",
+        "slug": "43d10e5c2f5505dc",
+        "titulo": "Sousa amplia sequência sem marcar e aumenta tensão na Série D",
+        "resumo": "O empate sem gols diante do Central, no Estádio Marizão, pela 8ª rodada da Série D do Campeonato Brasileiro, ampliou a sequência de jogos em branco do ataque Sousa. O resultado aumentou a pressão sobre a equipe, que tem apenas mais duas partidas para garantir a classificação à próxima fase da competição. + CLIQUE AQUI e veja as principais notícias do Sousa + Confira a tabela completa da Série D 2026 A baixa eficiência ofensiva voltou a ficar evidente diante do Central. Mesmo com maior posse de bola e presença constante no campo de ataque, o Dinossauro não conseguiu transformar o volume criado…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/pb/futebol/times/sousa/noticia/2026/05/24/sousa-amplia-sequencia-sem-marcar-e-aumenta-tensao-na-serie-d.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/serie-d-zeroum-confira-os-melhores-momentos-dos-jogos-deste-sabado-3"
+          }
+        ],
+        "updatedAt": "2026-05-24T07:01:20.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/09PXVIeoneAbWssm461eAWKKzIA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/M/g/EgQAvoTTakYPRpweynpA/img-8338.jpg.jpeg"
+      },
+      {
+        "clusterId": "7fdeb0c242892c98",
         "slug": "29e5543002d2b5c5",
-        "titulo": "Jair Ventura cita desgaste do elenco, mas avalia \"all-in\" do Vitória na Copa do Nordeste",
-        "resumo": "Vitória 2 x 0 Internacional | Melhores momentos | 17ª rodada | Brasileirão 2026 O Vitória precisou de concentração no sistema defensivo para não ceder à pressão do Internacional e vencer por 2 a 0 no Barradão, pela Série A, neste sábado. Na entrevista coletiva depois da partida, o treinador Jair Ventura valorizou o resultado, mas avaliou que o time \"não conseguiu jogar\" no segundo tempo por causa do desgaste físico e mental [assista aos melhores momentos acima]. - O Inter estava há sete jogos sem perder, teve descanso maior. A gente acabou de jogar uma semifinal, era claro que nosso desgaste…",
+        "titulo": "Análise: Vitória tem atacantes em alta, mas é sistema defensivo que sustenta resultado contra o Inter",
+        "resumo": "Vitória 2 x 0 Internacional | Gols | 17ª rodada | Brasileirão 2026 O gol de Renê com passe de Erick que abriu o caminho para o 2 a 0 contra o Internacional reforçou a boa fase dos atacantes do Vitória. Mas foram os zagueiros rubro-negros que sustentaram o resultado da 17ª rodada do Campeonato Brasileiro. Mesmo mandante no Barradão, o Leão passou boa parte da partida pressionado por um Inter que teve a bola, mas achou poucos espaços para finalizar [assista aos melhores momentos acima]. Siga o ge Vitória nos Canais do WhatsApp Veja quem chega e quem sai do Vitória em 2026 O Vitória foi pouco ao…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/jogo/23-05-2026/vitoria-internacional.ghtml"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/vitoria-vence-internacional-e-faz-mais-uma-vitima-no-barradao"
+            "url": "https://ge.globo.com/ba/futebol/times/vitoria/noticia/2026/05/24/analise-vitoria-tem-atacantes-em-alta-mas-e-sistema-defensivo-que-sustenta-resultado-contra-o-inter.ghtml"
           },
           {
             "name": "CNN Brasil",
             "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/destaque-marca-e-vitoria-bate-internacional-em-casa-pelo-brasileirao/"
           }
         ],
-        "updatedAt": "2026-05-24T01:05:07.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/05/vitoria-internacional.jpg"
+        "updatedAt": "2026-05-24T07:01:08.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/OEOpD3hqWqMLcsOiVPTRUf2xMHU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/a/K/DjeuNUTlul2JdAASRipA/victor-ferreira-52365.jpg.jpeg"
       },
       {
-        "clusterId": "87bcc068fb4d92ae",
-        "slug": "98f5c321ac2a023a",
-        "titulo": "Abel Ferreira aponta segredo do Palmeiras contra pressão: \"Ligamos o modo resiliência\"",
-        "resumo": "Abel Ferreira comentou sobre protestos recentes da torcida Abel Ferreira aliviou a pressão que sofria no Palmeiras com uma vitória por 3 a 0 sobre o Flamengo, neste sábado, no Maracanã. Para suportar o balanço do barco, a equipe tem um segredo, que está ligado à resiliência tão citada pelo treinador. O português vinha recebendo críticas após três empates consecutivos no Brasileirão, que aumentaram após a derrota para o Cerro Porteño no meio de semana, pela Conmebol Libertadores. – Desde que estou aqui, há cinco anos, o futebol, essa liga é muito competitiva, sabemos que vários resultados…",
+        "clusterId": "31cc444361bc2559",
+        "slug": "c1b10100ce6ca90c",
+        "titulo": "Análise: seis nomes crescem e sustentam batalha vitoriosa do Grêmio contra o Santos",
+        "resumo": "Grêmio 3 x 2 Santos | Melhores momentos | 17ª rodada | Brasileirão 2026 Foi uma verdadeira batalha. O Grêmio superou o Santos e a si mesmo na noite deste sábado para conseguir os 3 a 2 que o afastam do Z-4. O time superou as falhas defensivas e, com um ataque forte, conquistou os três pontos. Para isso, venceu, inclusive, o erro bisonho de Caio Paulista que culminou no primeiro gol do Santos. + Alô, torcida tricolor! O ge Grêmio está no WhatsApp! Neste jogo de cinco gols, seis nomes tiveram atuações acima da própria média e sustentaram a suada vitória. A começar pelo técnico Luís Castro. Leia…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/05/24/abel-ferreira-aponta-segredo-do-palmeiras-contra-pressao-ligamos-o-modo-resiliencia.ghtml"
+            "url": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2026/05/24/analise-sao-paulo-tem-noite-de-filme-repetido-e-estaciona-na-tabela-do-brasileirao.ghtml"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/abel-tem-sua-primeira-vitoria-contra-flamengo-no-brasileirao/"
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/em-jogo-movimentado-gremio-vence-e-empurra-santos-para-o-z4-do-brasileirao/"
           }
         ],
-        "updatedAt": "2026-05-24T03:05:53.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/uJwQUbJ25zxg18_7LCi31YifEFQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/y/i/CTFk5SQ3mc2RqEUHCF7w/agif26052321055097.jpg"
+        "updatedAt": "2026-05-24T07:01:05.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/uisAdqmWzL5dW5AV7rrmA9_wOlc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/m/f/rn2LGYTrKOpA5RD59jzQ/2035429c-526b-4fd3-9edb-b2179bb684d9.jpg"
       },
       {
-        "clusterId": "83845f2b5d4c372f",
-        "slug": "d5ddd09c92750d84",
-        "titulo": "Zubeldía admite jogo ruim do Fluminense e critica árbitro: \"Ele se equivocou feio\"",
-        "resumo": "Fluminense 1 x 0 Mirassol | Melhores momentos | 32ª rodada | Brasileirão 2025 O técnico do Fluminense, Luis Zubeldía, analisou a derrota por 1 a 0 para o Mirassol em jogo na noite deste sábado, no Maião, pela 17ª rodada do Brasileirão. O treinador também usou a entrevista coletiva para reclamar da arbitragem por ter anulado o pênalti em Samuel Xavier após revisão no VAR. — Além de reconhecer que não fizemos uma boa partida, é importante citar o árbitro se equivocou feio ao não dar o pênalti, que seria algo importante para o anímico. São partidas difíceis aqui. Foi um jogo em que nos faltaram…",
+        "clusterId": "e947ef7653259bf8",
+        "slug": "fd9d2b67aff9a1b8",
+        "titulo": "Análise: Mirassol vence jogo de eficiência, anula o Fluminense e vê luz no fim do túnel",
+        "resumo": "Mirassol 1 x 0 Fluminense | Melhores momentos | 17ª rodada | Brasileirão 2026 A vitória sobre o Fluminense provou que o Mirassol tem boas ferramentas para escapar do rebaixamento do Brasileirão. O Leão fez um jogo de eficiência, venceu por 1 a 0 e ficou mais perto de sair da zona da degola. Na vice-lanterna da Série A, o time amarelo e verde entrou decidido a buscar o triunfo a qualquer custo. Não importava que do outro lado estava o terceiro colocado e um dos clubes mais poderosos do país. ✅ Clique aqui e siga o canal do ge Mirassol no WhatsApp! O déficit na tabela ainda existe, mas ele está…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/sp/tem-esporte/futebol/brasileirao-serie-a/jogo/23-05-2026/mirassol-fluminense.ghtml"
+            "url": "https://ge.globo.com/sp/tem-esporte/futebol/times/mirassol/noticia/2026/05/24/analise-mirassol-vence-jogo-de-eficiencia-anula-o-fluminense-e-ve-luz-no-fim-do-tunel.ghtml"
           },
           {
             "name": "CNN Brasil",
             "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileirao-fluminense-perde-para-mirassol-e-nao-se-aproxima-da-lideranca/"
           }
         ],
-        "updatedAt": "2026-05-24T02:50:20.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/R65QUke5iHafAU4DEmmqYCZ4UUs=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/e/4/IHecpZSPAH6tFAZZJgQA/8b4ae7d3-a3a3-498b-8bde-9765b7c078a2.jpg"
+        "updatedAt": "2026-05-24T07:00:41.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/w75sQd_eFD4Uvb1swUFDkBz0ycQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/L/e/8D21TUTe2OzSORnPbXaQ/706912580-18590271904056176-8517845327090149208-n.jpg"
       },
       {
-        "clusterId": "8d1c594d943006a6",
-        "slug": "fe0ea8f2b97b4787",
+        "clusterId": "0fd7f991c2a0e5e1",
+        "slug": "131202ec988f781e",
         "titulo": "Paulinho volta a marcar pelo Palmeiras após 329 dias e comenta comemoração: “Provocação sadia”",
         "resumo": "Flamengo 0 x 3 Palmeiras | Melhores momentos | 17ª rodada | Brasileirão 2026 Paulinho marcou o terceiro gol do Palmeiras na vitória por 3 a 0 sobre o Flamengo, neste sábado, no Maracanã, o primeiro dele em 329 dias. A última vez havia sido na vitória do Palmeiras por 2 a 1 sobre o Botafogo, nas oitavas de final do Mundial de Clubes, nos EUA, no dia 28 de junho de 2025. O atacante ficou 302 dias afastado dos gramados devido a uma grave fratura por estresse na tíbia da perna direita, lesão crônica originada na época em que defendia o Atlético-MG e que exigiu uma nova cirurgia. Ainda em processo…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/paulinho-detalha-processo-muito-dificil-de-lesao-apos-gol-contra-flamengo/"
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/05/24/analise-palmeiras-se-impoe-no-maracana-ganha-alivio-e-retoma-controle-do-brasileirao.ghtml"
           },
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/05/23/paulinho-volta-a-marcar-pelo-palmeiras-apos-329-dias-e-comenta-comemoracao-provocacao-sadia.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-confortavel-e-sao-paulo-em-crise-o-resumo-do-dia-de-brasileirao/"
           }
         ],
-        "updatedAt": "2026-05-24T02:40:11.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/TFaoL4y8eSiJntkweNyC4490oA4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/5/c/urI6zNTgao1no7d44z1A/95.jpg"
+        "updatedAt": "2026-05-24T07:00:38.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/6VNRhZoGF_MPUdzfcb7iVsj0Rk8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/T/S/MsYkZtSZWL9O1SN3Zh4A/48.jpg"
       },
       {
-        "clusterId": "a8e7b7bbeb461f4d",
-        "slug": "9d3079a9b2813d02",
-        "titulo": "Rebeca Andrade é convocada para o Pan do Rio e volta às competições de ginástica em junho",
-        "resumo": "Rebeca Andrade, maior medalhista olímpica do Brasil, está de volta às competições Rebeca Andrade está convocada para defender a seleção brasileira no Campeonato Pan-Americano de ginástica artística. Depois de tirar um ano sabático em 2025, a maior medalhista olímpica do Brasil vai voltar às competições justamente em casa, no Rio de Janeiro, entre 17 e 21 de junho. A ginasta de 27 anos está animada para retornar com o apoio da torcida verde-amarela. - Estou feliz de estar de volta, acho que isso é o mais importante, pra mim, pelo menos. A gente tem o Pan-Americano, que é uma competição muito…",
+        "clusterId": "c0c091cb520c7c9b",
+        "slug": "29127a5925e93894",
+        "titulo": "Jornal espanhol critica Vini Jr. por ausência em jogo do Real Madrid: \"Preocupado apenas com ele\"",
+        "resumo": "Real Madrid 4 x 2 Athletic Bilbao | Melhores momentos | 38ª rodada | LaLiga 2025/26 Liberado pelo Real Madrid do último jogo da temporada, Vinícius Júnior não compareceu ao Santiago Bernabéu na vitória por 4 a 2 sobre o Athletic Bilbao, neste sábado (23), pela última rodada do Campeonato Espanhol. A atitude do atacante gerou críticas do jornal Marca. Na Espanha, esperava-se que o brasileiro, como um dos líderes do grupo, estivesse na partida que marcou as despedidas de Carvajal e Alaba. Porém, ele não marcou presença. — O Real Madrid de sempre se despedindo entre lágrimas, e Vinicius…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/rebeca-andrade-tem-data-definida-para-voltar-a-ginastica-veja-quando-sera/"
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/05/24/jornal-espanhol-critica-vini-jr-por-ausencia-em-jogo-do-real-preocupado-apenas-com-ele.ghtml"
           },
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/ginastica-artistica/noticia/2026/05/23/rebeca-andrade-e-convocada-para-o-pan-do-rio-e-volta-as-competicoes-de-ginastica-em-junho.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/com-gol-de-mbappe-e-homenagem-a-carvajal-real-madrid-vence-athletic-bilbao/"
           }
         ],
-        "updatedAt": "2026-05-24T02:33:52.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/Aecbo99FvVxzsS-_UsknC2jgznQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2024/1/8/IXZ2ZJTimU4GneAp8ngA/gettyimages-2165217090.jpg"
+        "updatedAt": "2026-05-24T05:34:10.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/E__nFzQMVEUp37IDEXqPTeyCBIA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/l/D/7T9qOURTi1Ygp4uwaSUw/gettyimages-2274986227.jpg"
       },
       {
-        "clusterId": "7d70b4424b5736c9",
-        "slug": "7d911e16bddb5841",
-        "titulo": "Nova Iguaçu vence o Noroeste e acirra briga pela classificação no grupo na Série D",
-        "resumo": "O Nova Iguaçu venceu o Noroeste por 1 a 0 na tarde deste sábado, no Laranjão, em Nova Iguaçu, em jogo válido pela oitava rodada da Série D do Brasileiro. O único gol da partida foi marcado por Lucas Cruz. O camisa 10 do Nova Iguaçu roubou a bola no meio de campo e invadiu a área, sem tempo de reação para a defesa bauruense. Veja também + Tabela e Classificação da Série D Sem perder há quatro partidas, o Nova Iguaçu chegou aos nove pontos e subiu para a quarta posição na tabela, entrando provisoriamente na zona de classificação. Já a Maquininha Vermelha foi superada após uma sequência invicta…",
+        "clusterId": "430304d30a858ffa",
+        "slug": "b5f2d65d213bf6b5",
+        "titulo": "Jardim discorda de expulsão de Carrascal: \"É muito fácil dar o cartão vermelho para o Flamengo\"",
+        "resumo": "Jardim critica árbitro por expulsão: \"É muito fácil dar cartões vermelhos ao Flamengo\" O Flamengo sofreu uma dura derrota por 3 a 0, no Maracanã, na noite deste sábado, em confronto direto com o Palmeiras na busca pela liderança do Campeonato Brasileiro. O time comandado por Leonardo Jardim teve Carrascal expulso ainda no primeiro tempo, quando o placar estava zerado, e foi presa fácil com um jogador a menos. Após a partida, o técnico português concedeu entrevista coletiva no Maracanã e criticou o critério do árbitro Davi de Oliveira Lacerda para expulsar o colombiano. No lance, o atleta do…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/serie-d-zeroum-confira-os-melhores-momentos-de-gama-df-x-primavera-mt"
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/05/23/leonardo-jardim-lamenta-expulsao-de-carrascal-em-flamengo-x-palmeiras-condicionou-o-jogo.ghtml"
           },
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/mt/futebol/brasileirao-serie-d/noticia/2026/05/23/gama-goleia-primavera-por-4-a-0-no-bezerrao-pela-serie-d.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/carrascal-e-expulso-durante-flamengo-x-palmeiras-veja-lance/"
           }
         ],
-        "updatedAt": "2026-05-24T02:29:33.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/05/gama-seried.jpg"
+        "updatedAt": "2026-05-24T02:59:25.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/DGpPYmqAGZVf-GVUDzPaXhuTViw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Z/d/8FZMEiTsmvAmnZEMR5fA/57.jpg"
       }
     ],
     "entretenimento": [
-      {
-        "clusterId": "8abfd1628de99772",
-        "slug": "23b38fc060cb08e4",
-        "titulo": "Ator de 'Supernatural' é encontrado morto e polícia investiga homicídio no Canadá",
-        "resumo": "McLean possuía uma carreira na televisão em papeis pontuais para séries conhecidas do grande público, tendo atuado recentemente na série 'Virgin River' Reprodução Redes Facebook/Lucas Talent Inc. O ator Stewart McLean, conhecido por atuar em séries como 'Supernatural' e 'Arrow', foi encontrado morto na província canadense de Colúmbia Britânica após passar uma semana desaparecido. De acordo com informações apuradas pela revista People, as autoridades canadenses tratam oficialmente o caso como um homicídio. Ele tinha completado 45 anos em abril. Os restos mortais de McLean foram identificados…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/distrito-federal/massoterapeuta-que-estava-sumido-ha-quase-um-mes-e-encontrado-morto"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/05/23/ator-de-supernatural-e-encontrado-morto-e-policia-investiga-homicidio-no-canada.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-24T01:58:42.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/05/desaparecido-foto-2.jpeg"
-      },
       {
         "clusterId": "688c3e00c98f0bd9",
         "slug": "3b4172911ee28034",
@@ -1457,6 +1395,22 @@
         "imageUrl": "https://s2-g1.glbimg.com/AjkNy7ag-MVU3SjiWRtNPTqMats=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/e/zU2fVxQsumZ2uRJVUG4g/trivia1.jpeg"
       },
       {
+        "clusterId": "2623755a02e46898",
+        "slug": "23b38fc060cb08e4",
+        "titulo": "Ator de 'Supernatural' é encontrado morto e polícia investiga homicídio no Canadá",
+        "resumo": "McLean possuía uma carreira na televisão em papeis pontuais para séries conhecidas do grande público, tendo atuado recentemente na série 'Virgin River' Reprodução Redes Facebook/Lucas Talent Inc. O ator Stewart McLean, conhecido por atuar em séries como 'Supernatural' e 'Arrow', foi encontrado morto na província canadense de Colúmbia Britânica após passar uma semana desaparecido. De acordo com informações apuradas pela revista People, as autoridades canadenses tratam oficialmente o caso como um homicídio. Ele tinha completado 45 anos em abril. Os restos mortais de McLean foram identificados…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/05/23/ator-de-supernatural-e-encontrado-morto-e-policia-investiga-homicidio-no-canada.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-23T18:13:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/jkZ8uKT-mqU3dXcr9Uep9YPjzzw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/T/5GC7L2Ql26u1SO0bgwhg/design-sem-nome.png"
+      },
+      {
         "clusterId": "475924c2bfc55762",
         "slug": "03f2506c088e27b2",
         "titulo": "Morre Dick Parry, saxofonista histórico do Pink Floyd",
@@ -1471,6 +1425,22 @@
         ],
         "updatedAt": "2026-05-23T16:36:58.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/05k8MleUkjnSC0bRmYpMgkeADho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/E/WoIgWgQUA1PbzOvtRX2Q/my-dear-friend-dick-parry-died-this-morning.since-i-was-seventeen-i-have-played-in-bands-with-d.jpg"
+      },
+      {
+        "clusterId": "43371c049558236f",
+        "slug": "a24434a59385f419",
+        "titulo": "Paulo Miklos extrapola o karaokê em 'Coisas da vida', álbum de 'crooner' com viés existencialista e moldura orquestral",
+        "resumo": "Paulo Miklos nada acrescenta ao hino sertanejo 'Evidências', mas canta muito bem músicas de Sérgio Sampaio (1947 – 1994) e do trio Sá, Rodrix & Guarabyra Jorge Daux / Divulgação ♫ CRÍTICA DE ÁLBUM Título: Coisas da vida Artista: Paulo Miklos Cotação: ★ ★ ★ 1/2 ♬ Quando Paulo Miklos lançou em 8 de maio single com regravação de “Evidências” (João Augusto e Paulo Sérgio Valle, 1989), com direito a clipe filmado em karaokê, uma pergunta se impôs de imediato: para que mais um registro fonográfico desse hino sertanejo amplificado nas vozes anasaladas de Chitãozinho & Xororó a partir de 1990? Da…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/05/23/paulo-miklos-extrapola-o-karaoke-em-coisas-da-vida-album-de-crooner-com-vies-existencialista-e-moldura-orquestral.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-23T14:53:43.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/eNk-bCM6j7r-RbZgHyleEq7XDDU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/k/YAGAzhThaf53tB9JWBig/coisasdavidafoto.jpg"
       },
       {
         "clusterId": "a26f40d536ede009",
@@ -1505,6 +1475,22 @@
         "imageUrl": "https://s2-g1.glbimg.com/yCvb-iTvuRFBKrrVBwYtfRgtNNs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/M/uUNSHvSaqGqzd0q8oXAg/paulalima2026.jpg"
       },
       {
+        "clusterId": "7a2123ee354add9e",
+        "slug": "724f0a3e5f42a86c",
+        "titulo": "De cadela abandonada a estrela de Cannes: cachorrinha chilena Yuri ganha Palma Canina",
+        "resumo": "Cadela resgatada Yuri rouba a cena em Cannes com prêmio Palm Dog REUTERS/Gonzalo Fuentes A nova estrela canina das ruas de Cannes já tem nome. A Palma Canina (Dog Palm) do festival coroou, nesta sexta-feira (22), Yuri, a protagonista do filme \"La perra\", da diretora chilena Dominga Sotomayor. O longa conta com o brasileiro Selton Mello no elenco. Criado em 2001 à margem do Festival de Cannes, este prêmio informal coroa as melhores atuações caninas nas telonas, tornando-se uma das tradições mais excêntricas e queridas do evento. Este ano, a cerimônia foi realizada em uma praia do calçadão de…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/05/22/de-cadela-abandonada-a-estrela-de-cannes-cachorrinha-chilena-yuri-ganha-palma-canina.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-22T18:07:50.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/8oWgPco4G18VXyASNuzTSCYANww=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/o/KuDzPjRHG86oKAZpgUSw/2026-05-22t174036z-1-lynxmpem4l1fm-rtroptp-4-filmfestival-cannes-palm-dog.jpg"
+      },
+      {
         "clusterId": "54af89855c961326",
         "slug": "b18801754d9f6277",
         "titulo": "Natanzinho Lima admite uso de estimulantes antes de shows e relata episódio de arritmia: 'Achei que ia morrer'",
@@ -1519,38 +1505,6 @@
         ],
         "updatedAt": "2026-05-22T17:29:29.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/iL_SK1dxsWkACZTAhTp4fgw8nzs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/p/EywnRTR0Geb7zvtg0KNg/design-sem-nome-63-.png"
-      },
-      {
-        "clusterId": "6da468212f578607",
-        "slug": "7bc20e42e39d2f30",
-        "titulo": "Maria Rita retoma show 'Redescobrir 2' em turnê que vai de julho a dezembro",
-        "resumo": "Maria Rita reestreia o show 'Redescobrir vol. 2' em 24 de julho, em Ribeirão Preto (SP), e segue com a turnê pelo Brasil até 19 de dezembro Reprodução / Facebook Maria Rita ♫ NOTÍCIA ♬ Maria Rita enfim retoma o show em que torna a cantar o repertório da mãe, Elis Regina (1945 – 1982). Dois meses após ter estreado em 13 de março em Porto Alegre (RS) o show “Redescobrir vol. 2”, sequência do espetáculo de 2012 que gerou álbum ao vivo e DVD, a artista enfim anuncia turnê com o show em que canta “Corcovado” (Antonio Carlos Jobim, 1960) – música gravada pela mãe em 1974 no álbum “Elis & Tom” – com…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/05/22/maria-rita-retoma-show-redescobrir-2-em-turne-que-vai-de-julho-a-dezembro.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-22T15:41:59.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/NEhockff6EwsOfSJ0JMkvSBf18I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/R/U3pTbVQXKX8Hq6IBivYQ/mariaritaturne.jpg"
-      },
-      {
-        "clusterId": "ca503a6bd7564e5f",
-        "slug": "524332670baac418",
-        "titulo": "Álbum que conecta Erasmo Carlos com rappers funciona quando há real diálogo entre os dois universos musicais",
-        "resumo": "Erasmo Carlos (1941 – 2022) na ilustração estampada na capa do álbum 'Mano' Reprodução da capa do álbum 'Mano' ♫ CRÍTICA DE ÁLBUM Título: Mano Artistas: Erasmo Carlos + Budah, Criolo, Dexter, Emicida, Marcelo D2, Rael, Tasha & Tracie, Tássia Reis e Xamã Cotação: ★ ★ ★ 1/2 ♬ É a pior possível a primeira impressão de “Mano”, álbum lançado hoje, 22 de maio, com oito faixas que conectam Erasmo Carlos (5 de junho de 1941 – 22 de novembro de 2022) com rappers através das recriações de músicas lançadas pelo cantor e compositor carioca entre 1971 e 1973, período de expansão do repertório desse…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/05/22/album-que-reune-erasmo-carlos-com-rappers-funciona-quando-ha-real-dialogo-entre-os-dois-universos-musicais.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-22T11:40:10.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/56sd93jyomI0vzm9ZciNvou3zO0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/W/MQ90plSNuWgBrA9UhWAg/erasmomano.jpg"
       }
     ]
   }
