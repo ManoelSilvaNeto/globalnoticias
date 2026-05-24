@@ -19,14 +19,14 @@ cron 4h ─> GitHub Actions ─> pipeline (coleta → cluster → rank → resum
 
 - **Sem servidor sempre-ligado e sem banco**: a persistência é JSON versionado no
   próprio repositório (`data/`).
-- **IA atrás de uma interface trocável** (`Summarizer`): hoje Gemini Flash; dá pra
-  trocar por Groq/Claude. Sem `GEMINI_API_KEY`, cai num resumo de fallback (descrição
-  do RSS) e o build nunca quebra.
+- **IA atrás de uma interface trocável** (`Summarizer`): hoje Groq (`openai/gpt-oss-20b`,
+  com structured outputs estritos); dá pra trocar por Gemini/Claude. Sem `GROQ_API_KEY`,
+  cai num resumo de fallback (descrição do RSS) e o build nunca quebra.
 
 ## Stack
 
 Astro + Tailwind (site) · TypeScript/Node (pipeline) · Vitest (testes) ·
-GitHub Actions (cron) · Cloudflare Pages (hospedagem) · Gemini Flash (resumo).
+GitHub Actions (cron) · Cloudflare Pages (hospedagem) · Groq / Llama (resumo).
 
 ## Estrutura
 
@@ -48,7 +48,7 @@ pipeline/     ingestão: sources, fetch, cluster, rank, summarize, build-data, i
 
 ## Segredos (GitHub Actions)
 
-- `GEMINI_API_KEY` — Google AI Studio (free tier). Sem ela, usa fallback.
+- `GROQ_API_KEY` — console.groq.com (free tier, sem cartão). Sem ela, usa fallback.
 - `CLOUDFLARE_API_TOKEN` e `CLOUDFLARE_ACCOUNT_ID` — deploy no Pages. Sem eles, o
   workflow roda tudo e só pula o passo de deploy.
 

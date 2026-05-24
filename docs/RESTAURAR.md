@@ -12,7 +12,7 @@ os valores sensíveis ficam nos *Secrets* do GitHub e no seu gerenciador de senh
 | Código (site + pipeline + testes + workflow) | repositório | ✅ sim |
 | Conteúdo e **histórico** de edições (`data/`) | repositório (commitado a cada run) | ✅ sim |
 | Spec, plano e este guia (`docs/`) | repositório | ✅ sim |
-| Chaves/secrets (Gemini, Cloudflare) | GitHub → Secrets (write-only) | ❌ regenerar |
+| Chaves/secrets (Groq, Cloudflare) | GitHub → Secrets (write-only) | ❌ regenerar |
 | Projeto Cloudflare Pages + domínio | conta Cloudflare | ❌ recriar (auto + 1 passo) |
 | DNS `noticias` | registro.br | ❌ continua lá; recriar se mudar de domínio |
 | `node_modules`, `dist` | gerados | ✅ `pnpm install` / `pnpm build` |
@@ -29,7 +29,7 @@ cd globalnoticias
 pnpm install
 
 pnpm test                 # roda os testes
-GEMINI_API_KEY=xxxx pnpm pipeline   # gera data/*.json (sem a chave, usa fallback)
+GROQ_API_KEY=xxxx pnpm pipeline   # gera data/*.json (sem a chave, usa fallback)
 pnpm build                # gera dist/
 pnpm dev                  # preview local em http://localhost:4321
 ```
@@ -62,7 +62,7 @@ Cada edição publicada é um commit, então dá pra recuperar qualquer dia/vers
    > `gh auth refresh -h github.com -s workflow`.
 
 2. **Secrets** (GitHub → Settings → Secrets and variables → Actions):
-   - `GEMINI_API_KEY` — gerar em https://aistudio.google.com/apikey (free).
+   - `GROQ_API_KEY` — gerar em https://console.groq.com (free, sem cartão).
    - `CLOUDFLARE_API_TOKEN` — em https://dash.cloudflare.com/profile/api-tokens →
      Create Custom Token → permissão **Account › Cloudflare Pages › Edit**.
    - `CLOUDFLARE_ACCOUNT_ID` — no painel Cloudflare → Workers & Pages → "Account ID".
@@ -90,8 +90,9 @@ Cada edição publicada é um commit, então dá pra recuperar qualquer dia/vers
 
 - **Hospedagem:** Cloudflare Pages, projeto `globalnoticias` (produção = branch `main`).
 - **Cron:** `.github/workflows/update.yml`, a cada 4h (UTC) + push + manual.
-- **IA:** modelo `gemini-2.5-flash` (o `gemini-2.0-flash` **não** tem cota free nessa
-  chave). Trocar via variável `GEMINI_MODEL`. Ritmo: var `GEMINI_THROTTLE_MS` (padrão 6s).
+- **IA:** Groq, modelo `openai/gpt-oss-20b` (structured outputs estritos = JSON garantido).
+  Trocar via `GROQ_MODEL` (use gpt-oss-20b/120b p/ schema estrito). Ritmo: `GROQ_THROTTLE_MS`
+  (padrão 2,5s). Migrado do Gemini em 2026-05-24 (mesma chave Groq da fábrica).
 - **Fontes:** `pipeline/sources.ts`.
 - **URL canônica/sitemap:** `astro.config.mjs` (`site`, sobrescrevível por `SITE_URL`).
 
@@ -101,6 +102,6 @@ Cada edição publicada é um commit, então dá pra recuperar qualquer dia/vers
 
 O GitHub **não devolve** o valor dos secrets depois de salvos. Mantenha em local seguro:
 
-- valor da **`GEMINI_API_KEY`**
+- valor da **`GROQ_API_KEY`**
 - valor do **`CLOUDFLARE_API_TOKEN`**
 - (o `CLOUDFLARE_ACCOUNT_ID` está visível no painel da Cloudflare, não precisa decorar)

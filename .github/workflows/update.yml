@@ -49,7 +49,7 @@ jobs:
 
       - name: Rodar pipeline (coleta + cluster + resumo + dados)
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: pnpm pipeline
 
       - name: Commitar dados (se mudaram)
@@ -58,11 +58,24 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if git diff --quiet -- data; then
             echo "Sem mudanças em data/ — nada a commitar."
-          else
-            git add data
-            git commit -m "dados: edição $(date -u +%FT%TZ) [skip ci]"
-            git push
+            exit 0
           fi
+          git add data
+          git commit -m "dados: edição $(date -u +%FT%TZ) [skip ci]"
+          # Push resiliente a corrida (push manual durante o run, runs enfileirados).
+          # Dados são REGENERADOS, então a nossa versão é a boa: em caso de rejeição,
+          # recompõe o commit sobre o topo atual de origin/main e re-tenta.
+          for i in 1 2 3 4 5; do
+            if git push origin main; then echo "push ok"; exit 0; fi
+            echo "push rejeitado (tentativa $i) — sincronizando com origin/main..."
+            git fetch origin main
+            git reset --soft origin/main
+            git add data
+            git commit -m "dados: edição $(date -u +%FT%TZ) [skip ci]" || true
+            sleep $((RANDOM % 4 + 2))
+          done
+          echo "::error::não consegui dar push dos dados após 5 tentativas"
+          exit 1
 
       - name: Build do site
         run: pnpm build

@@ -1,4 +1,4 @@
-// Resumo dos clusters do topo via Gemini Flash, atrás de uma interface trocável
+// Resumo dos clusters do topo via Groq (Llama), atrás de uma interface trocável
 // (Summarizer). Cache pela IDENTIDADE da história (URL do artigo-âncora, o mais
 // antigo): a história mantém a chave mesmo ganhando novos membros, então um resumo
 // já feito é reaproveitado entre runs e a cobertura de IA acumula. Resiliente: IA
@@ -6,11 +6,10 @@
 // RSS. O build nunca quebra por causa da IA.
 
 import { createHash } from 'node:crypto';
-import { GoogleGenAI, Type } from '@google/genai';
 import type { Cluster, Summary, CachedSummary } from '../src/lib/types';
 import { normalizeUrl } from './url';
 
-// ── Interface trocável (plano B: Groq, Claude Haiku, etc.) ────────────────────
+// ── Interface trocável (plano B: Gemini, Claude Haiku, etc.) ──────────────────
 export type SummarizeInput = {
   artigos: { source: string; title: string; description: string }[];
 };
@@ -63,7 +62,7 @@ function sanitize(s: Summary): Summary {
   return { titulo, resumo, porQueImporta: (s.porQueImporta ?? '').trim() };
 }
 
-// ── Cliente Gemini ────────────────────────────────────────────────────────────
+// ── Cliente Groq (API compatível com OpenAI) ─────────────────────────────────
 const SYSTEM_INSTRUCTION = [
   'Você é um editor de notícias que escreve resumos factuais e neutros em português do Brasil.',
   'Regras invioláveis:',
@@ -87,12 +86,15 @@ function buildPrompt(input: SummarizeInput): string {
     '- "titulo": manchete limpa e neutra (sem ponto final);',
     '- "resumo": 2 a 4 frases originais sintetizando o fato;',
     '- "porQueImporta": 1 frase curta explicando a relevância.',
+    '',
+    'Responda APENAS com um único objeto JSON válido (as 3 chaves acima), sem nenhum',
+    'texto antes ou depois e sem blocos de código markdown.',
   ].join('\n');
 }
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
-// Extrai o status HTTP de um erro do SDK (ApiError tem .status; senão lê do texto).
+// Extrai o status HTTP de um erro (a resposta da API traz .status; senão lê do texto).
 export function errorStatus(err: unknown): number | null {
   const e = err as { status?: number; code?: number; message?: string };
   if (typeof e?.status === 'number') return e.status;
@@ -110,13 +112,52 @@ export function isQuotaError(err: unknown): boolean {
 const TRANSIENT = new Set([429, 500, 503]);
 const RETRY_BACKOFF_MS = [5_000, 12_000];
 
-export class GeminiSummarizer implements Summarizer {
-  private ai: GoogleGenAI;
+const GROQ_ENDPOINT = 'https://api.groq.com/openai/v1/chat/completions';
+
+// Modelos da Groq com structured outputs ESTRITOS: o JSON é garantido pelo schema
+// (constrained decoding) → o modelo não consegue devolver JSON inválido. Os demais
+// caem no json_object (best-effort) + parse tolerante.
+const STRICT_SCHEMA_MODELS = new Set(['openai/gpt-oss-20b', 'openai/gpt-oss-120b']);
+
+const RESUMO_SCHEMA = {
+  type: 'object',
+  additionalProperties: false,
+  properties: {
+    titulo: { type: 'string' },
+    resumo: { type: 'string' },
+    porQueImporta: { type: 'string' },
+  },
+  required: ['titulo', 'resumo', 'porQueImporta'],
+} as const;
+
+// Parse tolerante: tira cercas markdown e recorta do 1º "{" ao último "}" antes do
+// JSON.parse (cobre o caso de o modelo embrulhar o objeto em texto/```json).
+export function parseJsonObject(text: string): unknown {
+  const cleaned = text.replace(/```(?:json)?/gi, '').trim();
+  const start = cleaned.indexOf('{');
+  const end = cleaned.lastIndexOf('}');
+  const slice = start >= 0 && end > start ? cleaned.slice(start, end + 1) : cleaned;
+  return JSON.parse(slice);
+}
+
+export class GroqSummarizer implements Summarizer {
+  private apiKey: string;
   private model: string;
 
-  constructor(apiKey: string, model = process.env.GEMINI_MODEL ?? 'gemini-2.5-flash') {
-    this.ai = new GoogleGenAI({ apiKey });
+  constructor(apiKey: string, model = process.env.GROQ_MODEL ?? 'openai/gpt-oss-20b') {
+    this.apiKey = apiKey;
     this.model = model;
+  }
+
+  // Structured outputs estritos quando o modelo suporta; senão json_object.
+  private responseFormat(): Record<string, unknown> {
+    if (STRICT_SCHEMA_MODELS.has(this.model)) {
+      return {
+        type: 'json_schema',
+        json_schema: { name: 'resumo', strict: true, schema: RESUMO_SCHEMA },
+      };
+    }
+    return { type: 'json_object' };
   }
 
   async summarize(input: SummarizeInput): Promise<Summary> {
@@ -135,38 +176,56 @@ export class GeminiSummarizer implements Summarizer {
   }
 
   private async callOnce(input: SummarizeInput): Promise<Summary> {
-    const response = await this.ai.models.generateContent({
+    const body: Record<string, unknown> = {
       model: this.model,
-      contents: buildPrompt(input),
-      config: {
-        systemInstruction: SYSTEM_INSTRUCTION,
-        temperature: 0.3,
-        responseMimeType: 'application/json',
-        responseSchema: {
-          type: Type.OBJECT,
-          properties: {
-            titulo: { type: Type.STRING },
-            resumo: { type: Type.STRING },
-            porQueImporta: { type: Type.STRING },
-          },
-          required: ['titulo', 'resumo', 'porQueImporta'],
-        },
+      temperature: 0.3,
+      // Folga p/ o JSON. Em modelos de reasoning (gpt-oss) os tokens de raciocínio
+      // contam aqui; com max baixo o JSON era truncado → 400 "Failed to generate JSON".
+      max_completion_tokens: 4096,
+      response_format: this.responseFormat(),
+      messages: [
+        { role: 'system', content: SYSTEM_INSTRUCTION },
+        { role: 'user', content: buildPrompt(input) },
+      ],
+    };
+    // Resumir não exige raciocínio pesado: 'low' reduz tokens de reasoning (mais
+    // rápido e deixa espaço pro JSON). Só os gpt-oss aceitam este parâmetro.
+    if (STRICT_SCHEMA_MODELS.has(this.model)) body.reasoning_effort = 'low';
+
+    const res = await fetch(GROQ_ENDPOINT, {
+      method: 'POST',
+      headers: {
+        Authorization: `Bearer ${this.apiKey}`,
+        'Content-Type': 'application/json',
       },
+      body: JSON.stringify(body),
     });
-    const text = response.text;
+
+    if (!res.ok) {
+      const errBody = await res.text().catch(() => '');
+      // Propaga o status HTTP p/ a lógica de retry/disjuntor (429/500/503).
+      throw Object.assign(new Error(`Groq ${res.status}: ${errBody.slice(0, 200)}`), {
+        status: res.status,
+      });
+    }
+
+    const data = (await res.json()) as {
+      choices?: { message?: { content?: string } }[];
+    };
+    const text = data.choices?.[0]?.message?.content;
     if (!text) throw new Error('resposta vazia da IA');
-    return JSON.parse(text) as Summary;
+    return parseJsonObject(text) as Summary;
   }
 }
 
-// Cria o resumidor a partir do ambiente. Sem GEMINI_API_KEY → null (usa fallback).
+// Cria o resumidor a partir do ambiente. Sem GROQ_API_KEY → null (usa fallback).
 export function summarizerFromEnv(): Summarizer | null {
-  const apiKey = process.env.GEMINI_API_KEY?.trim();
+  const apiKey = process.env.GROQ_API_KEY?.trim();
   if (!apiKey) {
-    console.warn('GEMINI_API_KEY ausente — resumos via fallback (descrição do RSS).');
+    console.warn('GROQ_API_KEY ausente — resumos via fallback (descrição do RSS).');
     return null;
   }
-  return new GeminiSummarizer(apiKey);
+  return new GroqSummarizer(apiKey);
 }
 
 // ── Orquestração: cache + IA + fallback ───────────────────────────────────────
@@ -183,8 +242,9 @@ export type SummarizeResult = {
   stats: SummarizeStats;
 };
 
-// Espaçamento entre chamadas à IA p/ respeitar o RPM do free tier.
-const THROTTLE_MS = Number(process.env.GEMINI_THROTTLE_MS ?? 6000);
+// Espaçamento entre chamadas à IA p/ respeitar o RPM do free tier da Groq
+// (~30 req/min → 2500ms ≈ 24/min, com margem).
+const THROTTLE_MS = Number(process.env.GROQ_THROTTLE_MS ?? 2500);
 // Após N falhas de quota (429) seguidas, desiste da IA no resto do run (fallback
 // rápido) — evita um run eterno quando a cota do dia acabou.
 const QUOTA_BREAKER = 4;
