@@ -1,89 +1,285 @@
 {
   "date": "2026-05-25",
-  "generatedAt": "2026-05-25T17:44:30.481Z",
+  "generatedAt": "2026-05-25T21:08:58.331Z",
   "home": [
     {
-      "clusterId": "bea2078c4dd66569",
-      "slug": "b45c1cac994727ac",
-      "titulo": "Governo e Câmara definem transição para fim da escala 6×1",
-      "resumo": "O presidente da Câmara, Hugo Motta, e o presidente Lula concordaram que a proposta de fim da escala 6×1 reduzirá a jornada de 44 para 40 horas semanais, sem corte salarial. A transição será de 12 meses, com redução de duas horas após 60 dias da promulgação da PEC e mais duas horas ao fim do ano. O texto também prevê dois dias de folga e a adoção da escala 5×2.",
-      "porQueImporta": "A mudança afetará a rotina de trabalhadores e a estrutura de produção no país.",
-      "category": "politica",
+      "clusterId": "0a26cd91e108ae3f",
+      "slug": "3a715f397e65e9f3",
+      "titulo": "FIFA divulga 48 centros de treinamento oficiais para Copa 2026",
+      "resumo": "A FIFA anunciou os 48 centros de treinamento que abrigarão cada seleção durante a Copa do Mundo de 2026, distribuídos entre as cidades-sede no Canadá, México e Estados Unidos. As instalações são de nível internacional e servirão como base das equipes na fase de grupos. Nem todos os centros estão localizados em cidades que sediarão partidas, mas as cidades escolhidas contam com infraestrutura e conexões adequadas.",
+      "porQueImporta": "Esses centros garantem conforto e preparação adequada para as seleções, influenciando o desempenho no torneio.",
+      "category": "esportes",
       "sources": [
         {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/escala-6x1-governo-fecha-transicao-para-cortar-2h-de-jornada-em-2026-e-2h-em-2027/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/apos-reuniao-com-lula-motta-anuncia-transicao-para-reducao-de-jornada-de-trabalho/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/folga-e-reducao-de-horas-entenda-a-pec-6x1-costurada-por-lula-e-motta"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/motta-anuncia-transicao-de-um-ano-para-o-fim-da-escala-6x1-e-sela-acordo-com-lula/"
+          "name": "GE",
+          "url": "https://ge.globo.com/copa-do-mundo-2026/noticia/2026/05/25/fifa-anuncia-centro-de-treinamentos-das-selecoes-para-a-copa-do-mundo-2026.ghtml"
         },
         {
           "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-economia/jornada-de-44h-por-semana-caira-para-40h-em-1-ano-diz-motta/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/05/25/apos-reuniao-com-lula-motta-diz-que-pec-do-fim-da-escala-6x1-preve-jornada-de-40-horas-sem-corte-de-salario-e-transicao-de-um-ano.ghtml"
+          "url": "https://www.poder360.com.br/poder-midia/globo-tem-25-patrocinadores-confirmados-para-a-copa-do-mundo/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/fim-da-6x1-tera-jornada-de-40-horas-e-transicao-de-um-ano-diz-hugo/"
+          "url": "https://www.cnnbrasil.com.br/economia/financas/copa-do-mundo-cesta-do-churrasco-sobe-3-ao-ano-diz-fecomerciosp/"
         },
         {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/escala-6x1-em-acordo-de-lula-com-motta-texto-tera-reducao-de-2h-jornada-de-trabalho-em-60-dias/"
-        }
-      ],
-      "updatedAt": "2026-05-25T17:37:31.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/0d7a8362.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "2f33b610cae46177",
-      "slug": "1246158293a8fc9f",
-      "titulo": "México confirma receber seleção iraniana na Copa do Mundo 2026",
-      "resumo": "A presidente do México, Claudia Sheinbaum, anunciou que o país receberá a seleção iraniana durante o Mundial de 2026, após os Estados Unidos recusarem a hospedagem. O Irã transferiu seu centro de treinamento dos EUA para o México, em Tijuana, em meio à guerra no Oriente Médio. A decisão foi aprovada pela FIFA após reuniões com a Federação Iraniana de Futebol.",
-      "porQueImporta": "Garante a participação da seleção iraniana no torneio, evitando cancelamentos por questões de segurança e logística.",
-      "category": "esportes",
-      "sources": [
+          "name": "G1",
+          "url": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/25/copa-do-mundo-em-sp-cine-belas-artes-vai-transmitir-todos-os-jogos-do-brasil.ghtml"
+        },
         {
           "name": "CartaCapital",
           "url": "https://www.cartacapital.com.br/esporte/mexico-aceita-receber-a-selecao-do-ira-na-copa-do-mundo/"
         },
         {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/05/25/convocados-da-colombia-para-a-copa-do-mundo-2026-veja-a-lista.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/messi-passa-por-exames-e-liga-o-alerta-na-argentina-para-copa-2026/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/05/25/presidente-do-mexico-diz-que-vai-receber-selecao-iraniana-durante-a-copa-do-mundo-diz-agencia.ghtml"
+          "name": "Exame",
+          "url": "https://exame.com/esporte/com-4-atletas-do-brasileirao-colombia-anuncia-os-convocados-para-copa-do-mundo-2026-veja-a-lista/"
         },
         {
           "name": "Canaltech",
           "url": "https://canaltech.com.br/produtos/elon-musk-lanca-bola-de-futebol-da-tesla-para-a-copa-do-mundo-por-r-277/"
+        }
+      ],
+      "updatedAt": "2026-05-25T20:53:44.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/sTRrkTFAcqnatuOYTL2X5eM3Pys=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/B/f/cIb1MDSlGCK0DP9mH2XQ/55248641402-3d704c7daa-k.jpg"
+    },
+    {
+      "clusterId": "23dc50c0e0578dec",
+      "slug": "e337ee8abe035614",
+      "titulo": "Presidente do Irã manda restabelecer internet internacional após bloqueio durante protestos",
+      "resumo": "Kit da Starlink com antena, modem e cabos custa US$ 499 Divulgação/SpaceX Após quase três meses de restrições, o presidente do Irã, Masoud Pezeshkian, ordenou a reabertura do acesso internacional à internet no país, segundo informou a mídia estatal iraniana nesta segunda-feira (25). A decisão foi confirmada pelo chefe de relações públicas do Ministério das Comunicações do Irã, segundo a imprensa estatal. Segundo o observatório de monitoramento digital NetBlocks, a maior parte da população iraniana estava sem acesso à internet havia 87 dias. Apenas alguns cidadãos conseguiam acessar a rede por…",
+      "porQueImporta": "",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/ira-vai-restabelecer-acesso-a-internet-no-pais-diz-midia-estatal"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/apos-meses-de-apagao-digital-governo-do-ira-permite-retomada-de-internet-no-pais/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/presidente-do-ira-ordena-reabertura-da-internet-no-pais/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/ira-ordena-retorno-do-acesso-a-internet-apos-87-dias-de-bloqueio/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/05/25/ira-internet.ghtml"
         },
         {
           "name": "Exame",
-          "url": "https://exame.com/esporte/brasil-espanha-e-alemanha-veja-as-convocacoes-ja-divulgadas-para-a-copa-do-mundo-2026/"
+          "url": "https://exame.com/mundo/ira-diz-que-deve-retomar-acesso-a-internet-global-quase-90-dias-apos-bloqueio-aos-civis/"
         }
       ],
-      "updatedAt": "2026-05-25T17:05:18.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/12/000_87BK7VL.jpg"
+      "updatedAt": "2026-05-25T20:53:16.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/04/foto-presidente-ira1.jpg"
     },
     {
-      "clusterId": "13f4ee3e41fc22f5",
+      "clusterId": "f99673aa3d2f894d",
+      "slug": "3035a5469cc685cb",
+      "titulo": "Netanyahu anuncia intensificação de ofensiva contra Hezbollah",
+      "resumo": "O primeiro-ministro israelense Benjamin Netanyahu afirmou que Israel aumentará a intensidade das operações contra o Hezbollah no sul do Líbano, com o objetivo de \"esmagar\" o grupo. A declaração foi feita após a extensão do cessar-fogo de 45 dias entre Israel e Líbano. Netanyahu também mencionou a criação de uma equipe especial para lidar com a ameaça de drones do Hezbollah. A medida ocorre enquanto os EUA e o Irã tentam negociar um fim à guerra no Oriente Médio.",
+      "porQueImporta": "A decisão pode alterar o equilíbrio de poder na região e afetar a estabilidade do Líbano e do Oriente Médio.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/netanyahu-promete-intensificar-ofensiva-contra-o-hezbollah/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/netanyahu-diz-que-intensificara-ofensiva-contra-hezbollah-vamos-ataca-los-decisivamente/"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/netanyahu-promete-ampliar-ataques-contra-hezbollah-e-pressao-sobre-libano/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/mundo/netanyahu-diz-que-israel-vai-intensificar-ofensiva-no-libano/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/05/25/netanyahu-diz-que-israel-vai-intensificar-ataques-contra-o-libano-em-ofensiva-ao-hezbollah.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/israel-vai-intensificar-ataques-contra-o-hezbollah-diz-netanyahu/"
+        }
+      ],
+      "updatedAt": "2026-05-25T20:45:04.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/05/000_36PY9FK.jpg.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "5114a3afa80c8fe4",
+      "slug": "dfd9ae0815892702",
+      "titulo": "STF, AGU e Ministério da Justiça discutem reação à notificação de Moraes por e-mail",
+      "resumo": "O ministro Alexandre de Moraes recebeu notificação por e-mail sobre ação judicial dos EUA movida pela Rumble e Trump Media. O STF, a AGU e o Ministério da Justiça estão avaliando a melhor forma de responder, considerando que o magistrado não deve se manifestar pessoalmente sobre decisões jurisdicionais. A Corte planeja acionar a diplomacia e a AGU pode auxiliar na resposta. A notificação foi feita em cumprimento a ordem de tribunal federal americano.",
+      "porQueImporta": "A situação envolve a interação entre o poder judiciário brasileiro e a jurisdição dos EUA, levantando questões de soberania e procedimentos legais internacionais.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/manoela-alcantara/rumble-stf-discute-com-governo-reacao-a-intimacao-a-moraes-por-e-mail"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/stf-discute-com-agu-e-mj-saida-juridica-para-responder-notificacao-dos-eua-a-moraes/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/justica/stf-articula-resposta-apos-moraes-ser-notificado-em-processo-dos-eua/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/05/25/stf-discute-resposta-institucional-apos-moraes-ser-notificado-por-processo-movido-nos-eua-contra-ele.ghtml"
+        }
+      ],
+      "updatedAt": "2026-05-25T20:51:28.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/01/Fachada-do-Supremo-Tribunal-Federal-STF-na-Praca-dos-Tres-Poderes-em-Brasilia-Metropoles-4-scaled.jpg"
+    },
+    {
+      "clusterId": "d2c92db4c60b798d",
+      "slug": "cac2e5a9a412ae14",
+      "titulo": "Flávio Bolsonaro visita Daniel Vorcaro para buscar restante do financiamento de filme",
+      "resumo": "O senador Flávio Bolsonaro foi à casa de Daniel Vorcaro, banqueiro investigado, para tentar obter o restante do dinheiro destinado ao filme Dark Horse, cinebiografia de Jair Bolsonaro. O presidente do PL, Valdemar Costa Neto, justificou a visita como normal e afirmou que o senador continua candidato à presidência. A conversa foi revelada em áudio, gerando críticas e questionamentos sobre a pré-candidatura de Flávio.",
+      "porQueImporta": "A visita pode afetar a imagem e a viabilidade política de Flávio Bolsonaro na corrida presidencial.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/flavio-visitou-vorcaro-para-ver-se-conseguia-o-restante-do-dinheiro-diz-valdemar"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/valdemar-diz-que-flavio-foi-a-casa-de-vorcaro-em-busca-do-restante-do-dinheiro/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/05/25/valdemar-costa-neto-presidente-pl-entrevista-globonews.ghtml"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cj6ppezn1lzo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-05-25T20:49:56.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/04/valdemar-costa-neto-em-entrevista-ao-metropoles-134.jpg"
+    },
+    {
+      "clusterId": "7e9a856d40791378",
+      "slug": "f981ca224f7c8a9e",
+      "titulo": "Flávio Bolsonaro enfrenta repercussões políticas e busca fortalecer apoio em Minas Gerais",
+      "resumo": "A revelação das conversas entre Flávio Bolsonaro e Daniel Vorcaro, conhecidas como ‘Dark Horse’, causou danos eleitorais ao pré-candidato, segundo pesquisa Datafolha. Em meio a críticas internas, Flávio planeja encontros estratégicos: uma reunião com o Partido Liberal (PL) de Minas Gerais para definir o candidato a governador e um encontro com Donald Trump em Washington. Esses movimentos visam consolidar sua base e ampliar sua visibilidade nacional.",
+      "porQueImporta": "A situação reflete a fragilidade da candidatura de Flávio e a importância de Minas Gerais como estado decisivo nas eleições presidenciais.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/pl-oficializa-fischer-e-oltramari-na-comunicacao-de-flavio-bolsonaro/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/mundo/flavio-bolsonaro-chega-aos-eua-sem-confirmar-encontro-com-trump/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/05/25/em-busca-de-agenda-positiva-flavio-bolsonaro-esta-em-washington-para-reuniao-com-trump.ghtml"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cvgzz5dy2nyo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-05-25T20:41:59.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/0sU2R0ExeOiErd5KOgUtw56xcfA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/n/w4sIUkRQiUA44pzfWbCg/55190675052-7bb677ba59-b.jpg"
+    },
+    {
+      "clusterId": "71faf17f17b2f6eb",
+      "slug": "4e18f2426a1e7f37",
+      "titulo": "Ibovespa sobe enquanto dólar cai em dia de baixa liquidez",
+      "resumo": "O Ibovespa avançou cerca de 0,9% a 177.816 pontos, impulsionado por ganhos em bancos e queda na Petrobras. O dólar comercial recuou 0,19%, cotado a R$ 5,02, após expectativas de avanço nas negociações entre EUA e Irã. A alta no mercado acionário ocorreu em meio a feriado nos EUA, que reduziu a liquidez. A valorização do índice reflete otimismo geopolítico e expectativas de acordo de paz no Oriente Médio.",
+      "porQueImporta": "A movimentação do mercado brasileiro pode indicar confiança dos investidores diante de incertezas externas.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-25052026/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/negocios/dolar-cai-e-bolsa-sobe-petroleo-afunda-e-volta-para-baixo-de-us-100"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/invest/mercados/ibovespa-sobe-1-com-alivio-geopolitico-em-dia-de-feriado-nos-eua/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/economia/noticia/2026/05/25/dolar-ibovespa.ghtml"
+        }
+      ],
+      "updatedAt": "2026-05-25T20:28:57.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Ibovespa-ao-vivo-2.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "88b5a78d9987a2a7",
+      "slug": "2946694a4306a083",
+      "titulo": "Servidores do Ceará recebem primeira parcela do 13º salário em 3 de junho",
+      "resumo": "O governador Elmano de Freitas anunciou que os servidores estaduais do Ceará receberão a primeira parcela do 13º salário antecipada, com pagamento previsto para 3 de junho, véspera do feriado de Corpus Christi. A medida segue a prática anual desde 2023. Enquanto isso, o INSS iniciou o pagamento da segunda parcela do 13º salário para aposentados e pensionistas a partir de 25 de maio, com pagamentos continuando até 8 de junho.",
+      "porQueImporta": "A antecipação facilita o planejamento financeiro dos servidores e dos beneficiários do INSS.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-segunda-feira-25-de-maio-de-2026.ghtml"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/05/25/veja-os-destaques-do-esporte-no-diario-tv-1a-edicao-desta-segunda-feira-25-de-maio.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/pop/tudo-sobre-a-9a-temporada-de-rick-and-morty-que-estreou-nesta-segunda-feira/"
+        },
+        {
+          "name": "Jornal da USP",
+          "url": "https://jornal.usp.br/campus-ribeirao-preto/edicao-de-25-de-maio-de-2026/"
+        }
+      ],
+      "updatedAt": "2026-05-25T19:30:48.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/KcKmrFsd4vLo3UdPmyDr3zJOl6A=/s01.video.glbimg.com/deo/vi/46/33/14643346"
+    },
+    {
+      "clusterId": "ea3209de7e1527b2",
+      "slug": "9e760c2360628f05",
+      "titulo": "Físiculturista de 22 anos encontrado morto em São Paulo",
+      "resumo": "O influenciador fitness Gabriel Ganley, de 22 anos, foi encontrado sem vida em seu apartamento na Zona Leste de São Paulo. Ele havia alertado, sete meses antes, sobre os riscos de anabolizantes, afirmando que poderiam encurtar sua vida em 10 a 15 anos. A morte está sendo investigada como suspeita pelo 42º Distrito Policial, e a perícia identificou medicamentos que podem ser substâncias anabolizantes.",
+      "porQueImporta": "O caso destaca os perigos do uso de anabolizantes e a necessidade de atenção à saúde de atletas e influenciadores fitness.",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/05/25/medica-que-atestou-a-morte-de-idoso-encontrado-vivo-em-funeraria-deve-ser-ouvida-pela-policia-civil-no-interior-de-sp.ghtml"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/gabriel-ganley-o-que-se-sabe-sobre-a-morte-do-fisiculturista-investigada-pela-policia/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/fisiculturismo/noticia/2026/05/25/gabriel-ganley-se-preparava-para-competicao-nacional-de-fisiculturismo.ghtml"
+        }
+      ],
+      "updatedAt": "2026-05-25T20:58:25.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ja9bMHasZyoac7Irzq73N5L9RSk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/g/IaJwSLSpAh9hsgz7SVYw/g1-2026-05-18t113712.131.png"
+    },
+    {
+      "clusterId": "a1017146fea9b2f7",
       "slug": "6ea6213d810b04d0",
       "titulo": "Papa Leão XIV pede perdão pela Igreja pela legitimação da escravidão e lança encíclica sobre inteligência artificial",
       "resumo": "O papa Leão XIV, em sua primeira encíclica \"Magnifica Humanitas\", pediu perdão pelo papel da Igreja na legitimação da escravidão e por ter demorado séculos para condená‑la. O documento também aborda os riscos da inteligência artificial, alertando sobre o uso de algoritmos em decisões letais e na automação do trabalho. O pedido de desculpas foi feito durante a Missa de Pentecostes na Basílica de São Pedro.",
@@ -91,16 +287,8 @@
       "category": "mundo",
       "sources": [
         {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/05/25/inteligencia-artificial/papa-leao-xiv-pede-controle-da-ia-em-primeira-enciclica/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/ia-precisa-ser-desarmada-diz-papa-em-nova-enciclica/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/inteligencia-artificial/papa-leao-14-aborda-inteligencia-artificial-e-recebe-representantes-do-vale-do-silicio/"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/entretenimento/cinema/papa-leao-xiv-cita-frase-de-o-senhor-dos-aneis-em-1a-carta-aos-fieis"
         },
         {
           "name": "G1",
@@ -111,278 +299,106 @@
           "url": "https://www.bbc.com/portuguese/articles/ce9ppj1xldxo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-05-25T16:39:03.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/Papa.jpg"
-    },
-    {
-      "clusterId": "6483d355a0f0abc8",
-      "slug": "306ea5d18df38063",
-      "titulo": "Kimi Antonelli dividido entre Brasil e Argentina sem Itália na Copa",
-      "resumo": "O piloto brasileiro Kimi Antonelli, líder da temporada de Fórmula 1, expressou frustração pela ausência da Itália na Copa do Mundo, considerando a situação um desastre. Ele também revelou que está dividido entre apoiar o Brasil e a Argentina durante o torneio. A decisão de Antonelli reflete a complexidade de lealdades esportivas em eventos internacionais. A Copa do Mundo, que começa em 11 de junho e vai até 19 de julho, atrai atenção global e provoca debates sobre identidade nacional.",
-      "porQueImporta": "A postura de um atleta de destaque influencia a percepção pública sobre apoio a seleções nacionais em eventos globais.",
-      "category": "ciencia",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/especial-publicitario/cni/noticia/2026/05/25/dia-da-industria-brasil-eua-reune-liderancas-para-discutir-investimentos-e-integracao-industrial-entre-brasil-e-eua.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/brasil-e-um-dos-paises-que-menos-sente-o-impacto-da-guerra-diz-durigan/"
-        },
-        {
-          "name": "Jornal da USP",
-          "url": "https://jornal.usp.br/atualidades/como-funcionam-a-rastreabilidade-e-a-certificacao-de-carnes-no-brasil/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Pesquisa FAPESP",
-          "url": "https://revistapesquisa.fapesp.br/o-brasil-das-montanhas-2/?utm_source=rss&utm_medium=rss&utm_campaign=o-brasil-das-montanhas-2"
-        }
-      ],
-      "updatedAt": "2026-05-25T16:10:59.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/dfV9Et3fEGJt8mHdK-MBYX-5dNc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/6/PAaKHTQPWUWSAthOfMtg/imagem1.jpg"
-    },
-    {
-      "clusterId": "4e1a0234eb36e173",
-      "slug": "d7b62a357ab015fb",
-      "titulo": "Lula inicia radioterapia preventiva no couro cabeludo após remoção de carcinoma basocelular",
-      "resumo": "O presidente Luiz Inácio Lula da Silva iniciou, em 25 de maio, sessões de radioterapia superficial no couro cabeludo para prevenir recorrência de um carcinoma basocelular removido em abril. O tratamento é realizado no Hospital Sírio‑Libanês em Brasília e tem caráter complementar, sem efeitos colaterais significativos. Lula continuará com sua agenda habitual durante o procedimento.",
-      "porQueImporta": "A medida garante a saúde do presidente sem interromper suas atividades oficiais.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/o-que-se-sabe-sobre-a-doenca-do-lula-no-couro-cabeludo/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/em-tratamento-de-carcinoma-lula-tera-mais-14-sessoes-de-radioterapia-ate-junho/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/saude/noticia/2026/05/25/carcinoma-basocelular-entenda-o-cancer-de-pele-retirado-por-lula.ghtml"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/lula-inicia-radioterapia-preventiva-apos-retirada-de-cancer-de-pele/"
-        }
-      ],
-      "updatedAt": "2026-05-25T17:39:55.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-04T164629Z_2092250398_RC2PXJARNPC6_RTRMADP_3_BRAZIL-FAO-LULA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "30aecce634d99338",
-      "slug": "fb43409e7e5c185d",
-      "titulo": "FGTS permite renegociação de dívidas e liberação de 8,5 bilhões para trabalhadores demitidos",
-      "resumo": "A Caixa Econômica Federal liberou hoje R$ 8,5 bilhões, pagos automaticamente em contas de cerca de 10,5 milhões de trabalhadores que optaram pelo saque-aniversário e foram demitidos sem justa causa entre 2020 e 2025. Paralelamente, o governo lançou o Desenrola 2.0, que permite consultar o saldo do FGTS e usar até 20 % do valor disponível, ou R$ 1.000, para quitar dívidas bancárias. O programa visa facilitar a renegociação de débitos e reduzir o endividamento dos trabalhadores.",
-      "porQueImporta": "Essas medidas ampliam o acesso a recursos do FGTS, ajudando trabalhadores a quitar dívidas e a receber pagamentos de forma mais rápida.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/minhas-financas/desenrola-2-0-fgts-para-quitar-dividas-vai-suspender-saque-aniversario-entenda/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/caixa-libera-novo-saque-de-r-85-bilhoes-do-fgts-hoje-saiba-quem-vai-receber/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/saque-aniversario-caixa-antecipa-pagamento-de-r-85-bilhoes-para-2a"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/05/25/caixa-antecipa-para-esta-segunda-pagamento-de-r-82-bilhoes-para-trabalhador-que-tinha-optado-pelo-saque-aniversario.ghtml"
-        }
-      ],
-      "updatedAt": "2026-05-25T17:39:20.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/07/mg_8465.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "074524192b5d744c",
-      "slug": "f981ca224f7c8a9e",
-      "titulo": "Flávio Bolsonaro enfrenta repercussões políticas e busca fortalecer apoio em Minas Gerais",
-      "resumo": "A revelação das conversas entre Flávio Bolsonaro e Daniel Vorcaro, conhecidas como ‘Dark Horse’, causou danos eleitorais ao pré-candidato, segundo pesquisa Datafolha. Em meio a críticas internas, Flávio planeja encontros estratégicos: uma reunião com o Partido Liberal (PL) de Minas Gerais para definir o candidato a governador e um encontro com Donald Trump em Washington. Esses movimentos visam consolidar sua base e ampliar sua visibilidade nacional.",
-      "porQueImporta": "A situação reflete a fragilidade da candidatura de Flávio e a importância de Minas Gerais como estado decisivo nas eleições presidenciais.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/pl-anuncia-novo-marqueteiro-de-flavio-bolsonaro/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/05/25/valdemar-costa-neto-globonews-estudio-i.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/quem-vota-em-flavio-provavelmente-vai-entregar-eleicao-para-lula-diz-zema/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cvgzz5dy2nyo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-05-25T17:26:18.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/flavio-bolsonaro_065889.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "cc981dc842176b79",
-      "slug": "33fc8632f4ed37e8",
-      "titulo": "Tráfego de navios no Estreito de Ormuz pode voltar ao nível pré-guerra em 30 dias, diz agência",
-      "resumo": "Centenas de navios-tanque e cargueiros aguardam a reabertura total do Estreito de Ormuz Foto: Majid Asgaripour/WANA/REUTERS Um possível acordo entre o Irã e os Estados Unidos prevê que o número de navios autorizados a transitar pelo Estreito de Ormuz retornaria ao nível anterior à guerra dentro de 30 dias, segundo a agência iraniana Tasnim. O bloqueio naval deve ser completamente suspenso dentro de 30 dias, de acordo com um memorando de entendimento, informou a Tasnim, acrescentando que parte dos fundos iranianos congelados deve ser liberada na primeira fase. O possível memorando inclui o fim…",
-      "porQueImporta": "",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/mercado/bolsas-da-europa-fecham-em-forte-alta-com-expectativa-de-acordo-eua-ira-milao-renova-recordes/"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-25052026/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/05/25/dolar-ibovespa.ghtml"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/c5y00jdv579o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-05-25T17:06:12.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/01/447247335.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "b8095c87f58984c0",
-      "slug": "c2849c96ef73ad81",
-      "titulo": "Jairinho desiste de novo adiamento, e julgamento do caso Henry começa",
-      "resumo": "Jairinho e Monique Medeiros, mãe da criança, são acusados pela morte do menino Henry, em 2021 The post Jairinho desiste de novo adiamento, e julgamento do caso Henry começa appeared first on InfoMoney.",
-      "porQueImporta": "",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/brasil/jairinho-desiste-de-novo-adiamento-e-julgamento-do-caso-henry-comeca/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/caso-henry-borel-veja-quem-sao-algumas-das-testemunhas-em-julgamento/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/justica/tribunal-do-juri-retoma-o-julgamento-do-caso-henry-borel/"
-        }
-      ],
-      "updatedAt": "2026-05-25T17:41:31.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/image_processing20211006-12769-1lgo8jg.jpeg?fit=300%2C179&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "72e12da3d079cf3c",
-      "slug": "9e760c2360628f05",
-      "titulo": "Físiculturista de 22 anos encontrado morto em São Paulo",
-      "resumo": "O influenciador fitness Gabriel Ganley, de 22 anos, foi encontrado sem vida em seu apartamento na Zona Leste de São Paulo. Ele havia alertado, sete meses antes, sobre os riscos de anabolizantes, afirmando que poderiam encurtar sua vida em 10 a 15 anos. A morte está sendo investigada como suspeita pelo 42º Distrito Policial, e a perícia identificou medicamentos que podem ser substâncias anabolizantes.",
-      "porQueImporta": "O caso destaca os perigos do uso de anabolizantes e a necessidade de atenção à saúde de atletas e influenciadores fitness.",
-      "category": "entretenimento",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/vou-vencer-por-voce-diz-amigo-que-encontrou-gabriel-ganley-morto"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/desabafo-de-gabriel-ganley-viraliza-encurtando-10-anos-de-minha-vida/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pop-arte/noticia/2026/05/25/gabriel-ganley-falou-sobre-riscos-de-anabolizantes-sete-meses-antes-de-morrer-encurtando-10-anos-da-minha-vida.ghtml"
-        }
-      ],
-      "updatedAt": "2026-05-25T17:30:49.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/05/gabriel-ganley-uso-de-insulina-no-esporte-gera-alerta.jpg"
+      "updatedAt": "2026-05-25T20:51:13.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/05/papa-leao-xiv-gandalf-o-senhor-dos-aneis.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "bea2078c4dd66569",
-        "slug": "b45c1cac994727ac",
-        "titulo": "Governo e Câmara definem transição para fim da escala 6×1",
-        "resumo": "O presidente da Câmara, Hugo Motta, e o presidente Lula concordaram que a proposta de fim da escala 6×1 reduzirá a jornada de 44 para 40 horas semanais, sem corte salarial. A transição será de 12 meses, com redução de duas horas após 60 dias da promulgação da PEC e mais duas horas ao fim do ano. O texto também prevê dois dias de folga e a adoção da escala 5×2.",
-        "porQueImporta": "A mudança afetará a rotina de trabalhadores e a estrutura de produção no país.",
+        "clusterId": "f99673aa3d2f894d",
+        "slug": "3035a5469cc685cb",
+        "titulo": "Netanyahu anuncia intensificação de ofensiva contra Hezbollah",
+        "resumo": "O primeiro-ministro israelense Benjamin Netanyahu afirmou que Israel aumentará a intensidade das operações contra o Hezbollah no sul do Líbano, com o objetivo de \"esmagar\" o grupo. A declaração foi feita após a extensão do cessar-fogo de 45 dias entre Israel e Líbano. Netanyahu também mencionou a criação de uma equipe especial para lidar com a ameaça de drones do Hezbollah. A medida ocorre enquanto os EUA e o Irã tentam negociar um fim à guerra no Oriente Médio.",
+        "porQueImporta": "A decisão pode alterar o equilíbrio de poder na região e afetar a estabilidade do Líbano e do Oriente Médio.",
         "category": "politica",
         "sources": [
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/escala-6x1-governo-fecha-transicao-para-cortar-2h-de-jornada-em-2026-e-2h-em-2027/"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-internacional/netanyahu-promete-intensificar-ofensiva-contra-o-hezbollah/"
           },
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/brasil/apos-reuniao-com-lula-motta-anuncia-transicao-para-reducao-de-jornada-de-trabalho/"
+            "url": "https://veja.abril.com.br/mundo/netanyahu-diz-que-intensificara-ofensiva-contra-hezbollah-vamos-ataca-los-decisivamente/"
           },
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/folga-e-reducao-de-horas-entenda-a-pec-6x1-costurada-por-lula-e-motta"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mundo/netanyahu-promete-ampliar-ataques-contra-hezbollah-e-pressao-sobre-libano/"
           },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/motta-anuncia-transicao-de-um-ano-para-o-fim-da-escala-6x1-e-sela-acordo-com-lula/"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-economia/jornada-de-44h-por-semana-caira-para-40h-em-1-ano-diz-motta/"
+            "url": "https://www.cartacapital.com.br/mundo/netanyahu-diz-que-israel-vai-intensificar-ofensiva-no-libano/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/05/25/apos-reuniao-com-lula-motta-diz-que-pec-do-fim-da-escala-6x1-preve-jornada-de-40-horas-sem-corte-de-salario-e-transicao-de-um-ano.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/05/25/netanyahu-diz-que-israel-vai-intensificar-ataques-contra-o-libano-em-ofensiva-ao-hezbollah.ghtml"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/fim-da-6x1-tera-jornada-de-40-horas-e-transicao-de-um-ano-diz-hugo/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/escala-6x1-em-acordo-de-lula-com-motta-texto-tera-reducao-de-2h-jornada-de-trabalho-em-60-dias/"
+            "url": "https://www.cnnbrasil.com.br/internacional/israel-vai-intensificar-ataques-contra-o-hezbollah-diz-netanyahu/"
           }
         ],
-        "updatedAt": "2026-05-25T17:37:31.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/0d7a8362.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-05-25T20:45:04.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/05/000_36PY9FK.jpg.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "4e1a0234eb36e173",
-        "slug": "d7b62a357ab015fb",
-        "titulo": "Lula inicia radioterapia preventiva no couro cabeludo após remoção de carcinoma basocelular",
-        "resumo": "O presidente Luiz Inácio Lula da Silva iniciou, em 25 de maio, sessões de radioterapia superficial no couro cabeludo para prevenir recorrência de um carcinoma basocelular removido em abril. O tratamento é realizado no Hospital Sírio‑Libanês em Brasília e tem caráter complementar, sem efeitos colaterais significativos. Lula continuará com sua agenda habitual durante o procedimento.",
-        "porQueImporta": "A medida garante a saúde do presidente sem interromper suas atividades oficiais.",
+        "clusterId": "5114a3afa80c8fe4",
+        "slug": "dfd9ae0815892702",
+        "titulo": "STF, AGU e Ministério da Justiça discutem reação à notificação de Moraes por e-mail",
+        "resumo": "O ministro Alexandre de Moraes recebeu notificação por e-mail sobre ação judicial dos EUA movida pela Rumble e Trump Media. O STF, a AGU e o Ministério da Justiça estão avaliando a melhor forma de responder, considerando que o magistrado não deve se manifestar pessoalmente sobre decisões jurisdicionais. A Corte planeja acionar a diplomacia e a AGU pode auxiliar na resposta. A notificação foi feita em cumprimento a ordem de tribunal federal americano.",
+        "porQueImporta": "A situação envolve a interação entre o poder judiciário brasileiro e a jurisdição dos EUA, levantando questões de soberania e procedimentos legais internacionais.",
         "category": "politica",
         "sources": [
           {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/colunas/manoela-alcantara/rumble-stf-discute-com-governo-reacao-a-intimacao-a-moraes-por-e-mail"
+          },
+          {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/o-que-se-sabe-sobre-a-doenca-do-lula-no-couro-cabeludo/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/brasil/em-tratamento-de-carcinoma-lula-tera-mais-14-sessoes-de-radioterapia-ate-junho/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/saude/noticia/2026/05/25/carcinoma-basocelular-entenda-o-cancer-de-pele-retirado-por-lula.ghtml"
+            "url": "https://www.infomoney.com.br/politica/stf-discute-com-agu-e-mj-saida-juridica-para-responder-notificacao-dos-eua-a-moraes/"
           },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/lula-inicia-radioterapia-preventiva-apos-retirada-de-cancer-de-pele/"
+            "url": "https://www.cartacapital.com.br/justica/stf-articula-resposta-apos-moraes-ser-notificado-em-processo-dos-eua/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/05/25/stf-discute-resposta-institucional-apos-moraes-ser-notificado-por-processo-movido-nos-eua-contra-ele.ghtml"
           }
         ],
-        "updatedAt": "2026-05-25T17:39:55.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-04T164629Z_2092250398_RC2PXJARNPC6_RTRMADP_3_BRAZIL-FAO-LULA.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-05-25T20:51:28.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/01/Fachada-do-Supremo-Tribunal-Federal-STF-na-Praca-dos-Tres-Poderes-em-Brasilia-Metropoles-4-scaled.jpg"
       },
       {
-        "clusterId": "074524192b5d744c",
+        "clusterId": "d2c92db4c60b798d",
+        "slug": "cac2e5a9a412ae14",
+        "titulo": "Flávio Bolsonaro visita Daniel Vorcaro para buscar restante do financiamento de filme",
+        "resumo": "O senador Flávio Bolsonaro foi à casa de Daniel Vorcaro, banqueiro investigado, para tentar obter o restante do dinheiro destinado ao filme Dark Horse, cinebiografia de Jair Bolsonaro. O presidente do PL, Valdemar Costa Neto, justificou a visita como normal e afirmou que o senador continua candidato à presidência. A conversa foi revelada em áudio, gerando críticas e questionamentos sobre a pré-candidatura de Flávio.",
+        "porQueImporta": "A visita pode afetar a imagem e a viabilidade política de Flávio Bolsonaro na corrida presidencial.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/flavio-visitou-vorcaro-para-ver-se-conseguia-o-restante-do-dinheiro-diz-valdemar"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/valdemar-diz-que-flavio-foi-a-casa-de-vorcaro-em-busca-do-restante-do-dinheiro/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/05/25/valdemar-costa-neto-presidente-pl-entrevista-globonews.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cj6ppezn1lzo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-05-25T20:49:56.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/04/valdemar-costa-neto-em-entrevista-ao-metropoles-134.jpg"
+      },
+      {
+        "clusterId": "7e9a856d40791378",
         "slug": "f981ca224f7c8a9e",
         "titulo": "Flávio Bolsonaro enfrenta repercussões políticas e busca fortalecer apoio em Minas Gerais",
         "resumo": "A revelação das conversas entre Flávio Bolsonaro e Daniel Vorcaro, conhecidas como ‘Dark Horse’, causou danos eleitorais ao pré-candidato, segundo pesquisa Datafolha. Em meio a críticas internas, Flávio planeja encontros estratégicos: uma reunião com o Partido Liberal (PL) de Minas Gerais para definir o candidato a governador e um encontro com Donald Trump em Washington. Esses movimentos visam consolidar sua base e ampliar sua visibilidade nacional.",
@@ -390,216 +406,140 @@
         "category": "politica",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/brasil/pl-anuncia-novo-marqueteiro-de-flavio-bolsonaro/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/pl-oficializa-fischer-e-oltramari-na-comunicacao-de-flavio-bolsonaro/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/mundo/flavio-bolsonaro-chega-aos-eua-sem-confirmar-encontro-com-trump/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/05/25/valdemar-costa-neto-globonews-estudio-i.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/quem-vota-em-flavio-provavelmente-vai-entregar-eleicao-para-lula-diz-zema/"
+            "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/05/25/em-busca-de-agenda-positiva-flavio-bolsonaro-esta-em-washington-para-reuniao-com-trump.ghtml"
           },
           {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/cvgzz5dy2nyo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-05-25T17:26:18.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/flavio-bolsonaro_065889.jpg?quality=70&strip=info"
+        "updatedAt": "2026-05-25T20:41:59.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/0sU2R0ExeOiErd5KOgUtw56xcfA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/n/w4sIUkRQiUA44pzfWbCg/55190675052-7bb677ba59-b.jpg"
       },
       {
-        "clusterId": "08837caa708159ba",
-        "slug": "72c69cb5b171351b",
-        "titulo": "Caiado defende enquadrar facções como terroristas para combater crime na Amazônia",
-        "resumo": "Ronaldo Caiado durante evento da Amcham Brasil, em São Paulo Reprodução/TV Globo O ex-governador de Goiás e pré-candidato à Presidência da República Ronaldo Caiado (PSD) defendeu o enquadramento das facções criminosas que atuam Amazônia como terroristas. A medida, segundo ele, permitiria maior cooperação internacional e atuação mais ampla das Forças Armadas para combater o avanço do crime organizado na região. A Amazônia brasileira é 100% comandada pelo Comando Vermelho e o PCC. Mais de 250 municípios hoje são 100% comandados pelo Comando Vermelho e pelo PCC. Muita gente diz 'Caiado, você vai…",
-        "porQueImporta": "",
+        "clusterId": "b5b385342ef6b180",
+        "slug": "a2272b8017e44374",
+        "titulo": "PSDB de São Paulo apoia pré-candidatura de Aécio Neves à Presidência",
+        "resumo": "O PSDB paulista anunciou apoio à pré-candidatura de Aécio Neves, deputado federal, à Presidência da República nas eleições de 2026. A decisão foi tomada na segunda-feira, 25 de outubro, em nota assinada pelo presidente estadual Paulo Serra. O partido destaca que a candidatura de Neves pode contribuir para a reconstrução e reposicionamento do PSDB, oferecendo uma alternativa política fora da polarização. A medida também foi citada em pesquisas de intenção de voto que colocam o tucano em quatro cenários de primeiro turno e em um possível duelo direto com Lula.",
+        "porQueImporta": "O apoio do PSDB paulista pode fortalecer a candidatura de Aécio Neves e influenciar a dinâmica política nas próximas eleições.",
         "category": "politica",
         "sources": [
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes/caiado-defende-uso-das-forcas-armadas-contra-faccoes-na-amazonia/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/05/25/caiado-defende-enquadrar-faccoes-como-terroristas-para-combater-crime-na-amazonia.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-25T17:04:55.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/EyWvQ6x466RxJJp_0fyCC_r6pzI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/B/Bx1KhmR66jLZ9nACYF4w/gnews-amcham-presidenciaveis-20260525-0908-frame-107466.jpeg"
-      },
-      {
-        "clusterId": "993ae0d1a9c6df93",
-        "slug": "86740bdf5fdd01da",
-        "titulo": "Governo Lula renova contrato de propaganda e envia Primeira-Dama a evento da ONU",
-        "resumo": "O governo Lula renovou um contrato de R$ 562 milhões com quatro agências de propaganda que prestam serviços à Secretaria de Comunicação Social, três meses antes do início da campanha eleitoral. Paralelamente, a Primeira-Dama, Janja, será enviada à Semana da Nutrição 2026, em Roma, com todas as despesas, incluindo locomoção, pagas pelo governo.",
-        "porQueImporta": "Essas ações demonstram o investimento do governo em comunicação e diplomacia internacional antes das eleições.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/coluna/radar/governo-lula-renova-contrato-de-r-562-milhoes-com-agencias-de-propaganda/"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-governo/governo-lula-envia-janja-para-evento-da-onu-em-roma/"
-          }
-        ],
-        "updatedAt": "2026-05-25T16:45:17.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/LULA-23-abr-2026-d.jpg.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "2dbe48975a87b8c8",
-        "slug": "17b0918a3e09d66f",
-        "titulo": "Banco Central nega prazo de ajuste para BRB e confirma ausência de risco sistêmico",
-        "resumo": "O Banco Central afirmou que acompanha diariamente as instituições financeiras e que o prazo de ajuste para o Banco Regional de Brasília não é até 29 de maio. O presidente Gabriel Galípolo esclareceu que a liquidação extrajudicial do conglomerado Master não gerou risco de crise ao sistema financeiro. Clientes ressarcidos pelo Fundo Garantidor de Créditos direcionaram recursos principalmente para bancos maiores. O BC mantém que a situação está sob controle e não há impacto sistêmico.",
-        "porQueImporta": "A decisão do BC influencia a confiança dos investidores e a estabilidade do sistema bancário nacional.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/05/25/caso-brb-bc-diz-que-acompanha-instituicoes-financeiras-diariamente-e-nega-que-prazo-de-ajuste-acabe-dia-29-de-maio.ghtml"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/cartaexpressa/o-novo-teste-de-aecio-neves-em-pesquisa-de-intencao-de-voto-para-presidente/"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/vamos-cumprir-a-lei-diz-diretor-do-bc-sobre-caso-brb/"
-          }
-        ],
-        "updatedAt": "2026-05-25T15:52:13.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/UAjA83ic4Wb06jBV7CmzuD0qy-I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/B/qfsAeMSLe1Td2BDOvzoA/globo-canal-4-20260218-2000-frame-99473.jpeg"
-      },
-      {
-        "clusterId": "9f58b19ab72e9b92",
-        "slug": "752746e72dcaf7c8",
-        "titulo": "Fachin e Alcolumbre discutem projeto de lei sobre salários de juízes",
-        "resumo": "O presidente do STF, Edson Fachin, e o presidente do Senado, Davi Alcolumbre, se reuniram para debater um projeto de lei que visa regular a remuneração dos magistrados. O objetivo é estabelecer regras claras para os salários, em resposta à crescente discussão sobre verbas extras, conhecidas como penduricalhos. O projeto será encaminhado ao Congresso para aprovação.",
-        "porQueImporta": "Define como serão pagos os juízes, impactando a estrutura financeira da magistratura e a percepção de imparcialidade.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/justica/fachin-se-reune-com-alcolumbre-para-discutir-remuneracao-de-magistrados/"
+            "url": "https://www.cnnbrasil.com.br/eleicoes/psdb-de-sp-manifesta-apoio-a-pre-candidatura-de-aecio-neves-ao-planalto/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/05/25/fachin-e-alcolumbre-se-reunem-para-discutir-projeto-de-lei-que-regula-salarios-de-juizes.ghtml"
+            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/05/25/psdb-de-sp-anuncia-apoio-a-pre-candidatura-de-aecio-neves-como-presidente-da-republica.ghtml"
           }
         ],
-        "updatedAt": "2026-05-25T14:41:47.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/FOTO-Jefferson-Rudy-_-Agência-Senado.jpg"
+        "updatedAt": "2026-05-25T19:44:31.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/11/32826869821_794c77e8fc_b.jpg"
       },
       {
-        "clusterId": "9e0edb1f31176b25",
-        "slug": "f99df1cb9fba2098",
-        "titulo": "PEC da 6×1: Deputados querem licença de um dia por morte de pet",
-        "resumo": "Cabe ao relator, Léo Prates (PDT-BA), decidir se inclui ou não a sugestão em seu parecer",
+        "clusterId": "14adde9e67beac38",
+        "slug": "d7b62a357ab015fb",
+        "titulo": "Lula inicia radioterapia preventiva no couro cabeludo após remoção de carcinoma basocelular",
+        "resumo": "O presidente Luiz Inácio Lula da Silva iniciou, em 25 de maio, sessões de radioterapia superficial no couro cabeludo para prevenir recorrência de um carcinoma basocelular removido em abril. O tratamento é realizado no Hospital Sírio‑Libanês em Brasília e tem caráter complementar, sem efeitos colaterais significativos. Lula continuará com sua agenda habitual durante o procedimento.",
+        "porQueImporta": "A medida garante a saúde do presidente sem interromper suas atividades oficiais.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-governo/relembre-os-problemas-de-saude-de-lula-que-passara-por-radioterapia/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/saude/noticia/2026/05/25/carcinoma-basocelular-entenda-o-cancer-de-pele-retirado-por-lula.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-25T21:05:17.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/UGZSYaBg6A0_w8ItzbWjELKiqd0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/A/dwxa3xSyWSKGzABjS6zg/captura-de-tela-2026-05-22-160653.png"
+      },
+      {
+        "clusterId": "0b422763096155c0",
+        "slug": "60413217c386dd6b",
+        "titulo": "Governo deve decidir sobre aumento do teor de etanol na gasolina em junho",
+        "resumo": "O Ministério da Indústria informou que a elevação do teor obrigatório de etanol na gasolina para 32% deve ser aprovada sem resistência no Conselho de Política Energética. A decisão será tomada na primeira quinzena de junho. A mistura de etanol anidro na gasolina aumentará 2%.",
+        "porQueImporta": "A mudança afeta o preço e a composição da gasolina, impactando consumidores e a indústria de combustíveis.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-governo/governo-deve-decidir-sobre-aumento-do-etanol-na-gasolina-em-junho/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/governo-diz-que-deve-decidir-sobre-aumento-de-etanol-na-gasolina-em-junho/"
+          }
+        ],
+        "updatedAt": "2026-05-25T21:00:51.000Z"
+      },
+      {
+        "clusterId": "d61f14fb5cc058ea",
+        "slug": "12586d6d90ce26f0",
+        "titulo": "Comissão da Câmara debate proposta de fim da escala 6x1; ASSISTA",
+        "resumo": "Comissão da Câmara debate proposta de fim da escala 6x1; ASSISTA Sessão acontece após acordo entre o presidente da Câmara, Hugo Motta, e o presidente Lula. Após reunião com Lula, Motta diz que PEC do fim da escala 6x1 prevê jornada de 40 horas sem corte de salário e transição de um ano. . A proposta enfrenta resistência de representantes do setor produtivo, que apontam aumento de custos, com prejuízos à competitividade e impactos sobre a geração de novas vagas. . Já os economistas defendem que a medida seja acompanhada por ganhos de produtividade.. A expectativa é que o texto seja votado em…",
         "porQueImporta": "",
         "category": "politica",
         "sources": [
           {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/ao-vivo/comissao-da-camara-discute-fim-da-escala-6x1.ghtml"
+          },
+          {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/pec-da-6x1-deputados-querem-licenca-de-um-dia-por-morte-de-pet/"
+            "url": "https://www.cartacapital.com.br/politica/motta-anuncia-transicao-de-um-ano-para-o-fim-da-escala-6x1-e-sela-acordo-com-lula/"
           }
         ],
-        "updatedAt": "2026-05-25T17:29:36.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/04/Escala-6-X1-ABR.jpg"
+        "updatedAt": "2026-05-25T20:44:49.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/Dvn_dVDWnVNGTyL0sI4d9cRCZUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/c/mOgzvYQE6ONe4ajXDEZg/img20260326111324126.jpg"
       }
     ],
     "economia": [
       {
-        "clusterId": "30aecce634d99338",
-        "slug": "fb43409e7e5c185d",
-        "titulo": "FGTS permite renegociação de dívidas e liberação de 8,5 bilhões para trabalhadores demitidos",
-        "resumo": "A Caixa Econômica Federal liberou hoje R$ 8,5 bilhões, pagos automaticamente em contas de cerca de 10,5 milhões de trabalhadores que optaram pelo saque-aniversário e foram demitidos sem justa causa entre 2020 e 2025. Paralelamente, o governo lançou o Desenrola 2.0, que permite consultar o saldo do FGTS e usar até 20 % do valor disponível, ou R$ 1.000, para quitar dívidas bancárias. O programa visa facilitar a renegociação de débitos e reduzir o endividamento dos trabalhadores.",
-        "porQueImporta": "Essas medidas ampliam o acesso a recursos do FGTS, ajudando trabalhadores a quitar dívidas e a receber pagamentos de forma mais rápida.",
+        "clusterId": "71faf17f17b2f6eb",
+        "slug": "4e18f2426a1e7f37",
+        "titulo": "Ibovespa sobe enquanto dólar cai em dia de baixa liquidez",
+        "resumo": "O Ibovespa avançou cerca de 0,9% a 177.816 pontos, impulsionado por ganhos em bancos e queda na Petrobras. O dólar comercial recuou 0,19%, cotado a R$ 5,02, após expectativas de avanço nas negociações entre EUA e Irã. A alta no mercado acionário ocorreu em meio a feriado nos EUA, que reduziu a liquidez. A valorização do índice reflete otimismo geopolítico e expectativas de acordo de paz no Oriente Médio.",
+        "porQueImporta": "A movimentação do mercado brasileiro pode indicar confiança dos investidores diante de incertezas externas.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/minhas-financas/desenrola-2-0-fgts-para-quitar-dividas-vai-suspender-saque-aniversario-entenda/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/brasil/caixa-libera-novo-saque-de-r-85-bilhoes-do-fgts-hoje-saiba-quem-vai-receber/"
+            "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-25052026/"
           },
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/saque-aniversario-caixa-antecipa-pagamento-de-r-85-bilhoes-para-2a"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/05/25/caixa-antecipa-para-esta-segunda-pagamento-de-r-82-bilhoes-para-trabalhador-que-tinha-optado-pelo-saque-aniversario.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-25T17:39:20.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/07/mg_8465.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "01848e8ce518e22e",
-        "slug": "da8d988b9b489110",
-        "titulo": "Presidente da Bolívia reduz seu salário em 50% em meio a protestos no país",
-        "resumo": "Bolívia entra na 4º semana de manifestações contrárias ao governo O presidente da Bolívia, Rodrigo Paz, afirmou nesta segunda-feira (25) que reduzirá seu salário em 50%. Durante uma cerimônia oficial em Sucre, Paz anunciou que seus ministros também terão os salários cortados pela metade para demonstrar “compromisso com o país”. Os cortes acontecem no momento em que a Bolívia entra na quarta semana de crise política e social. Os cortes acontecem no momento em que a Bolívia entra na quarta semana de crise política e social. Os protestos têm agravado os problemas de abastecimento nas cidades de…",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/em-meio-a-protestos-presidente-da-bolivia-reduz-o-proprio-salario"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/sob-pressao-de-protestos-bolivia-solicita-aviao-ao-governo-lula/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/05/25/presidente-da-bolivia-reduz-seu-salario-em-50percent-em-meio-a-protestos-no-pais.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-25T17:22:02.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/03/lula-rodrigo-paz-9.jpeg"
-      },
-      {
-        "clusterId": "064ecb41d3ffdef9",
-        "slug": "80847735ece6e287",
-        "titulo": "Tela Brasil e Netflix Ads lançam iniciativas de streaming e publicidade no Brasil",
-        "resumo": "O governo brasileiro está lançando a plataforma Tela Brasil, que reunirá filmes, documentários, curtas e produções independentes de diversos gêneros. Enquanto isso, a Netflix Ads, após faturar US$ 1,5 bilhão, iniciará a medição de atenção em tela no Brasil, monitorando 250 lares para transformar engajamento em métrica auditável. A iniciativa visa expandir a vertical de publicidade da Netflix, que projeta dobrar sua receita até o fim do ano.",
-        "porQueImporta": "Essas ações refletem o crescimento do mercado de streaming e a busca por novas fontes de receita publicitária no Brasil.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/como-funcionara-o-tela-brasil-plataforma-de-streaming-do-governo"
+            "url": "https://www.metropoles.com/negocios/dolar-cai-e-bolsa-sobe-petroleo-afunda-e-volta-para-baixo-de-us-100"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/marketing/apos-faturar-us-15-bi-netflix-ads-comeca-a-medir-atencao-em-tela-no-brasil/"
-          }
-        ],
-        "updatedAt": "2026-05-25T17:18:53.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/05/assistindo-tv-1.jpg"
-      },
-      {
-        "clusterId": "ac9506ffc9e39325",
-        "slug": "865cf945b53250c9",
-        "titulo": "Eco Invest viabiliza R$ 13,2 bilhões em investimentos em infraestrutura de baixo carbono",
-        "resumo": "A Eco Invest anunciou a captação de R$ 13,2 bilhões para financiar projetos de infraestrutura, energia, saneamento e logística com foco em baixo carbono. Cerca de R$ 9 bilhões serão destinados à Amazônia Legal. A iniciativa visa criar um portfólio de ativos que requer gestão integrada de riscos e insumos para gerar valor.",
-        "porQueImporta": "O aporte reforça o desenvolvimento sustentável na região amazônica e demonstra a importância de investimentos verdes na economia brasileira.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/negocios/eco-invest-viabiliza-r-132-bilhoes-em-investimentos/"
+            "url": "https://exame.com/invest/mercados/ibovespa-sobe-1-com-alivio-geopolitico-em-dia-de-feriado-nos-eua/"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/lideres-extraordinarios/investimentos-em-infraestrutura-como-portfolio-2/"
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/05/25/dolar-ibovespa.ghtml"
           }
         ],
-        "updatedAt": "2026-05-25T17:07:04.000Z"
+        "updatedAt": "2026-05-25T20:28:57.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Ibovespa-ao-vivo-2.png?fit=300%2C186&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "eb2b62ff3907880c",
+        "clusterId": "88b5a78d9987a2a7",
         "slug": "2946694a4306a083",
         "titulo": "Servidores do Ceará recebem primeira parcela do 13º salário em 3 de junho",
         "resumo": "O governador Elmano de Freitas anunciou que os servidores estaduais do Ceará receberão a primeira parcela do 13º salário antecipada, com pagamento previsto para 3 de junho, véspera do feriado de Corpus Christi. A medida segue a prática anual desde 2023. Enquanto isso, o INSS iniciou o pagamento da segunda parcela do 13º salário para aposentados e pensionistas a partir de 25 de maio, com pagamentos continuando até 8 de junho.",
@@ -608,76 +548,148 @@
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/ce/ceara/noticia/2026/05/25/servidores-do-ceara-terao-pagamento-antecipado-da-1a-parcela-do-13o-salario.ghtml"
+            "url": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-segunda-feira-25-de-maio-de-2026.ghtml"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/ce/futebol/times/ceara/noticia/2026/05/25/mozart-tem-aproveitamento-inferior-no-ceara-do-que-em-mirassol-e-coritiba-em-10-rodadas.ghtml"
+            "url": "https://ge.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/05/25/veja-os-destaques-do-esporte-no-diario-tv-1a-edicao-desta-segunda-feira-25-de-maio.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/pop/tudo-sobre-a-9a-temporada-de-rick-and-morty-que-estreou-nesta-segunda-feira/"
+          },
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/campus-ribeirao-preto/edicao-de-25-de-maio-de-2026/"
           }
         ],
-        "updatedAt": "2026-05-25T16:47:38.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/MM-2MdY7u_pUfo6ACa3VEtmu2AU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/1/eQbfwQSzur5EQSpf6EIg/g1-20-.jpg"
+        "updatedAt": "2026-05-25T19:30:48.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/KcKmrFsd4vLo3UdPmyDr3zJOl6A=/s01.video.glbimg.com/deo/vi/46/33/14643346"
       },
       {
-        "clusterId": "fc8af74cc10e5c59",
-        "slug": "5a135ade1228d2a2",
-        "titulo": "Francesa Loxam compra controle da brasileira Mills, de locação de máquinas e equipamentos",
-        "resumo": "Francesa Loxam compra controle da brasileira Mills, de locação de máquinas e equipamentos. Divulgação A Mills informou nesta segunda-feira (25) que os acionistas que controlam a empresa venderam toda a sua participação — equivalente a 50,3% das ações — para a francesa Loxam. A Mills atua no aluguel de máquinas e equipamentos no Brasil. 🗒️Tem alguma sugestão de reportagem? Envie para o g1 O acordo prevê que a Loxam pagará R$ 16 por ação da Mills, valor 22% acima do preço de fechamento dos papéis na última sexta-feira. Segundo a empresa, esse preço ainda será corrigido pela taxa de 70% do CDI…",
-        "porQueImporta": "",
+        "clusterId": "7baca92acac34397",
+        "slug": "43640228a5e2b7f1",
+        "titulo": "UE intensifica medidas comerciais contra China e China planeja investimento em redes elétricas",
+        "resumo": "A União Europeia reforçou sua posição contra a China, discutindo novas barreiras comerciais diante de um déficit recorde, com países como França, Espanha, Itália e Holanda defendendo medidas mais duras. Paralelamente, a China anunciou planos de investir mais de RMB 5 trilhões em novas redes elétricas até 2030, visando atender a um consumo anual superior a 10 trilhões de kWh e integrar mais de 1,8 bilhão de kW de energia renovável.",
+        "porQueImporta": "Essas ações refletem tensões comerciais globais e o compromisso da China com a expansão de sua infraestrutura energética.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/economia/ue-endurece-discurso-contra-china-e-discute-novas-barreiras-contra-importados/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/mundo/china-preve-investir-mais-de-rmb-5-trilhoes-em-novas-redes-eletricas-ate-2030/"
+          }
+        ],
+        "updatedAt": "2026-05-25T20:47:34.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2021/10/GettyImages-1233080940.jpg.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "1c826e7118de2eaa",
+        "slug": "b5de8c0333039b02",
+        "titulo": "BB lidera captação de R$1,5 bi no 4º leilão do Eco Invest Brasil",
+        "resumo": "O Banco do Brasil liderou a captação de R$1,5 bilhão no quarto leilão do programa Eco Invest Brasil, estruturando a operação com alavancagem superior a quatro vezes, o que possibilita investimentos de até R$6,4 bilhões. O Eco Invest anunciou a realização de um quinto leilão, com foco em inovação tecnológica, e pretende captar R$50 bilhões para cadeias estratégicas da nova economia, com R$13,2 bilhões já destinados à Amazônia.",
+        "porQueImporta": "Esses leilões demonstram o compromisso do governo com o financiamento de projetos sustentáveis e de inovação, impactando a economia verde e a preservação ambiental.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/bb-bbas3-lidera-captacao-de-r-15-bi-no-4o-leilao-do-eco-invest-brasil/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/esg/eco-invest-anuncia-r-134-bilhoes-para-amazonia-e-lanca-quinto-leilao-do-programa/"
+          }
+        ],
+        "updatedAt": "2026-05-25T20:03:45.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/09/Captura-de-tela-2025-09-04-120225-e1778772425676.png?fit=300%2C175&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "c00be93406cefbce",
+        "slug": "c768ced618c0f811",
+        "titulo": "Banco Central nega prazo para ajuste do BRB",
+        "resumo": "O presidente do Banco Central, Gabriel Galípolo, afirmou que a autoridade monitora diariamente as instituições financeiras e que não há prazo definido para o Banco Regional de Brasília (BRB) corrigir seu balanço. Ele negou que o prazo de 29 de maio seja obrigatório para ajustes após a operação irregular com o Banco Master. O BC planeja apresentar seu balanço financeiro até 29 de maio, indicando possíveis soluções para o prejuízo causado.",
+        "porQueImporta": "A decisão do BC pode influenciar a estabilidade financeira e a confiança nas instituições envolvidas.",
         "category": "economia",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/infra/francesa-loxam-compra-controle-da-brasileira-mills/"
+            "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/bc-nega-ter-firmado-prazo-com-brb-para-solucao-do-rombo-e-de-liquidez/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/05/25/caso-brb-bc-diz-que-acompanha-instituicoes-financeiras-diariamente-e-nega-que-prazo-de-ajuste-acabe-dia-29-de-maio.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-25T18:33:19.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/UAjA83ic4Wb06jBV7CmzuD0qy-I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/B/qfsAeMSLe1Td2BDOvzoA/globo-canal-4-20260218-2000-frame-99473.jpeg"
+      },
+      {
+        "clusterId": "4e331e940985ff8a",
+        "slug": "d78ecef59640b240",
+        "titulo": "Whirlpool investirá R$300 mi em Rio Claro e cria 200 vagas",
+        "resumo": "A Whirlpool, proprietária das marcas Brastemp, Consul e KitchenAid, anunciou que investirá R$300 milhões na unidade de Rio Claro, interior de São Paulo, após fechar a fábrica de Pilar, na Argentina. A empresa planeja criar 200 vagas de emprego na nova instalação, embora ainda não tenha divulgado a data de início do processo seletivo. A decisão faz parte da estratégia de realocação da produção de máquinas de lavar de abertura frontal para o Brasil.",
+        "porQueImporta": "O investimento reforça a presença da Whirlpool no mercado brasileiro e cria empregos locais.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Exame",
+            "url": "https://exame.com/invest/mercados/apos-fechar-fabrica-na-argentina-dona-da-brastemp-e-consul-investira-r-300-mi-em-rio-claro/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/05/25/apos-fechar-fabrica-na-argentina-whirlpool-anuncia-200-vagas-de-emprego-em-unidade-brasileira.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-25T17:11:32.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/40Ujd0pgF-8ostlKfjn1ivJ3Bus=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/B/GQzkEFTNyJ8zTMeY8xMg/whatsapp-image-2026-05-25-at-10.28.40.jpeg"
+      },
+      {
+        "clusterId": "af680abedba6bbf5",
+        "slug": "1814dba7d53c6762",
+        "titulo": "Huawei anuncia planos de desenvolver chips de 1,4 nm apesar das sanções dos EUA",
+        "resumo": "A Huawei afirmou que pretende projetar chips de 1,4 nanômetro até 2031, usando sua própria tecnologia Kirin, que supostamente aumenta a densidade de transistores em 55%. A empresa destaca que o avanço pode aproximar a China de tecnologias de fabricação de empresas como TSMC e Intel. As sanções americanas limitam o acesso da China a equipamentos de fabricação avançada, mas a Huawei pretende contorná‑las com inovação interna.",
+        "porQueImporta": "O desenvolvimento de chips avançados é crucial para a soberania tecnológica da China e pode reduzir a dependência de fornecedores estrangeiros.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Exame",
+            "url": "https://exame.com/tecnologia/huawei-contorna-sancoes-e-promete-chip-de-14-nanometro-sem-tecnologia-dos-eua/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/05/24/huawei-propoe-novo-caminho-para-desenvolver-chips-em-meio-a-sancoes-dos-eua.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-25T17:10:52.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/6NzWO3w977AJ2bzzJOUf0WK24xo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/y/a1bYB2QMa7fqKeUKpfZw/2026-03-31t114559z-25560802-rc27ufa44id6-rtrmadp-3-huawei-results.jpg"
+      },
+      {
+        "clusterId": "c6e79d71d6c0e3b4",
+        "slug": "5a135ade1228d2a2",
+        "titulo": "Francesa Loxam compra controle da Mills por R$ 3,8 bilhões",
+        "resumo": "A Loxam, empresa francesa de locação de máquinas, adquiriu 50,3% das ações da Mills, pagando R$ 16 por ação, 22% acima do preço de fechamento anterior. O valor total da operação é de R$ 3,8 bilhões. A transação ainda depende de aprovação do Cade e pode levar à retirada da Mills da B3. A Mills atua no aluguel de máquinas e equipamentos no Brasil.",
+        "porQueImporta": "A aquisição consolida a presença da Loxam no mercado brasileiro e pode alterar a composição acionária da Mills na bolsa.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Exame",
+            "url": "https://exame.com/invest/mercados/loxam-compra-controle-da-mills-em-operacao-de-r-38-bilhoes/"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/economia/noticia/2026/05/25/acionistas-controladores-da-mills-vendem-participacao-para-francesa-loxam-sas.ghtml"
           }
         ],
-        "updatedAt": "2026-05-25T15:14:39.000Z",
+        "updatedAt": "2026-05-25T16:03:38.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/T9_9zRgBLBA61ospg6bUIrrVHUo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/9/LYdtcHQV2tPNMHgGiznw/mills.png"
-      },
-      {
-        "clusterId": "cb385a5736d4d8c1",
-        "slug": "b1ad4dfd20adf589",
-        "titulo": "‘Personal organizer’: como o serviço de organização exclusiva virou negócio que rende até R$ 20 mil por mês",
-        "resumo": "'Personal organizer': como o serviço de organização virou negócio que rende até R$ 20 mil Imagine ter um guarda-roupa organizado por cores, tipos de peças, alturas e estações, ou uma cozinha em que cada item está exatamente onde faz sentido para o uso diário. Essa rotina, antes associada quase exclusivamente às celebridades, tornou-se cada vez mais comum graças ao trabalho das personal organizers — ou organizadoras pessoais, em português. Essas profissionais organizam ambientes de forma funcional, com foco na otimização de espaço, praticidade na rotina e bem-estar do cliente. O serviço é…",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Exame",
-            "url": "https://exame.com/negocios/aos-21-anos-amigos-faturam-us-10-mil-em-30-dias-com-negocio-criado-na-faculdade/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/05/24/personal-organizer-servico-de-organizacao-exclusiva.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-25T14:14:02.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/fKrvgDKIF6AzT5J3ceoiL8q3AG0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/D/i8TflXTF2XLr35eWZSMw/cora-personal-organizer.jpg"
-      },
-      {
-        "clusterId": "dfcf2554a00ca0c2",
-        "slug": "e9e466b99acfbc9e",
-        "titulo": "Rei do Bolão, Alessandro Montenegro, ganha R$ 168 milhões na Mega-Sena",
-        "resumo": "Alessandro Montenegro, de 54 anos, dono da lotérica Aldeota em Fortaleza, participou de um bolão que venceu o prêmio principal da Mega‑Sena, recebendo R$ 168.170.026,83. O bolão contou com 100 cotas, sendo que Montenegro participou com 99 outros apostadores. Ele já havia vencido mais de 10 prêmios em loterias da Caixa. O concurso foi o 3.010, comemorativo dos 30 anos da Mega‑Sena, com prêmio total de R$ 336.340.053,67.",
-        "porQueImporta": "Ilustra o sucesso de um apostador regular que, com bolões, alcançou um dos maiores prêmios da história da Mega‑Sena.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/ce/ceara/noticia/2026/05/25/quem-e-o-rei-do-bolao-dono-de-loterica-premiada-na-mega-sena-e-um-dos-ganhadores-de-r-168-milhoes.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-25T17:17:18.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/-43Egc8FLEjLhgGMrc09vMxOwkE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/0/HE74dJR1yuv3jdQ4YZAw/bolao-caixa.jpg"
       }
     ],
     "mundo": [
       {
-        "clusterId": "13f4ee3e41fc22f5",
+        "clusterId": "a1017146fea9b2f7",
         "slug": "6ea6213d810b04d0",
         "titulo": "Papa Leão XIV pede perdão pela Igreja pela legitimação da escravidão e lança encíclica sobre inteligência artificial",
         "resumo": "O papa Leão XIV, em sua primeira encíclica \"Magnifica Humanitas\", pediu perdão pelo papel da Igreja na legitimação da escravidão e por ter demorado séculos para condená‑la. O documento também aborda os riscos da inteligência artificial, alertando sobre o uso de algoritmos em decisões letais e na automação do trabalho. O pedido de desculpas foi feito durante a Missa de Pentecostes na Basílica de São Pedro.",
@@ -685,16 +697,8 @@
         "category": "mundo",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/05/25/inteligencia-artificial/papa-leao-xiv-pede-controle-da-ia-em-primeira-enciclica/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/ia-precisa-ser-desarmada-diz-papa-em-nova-enciclica/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/inteligencia-artificial/papa-leao-14-aborda-inteligencia-artificial-e-recebe-representantes-do-vale-do-silicio/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/entretenimento/cinema/papa-leao-xiv-cita-frase-de-o-senhor-dos-aneis-em-1a-carta-aos-fieis"
           },
           {
             "name": "G1",
@@ -705,36 +709,140 @@
             "url": "https://www.bbc.com/portuguese/articles/ce9ppj1xldxo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-05-25T16:39:03.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/Papa.jpg"
+        "updatedAt": "2026-05-25T20:51:13.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/05/papa-leao-xiv-gandalf-o-senhor-dos-aneis.jpg"
       },
       {
-        "clusterId": "cc981dc842176b79",
+        "clusterId": "8dd92cce916993ea",
         "slug": "33fc8632f4ed37e8",
-        "titulo": "Tráfego de navios no Estreito de Ormuz pode voltar ao nível pré-guerra em 30 dias, diz agência",
-        "resumo": "Centenas de navios-tanque e cargueiros aguardam a reabertura total do Estreito de Ormuz Foto: Majid Asgaripour/WANA/REUTERS Um possível acordo entre o Irã e os Estados Unidos prevê que o número de navios autorizados a transitar pelo Estreito de Ormuz retornaria ao nível anterior à guerra dentro de 30 dias, segundo a agência iraniana Tasnim. O bloqueio naval deve ser completamente suspenso dentro de 30 dias, de acordo com um memorando de entendimento, informou a Tasnim, acrescentando que parte dos fundos iranianos congelados deve ser liberada na primeira fase. O possível memorando inclui o fim…",
+        "titulo": "Para senadores republicanos, Trump cede ao Irã e acordo soa a derrota",
+        "resumo": "Donald Trump REUTERS/Kevin Lamarque O presidente dos EUA, Donald Trump, insiste que o tempo está a seu favor na busca de um acordo com o Irã, mas, a contar pela reação negativa de seus aliados republicanos no Congresso, a realidade é bem diferente. Crivado por críticas e alertas de que estava disposto a ceder demais ao regime dos aiatolás, o presidente desacelerou no domingo (24) o otimismo manifestado na noite anterior, quando anunciou que a finalização para um consenso com a república teocrática era iminente. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Trump disse ter pedido…",
         "porQueImporta": "",
         "category": "mundo",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/mercado/bolsas-da-europa-fecham-em-forte-alta-com-expectativa-de-acordo-eua-ira-milao-renova-recordes/"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/economia/ibovespa-valoriza-com-possivel-cessar-fogo-entre-eua-e-ira-no-radar/"
           },
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-25052026/"
+            "url": "https://www.infomoney.com.br/mercados/sem-referencia-dos-treasuries-juros-futuros-caem-com-possivel-acordo-entre-eua-e-ira/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/05/25/dolar-ibovespa.ghtml"
+            "url": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/05/25/sob-pressao-de-aliados-por-ceder-ao-ira-trump-recua-sobre-acordo.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-25T20:36:48.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2021/02/GettyImages-1229674447.jpg.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "7e33a521f55be34f",
+        "slug": "0d589df0ca1d2da2",
+        "titulo": "Homem sueco pode receber 10 anos de prisão por obrigar esposa a prostituir-se",
+        "resumo": "Um homem de 62 anos foi acusado de explorar a esposa, forçando-a a manter relações sexuais pagas com cerca de 120 homens desde agosto de 2022. A promotoria sueca pediu uma pena de dez anos de prisão, classificando o caso como lenocínio qualificado. O réu está preso desde 10 de abril e o julgamento ocorreu em grande parte a portas fechadas.",
+        "porQueImporta": "O caso destaca a criminalização da exploração sexual e a proteção de vítimas em casos de abuso doméstico.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/acusado-de-prostituir-esposa-por-dinheiro-pode-pegar-10-anos-de-prisao"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/marido-que-prostituiu-esposa-por-dinheiro-pode-pegar-10-anos-na-suecia/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/05/25/justica-pede-10-anos-de-prisao-para-acusado-de-obrigar-esposa-a-manter-relacoes-com-120-homens-por-dinheiro-na-suecia.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-25T20:27:40.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/03/pcdf-mulher-esfaqueia-marido-costela-legitima-defesa.jpg"
+      },
+      {
+        "clusterId": "98109e5b143233b4",
+        "slug": "3165930fc9bdff1d",
+        "titulo": "Surto de ebola na República Democrática do Congo se intensifica com ataques a hospitais",
+        "resumo": "A epidemia de ebola na República Democrática do Congo está em fase crítica, com a OMS descrevendo-a como extremamente grave e difícil de controlar. Dez países africanos, além da RDC e Uganda, estão em risco. Em Bunia, um hospital que atende pacientes com ebola foi alvo de um ataque, forçando a evacuação de pacientes e resultando em desaparecimento de 18 casos suspeitos. A situação gera preocupação internacional sobre a falta de recursos e a segurança das equipes médicas.",
+        "porQueImporta": "O surto ameaça a saúde pública regional e destaca a vulnerabilidade de sistemas de saúde em áreas de conflito.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/saude/epidemia-de-ebola-na-rd-congo-e-extremamente-grave-e-dificil-alerta-chefe-da-oms/"
           },
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c5y00jdv579o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/articles/c4g773z7750o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/saude/noticia/2026/05/25/novo-ataque-a-hospital-com-pacientes-de-ebola-ocorre-no-congo-18-casos-suspeitos-desapareceram.ghtml"
           }
         ],
-        "updatedAt": "2026-05-25T17:06:12.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/01/447247335.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-05-25T18:21:58.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/RDCongo.jpg"
+      },
+      {
+        "clusterId": "86c38502c7418c87",
+        "slug": "79eff1e1601cfea6",
+        "titulo": "Colômbia aumenta segurança e enfrenta novos ataques com drones antes das eleições",
+        "resumo": "O governo colombiano mobilizou 228 mil agentes e ofereceu até 1 bilhão de pesos por denúncias de crimes eleitorais. Paralelamente, grupos armados ilegais adotaram ataques em enxame com drones, intensificando a violência nas regiões afetadas. A combinação de reforço policial e novas táticas de ataque aumenta a tensão nas proximidades da votação.",
+        "porQueImporta": "Essas medidas refletem a crescente preocupação com a integridade do processo eleitoral e a segurança pública no país.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/colombia-seguranca-eleitoral-bilionaria"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/05/25/grupos-armados-usam-estrategia-de-enxame-de-drones-e-aumetam-violencia-na-colombia.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-25T20:47:35.000Z",
+        "imageUrl": "https://images.metroimg.com/2025/10/24164739/Gustavo-Petro-5.jpg"
+      },
+      {
+        "clusterId": "9584baf6a745630f",
+        "slug": "f7c7f30948be3037",
+        "titulo": "Onda de calor extrema atinge Europa em maio",
+        "resumo": "Em 25 de maio, vários países europeus registraram temperaturas acima do normal, com Londres atingindo 33,5 °C e a França apresentando recordes de mais de 30 °C. O Reino Unido ultrapassou o recorde anterior de 32,8 °C, estabelecido em 1922 e 1944, enquanto a França viu a primeira temperatura acima de 30 °C no ano. A onda de calor causou cancelamentos de eventos esportivos e resultou em um óbito em uma corrida em Paris.",
+        "porQueImporta": "O aumento extremo de temperatura pode indicar mudanças climáticas e afetar a saúde pública e a infraestrutura.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/onda-de-calor-na-europa-reino-unido-tem-dia-mais-quente-para-o-mes-de-maio/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/meio-ambiente/noticia/2026/05/25/europa-enfrenta-calor-extremo-para-o-mes-de-maio.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-25T20:27:40.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/93Dhrlo6zuLsYEzYOA5bySzQ1IA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/8/tBMObSQrG6wWLWtxndyg/ap26145501492734.jpg"
+      },
+      {
+        "clusterId": "cf56c51385e97e90",
+        "slug": "f97b07f8a50e8a22",
+        "titulo": "Ataque a bomba contra trem deixa pelo menos 24 mortos e mais de 70 feridos no Paquistão; VÍDEO",
+        "resumo": "Atentado contra trem no Paquistão deixa vários mortos e feridos Pelo menos 24 pessoas morreram e mais de 70 ficaram feridas em um ataque a bomba contra um trem em Quetta, na província do Baluchistão, no sudoeste do Paquistão, neste domingo (24), segundo autoridades. Um oficial que falou sob condição de anonimato, contou à agência de notícias AFP que o trem transportava militares e suas famílias de Quetta para Peshawar, no noroeste do Paquistão. Outro contou que os militares estavam viajando para celebrar a Festa do Sacrifício, uma das datas mais importantes do calendário muçulmano, que começa…",
+        "porQueImporta": "",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/colisao-de-van-com-elefante-deixa-tres-mortos-em-uganda/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/05/25/desabamento-de-hotel-em-obras-deixa-3-mortos-e-17-desaparecidos-nas-filipinas.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-25T20:06:20.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/IMG_0831.webp"
       },
       {
         "clusterId": "44e00c9ccec3e8f2",
@@ -755,305 +863,188 @@
         ],
         "updatedAt": "2026-05-25T13:55:20.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/8iJfgGU-CWcVLV-ivNYxW09Bm8I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/0/K3CgyLQuStfaAzpmHhRQ/bbc-2.webp"
-      },
-      {
-        "clusterId": "ffc130d289637590",
-        "slug": "2fdce04cead9ae1b",
-        "titulo": "Para senadores republicanos, Trump cede ao Irã e acordo soa a derrota",
-        "resumo": "Donald Trump REUTERS/Kevin Lamarque O presidente dos EUA, Donald Trump, insiste que o tempo está a seu favor na busca de um acordo com o Irã, mas, a contar pela reação negativa de seus aliados republicanos no Congresso, a realidade é bem diferente. Crivado por críticas e alertas de que estava disposto a ceder demais ao regime dos aiatolás, o presidente desacelerou no domingo (24) o otimismo manifestado na noite anterior, quando anunciou que a finalização para um consenso com a república teocrática era iminente. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Trump disse ter pedido…",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/05/25/presidente-do-ira-ordena-restabelecer-a-internet-no-pais.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-25T17:39:50.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/n3bA7nXBQ_FDFaHNSG7mtWUXJTI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/r/i/MKYA36RUSD7sVLXtFrag/696dda70-e29b-11ef-bd1b-d536627785f2.jpg.webp"
-      },
-      {
-        "clusterId": "037844e5f1abfe9e",
-        "slug": "302f28eb8a0cb78d",
-        "titulo": "Enfermeira a caminho do epicentro do surto de ebola alerta para riscos",
-        "resumo": "Kate White diz que está 'extremamente preocupada com a incapacidade de obter recursos' para a República Democrática do Congo.",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c4g773z7750o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-05-25T17:13:49.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5a68/live/f16f5390-5793-11f1-85d6-97cd1565aacc.jpg"
-      },
-      {
-        "clusterId": "07a5af361fb4ba5b",
-        "slug": "f296fc9481e3b911",
-        "titulo": "Barata se torna símbolo de novo partido político na Índia",
-        "resumo": "Um novo partido político indiano, chamado Partido Povo Barata, adotou a barata como seu símbolo, em contraste com os tradicionais lótus e mãos. O movimento surgiu após comentários controversos do presidente do partido, gerando repercussão nas redes sociais. O site do partido já permite inscrições online e atrai principalmente jovens.",
-        "porQueImporta": "Ilustra como símbolos inesperados podem mobilizar apoio político em contextos digitais.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/05/24/por-que-uma-barata-se-tornou-a-nova-estrela-da-politica-na-india.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c5ye3dn4mlko?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-05-24T22:30:36.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/HQzzio3Amrsnhsj_aHfrA3bXd50=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/T/OPsBPqTcOfAcoOHWxrAA/imagem-redimensionada-1200px-3.webp"
-      },
-      {
-        "clusterId": "26937e1f3289a418",
-        "slug": "0f3afe1357df01f6",
-        "titulo": "A luta de uma jovem para fugir de casamento forçado no Afeganistão dominado pelo Talebã",
-        "resumo": "Quase cinco anos depois da proibição para mulheres estudarem no Afeganistão, meninas disseram à BBC que deram adeus aos seus sonhos.",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c5y0035jwljo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-05-25T16:34:38.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b38b/live/bb0494a0-57b6-11f1-b682-cf91850925ea.jpg"
-      },
-      {
-        "clusterId": "29ff4ddf6ef730bd",
-        "slug": "9885239557686b1b",
-        "titulo": "Novo aeroporto em Gelephu abre caminho para turismo no Butão",
-        "resumo": "O rei do Butão, Jigme Khesar Namgyel Wangchuck, liderou a limpeza de vegetação em Gelephu, perto da fronteira com a Índia, para abrir caminho para o Aeroporto Internacional de Gelephu, previsto para inauguração em 2029. A obra, que contou com 12 mil voluntários, visa facilitar o acesso de turistas ao país, tradicionalmente restrito. O aeroporto pretende transformar a forma como os visitantes chegam ao reino do Himalaia.",
-        "porQueImporta": "O projeto pode aumentar significativamente o fluxo de turistas, impulsionando a economia local e alterando a dinâmica de acesso ao Butão.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/05/24/uma-das-nacoes-mais-misteriosas-e-remotas-do-mundo-se-abre-ao-turismo.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cj9p1pdx8wlo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-05-24T17:23:10.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/d4iAbbdgpFcUOJElnsEF_irAzzI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/U/VT5AzlT7Gm4Gqtk5LsAw/butao.webp"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "4acc9cc9965b5a1b",
-        "slug": "3cfb7eab9decb3c0",
-        "titulo": "Cardiomiopatia hipertrófica pode ser genética ou agravada por anabolizantes; entenda doença citada em morte de fisiculturista",
-        "resumo": "Morre Gabriel Ganley, fisiculturista e influenciador, aos 22 anos A cardiomiopatia hipertrófica —doença citada no atestado de óbito do fisiculturista e influenciador Gabriel Ganley, morto aos 22 anos em São Paulo— provoca o espessamento anormal do músculo do coração e pode levar a arritmias graves, insuficiência cardíaca e morte súbita. Apesar de muitas vezes silenciosa, costuma se manifestar justamente nos momentos de maior esforço físico, como treinos intensos e competições. Na doença, parte do músculo cardíaco cresce além do esperado. A parede mais espessa deixa o coração rígido, reduz o…",
+        "clusterId": "502f827c8932e694",
+        "slug": "d65cd5d587941726",
+        "titulo": "Fique atento: prazo para entregar o Imposto de Renda termina nesta sexta (29)",
+        "resumo": "O prazo para a entrega da declaração do Imposto de Renda de Pessoa Física (IRPF) 2026 termina nesta sexta-feira (29), às 23h59. Quem não entregar dentro do prazo fica sujeito a multa e pode ter o nome negativado. Declaração do Imposto de Renda 2026: prazos, regras e o que mudou este ano Atrasos e lentidão: por que não se deve entregar o IRPF no último dia? Além disso, deixar o envio para o último momento é arriscado. O volume de acessos simultâneos costuma sobrecarregar o sistema da Receita Federal, principalmente às vésperas do prazo. Se faltar tempo para inserir todas as informações, vale…",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/05/25/medicina-e-saude/o-que-e-cardiomiopatia-hipertrofica-causa-da-morte-de-fisiculturista/"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/apps/fique-atento-prazo-para-entregar-o-imposto-de-renda-termina-nesta-sexta-29/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/05/25/resumao-diario-1993-fisiculturista-gabriel-ganley-teve-morte-subita-por-doenca-no-coracao-diz-atestado-de-obito-uso-do-fgts-para-renegociar-dividas-pelo-desenrola-comeca-hoje-e-mais.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/saude/gabriel-ganley-entenda-doenca-que-levou-a-morte-do-fisiculturista/"
+            "url": "https://g1.globo.com/ac/acre/noticia/2026/05/25/cerca-de-87-mil-declaracoes-do-imposto-de-renda-ja-foram-enviadas-no-ac-aponta-receita-federal.ghtml"
           }
         ],
-        "updatedAt": "2026-05-25T17:16:42.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/sVt3xHePw5bmaiT75Cjz2EVAJy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/P/3DBiGATciJvvQc3jv7iw/podcasts-3000x1688-sem-logo-14.png"
+        "updatedAt": "2026-05-25T21:00:00.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/YxBkLlNJ6RnSQuDnuWHD9my6p2c=/700x394/smart/i1113757.png"
       },
       {
-        "clusterId": "cbaf5df2d89eac6a",
-        "slug": "6b2a501265b5826c",
-        "titulo": "Anvisa declara recall do anti-hipertensivo Aldomet; veja o lote afetado",
-        "resumo": "Falha em processo de embalagem faz pacientes receberem dose menor de anti-hipertensivo e leva à suspensão de lote pela Anvisa O post Anvisa declara recall do anti-hipertensivo Aldomet; veja o lote afetado apareceu primeiro em Olhar Digital.",
+        "clusterId": "c4b4352bf2eea57e",
+        "slug": "19617510685926ba",
+        "titulo": "IA não pode ficar só nas mãos das big techs, diz fundador da Anthropic no Vaticano",
+        "resumo": "Christopher Olah, cofundador da Anthropic, antes da apresentação de “Magnifica humanitas”, a primeira encíclica do Papa Leão XIV, focada na ascensão da inteligência artificial, no Vaticano, em 25 de maio de 2026. REUTERS/Yara Nardi O cofundador da Anthropic, Chris Olah, disse nesta segunda-feira (25) que o desenvolvimento da inteligência artificial não pode ficar exclusivamente nas mãos das empresas de tecnologia, e defendeu mais supervisão por parte de líderes religiosos, governos e da sociedade civil. A Anthropic é uma empresa americana responsável pelas ferramentas de IA Claude. Ele fez a…",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/05/25/medicina-e-saude/anvisa-declara-recall-do-anti-hipertensivo-aldomet-veja-o-lote-afetado/"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/tecnologia/inteligencia-artificial-pode-substituir-o-trabalho-humano-em-grande-escala-diz-ex-funcionario-da-openai/"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/saude/anvisa-recolhe-lote-de-anti-hipertensivo-por-erro-que-impacta-dosagem/"
+            "name": "G1",
+            "url": "https://g1.globo.com/tecnologia/noticia/2026/05/25/ia-nao-pode-ficar-so-nas-maos-das-big-techs-diz-fundador-da-anthropic-no-vaticano.ghtml"
           }
         ],
-        "updatedAt": "2026-05-25T17:17:01.000Z"
+        "updatedAt": "2026-05-25T20:10:17.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/AFP__20260525__B3XW4TW__v1__HighRes__VaticanIaEncyclicalMagnificaHumanitas.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "a3b4840ef12e791f",
-        "slug": "6e115dacd47c8a07",
-        "titulo": "Por que fisiculturistas usam insulina e o que torna essa prática perigosa?",
-        "resumo": "Uso clandestino da substância em protocolos de fisiculturismo preocupa médicos por riscos cardíacos, neurológicos e metabólicos O post Por que fisiculturistas usam insulina e o que torna essa prática perigosa? apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/saude/por-que-fisiculturistas-aplicam-insulina-no-corpo-e-quais-sao-os-riscos/"
-          },
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/05/25/medicina-e-saude/por-que-fisiculturistas-usam-insulina-e-o-que-torna-essa-pratica-perigosa/"
-          }
-        ],
-        "updatedAt": "2026-05-25T17:11:17.000Z"
-      },
-      {
-        "clusterId": "8892261cf74a451d",
-        "slug": "d49839894c72695c",
-        "titulo": "IA do Google transforma lugares do Street View em videogame",
-        "resumo": "A ferramenta Project Genie, do Google, ganhou uma opção para criar mundos abertos a partir de imagens do Street View. É possível escolher uma localização dos EUA, aplicar um estilo e escolher um personagem para controlar a experiência interativa. O Genie foi lançado no começo deste ano e funciona como uma ferramenta que usa IA para criar mundos interativos. Enquanto GTA VI não chega, é possível explorar cidades como Nova York, Los Angeles e Las Vegas, por exemplo. O Google informa que a novidade usa dados coletados no Street View e a ferramenta Maps Imagery Grounding, do Gemini, que permite…",
+        "clusterId": "252cbfe42252c8fe",
+        "slug": "90f9d69eed0ed7a2",
+        "titulo": "Que horas 007 First Light estreia no Brasil?",
+        "resumo": "A IO Interactive divulgou o horário de lançamento de 007 First Light em todo o mundo. O jogo nos colocará na pele de um James Bond jovem e apresentará um gameplay mais livre, no qual os jogadores poderão progredir de diferentes formas, tal como em Immersive Sims como Hitman. 007 First Light no PC: veja requisitos para jogar 10 filmes e séries baseados em games que lançam em 2026 007 First Light estreia no Brasil a partir das 11h (horário de Brasília) desta terça-feira (26) para quem fez a compra antecipada ou adquiriu a versão Deluxe do jogo; para o restante dos jogadores, o jogo será lançado…",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/inteligencia-artificial/ia-do-google-transforma-lugares-do-street-view-em-videogame/"
+            "url": "https://canaltech.com.br/games/que-horas-007-first-light-estreia-no-brasil/"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c3r23ez3vnwo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-05-25T17:10:00.000Z",
-        "imageUrl": "https://t.ctcdn.com.br/PGmAthTfP7kw8gcLQRg9-Rb1LPE=/700x394/smart/i1099255.png"
+        "updatedAt": "2026-05-25T20:10:00.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/pNzMxVRsFwsTgyRAlPrALwKUZw8=/700x394/smart/i1014743.jpeg"
       },
       {
-        "clusterId": "472cf12a3c40d4ef",
-        "slug": "5393e688b4b789cc",
-        "titulo": "Duas-Caras em Batman 2? Fala de Sebastian Stan acende teorias",
-        "resumo": "O ator Sebastian Stan revelou no último domingo (24) que interpretará “vários papéis” em Batman Parte 2. O comentário reforça os rumores de que ele viverá os personagens Harvey Dent e o vilão Duas-Caras — um dos grandes antagonistas do Homem-Morcego. 10 versões mais medonhas do Batman no Multiverso da DC 5 histórias de origem de super-heróis mais perturbadoras da DC Comics A declaração foi feita pelo ator durante o Festival de Cannes, sem confirmar de fato se ele trará à tona o icônico inimigo do super-herói ou não. É especulado que veremos apenas o advogado no longa-metragem, com uma…",
+        "clusterId": "2bf55ad6f4aabd77",
+        "slug": "3364d8da97902529",
+        "titulo": "Embarque Digital oferece 250 vagas em cursos gratuitos de tecnologia no Recife; saiba como se inscrever",
+        "resumo": "Computador em imagem de arquivo Chico Gomes/Secitece/Reprodução O Embarque Digital, programa de formação gratuita em tecnologia e inovação da prefeitura do Recife, está com 250 vagas abertas para a 11ª edição do projeto. Os interessados têm até o dia 19 de junho para se inscreverem pela internet. Os candidatos devem ter cursado o ensino médio na rede pública (veja os critérios abaixo). Os aprovados vão poder fazer a graduação de Análise e Desenvolvimento de Sistemas ou de Sistemas para Internet, nos turnos da manhã e da noite. O início das aulas está previsto para o segundo semestre de 2026.…",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/05/25/dicas-e-tutoriais/saiba-como-se-inscrever-no-enem-2026/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/05/25/embarque-digital-cursos-gratuitos-tecnologia-recife.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-25T19:45:44.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/DtdK66CMtWS6aYuYMIwweA2P73I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/t/y/d8MvDFS2GJklewsqjrcQ/computador.jpg"
+      },
+      {
+        "clusterId": "50fddac543ccf450",
+        "slug": "3cd73aeefba269c1",
+        "titulo": "Vai renovar? Sony questiona jogadores sobre a PS Plus após aumento de preço",
+        "resumo": "Logo após a Sony aumentar o preço da PS Plus no Brasil pela segunda vez em um ano, usuários relataram receber um e-mail da empresa pedindo a opinião sobre a assinatura. Como assinar o PS Plus? PS Plus muda estratégia e começa a deixar o PlayStation 4 para trás A companhia afirmou na mensagem que \"qualquer feedback nos ajudará a melhorar o serviço\". Logo em seguida, a dona do PlayStation perguntou aos jogadores se eles estavam satisfeitos com os seguintes recursos: Acesso aos jogos disponíveis por meio da assinatura; Experiência multiplayer online; Descontos na PS Store; Share Play; 100 GB de…",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/entretenimento/duas-caras-em-batman-2-fala-de-sebastian-stan-acende-teorias/"
+            "url": "https://canaltech.com.br/games/vai-renovar-sony-questiona-jogadores-sobre-a-ps-plus-apos-aumento-de-preco/"
           }
         ],
-        "updatedAt": "2026-05-25T16:55:00.000Z",
-        "imageUrl": "https://t.ctcdn.com.br/Mn9Zgsd4efTiDCPwuZO4LSv1TZg=/700x394/smart/i1129241.jpeg"
+        "updatedAt": "2026-05-25T21:00:00.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/BTGfYNeUPkYOwaYLtS1eP1M-dZU=/700x394/smart/i996661.png"
       },
       {
-        "clusterId": "b0c1cf4c2c1463f0",
-        "slug": "ee285c0ad8aad2c2",
-        "titulo": "CBLOL 2026 entra nos playoffs com LOUD, RED Canids e FURIA entre favoritas ao título",
-        "resumo": "Playoffs do CBLOL 2026 começam com LOUD, RED Canids e FURIA entre favoritas ao título brasileiro de League of Legends O post CBLOL 2026 entra nos playoffs com LOUD, RED Canids e FURIA entre favoritas ao título apareceu primeiro em Olhar Digital.",
+        "clusterId": "30449c92452e1ab5",
+        "slug": "98d8ffc421ad6399",
+        "titulo": "Usina híbrida nos EUA quer unir gás natural e energia nuclear",
+        "resumo": "Blue Energy e GE Vernova planejam usina híbrida no Texas que combina gás natural e reatores nucleares modulares O post Usina híbrida nos EUA quer unir gás natural e energia nuclear apareceu primeiro em Olhar Digital.",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/05/25/games-e-consoles/cblol-2026-entra-nos-playoffs-com-loud-red-canids-e-furia-entre-favoritas-ao-titulo/"
+            "url": "https://olhardigital.com.br/2026/05/25/ciencia-e-espaco/usina-hibrida-nos-eua-quer-unir-gas-natural-e-energia-nuclear/"
           }
         ],
-        "updatedAt": "2026-05-25T16:44:29.000Z"
+        "updatedAt": "2026-05-25T20:21:25.000Z"
       },
       {
-        "clusterId": "1699a4766ba82e32",
-        "slug": "c31019a1fc727de3",
-        "titulo": "Celular 5G no precinho: 3 opções de smartphones com desconto",
-        "resumo": "Compatíveis com as redes de internet móvel de quinta geração, estes smartphones não pesam no bolso com esses descontos imperdíveis O post Celular 5G no precinho: 3 opções de smartphones com desconto apareceu primeiro em Olhar Digital.",
+        "clusterId": "66aa27a1d9ac3b32",
+        "slug": "e368cc7386395683",
+        "titulo": "App ligado ao ChatGPT surge 'do nada' em celulares, e não pode ser apagado",
+        "resumo": "Assistente de programação da OpenAI, o Codex ganhou uma versão mobile e começou a aparecer na gaveta de apps de celulares mesmo sem ser baixado pela Play Store. Além disso, apagar o assistente implica em desinstalar o ChatGPT do aparelho. ChatGPT ou Gemini? Veja qual IA usar nas tarefas do dia a dia Como remover o Instants do Instagram? Desde o domingo (24), surgiram relatos em redes sociais como o X e o Reddit de pessoas notando o Codex em seus aparelhos sem que tivessem feito o download. Até porque ainda não há como baixar um aplicativo próprio da ferramenta. O Canaltech apurou, e encontrou…",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/apps/app-ligado-ao-chatgpt-surge-do-nada-em-celulares-e-nao-pode-ser-apagado/"
+          }
+        ],
+        "updatedAt": "2026-05-25T20:00:00.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/ORRvRPW-20CNZ2lZodY0p_I96kQ=/700x394/smart/i1129353.png"
+      },
+      {
+        "clusterId": "910bc2b332fe45e6",
+        "slug": "7ec9829200430630",
+        "titulo": "Huawei anuncia salto em chips e desafia domínio da TSMC",
+        "resumo": "Huawei afirma que poderá fabricar chips de 1,4 nm até 2031 sem máquinas EUV da ASML usando arquitetura própria O post Huawei anuncia salto em chips e desafia domínio da TSMC apareceu primeiro em Olhar Digital.",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/05/25/reviews/celular-5g-no-precinho-3-opcoes-de-smartphones-com-desconto/"
+            "url": "https://olhardigital.com.br/2026/05/25/pro/huawei-anuncia-salto-em-chips-e-desafia-dominio-da-tsmc/"
           }
         ],
-        "updatedAt": "2026-05-25T16:30:00.000Z"
-      },
-      {
-        "clusterId": "6a3b13d780d7af6f",
-        "slug": "44e09a03a6002197",
-        "titulo": "Observatório da NASA descobre força que alimenta supernovas superenergizadas",
-        "resumo": "Dados do telescópio Fermi, da NASA, ajudam a explicar o que alimenta as explosões das supernovas superbrilhantes O post Observatório da NASA descobre força que alimenta supernovas superenergizadas apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/05/25/ciencia-e-espaco/observatorio-da-nasa-descobre-forca-que-alimenta-supernovas-superenergizadas/"
-          }
-        ],
-        "updatedAt": "2026-05-25T16:23:54.000Z"
+        "updatedAt": "2026-05-25T19:57:25.000Z"
       }
     ],
     "ciencia": [
       {
-        "clusterId": "6483d355a0f0abc8",
-        "slug": "306ea5d18df38063",
-        "titulo": "Kimi Antonelli dividido entre Brasil e Argentina sem Itália na Copa",
-        "resumo": "O piloto brasileiro Kimi Antonelli, líder da temporada de Fórmula 1, expressou frustração pela ausência da Itália na Copa do Mundo, considerando a situação um desastre. Ele também revelou que está dividido entre apoiar o Brasil e a Argentina durante o torneio. A decisão de Antonelli reflete a complexidade de lealdades esportivas em eventos internacionais. A Copa do Mundo, que começa em 11 de junho e vai até 19 de julho, atrai atenção global e provoca debates sobre identidade nacional.",
-        "porQueImporta": "A postura de um atleta de destaque influencia a percepção pública sobre apoio a seleções nacionais em eventos globais.",
+        "clusterId": "e654874845c20479",
+        "slug": "3e9bcb45a8a99c2a",
+        "titulo": "Câncer de pâncreas apresenta alta letalidade e diagnóstico tardio",
+        "resumo": "O câncer de pâncreas, embora raro, tem alta taxa de mortalidade e está em crescimento no Brasil, com estimativa de 10.980 novos casos entre 2023 e 2025. O diagnóstico costuma ocorrer em estágios avançados, dificultando o tratamento. Pesquisadores buscam novas drogas e tecnologias para melhorar o prognóstico. A doença permanece um grande desafio para médicos e pacientes.",
+        "porQueImporta": "Entender a gravidade e os esforços de pesquisa ajuda a orientar políticas de saúde e prevenção.",
         "category": "ciencia",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/especial-publicitario/cni/noticia/2026/05/25/dia-da-industria-brasil-eua-reune-liderancas-para-discutir-investimentos-e-integracao-industrial-entre-brasil-e-eua.ghtml"
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/saude/os-dois-principais-habitos-causadores-de-cancer-segundo-a-oms/"
           },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/brasil-e-um-dos-paises-que-menos-sente-o-impacto-da-guerra-diz-durigan/"
-          },
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/atualidades/como-funcionam-a-rastreabilidade-e-a-certificacao-de-carnes-no-brasil/"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "Pesquisa FAPESP",
-            "url": "https://revistapesquisa.fapesp.br/o-brasil-das-montanhas-2/?utm_source=rss&utm_medium=rss&utm_campaign=o-brasil-das-montanhas-2"
-          }
-        ],
-        "updatedAt": "2026-05-25T16:10:59.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/dfV9Et3fEGJt8mHdK-MBYX-5dNc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/6/PAaKHTQPWUWSAthOfMtg/imagem1.jpg"
-      },
-      {
-        "clusterId": "46c0807b6a5fd525",
-        "slug": "4447b361ba25db7f",
-        "titulo": "Diretor de pesquisa científica da França fala na USP sobre virologia e neurociência",
-        "resumo": "Pesquisador Raphael Gaudin, do Institut de Recherche en Infectiologie de Montpellier (IRIM), da França, estará no Institut Pasteur de São Paulo, no dia 26 de maio, às 11h. Evento é gratuito",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv1.ghtml"
-          },
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/universidade/diretor-de-pesquisa-cientifica-da-franca-fala-na-usp-sobre-virologia-e-neurociencia/"
+            "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/05/24/por-que-o-cancer-de-pancreas-e-um-desafio-para-medicos-e-pacientes.ghtml"
           }
         ],
-        "updatedAt": "2026-05-25T15:54:55.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg"
+        "updatedAt": "2026-05-25T21:00:36.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/05/2505-cancer-layout_site.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "fb9188c22f8f6e70",
-        "slug": "82b1073e02c55e23",
-        "titulo": "Técnica genética pode evitar a síndrome de Down",
-        "resumo": "Procedimento experimental feito em células desligou cópia extra do cromossomo 21.",
+        "clusterId": "5c6025ad48fe19a9",
+        "slug": "ab881ca252df5fe6",
+        "titulo": "IAs nunca serão conscientes, diz pesquisador do Google",
+        "resumo": "Não é possível reproduzir a consciência de forma puramente lógica, afirma neurocientista da divisão Google DeepMind; entenda o argumento, que contraria discurso oficial da empresa",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Super Interessante",
-            "url": "https://super.abril.com.br/ciencia/tecnica-genetica-pode-evitar-a-sindrome-de-down/"
+            "url": "https://super.abril.com.br/coluna/bruno-garattoni/ias-nunca-serao-conscientes-diz-pesquisador-do-google/"
           }
         ],
-        "updatedAt": "2026-05-25T17:00:50.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/05/SI_487_Novas_Sindrome_de_Down.jpg?quality=70&strip=info"
+        "updatedAt": "2026-05-25T19:00:16.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/05/GettyImages-2026262347.jpg?quality=70&strip=info"
       },
       {
         "clusterId": "e3136756cd17307d",
@@ -1074,8 +1065,8 @@
       {
         "clusterId": "f165e428c520a8c2",
         "slug": "9f640cd08d8a608f",
-        "titulo": "Pesquisa FAPESP conquista o José Reis de 2026",
-        "resumo": "Prêmio promovido pelo CNPq reconhece a qualidade e a trajetória da publicação",
+        "titulo": "Pesquisa FAPESP conquista o Prêmio José Reis de Divulgação Científica",
+        "resumo": "Distinção concedida pelo CNPq reconhece a qualidade e a trajetória da publicação",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
@@ -1119,6 +1110,22 @@
         "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/03/pasta-dos-20230313_gilson--1024x1024.jpg"
       },
       {
+        "clusterId": "cde5049ad2f3ea7d",
+        "slug": "0898545f54d44ac4",
+        "titulo": "Como funcionam a rastreabilidade e a certificação de carnes no Brasil",
+        "resumo": "Rosana Maneschy explica as etapas da criação de gado até a certificação das carnes para consumo",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/atualidades/como-funcionam-a-rastreabilidade-e-a-certificacao-de-carnes-no-brasil/"
+          }
+        ],
+        "updatedAt": "2026-05-25T13:27:15.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/12/20231211_rebanho_gado-1024x538.jpg"
+      },
+      {
         "clusterId": "cb2532ba4a853487",
         "slug": "768011e525207f12",
         "titulo": "Tortura medieval ou fake news? A história da sangrenta donzela de ferro",
@@ -1135,221 +1142,276 @@
         "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/05/2105-dama-de-ferro-MundoEstranho_layout_site.jpg?quality=70&strip=info"
       }
     ],
-    "saude": [],
+    "saude": [
+      {
+        "clusterId": "05105c64183183b6",
+        "slug": "05c2e4218a5b9ac9",
+        "titulo": "Burnout sem pausa: 10 dicas para lidar com o esgotamento quando não dá para parar de trabalhar",
+        "resumo": "Especialistas explicam como reduzir os impactos do burnout mesmo sem conseguir tirar férias ou se afastar do trabalho. The post Burnout sem pausa: 10 dicas para lidar com o esgotamento quando não dá para parar de trabalhar first appeared on Portal Drauzio Varella.",
+        "porQueImporta": "",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/saude-mental/burnout-sem-pausa-10-dicas-para-lidar-com-o-esgotamento-quando-nao-da-para-parar-de-trabalhar/"
+          }
+        ],
+        "updatedAt": "2026-05-25T19:00:47.000Z"
+      },
+      {
+        "clusterId": "609225f88bbde334",
+        "slug": "0eed6204e1610f61",
+        "titulo": "O fígado costuma sofrer em silêncio",
+        "resumo": "Apesar de muita gente reclamar de dor no fígado, os problemas de saude que afetam esse órgão não costumam causar sintomas. Leia no artigo do dr. Drauzio. The post O fígado costuma sofrer em silêncio first appeared on Portal Drauzio Varella.",
+        "porQueImporta": "",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/artigo-do-drauzio-varella/o-figado-costuma-sofrer-em-silencio/"
+          }
+        ],
+        "updatedAt": "2026-05-25T18:00:31.000Z"
+      }
+    ],
     "esportes": [
       {
-        "clusterId": "2f33b610cae46177",
-        "slug": "1246158293a8fc9f",
-        "titulo": "México confirma receber seleção iraniana na Copa do Mundo 2026",
-        "resumo": "A presidente do México, Claudia Sheinbaum, anunciou que o país receberá a seleção iraniana durante o Mundial de 2026, após os Estados Unidos recusarem a hospedagem. O Irã transferiu seu centro de treinamento dos EUA para o México, em Tijuana, em meio à guerra no Oriente Médio. A decisão foi aprovada pela FIFA após reuniões com a Federação Iraniana de Futebol.",
-        "porQueImporta": "Garante a participação da seleção iraniana no torneio, evitando cancelamentos por questões de segurança e logística.",
+        "clusterId": "0a26cd91e108ae3f",
+        "slug": "3a715f397e65e9f3",
+        "titulo": "FIFA divulga 48 centros de treinamento oficiais para Copa 2026",
+        "resumo": "A FIFA anunciou os 48 centros de treinamento que abrigarão cada seleção durante a Copa do Mundo de 2026, distribuídos entre as cidades-sede no Canadá, México e Estados Unidos. As instalações são de nível internacional e servirão como base das equipes na fase de grupos. Nem todos os centros estão localizados em cidades que sediarão partidas, mas as cidades escolhidas contam com infraestrutura e conexões adequadas.",
+        "porQueImporta": "Esses centros garantem conforto e preparação adequada para as seleções, influenciando o desempenho no torneio.",
         "category": "esportes",
         "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/copa-do-mundo-2026/noticia/2026/05/25/fifa-anuncia-centro-de-treinamentos-das-selecoes-para-a-copa-do-mundo-2026.ghtml"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-midia/globo-tem-25-patrocinadores-confirmados-para-a-copa-do-mundo/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/financas/copa-do-mundo-cesta-do-churrasco-sobe-3-ao-ano-diz-fecomerciosp/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/guia/guia-sp/noticia/2026/05/25/copa-do-mundo-em-sp-cine-belas-artes-vai-transmitir-todos-os-jogos-do-brasil.ghtml"
+          },
           {
             "name": "CartaCapital",
             "url": "https://www.cartacapital.com.br/esporte/mexico-aceita-receber-a-selecao-do-ira-na-copa-do-mundo/"
           },
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/05/25/convocados-da-colombia-para-a-copa-do-mundo-2026-veja-a-lista.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/messi-passa-por-exames-e-liga-o-alerta-na-argentina-para-copa-2026/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/05/25/presidente-do-mexico-diz-que-vai-receber-selecao-iraniana-durante-a-copa-do-mundo-diz-agencia.ghtml"
+            "name": "Exame",
+            "url": "https://exame.com/esporte/com-4-atletas-do-brasileirao-colombia-anuncia-os-convocados-para-copa-do-mundo-2026-veja-a-lista/"
           },
           {
             "name": "Canaltech",
             "url": "https://canaltech.com.br/produtos/elon-musk-lanca-bola-de-futebol-da-tesla-para-a-copa-do-mundo-por-r-277/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/brasil-espanha-e-alemanha-veja-as-convocacoes-ja-divulgadas-para-a-copa-do-mundo-2026/"
           }
         ],
-        "updatedAt": "2026-05-25T17:05:18.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/12/000_87BK7VL.jpg"
+        "updatedAt": "2026-05-25T20:53:44.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/sTRrkTFAcqnatuOYTL2X5eM3Pys=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/B/f/cIb1MDSlGCK0DP9mH2XQ/55248641402-3d704c7daa-k.jpg"
       },
       {
-        "clusterId": "ea27c6408f18ac7c",
-        "slug": "85481ebd4f5cb91f",
-        "titulo": "Paraibano Sub-20 2026: Sousa estreia com autoridade, e Treze apenas empata; veja os resultados",
-        "resumo": "O Campeonato Paraibano Sub-20 2026 começou nesse fim de semana, com a realização de cinco jogos, três pelo Grupo Litoral/Brejo e dois pelo Grupo Agreste/Sertão. Entre os principais clubes estão o Sousa, que estreou vencendo no Marizão, e o Treze, que ficou apenas no empate jogando no Presidente Vargas. + Confira a tabela completa do Paraibano Sub-20 2026 Nesta temporada, a disputa pelo título conta com 11 times, e a 1ª fase vai acontecer entre 23 de maio e 7 de junho. O atual campeão é o Esporte de Patos, mas os sertanejos não estão participando, assim como Atlético-PB, Botafogo-PB, Femar,…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/ba/playlist/globo-esporte-ba-desta-segunda-feira-25-de-maio-de-2026.ghtml"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/05/25/videos-eptv-1-sul-de-minas-de-segunda-feira-25-de-maio-de-2026.ghtml"
-          },
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/edicao-de-25-de-maio-de-2026/"
-          }
-        ],
-        "updatedAt": "2026-05-25T17:30:05.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/Ruq8PYymXCvWfph6nGlCsKamH8k=/s01.video.glbimg.com/deo/vi/21/25/14642521"
-      },
-      {
-        "clusterId": "c7a3acf68d40a0d5",
-        "slug": "ad02d657d2e272e7",
-        "titulo": "Ucraniana se emociona com vitória em Roland Garros após míssil quase atingir casa de sua família",
-        "resumo": "A tenista ucraniana Marta Kostyuk venceu sua partida da primeira rodada de Roland Garros contra a russa Oksana Selekhmeteva por 2 sets a 0, com parciais de 6/2 e 6/3. Depois da vitória, Kostyuk se emocionou muito e contou aos presentes que o jogo foi um dos mais difíceis da carreira, por motivos pessoais. Pouco antes da estreia no Grand Slam, a atleta ficou sabendo que um míssil quase atingiu a casa dos pais em Kiev. - A maior parte da manhã eu só me senti mal pensando que se fosse 100m mais perto, provavelmente eu não teria mais uma mãe e uma irmã hoje. Foi muito difícil processar isso…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/quem-e-dino-prizmic-proximo-adversario-de-joao-fonseca-em-roland-garros/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/tenis/campeao-de-roland-garros-wawrinka-e-eliminado-sob-aplausos-da-torcida/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/tenis/noticia/2026/05/25/ucraniana-se-emociona-com-vitoria-em-roland-garros-apos-um-missil-quase-atingir-casa-de-sua-familia.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-25T17:00:01.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/GettyImages-2277976260.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "cf8467c1c3f36fd6",
-        "slug": "34ef0a68aee2ee07",
-        "titulo": "São Paulo x Santos pelo Brasileirão Feminino: onde assistir ao vivo e horário",
-        "resumo": "São Paulo e Santos fazem nesta segunda-feira um clássico pela 12ª rodada da primeira fase do Brasileirão Feminino. A bola rola a partir das 17h30, em Cotia, com transmissão do sportv (o ge faz a cobertura em Tempo Real - CLIQUE AQUI para acompanhar). Initial plugin text O São Paulo aparece entre as primeiras colocadas. Com 23 pontos, está em terceiro e vai em busca da segunda vitória consecutiva depois de fazer 1 a 0 em cima do Juventude na rodada passada. O Santos, por sua vez, ocupa a parte de baixo da tabela. É o 12º, com 14 pontos, e tenta a reabilitação depois de perder para o Red Bull…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/coritiba-x-bahia-no-brasileirao-onde-assistir-horario-e-escalacoes/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/ba/futebol/times/bahia/noticia/2026/05/25/a-bahia-em-curitiba-como-um-baiano-ajudou-a-construir-o-parana.ghtml"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/coritiba-x-bahia-veja-horario-e-onde-assistir-ao-jogo-pelo-brasileirao/"
-          }
-        ],
-        "updatedAt": "2026-05-25T16:30:31.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/09/GettyImages-1810984518.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "42c232dfe5e7557f",
-        "slug": "1a20dbce3ae07c70",
-        "titulo": "Falhas individuais viram rotina, e Vasco reforça confiança em Renato em busca de estabilidade",
-        "resumo": "Admar diz que Renato fica no Vasco: \"É momento de assumir nossa responsabilidade\" As falhas individuais assolaram novamente o sistema defensivo do Vasco e foram determinantes para a derrota por 3 a 0 para o Bragantino, neste domingo, pela 17ª rodada do Campeonato Brasileiro. Os erros tornaram-se rotina nos gols sofridos nos últimos jogos, e a diretoria reforça a confiança no trabalho de Renato Gaúcho para corrigir os problemas em busca da tão sonhada estabilidade. + Análise: Vasco protagoniza novo vexame e revive pesadelo do Z-4 + Admar vai à coletiva e diz que Renato continua: \"Estamos com…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/05/25/bastidores-cobrancas-no-vestiario-e-preocupacao-com-renato-marcam-noite-do-vasco.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/renato-gaucho-desabafa-apos-xingamentos-em-derrota-do-vasco-no-brasileirao/"
-          }
-        ],
-        "updatedAt": "2026-05-25T17:35:06.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/O8mCG_zdRp8tFMPBFHvStmTigdE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/O/i/p1IAlgQhAzAKh7aKJfCw/17.jpg"
-      },
-      {
-        "clusterId": "c364dc486b45f08f",
-        "slug": "71941753a6da1892",
-        "titulo": "UFC divulga novas imagens para evento na Casa Branca",
-        "resumo": "O perfil oficial do UFC divulgou, nas redes sociais, novas imagens da estrutura que será montada no gramado sul da Casa Branca para o UFC Freedom 250. O evento, que faz parte da comemoração dos 250 anos da independência dos Estados Unidos, está marcado para o dia 14 de junho. Siga o canal de MMA, boxe e outras lutas do ge no WhatsApp Nas imagens divulgadas, está incluso \"a garra\" - uma estrutura construída na Europa antes de ser transportada para os Estados Unidos apenas para o evento. A estrutura serve como iluminação e cobertura sobre o octógono. UFC revela novas imagens da preparação na…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/05/25/atropelamento-da-filha-de-diplomatas-em-ipanema.ghtml"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/combate/noticia/2026/05/25/ufc-divulga-novas-imagens-para-evento-na-casa-branca.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-25T16:45:34.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/sc-PjlUKoCgPT159M_lq9t1_NJE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/e/94oqrxSYWwTT3rXBzfkw/atropelamento.jpg"
-      },
-      {
-        "clusterId": "8e0a950a356262ae",
-        "slug": "333ad31fef437692",
-        "titulo": "Jorginho sofre fratura em dedo do pé e desfalcará o Flamengo na Libertadores",
-        "resumo": "Início quente! Andreas dá entrada em Jorginho e jogadores discutem; veja O volante Jorginho, do Flamengo, sofreu uma fratura no dedão do pé direito. O jogador se machucou contra o Palmeiras e passou por exames, na manhã desta segunda-feira, que constataram o problema. Com isso, ele fica fora do jogo da Libertadores contra o Cusco, nesta terça, no Maracanã. + Flamengo tenta assimilar \"derrota pesada\" e mantém confiança no trabalho para o restante do ano Jorge Natan: \"Jogo contra o Palmeiras mostra dois lados do trabalho de Jardim\" Ao informar sobre a fratura, o Flamengo criticou a arbitragem…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/flamengo-confirma-fratura-de-jorginho-clube-critica-arbitragem/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/05/25/jorginho-tem-fratura-confirmada-a-sexta-do-flamengo-em-cinco-meses.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-25T16:37:34.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/j8DObQ_o20y53z827fgv-4koRAY=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Q/E/EbMRHVSfOJ7scCP2RRdw/agif26050317255966.jpg"
-      },
-      {
-        "clusterId": "a3084aed53f09833",
-        "slug": "49c91bc2997e2369",
-        "titulo": "Piraí é punida por ato antidesportivo pela Copa Rio Sul de Futsal",
-        "resumo": "A equipe de Piraí foi punida pela comissão disciplinar da Copa Rio Sul de Futsal por atos antidesportivos cometidos por torcedores no último sábado (23), em partida válida pelas quartas de final da competição, contra Itatiaia. O jogo foi realizado no Centro de Eventos de Piraí. + Jogo épico: Piraí vence Itatiaia na prorrogação e avança à semifinal Piraí x Itatiaia | Copa Rio Sul de Futsal Divulgação/TV Rio Sul Segundo a arbitragem e o delegado da partida: \"aos 49’13” de jogo, uma torcedora arremessou uma tampa de garrafa na direção da equipe de arbitragem, acertando o braço da cronometrista.…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/05/25/video-baleia-jubarte-da-show-em-dia-chuvoso-no-rio.ghtml"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/rj/sul-do-rio-costa-verde/copa-rio-sul-de-futsal/noticia/2026/05/25/paraty-e-punida-por-ato-antidesportivo-pela-copa-rio-sul-de-futsal.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-25T16:08:54.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/RULWBxuHyQ0jNxgimxq_z_UCmN0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/p/ba5t8hQgKpdWAGhWuGNg/25juba0.png"
-      }
-    ],
-    "entretenimento": [
-      {
-        "clusterId": "72e12da3d079cf3c",
+        "clusterId": "ea3209de7e1527b2",
         "slug": "9e760c2360628f05",
         "titulo": "Físiculturista de 22 anos encontrado morto em São Paulo",
         "resumo": "O influenciador fitness Gabriel Ganley, de 22 anos, foi encontrado sem vida em seu apartamento na Zona Leste de São Paulo. Ele havia alertado, sete meses antes, sobre os riscos de anabolizantes, afirmando que poderiam encurtar sua vida em 10 a 15 anos. A morte está sendo investigada como suspeita pelo 42º Distrito Policial, e a perícia identificou medicamentos que podem ser substâncias anabolizantes.",
         "porQueImporta": "O caso destaca os perigos do uso de anabolizantes e a necessidade de atenção à saúde de atletas e influenciadores fitness.",
-        "category": "entretenimento",
+        "category": "esportes",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/sao-paulo/vou-vencer-por-voce-diz-amigo-que-encontrou-gabriel-ganley-morto"
+            "name": "G1",
+            "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/05/25/medica-que-atestou-a-morte-de-idoso-encontrado-vivo-em-funeraria-deve-ser-ouvida-pela-policia-civil-no-interior-de-sp.ghtml"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/brasil/gabriel-ganley-o-que-se-sabe-sobre-a-morte-do-fisiculturista-investigada-pela-policia/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/fisiculturismo/noticia/2026/05/25/gabriel-ganley-se-preparava-para-competicao-nacional-de-fisiculturismo.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-25T20:58:25.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/ja9bMHasZyoac7Irzq73N5L9RSk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/g/IaJwSLSpAh9hsgz7SVYw/g1-2026-05-18t113712.131.png"
+      },
+      {
+        "clusterId": "eacfa88109fa8b15",
+        "slug": "f439fa8084658ab6",
+        "titulo": "Série D: Águia garante vaga antecipada e Tuna segue no G-4 do Grupo A5",
+        "resumo": "Série D: Águia vence na estreia de novo técnico e Tuna sofre empate no fim Os dois times do Pará na Série D de 2026 estão no G-4 do Grupo A5, mas o sentimento da dupla é distinto ao final da 8ª e antepenúltima rodada na primeira fase da competição nacional. Se por um lado, o Águia de Marabá comemora a classificação antecipada, do outro, a Tuna Luso Brasileira lamenta o empate sofrido depois de estar vencendo por dois gols de diferença. 📲 Acesse o canal do ge Pará no WhatsApp No último sábado, dia 23, em Imperatriz, o Águia visitou os donos da casa e levou a melhor na estreia do técnico Luís…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/rn/futebol/brasileirao-serie-d/noticia/2026/05/25/laguna-cede-empate-ao-maguary-nos-acrescimos-e-segue-sem-vencer-na-serie-d.ghtml"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/desabafo-de-gabriel-ganley-viraliza-encurtando-10-anos-de-minha-vida/"
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/botafogo-sp-x-athletic-horario-e-onde-assistir-ao-brasileirao-serie-b/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/pop/sobre-o-que-e-spider-noir-nova-serie-do-prime-video-com-nicolas-cage/"
+          }
+        ],
+        "updatedAt": "2026-05-25T20:25:20.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/TwaNzSrg-D-J1EopJH1AhtrIm1g=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Y/R/vT1U4gTw62xZTSAVJ78Q/laguna2.jpg"
+      },
+      {
+        "clusterId": "56fedc0036dd58ec",
+        "slug": "ec920aba83c94caa",
+        "titulo": "Relacionados: Bahia tem retornos de Caio Alexandre, Ramos Mingo e Kike Olivera",
+        "resumo": "Luciano Juba se machuca e desfalca o Bahia no Campeonato Brasileiro O Bahia relacionou 25 jogadores para enfrentar o Coritiba em jogo das 20h (de Brasília) desta segunda-feira, no Couto Pereira, no encerramento da 17ª rodada do Brasileirão. A principal novidade é o retorno do volante Caio Alexandre, recuperado de lesão muscular na coxa. Siga o ge Bahia nos Canais do WhatsApp Veja quem chega e quem sai do Bahia Caio Alexandre em treino do Bahia Catarina Brandão / EC Bahia O zagueiro Ramos Mingo está de volta depois de cumprir suspensão no empate com o Grêmio. Já o atacante Kike Olivera ficou…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/ba/futebol/times/bahia/noticia/2026/05/25/relacionados-bahia-tem-retornos-de-caio-alexandre-ramos-mingo-e-kike-olivera.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/coritiba-x-bahia-horario-e-onde-assistir-ao-brasileirao/"
+          }
+        ],
+        "updatedAt": "2026-05-25T20:27:33.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/o0WLZ18IOe-avRcMpM5102Vywyg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/U/N/aG8rcuSFuE98WJtowQfA/55287083160-5aa4a755e9-k.jpg"
+      },
+      {
+        "clusterId": "939f837c8cba931c",
+        "slug": "da00c019d653b151",
+        "titulo": "Flamengo diz que não recebeu R$ 6,2 milhões do BRB e reclama de \"estresse sobre fluxo de caixa\"",
+        "resumo": "ge Flamengo debate punição para Carrascal: \"Não tem mais clima\" O Flamengo apresentou defesa na ação popular que pede a suspensão do contrato do Banco de Brasília (BRB) com o clube. Na semana passada, a Justiça do Distrito Federal determinou a suspensão temporária dos pagamentos relativos ao contrato de patrocínio. O Fla alega que a decisão já fez o clube deixar de receber R$ 6,2 milhões do banco referentes ao acordo anterior firmado entre as partes. + Convocado pela Colômbia, Carrascal é multado pelo Flamengo após expulsão contra Palmeiras \"Ocorre que, em razão do deferimento da liminar, o…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/carrascal-do-flamengo-e-multado-por-expulsao-em-derrota-para-o-palmeiras/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/05/25/flamengo-diz-que-nao-recebeu-r-62-milhoes-do-brb-e-reclama-de-estresse-sobre-fluxo-de-caixa.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-25T20:26:44.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/KLHJvH_lW1-hOiagQ4n4p98Vm48=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/q/m/zqZXVBSKGicsHCI9J4XA/55054872780-95b367d0de-k.jpg"
+      },
+      {
+        "clusterId": "a04311b1d96d0069",
+        "slug": "2b0be53ad3e88528",
+        "titulo": "Sorocaba goleia o Panta Walon e encaminha classificação na Libertadores de Futsal",
+        "resumo": "Sorocaba resolve no 1º tempo e estreia com vitória na Libertadores de Futsal O Sorocaba goleou o Panta Walon, do Peru, por 7 a 0, nesta segunda-feira, encaminhando sua classificação à próxima fase da Conmebol Libertadores de Futsal, disputada em Carlos Barbosa. Após duas rodadas, a equipe comandada por Ricardinho tem 100% de aproveitamento e lidera o Grupo B, com seis pontos, enquanto os peruanos, que já haviam perdido do Centauros (VEN) na estreia, seguem zerados. Sorocaba goleou o Panta Walon, do Peru, por 7 a 0 Divulgação Leia também + Sorocaba resolve no 1º tempo e estreia com vitória na…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/05/25/marginal-direita-justica-da-prazo-de-15-dias-para-prefeitura-de-sorocaba-explicar-descumprimento-de-acordo.ghtml"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/sp/tem-esporte/futsal/noticia/2026/05/25/sorocaba-goleia-o-panta-walon-e-encaminha-classificacao-na-libertadores-de-futsal.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-25T20:06:56.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/FBKijYXPrCFhqX8z7KyzylJAF1M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/P/Z/lxSwBMQ3C0HfZuOWHQPg/whatsapp-image-2024-05-23-at-20.55.14.jpeg"
+      },
+      {
+        "clusterId": "68c4071f511975f7",
+        "slug": "7c5d572dd423ea02",
+        "titulo": "Calor e tempo seco marcam a semana no Triângulo e Alto Paranaíba; confira a previsão do tempo",
+        "resumo": "Máximas podem chegar até 34°C na região Fernando Matos/g1 A última semana do mês de maio será marcada pelo calor e tempo seco, entre essa segunda-feira (25) até o domingo (31), no Triângulo Mineiro e Alto Paranaíba. As tardes devem ser quentes, com máximas que podem chegar até 34°C, e as madrugadas devem ser amenas, sem muitas chances de chuva até o próximo fim de semana. De acordo com o professor e geógrafo William Borges, a influência da Alta Subtropical do Atlântico Sul (ASAS) traz o tempo seco e o calor na região, com temperaturas que podem ficar de 1 °C a 3 °C acima da média. ✅ Clique…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/05/25/calor-e-tempo-seco-marcam-a-semana-no-triangulo-e-alto-paranaiba-confira-a-previsao-do-tempo.ghtml"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/pr/futebol/brasileirao-serie-b/jogo/24-05-2026/operario-pr-criciuma.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-25T20:04:09.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/8mIbYN0hMEf6Dm-Bl8jO0l72Hlc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/S/h/ylCb5UTnalCYkUfNPGiQ/uberlandia-fernando.jpg"
+      },
+      {
+        "clusterId": "0b3d053f5933ad4d",
+        "slug": "6a0f6d006afa1ae1",
+        "titulo": "Atacante de time baiano é preso suspeito de agredir companheira com socos e praticar violência psicológica",
+        "resumo": "O jogador Alison Daniel Marques Ribeiro foi preso suspeito de agredir física e psicologicamente a companheira Redes Sociais O jogador Alison Daniel Marques Ribeiro, de 26 anos, foi preso em flagrante suspeito de agredir e praticar violência psicológica contra a companheira. Alison é atleta do Esporte Clube Jacuipense, do município de Riachão do Jacuípe, a 79 km de Feira de Santana. Segundo informações da Polícia Civil (PC), o caso aconteceu no sábado (23), na casa onde o casal morava, no bairro Jardim das Margaridas, em Salvador. Os dois mantinham um relacionamento há cerca de quatro anos e a…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/ba/futebol/times/jacuipense/noticia/2026/05/25/jogador-do-jacuipense-e-preso-em-salvador-por-suspeita-de-violencia-domestica.ghtml"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/05/25/gabriel-ganley-falou-sobre-riscos-de-anabolizantes-sete-meses-antes-de-morrer-encurtando-10-anos-da-minha-vida.ghtml"
+            "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/25/atacante-de-time-baiano-e-preso-suspeito-de-agredir-companheira-com-socos-e-praticar-violencia-psicologica.ghtml"
           }
         ],
-        "updatedAt": "2026-05-25T17:30:49.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/05/gabriel-ganley-uso-de-insulina-no-esporte-gera-alerta.jpg"
+        "updatedAt": "2026-05-25T19:38:50.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/_EQH-5-d0fhvK1GUboVyKHHpqUQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/e/z/9NcnHCT8AcPxKWhXUBmw/alison-widelg.jpg"
+      }
+    ],
+    "entretenimento": [
+      {
+        "clusterId": "aeb191c241956139",
+        "slug": "47a54caa73fb4b03",
+        "titulo": "Anitta faz o show da 'Equilibrium tour' em cinco cidades ao longo de agosto",
+        "resumo": "Anitta estreia o show da 'Equilibrium tour' em 1º de agosto, em Porto Alegre (RS) Divulgação ♫ NOTÍCIA ♬ Álbum mais brasileiro de Anitta, “Equilibrium” (2026) gera show que estreia no Brasil em turnê que, por ora, inclui apresentações somente em cinco cidades do país ao longo dos cinco sábados do mês de agosto. Os locais do shows da “Equilibrium tour” ainda não foram anunciados, mas já se sabe que haverá apresentações em Porto Alegre (RS), São Paulo (SP), Fortaleza (CE), Niterói (RJ) e Salvador (BA) em 1º, 8, 15, 22 e 29 de agosto, respectivamente. A abertura das vendas dos ingressos está…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/05/25/anitta-apresenta-o-show-da-equilibrium-tour-em-agosto-por-cinco-cidades.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-25T18:39:50.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/jvBhyZa5qy4tjOXfK0JugwE6pAo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/u/7d9sDKSwurtuG2CYQrYw/anittatour.jpg"
+      },
+      {
+        "clusterId": "ecb5c372004030e3",
+        "slug": "20c734a7c8d84659",
+        "titulo": "C6 Fest 2026: o que deu certo e o que pode melhorar no festival mais fino do Brasil",
+        "resumo": "The XX foi uma das principais atrações do C6 Fest 2026 Divulgação Desde sua estreia em 2023, o C6 Fest, em São Paulo, se consolidou como um festival de ótimas atrações – não há texto elogioso sobre o evento que não cite a palavra “curadoria”. A essa altura, é o tipo de evento que dá pra comprar de olhos fechados, sabendo que não vão faltar bons shows, desde o jazz no auditório até o rock, indie pop e eletrônica nos palcos externos. Na edição de 2026, que aconteceu entre os dias 21 e 24 de maio, não foi diferente. Entre clássicos como Robert Plant (que se apresentou com a banda Saving Grace e…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/05/25/c6-fest-2026-o-que-deu-certo-e-o-que-pode-melhorar-no-festival-mais-fino-do-brasil.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-25T17:40:57.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/O7BlY4_gFKZZ3f0PgKq8rgszo1o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/G/9AdzAMS8iiBsU2SNAKOQ/captura-de-tela-2026-05-25-140041.png"
+      },
+      {
+        "clusterId": "c04ea1fd1118e1b9",
+        "slug": "cb6e7c21e05ca31b",
+        "titulo": "Nave da nova turnê de Xuxa poderá passar sobre a cabeça do público durante shows: 'vai ser enlouquecedor'",
+        "resumo": "O Último Voo da Nave! A Rainha Xuxa revela os bastidores do novo show e abre seu baú de relíquias A nave da nova turnê de Xuxa Meneghel poderá passar sobre a cabeça do público durante os shows da megaturnê “O Último Voo da Nave”. A informação foi revelada pela apresentadora em entrevista ao Fantástico. A estrutura está sendo construída em Amsterdã e terá o dobro do tamanho da nave original, que marcou gerações de brasileiros nos programas infantis da TV. Segundo Xuxa, a nova versão também contará com um formato em 360 graus para ampliar a interação com o público. “Ela vai fazer esse voo…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/fantastico/noticia/2026/05/25/nave-da-nova-turne-podera-passar-sobre-a-cabeca-do-publico-durante-shows-diz-artista.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-25T15:27:34.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/FoIiRFjsS2nUDTGwI-I9RRoEP_Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/B/AiTRO8Tu2INXEnTY4pMg/globo-canal-5-20260524-2000-frame-282502-1-.jpeg"
       },
       {
         "clusterId": "b514b92eac4d5b08",
@@ -1400,6 +1462,22 @@
         "imageUrl": "https://s2-g1.glbimg.com/vmi5mQKIBjk-b4DgAPmm5gFeifU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/p/ltfKIfSHyzDW4Gbv2xLw/fotos-g1-1920-x-1080-px-65-.png"
       },
       {
+        "clusterId": "55ad3618f2b93a8e",
+        "slug": "9052749505ac3f82",
+        "titulo": "Brasil redescobre e atualiza Michael Jackson com versões em brega funk, 'forró colado' e piseiro",
+        "resumo": "Michael Jackson ganha versões de brega funk e forró após sucesso de cinebiografia O Brasil redescobriu Michael Jackson. Mais de 5 milhões de pessoas no Brasil já assistiram a \"Michael\", cinebiografia que acompanha o Rei do Pop desde sua infância até o começo da vida adulta, ali pelo fim da década de 1980. Nas redes sociais, clássicos como \"Human Nature\" (1983) e \"They Don't Care About Us\" (1996) ganharam versões com roupagens bem brasileiras. As releituras misturam o legado de Gary, em Indiana (cidade nos Estados Unidos onde o cantor nasceu), com o \"molho\" do Nordeste e das periferias…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/05/25/brasil-redescobre-e-atualiza-michael-jackson-com-versoes-em-brega-funk-forro-colado-e-piseiro.ghtml"
+          }
+        ],
+        "updatedAt": "2026-05-25T10:13:57.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/iGMGCbAjxIkUGEwQii1wyej5fgY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/a/wXnjiKTaiCgQTPEDsVtg/design-sem-nome-54-.png"
+      },
+      {
         "clusterId": "c47cb3927b296ab3",
         "slug": "5c772dcf7d96cb83",
         "titulo": "Blusa ao avesso e posts 'atrasados': como equipes de artistas evitam assédio de fãs e vazamentos",
@@ -1414,54 +1492,6 @@
         ],
         "updatedAt": "2026-05-25T07:01:25.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/5E02I4hSa7PmCD7f8NTzRQf_QC8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/c/9/moXPgqSKWih4oimgho3A/shawnmendes-243-copy-3486x2324.jpg"
-      },
-      {
-        "clusterId": "819eea10b21a0f60",
-        "slug": "1e882fe9e03c7525",
-        "titulo": "Nando Reis regrava com Marisa Monte a canção que lançou com Ana Cañas",
-        "resumo": "Marisa Monte e Nando Reis lançam o single 'Pra você guardei o amor' na sexta-feira, 29 de maio Leo Aversa / Divulgação ♫ NOTÍCIA ♬ Nando Reis e Marisa Monte retomam a parceria iniciada há 35 anos quando compuseram juntos as músicas “Ainda lembro”, “Mustapha” e “Tudo pela metade”, as três gravadas por Marisa no segundo álbum da artista, “Mais” (1991), disco no qual a cantora também deu voz a uma canção então inédita de Nando, “Diariamente”. Na próxima sexta-feira, 29 de maio, Nando e Marisa lançam single com regravação de uma das mais belas e apaixonadas canções de Nando Reis, “Pra você…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/05/24/nando-reis-regrava-com-marisa-monte-a-cancao-que-lancou-com-ana-canas.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-24T21:21:56.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/GXQvXFU1-s6p4z2NZaZvMHrTEnE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/G/dD1zpqSFiAafTjmuwd0Q/nandoreisamarisaleoaversa.jpg"
-      },
-      {
-        "clusterId": "159f14b297a6555d",
-        "slug": "93770f7949fe0c80",
-        "titulo": "Vocalista da Scalene sofre queda e recebe oito pontos na cabeça em show em Brasília",
-        "resumo": "Durante a apresentação da banda Scalene no festival Porão do Rock, em Brasília, o vocalista Gustavo Bertoni caiu na última música e foi atendido pela equipe de socorro do evento. Ele foi encaminhado ao hospital, onde recebeu oito pontos na cabeça. A banda divulgou a situação em suas redes sociais na manhã seguinte.",
-        "porQueImporta": "O incidente destaca a importância de medidas de segurança em shows e pode afetar a continuidade das atividades da banda.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/05/24/vocalista-da-banda-scalene-cai-durante-show-em-brasilia.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-24T18:58:38.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/FiT5f3J_m_NfvZu7xAD7icBlFWs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/i/76xmJGSwWXMJdyzQw7BQ/scalene.png"
-      },
-      {
-        "clusterId": "1392e203383b60d9",
-        "slug": "57082f14fe926253",
-        "titulo": "Diplo toca na formatura da pré-escola do filho",
-        "resumo": "O DJ e produtor americano Diplo se apresentou na formatura de pré-escola de seu filho Pace, em um vídeo publicado no sábado (23). Ele comandou as pick-ups em um evento ao ar livre, onde dezenas de crianças e alguns adultos dançaram. Diplo descreveu o show como um dos mais importantes da sua carreira e chamou a festa de “a mais exclusiva do ano”.",
-        "porQueImporta": "Ilustra a participação de um artista internacional em um evento familiar, mostrando sua conexão com a comunidade e a influência cultural.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/05/24/diplo-formatura-escola-filho-video.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-24T18:06:42.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/tsUKNdv534UoAb4GLfkh1MtG660=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/U/wVudFHSDiTAfGZUekgvA/montagens-home.png"
       }
     ]
   }
