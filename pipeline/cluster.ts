@@ -5,7 +5,7 @@
 
 import { createHash } from 'node:crypto';
 import type { Article, ArticleCategory, Cluster } from '../src/lib/types';
-import { CATEGORIES, type Category } from '../src/lib/categories';
+import { CATEGORIES } from '../src/lib/categories';
 
 export const DEFAULT_THRESHOLD = 0.22; // cosseno mínimo p/ juntar (ajustável)
 export const DEFAULT_WINDOW_HOURS = 48;
@@ -67,21 +67,21 @@ function addInto(target: Vec, src: Vec): void {
   for (const [term, w] of src) target.set(term, (target.get(term) ?? 0) + w);
 }
 
-// Categoria dominante: a mais frequente entre as 8; "geral" só vence se for a
-// única presente (assim um cluster com 1 artigo categorizado herda a categoria).
+// Categoria do cluster: a categoria específica que for PLURALIDADE ÚNICA entre
+// os artigos (ex.: 1 economia + N geral → economia, pois economia é a única
+// específica). Se NENHUMA específica aparece, ou se há EMPATE entre específicas
+// distintas (cluster que cruza editorias — ex.: 1 mundo + 1 economia), cai em
+// 'geral': fica só na home, fora das páginas de categoria. Isso evita que uma
+// notícia transversal/ambígua, justamente a que junta mais fontes e pontua alto,
+// apareça como #1 numa editoria à qual não pertence.
 function dominantCategory(articles: Article[]): ArticleCategory {
   const counts = new Map<ArticleCategory, number>();
   for (const a of articles) counts.set(a.category, (counts.get(a.category) ?? 0) + 1);
-  let best: Category | null = null;
-  let bestCount = 0;
-  for (const c of CATEGORIES) {
-    const n = counts.get(c) ?? 0;
-    if (n > bestCount) {
-      bestCount = n;
-      best = c;
-    }
-  }
-  return best ?? 'geral';
+  let max = 0;
+  for (const c of CATEGORIES) max = Math.max(max, counts.get(c) ?? 0);
+  if (max === 0) return 'geral';
+  const leaders = CATEGORIES.filter((c) => (counts.get(c) ?? 0) === max);
+  return leaders.length === 1 ? leaders[0]! : 'geral';
 }
 
 function clusterId(articles: Article[]): string {

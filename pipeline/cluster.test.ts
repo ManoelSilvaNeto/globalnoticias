@@ -41,6 +41,20 @@ describe('clusterArticles', () => {
     expect(solo.articles[0]!.id).toBe('c');
   });
 
+  it('cluster que cruza editorias (empate entre específicas) vira "geral"', () => {
+    // Mesma notícia transversal pega por feeds de editorias diferentes: sem
+    // pluralidade única, não deve ser forçada a uma categoria (cai na home).
+    const articles = [
+      mk('a', 'Tiroteio perto da Casa Branca deixa um morto', 'BBC Brasil', 'mundo'),
+      mk('b', 'Tiroteio perto da Casa Branca deixa um morto', 'InfoMoney', 'economia'),
+      mk('c', 'Tiroteio perto da Casa Branca deixa um morto', 'CNN Brasil', 'geral'),
+    ];
+    const clusters = clusterArticles(articles, { now: NOW });
+    expect(clusters).toHaveLength(1);
+    expect(clusters[0]!.articles).toHaveLength(3);
+    expect(clusters[0]!.category).toBe('geral'); // empate mundo×economia → geral
+  });
+
   it('ignora artigos fora da janela', () => {
     const articles = [
       mk('a', 'Mesmo assunto importante hoje agora', 'G1', 'politica', 1),
