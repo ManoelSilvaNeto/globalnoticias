@@ -43,7 +43,7 @@ const norm = (tok: string): string => slugifyTopic(tok);
 
 // Extrai frases-nome próprias do título (runs de palavras capitalizadas, permitindo
 // conectores em minúsculas no meio). Ex.: "Supremo Tribunal Federal", "Copa do Mundo".
-function candidatesFrom(title: string): string[] {
+export function candidatesFrom(title: string): string[] {
   const tokens = title.split(/\s+/).filter(Boolean);
   const out: string[] = [];
   let run: string[] = [];
@@ -66,7 +66,7 @@ function candidatesFrom(title: string): string[] {
   return out;
 }
 
-function isValidTopic(phrase: string): boolean {
+export function isValidTopic(phrase: string): boolean {
   const significant = phrase.split(/\s+/).filter((w) => !CONNECTORS.has(norm(w)));
   if (significant.length === 0) return false;
   const key = slugifyTopic(phrase);
@@ -80,9 +80,9 @@ function isValidTopic(phrase: string): boolean {
 
 export type Topic = { slug: string; label: string; stories: Story[]; indexable: boolean };
 
-function build(): Topic[] {
+export function buildTopics(stories: Story[]): Topic[] {
   const acc = new Map<string, { label: string; stories: Map<string, Story> }>();
-  for (const story of allStories) {
+  for (const story of stories) {
     const seenInStory = new Set<string>();
     for (const cand of candidatesFrom(story.titulo)) {
       if (!isValidTopic(cand)) continue;
@@ -107,7 +107,7 @@ function build(): Topic[] {
     .sort((a, b) => b.stories.length - a.stories.length);
 }
 
-export const topics: Topic[] = build();
+export const topics: Topic[] = buildTopics(allStories);
 
 const bySlug = new Map(topics.map((t) => [t.slug, t]));
 export const topicBySlug = (slug: string): Topic | undefined => bySlug.get(slug);

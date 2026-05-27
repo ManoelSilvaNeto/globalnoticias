@@ -24,7 +24,7 @@ type SocialState = { updatedAt: string; posted: string[] };
 
 const slugOf = (s: Story): string => s.slug ?? s.clusterId;
 const urlOf = (s: Story): string => `${SITE}/noticia/${slugOf(s)}/`;
-const clip = (s: string, n: number): string => (s.length > n ? `${s.slice(0, n - 1)}…` : s);
+export const clip = (s: string, n: number): string => (s.length > n ? `${s.slice(0, n - 1)}…` : s);
 
 const CATEGORY_TAG: Record<string, string> = {
   politica: 'politica', economia: 'economia', mundo: 'mundo', tecnologia: 'tecnologia',
@@ -32,7 +32,7 @@ const CATEGORY_TAG: Record<string, string> = {
 };
 
 // Hashtags p/ alcançar quem NÃO segue (feeds de hashtag do Bluesky/Mastodon).
-function hashtagsFor(story: Story): string[] {
+export function hashtagsFor(story: Story): string[] {
   const tags = ['noticias', 'brasil'];
   const c = story.category ? CATEGORY_TAG[story.category] : undefined;
   if (c && !tags.includes(c)) tags.push(c);
@@ -41,7 +41,7 @@ function hashtagsFor(story: Story): string[] {
 
 // Facets do Bluesky: marca cada #tag com offset em BYTES (UTF-8) p/ virar hashtag
 // clicável/indexada — sem facet o "#" fica só como texto morto.
-function tagFacets(text: string, tags: string[]): Record<string, unknown>[] {
+export function tagFacets(text: string, tags: string[]): Record<string, unknown>[] {
   const enc = new TextEncoder();
   const facets: Record<string, unknown>[] = [];
   let from = 0;
@@ -187,6 +187,10 @@ async function main(): Promise<void> {
   console.log(`Social: ${fresh.length} história(s) marcada(s) como postadas.`);
 }
 
-main().catch((err) => {
-  console.warn('Social falhou (não crítico):', String(err).slice(0, 140));
-});
+// Auto-execução só quando rodado como script (pelo workflow do GH Actions).
+// Vitest seta NODE_ENV='test', então `import` em testes não dispara IO/network.
+if (process.env.NODE_ENV !== 'test') {
+  main().catch((err) => {
+    console.warn('Social falhou (não crítico):', String(err).slice(0, 140));
+  });
+}
