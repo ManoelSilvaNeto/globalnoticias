@@ -55,6 +55,34 @@ describe('clusterArticles', () => {
     expect(clusters[0]!.category).toBe('geral'); // empate mundo×economia → geral
   });
 
+  it('separa histórias diferentes que compartilham só vocabulário genérico ("Copa do Mundo")', () => {
+    // Caso real reportado na edição 2026-05-27: 4 manchetes que falam de
+    // assuntos distintos do contexto Copa do Mundo colaram num cluster só, e
+    // a IA inventou "ebola" pra reconciliar. Com IDF + gate de entidades, devem
+    // virar clusters separados (≥3).
+    const articles = [
+      mk('a', 'Athletico-PR vai receber dinheiro por convocação para Copa do Mundo', 'GE', 'esportes'),
+      mk('b', 'Quem ganhou mais seguidores depois da Copa do Mundo', 'CNN Brasil', 'entretenimento'),
+      mk('c', 'Palmeiras avança às oitavas da Copa do Mundo', 'UOL', 'esportes'),
+      mk('d', 'FIFA divulga teste físico da bola oficial da Copa do Mundo', 'G1', 'esportes'),
+    ];
+    const clusters = clusterArticles(articles, { now: NOW });
+    expect(clusters.length).toBeGreaterThanOrEqual(3);
+  });
+
+  it('agrupa quando uma entidade rara coincide entre títulos', () => {
+    // Sanidade: o gate de entidades não pode ser estrito demais. Três manchetes
+    // sobre o mesmo evento devem colar mesmo com pequenas variações de redação.
+    const articles = [
+      mk('a', 'Tiroteio perto da Casa Branca deixa um morto e três feridos', 'BBC Brasil', 'mundo'),
+      mk('b', 'Casa Branca confirma tiroteio com um morto na região central', 'CNN Brasil', 'mundo'),
+      mk('c', 'Polícia investiga tiroteio próximo à Casa Branca', 'G1', 'mundo'),
+    ];
+    const clusters = clusterArticles(articles, { now: NOW });
+    expect(clusters).toHaveLength(1);
+    expect(clusters[0]!.articles).toHaveLength(3);
+  });
+
   it('ignora artigos fora da janela', () => {
     const articles = [
       mk('a', 'Mesmo assunto importante hoje agora', 'G1', 'politica', 1),

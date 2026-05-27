@@ -7,9 +7,13 @@ import { createHash } from 'node:crypto';
 import type { Article, ArticleCategory, Cluster } from '../src/lib/types';
 import { CATEGORIES } from '../src/lib/categories';
 
-export const DEFAULT_THRESHOLD = 0.22; // cosseno mínimo p/ juntar (ajustável)
+export const DEFAULT_THRESHOLD = 0.25; // cosseno mínimo p/ juntar (com IDF aplicado)
 export const DEFAULT_WINDOW_HOURS = 48;
 const TITLE_WEIGHT = 3; // título conta mais que a descrição
+
+// Captura runs capitalizados (entidades): nomes próprios, locais, siglas.
+// Usado pelo gate de entidades — exige ≥1 coincidência pra unir.
+const ENTITY_RE = /\b[A-ZÀ-Ý][a-zà-ÿ]+/g;
 
 // Stopwords PT-BR (pronomes, preposições, artigos, verbos auxiliares comuns).
 const STOPWORDS = new Set(
@@ -37,14 +41,43 @@ export function normalizePt(text: string): string[] {
 
 type Vec = Map<string, number>;
 
-function termFreq(article: Article): Vec {
+// IDF suavizado sobre o corpus do run: termos frequentes ("brasil", "ano",
+// "copa") tendem a 0; entidades raras dominam o cosseno. Sem isso, manchetes
+// que compartilham só palavras genéricas colavam num mesmo cluster.
+function computeIdf(corpus: Article[]): Map<string, number> {
+  const N = corpus.length;
+  const df = new Map<string, number>();
+  for (const a of corpus) {
+    const seen = new Set<string>([...normalizePt(a.title), ...normalizePt(a.description)]);
+    for (const t of seen) df.set(t, (df.get(t) ?? 0) + 1);
+  }
+  const idf = new Map<string, number>();
+  for (const [t, d] of df) idf.set(t, Math.log((N + 1) / (d + 1)) + 1);
+  return idf;
+}
+
+function termFreq(article: Article, idf: Map<string, number>): Vec {
   const tf: Vec = new Map();
   const add = (tokens: string[], weight: number) => {
     for (const t of tokens) tf.set(t, (tf.get(t) ?? 0) + weight);
   };
   add(normalizePt(article.title), TITLE_WEIGHT);
   add(normalizePt(article.description), 1);
+  // Pondera por IDF: termos frequentes no corpus quase desaparecem.
+  for (const [t, w] of tf) tf.set(t, w * (idf.get(t) ?? 1));
   return tf;
+}
+
+// Entidades nomeadas do título (palavras com inicial maiúscula). Pula a
+// primeira palavra do título: em PT-BR ela é capitalizada por convenção
+// gramatical, não por ser nome próprio ("Governo anuncia...", "Novo
+// pacote..."), e tratá-la como entidade gera falsos negativos no gate.
+function entitiesOf(article: Article): Set<string> {
+  const idx = article.title.indexOf(' ');
+  const rest = idx === -1 ? '' : article.title.slice(idx + 1);
+  return new Set(
+    Array.from(rest.matchAll(ENTITY_RE)).map((m) => m[0].toLowerCase()),
+  );
 }
 
 function cosine(a: Vec, b: Vec): number {
@@ -89,7 +122,7 @@ function clusterId(articles: Article[]): string {
   return createHash('sha1').update(ids.join('|')).digest('hex').slice(0, 16);
 }
 
-type Group = { sum: Vec; vecs: Vec[]; members: Article[] };
+type Group = { sum: Vec; vecs: Vec[]; members: Article[]; entities: Set<string> };
 
 export type ClusterOptions = {
   threshold?: number;
@@ -112,13 +145,24 @@ export function clusterArticles(articles: Article[], opts: ClusterOptions = {}):
     })
     .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
 
+  const idf = computeIdf(recent);
   const groups: Group[] = [];
   for (const article of recent) {
-    const vec = termFreq(article);
+    const vec = termFreq(article, idf);
     if (vec.size === 0) continue;
+    const ents = entitiesOf(article);
     let best: Group | null = null;
     let bestSim = threshold;
     for (const g of groups) {
+      // Gate: se ambos têm entidades, exige ≥1 em comum. Evita unir histórias
+      // diferentes que compartilham só vocabulário genérico (ex.: "Copa do Mundo").
+      // Quando um dos lados não tem entidade no título, deixa passar — caso raro,
+      // não vale travar.
+      if (ents.size > 0 && g.entities.size > 0) {
+        let overlap = false;
+        for (const e of ents) if (g.entities.has(e)) { overlap = true; break; }
+        if (!overlap) continue;
+      }
       const sim = cosine(vec, g.sum);
       if (sim >= bestSim) {
         bestSim = sim;
@@ -129,8 +173,9 @@ export function clusterArticles(articles: Article[], opts: ClusterOptions = {}):
       best.members.push(article);
       best.vecs.push(vec);
       addInto(best.sum, vec);
+      for (const e of ents) best.entities.add(e);
     } else {
-      groups.push({ sum: new Map(vec), vecs: [vec], members: [article] });
+      groups.push({ sum: new Map(vec), vecs: [vec], members: [article], entities: new Set(ents) });
     }
   }
 
