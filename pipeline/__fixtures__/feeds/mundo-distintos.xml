@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Mundo Fixture</title>
+    <link>https://fixtures.test/mundo</link>
+    <description>Fixture com dois itens distintos que compartilham vocabulário genérico</description>
+    <item>
+      <title>Trump anuncia novas tarifas para produtos importados da China</title>
+      <link>https://fixtures.test/mundo/trump-tarifas-china-importados</link>
+      <description>O governo Trump anunciou um aumento de tarifas sobre eletrônicos e aço importados da China, escalando a disputa comercial.</description>
+      <pubDate>Wed, 27 May 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pequim celebra Festival da Lua com tradicional desfile cultural na China</title>
+      <link>https://fixtures.test/mundo/pequim-festival-lua-desfile</link>
+      <description>Milhares de pessoas se reuniram em Pequim para o tradicional Festival da Lua, com desfile cultural e queima de fogos.</description>
+      <pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

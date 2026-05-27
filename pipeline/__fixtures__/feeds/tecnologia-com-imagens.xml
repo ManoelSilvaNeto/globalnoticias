@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tecnologia Fixture</title>
+    <link>https://fixtures.test/tecnologia</link>
+    <description>Fixture com diferentes formatos de imagem</description>
+    <item>
+      <title>Startup brasileira lança chip de IA com desempenho recorde</title>
+      <link>https://fixtures.test/tecnologia/startup-chip-ia-recorde</link>
+      <description>Empresa anuncia novo chip dedicado a inteligência artificial com desempenho superior ao mercado.</description>
+      <pubDate>Wed, 27 May 2026 11:00:00 GMT</pubDate>
+      <media:content url="https://fixtures.test/img/chip.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Nova versão do sistema operacional traz melhorias de segurança</title>
+      <link>https://fixtures.test/tecnologia/sistema-operacional-seguranca</link>
+      <description>Atualização inclui correções críticas de segurança e otimizações de desempenho.</description>
+      <pubDate>Wed, 27 May 2026 10:30:00 GMT</pubDate>
+      <enclosure url="https://fixtures.test/img/so.png" type="image/png"/>
+    </item>
+  </channel>
+</rss>
