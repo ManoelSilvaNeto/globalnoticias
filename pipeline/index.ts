@@ -44,7 +44,7 @@ async function main(): Promise<void> {
   const summarizer = summarizerFromEnv();
   const { summaries, cache, stats } = await summarizeClusters(toSummarize, summarizer, state.summaries, now);
   console.log(
-    `resumos: cache=${stats.fromCache} IA=${stats.generated} reuso=${stats.staleCache} fallback=${stats.fallback}`,
+    `resumos: cache=${stats.fromCache} IA=${stats.generated} reuso=${stats.staleCache} fallback=${stats.fallback} rejeitados=${stats.hallucinationRejected}`,
   );
 
   // 5. montagem

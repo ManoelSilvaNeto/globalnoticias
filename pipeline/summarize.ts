@@ -12,6 +12,9 @@ import { normalizeUrl } from './url';
 // ── Interface trocável (plano B: Gemini, Claude Haiku, etc.) ──────────────────
 export type SummarizeInput = {
   artigos: { source: string; title: string; description: string }[];
+  // Instrução extra opcional: usada no retry pós-validação pra avisar a IA
+  // sobre entidades inventadas que ela precisa remover.
+  hint?: string;
 };
 
 export interface Summarizer {
@@ -62,6 +65,43 @@ function sanitize(s: Summary): Summary {
   return { titulo, resumo, porQueImporta: (s.porQueImporta ?? '').trim() };
 }
 
+// Entidades capitalizadas no título do resumo. Pula a primeira palavra
+// (capitalizada por convenção gramatical em PT-BR), filtra ≥4 chars
+// (descarta siglas/ruído).
+const TITLE_ENTITY_RE = /\b[A-ZÀ-Ý][a-zà-ÿ]+/g;
+function entitiesInTitle(title: string): string[] {
+  const idx = title.indexOf(' ');
+  const rest = idx === -1 ? '' : title.slice(idx + 1);
+  return Array.from(
+    new Set(
+      Array.from(rest.matchAll(TITLE_ENTITY_RE))
+        .map((m) => m[0])
+        .filter((w) => w.length >= 4),
+    ),
+  );
+}
+
+function normalizeForMatch(s: string): string {
+  return s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+}
+
+// Valida que cada entidade nomeada do título do resumo aparece em pelo menos
+// uma das fontes. Match case-insensitive e tolerante a acento. Substring basta
+// (a fonte pode usar a forma estendida — "Jair Bolsonaro" cobre "Bolsonaro").
+// Sem entidades → válido (não há o que verificar).
+export function validateSummary(
+  summary: Summary,
+  input: SummarizeInput,
+): { ok: true } | { ok: false; missing: string[] } {
+  const entities = entitiesInTitle(summary.titulo ?? '');
+  if (entities.length === 0) return { ok: true };
+  const corpus = normalizeForMatch(
+    input.artigos.map((a) => `${a.title} ${a.description}`).join(' '),
+  );
+  const missing = entities.filter((e) => !corpus.includes(normalizeForMatch(e)));
+  return missing.length === 0 ? { ok: true } : { ok: false, missing };
+}
+
 // ── Cliente Groq (API compatível com OpenAI) ─────────────────────────────────
 const SYSTEM_INSTRUCTION = [
   'Você é um editor de notícias que escreve resumos factuais e neutros em português do Brasil.',
@@ -77,11 +117,14 @@ function buildPrompt(input: SummarizeInput): string {
   const fontes = input.artigos
     .map((a, i) => `[${i + 1}] (${a.source}) ${a.title}\n${a.description}`)
     .join('\n\n');
-  return [
+  const lines = [
     'A mesma notícia foi coberta pelas fontes abaixo. Produza UM resumo consolidado.',
     '',
     fontes,
     '',
+  ];
+  if (input.hint) lines.push(input.hint, '');
+  lines.push(
     'Responda em JSON com:',
     '- "titulo": manchete limpa e neutra (sem ponto final);',
     '- "resumo": 2 a 4 frases originais sintetizando o fato;',
@@ -89,7 +132,8 @@ function buildPrompt(input: SummarizeInput): string {
     '',
     'Responda APENAS com um único objeto JSON válido (as 3 chaves acima), sem nenhum',
     'texto antes ou depois e sem blocos de código markdown.',
-  ].join('\n');
+  );
+  return lines.join('\n');
 }
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
@@ -234,6 +278,7 @@ export type SummarizeStats = {
   generated: number; // resumo novo gerado pela IA neste run
   staleCache: number; // IA fora → reusou resumo de IA antigo (TTL vencido) em vez de RSS
   fallback: number; // sem IA e sem cache → descrição crua do RSS
+  hallucinationRejected: number; // resumo da IA rejeitado pelo validador (1 por cluster afetado)
 };
 
 export type SummarizeResult = {
@@ -263,7 +308,13 @@ export async function summarizeClusters(
 ): Promise<SummarizeResult> {
   const summaries = new Map<string, Summary>();
   const nextCache: Record<string, CachedSummary> = { ...cache };
-  const stats: SummarizeStats = { fromCache: 0, generated: 0, staleCache: 0, fallback: 0 };
+  const stats: SummarizeStats = {
+    fromCache: 0,
+    generated: 0,
+    staleCache: 0,
+    fallback: 0,
+    hallucinationRejected: 0,
+  };
 
   let iaCalls = 0;
   let quotaFails = 0;
@@ -283,16 +334,39 @@ export async function summarizeClusters(
 
     // Sem cache fresco: tenta a IA (refresca o resumo vencido ou cria um novo).
     if (summarizer && !breakerOpen) {
+      const baseInput = toInput(cluster);
       if (iaCalls > 0 && throttleMs > 0) await sleep(throttleMs);
       iaCalls++;
+      let summary: Summary | null = null;
+      let aiError: unknown = null;
       try {
-        const summary = sanitize(await summarizer.summarize(toInput(cluster)));
-        summaries.set(cluster.id, summary);
-        nextCache[key] = { ...summary, cachedAt: now.toISOString() };
-        stats.generated++;
-        quotaFails = 0;
-        continue;
+        const first = sanitize(await summarizer.summarize(baseInput));
+        const v1 = validateSummary(first, baseInput);
+        if (v1.ok) {
+          summary = first;
+        } else {
+          // Validador rejeitou: a IA usou entidades que não aparecem nas fontes.
+          // Tenta uma vez mais avisando o que sair. Se ainda falhar (ou erro de
+          // rede no retry), cai pro fluxo de fallback abaixo.
+          stats.hallucinationRejected++;
+          console.warn(
+            `  validador rejeitou (${cluster.id}): entidades fora das fontes: ${v1.missing.join(', ')} — retry`,
+          );
+          if (throttleMs > 0) await sleep(throttleMs);
+          iaCalls++;
+          const hint = `ATENÇÃO: na sua tentativa anterior, você usou estas entidades que NÃO aparecem nas fontes: ${v1.missing.join(', ')}. Reescreva título e resumo SEM usá-las, mantendo a fidelidade ao conteúdo das fontes.`;
+          const second = sanitize(await summarizer.summarize({ ...baseInput, hint }));
+          const v2 = validateSummary(second, baseInput);
+          if (v2.ok) {
+            summary = second;
+          } else {
+            console.warn(
+              `  validador rejeitou retry (${cluster.id}): ${v2.missing.join(', ')} — fallback`,
+            );
+          }
+        }
       } catch (err) {
+        aiError = err;
         if (isQuotaError(err)) {
           quotaFails++;
           if (quotaFails >= QUOTA_BREAKER) {
@@ -301,6 +375,21 @@ export async function summarizeClusters(
           }
         }
         console.warn(`  resumo IA falhou (${cluster.id}): ${String(err).slice(0, 100)} — fallback`);
+      }
+      if (summary) {
+        summaries.set(cluster.id, summary);
+        nextCache[key] = { ...summary, cachedAt: now.toISOString() };
+        stats.generated++;
+        quotaFails = 0;
+        continue;
+      }
+      // Se chegou aqui sem summary E sem aiError, foi rejeição-em-dobro do
+      // validador: cai diretamente pro fallback (não tenta `cached` antigo —
+      // o que está cacheado pode ser o mesmo alucinado).
+      if (!aiError) {
+        summaries.set(cluster.id, fallbackSummary(cluster));
+        stats.fallback++;
+        continue;
       }
     }
 

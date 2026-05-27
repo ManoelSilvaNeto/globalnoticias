@@ -1,5 +1,5 @@
 import { describe, it, expect, vi } from 'vitest';
-import { cacheKey, fallbackSummary, summarizeClusters, type Summarizer } from './summarize';
+import { cacheKey, fallbackSummary, summarizeClusters, validateSummary, type Summarizer, type SummarizeInput } from './summarize';
 import type { Article, Cluster, CachedSummary, Summary } from '../src/lib/types';
 
 function article(url: string, source: string, title = 'Título', description = 'Descrição longa do artigo.'): Article {
@@ -41,6 +41,47 @@ describe('cacheKey', () => {
     const a = cacheKey(cluster('x', [article('https://a.com/1', 'G1')]));
     const b = cacheKey(cluster('y', [article('https://z.com/9', 'CNN Brasil')]));
     expect(a).not.toBe(b);
+  });
+});
+
+describe('validateSummary', () => {
+  const mkInput = (texts: string[]): SummarizeInput => ({
+    artigos: texts.map((t, i) => ({ source: `S${i}`, title: t, description: t })),
+  });
+
+  it('aceita quando todas as entidades do título aparecem nas fontes', () => {
+    const s: Summary = { titulo: 'Lula apresenta pacote contra inflação', resumo: 'x', porQueImporta: 'y' };
+    const inp = mkInput(['Lula anuncia novo pacote econômico para conter a inflação']);
+    expect(validateSummary(s, inp)).toEqual({ ok: true });
+  });
+
+  it('rejeita entidade que não aparece em nenhuma fonte', () => {
+    // Alucinação típica: entidade aparece no meio do título (fora da posição-1,
+    // onde maiúscula seria convenção gramatical).
+    const s: Summary = { titulo: 'Pacote de Lula é criticado por Bolsonaro', resumo: 'x', porQueImporta: 'y' };
+    const inp = mkInput(['Lula anuncia novo pacote econômico para conter a inflação']);
+    const res = validateSummary(s, inp);
+    expect(res.ok).toBe(false);
+    if (!res.ok) expect(res.missing).toContain('Bolsonaro');
+  });
+
+  it('ignora a primeira palavra do título (capitalizada por convenção)', () => {
+    // "Governo" capitalizada só porque é início de frase, não como entidade nomeada.
+    const s: Summary = { titulo: 'Governo anuncia pacote', resumo: 'x', porQueImporta: 'y' };
+    const inp = mkInput(['Equipe econômica anunciou novo pacote']);
+    expect(validateSummary(s, inp)).toEqual({ ok: true });
+  });
+
+  it('é tolerante a acento e maiúscula/minúscula', () => {
+    const s: Summary = { titulo: 'Pacote contra Inflação anunciado', resumo: 'x', porQueImporta: 'y' };
+    const inp = mkInput(['equipe anuncia pacote contra inflacao']); // sem acento na fonte
+    expect(validateSummary(s, inp)).toEqual({ ok: true });
+  });
+
+  it('aceita títulos sem entidades capitalizadas (nada a verificar)', () => {
+    const s: Summary = { titulo: 'pacote contra inflação anunciado', resumo: 'x', porQueImporta: 'y' };
+    const inp = mkInput(['algum texto']);
+    expect(validateSummary(s, inp)).toEqual({ ok: true });
   });
 });
 
@@ -99,6 +140,44 @@ describe('summarizeClusters', () => {
     const c = cluster('c1', [article('https://a.com/1', 'G1')]);
     const { stats } = await summarizeClusters([c], null, {}, NOW);
     expect(stats.fallback).toBe(1);
+  });
+
+  it('rejeita resumo com entidade inventada, regera 1x e cai pro fallback se persistir', async () => {
+    // Cluster fala de Lula e inflação. Modelo "alucinador" insiste em colocar
+    // "Bolsonaro" no título, que não aparece em nenhuma fonte.
+    const c = cluster('c1', [
+      article('https://a.com/1', 'G1', 'Lula anuncia pacote contra inflação', 'O presidente Lula anunciou hoje medidas para conter a inflação.'),
+      article('https://b.com/2', 'CNN Brasil', 'Pacote do governo Lula mira inflação de alimentos', 'Lula apresentou novo plano econômico.'),
+    ]);
+    const hallucinated: Summary = { titulo: 'Pacote de Lula reativa rivalidade com Bolsonaro', resumo: 'Frase.', porQueImporta: 'Importa.' };
+    const summarizer: Summarizer = { summarize: vi.fn().mockResolvedValue(hallucinated) };
+
+    const { summaries, cache, stats } = await summarizeClusters([c], summarizer, {}, NOW, 0);
+
+    expect(summarizer.summarize).toHaveBeenCalledTimes(2); // primeira + 1 retry
+    expect(stats.hallucinationRejected).toBe(1);
+    expect(stats.fallback).toBe(1);
+    expect(stats.generated).toBe(0);
+    expect(summaries.get('c1')).toEqual(fallbackSummary(c));
+    expect(cache).toEqual({}); // alucinação não vai pro cache
+  });
+
+  it('aceita resumo do retry quando ele remove a entidade inventada', async () => {
+    const c = cluster('c1', [
+      article('https://a.com/1', 'G1', 'Lula anuncia pacote contra inflação', 'Lula apresentou medidas.'),
+    ]);
+    const bad: Summary = { titulo: 'Pacote enfrenta crítica de Bolsonaro', resumo: 'X.', porQueImporta: 'Y.' };
+    const good: Summary = { titulo: 'Lula apresenta pacote contra inflação', resumo: 'X.', porQueImporta: 'Y.' };
+    const summarizer: Summarizer = { summarize: vi.fn().mockResolvedValueOnce(bad).mockResolvedValueOnce(good) };
+
+    const { summaries, cache, stats } = await summarizeClusters([c], summarizer, {}, NOW, 0);
+
+    expect(summarizer.summarize).toHaveBeenCalledTimes(2);
+    expect(stats.hallucinationRejected).toBe(1);
+    expect(stats.generated).toBe(1);
+    expect(stats.fallback).toBe(0);
+    expect(summaries.get('c1')).toEqual(good);
+    expect(cache[cacheKey(c)]).toEqual({ ...good, cachedAt: NOW.toISOString() });
   });
 
   it('abre o disjuntor após 429 seguidos e para de chamar a IA', async () => {
