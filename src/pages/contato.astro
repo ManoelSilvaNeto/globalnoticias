@@ -1,0 +1,67 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { SITE } from '../lib/site';
+
+const title = 'Contato';
+const description = `Como falar com a equipe do ${SITE.name}: dúvidas, sugestões, parcerias, solicitações de veículos.`;
+const EMAIL = 'contato@globalnote.com.br';
+---
+
+<Layout title={title} description={description}>
+  <article>
+    <h1 class="font-serif text-3xl font-bold tracking-tight">Contato</h1>
+    <p class="mt-2 text-neutral-600 dark:text-neutral-400">
+      Estamos abertos a sugestões, correções, denúncias e parcerias. Respondemos em até 48h úteis.
+    </p>
+
+    <section class="mt-8 rounded-lg border border-neutral-200 bg-neutral-50 p-6 dark:border-neutral-800 dark:bg-neutral-900">
+      <p class="text-sm uppercase tracking-wide text-neutral-500">E-mail</p>
+      <p class="mt-1 font-serif text-xl">
+        <a href={`mailto:${EMAIL}`} class="text-sky-700 hover:underline dark:text-sky-400">{EMAIL}</a>
+      </p>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">Sobre o que escrever</h2>
+      <ul class="mt-2 list-disc space-y-2 pl-6 text-neutral-700 dark:text-neutral-300">
+        <li>
+          <strong>Veículos de imprensa</strong> — solicitações de remoção de matéria, ajuste de crédito,
+          dúvidas sobre uso de feed RSS, propostas de parceria.
+        </li>
+        <li>
+          <strong>Leitores</strong> — sugestões de fontes, correções de fato, dúvidas sobre como funcionamos.
+        </li>
+        <li>
+          <strong>Anunciantes</strong> — interesse em espaços publicitários (atualmente operamos via
+          Google AdSense; quando aprovado, vamos abrir canal direto também).
+        </li>
+        <li>
+          <strong>Imprensa</strong> — perguntas sobre o projeto, entrevistas, materiais editoriais.
+        </li>
+        <li>
+          <strong>Proteção de dados (LGPD)</strong> — exercício de direitos sobre dados pessoais
+          (acesso, correção, exclusão). Detalhes na
+          <a href="/privacidade" class="text-sky-700 hover:underline dark:text-sky-400">Política de Privacidade</a>.
+        </li>
+      </ul>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">Para denúncia de uso indevido (DMCA / direitos autorais)</h2>
+      <p class="mt-2 text-neutral-700 dark:text-neutral-300">
+        Se você é detentor de direitos sobre uma matéria indexada e quer solicitar a remoção, envie
+        para <a href={`mailto:${EMAIL}`} class="text-sky-700 hover:underline dark:text-sky-400">{EMAIL}</a>
+        com: link da página no {SITE.name}, link da matéria original e a base legal/identificação do
+        detentor de direitos. Avaliamos e respondemos em até 48h úteis.
+      </p>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">Identificação</h2>
+      <p class="mt-2 text-neutral-700 dark:text-neutral-300">
+        <strong>{SITE.name}</strong> — projeto independente de curadoria automática de notícias,
+        operado a partir do Brasil. Site: <a href="/" class="text-sky-700 hover:underline dark:text-sky-400">noticias.globalnote.com.br</a>.
+      </p>
+    </section>
+  </article>
+</Layout>

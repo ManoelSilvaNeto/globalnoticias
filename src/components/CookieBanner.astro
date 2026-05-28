@@ -1,0 +1,77 @@
+---
+// Banner de consentimento de cookies — LGPD-friendly.
+// Mostra na 1ª visita; salva escolha em localStorage para não reaparecer.
+// Hoje o site não usa cookies não-essenciais (analytics é Cloudflare sem cookie),
+// mas o banner já está pronto pra quando o AdSense for ativado:
+// - "Aceitar tudo"     → localStorage gn-consent = 'all'
+// - "Apenas essenciais" → localStorage gn-consent = 'essential'
+// Outras partes do site (ex.: snippet do AdSense) podem ler essa flag e adaptar.
+---
+
+<div
+  id="cookie-banner"
+  role="dialog"
+  aria-labelledby="cookie-banner-title"
+  aria-describedby="cookie-banner-desc"
+  hidden
+  class="fixed inset-x-0 bottom-0 z-50 border-t border-neutral-200 bg-white/95 px-4 py-4 shadow-lg backdrop-blur dark:border-neutral-800 dark:bg-neutral-950/95"
+>
+  <div class="mx-auto flex max-w-3xl flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+    <div class="min-w-0 flex-1 text-sm text-neutral-700 dark:text-neutral-300">
+      <p id="cookie-banner-title" class="font-semibold text-neutral-900 dark:text-neutral-100">
+        Cookies e privacidade
+      </p>
+      <p id="cookie-banner-desc" class="mt-1">
+        Usamos cookies essenciais para o site funcionar. Com seu consentimento, também usamos cookies
+        para exibir anúncios mais relevantes. Saiba mais na
+        <a href="/privacidade" class="text-sky-700 underline hover:no-underline dark:text-sky-400">Política de Privacidade</a>.
+      </p>
+    </div>
+    <div class="flex shrink-0 gap-2">
+      <button
+        type="button"
+        data-consent="essential"
+        class="rounded-md border border-neutral-300 bg-white px-3 py-1.5 text-sm text-neutral-700 hover:bg-neutral-100 dark:border-neutral-700 dark:bg-neutral-900 dark:text-neutral-200 dark:hover:bg-neutral-800"
+      >
+        Apenas essenciais
+      </button>
+      <button
+        type="button"
+        data-consent="all"
+        class="rounded-md bg-sky-600 px-3 py-1.5 text-sm font-medium text-white hover:bg-sky-700"
+      >
+        Aceitar tudo
+      </button>
+    </div>
+  </div>
+</div>
+
+<script is:inline>
+  (() => {
+    const KEY = 'gn-consent';
+    const banner = document.getElementById('cookie-banner');
+    if (!banner) return;
+    let stored = null;
+    try {
+      stored = localStorage.getItem(KEY);
+    } catch (_) {
+      /* sem acesso a localStorage (ex.: modo restrito) — não mostramos o banner */
+      return;
+    }
+    if (!stored) banner.hidden = false;
+
+    banner.addEventListener('click', (event) => {
+      const target = event.target instanceof Element ? event.target.closest('[data-consent]') : null;
+      if (!target) return;
+      const choice = target.getAttribute('data-consent');
+      try {
+        localStorage.setItem(KEY, choice ?? 'essential');
+      } catch (_) {
+        /* silencioso */
+      }
+      banner.hidden = true;
+      // Dispara um evento global pra quem quiser reagir (ex.: carregar script do AdSense).
+      window.dispatchEvent(new CustomEvent('gn:consent', { detail: { value: choice } }));
+    });
+  })();
+</script>

@@ -1,0 +1,201 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { SITE } from '../lib/site';
+
+const title = 'Política de Privacidade';
+const description = `Como o ${SITE.name} trata dados pessoais, em conformidade com a LGPD.`;
+const EMAIL = 'contato@globalnote.com.br';
+const LAST_UPDATE = '27 de maio de 2026';
+---
+
+<Layout title={title} description={description}>
+  <article>
+    <h1 class="font-serif text-3xl font-bold tracking-tight">Política de Privacidade</h1>
+    <p class="mt-2 text-sm text-neutral-500">Última atualização: {LAST_UPDATE}</p>
+
+    <section class="mt-8 space-y-4 text-neutral-700 dark:text-neutral-300">
+      <p>
+        Esta Política descreve como o <strong>{SITE.name}</strong> trata dados pessoais coletados em
+        <a href="/" class="text-sky-700 hover:underline dark:text-sky-400">noticias.globalnote.com.br</a>,
+        em conformidade com a Lei Geral de Proteção de Dados Pessoais — Lei nº 13.709/2018 (LGPD).
+      </p>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">1. Controlador</h2>
+      <p class="mt-2 text-neutral-700 dark:text-neutral-300">
+        Para os efeitos da LGPD, o controlador dos dados pessoais tratados no {SITE.name} é o próprio
+        projeto editorial <strong>{SITE.name}</strong>, contato:
+        <a href={`mailto:${EMAIL}`} class="text-sky-700 hover:underline dark:text-sky-400">{EMAIL}</a>.
+      </p>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">2. Que dados coletamos</h2>
+      <p class="mt-2 text-neutral-700 dark:text-neutral-300">
+        O {SITE.name} é um site público de leitura. Não exigimos cadastro nem login. Os dados tratados
+        são limitados ao essencial para operar o serviço:
+      </p>
+      <ul class="mt-2 list-disc space-y-2 pl-6 text-neutral-700 dark:text-neutral-300">
+        <li>
+          <strong>Dados de acesso</strong> — endereço IP, agente de usuário (navegador/sistema), data e
+          hora da visita, página acessada. Coletados automaticamente pelo nosso provedor de hospedagem
+          (Cloudflare) para fins de segurança, prevenção a fraude e estatísticas agregadas.
+        </li>
+        <li>
+          <strong>Métricas de uso</strong> — coletadas via Cloudflare Web Analytics, sem cookies e sem
+          dados pessoais identificáveis. Servem para entender páginas mais visitadas e melhorar o site.
+        </li>
+        <li>
+          <strong>E-mail</strong> — só quando você se inscreve voluntariamente na nossa newsletter (via
+          Buttondown). Você pode cancelar a qualquer momento pelo link no rodapé de cada e-mail.
+        </li>
+        <li>
+          <strong>Preferência de tema (claro/escuro)</strong> — armazenada localmente no seu navegador
+          (localStorage). Não sai do seu dispositivo.
+        </li>
+        <li>
+          <strong>Dados de publicidade</strong> — quando os anúncios do Google AdSense estiverem ativos,
+          o Google poderá usar cookies e identificadores para exibir anúncios personalizados, conforme
+          sua escolha de consentimento (ver seção 5).
+        </li>
+      </ul>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">3. Para que usamos</h2>
+      <ul class="mt-2 list-disc space-y-2 pl-6 text-neutral-700 dark:text-neutral-300">
+        <li>Operar e proteger o site (servir páginas, prevenir abuso e bots).</li>
+        <li>Medir audiência de forma agregada e melhorar o que publicamos.</li>
+        <li>Enviar a newsletter, quando você optar por recebê-la.</li>
+        <li>Exibir publicidade contextual ou personalizada, conforme seu consentimento.</li>
+      </ul>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">4. Bases legais</h2>
+      <p class="mt-2 text-neutral-700 dark:text-neutral-300">
+        O tratamento se apoia nas seguintes hipóteses do art. 7º da LGPD:
+        <strong>legítimo interesse</strong> (segurança e métricas agregadas);
+        <strong>consentimento</strong> (newsletter, cookies de publicidade);
+        <strong>cumprimento de obrigação legal</strong> (registros de acesso, quando solicitados).
+      </p>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">5. Cookies e tecnologias semelhantes</h2>
+      <p class="mt-2 text-neutral-700 dark:text-neutral-300">
+        Classificamos cookies em três categorias:
+      </p>
+      <ul class="mt-2 list-disc space-y-2 pl-6 text-neutral-700 dark:text-neutral-300">
+        <li>
+          <strong>Essenciais</strong> — necessários para o site funcionar (ex.: prevenção a bots pelo
+          Cloudflare). Não exigem consentimento.
+        </li>
+        <li>
+          <strong>Funcionais</strong> — guardam preferências do usuário (tema claro/escuro). Usam
+          armazenamento local do navegador, não cookies. Não exigem consentimento.
+        </li>
+        <li>
+          <strong>Publicitários</strong> — usados pelo Google AdSense para exibir anúncios mais
+          relevantes. Só são ativados se você consentir no banner exibido na primeira visita. Você pode
+          revogar o consentimento a qualquer momento limpando os dados do site no seu navegador.
+        </li>
+      </ul>
+      <p class="mt-3 text-neutral-700 dark:text-neutral-300">
+        Para detalhes sobre como o Google usa esses dados, consulte a
+        <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener noreferrer" class="text-sky-700 hover:underline dark:text-sky-400">política de privacidade do Google para parceiros</a>.
+      </p>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">6. Com quem compartilhamos</h2>
+      <p class="mt-2 text-neutral-700 dark:text-neutral-300">
+        Não vendemos seus dados. Usamos os seguintes operadores, com finalidade e finalidade limitada:
+      </p>
+      <ul class="mt-2 list-disc space-y-2 pl-6 text-neutral-700 dark:text-neutral-300">
+        <li>
+          <strong>Cloudflare, Inc.</strong> — hospedagem (Cloudflare Pages) e analytics sem cookies.
+          Pode tratar dados nos Estados Unidos.
+        </li>
+        <li>
+          <strong>Google LLC</strong> — quando o Google AdSense estiver ativo, exibirá anúncios e
+          poderá tratar dados para personalização e medição. Pode tratar dados nos Estados Unidos.
+        </li>
+        <li>
+          <strong>Buttondown</strong> — provedor da newsletter, caso você se inscreva. Trata e-mail
+          e dados de engajamento nos Estados Unidos.
+        </li>
+      </ul>
+      <p class="mt-3 text-neutral-700 dark:text-neutral-300">
+        Transferências internacionais seguem o art. 33 da LGPD: nesses casos, exigimos que o operador
+        adote garantias de proteção compatíveis com a legislação brasileira.
+      </p>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">7. Retenção</h2>
+      <p class="mt-2 text-neutral-700 dark:text-neutral-300">
+        Logs de acesso são retidos por até 6 meses para fins de segurança. Métricas agregadas não têm
+        prazo definido (não identificam pessoa). E-mails da newsletter são mantidos enquanto você
+        estiver inscrito.
+      </p>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">8. Seus direitos (LGPD)</h2>
+      <p class="mt-2 text-neutral-700 dark:text-neutral-300">
+        Você pode, a qualquer momento, solicitar:
+      </p>
+      <ul class="mt-2 list-disc space-y-2 pl-6 text-neutral-700 dark:text-neutral-300">
+        <li>confirmação da existência de tratamento;</li>
+        <li>acesso aos dados;</li>
+        <li>correção de dados incompletos, inexatos ou desatualizados;</li>
+        <li>anonimização, bloqueio ou eliminação de dados desnecessários ou tratados em desconformidade;</li>
+        <li>portabilidade dos dados;</li>
+        <li>eliminação dos dados tratados com base no consentimento;</li>
+        <li>informação sobre entidades públicas e privadas com as quais houve uso compartilhado;</li>
+        <li>revogação do consentimento.</li>
+      </ul>
+      <p class="mt-3 text-neutral-700 dark:text-neutral-300">
+        Para exercer qualquer um desses direitos, escreva para
+        <a href={`mailto:${EMAIL}`} class="text-sky-700 hover:underline dark:text-sky-400">{EMAIL}</a>.
+        Atendemos em até 15 dias.
+      </p>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">9. Crianças e adolescentes</h2>
+      <p class="mt-2 text-neutral-700 dark:text-neutral-300">
+        O {SITE.name} não é direcionado a menores de 13 anos. Não coletamos intencionalmente dados de
+        crianças. Se você é responsável e identificou coleta indevida, fale conosco para que possamos
+        excluir os dados.
+      </p>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">10. Segurança</h2>
+      <p class="mt-2 text-neutral-700 dark:text-neutral-300">
+        Adotamos medidas técnicas e organizacionais razoáveis para proteger dados contra acesso não
+        autorizado, perda ou alteração: tráfego sob HTTPS, hospedagem em provedor com proteção a
+        ataques (Cloudflare), princípio do menor privilégio nos acessos administrativos.
+      </p>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">11. Mudanças nesta política</h2>
+      <p class="mt-2 text-neutral-700 dark:text-neutral-300">
+        Esta política pode ser atualizada para refletir mudanças no serviço ou na legislação. A data
+        da última revisão fica indicada no topo. Mudanças relevantes serão sinalizadas no site.
+      </p>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">12. Encarregado pelo tratamento de dados</h2>
+      <p class="mt-2 text-neutral-700 dark:text-neutral-300">
+        Para os fins do art. 41 da LGPD, o canal de comunicação com o encarregado é
+        <a href={`mailto:${EMAIL}`} class="text-sky-700 hover:underline dark:text-sky-400">{EMAIL}</a>.
+      </p>
+    </section>
+  </article>
+</Layout>

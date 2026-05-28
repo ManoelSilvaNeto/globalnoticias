@@ -1,0 +1,90 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { SITE } from '../lib/site';
+
+const title = 'Sobre';
+const description = `O que é o ${SITE.name}, como funciona e quais princípios guiam a curadoria.`;
+---
+
+<Layout title={title} description={description}>
+  <article class="prose-like">
+    <h1 class="font-serif text-3xl font-bold tracking-tight">Sobre o {SITE.name}</h1>
+    <p class="mt-2 text-neutral-600 dark:text-neutral-400">{SITE.tagline}</p>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">O que é</h2>
+      <p class="mt-2 text-neutral-700 dark:text-neutral-300">
+        O {SITE.name} é um agregador automático de notícias em português do Brasil. A cada poucas horas,
+        coletamos as principais reportagens de veículos de imprensa brasileiros (G1, CNN Brasil, Poder360,
+        BBC Brasil, Agência Brasil, Exame, InfoMoney e outros), agrupamos as matérias que cobrem o mesmo
+        fato, produzimos um resumo neutro do que aconteceu e publicamos junto com o link para a reportagem
+        original em cada fonte.
+      </p>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">Como funciona</h2>
+      <ol class="mt-2 list-decimal space-y-2 pl-6 text-neutral-700 dark:text-neutral-300">
+        <li>Coleta automática dos feeds RSS oficiais dos veículos parceiros.</li>
+        <li>Agrupamento das matérias que tratam do mesmo fato (clustering por similaridade de texto).</li>
+        <li>Resumo neutro gerado por inteligência artificial, em palavras próprias, sem copiar trecho das fontes.</li>
+        <li>Publicação com crédito visível e link direto para cada reportagem original.</li>
+      </ol>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">Princípios editoriais</h2>
+      <ul class="mt-2 list-disc space-y-2 pl-6 text-neutral-700 dark:text-neutral-300">
+        <li>
+          <strong>Crédito sempre.</strong> Nenhuma matéria é publicada sem o nome e o link da fonte original.
+          Os direitos autorais das reportagens pertencem aos veículos citados.
+        </li>
+        <li>
+          <strong>Resumo, não cópia.</strong> Os resumos são escritos pela IA com palavras próprias.
+          Nunca republicamos o texto das fontes.
+        </li>
+        <li>
+          <strong>Neutralidade.</strong> O prompt da IA é orientado a produzir texto factual, sem opinião,
+          juízo de valor ou adjetivação editorial.
+        </li>
+        <li>
+          <strong>Transparência.</strong> Assumimos publicamente que os resumos são gerados por IA e podem
+          conter imprecisões. Sempre incentivamos a leitura na fonte.
+        </li>
+        <li>
+          <strong>Diversidade de fontes.</strong> Sempre que possível, mostramos a mesma história contada
+          por veículos diferentes, reduzindo viés de fonte única.
+        </li>
+      </ul>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">Limitações</h2>
+      <p class="mt-2 text-neutral-700 dark:text-neutral-300">
+        Resumos automáticos podem conter erros — datas, números, nomes ou interpretações imprecisas.
+        Por isso, todo card traz o link para a matéria original, e recomendamos a leitura completa antes
+        de qualquer decisão baseada na notícia. O {SITE.name} não substitui o jornalismo profissional;
+        nós o sintetizamos e ajudamos você a encontrá-lo.
+      </p>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">Para veículos de imprensa</h2>
+      <p class="mt-2 text-neutral-700 dark:text-neutral-300">
+        Se você representa um veículo cuja matéria foi indexada e tem alguma solicitação (remoção,
+        ajuste de crédito, parceria), basta nos escrever em
+        <a href="mailto:contato@globalnote.com.br" class="text-sky-700 hover:underline dark:text-sky-400">contato@globalnote.com.br</a>.
+        Respondemos em até 48h úteis.
+      </p>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="font-serif text-xl font-bold">Contato</h2>
+      <p class="mt-2 text-neutral-700 dark:text-neutral-300">
+        <a href="/contato" class="text-sky-700 hover:underline dark:text-sky-400">Veja a página de contato</a>
+        ou escreva direto para
+        <a href="mailto:contato@globalnote.com.br" class="text-sky-700 hover:underline dark:text-sky-400">contato@globalnote.com.br</a>.
+      </p>
+    </section>
+  </article>
+</Layout>
