@@ -49,13 +49,81 @@ adicionou este arquivo:
 a aprovação do AdSense sair — antes disso, exibir `<ins class="adsbygoogle">` é
 policy violation.
 
+## Email do projeto (configurado em 2026-05-28)
+
+O domínio `globalnote.com.br` é compartilhado entre 3 projetos
+(`globalnote.com.br` = Agenda Global; `noticias.globalnote.com.br` =
+GlobalNotícias; `radar.globalnote.com.br` = GlobalRadar). Email é único
+e cobre os 3 via catch-all.
+
+**Endereço usado pelo site:** `noticias@globalnote.com.br`. Aparece em
+`/contato`, `/sobre`, `/privacidade` e no footer.
+
+**Stack de recebimento:**
+
+- **Provedor:** ImprovMX (free tier) — forwarding-only, sem custo.
+- **DNS:** 2 MX records no apex do `globalnote.com.br` no registro.br:
+  `10 mx1.improvmx.com` e `20 mx2.improvmx.com`.
+- **Catch-all ativo:** qualquer endereço `@globalnote.com.br` (incluindo
+  `noticias@`, `contato@`, `radar@`, `admin@`, `lgpd@` e futuros) é
+  encaminhado pro Gmail operacional do dono. Não precisa criar alias
+  específico no painel ImprovMX.
+- **Painel:** `app.improvmx.com` (login via Google com o Gmail destino).
+
+**Stack de envio (separado, independente):**
+
+- **Resend** já está configurado pro domínio (DKIM em `resend._domainkey`
+  no DNS). Pra ENVIAR como `noticias@globalnote.com.br` (resposta a
+  AdSense/LGPD), configurar "Send mail as" no Gmail apontando pro SMTP
+  do Resend (`smtp.resend.com:587`, user `resend`, password = API key).
+  Free tier do Resend: 3000 emails/mês, 100/dia. Não é urgente: enquanto
+  isso, responder do Gmail pessoal assinando "Equipe GlobalNotícias" é
+  aceito.
+- **Amazon SES** também está configurado no domínio (subdomínio `send.`
+  com MX próprio pra bounces + SPF). Usado pelo GlobalNote (Agenda),
+  não pelo GlobalNotícias. Não tocar nesses registros.
+
+**Atenção ao DNS compartilhado:**
+
+- O `globalnote.com.br` tem registros de 3 projetos diferentes. NUNCA
+  remover um registro sem confirmar qual projeto usa.
+- Os 2 MX de email (`mx1/mx2.improvmx.com`) ficam no apex; o MX do SES
+  fica em `send.globalnote.com.br` — não conflitam.
+- Adicionar futuro DMARC (`_dmarc.globalnote.com.br`) afeta os 3
+  projetos — coordenar antes.
+
 ## Próximos passos
 
 ### Imediato (ação do humano, fora do Claude Code)
 
 1. Abrir o painel AdSense (`adsense.google.com/onboarding`) e clicar
    **"Solicitar revisão"**. Verificação da meta tag deve ser automática.
+   Ver "Quando submeter ao AdSense" abaixo antes de fazer isso.
 2. Aguardar resposta do Google — pode levar de horas a algumas semanas.
+
+### Quando submeter ao AdSense (recomendação técnica)
+
+Análise feita em 2026-05-28: **esperar 30-60 dias antes de submeter**.
+
+Sinais de prontidão ao 2026-05-28:
+- 🔴 Idade: 8 dias desde 1º commit (`2026-05-20`) — muito jovem.
+- 🟢 Volume: 495 páginas de notícia + 18 temas + categorias.
+- 🟢 Compliance: ads.txt, meta tag, banner LGPD, /sobre, /contato,
+  /privacidade, email funcional.
+- 🟢 Qualidade de conteúdo: validador anti-alucinação (item #2 do
+  BRIEF), múltiplas fontes por história, "Por que importa".
+- 🔴 Tráfego: desconhecido mas baixo (site com 8 dias).
+- 🟡 Categoria "agregador + IA": risco real de "scraped content";
+  mitigado pelo conteúdo original e transparência, mas reviewer
+  pode flagar.
+
+Critérios pra submeter:
+- Site com ≥ 30 dias (`2026-06-19+`).
+- 2+ posts editoriais originais publicados (`/editorial/` ou similar
+  — conteúdo 100% nosso, não-agregado). Vacina contra "scraped".
+- Search Console sem erros após primeira indexação completa
+  (esperar ~2-3 semanas pós-submissão do sitemap).
+- Tráfego orgânico crescendo no Cloudflare Web Analytics.
 
 ### Quando a aprovação sair
 
