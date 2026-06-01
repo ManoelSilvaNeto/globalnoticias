@@ -1,702 +1,615 @@
 {
   "date": "2026-06-01",
-  "generatedAt": "2026-06-01T04:11:26.071Z",
+  "generatedAt": "2026-06-01T13:37:24.769Z",
   "home": [
     {
-      "clusterId": "f06d7040f86a2957",
-      "slug": "1dd9335e38913e02",
-      "titulo": "João Fonseca enfrenta Casper Ruud nas oitavas de Roland Garros",
-      "resumo": "O brasileiro de 19 anos, João Fonseca, encara o 16º do mundo, Casper Ruud, na oitava de final de Roland Garros. A partida está marcada para começar às 15h15, horário de Brasília, e será transmitida ao vivo no Brasil. A vitória de Fonseca colocaria o atleta em caminho de enfrentar outros grandes nomes do tênis atual. A partida também destaca a trajetória de Fonseca, que tem apoio de uma gestora bilionária familiar ligada ao mercado financeiro.",
-      "porQueImporta": "É um marco na carreira de Fonseca e pode impulsionar sua posição no ranking mundial.",
+      "clusterId": "9383b835c52b779a",
+      "slug": "6bb323c0146c13c4",
+      "titulo": "Israel captura fortaleza de Beaufort no sul do Líbano",
+      "resumo": "O exército israelense tomou a fortaleza medieval de Beaufort, localizada no sul do Líbano, em operação que representa a incursão terrestre mais profunda do país em mais de 25 anos. A tomada ocorreu após dias de combates e bombardeios em vilarejos vizinhos, com evacuação de civis. A ação ocorreu apesar de um cessar-fogo em vigor, que não tem sido respeitado. O Conselho de Segurança da ONU convocou uma reunião de emergência para discutir o avanço israelense.",
+      "porQueImporta": "A captura de Beaufort aumenta a pressão militar sobre o Hezbollah e pode alterar o equilíbrio regional no conflito Israel-Líbano.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/pessoas-fogem-do-sul-de-beirute-apos-israel-indicar-novos-ataques-na-cidade/"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/ira-diz-que-contradicoes-dos-eua-e-ataques-de-israel-ao-libano-atrasam-diplomacia/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/israel-ordena-ataques-contra-alvos-terroristas-no-libano-nao-havera-calma-em-beirute/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/mundo/israel-ordena-ataques-no-sul-de-beirute-onu-prepara-reuniao-de-emergencia/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/mundo/ira-condiciona-acordo-com-os-eua-a-cessar-fogo-no-libano/"
+        }
+      ],
+      "updatedAt": "2026-06-01T13:35:37.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/VcmGvzrYCxOBxeIjpb06RHT8MH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/H/2nD1oXSQuQx6Y5N1LyfQ/2026-06-01t092126z-1973905222-rc2xklan5hk7-rtrmadp-3-iran-crisis-lebanon-israel.jpg"
+    },
+    {
+      "clusterId": "c7eefa2fee3db6bd",
+      "slug": "b078f78d7683474f",
+      "titulo": "Projeção de inflação para 2026 sobe para 5,09%",
+      "resumo": "O Boletim Focus do Banco Central elevou a estimativa de inflação para 2026 de 5,04% para 5,09%, mantendo a taxa Selic inalterada. A projeção também aumentou o crescimento do PIB para 1,90% e reduziu a expectativa do dólar, que deve fechar 2026 a 5,16 reais. O aumento da inflação foi atribuído, em parte, ao impacto da guerra no Oriente Médio sobre os preços do petróleo e dos combustíveis.",
+      "porQueImporta": "A mudança reflete a expectativa de pressões inflacionárias que podem influenciar decisões de política monetária e o poder de compra dos consumidores.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-economia/boletim-focus-eleva-projecao-da-inflacao-para-509-em-2026/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/especialista-explica-aumento-da-projecao-da-inflacao-para-2026-entenda/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/economia/mercado-diminui-projecao-para-o-dolar-e-eleva-expectativas-para-a-inflacao-e-o-pib/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/economia/noticia/2026/06/01/na-12a-semana-seguida-de-alta-mercado-eleva-estimativa-de-inflacao-para-509percent-em-2026.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/economia/focus-eleva-projecao-do-ipca-de-504-para-509-em-2026/"
+        }
+      ],
+      "updatedAt": "2026-06-01T12:39:13.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-2221620655.jpg.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "031fb01e19eff926",
+      "slug": "45551876118321f8",
+      "titulo": "Operação policial investiga suposto desvio de verba pública para produção do filme Dark Horse",
+      "resumo": "A Polícia Civil de São Paulo abriu investigação sobre a contratação de uma produtora para o filme Dark Horse, alegando que o contrato teria 230% a mais que o valor de mercado e que recursos de um projeto de Wi‑Fi da prefeitura foram desviados para a produção cinematográfica. A promotora do caso solicitou relatórios do Coaf da produtora e questionou se um contrato com ONG teria financiado o filme. O deputado Lindbergh pediu cooperação internacional para apurar a origem dos recursos utilizados no projeto.",
+      "porQueImporta": "A investigação pode revelar irregularidades no uso de recursos públicos e afetar a credibilidade das instituições envolvidas.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/dark-horse-promotora-suspeita-que-contrato-publico-bancou-filme"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/produtora-de-dark-horse-e-alvo-de-operacao-por-desvio-de-verba-publica/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-congresso/lindbergh-aciona-interpol-para-apurar-recursos-do-filme-dark-horse/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/policia-civil-de-sp-faz-operacao-contra-produtora-de-dark-horse/"
+        }
+      ],
+      "updatedAt": "2026-06-01T13:17:41.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/05/dark-horse-jair-bolsonaro-4.jpg"
+    },
+    {
+      "clusterId": "7b1b01b569e84011",
+      "slug": "8a4fd0f144141074",
+      "titulo": "Brasil avança às quartas de final em Roland Garros",
+      "resumo": "O tenista João Fonseca venceu Casper Ruud por 3 sets a 1 nas oitavas de final, tornando-se o primeiro brasileiro a chegar às quartas de um Grand Slam francês desde Gustavo Kuerten, há 22 anos. Marcelo Demoliner, em parceria com Sriram Balaji, derrotou os alemães Tim Puetz e Kevin Krawietz por 2 a 0 nas oitavas de final, alcançando sua segunda vez nas quartas de um Grand Slam. Ambos os atletas garantiram premiações significativas e ampliaram a presença brasileira no torneio.",
+      "porQueImporta": "A participação de dois brasileiros nas quartas de Roland Garros destaca o crescimento do tênis nacional em eventos de alto nível.",
       "category": "esportes",
       "sources": [
         {
           "name": "GE",
-          "url": "https://ge.globo.com/tenis/noticia/2026/06/01/joao-fonseca-elogia-o-proximo-rival-em-roland-garros-ele-joga-muito-bem-no-saibro.ghtml"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/esportes/quando-joao-fonseca-volta-a-jogar-em-roland-garros/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/quem-sera-o-adversario-de-joao-fonseca-nas-quartas-de-roland-garros"
+          "url": "https://ge.globo.com/tenis/noticia/2026/06/01/marcelo-demoliner-avanca-as-quartas-na-chave-de-duplas-de-roland-garros.ghtml"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/tenis/galvao-bueno-comemora-vitoria-de-joao-fonseca-e-o-compara-a-guga/"
+          "url": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-x-mensik-horario-e-onde-assistir-as-quartas-de-roland-garros/"
         },
         {
-          "name": "Exame",
-          "url": "https://exame.com/esporte/roland-garros-2026-veja-os-jogos-desta-segunda-feira-1o-de-junho/"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-sportsmkt/fonseca-avanca-em-paris-e-assegura-r-27-milhoes-em-premiacao/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/sob-olhares-de-guga-joao-fonseca-supera-ruud-e-avanca-as-quartas-em-roland-garros/"
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/esporte/joao-fonseca-vence-casper-ruud-e-avanca-as-quartas-de-final-de-roland-garros/"
         },
         {
           "name": "G1",
           "url": "https://g1.globo.com/economia/noticia/2026/05/31/joao-fonseca-roland-garros-veja-quanto-o-brasileiro-faturou.ghtml"
-        },
-        {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/05/31/internet-e-redes-sociais/joao-fonseca-em-roland-garros-onde-acompanhar-o-duelo-do-brasileiro-contra-casper-rudd/"
         }
       ],
-      "updatedAt": "2026-06-01T03:01:33.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/j7fWjTxNsQDGVAjNDE1OasHx60Y=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/3/r/VIhQWfT0mZfsQbgfqAkA/gettyimages-2279122633.jpg"
+      "updatedAt": "2026-06-01T12:17:23.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/otbuXI4zVAW4_kAjm6z6udyoXTI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/u/d/NNWvg5QtS5A73OYAFxcQ/gettyimages-2216876573.jpg"
     },
     {
-      "clusterId": "733e0b4017521e2c",
-      "slug": "ada278249b2c8657",
-      "titulo": "Colômbia vai às urnas neste domingo para escolher o próximo presidente",
-      "resumo": "O país realizará o primeiro turno da eleição presidencial em 31 de maio, com 11 candidatos concorrendo. Gustavo Petro, que ocupa o cargo desde 2022, não pode se reeleger e apoia Iván Cepeda, do Pacto Histórico, como sucessor. As pesquisas apontam três favoritos: Cepeda, Abelardo de la Espriella, de direita populista, e Paloma Valencia, de direita tradicional. A campanha foi marcada por violência e polarização política.",
-      "porQueImporta": "A eleição determinará a continuidade ou mudança de políticas sociais e de segurança no país.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cvgzy2l37q1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/direita-e-esquerda-disputarao-2o-turno-para-presidente-na-colombia/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/ultradireita-e-esquerda-se-enfrentarao-em-segundo-turno-da-eleicao-presidencial-da-colombia/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/colombia-tera-direita-contra-esquerda-no-segundo-turno-presidencial/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/05/31/colombia-encerra-votacao-para-presidente-e-inicia-apuracao-dos-votos.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/apuracao-na-colombia-frustra-apoiadores-de-esquerda-em-30-minutos/"
-        }
-      ],
-      "updatedAt": "2026-06-01T00:34:02.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b1f9/live/7488d4c0-5d4f-11f1-89a3-d1f559421220.jpg"
-    },
-    {
-      "clusterId": "b5883c1bfc449f88",
-      "slug": "e1dc82dd53da71ec",
-      "titulo": "Brasil vence Panamá por 6 a 2 no Maracanã antes da Copa do Mundo 2026",
-      "resumo": "A Seleção Brasileira, comandada por Carlo Ancelotti, derrotou o Panamá por 6 a 2 no Maracanã, com seis goleadores diferentes. O jogo foi o último amistoso em solo brasileiro antes da viagem para os Estados Unidos, onde o time enfrentará o Egito. O resultado reforça a boa forma da equipe na preparação para a Copa do Mundo 2026.",
-      "porQueImporta": "A goleada demonstra a confiança e a qualidade do time na fase de preparação para o Mundial.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/esportes/brasil-atropela-o-panama-em-ultimo-amistoso-diante-da-torcida-antes-da-copa/"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/05/31/vinicius-junior-comemora-goleada-sobre-o-panama-no-maracana-que-seja-um-plus-para-a-copa.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/em-noite-de-golacos-brasil-atropela-panama-em-amistoso-antes-da-copa/"
-        },
-        {
-          "name": "Super Interessante",
-          "url": "https://super.abril.com.br/historia/o-brasileiro-que-ganhou-a-copa-do-mundo-antes-do-brasil-jogando-pela-italia/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/esporte/qual-foi-o-placar-do-amistoso-brasil-x-panama-jogo-teve-goleada/"
-        }
-      ],
-      "updatedAt": "2026-05-31T23:59:38.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/amistoso-brasil-panana-copa-mundo-maracana.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "88283bea49d70499",
-      "slug": "443e4e971a1a9a2b",
-      "titulo": "Fiocruz descarta suspeita de ebola em paciente vindo de Uganda",
-      "resumo": "A Fundação Oswaldo Cruz (Fiocruz) descartou um caso suspeito de ebola em um homem internado no Instituto Nacional de Infectologia Evandro Chagas (INI). O paciente, que havia viajado de Uganda, apresentou sintomas como tosse, calafrios e diarreia, mas testes iniciais mostraram positivo apenas para malária. O indivíduo permanece em isolamento até que exames de sangue confirmem o diagnóstico conclusivo.",
-      "porQueImporta": "O episódio reforça a necessidade de protocolos de vigilância e controle de doenças infecciosas em pacientes com histórico de viagens a regiões endêmicas.",
+      "clusterId": "5c426aeceea70279",
+      "slug": "426109af385d6f3a",
+      "titulo": "Tenista paraguaio multado por comentário sexista contra árbitra em Roland Garros",
+      "resumo": "O tenista Adolfo Daniel Vallejo foi multado em 65 mil euros (aproximadamente R$380 mil) após afirmar que uma partida de Grand Slam não poderia ser arbitrada por uma mulher. A penalidade corresponde a metade da premiação que ele recebeu ao chegar na segunda rodada. A organização do torneio considerou a declaração inaceitável e aplicou a multa.",
+      "porQueImporta": "O caso destaca a importância de combater o sexismo no esporte e reforça as regras de conduta em torneios internacionais.",
       "category": "geral",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/05/31/fiocruz-descarta-ebola-em-paciente-internado-no-rio.ghtml"
-        },
-        {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/suspeita-de-ebola-e-descartada-em-paciente-do-rio-vindo-de-uganda/"
+          "url": "https://www.cnnbrasil.com.br/esportes/tenis/tenista-e-multado-em-r-327-mil-apos-fala-machista-sobre-arbitra-brasileira/"
         },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-saude/suspeito-de-ter-ebola-no-rio-e-diagnosticado-com-malaria/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/c1j24726wy9o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-05-31T23:53:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/lHMeh2mU-GfPXY0TCUYhbnVbYsk=/s.glbimg.com/jo/g1/f/original/2015/02/23/castelo_manguinhos_valendo.jpg"
-    },
-    {
-      "clusterId": "615e825bcef08c4e",
-      "slug": "df0f15ee9ae59d4e",
-      "titulo": "Colômbia avança para segundo turno entre De la Espriella e Cepeda",
-      "resumo": "No primeiro turno da eleição presidencial colombiana, o candidato conservador Juan Manuel De la Espriella liderou com cerca de 43% dos votos, enquanto o progressista Iván Cepeda ficou em segundo lugar, com aproximadamente 28%. Ambos os candidatos superaram os demais concorrentes e avançaram para a segunda rodada, marcada para 21 de junho. As pesquisas recentes indicam que De la Espriella tem ganho terreno, afastando-se da candidata tradicional da direita, Valentina, e consolidando sua posição como favorito.",
-      "porQueImporta": "O resultado define quem será o próximo presidente da Colômbia, influenciando a política regional e as relações com países vizinhos.",
-      "category": "economia",
-      "sources": [
         {
           "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/colombia-tera-2o-turno-entre-conservador-de-la-espriella-e-progressista-cepeda/"
+          "url": "https://www.infomoney.com.br/esportes/roland-garros-multa-tenista-paraguaio-por-comentario-sexista-contra-arbitra-do-brasil/"
         },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/esquerda-x-direita-cepeda-e-de-la-espriella-vao-ao-2o-turno-na-colombia/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/primeiros-resultados-de-eleicao-na-colombia-tem-espriella-na-frente/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/espriella-aliado-de-bolsonaro-tem-maioria-dos-votos-no-1o-turno-da-colombia/"
-        }
-      ],
-      "updatedAt": "2026-05-31T23:46:53.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/eleicoes-colombia-segundo-turno-america-sul.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "fca3863a973b8eef",
-      "slug": "3ecf16da19361162",
-      "titulo": "Seleções anunciam convocados e programações para a Copa do Mundo 2026",
-      "resumo": "A Arábia Saudita divulgou sua lista de 26 jogadores, reduzindo a pré-lista de 30. O México anunciou sua equipe, destacando o goleiro Guillermo Ochoa, que fará seu sexto Mundial aos 40 anos. A Austrália também revelou seus 26 convocados, com o goleiro Maty Ryan como capitão. O Brasil terá seu primeiro jogo dois dias após a abertura do torneio, que será disputado em 48 seleções nos Estados Unidos, Canadá e México.",
-      "porQueImporta": "Esses anúncios preparam as nações para a maior edição da Copa do Mundo, marcando a expansão e a participação de novos países anfitriões.",
-      "category": "esportes",
-      "sources": [
         {
           "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/01/convocados-da-arabia-saudita-para-a-copa-do-mundo-2026-veja-a-lista.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/esporte/quando-sera-o-primeiro-jogo-do-brasil-na-copa-do-mundo-de-2026/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/globo-reporter/noticia/2026/05/30/brasil-ja-ganhou-copa-do-mundo-no-mexico-veja-como-cidade-do-tri-de-pele-se-prepara-para-receber-mais-um-mundial.ghtml"
+          "url": "https://ge.globo.com/tenis/noticia/2026/06/01/paraguaio-que-reclamou-de-arbitragem-feminina-em-roland-garros-e-multado-em-r-380-mil.ghtml"
         }
       ],
-      "updatedAt": "2026-06-01T04:02:38.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/ASMLtqGFgIM_gbU7ee5CvypVE80=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/c/R/jOHqGpQYW2MkNOfeds3A/gettyimages-1401991481.jpg"
+      "updatedAt": "2026-06-01T13:20:56.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-05-28T141251Z_1383886826_UP1EM5S13HE41_RTRMADP_3_TENNIS-FRENCHOPEN.jpg?fit=300%2C203&amp;quality=70&amp;strip=all"
     },
     {
-      "clusterId": "efc19f8b39b4710d",
-      "slug": "e2a8d7e8eaa30cca",
-      "titulo": "Remo vence São Paulo nos acréscimos",
-      "resumo": "O Remo venceu o São Paulo por 1 a 0, com gol de Marcelinho nos acréscimos, garantindo a vitória no Estádio Mangueirão. O resultado mantém o time na luta contra a zona de rebaixamento e aumenta o jejum do São Paulo na competição. As equipes não disputarão partidas até o final de julho devido à paralisação pela Copa do Mundo.",
-      "porQueImporta": "A vitória reforça a posição do Remo na zona de rebaixamento e destaca a fragilidade do São Paulo no Brasileirão.",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/pa/futebol/brasileirao-serie-a/jogo/31-05-2026/remo-sao-paulo.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/marcelinho-marca-nos-acrescimos-e-remo-vence-sao-paulo-no-brasileirao"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/remo-x-sao-paulo-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/"
-        }
-      ],
-      "updatedAt": "2026-06-01T02:05:55.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/05/remo-x-sao-paulo.jpg"
-    },
-    {
-      "clusterId": "968cdaf4f94c354e",
-      "slug": "9657c69dfaf565e2",
-      "titulo": "Virginia Fonseca xingada pela torcida após gol de Vini Jr. no amistoso contra Panamá",
-      "resumo": "Durante o amistoso entre Brasil e Panamá, Vini Jr. marcou o primeiro gol e Virginia Fonseca, influenciadora que assistia ao jogo, foi alvo de insultos da torcida. A reação de Virginia gerou repercussão nas redes sociais. O Brasil venceu a partida por 6 a 2. A situação chamou atenção pela interação entre atletas e público.",
-      "porQueImporta": "Ilustra a tensão entre torcedores e figuras públicas em eventos esportivos.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/celebridades/vini-jr-se-pronuncia-apos-virginia-ser-xingada-em-amistoso-da-copa-do-mundo"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/vini-jr-e-ovacionado-no-maracana-e-virginia-xingada-veja-video/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/entretenimento/celebridades/virginia-comemora-golaco-de-vini-jr-em-amistoso-do-brasil-no-maracana/"
-        }
-      ],
-      "updatedAt": "2026-06-01T01:57:41.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/05/apos-fim-com-virginia-vini-jr-revela-desejo-de-ser-pai-1.jpg"
-    },
-    {
-      "clusterId": "957302242becfb98",
-      "slug": "a2b78a2e9b1bc341",
-      "titulo": "Presidente colombiano rejeita resultado da eleição e aponta irregularidades",
-      "resumo": "O presidente colombiano, Gustavo Petro, contestou o resultado do primeiro turno das eleições, alegando que votos foram adicionados em seções eleitorais sem a existência de eleitores inscritos. Ele pediu revisão dos dados antes de comentar os números. A oposição, incluindo o candidato Ivan Cepeda, também questionou a legitimidade do processo.",
-      "porQueImporta": "A contestação pode afetar a credibilidade do processo eleitoral e a estabilidade política do país.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/colombia-petro-rejeita-resultado-de-eleicao-e-aponta-irregularidades"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/eleicao-na-colombia-petro-rejeita-resultado-e-aponta-votacao-irregular/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/presidente-e-candidato-de-esquerda-questionam-resultado-da-eleicao-da-colombia/"
-        }
-      ],
-      "updatedAt": "2026-06-01T01:37:58.000Z",
-      "imageUrl": "https://images.metroimg.com/2025/01/Presidente-da-Colombia-Gustavo-Petro-deixa-Palacio-do-Itamaraty-apos-dia-de-reunioes-com-paises-da-America-do-Sul-1.jpeg"
-    },
-    {
-      "clusterId": "7ab4503426a95ed4",
-      "slug": "040eb9f77fa88561",
-      "titulo": "Belo e Alcione não sincronizam ao cantar Hino Nacional antes de jogo da Seleção",
-      "resumo": "Durante a apresentação do Hino Nacional antes do amistoso entre Brasil e Panamá, os artistas Belo e Alcione falharam na sincronização, gerando críticas nas redes sociais. A performance ocorreu no Maracanã, antes do penúltimo jogo da Seleção antes da Copa do Mundo. A situação foi amplamente comentada e transformou-se em meme nas plataformas digitais.",
-      "porQueImporta": "O episódio destaca a importância da apresentação oficial em eventos esportivos internacionais.",
+      "clusterId": "296284ec5e42caec",
+      "slug": "3ed9d38501773d4f",
+      "titulo": "Ministro da Fazenda planeja reunião com EUA após classificação de PCC e CV como terroristas",
+      "resumo": "O ministro da Fazenda, Dario Durigan, anunciou que se reunirá com autoridades americanas para discutir a decisão dos EUA de declarar as facções Primeiro Comando da Capital e Comando Vermelho como organizações terroristas internacionais. Ele alertou que a medida pode levar a sanções contra instituições financeiras brasileiras e, em cenários extremos, afetar a operação do Pix, sistema de pagamentos instantâneos do Banco Central. Durigan também destacou que a classificação pode gerar insegurança jurídica e impactos econômicos no país.",
+      "porQueImporta": "A decisão pode impactar o sistema financeiro brasileiro e a segurança jurídica das instituições de pagamento.",
       "category": "politica",
       "sources": [
         {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-sportsmkt/belo-e-alcione-se-atrapalham-durante-execucao-do-hino-nacional/"
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/economia/durigan-diz-que-discutira-com-eua-classificacao-de-pcc-e-cv-e-alerta-para-riscos-ao-sistema-financeiro/"
         },
         {
+          "name": "G1",
+          "url": "https://g1.globo.com/economia/noticia/2026/06/01/durigan-afirma-que-tera-reunioes-com-autoridades-dos-eua-apos-designacao-de-pcc-e-cv-como-terroristas.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/ministro-da-fazenda-diz-que-vai-procurar-eua-apos-pcc-e-cv-serem-classificados-como-terroristas/"
+        }
+      ],
+      "updatedAt": "2026-06-01T13:12:25.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/55284099217_a2d4c9c28d_k.jpg"
+    },
+    {
+      "clusterId": "0025f2faced2c9d3",
+      "slug": "37205e955c36b2ae",
+      "titulo": "Ministro do STF defende regulação das big techs e critica coleta de dados sem autorização",
+      "resumo": "O ministro da Suprema Corte, Gilmar Mendes, argumentou que as grandes empresas de tecnologia coletam dados sem autorização e que as redes sociais já não são neutras, exigindo regulação internacional. Ele comparou a urgência da regulação ao período pós‑Segunda Guerra Mundial e alertou que abusos na liberdade de expressão podem ameaçar a democracia. O discurso ocorreu em evento organizado por Mendes e em Fórum de Lisboa, onde também foi citada declaração do Papa sobre inteligência artificial.",
+      "porQueImporta": "A proposta de regulação pode alterar o controle sobre dados e a atuação das redes sociais no Brasil e internacionalmente.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/moraes-diz-que-big-techs-pegam-dados-sem-autorizacao-e-defende-regulacao/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-justica/moraes-defende-regulacao-internacional-das-big-techs/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/tecnologia/moraes-diz-que-abuso-criminoso-da-liberdade-de-expressao-pode-destruir-a-democracia/"
+        }
+      ],
+      "updatedAt": "2026-06-01T13:11:06.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/02/Foto-Rosinei-CoutinhoSTF-b2b.jpg"
+    },
+    {
+      "clusterId": "de38cbd625de748e",
+      "slug": "04370918c8c44652",
+      "titulo": "Nvidia lança chip RTX Spark para PCs com IA",
+      "resumo": "A Nvidia anunciou o chip RTX Spark, que integra CPU e GPU em um único processador, visando melhorar a experiência de IA em computadores pessoais. O dispositivo será incorporado em uma nova linha de PCs com Windows. O CEO Jensen Huang descreveu a inovação como uma \"reinvenção do computador\" e destacou a intenção de competir com Apple e Intel.",
+      "porQueImporta": "O lançamento pode impulsionar a adoção de IA em PCs domésticos e alterar a dinâmica de mercado entre os principais fabricantes de hardware.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/nvidia-lanca-novo-chip-com-aposta-em-pcs-pessoais-com-ia-e-acoes-sobem/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/06/01/como-a-nvidia-desafia-apple-e-intel-ao-anunciar-chip-de-ia-para-computadores-pessoais.ghtml"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/c4g413yrly2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-06-01T12:59:41.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-10T110400Z_1_LYNXNPEL990JU_RTROPTP_4_NVIDIA-RESULTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "9c78eee8e69c7e36",
+      "slug": "c4fcfaf0d854e35e",
+      "titulo": "Teste descarta caso de Ebola em paciente internado em São Paulo",
+      "resumo": "Um homem de 37 anos, imigrante da República Democrática do Congo, foi internado em São Paulo com suspeita de Ebola. Exames de sequenciamento genético e de urina não detectaram o vírus, descartando a doença. O paciente permanece sob cuidados após confirmação de meningite meningocócica.",
+      "porQueImporta": "Esclarece que a suspeita de Ebola foi afastada, evitando alarmes desnecessários e confirmando a segurança do paciente e da comunidade.",
+      "category": "tecnologia",
+      "sources": [
+        {
           "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/o-incomodo-de-belo-ao-cantar-hino-nacional-com-alcione-amistoso-da-selecao/"
+          "url": "https://veja.abril.com.br/saude/ebola-caso-suspeito-de-paciente-internado-em-sao-paulo-e-descartado/"
+        },
+        {
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/06/01/medicina-e-saude/exame-descarta-ebola-em-paciente-internado-em-sao-paulo/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/entretenimento/belo-e-alcione-viram-meme-ao-cantarem-em-amistoso-deixaram-o-hino-morrer/"
+          "url": "https://www.cnnbrasil.com.br/saude/teste-descarta-caso-de-ebola-em-paciente-internado-em-sao-paulo/"
         }
       ],
-      "updatedAt": "2026-06-01T01:16:00.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/whatsapp-image-2026-05-31-at-18_9076.jpeg?quality=70&strip=info"
+      "updatedAt": "2026-06-01T12:58:18.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2020/04/emilio_ribas.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "ec6a606591ad08e5",
+      "slug": "eba4d65ad28d5ccf",
+      "titulo": "EUA e Irã relatam ataques na região do Estreito de Ormuz",
+      "resumo": "Os Estados Unidos afirmam ter interceptado mísseis iranianos direcionados ao Kuwait, enquanto o Irã declara ter destruído uma base americana na região. O Kuwait relata ataques com mísseis e drones, e o Irã acusa os EUA de ação em seu território. As duas potências mantêm negociações para encerrar a guerra, com mediação do Paquistão.",
+      "porQueImporta": "Os ataques aumentam a tensão regional e podem escalar conflitos militares na área estratégica do Estreito de Ormuz.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cvgz781e512o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/eua-dizem-ter-interceptado-misseis-iranianos-direcionados-ao-kuwait/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/mundo/ira-diz-destruir-base-dos-eua-e-kuwait-relata-ataques-aereos/"
+        }
+      ],
+      "updatedAt": "2026-06-01T12:52:53.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d2c1/live/fd6bc8a0-5d8c-11f1-89a3-d1f559421220.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "7ab4503426a95ed4",
-        "slug": "040eb9f77fa88561",
-        "titulo": "Belo e Alcione não sincronizam ao cantar Hino Nacional antes de jogo da Seleção",
-        "resumo": "Durante a apresentação do Hino Nacional antes do amistoso entre Brasil e Panamá, os artistas Belo e Alcione falharam na sincronização, gerando críticas nas redes sociais. A performance ocorreu no Maracanã, antes do penúltimo jogo da Seleção antes da Copa do Mundo. A situação foi amplamente comentada e transformou-se em meme nas plataformas digitais.",
-        "porQueImporta": "O episódio destaca a importância da apresentação oficial em eventos esportivos internacionais.",
+        "clusterId": "296284ec5e42caec",
+        "slug": "3ed9d38501773d4f",
+        "titulo": "Ministro da Fazenda planeja reunião com EUA após classificação de PCC e CV como terroristas",
+        "resumo": "O ministro da Fazenda, Dario Durigan, anunciou que se reunirá com autoridades americanas para discutir a decisão dos EUA de declarar as facções Primeiro Comando da Capital e Comando Vermelho como organizações terroristas internacionais. Ele alertou que a medida pode levar a sanções contra instituições financeiras brasileiras e, em cenários extremos, afetar a operação do Pix, sistema de pagamentos instantâneos do Banco Central. Durigan também destacou que a classificação pode gerar insegurança jurídica e impactos econômicos no país.",
+        "porQueImporta": "A decisão pode impactar o sistema financeiro brasileiro e a segurança jurídica das instituições de pagamento.",
         "category": "politica",
         "sources": [
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-sportsmkt/belo-e-alcione-se-atrapalham-durante-execucao-do-hino-nacional/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/economia/durigan-diz-que-discutira-com-eua-classificacao-de-pcc-e-cv-e-alerta-para-riscos-ao-sistema-financeiro/"
           },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/06/01/durigan-afirma-que-tera-reunioes-com-autoridades-dos-eua-apos-designacao-de-pcc-e-cv-como-terroristas.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/ministro-da-fazenda-diz-que-vai-procurar-eua-apos-pcc-e-cv-serem-classificados-como-terroristas/"
+          }
+        ],
+        "updatedAt": "2026-06-01T13:12:25.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/55284099217_a2d4c9c28d_k.jpg"
+      },
+      {
+        "clusterId": "0025f2faced2c9d3",
+        "slug": "37205e955c36b2ae",
+        "titulo": "Ministro do STF defende regulação das big techs e critica coleta de dados sem autorização",
+        "resumo": "O ministro da Suprema Corte, Gilmar Mendes, argumentou que as grandes empresas de tecnologia coletam dados sem autorização e que as redes sociais já não são neutras, exigindo regulação internacional. Ele comparou a urgência da regulação ao período pós‑Segunda Guerra Mundial e alertou que abusos na liberdade de expressão podem ameaçar a democracia. O discurso ocorreu em evento organizado por Mendes e em Fórum de Lisboa, onde também foi citada declaração do Papa sobre inteligência artificial.",
+        "porQueImporta": "A proposta de regulação pode alterar o controle sobre dados e a atuação das redes sociais no Brasil e internacionalmente.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/moraes-diz-que-big-techs-pegam-dados-sem-autorizacao-e-defende-regulacao/"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-justica/moraes-defende-regulacao-internacional-das-big-techs/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/tecnologia/moraes-diz-que-abuso-criminoso-da-liberdade-de-expressao-pode-destruir-a-democracia/"
+          }
+        ],
+        "updatedAt": "2026-06-01T13:11:06.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/02/Foto-Rosinei-CoutinhoSTF-b2b.jpg"
+      },
+      {
+        "clusterId": "8e842c4ff0663f7d",
+        "slug": "8aa77daf57d70f83",
+        "titulo": "Pesquisa mostra Renan Santos como principal representante da 3ª via nas eleições presidenciais",
+        "resumo": "Uma pesquisa recente indica que 26% dos entrevistados consideram Renan Santos a principal figura da chamada ‘terceira via’ nas próximas eleições presidenciais. O levantamento, baseado em dados em tempo real e Big Data, também aponta Zema e Caiado como alternativas relevantes dentro desse espectro. Apesar disso, os candidatos da 3ª via apresentam desempenho modesto em pesquisas de opinião. A análise destaca a fragmentação e a busca por alternativas fora dos partidos tradicionais.",
+        "porQueImporta": "Reflete a crescente demanda por opções políticas fora das duas grandes correntes tradicionais.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/cartaexpressa/quem-representa-a-terceira-via-na-eleicao-presidencial-segundo-nova-pesquisa/"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes/26-acreditam-que-renan-santos-representa-a-3a-via-diz-pesquisa/"
+          }
+        ],
+        "updatedAt": "2026-06-01T13:36:55.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/04/lula_flavio_renan_caiado.jpg"
+      },
+      {
+        "clusterId": "14cdd81d26591374",
+        "slug": "9360bdd2af4695d5",
+        "titulo": "Pesquisa Real Time Big Data mostra Lula liderando e Flávio Bolsonaro em segundo lugar",
+        "resumo": "A pesquisa Real Time Big Data, realizada com 2.000 eleitores, indica Lula (PT) na liderança com 45,7% das intenções de voto, seguido por Flávio Bolsonaro (PL) com 27,2%. A terceira colocação é disputada entre outros candidatos, com margens de erro de dois pontos percentuais. Em cenários de ausência de um candidato, a pesquisa também identifica as segundas opções de voto dos eleitores.",
+        "porQueImporta": "Os resultados refletem a dinâmica atual da corrida presidencial e ajudam a prever possíveis alianças e estratégias eleitorais.",
+        "category": "politica",
+        "sources": [
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/o-incomodo-de-belo-ao-cantar-hino-nacional-com-alcione-amistoso-da-selecao/"
+            "url": "https://veja.abril.com.br/brasil/candidato-pode-ser-quem-sao-as-segundas-opcoes-de-voto-do-eleitorado-em-pesquisa-real-time-big-data/"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/entretenimento/belo-e-alcione-viram-meme-ao-cantarem-em-amistoso-deixaram-o-hino-morrer/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/a-disputa-pela-presidencia-no-1o-turno-segundo-nova-pesquisa-real-time-big-data-2/"
           }
         ],
-        "updatedAt": "2026-06-01T01:16:00.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/whatsapp-image-2026-05-31-at-18_9076.jpeg?quality=70&strip=info"
+        "updatedAt": "2026-06-01T12:27:14.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/urna-eletronica_TSE-antonio-augusto.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "745e9ae1518a239f",
-        "slug": "801fb48eda674957",
-        "titulo": "Governo federal prorroga subsídio de R$1,12 por litro de diesel até dezembro",
-        "resumo": "O governo federal aprovou uma Medida Provisória que mantém o subsídio de R$1,12 por litro de diesel, unificando o valor para produtores e importadores. A medida substitui duas subvenções anteriores, uma de R$0,32 e outra de R$0,80, e entra em vigor em 1º de junho. O subsídio visa conter a alta dos combustíveis causada pela guerra no Oriente Médio e será financiado com recursos federais.",
-        "porQueImporta": "A medida ajuda a reduzir o impacto dos preços internacionais do petróleo no bolso dos consumidores brasileiros.",
+        "clusterId": "ab33064c1fc9828f",
+        "slug": "22c1f7a66fc5434d",
+        "titulo": "Declarações do Imposto de Renda 2026 no Amazonas superam previsão",
+        "resumo": "No Amazonas, 511.180 contribuintes entregaram a declaração do Imposto de Renda 2026, excedendo a previsão da Receita Federal de 497.801 declarações. O número representa um aumento de 18.484 em relação a 2025, ou 3,7% de crescimento. A Receita Federal registrou total de 44.498.717 declarações em todo o país no mesmo período.",
+        "porQueImporta": "A alta adesão demonstra maior cumprimento das obrigações fiscais pelos contribuintes e reforça a eficiência do sistema tributário nacional.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/01/declaracoes-do-imposto-de-renda-no-am-superam-previsao-da-receita-e-crescem-37percent-em-um-ano.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-01T13:35:06.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/2Hkjtt6wXDMU1i46msQaf2jbL3c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/D/gzOSADT96Iz32sI0fi8g/globo-canal-4-20260519-2000-frame-105282.jpeg"
+      },
+      {
+        "clusterId": "03d306ee4aadaced",
+        "slug": "aba7799ee796fc7f",
+        "titulo": "ONG ligada ao Dark Horse pagou advogado de Frias com verba de emenda",
+        "resumo": "Uma ONG vinculada ao grupo Dark Horse recebeu R$ 1 milhão de recursos de emenda, que foram usados para custear serviços jurídicos de Mário Frias e a compra de livros que não foram entregues. O pagamento foi feito ao advogado de Frias, o que levantou questionamentos sobre a destinação dos fundos. A investigação aponta que a ONG não cumpriu com a entrega dos materiais adquiridos.",
+        "porQueImporta": "O caso destaca possíveis irregularidades no uso de recursos públicos e a necessidade de transparência na gestão de verbas de emenda.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-energia/petrobras-anuncia-reducao-de-r-035-no-preco-do-diesel/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/05/31/petrobras-reduz-em-959-preco-do-diesel-para-distribuidoras.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/petrobras-reduz-em-r-035-preco-do-diesel-para-distribuidoras/"
+            "url": "https://www.poder360.com.br/poder-justica/ong-ligada-ao-dark-horse-pagou-advogado-de-frias-com-verba-de-emenda/"
           }
         ],
-        "updatedAt": "2026-06-01T00:22:54.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/eqSjN0tpA9joTUjS5u5V1EdPSnY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/wCR8ddTkWlDT6bfcazyg/mg-1446-0.jpg"
+        "updatedAt": "2026-06-01T13:32:38.000Z"
       },
       {
-        "clusterId": "3d1d01f087841c57",
-        "slug": "46a4f7c26247a88a",
-        "titulo": "Fachin determina plano de desintrusão da Terra Indígena Cachoeira Seca",
-        "resumo": "O ministro Edson Fachin do STF ordenou que órgãos federais apresentem, em até 90 dias, um cronograma para retirar invasores da Terra Indígena Cachoeira Seca, no Pará. A decisão faz parte de medidas para proteger o território que já sofreu mais de 74 mil hectares de desmatamento. A União deve criar um comitê de governança para articular ações de proteção territorial e de povos indígenas isolados.",
-        "porQueImporta": "A medida visa preservar o território e a cultura dos Arara, além de combater o desmatamento ilegal na Amazônia.",
+        "clusterId": "6d2feba98dc9ff17",
+        "slug": "3dd521b24513da1b",
+        "titulo": "Governadora do DF recebe alta após quadro de pneumotórax",
+        "resumo": "Celina Leão, governadora do Distrito Federal, foi internada no Hospital Santa Lúcia em Brasília após apresentar quadro de pneumotórax. O médico responsável pela internação avaliou a situação e indicou alta. A paciente recebeu alta e está em recuperação. A internação ocorreu em meio a suas atividades governamentais.",
+        "porQueImporta": "A saúde de um líder político afeta a continuidade das políticas públicas e a confiança da população.",
         "category": "politica",
         "sources": [
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/justica/fachin-determina-desintrusao-da-terra-indigena-cachoeira-seca-no-para/"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-justica/stf-manda-governo-fazer-plano-de-desintrusao-de-terra-indigena/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/05/31/fachin-determina-que-governo-apresente-plano-de-desocupacao-da-terra-indigena-cachoeira-seca-no-para.ghtml"
+            "url": "https://www.cartacapital.com.br/politica/governadora-do-df-recebe-alta-apos-apresentar-quadro-de-pneumotorax/"
           }
         ],
-        "updatedAt": "2026-05-31T20:30:38.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/02/55079017570_0ddcbac1c6_k.jpg"
+        "updatedAt": "2026-06-01T13:07:11.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/12/Fabrica_Social_forma_170_alunos_e_nova_turma_fara_material_para_hospitais.jpg"
       },
       {
-        "clusterId": "503ac41f0f195a96",
-        "slug": "c965094b22d29eed",
-        "titulo": "Diácono interrompe tumulto em missa com Ciro e Elmano",
-        "resumo": "Durante a missa na Igreja Matriz de Barbalha, no Ceará, o diácono interveio para acalmar a multidão quando o clima se tornou tumultuado. A celebração contou com a presença de governistas e membros da oposição. O ato do diácono foi visto como uma tentativa de restaurar a ordem e a paz no local.",
-        "porQueImporta": "Mostra a tensão política que pode se manifestar em eventos religiosos e a importância de manter a ordem pública.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/igreja-nao-e-lugar-para-politicagem-diz-diacono-em-missa-com-ciro-e-elmano"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-brasil/diacono-interrompe-tumulto-em-missa-com-ciro-e-elmano/"
-          }
-        ],
-        "updatedAt": "2026-06-01T01:15:41.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/05/padre-igreja0-ceara.jpeg"
-      },
-      {
-        "clusterId": "737ea6c0cc0b869c",
-        "slug": "a09eb76133a6d03f",
-        "titulo": "Governo Lula prorroga subsídio de R$ 1,12 por litro de diesel até dezembro",
-        "resumo": "A medida entra em vigor nesta segunda-feira 1º, data em que o primeiro subsídio oferecido pelo governo chegaria ao final",
-        "porQueImporta": "",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-governo/governo-cria-subvencao-de-r-112-por-litro-do-diesel-ate-dezembro/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/economia/governo-lula-prorroga-subsidio-de-r-112-por-litro-de-diesel-ate-dezembro/"
-          }
-        ],
-        "updatedAt": "2026-06-01T00:16:24.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2021/01/aumento_gazolina_rj_0506202742-1.jpg"
-      },
-      {
-        "clusterId": "f0eca427b105a3fd",
-        "slug": "70288f868a5dca09",
-        "titulo": "Flávio Dino cancela participação no Fórum Jurídico de Lisboa",
-        "resumo": "O ministro do STF, Flávio Dino, cancelou sua presença na 14ª edição do Fórum Jurídico de Lisboa após sofrer fratura e rompimento de ligamento no pé em acidente doméstico. O evento, que ocorre de 1 a 3 de junho na Faculdade de Direito da Universidade de Lisboa, será perdido pela presença do ministro. A assessoria informou que Dino está bem, mas precisará permanecer em repouso em São Luís, Maranhão.",
-        "porQueImporta": "A ausência de um ministro do STF em evento internacional pode afetar a representação do Brasil em discussões jurídicas globais.",
+        "clusterId": "f433ca1224ff8dbf",
+        "slug": "f334a954b26358ce",
+        "titulo": "Previsões de baralho cigano, tarot e horóscopo para 1 de junho de 2026",
+        "resumo": "Na primeira semana de junho, as cartas indicam um período de maior percepção e decisões pessoais, com crescimento e clareza para alguns signos, enquanto outros enfrentarão conflitos e desgaste emocional. A energia do dia favorece quem ouvir a intuição e agir com paciência, mas desafios de comunicação podem surgir, exigindo prudência para preservar relacionamentos e projetos.",
+        "porQueImporta": "Essas previsões orientam os leitores sobre possíveis influências emocionais e comunicativas no início do mês.",
         "category": "politica",
         "sources": [
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/justica/flavio-dino-cancela-ida-ao-gilmarpalooza-apos-fratura-e-rompimento-de-ligamento-no-pe/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/05/31/flavio-dino-cancela-ida-ao-forum-de-lisboa-apos-acidente-domestico-ministro-teve-fratura-no-pe.ghtml"
+            "url": "https://www.cartacapital.com.br/astrologia/baralho-cigano-previsao-para-os-12-signos-de-01-a-07-de-junho-de-2026/"
           }
         ],
-        "updatedAt": "2026-05-31T16:00:14.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/08/54734103290_7550752bba_k.jpg"
-      },
-      {
-        "clusterId": "d555f5ca3e6d4e38",
-        "slug": "304acf36fe1ba8bf",
-        "titulo": "Porto Vitória empata e avança; Magno Malta torna-se réu",
-        "resumo": "Na Copa Espírito Santo, Porto Vitória e Serra empataram 1 a 1, garantindo a classificação do Porto Vitória para as semifinais. O empate eliminou o Serra da possibilidade de avançar. Em outra notícia, o senador Magno Malta foi declarado réu por publicações nas redes sociais em 2022, que atacaram um cobrador condenado injustamente. A decisão foi tomada após audiência de conciliação na 4ª Vara Criminal de Vitória.",
-        "porQueImporta": "O resultado do jogo determina a trajetória do Porto Vitória na competição, enquanto a condenação de Magno Malta destaca questões de responsabilidade política e judicial no estado.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/cartaexpressa/magno-malta-vira-reu-por-falsa-acusacao-de-estupro-contra-ex-cobrador-de-onibus/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/05/30/magno-malta-vira-reu-por-falas-contra-cobrador-preso-injustamente-por-estupro-no-es.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-31T15:19:18.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2023/03/52763391840_a7e504095f_k.jpg"
-      },
-      {
-        "clusterId": "6e52977ee79c2a62",
-        "slug": "9ffd8345c191cb22",
-        "titulo": "Belga de Uganda testado negativo para ebola",
-        "resumo": "Um belga que chegou a Brasil vindo de Uganda foi submetido a exames de sangue, saliva e urina para verificar a presença de ebola. Todos os testes retornaram resultados negativos, conforme comunicado da Fiocruz. A investigação foi realizada para garantir a segurança pública e confirmar a ausência do vírus no indivíduo.",
-        "porQueImporta": "Garante a segurança da população e evita alarmes desnecessários sobre a propagação do ebola.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-saude/belga-que-veio-de-uganda-nao-tem-ebola-afirma-fiocruz/"
-          }
-        ],
-        "updatedAt": "2026-06-01T01:47:42.000Z"
+        "updatedAt": "2026-06-01T13:02:23.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/1aries-6-1024x683.jpg"
       }
     ],
     "economia": [
       {
-        "clusterId": "b5883c1bfc449f88",
-        "slug": "e1dc82dd53da71ec",
-        "titulo": "Brasil vence Panamá por 6 a 2 no Maracanã antes da Copa do Mundo 2026",
-        "resumo": "A Seleção Brasileira, comandada por Carlo Ancelotti, derrotou o Panamá por 6 a 2 no Maracanã, com seis goleadores diferentes. O jogo foi o último amistoso em solo brasileiro antes da viagem para os Estados Unidos, onde o time enfrentará o Egito. O resultado reforça a boa forma da equipe na preparação para a Copa do Mundo 2026.",
-        "porQueImporta": "A goleada demonstra a confiança e a qualidade do time na fase de preparação para o Mundial.",
+        "clusterId": "c7eefa2fee3db6bd",
+        "slug": "b078f78d7683474f",
+        "titulo": "Projeção de inflação para 2026 sobe para 5,09%",
+        "resumo": "O Boletim Focus do Banco Central elevou a estimativa de inflação para 2026 de 5,04% para 5,09%, mantendo a taxa Selic inalterada. A projeção também aumentou o crescimento do PIB para 1,90% e reduziu a expectativa do dólar, que deve fechar 2026 a 5,16 reais. O aumento da inflação foi atribuído, em parte, ao impacto da guerra no Oriente Médio sobre os preços do petróleo e dos combustíveis.",
+        "porQueImporta": "A mudança reflete a expectativa de pressões inflacionárias que podem influenciar decisões de política monetária e o poder de compra dos consumidores.",
         "category": "economia",
         "sources": [
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/esportes/brasil-atropela-o-panama-em-ultimo-amistoso-diante-da-torcida-antes-da-copa/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/05/31/vinicius-junior-comemora-goleada-sobre-o-panama-no-maracana-que-seja-um-plus-para-a-copa.ghtml"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-economia/boletim-focus-eleva-projecao-da-inflacao-para-509-em-2026/"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/em-noite-de-golacos-brasil-atropela-panama-em-amistoso-antes-da-copa/"
+            "url": "https://www.cnnbrasil.com.br/economia/especialista-explica-aumento-da-projecao-da-inflacao-para-2026-entenda/"
           },
           {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/historia/o-brasileiro-que-ganhou-a-copa-do-mundo-antes-do-brasil-jogando-pela-italia/"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/economia/mercado-diminui-projecao-para-o-dolar-e-eleva-expectativas-para-a-inflacao-e-o-pib/"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/qual-foi-o-placar-do-amistoso-brasil-x-panama-jogo-teve-goleada/"
-          }
-        ],
-        "updatedAt": "2026-05-31T23:59:38.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/amistoso-brasil-panana-copa-mundo-maracana.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "615e825bcef08c4e",
-        "slug": "df0f15ee9ae59d4e",
-        "titulo": "Colômbia avança para segundo turno entre De la Espriella e Cepeda",
-        "resumo": "No primeiro turno da eleição presidencial colombiana, o candidato conservador Juan Manuel De la Espriella liderou com cerca de 43% dos votos, enquanto o progressista Iván Cepeda ficou em segundo lugar, com aproximadamente 28%. Ambos os candidatos superaram os demais concorrentes e avançaram para a segunda rodada, marcada para 21 de junho. As pesquisas recentes indicam que De la Espriella tem ganho terreno, afastando-se da candidata tradicional da direita, Valentina, e consolidando sua posição como favorito.",
-        "porQueImporta": "O resultado define quem será o próximo presidente da Colômbia, influenciando a política regional e as relações com países vizinhos.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/colombia-tera-2o-turno-entre-conservador-de-la-espriella-e-progressista-cepeda/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/esquerda-x-direita-cepeda-e-de-la-espriella-vao-ao-2o-turno-na-colombia/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/primeiros-resultados-de-eleicao-na-colombia-tem-espriella-na-frente/"
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/06/01/na-12a-semana-seguida-de-alta-mercado-eleva-estimativa-de-inflacao-para-509percent-em-2026.ghtml"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/mundo/espriella-aliado-de-bolsonaro-tem-maioria-dos-votos-no-1o-turno-da-colombia/"
+            "url": "https://exame.com/economia/focus-eleva-projecao-do-ipca-de-504-para-509-em-2026/"
           }
         ],
-        "updatedAt": "2026-05-31T23:46:53.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/eleicoes-colombia-segundo-turno-america-sul.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-01T12:39:13.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-2221620655.jpg.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "957302242becfb98",
-        "slug": "a2b78a2e9b1bc341",
-        "titulo": "Presidente colombiano rejeita resultado da eleição e aponta irregularidades",
-        "resumo": "O presidente colombiano, Gustavo Petro, contestou o resultado do primeiro turno das eleições, alegando que votos foram adicionados em seções eleitorais sem a existência de eleitores inscritos. Ele pediu revisão dos dados antes de comentar os números. A oposição, incluindo o candidato Ivan Cepeda, também questionou a legitimidade do processo.",
-        "porQueImporta": "A contestação pode afetar a credibilidade do processo eleitoral e a estabilidade política do país.",
+        "clusterId": "031fb01e19eff926",
+        "slug": "45551876118321f8",
+        "titulo": "Operação policial investiga suposto desvio de verba pública para produção do filme Dark Horse",
+        "resumo": "A Polícia Civil de São Paulo abriu investigação sobre a contratação de uma produtora para o filme Dark Horse, alegando que o contrato teria 230% a mais que o valor de mercado e que recursos de um projeto de Wi‑Fi da prefeitura foram desviados para a produção cinematográfica. A promotora do caso solicitou relatórios do Coaf da produtora e questionou se um contrato com ONG teria financiado o filme. O deputado Lindbergh pediu cooperação internacional para apurar a origem dos recursos utilizados no projeto.",
+        "porQueImporta": "A investigação pode revelar irregularidades no uso de recursos públicos e afetar a credibilidade das instituições envolvidas.",
         "category": "economia",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/colombia-petro-rejeita-resultado-de-eleicao-e-aponta-irregularidades"
+            "url": "https://www.metropoles.com/sao-paulo/dark-horse-promotora-suspeita-que-contrato-publico-bancou-filme"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/eleicao-na-colombia-petro-rejeita-resultado-e-aponta-votacao-irregular/"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/produtora-de-dark-horse-e-alvo-de-operacao-por-desvio-de-verba-publica/"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-congresso/lindbergh-aciona-interpol-para-apurar-recursos-do-filme-dark-horse/"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/mundo/presidente-e-candidato-de-esquerda-questionam-resultado-da-eleicao-da-colombia/"
+            "url": "https://exame.com/brasil/policia-civil-de-sp-faz-operacao-contra-produtora-de-dark-horse/"
           }
         ],
-        "updatedAt": "2026-06-01T01:37:58.000Z",
-        "imageUrl": "https://images.metroimg.com/2025/01/Presidente-da-Colombia-Gustavo-Petro-deixa-Palacio-do-Itamaraty-apos-dia-de-reunioes-com-paises-da-America-do-Sul-1.jpeg"
+        "updatedAt": "2026-06-01T13:17:41.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/05/dark-horse-jair-bolsonaro-4.jpg"
       },
       {
-        "clusterId": "cf240de7c5e3d480",
-        "slug": "7fdf74391f2059ed",
-        "titulo": "Petro não aceita contagem inicial dos votos na Colômbia",
-        "resumo": "O presidente Gustavo Petro afirmou que não aceita os resultados preliminares da contagem de votos na eleição presidencial. Ele aguarda os resultados finais, que serão revisados pelos tribunais. No primeiro turno, nenhum candidato alcançou a maioria necessária, com Abelardo de la Espriella liderando em 43,7% e Ivan Cepeda em 40,90%.",
-        "porQueImporta": "A decisão de Petro pode influenciar a legitimidade e o andamento do processo eleitoral colombiano.",
+        "clusterId": "de38cbd625de748e",
+        "slug": "04370918c8c44652",
+        "titulo": "Nvidia lança chip RTX Spark para PCs com IA",
+        "resumo": "A Nvidia anunciou o chip RTX Spark, que integra CPU e GPU em um único processador, visando melhorar a experiência de IA em computadores pessoais. O dispositivo será incorporado em uma nova linha de PCs com Windows. O CEO Jensen Huang descreveu a inovação como uma \"reinvenção do computador\" e destacou a intenção de competir com Apple e Intel.",
+        "porQueImporta": "O lançamento pode impulsionar a adoção de IA em PCs domésticos e alterar a dinâmica de mercado entre os principais fabricantes de hardware.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/petro-diz-nao-aceitar-resultados-preliminares-da-contagem-de-votos-na-colombia/"
+            "url": "https://www.infomoney.com.br/mercados/nvidia-lanca-novo-chip-com-aposta-em-pcs-pessoais-com-ia-e-acoes-sobem/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/05/31/gustavo-petro-presidente-da-colombia-diz-que-nao-aceita-resultado-das-eleicoes.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-01T01:03:44.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/petro-colombia-eleicoes-america-sul.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "48c5fa4a9b177b4f",
-        "slug": "84fa03ce33b74741",
-        "titulo": "Brasil vence Panamá por 6 a 1 no Maracanã",
-        "resumo": "O Brasil abriu o placar com gol de Vinícius Júnior em menos de um minuto. Lucas Paquetá marcou o quarto gol, enquanto Rayan ampliou para 5 a 1. Danilo completou a goleada com um golaço, totalizando 6 a 1. O Panamá conseguiu apenas um gol, desviado de falta, antes da partida.",
-        "porQueImporta": "Resultado reforça a preparação da Seleção antes da Copa do Mundo.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/danilo-marca-golaco-apos-lancamento-de-paqueta-e-brasil-faz-6x1-veja/"
+            "url": "https://g1.globo.com/tecnologia/noticia/2026/06/01/como-a-nvidia-desafia-apple-e-intel-ao-anunciar-chip-de-ia-para-computadores-pessoais.ghtml"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/vini-jr-abre-goleada-do-brasil-sobre-o-panama-em-menos-de-um-minuto-veja-video/"
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c4g413yrly2o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-05-31T23:21:26.000Z"
+        "updatedAt": "2026-06-01T12:59:41.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/10/2025-10-10T110400Z_1_LYNXNPEL990JU_RTROPTP_4_NVIDIA-RESULTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "c3ca9296edf800a6",
-        "slug": "85b491eaf1951fb6",
-        "titulo": "MEI deve entregar Declaração Anual do Simples Nacional até 31 de outubro",
-        "resumo": "O prazo final para que os Microempreendedores Individuais enviem a Declaração Anual do Simples Nacional (DASN‑SIMEI) foi encerrado no último domingo, 31 de outubro. A entrega é obrigatória e deve ser feita pelo Portal do Empreendedor, mesmo que o MEI não tenha faturado. Quem não enviou ainda pode regularizar, mas será cobrada multa de 2% ao mês sobre os tributos devidos, limitada a 20%, com valor mínimo de R$ 50.",
-        "porQueImporta": "O não cumprimento pode resultar em multas e complicações fiscais para o empreendedor.",
+        "clusterId": "d5d73c1e6efb464a",
+        "slug": "d9ce6353a3d0ae2d",
+        "titulo": "Petrobras reduz preço do querosene de aviação em 14,2%",
+        "resumo": "A Petrobras anunciou a redução de 14,2% no preço médio de venda do querosene de aviação (QAV) para distribuidoras, equivalente a R$ 0,93 por litro a partir de junho. A queda reflete a atenuação das altas cotações internacionais de combustíveis. A medida acompanha a tendência de redução de preços em outros combustíveis, como o diesel, que também sofreu desvalorização. A decisão foi comunicada pela estatal em comunicado oficial.",
+        "porQueImporta": "A redução impacta diretamente os custos de transporte aéreo e pode influenciar os preços ao consumidor final.",
         "category": "economia",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/empreendedorismo/guia-do-empreendedor/noticia/2026/06/01/mei-perdeu-o-prazo-da-declaracao-anual-veja-como-regularizar.ghtml"
+            "url": "https://g1.globo.com/economia/noticia/2026/06/01/petrobras-reduz-em-142-preco-do-querosene-de-aviacao-a-partir-de-junho.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/petrobras-reduz-em-142-preco-do-querosene-de-aviacao/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/economia/petrobras-reduz-preco-do-querosene-de-aviacao-o-que-muda/"
           }
         ],
-        "updatedAt": "2026-06-01T03:01:03.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/DIILVism1SSwTaUd3ZW9V52Hylw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/e/hiO7y9SXKi0oruhw3PBA/prazo-dasn-mei-2022-1170x780.jpg-p28303-cover-image-resized-1-.jpg"
+        "updatedAt": "2026-06-01T11:38:52.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/eqSjN0tpA9joTUjS5u5V1EdPSnY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/wCR8ddTkWlDT6bfcazyg/mg-1446-0.jpg"
       },
       {
-        "clusterId": "7fbaaec2683dfb16",
-        "slug": "d895597e268b0845",
-        "titulo": "Trump afirma que acordo de paz exige que Irã não possua arma nuclear",
-        "resumo": "O presidente dos Estados Unidos reiterou que o acordo de paz com o Irã depende da abstenção do país em desenvolver armas nucleares. Ele explicou que a falta de um tratado efetivo até agora se deve a divergências sobre essa condição. Trump destacou que a condição nuclear é essencial para a estabilidade regional.",
-        "porQueImporta": "Garantir que o Irã não possua armas nucleares é crucial para a segurança e estabilidade do Oriente Médio.",
+        "clusterId": "f4487f2ed60e366f",
+        "slug": "71fce004629cc771",
+        "titulo": "Corpus Christi é feriado móvel e muda de data a cada ano",
+        "resumo": "A celebração católica de Corpus Christi ocorre em uma data que varia anualmente, pois é calculada a partir da data da Páscoa. Em 2026, o feriado será em 4 de junho. A data móvel se aplica a outras festas religiosas, como carnaval e Páscoa, que também seguem cálculos tradicionais.",
+        "porQueImporta": "Entender a data facilita a organização de viagens e compromissos que dependem do feriado.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/nacional/brasil/feriado-de-corpus-christi-entenda-por-que-data-muda-todos-os-anos/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/06/01/quando-cai-corpus-christi-entenda-por-que-a-data-muda-todo-ano.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-01T13:00:43.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/etdatc5NhQaYvECRix3Lm9JmGxY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/Y/sLgnNhSzi3euqBG9jBAA/whatsapp-image-2025-06-19-at-14.20.26.jpeg"
+      },
+      {
+        "clusterId": "38a5843cf6a07a58",
+        "slug": "23362e215fc61ffe",
+        "titulo": "Inadimplência no agronegócio termina 2025 em 8,2%",
+        "resumo": "A Serasa Experian registrou que a inadimplência no agronegócio brasileiro encerrou 2025 em 8,2%, um ponto percentual acima do mesmo período do ano anterior. O índice tem crescido a cada trimestre desde o fim de 2024. O aumento reflete margens apertadas dos agricultores e custos elevados de fertilizantes e combustíveis.",
+        "porQueImporta": "O crescimento da inadimplência pode indicar fragilidades financeiras no setor agrícola, afetando a economia rural e o abastecimento de alimentos.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/negocios/inadimplencia-no-agronegocio-sobe-e-fecha-2025-em-82-diz-serasa"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/01/inadimplencia-no-agronegocio-do-brasil-termina-2025-a-82-aponta-serasa.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-01T12:51:57.000Z",
+        "imageUrl": "https://images.metroimg.com/2025/02/24180225/matogroso-agronegocio.jpg"
+      },
+      {
+        "clusterId": "1667f6f54ede6535",
+        "slug": "d362e84f8aa6fb15",
+        "titulo": "Ibovespa cai 173 mil pontos",
+        "resumo": "O índice Ibovespa fechou em queda, perdendo 173.000 pontos em relação ao fechamento anterior. A movimentação reflete a volatilidade dos mercados globais, com índices futuros dos EUA avançando. A queda impactou investidores que monitoram a performance do mercado brasileiro.",
+        "porQueImporta": "A variação do Ibovespa influencia decisões de investimento e a percepção de risco no Brasil.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/trump-volta-a-dizer-que-acordo-de-paz-envolve-ira-nao-possuir-uma-arma-nuclear/"
+            "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-01062026/"
           }
         ],
-        "updatedAt": "2026-06-01T01:12:30.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-28T164545Z_1_LYNXMPEM4R1D4_RTROPTP_4_USA-TRUMP.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-01T13:22:22.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-13-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "c0b747a7db86c202",
-        "slug": "ab48dcc64dac3c4c",
-        "titulo": "Mercado de futuros de Wall Street permanece estável em início de junho enquanto preço do petróleo sobe",
-        "resumo": "Os contratos futuros de ações de Wall Street iniciaram o mês de junho em níveis estáveis, refletindo a incerteza sobre a extensão do cessar-fogo no Golfo Pérsico e a possibilidade de reabertura do Estreito de Ormuz. O preço do petróleo aumentou, impulsionado pela preocupação com a oferta de energia. As negociações em torno da região continuam sem clareza, mantendo os investidores cautelosos.",
-        "porQueImporta": "A estabilidade dos futuros de Wall Street indica que o mercado está aguardando decisões sobre a segurança energética, enquanto o aumento do petróleo pode afetar custos e inflação global.",
+        "clusterId": "02918449feab8bb6",
+        "slug": "8a4db60a54b94419",
+        "titulo": "Paciente monitorado por suspeita de ebola no Rio testa positivo para malária",
+        "resumo": "Um viajante vindo de Uganda, que estava sendo monitorado pela Fiocruz por suspeita de ebola, testou positivo para malária. Ele permanece na instituição enquanto as autoridades concluem exames para descartar outras doenças infecciosas. Os contatos do paciente continuam sendo monitorados.",
+        "porQueImporta": "A confirmação de malária em vez de ebola evita medidas de contenção excessivas e direciona o tratamento adequado.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/futuros-em-wall-street-iniciam-junho-estaveis-enquanto-petroleo-avanca/"
+            "url": "https://www.infomoney.com.br/saude/paciente-monitorado-por-suspeita-de-ebola-no-rio-testa-positivo-para-malaria/"
           }
         ],
-        "updatedAt": "2026-06-01T00:50:40.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/04/wall-street-IA-2.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-01T13:13:49.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/02/malaria_mosquito_anopheles260420212826.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "733e0b4017521e2c",
-        "slug": "ada278249b2c8657",
-        "titulo": "Colômbia vai às urnas neste domingo para escolher o próximo presidente",
-        "resumo": "O país realizará o primeiro turno da eleição presidencial em 31 de maio, com 11 candidatos concorrendo. Gustavo Petro, que ocupa o cargo desde 2022, não pode se reeleger e apoia Iván Cepeda, do Pacto Histórico, como sucessor. As pesquisas apontam três favoritos: Cepeda, Abelardo de la Espriella, de direita populista, e Paloma Valencia, de direita tradicional. A campanha foi marcada por violência e polarização política.",
-        "porQueImporta": "A eleição determinará a continuidade ou mudança de políticas sociais e de segurança no país.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cvgzy2l37q1o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-internacional/direita-e-esquerda-disputarao-2o-turno-para-presidente-na-colombia/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/ultradireita-e-esquerda-se-enfrentarao-em-segundo-turno-da-eleicao-presidencial-da-colombia/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/colombia-tera-direita-contra-esquerda-no-segundo-turno-presidencial/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/05/31/colombia-encerra-votacao-para-presidente-e-inicia-apuracao-dos-votos.ghtml"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/apuracao-na-colombia-frustra-apoiadores-de-esquerda-em-30-minutos/"
-          }
-        ],
-        "updatedAt": "2026-06-01T00:34:02.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b1f9/live/7488d4c0-5d4f-11f1-89a3-d1f559421220.jpg"
-      },
-      {
-        "clusterId": "5c78a56e4c37422c",
-        "slug": "e5eed8adff513433",
-        "titulo": "Acidente entre van e caminhão na BR-116 deixa 15 mortos",
-        "resumo": "Um acidente frontal entre uma van e um caminhão ocorreu no km 506 da BR-116, próximo a Santa Teresinha, Bahia, por volta das 16h40 do domingo (31 de maio). A colisão resultou em 15 mortes, conforme dados da Polícia Rodoviária Federal. A via foi interditada e equipes de resgate foram acionadas no local.",
-        "porQueImporta": "O incidente destaca a necessidade de segurança viária nas rodovias brasileiras.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/ba-sobe-para-15-o-total-de-mortos-em-acidente-entre-van-e-caminhao"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/05/31/acidente-deixa-mortos-na-br-116-em-santa-terezinha.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-01T01:06:47.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/05/acidente-bahia.jpeg"
-      },
-      {
-        "clusterId": "ee5a3fb3673c2272",
+        "clusterId": "9383b835c52b779a",
         "slug": "6bb323c0146c13c4",
         "titulo": "Israel captura fortaleza de Beaufort no sul do Líbano",
         "resumo": "O exército israelense tomou a fortaleza medieval de Beaufort, localizada no sul do Líbano, em operação que representa a incursão terrestre mais profunda do país em mais de 25 anos. A tomada ocorreu após dias de combates e bombardeios em vilarejos vizinhos, com evacuação de civis. A ação ocorreu apesar de um cessar-fogo em vigor, que não tem sido respeitado. O Conselho de Segurança da ONU convocou uma reunião de emergência para discutir o avanço israelense.",
@@ -704,36 +617,112 @@
         "category": "mundo",
         "sources": [
           {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/ckgpx5lvk1go?at_medium=RSS&at_campaign=rss"
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/pessoas-fogem-do-sul-de-beirute-apos-israel-indicar-novos-ataques-na-cidade/"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mundo/ira-diz-que-contradicoes-dos-eua-e-ataques-de-israel-ao-libano-atrasam-diplomacia/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/israel-ordena-ataques-contra-alvos-terroristas-no-libano-nao-havera-calma-em-beirute/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/mundo/israel-ordena-ataques-no-sul-de-beirute-onu-prepara-reuniao-de-emergencia/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/mundo/ira-condiciona-acordo-com-os-eua-a-cessar-fogo-no-libano/"
+          }
+        ],
+        "updatedAt": "2026-06-01T13:35:37.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/VcmGvzrYCxOBxeIjpb06RHT8MH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/H/2nD1oXSQuQx6Y5N1LyfQ/2026-06-01t092126z-1973905222-rc2xklan5hk7-rtrmadp-3-iran-crisis-lebanon-israel.jpg"
+      },
+      {
+        "clusterId": "3be82c71677ab4a3",
+        "slug": "a061ce8bfeccdf82",
+        "titulo": "Eleição presidencial na Colômbia vai para segundo turno entre Abelardo de la Espriella e Ivan Cepeda",
+        "resumo": "No primeiro turno, nenhum candidato atingiu 50% dos votos, levando a uma disputa de segunda volta em 21 de junho. Abelardo de la Espriella, de direita, liderou com 43,7% dos votos, seguido por Ivan Cepeda, de esquerda, com 40,90%. O presidente Gustavo Petro não reconheceu a contagem inicial e aguardará os resultados finais revisados pelos juízes. A eleição reflete a polarização entre propostas de segurança da direita e reformas de esquerda.",
+        "porQueImporta": "Determina quem será o próximo presidente da Colômbia, influenciando políticas internas e relações internacionais.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/cartaexpressa/presidente-da-colombia-contesta-o-resultado-da-eleicao-com-extrema-direita-na-lideranca/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/mundo/por-que-a-direita-tradicional-naufragou-em-eleicao-na-colombia/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/05/31/conselho-de-seguranca-da-onu-se-reune-nesta-segunda-feira-1o-sobre-avanco-de-israel-no-libano-diz-agencia.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/05/31/gustavo-petro-presidente-da-colombia-diz-que-nao-aceita-resultado-das-eleicoes.ghtml"
           }
         ],
-        "updatedAt": "2026-05-31T22:19:27.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/22ea/live/21fd5600-5cdb-11f1-89a3-d1f559421220.jpg"
+        "updatedAt": "2026-06-01T12:16:12.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/03/000_36YU8GP.jpg"
       },
       {
-        "clusterId": "0c379f36bd0d336e",
-        "slug": "7063c1a159e6d696",
-        "titulo": "Desabamento em mina ilegal em Yunnan deixa cinco mortos e um ferido",
-        "resumo": "Um poço de mina desabou na madrugada de domingo, na província de Yunnan, durante uma operação de mineração ilegal. O acidente resultou em cinco mortes e deixou um ferido. As autoridades chinesas iniciaram investigação para determinar as causas do incidente. O desabamento ocorre poucos dias após uma explosão de gás que matou 82 pessoas em Shanxi.",
-        "porQueImporta": "O evento destaca os riscos associados à mineração ilegal e a necessidade de fiscalização mais rigorosa.",
+        "clusterId": "7030a4efe001e279",
+        "slug": "cdd2c191b832e32b",
+        "titulo": "França apreende petroleiro russo no Atlântico com apoio do Reino Unido",
+        "resumo": "A Marinha francesa abordou o petroleiro russo Tagor no Oceano Atlântico, navegando sob sanções internacionais. A operação foi realizada em águas internacionais e contou com apoio de parceiros, incluindo o Reino Unido. O presidente francês, Emmanuel Macron, afirmou que a ação respeita o direito do mar e visa impedir que navios financiem a guerra russa contra a Ucrânia. Moscou denunciou a ação como ilegal.",
+        "porQueImporta": "A apreensão demonstra a cooperação internacional para cumprir sanções contra a Rússia e limitar seu financiamento da guerra.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/video-franca-intercepta-petroleiro-russo-no-atlantico-e-moscou-denuncia-ato-ilegal/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/01/franca-apreende-petroleiro-russo-no-oceano-atlantico.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-01T12:34:38.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-01-093327.png"
+      },
+      {
+        "clusterId": "665dd3dc5f15ad70",
+        "slug": "8f2754310c7369de",
+        "titulo": "Malásia proíbe menores de 16 anos de criar contas em redes sociais",
+        "resumo": "A Malásia entrou em vigor, a partir de segunda-feira, regras que proíbem a criação de contas em redes sociais por menores de 16 anos. As normas exigem que plataformas com pelo menos 8 milhões de usuários, como Facebook, Instagram, TikTok e YouTube, implementem sistemas de verificação de idade e bloqueiem a criação de contas por usuários abaixo da idade mínima. Empresas que não cumprirem as regras poderão enfrentar sanções. A medida faz parte de um esforço global para proteger jovens de riscos e conteúdos prejudiciais na internet.",
+        "porQueImporta": "A lei aumenta a proteção de crianças e adolescentes contra exposição a conteúdos inadequados e riscos online.",
         "category": "mundo",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/cinco-morrem-em-mina-na-china-apos-tragedia-em-shanxi-que-matou-82/"
+            "url": "https://www.cnnbrasil.com.br/internacional/malasia-proibe-menores-de-16-anos-de-criar-contas-em-redes-sociais/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/05/31/desabamento-mina-china.ghtml"
+            "url": "https://g1.globo.com/tecnologia/noticia/2026/05/31/malasia-proibe-redes-sociais-para-menores-de-16-anos.ghtml"
           }
         ],
-        "updatedAt": "2026-05-31T20:46:02.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/-K_56Ig9Fbx2uDH_XnkQpb5Tmuc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/v/p/WrtzTzRB6D5HIATHrd1A/2025-11-20t061512z-1639912283-rc2zzhakl1n5-rtrmadp-3-china-dailylife.jpg"
+        "updatedAt": "2026-06-01T12:23:44.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/6ysZzYPi35qumhr8ytxkdGCx0Vk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/8/V/mV0V3RTMWE69jd1ryB3g/canva-celularxcrianca.png"
+      },
+      {
+        "clusterId": "46a9f1f0b5fc8c8b",
+        "slug": "35874143d1c7e3f1",
+        "titulo": "Haddad atribui baixa popularidade de Lula a redes sociais",
+        "resumo": "O ex-ministro da Fazenda, Fernando Haddad, afirma que a baixa popularidade de Lula se deve ao uso das redes sociais, que mudaram a forma de comunicação política. Ele destaca que a cobrança de impostos sobre importados continua sendo feita pelos estados. Haddad defende a possibilidade de prévia no PT para o sucessor de Lula e a necessidade de educação financeira para a população.",
+        "porQueImporta": "A declaração de Haddad pode influenciar a percepção pública sobre a liderança política e as políticas fiscais.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/ce8pkr73374o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-06-01T13:12:39.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d169/live/0ac8f000-5a8f-11f1-b5ae-83d5964726ad.jpg"
       },
       {
         "clusterId": "881c1657128009eb",
@@ -776,162 +765,222 @@
         "imageUrl": "https://s2-g1.glbimg.com/txfC_Wc4_TX5AlyoqSKDzDx6P2g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/e/2ytWyYQLShIwcD7M2R3A/6220e9b0-593c-11f1-8f5a-71117a5267dc.jpg.webp"
       },
       {
-        "clusterId": "2123b2ad5cc05128",
-        "slug": "374ab93285ee3e56",
-        "titulo": "Problema de lógica da tarefa de seleção de Watson gera confusão",
-        "resumo": "O desafio de Watson, apresentado pela BBC Brasil, envolve quatro cartas, uma regra e uma pergunta que, apesar de simples, leva muitos a errar a resposta. A tarefa exige identificar a carta que não segue a regra estabelecida. A dificuldade reside na interpretação da regra e na aplicação correta dos critérios de seleção. O caso destaca como problemas aparentemente claros podem enganar a lógica humana.",
-        "porQueImporta": "Ilustra a complexidade da tomada de decisão baseada em regras simples, relevante para estudos de lógica e inteligência artificial.",
+        "clusterId": "faf2b5494d6b9f5a",
+        "slug": "afefe70f2ad25cec",
+        "titulo": "Soldados ucranianos recorrem a drogas para suportar a guerra",
+        "resumo": "Soldados em ambos os lados do conflito ucraniano têm usado drogas para lidar com a dor, o sono e o medo, bem como para manter a operação em campo. O uso de substâncias químicas tem aumentado com o prolongamento dos combates, mas permanece pouco divulgado. A automedicação e o vício são considerados problemas crescentes na linha de frente.",
+        "porQueImporta": "Indica um risco crescente à saúde mental e física dos militares envolvidos no conflito.",
         "category": "mundo",
         "sources": [
           {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c0l225we1xwo?at_medium=RSS&at_campaign=rss"
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/01/soldados-na-ucrania-recorrem-a-drogas-para-suportar-a-guerra.ghtml"
           }
         ],
-        "updatedAt": "2026-05-31T21:32:51.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f540/live/a288c270-5847-11f1-9fcc-95002e18ab8a.jpg"
-      },
-      {
-        "clusterId": "e67a7d7477708d4f",
-        "slug": "3d410b645efc9ad4",
-        "titulo": "Crianças precisam se movimentar mais para garantir saúde e felicidade",
-        "resumo": "Estudos mostram que crianças hoje praticam menos atividade física do que no passado. Pesquisadores estão desenvolvendo estratégias práticas e eficazes para incentivar o movimento infantil. Aumentar a atividade física traz benefícios de longo prazo à saúde das crianças.",
-        "porQueImporta": "Promover a mobilidade infantil contribui para o bem‑estar e prevenção de doenças futuras.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c62ddvr48n0o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-05-31T20:21:57.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/37bb/live/8d1fc740-5864-11f1-89a3-d1f559421220.jpg"
+        "updatedAt": "2026-06-01T11:55:15.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/uCwl_ItVu-40A-U5enaOWSbgpu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/w/H7gjLsTHiGykaYIyvAYA/ap26146569211462.jpg"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "c220f08b011cf101",
-        "slug": "723dea93f712690d",
-        "titulo": "China sinaliza política equilibrada para plataformas digitais",
-        "resumo": "O governo chinês divulgou um documento que reforça a continuidade de sua abordagem regulatória no setor tecnológico. A política pretende equilibrar a inovação das plataformas digitais com a necessidade de controle e segurança. O texto destaca medidas de supervisão e a importância de manter a competitividade do mercado interno.",
-        "porQueImporta": "A decisão mostra a direção regulatória da China, influenciando empresas globais e o ambiente de negócios digital.",
+        "clusterId": "9c78eee8e69c7e36",
+        "slug": "c4fcfaf0d854e35e",
+        "titulo": "Teste descarta caso de Ebola em paciente internado em São Paulo",
+        "resumo": "Um homem de 37 anos, imigrante da República Democrática do Congo, foi internado em São Paulo com suspeita de Ebola. Exames de sequenciamento genético e de urina não detectaram o vírus, descartando a doença. O paciente permanece sob cuidados após confirmação de meningite meningocócica.",
+        "porQueImporta": "Esclarece que a suspeita de Ebola foi afastada, evitando alarmes desnecessários e confirmando a segurança do paciente e da comunidade.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/saude/ebola-caso-suspeito-de-paciente-internado-em-sao-paulo-e-descartado/"
+          },
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/06/01/medicina-e-saude/exame-descarta-ebola-em-paciente-internado-em-sao-paulo/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/saude/teste-descarta-caso-de-ebola-em-paciente-internado-em-sao-paulo/"
+          }
+        ],
+        "updatedAt": "2026-06-01T12:58:18.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2020/04/emilio_ribas.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "15c97ca4d359c094",
+        "slug": "a07e5ce1afe7afff",
+        "titulo": "FAA revela detalhes do projeto Starfall da SpaceX",
+        "resumo": "Documentos da FAA mostram que a SpaceX está desenvolvendo e testando o veículo de reentrada Starfall, que pode ser usado para missões de carga e tripulação. O projeto inclui testes de reentrada em atmosferas de diferentes planetas e busca reduzir custos de lançamento. A SpaceX planeja usar o Starfall para missões de exploração lunar e de Marte.",
+        "porQueImporta": "O Starfall pode acelerar e tornar mais barato o acesso ao espaço profundo.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/05/31/pro/china-sinaliza-politica-equilibrada-para-plataformas-digitais/"
+            "url": "https://olhardigital.com.br/2026/06/01/ciencia-e-espaco/documentos-da-faa-revelam-detalhes-do-projeto-starfall-novo-veiculo-de-reentrada-da-spacex/"
           }
         ],
-        "updatedAt": "2026-05-31T20:31:44.000Z"
+        "updatedAt": "2026-06-01T13:11:37.000Z"
       },
       {
-        "clusterId": "90fd389fb7a8b81d",
-        "slug": "d8c32186d3b92ff8",
-        "titulo": "James Webb detecta galáxia quimicamente primitiva no Universo antigo",
-        "resumo": "O telescópio James Webb identificou a galáxia LAP1-B, uma estrutura extremamente fraca que existiu apenas 800 milhões de anos após o Big Bang. A descoberta oferece uma janela para estudar os primeiros objetos cósmicos próximos à Via Láctea. A análise dos compostos químicos da galáxia pode revelar informações sobre a formação de elementos nas primeiras eras do universo.",
-        "porQueImporta": "A observação ajuda a entender a evolução inicial do cosmos e a formação de estruturas galácticas.",
+        "clusterId": "ccb5e3a397783ef1",
+        "slug": "e8161d835179af03",
+        "titulo": "Anvisa proíbe venda de suplemento com magnésio treonato",
+        "resumo": "A Anvisa determinou a suspensão da fabricação, comercialização, distribuição e propaganda do Magnésio L‑Treonato 1000 mg, da Natural Sempre. A medida foi tomada após avaliação de riscos associados ao produto. A empresa foi notificada para interromper todas as atividades relacionadas ao suplemento. A decisão visa proteger a saúde pública.",
+        "porQueImporta": "A proibição impede que consumidores tenham acesso a um suplemento potencialmente inseguro.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/05/31/ciencia-e-espaco/james-webb-descobre-galaxia-quimicamente-primitiva-no-universo-antigo/"
+            "url": "https://olhardigital.com.br/2026/06/01/medicina-e-saude/anvisa-proibe-venda-de-suplemento-com-magnesio-treonato/"
           }
         ],
-        "updatedAt": "2026-05-31T20:05:40.000Z"
+        "updatedAt": "2026-06-01T13:09:03.000Z"
       },
       {
-        "clusterId": "22f0a0d9f7e610b8",
-        "slug": "8e685ea8dca2fa1a",
-        "titulo": "Bezos e Musk enfrentam dificuldades na corrida espacial bilionária",
-        "resumo": "Jeff Bezos e Elon Musk, líderes de empresas de exploração espacial, estão enfrentando desafios significativos em seus projetos de viagens interplanetárias. Ambos os empresários têm investido bilhões em tecnologias e infraestrutura, mas os custos e os obstáculos técnicos continuam a limitar o progresso. A competição entre as empresas de foguetes privadas tem aumentado a pressão para superar esses entraves.",
-        "porQueImporta": "O sucesso ou fracasso dessas iniciativas pode definir o futuro da exploração espacial comercial e a capacidade de expandir a presença humana além da Terra.",
+        "clusterId": "6fd06a67ee9bb2c5",
+        "slug": "0eafe143154bf659",
+        "titulo": "Oferta de dispositivos eletrônicos para o 6.6",
+        "resumo": "Com a chegada do 6.6, o Olhar Digital apresenta três promoções distintas: headsets de alta qualidade, smartwatches completos e smartphones 5G. Cada segmento traz modelos compatíveis com diversos dispositivos e com descontos atrativos. As ofertas são divulgadas para quem busca atualizar equipamentos com preços reduzidos.",
+        "porQueImporta": "Essas promoções permitem que consumidores aproveitem descontos em tecnologia de áudio, wearables e telefonia móvel antes do lançamento oficial do 6.6.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/05/31/ciencia-e-espaco/bezos-e-musk-enfrentam-dificuldades-na-corrida-espacial-bilionaria/"
+            "url": "https://olhardigital.com.br/2026/06/01/reviews/a-melhor-experiencia-de-audio-confira-3-headsets-em-oferta-para-o-6-6/"
           }
         ],
-        "updatedAt": "2026-05-31T18:36:11.000Z"
+        "updatedAt": "2026-06-01T13:00:00.000Z"
       },
       {
-        "clusterId": "599f6090f107709a",
-        "slug": "443a16122caed327",
-        "titulo": "SpaceX e OpenAI impulsionam investimentos em empresas asiáticas",
-        "resumo": "A SpaceX e a OpenAI levantaram bilhões de dólares, o que está estimulando uma nova onda de investimentos em infraestrutura tecnológica na Ásia. Os recursos captados por essas empresas são avaliados como capazes de financiar projetos de expansão e inovação em startups e corporações asiáticas. A expectativa é que esses investimentos fortaleçam a competitividade tecnológica da região.",
-        "porQueImporta": "A entrada de capital de gigantes da IA pode acelerar o desenvolvimento tecnológico e a competitividade das empresas asiáticas no cenário global.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/05/31/pro/ia-bilhoes-da-spacex-e-openai-impulsionam-apostas-em-empresas-asiaticas/"
-          }
-        ],
-        "updatedAt": "2026-05-31T17:42:49.000Z"
-      },
-      {
-        "clusterId": "0f8a6a986fb1a012",
-        "slug": "59914cd1812d8916",
-        "titulo": "Startup ligada a Trump desenvolve robôs humanoides autônomos para uso duplo",
-        "resumo": "A empresa Foundation, com ligação a Donald Trump, está desenvolvendo robôs humanoides autônomos que podem ser usados tanto em operações militares quanto em outras aplicações. O projeto visa criar máquinas capazes de operar de forma independente em ambientes de combate. A startup afirma que os robôs terão capacidades de navegação, reconhecimento e tomada de decisão sem intervenção humana direta.",
-        "porQueImporta": "A iniciativa pode alterar a forma como forças armadas empregam tecnologia autônoma em conflitos.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/05/31/robotica/startup-ligada-a-trump-quer-robos-humanoides-autonomos-em-operacaes-militares/"
-          }
-        ],
-        "updatedAt": "2026-05-31T16:44:11.000Z"
-      },
-      {
-        "clusterId": "d5c1bbe0b9af3e0c",
-        "slug": "c58c8f9385b39055",
-        "titulo": "Telescópio Hubble captura imagem de galáxia irregular tênue",
-        "resumo": "O Telescópio Hubble registrou a imagem de uma galáxia anã irregular, denominada ESO 490-017, que possui cerca de 12 mil anos-luz de diâmetro. A observação foi publicada pela primeira vez no portal Olhar Digital. A imagem revela detalhes da estrutura tênue e dispersa da galáxia, contribuindo para o estudo de objetos de baixa luminosidade no universo.",
-        "porQueImporta": "A captura oferece dados valiosos sobre a formação e evolução de galáxias anãs, ampliando o conhecimento sobre estruturas cósmicas de baixa luminosidade.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/05/31/ciencia-e-espaco/telescopio-hubble-captura-imagem-de-galaxia-irregular-tenue/"
-          }
-        ],
-        "updatedAt": "2026-05-31T14:20:49.000Z"
-      },
-      {
-        "clusterId": "74e23e199a4c76e5",
-        "slug": "ccfe9643c916e266",
-        "titulo": "Meteoro explode sobre Massachusetts",
-        "resumo": "Um meteoro viajando a mais de 120.000 km/h atingiu a atmosfera a 64,3 km de altitude e se fragmentou sobre Massachusetts, gerando estrondos ensurdecedores. O evento foi registrado por observadores e sistemas de detecção de ondas de choque. Não houve relatos de danos ou feridos. O fenômeno destaca a frequência de pequenos meteoros que entram na atmosfera dos EUA.",
-        "porQueImporta": "Ilustra a ocorrência frequente de meteoros que atingem a atmosfera americana e a necessidade de monitoramento de eventos de impacto.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/05/31/ciencia-e-espaco/eua-meteoro-explode-sobre-massachusetts-e-causa-estrondos-ensurdecedores/"
-          }
-        ],
-        "updatedAt": "2026-05-31T13:04:31.000Z"
-      },
-      {
-        "clusterId": "2544d47ce6801628",
-        "slug": "d8247d89f952e28a",
-        "titulo": "Legislação brasileira impede uso de recursos avançados em carros",
-        "resumo": "A legislação de trânsito no Brasil, especialmente o Código de Trânsito Brasileiro, exige que o motorista mantenha controle total do veículo, o que impede a instalação de recursos como cinema, videogames e sistemas de condução autônoma em carros modernos. Apesar da tecnologia estar cada vez mais presente, a lei ainda bloqueia a transmissão de conteúdo via Android Auto e outras funcionalidades multimídia. A situação reflete um descompasso entre inovação tecnológica e regulamentação vigente.",
-        "porQueImporta": "Impacta a adoção de tecnologias que podem melhorar a segurança e a experiência de condução.",
+        "clusterId": "22672f66ce069a40",
+        "slug": "94cb9454a560c64c",
+        "titulo": "SanDisk lança dois modelos de SSD SATA em 2026",
+        "resumo": "A SanDisk, fabricante de SSDs, anunciou dois novos modelos SATA com velocidades de até 560 MB/s e capacidade de até 4 TB. O lançamento ocorre em meio a uma crise de preços que reduziu a competitividade dos SSDs NVMe. Os dispositivos já foram listados na Amazon britânica, mas o link está indisponível. A empresa parece buscar atender a demanda por soluções mais acessíveis.",
+        "porQueImporta": "Oferece alternativas mais econômicas para consumidores que buscam desempenho sólido sem o custo dos SSDs NVMe.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/carros/por-que-o-brasil-ainda-bloqueia-telas-e-recursos-que-voce-paga-no-carro/"
+            "url": "https://canaltech.com.br/hardware/por-que-a-sandisk-aposta-no-retorno-dos-ssds-sata-em-pleno-2026/"
           }
         ],
-        "updatedAt": "2026-05-31T12:00:00.000Z",
-        "imageUrl": "https://t.ctcdn.com.br/ISEz_xx7gwBNKevnCYrwa5g0NRc=/700x394/smart/i1100115.jpeg"
+        "updatedAt": "2026-06-01T13:00:00.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/DelDJc9kWbHalTJzg63EsEzeFQ8=/700x394/smart/i1131015.png"
+      },
+      {
+        "clusterId": "009be66965a349dd",
+        "slug": "bf96dc05eaa915ca",
+        "titulo": "Empresária é presa por vender vídeos de tortura a animais no Discord",
+        "resumo": "Daiana Schuinsekel de Almeida foi detida em São Paulo sob suspeita de torturar e matar animais e de comercializar os vídeos dessas agressões na plataforma Discord. Os vídeos eram vendidos a preços entre 20 e 50 euros para usuários na Europa. A denúncia foi feita por uma ONG búlgara que teve acesso ao conteúdo e informou a Polícia Federal.",
+        "porQueImporta": "A operação demonstra a atuação das autoridades contra crimes de crueldade animal e o uso de redes sociais para distribuir conteúdo ilegal.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/apps/criminosa-usava-discord-para-vender-videos-de-agressoes-e-tortura-a-animais/"
+          }
+        ],
+        "updatedAt": "2026-06-01T13:00:00.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/Cpts8hho0xjOSNgScQyVI_tV2js=/700x394/smart/i812033.jpeg"
+      },
+      {
+        "clusterId": "6d4678e4c07b85b4",
+        "slug": "6cd0284c068399e1",
+        "titulo": "Nubank lança promoção com Galaxy S26 Ultra e TVs Samsung com até 50% de desconto",
+        "resumo": "O Nubank anunciou uma promoção que oferece descontos de até 50% no Galaxy S26 Ultra e em TVs da Samsung. A ação, intitulada \"Sinal de sorte é contar com o Nubank\", também inclui dados extras do NuCel durante a Copa do Mundo. A iniciativa visa aproveitar o interesse brasileiro em futebol e a chegada do torneio. A promoção faz parte de um conjunto de estratégias de marketing do banco.",
+        "porQueImporta": "A oferta pode influenciar decisões de compra de consumidores durante o período da Copa do Mundo.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/produtos/promocao-do-nubank-tem-galaxy-s26-ultra-e-tvs-da-samsung-com-50-de-desconto/"
+          }
+        ],
+        "updatedAt": "2026-06-01T12:50:00.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/VFTj-zRFu4yzqOhskWCTWhOwO3A=/700x394/smart/i1108707.jpeg"
+      },
+      {
+        "clusterId": "e1936e75619e2e15",
+        "slug": "f453036933b66ae2",
+        "titulo": "Google Fotos anuncia hub de IA e integração com CapCut para edição de vídeo",
+        "resumo": "O Google Fotos está desenvolvendo novas ferramentas de inteligência artificial e edição avançada para as Recordações, incluindo integração com o CapCut e um novo hub dedicado a criações automáticas. As novidades foram identificadas na versão 7.78.0.920664585 do aplicativo. As mudanças visam ampliar as opções de personalização das Recordações, que atualmente permitem apenas selecionar ou remover fotos. A integração com o CapCut permitirá edição de vídeo mais sofisticada dentro do Google Fotos.",
+        "porQueImporta": "Essas atualizações ampliam as capacidades de edição e organização de fotos e vídeos, facilitando a criação de conteúdo personalizado pelos usuários.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/inteligencia-artificial/google-fotos-prepara-hub-de-ia-e-edicao-de-video-turbinada-com-o-capcut/"
+          }
+        ],
+        "updatedAt": "2026-06-01T12:14:43.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/v15QNUK3vxRY2wODBqgdBRY5bPA=/700x394/smart/i1120803.png"
       }
     ],
     "ciencia": [
+      {
+        "clusterId": "7b7e15279ae86d73",
+        "slug": "dec670dd1234238d",
+        "titulo": "Desaparecimento do site Five Thirty Eight gera preocupação",
+        "resumo": "O site Five Thirty Eight, que oferecia conteúdo digital, deixou de existir, gerando lamentação entre usuários e especialistas. Carlos Eduardo Lins da Silva destaca que a perda pode apagar a memória histórica em uma era dominada pela digitalização. A ausência do site levanta questões sobre preservação de conteúdo online e a fragilidade de plataformas digitais.",
+        "porQueImporta": "A perda do site evidencia a vulnerabilidade da memória digital e a necessidade de estratégias de preservação.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/noticias/desaparecimento-do-site-five-thirty-eight-e-algo-para-se-lamentar/"
+          }
+        ],
+        "updatedAt": "2026-06-01T11:40:02.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/03/20230313_carlos-eduardo--1024x1024.jpg"
+      },
+      {
+        "clusterId": "9a8fc1a9c607381b",
+        "slug": "e3f2c1901cc187c0",
+        "titulo": "São Paulo gera toneladas de lixo e recicla pouco",
+        "resumo": "A cidade de São Paulo produz grandes quantidades de resíduos, mas a taxa de reciclagem permanece baixa. O aumento na geração de lixo intensifica os impactos ambientais e sociais. A situação demanda soluções imediatas para reduzir a produção de resíduos e melhorar a reciclagem.",
+        "porQueImporta": "O cenário destaca a necessidade urgente de políticas públicas eficazes para proteger o meio ambiente e a saúde pública.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/radio-usp/sao-paulo-produz-toneladas-de-lixo-e-recicla-pouco/"
+          }
+        ],
+        "updatedAt": "2026-06-01T11:01:34.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/03/pasta-dos-20230313_saldiva--1024x1024.jpg"
+      },
+      {
+        "clusterId": "2e582a1b4081641c",
+        "slug": "f98162bc7ca9b7c9",
+        "titulo": "Missão Shenzhou-23 vai testar efeitos do espaço no corpo humano por um ano",
+        "resumo": "A China enviará a nave Shenzhou-23 à Estação Espacial Internacional para realizar mais de cem experimentos científicos. Entre os estudos, a missão avaliará os impactos do ambiente espacial na saúde humana e na agricultura, cultivando plantas no espaço. A tripulação permanecerá na estação por um ano completo.",
+        "porQueImporta": "Os resultados podem informar futuras missões de longa duração e melhorar a compreensão dos efeitos do espaço no corpo humano.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/ciencia/shenzhou-23-missao-espacial-chinesa-testara-efeitos-do-espaco-no-corpo-humano-por-1-ano/"
+          }
+        ],
+        "updatedAt": "2026-06-01T11:00:31.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/05/2905-china-layout_site.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "57c7cf3c26ef6608",
+        "slug": "ba357637b3d289e4",
+        "titulo": "Filó, brasileiro que levantou a taça da Copa do Mundo de 1934 jogando pela Itália",
+        "resumo": "Em 1934, o paulistano Filó foi parte da seleção italiana que venceu a Copa do Mundo, levantando a taça no palco internacional. Ele também marcou gol na goleada 7 a 1 contra os Estados Unidos, demonstrando sua habilidade em campo. A trajetória de Filó mostra a complexidade das regras de nacionalidade e a mobilidade de jogadores nas primeiras décadas do futebol mundial.",
+        "porQueImporta": "Ilustra como jogadores brasileiros já influenciaram equipes estrangeiras antes do Brasil conquistar a Copa.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/historia/o-brasileiro-que-ganhou-a-copa-do-mundo-antes-do-brasil-jogando-pela-italia/"
+          }
+        ],
+        "updatedAt": "2026-05-31T21:10:34.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/05/3005-Filo-layout_site.jpg?quality=70&strip=info"
+      },
       {
         "clusterId": "fcfaca9a053f3c1f",
         "slug": "c40a433c78229360",
@@ -994,272 +1043,174 @@
           }
         ],
         "updatedAt": "2026-05-31T12:58:08.000Z"
-      },
-      {
-        "clusterId": "d436bcc6485f8cfa",
-        "slug": "c0679827f13b9799",
-        "titulo": "Fidel Castro tenta criar supervaca leiteira em Cuba",
-        "resumo": "Fidel Castro buscou aumentar a produção de leite em Cuba e desenvolveu a Ubre Blanca, uma vaca que se tornou recordista mundial de produção de leite. O projeto visava atender à demanda interna e reduzir a dependência de importações de laticínios. A iniciativa refletiu a preocupação do governo com a segurança alimentar e a modernização da agricultura cubana.",
-        "porQueImporta": "Ilustra a busca cubana por autonomia alimentar e inovação agrícola durante o regime de Castro.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/mundo-estranho/a-saga-de-fidel-castro-para-criar-uma-supervaca-leiteira/"
-          }
-        ],
-        "updatedAt": "2026-05-31T11:02:57.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/05/2905-Fidel-Castro-MundoEstranho_layout_site.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "87eaccb2570c9e83",
-        "slug": "95d0d8d1b4083d69",
-        "titulo": "'Nosso modelo mental tem o potencial de nos tornar mais fortes', diz pesquisadora de Stanford",
-        "resumo": "Dados do Ministério da Saúde revelam crescimento expressivo de atendimentos de saúde mental de crianças e adolescentes A coluna de quinta-feira mostrou como motivação e propósito foram apontados como fatores essenciais na Conferência de Envelhecimento Saudável da Universidade Stanford. Hoje, escrevo sobre a instigante palestra de Alia Crum, professora de psicologia da instituição e principal pesquisadora do Laboratório de Corpo e Mente (Mind & Body Lab). Seu trabalho se concentra em como mudanças em nossas crenças podem alterar a realidade objetiva, e seu ponto de partida foi o efeito…",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/05/31/nosso-modelo-mental-tem-o-potencial-de-nos-tornar-mais-fortes-diz-pesquisadora-de-stanford.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-31T07:02:04.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/AGrTMHB5aamCkcGkgGtCwexRDD8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/y/GpxrlcSpSmomBgXmhB5g/aliacrum2.jpg"
-      },
-      {
-        "clusterId": "25091c1c930c9bd1",
-        "slug": "3b49e35564a1bfa3",
-        "titulo": "Elefante e humano levam o mesmo tempo para urinar",
-        "resumo": "Um estudo mostrou que, apesar de a bexiga de um elefante conter milhares de mililitros a mais, o tempo necessário para urinar é semelhante ao de um humano. A diferença no volume não altera a velocidade de esvaziamento. O experimento foi realizado durante um intervalo de jogo, evidenciando a eficiência do sistema urinário do elefante.",
-        "porQueImporta": "Ilustra adaptações fisiológicas que permitem que animais de grande porte mantenham funções corporais eficientes.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/mundo-estranho/com-a-bexiga-cheia-voce-e-um-elefante-levam-o-mesmo-tempo-fazendo-xixi-mas-como/"
-          }
-        ],
-        "updatedAt": "2026-05-30T19:02:06.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/05/2505MundoEstranho-xixi_layout_site.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "39286c08f045b6e4",
-        "slug": "cbe55f06c2486d16",
-        "titulo": "Estudo explica tamanho reduzido dos braços de Tyrannosaurus rex",
-        "resumo": "Um estudo publicado por pesquisadores da University College London investigou por que o Tyrannosaurus rex e outros terópodes bípedes tinham braços muito pequenos em relação ao corpo. O T. rex, com cerca de 12 a 13 metros de comprimento, possuía braços de apenas 1 metro. A pesquisa sugere que a estrutura corporal e a função dos braços evoluíram para atender a necessidades específicas de locomoção e alimentação. Os resultados contribuem para a compreensão da evolução dos dinossauros carnívoros.",
-        "porQueImporta": "Ajuda a esclarecer como adaptações corporais influenciaram a sobrevivência de espécies gigantes.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/ciencia/noticia/2026/05/30/por-que-o-t-rex-tinha-bracos-ridiculamente-pequenos.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-30T13:10:57.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/B0tUqxvH0xZ2jXM3Hj42ypIjygA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/O/A4kgwHRZCszgo0jFV2XA/0788db20-5437-11f1-97ae-1b4b9bb4c9eb.jpg.webp"
       }
     ],
     "saude": [],
     "esportes": [
       {
-        "clusterId": "f06d7040f86a2957",
-        "slug": "1dd9335e38913e02",
-        "titulo": "João Fonseca enfrenta Casper Ruud nas oitavas de Roland Garros",
-        "resumo": "O brasileiro de 19 anos, João Fonseca, encara o 16º do mundo, Casper Ruud, na oitava de final de Roland Garros. A partida está marcada para começar às 15h15, horário de Brasília, e será transmitida ao vivo no Brasil. A vitória de Fonseca colocaria o atleta em caminho de enfrentar outros grandes nomes do tênis atual. A partida também destaca a trajetória de Fonseca, que tem apoio de uma gestora bilionária familiar ligada ao mercado financeiro.",
-        "porQueImporta": "É um marco na carreira de Fonseca e pode impulsionar sua posição no ranking mundial.",
+        "clusterId": "7b1b01b569e84011",
+        "slug": "8a4fd0f144141074",
+        "titulo": "Brasil avança às quartas de final em Roland Garros",
+        "resumo": "O tenista João Fonseca venceu Casper Ruud por 3 sets a 1 nas oitavas de final, tornando-se o primeiro brasileiro a chegar às quartas de um Grand Slam francês desde Gustavo Kuerten, há 22 anos. Marcelo Demoliner, em parceria com Sriram Balaji, derrotou os alemães Tim Puetz e Kevin Krawietz por 2 a 0 nas oitavas de final, alcançando sua segunda vez nas quartas de um Grand Slam. Ambos os atletas garantiram premiações significativas e ampliaram a presença brasileira no torneio.",
+        "porQueImporta": "A participação de dois brasileiros nas quartas de Roland Garros destaca o crescimento do tênis nacional em eventos de alto nível.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/tenis/noticia/2026/06/01/joao-fonseca-elogia-o-proximo-rival-em-roland-garros-ele-joga-muito-bem-no-saibro.ghtml"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/esportes/quando-joao-fonseca-volta-a-jogar-em-roland-garros/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/quem-sera-o-adversario-de-joao-fonseca-nas-quartas-de-roland-garros"
+            "url": "https://ge.globo.com/tenis/noticia/2026/06/01/marcelo-demoliner-avanca-as-quartas-na-chave-de-duplas-de-roland-garros.ghtml"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/tenis/galvao-bueno-comemora-vitoria-de-joao-fonseca-e-o-compara-a-guga/"
+            "url": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-x-mensik-horario-e-onde-assistir-as-quartas-de-roland-garros/"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/roland-garros-2026-veja-os-jogos-desta-segunda-feira-1o-de-junho/"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-sportsmkt/fonseca-avanca-em-paris-e-assegura-r-27-milhoes-em-premiacao/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/sob-olhares-de-guga-joao-fonseca-supera-ruud-e-avanca-as-quartas-em-roland-garros/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/esporte/joao-fonseca-vence-casper-ruud-e-avanca-as-quartas-de-final-de-roland-garros/"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/economia/noticia/2026/05/31/joao-fonseca-roland-garros-veja-quanto-o-brasileiro-faturou.ghtml"
-          },
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/05/31/internet-e-redes-sociais/joao-fonseca-em-roland-garros-onde-acompanhar-o-duelo-do-brasileiro-contra-casper-rudd/"
           }
         ],
-        "updatedAt": "2026-06-01T03:01:33.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/j7fWjTxNsQDGVAjNDE1OasHx60Y=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/3/r/VIhQWfT0mZfsQbgfqAkA/gettyimages-2279122633.jpg"
+        "updatedAt": "2026-06-01T12:17:23.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/otbuXI4zVAW4_kAjm6z6udyoXTI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/u/d/NNWvg5QtS5A73OYAFxcQ/gettyimages-2216876573.jpg"
       },
       {
-        "clusterId": "fca3863a973b8eef",
-        "slug": "3ecf16da19361162",
-        "titulo": "Seleções anunciam convocados e programações para a Copa do Mundo 2026",
-        "resumo": "A Arábia Saudita divulgou sua lista de 26 jogadores, reduzindo a pré-lista de 30. O México anunciou sua equipe, destacando o goleiro Guillermo Ochoa, que fará seu sexto Mundial aos 40 anos. A Austrália também revelou seus 26 convocados, com o goleiro Maty Ryan como capitão. O Brasil terá seu primeiro jogo dois dias após a abertura do torneio, que será disputado em 48 seleções nos Estados Unidos, Canadá e México.",
-        "porQueImporta": "Esses anúncios preparam as nações para a maior edição da Copa do Mundo, marcando a expansão e a participação de novos países anfitriões.",
+        "clusterId": "7cbd714fa2a1f80f",
+        "slug": "0a30bfbad968531d",
+        "titulo": "Seleções nacionais divulgam listas de 26 convocados para a Copa do Mundo de 2026",
+        "resumo": "Os técnicos do Irã, Iraque, Austrália, México e Arábia Saudita anunciaram as equipes que disputarão a Copa do Mundo de 2026. Cada seleção revelou seus 26 jogadores, incluindo goleiros, defensores, meio-campistas e atacantes, e destacou a importância de cumprir requisitos de visto e logística para a competição. O Irã e o Iraque enfrentam grupos considerados difíceis, enquanto o México, como país anfitrião, inicia o torneio contra a África do Sul.",
+        "porQueImporta": "Essas listas definem os atletas que representarão seus países no maior evento internacional de futebol, influenciando estratégias e expectativas dos torcedores.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/01/convocados-da-arabia-saudita-para-a-copa-do-mundo-2026-veja-a-lista.ghtml"
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/01/convocados-do-ira-para-a-copa-do-mundo-2026-veja-a-lista.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/australia-divulga-lista-de-26-convocados-para-a-copa-do-mundo/"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/esporte/quando-sera-o-primeiro-jogo-do-brasil-na-copa-do-mundo-de-2026/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/globo-reporter/noticia/2026/05/30/brasil-ja-ganhou-copa-do-mundo-no-mexico-veja-como-cidade-do-tri-de-pele-se-prepara-para-receber-mais-um-mundial.ghtml"
+            "url": "https://exame.com/esporte/mexico-divulga-convocados-para-a-copa-do-mundo-de-2026-veja-a-lista/"
           }
         ],
-        "updatedAt": "2026-06-01T04:02:38.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/ASMLtqGFgIM_gbU7ee5CvypVE80=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/c/R/jOHqGpQYW2MkNOfeds3A/gettyimages-1401991481.jpg"
+        "updatedAt": "2026-06-01T12:30:46.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/QuUdvicwhkVegf9q1tWXAUoPJdM=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/h/R/uuqTjPTSA4zQ9FrDE0vQ/gettyimages-2278047520.jpg"
       },
       {
-        "clusterId": "efc19f8b39b4710d",
-        "slug": "e2a8d7e8eaa30cca",
-        "titulo": "Remo vence São Paulo nos acréscimos",
-        "resumo": "O Remo venceu o São Paulo por 1 a 0, com gol de Marcelinho nos acréscimos, garantindo a vitória no Estádio Mangueirão. O resultado mantém o time na luta contra a zona de rebaixamento e aumenta o jejum do São Paulo na competição. As equipes não disputarão partidas até o final de julho devido à paralisação pela Copa do Mundo.",
-        "porQueImporta": "A vitória reforça a posição do Remo na zona de rebaixamento e destaca a fragilidade do São Paulo no Brasileirão.",
+        "clusterId": "96a4a73ebdefb380",
+        "slug": "109e3eb0de6d48e0",
+        "titulo": "Michael B. Jordan elogia gol de Rayan e publica bandeira do Brasil nas redes sociais",
+        "resumo": "O ator vencedor do Oscar, Michael B. Jordan, comentou o gol de Rayan na vitória do Brasil por 6 a 2 sobre o Panamá em um amistoso internacional. A interação ocorreu em uma foto do jogador publicada pelo Bournemouth. Jordan postou a bandeira do Brasil junto ao comentário.",
+        "porQueImporta": "Mostra a atenção internacional ao desempenho da Seleção Brasileira em amistosos.",
         "category": "esportes",
         "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/pa/futebol/brasileirao-serie-a/jogo/31-05-2026/remo-sao-paulo.ghtml"
-          },
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/marcelinho-marca-nos-acrescimos-e-remo-vence-sao-paulo-no-brasileirao"
+            "url": "https://www.metropoles.com/celebridades/michael-b-jordan-exalta-jogador-da-selecao-brasileira-apos-amistoso"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/remo-x-sao-paulo-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/"
+            "name": "GE",
+            "url": "https://ge.globo.com/rj/copa-do-mundo/noticia/2026/06/01/vencedor-do-oscar-michael-b-jordan-comenta-gol-de-rayan-e-publica-bandeira-do-brasil-nas-redes-sociais.ghtml"
           }
         ],
-        "updatedAt": "2026-06-01T02:05:55.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/05/remo-x-sao-paulo.jpg"
+        "updatedAt": "2026-06-01T13:09:38.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/03/michael-b-jordan.png"
       },
       {
-        "clusterId": "2691ecefcead78c8",
-        "slug": "af6ca072d3ecb66f",
-        "titulo": "Remo vence São Paulo por 1 a 0 no Mangueirão",
-        "resumo": "O Remo derrotou o São Paulo por 1 a 0, com gol de Marcelinho no último minuto do segundo tempo. A partida foi marcada por momentos dramáticos e pela atuação destacada do goleiro Ivan. O resultado foi importante para a equipe que busca evitar a zona de rebaixamento. O São Paulo permanece sem vitórias no campeonato.",
-        "porQueImporta": "A vitória reforça a posição do Remo na luta contra o rebaixamento e mantém a sequência de derrotas do São Paulo no Brasileirão.",
+        "clusterId": "fcbc84619eefd9f1",
+        "slug": "9b970b0a6f45a751",
+        "titulo": "Lille anuncia Davide Ancelotti como novo técnico",
+        "resumo": "O clube francês contratou o italiano Davide Ancelotti, ex-técnico do Botafogo, para liderar o Lille na temporada 2026/27. O contrato tem duração de dois anos, até julho de 2028, e o treinador continuará atuando como auxiliar da seleção brasileira, onde trabalha com seu pai, Carlo Ancelotti. Ancelotti tem experiência em equipes de alto nível, como PSG e Real Madrid, onde atuou nas comissões do pai.",
+        "porQueImporta": "A contratação de Ancelotti reforça a presença de técnicos com experiência internacional no futebol francês, influenciando a competitividade da Ligue 1.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/06/01/autor-do-gol-da-vitoria-do-remo-marcelinho-exalta-nao-desistimos-nunca.ghtml"
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-frances/noticia/2026/06/01/lille-anuncia-davide-ancelotti-ex-botafogo-como-novo-tecnico.ghtml"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-paulo-leva-gol-no-fim-perde-para-remo-e-segue-sem-vencer-no-brasileiro/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/davide-ancelotti-filho-de-ancelotti-e-nomeado-treinador-do-lille/"
           }
         ],
-        "updatedAt": "2026-06-01T03:57:20.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/ZCNjUCPLE7T4Dnv-WRtfO9-iTFw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/U/m/rbpxDmQwOT5kstclVzfA/whatsapp-image-2026-05-31-at-23.09.31-1-.jpeg"
+        "updatedAt": "2026-06-01T12:09:34.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/JAjJEpr78LAcvvdsp6ixpPnu3AQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/n/t/EkE3iMTB65lh7uoopQMw/hjuf395xiamxt9e-1-.jpg"
       },
       {
-        "clusterId": "46e62225804e3de4",
-        "slug": "f192e35ca15b5f6a",
-        "titulo": "Cruzeiro e Fluminense empatam 1 a 1 no Mineirão",
-        "resumo": "O jogo terminou em 1 a 1, com gol de John Kennedy no primeiro tempo e de Matheus Pereira no segundo. O empate ocorreu no último duelo antes da pausa para a Copa do Mundo. O técnico Artur Jorge descreveu o resultado como “cínico e ingrato”, enquanto o atacante Matheus Pereira criticou as chances desperdiçadas. O Fluminense e o Cruzeiro permanecem na mesma posição na tabela.",
-        "porQueImporta": "O resultado mantém ambos os times na mesma posição na tabela do Brasileirão, afetando a classificação para a próxima fase.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/mg/futebol/brasileirao-serie-a/jogo/31-05-2026/cruzeiro-fluminense.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/matheus-pereira-aponta-erro-que-custou-vitoria-do-cruzeiro-sobre-fluminense/"
-          }
-        ],
-        "updatedAt": "2026-06-01T03:20:07.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/GF1Ij0hyLHLe6MrpQtjHF7b8FF8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/j/W/5iDNvJSl6EV9TkY6d6qg/55306400569-2bdcde185e-k.jpg"
-      },
-      {
-        "clusterId": "e7045b021c1918dd",
-        "slug": "f971251350f5a023",
-        "titulo": "Seleções alemã e brasileira goleiam adversários em amistosos antes da Copa do Mundo",
-        "resumo": "A Alemanha venceu a Finlândia por 4 a 0, com duas vezes de Undav, em um amistoso que serve de preparação para a Copa. O Brasil goleou o Panamá por 6 a 0 no Maracanã, com gols de Vini Jr, Casemiro, Rayan, Paquetá, Igor Thiago e Danilo Santos, antes de embarcar para o Mundial. Ambos os jogos foram penúltimos testes das seleções antes da competição internacional.",
-        "porQueImporta": "Mostra a forma e confiança das equipes antes da Copa do Mundo.",
+        "clusterId": "f0c33d994c8fefee",
+        "slug": "859295e60b663f93",
+        "titulo": "Gabigol expulso do Santos por gesto obsceno contra torcedor do Vitória",
+        "resumo": "Durante a 18ª rodada do Campeonato Brasileiro, o atacante do Santos, Gabriel Barbosa, marcou o terceiro gol na vitória por 3 a 1 sobre o Vitória, mas foi expulso dois minutos depois por fazer um gesto obsceno a um torcedor na Vila Belmiro. O clube deverá apresentar denúncia ao STJD, com possibilidade de suspensão de até seis partidas. A ação gerou repercussão internacional, com críticas de veículos estrangeiros.",
+        "porQueImporta": "A expulsão pode afetar a participação do Santos em jogos futuros e destaca a necessidade de conduta adequada dos jogadores.",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/com-brilho-de-atacante-alemanha-goleia-finlandia-em-teste-antes-da-copa/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/santos-gabigol-sera-denunciado-no-stjd-por-gesto-obsceno/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/jogo/31-05-2026/brasil-panama.ghtml"
+            "url": "https://ge.globo.com/pe/futebol/noticia/2026/06/01/viralizou-fim-de-jogo-maluco-em-vitoria-do-palmeiras-gesto-obsceno-de-gabigol-e-injusticados-da-copa.ghtml"
           }
         ],
-        "updatedAt": "2026-06-01T02:53:12.000Z"
+        "updatedAt": "2026-06-01T12:07:39.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/bYOIZTmaKsz3XWraGDHZhvzDYPw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/9/g/5IlN27TtSTgp9Z5HvpAw/gabigolgesto01.jpg"
       },
       {
-        "clusterId": "dbecca061fa6a3cf",
-        "slug": "4c7663e9a5347e9c",
-        "titulo": "Cuiabá vence o CRB na Arena Pantanal e se afasta do Z4 da Série B",
-        "resumo": "O Cuiabá derrotou o CRB por 2 a 1 na Arena Pantanal, com gols de Vinícius Peixoto e Pepê. O gol de Dourado encerrou a sequência de quatro vitórias consecutivas do CRB. A vitória marcou a primeira conquista em casa do Cuiabá na Série B e melhorou sua posição na tabela.",
-        "porQueImporta": "A eliminação do Z4 aumenta as chances do Cuiabá de disputar a promoção na segunda metade da temporada.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/cuiaba-bate-crb-vence-a-primeira-em-casa-e-respira-na-tabela-da-serie-b/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/mt/futebol/brasileirao-serie-b/jogo/31-05-2026/cuiaba-crb.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-01T01:59:45.000Z"
-      },
-      {
-        "clusterId": "3eb774ac02c5a661",
-        "slug": "0cfe7a8dff7aa553",
-        "titulo": "Atlético-MG vence Vasco e coloca equipe na zona de rebaixamento",
-        "resumo": "O Atlético-MG venceu o Vasco por 1 a 0 em São Januário, com gol de Vitor Hugo. A derrota faz o Vasco entrar na zona de rebaixamento do Brasileirão, com 20 pontos. O Atlético-MG permanece na 9ª posição, próximo à pausa da Copa do Mundo. Renato Gaúcho lamenta a situação do Vasco, mas destaca a boa campanha da equipe.",
-        "porQueImporta": "A derrota do Vasco altera a dinâmica da zona de rebaixamento e afeta a estratégia da equipe para a segunda metade do campeonato.",
+        "clusterId": "dcbcfb7d70518658",
+        "slug": "a1b4ca02f5a6ff2a",
+        "titulo": "Novorizontino empata São Bernardo 1 a 1 na 11ª rodada da Série B",
+        "resumo": "O técnico Enderson Moreira avaliou positivamente o empate do Novorizontino por 1 a 1 com o São Bernardo, destacando a postura da equipe em buscar a vitória durante toda a partida. Ele lamentou a falta de eficiência nas conclusões, mas reconheceu que houve equilíbrio e que a equipe tentou até o final.",
+        "porQueImporta": "O resultado mantém o Novorizontino em posição de competir por classificação na Série B.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/31-05-2026/vasco-atletico-mg.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/atletico-mg-vence-em-sao-januario-e-coloca-vasco-no-z4-do-brasileirao/"
+            "url": "https://ge.globo.com/sp/tem-esporte/futebol/times/novorizontino/noticia/2026/06/01/enderson-projeta-sequencia-do-novorizontino-na-serie-b-apos-empate-temos-confrontos-importantes.ghtml"
           }
         ],
-        "updatedAt": "2026-06-01T00:53:04.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/0xw8M2CkWFuznIBB6EpP3VN4bJM=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/C/l/Q6EtAyRSaOxE1x9XpePg/whatsapp-image-2026-05-31-at-18.25.32.jpeg"
+        "updatedAt": "2026-06-01T13:33:41.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/7K9qlSXdIFIaBf2JXMYq0h4y8OQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/D/w/24qEyfQvCt2BKWTUsExQ/55305619480-4f7d0a85da-c-1-1-.jpg"
+      },
+      {
+        "clusterId": "83c9d391c0ceca72",
+        "slug": "a172aedc90f1f053",
+        "titulo": "Atacante do Cruzeiro lamenta ausência na lista do Equador para a Copa do Mundo",
+        "resumo": "Keny Arroyo, atacante do Cruzeiro, expressou frustração por não ter sido convocado pelo técnico Sebastián Beccacece para a Copa do Mundo de 2026. O jogador destacou seu esforço e dedicação para estar na seleção. A convocação do Equador contou com cinco atletas que atuam no futebol brasileiro, um recorde para o país. Arroyo aceitou a decisão final do treinador.",
+        "porQueImporta": "A ausência de jogadores brasileiros em seleções estrangeiras destaca a crescente presença do futebol brasileiro no cenário internacional.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2026/06/01/atacante-do-cruzeiro-desabafa-apos-ausencia-em-lista-do-equador-para-copa-doi.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-01T13:26:52.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/MQjHvbtQ3IYq-0eWDpFmYlMYbUU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Y/K/QlKzu7SMuXkv6TWJhXKw/agif26050222183696.jpg"
+      },
+      {
+        "clusterId": "6df63f292ea34bce",
+        "slug": "65b4e7697dae3d3b",
+        "titulo": "Final da Copa Sul-Sudeste entre Avaí e Chapecoense terá ingressos gratuitos",
+        "resumo": "O jogo de ida da final da Copa Sul-Sudeste, entre Avaí e Chapecoense, será realizado na Ressacada com ingresso gratuito para os torcedores não sócios, que deverão retirar os bilhetes na plataforma Futebol Card, escolhendo a opção \"Legacy Comex\". Cada CPF pode retirar até três ingressos. Os sócios, por sua vez, precisam fazer check‑in para validar o acesso.",
+        "porQueImporta": "A oferta de ingressos gratuitos amplia o acesso dos torcedores ao evento decisivo da competição.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/sc/futebol/copa-sul-sudeste/noticia/2026/06/01/final-avai-x-chapecoense-pela-copa-sul-sudeste-tera-ingressos-gratuitos.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-01T13:25:29.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/ysVWnByw40-veR3pZyCxbG9lpE0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/I/x/ZuAOzMTxAmBCRd1j2lXw/ressacada-florianopolis.jpg"
       }
     ],
     "entretenimento": [
       {
-        "clusterId": "4544d874d2db6c68",
+        "clusterId": "1ed57da6d947e0e2",
         "slug": "4145c7f0c28e0d41",
         "titulo": "Rock In Rio 2026 anuncia nova modalidade de ingresso e atrações para 6 e 13 de setembro",
         "resumo": "O festival Rock In Rio 2026 introduziu a Comfort Zone, uma área de 2 mil pessoas com vista frontal ao Palco Mundo e serviços exclusivos. No dia 6 de setembro, Calvin Harris, Black Eyed Peas, Nelly e a formação original do Barão Vermelho se apresentarão no Palco Mundo, enquanto o Palco Sunset contará com Ne‑Yo, Jota Quest tocando Tim Maia, BaianaSystem e Calema. No dia 13 de setembro, Halsey, Lola Young e Ivete Sangalo serão os destaques do festival.",
@@ -1267,16 +1218,48 @@
         "category": "entretenimento",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/entretenimento/rock-in-rio-anuncia-nova-modalidade-de-ingresso-com-area-em-frente-ao-palco/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/entretenimento/musica/rock-in-rio-line-up"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/05/30/rock-in-rio-2026-anuncia-calvin-harris-e-black-eyed-peas.ghtml"
           }
         ],
-        "updatedAt": "2026-05-31T23:37:56.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/NOPgPooOmmFRKwhu5rxCSMpYpSg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/B/U4geRaRIyvTP2UtllEeg/bep-photo-3.jpg"
+        "updatedAt": "2026-06-01T13:00:39.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/rock-in-rio-2026-anuncia-calvin-harris-e-black-eyed-peas-veja-line-up.jpg"
+      },
+      {
+        "clusterId": "0b8a3bcc634ee072",
+        "slug": "e7520b1ccea54016",
+        "titulo": "Jeninho, o MC Peão, alcança sucesso no agrofunk com hit \"Peão Todo Tatuado\"",
+        "resumo": "Jeninho, filho de produtor musical Jenner Mello, mudou de foco de futebol para música e agora ocupa o 3º lugar no Top 50 do Spotify com a faixa \"Peão Todo Tatuado\". A música se tornou uma das mais tocadas no serviço, consolidando sua carreira artística. O artista destaca que a decisão de seguir a música foi um passo certeiro fora do campo.",
+        "porQueImporta": "O sucesso de Jeninho demonstra a ascensão de novos gêneros musicais no cenário brasileiro e a influência de heranças familiares na escolha de carreira.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/sertanejo/noticia/2026/06/01/do-sonho-em-ser-jogador-ao-sucesso-no-agrofunk-quem-e-jeninho-do-hit-peao-todo-tatuado.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-01T11:40:05.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/uQdlo_WCcYgSDQcLT6YmyN_iVCY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/p/rXBuC4ToKYVWhcMW5Ibw/novo-projeto-4-.jpg"
+      },
+      {
+        "clusterId": "26f70eb55eeb9d68",
+        "slug": "3e1e09b464059cd5",
+        "titulo": "Dua Lipa e Callum Turner casam em cerimônia discreta em Londres",
+        "resumo": "A cantora Dua Lipa e o ator Callum Turner se casaram em Londres, em uma cerimônia privada com apenas oito convidados. O casamento foi registrado em cartório no bairro de Marylebone. O casal, que está noivo desde 2024, planeja celebrar com uma festa que ocorrerá em breve. A cerimônia foi divulgada pelo jornal The Sun.",
+        "porQueImporta": "O casamento reúne duas figuras públicas de destaque no cenário internacional, gerando interesse mediático e entre seus fãs.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/06/01/dua-lipa-se-casa-com-ator-callum-turner-em-cerimonia-discreta-em-londres.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-01T11:23:50.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/OTuF_YTx-nwpQyCLwJBtoXTFXyM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/Y/7La55XRViSx8gYXKD2fA/hjprndlxmaeugev.jpg"
       },
       {
         "clusterId": "3fac8d7db2ec0b21",
@@ -1341,54 +1324,6 @@
         ],
         "updatedAt": "2026-05-31T08:01:06.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/1oB1kPQSfy02hZqn3o8LI_KMV7c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/X/3bsJO8RWmSZfLGroYYtg/ana-flauzinafoto-matheus-leite-1-.png"
-      },
-      {
-        "clusterId": "3b43e191e85e3d90",
-        "slug": "d190134a7079ed65",
-        "titulo": "Gloria Groove lança single 'O chá'",
-        "resumo": "A artista paulistana lançou o single 'O chá' em 28 de maio, apresentando um estilo que mistura pop e reggae. O lançamento segue a trajetória de inovação musical de Gloria Groove, que já lançou o álbum 'Lady Leste' em 2020. O novo single não teve grande impacto comercial, mas mantém a presença da artista no cenário musical. O título faz referência a um sabor amargo, refletindo a crítica à falta de repercussão do lançamento.",
-        "porQueImporta": "O lançamento demonstra a continuidade da carreira de Gloria Groove e a sua adaptação às tendências musicais atuais.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/05/30/gloria-groove-serve-o-cha-com-sabor-pop-levada-de-reggae-e-o-gosto-amargo-deixado-por-single-sem-real-impacto.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-30T09:01:21.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/NPpyChK3N7PsDf-Gvw9SUmgtznc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/2/CwVayBTLK8UuD5CNACVA/gloriagrooveocha.jpg"
-      },
-      {
-        "clusterId": "d3d4f200790a60d7",
-        "slug": "48ac7183ff69bce5",
-        "titulo": "Paul McCartney lança 18º álbum solo \"The Boys of Dungeon Lane\"",
-        "resumo": "O ex-McCartney lançou seu 18º disco solo, intitulado \"The Boys of Dungeon Lane\", que traz um tom nostálgico e sensível. O título faz referência a uma rua onde ele e George Harrison cresceram, e o álbum reflete memórias de sua juventude. McCartney, com 83 anos, continua ativo e demonstra que permanece em forma. O trabalho foi bem recebido, com nota 8,5/10 no G1.",
-        "porQueImporta": "O lançamento demonstra a longevidade e criatividade contínua de um ícone da música.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/05/30/paul-mccartney-viaja-no-tempo-em-boys-of-dungeon-lane-seu-album-mais-sensivel-nas-ultimas-decadas.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-30T09:01:04.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/JFY_h8nyynqNRaYvtq_nbLg8Jxg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/L/KCUCM2TViN8ueeyESVYA/captura-de-tela-2026-05-29-154824.png"
-      },
-      {
-        "clusterId": "e259f4015c2c00d1",
-        "slug": "0b2047326034fc45",
-        "titulo": "Ellen Oléria lança álbum ‘Canto de casa vol. 1’ com 10 faixas e colaboração com rapper Rincon Sapiência",
-        "resumo": "O álbum autoral de Ellen Oléria, ‘Canto de casa vol. 1’, foi lançado em 30 de maio e contém dez músicas que exploram o groove e memórias da ancestralidade africana. A faixa de abertura, ‘Axé de ouro’, destaca o estilo da artista, enquanto ‘Abya Yala’ traz referências culturais. O trabalho inclui uma colaboração com o rapper Rincon Sapiência, ampliando o alcance do projeto.",
-        "porQueImporta": "O lançamento reforça a presença de Ellen Oléria no cenário musical brasileiro e destaca a valorização da cultura afro-brasileira.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/05/30/ellen-oleria-aposta-no-groove-de-canto-de-casa-album-autoral-que-inclui-feat-da-artista-com-rapper-rincon-sapiencia.ghtml"
-          }
-        ],
-        "updatedAt": "2026-05-30T08:01:14.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/FH9zDZLhjoSqPu4X7yD-qSK2Xv8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/taKTr1Qnado1IO7iIUpQ/ellenoleriadiegobresani.jpg"
       }
     ]
   }
