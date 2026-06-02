@@ -21,51 +21,69 @@ const shareUrl = new URL(`/noticia/${storySlug(story)}/`, Astro.site!).href;
 const whatsappUrl = `https://wa.me/?text=${encodeURIComponent(`${story.titulo} ${shareUrl}`)}`;
 ---
 
-<article id={story.clusterId} class="scroll-mt-28 border-b border-neutral-200 py-5 dark:border-neutral-800">
-  <div class="flex items-center gap-2 text-xs">
-    {badge && <a href={`/${story.category}`} class="font-medium uppercase tracking-wide text-sky-700 hover:underline dark:text-sky-400">{badge}</a>}
-    {when && <time class="text-neutral-500" datetime={story.updatedAt}>{when}</time>}
-  </div>
+<article
+  id={story.clusterId}
+  class:list={[
+    'group flex scroll-mt-28 flex-col overflow-hidden rounded-lg border border-neutral-200 bg-white transition-shadow hover:shadow-md dark:border-neutral-800 dark:bg-neutral-900',
+    featured && 'sm:col-span-2 lg:col-span-3',
+  ]}
+>
+  {
+    story.imageUrl && (
+      <a href={primary?.url} target="_blank" rel="noopener noreferrer" class="block overflow-hidden">
+        <img
+          src={story.imageUrl}
+          alt=""
+          loading="lazy"
+          decoding="async"
+          referrerpolicy="no-referrer"
+          onerror="this.closest('a')?.remove()"
+          class:list={[
+            'w-full object-cover transition-transform duration-300 group-hover:scale-[1.02]',
+            featured ? 'aspect-[2/1]' : 'aspect-video',
+          ]}
+        />
+      </a>
+    )
+  }
 
-  <div class="mt-2 flex gap-4">
-    <div class="min-w-0 flex-1">
-      <h2 class:list={['font-serif font-bold leading-snug', featured ? 'text-2xl sm:text-3xl' : 'text-lg']}>
-        <a
-          href={primary?.url}
-          target="_blank"
-          rel="noopener noreferrer"
-          class="hover:text-sky-700 hover:underline dark:hover:text-sky-400"
-        >
-          {story.titulo}
-        </a>
-      </h2>
+  <div class="flex flex-1 flex-col p-4">
+    <div class="flex items-center gap-2 text-xs">
+      {badge && <a href={`/${story.category}`} class="font-medium uppercase tracking-wide text-sky-700 hover:underline dark:text-sky-400">{badge}</a>}
+      {when && <time class="text-neutral-500" datetime={story.updatedAt}>{when}</time>}
+    </div>
 
-      {
-        featured && story.imageUrl && (
-          <img
-            src={story.imageUrl}
-            alt=""
-            loading="lazy"
-            decoding="async"
-            referrerpolicy="no-referrer"
-            onerror="this.remove()"
-            class="mt-3 aspect-video w-full rounded-lg object-cover"
-          />
-        )
-      }
+    <h2 class:list={['mt-2 font-serif font-bold leading-snug', featured ? 'text-2xl sm:text-3xl' : 'text-lg']}>
+      <a
+        href={primary?.url}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="hover:text-sky-700 hover:underline dark:hover:text-sky-400"
+      >
+        {story.titulo}
+      </a>
+    </h2>
 
-      <p class:list={['mt-2 text-neutral-700 dark:text-neutral-300', featured ? 'text-base' : 'text-sm']}>{story.resumo}</p>
+    <p
+      class:list={[
+        'mt-2 text-neutral-700 dark:text-neutral-300',
+        featured ? 'text-base' : 'text-sm line-clamp-4',
+      ]}
+    >
+      {story.resumo}
+    </p>
 
-      {
-        story.porQueImporta && (
-          <p class="mt-3 border-l-2 border-sky-500 pl-3 text-sm text-neutral-600 dark:text-neutral-400">
-            <span class="font-semibold text-neutral-800 dark:text-neutral-200">Por que importa:</span> {story.porQueImporta}
-          </p>
-        )
-      }
+    {
+      story.porQueImporta && (
+        <p class="mt-3 border-l-2 border-sky-500 pl-3 text-sm text-neutral-600 line-clamp-3 dark:text-neutral-400">
+          <span class="font-semibold text-neutral-800 dark:text-neutral-200">Por que importa:</span> {story.porQueImporta}
+        </p>
+      )
+    }
 
-      <div class="mt-3 flex items-start justify-between gap-3">
-        <div class="flex flex-wrap items-center gap-2 text-xs">
+    <div class="mt-auto pt-4">
+      <div class="flex items-start justify-between gap-3">
+        <div class="flex flex-wrap items-center gap-1.5 text-xs">
           <span class="text-neutral-400">Fontes:</span>
           {
             story.sources.map((s) => (
@@ -115,21 +133,6 @@ const whatsappUrl = `https://wa.me/?text=${encodeURIComponent(`${story.titulo} $
         </div>
       </div>
     </div>
-
-    {/* Miniatura lateral só no PC (escondida no celular: texto-first). A manchete usa a foto grande acima. */}
-    {
-      !featured && story.imageUrl && (
-        <img
-          src={story.imageUrl}
-          alt=""
-          loading="lazy"
-          decoding="async"
-          referrerpolicy="no-referrer"
-          onerror="this.remove()"
-          class="hidden h-24 w-32 shrink-0 rounded-md object-cover sm:block"
-        />
-      )
-    }
   </div>
 </article>
 

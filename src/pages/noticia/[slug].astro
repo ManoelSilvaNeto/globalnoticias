@@ -37,6 +37,7 @@ const jsonLd = [
 ---
 
 <Layout title={story.titulo} description={description} image={story.imageUrl} ogType="article" jsonLd={jsonLd}>
+  <div class="mx-auto max-w-3xl">
   <article>
     <p class="text-sm text-sky-700 dark:text-sky-400"><a href="/" class="hover:underline">← todas as notícias</a></p>
 
@@ -107,15 +108,17 @@ const jsonLd = [
       }
     </div>
 
-    {
-      related.length > 0 && (
-        <section class="mt-10 border-t border-neutral-200 pt-6 dark:border-neutral-800">
-          <h2 class="font-serif text-lg font-bold">Leia também</h2>
-          <div class="mt-2">
-            <StoryList stories={related} />
-          </div>
-        </section>
-      )
-    }
   </article>
+  </div>
+
+  {
+    related.length > 0 && (
+      <section class="mt-10 border-t border-neutral-200 pt-6 dark:border-neutral-800">
+        <h2 class="font-serif text-lg font-bold">Leia também</h2>
+        <div class="mt-4">
+          <StoryList stories={related} />
+        </div>
+      </section>
+    )
+  }
 </Layout>
