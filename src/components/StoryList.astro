@@ -14,7 +14,7 @@ const { stories, featureFirst = false } = Astro.props;
   stories.length === 0 ? (
     <p class="py-8 text-center text-sm text-neutral-500">Nenhuma história por aqui ainda. Volte em breve.</p>
   ) : (
-    <div>
+    <div class="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
       {stories.map((story, i) => <StoryCard story={story} featured={featureFirst && i === 0} />)}
     </div>
   )
