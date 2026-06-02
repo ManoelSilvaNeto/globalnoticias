@@ -3,6 +3,7 @@
 
 import type { Story } from './types';
 import { SITE } from './site';
+import { CATEGORY_LABELS, isCategory } from './categories';
 
 export function websiteJsonLd(siteUrl: string): Record<string, unknown> {
   return {
@@ -42,8 +43,10 @@ export function newsArticleJsonLd(
     '@type': 'NewsArticle',
     headline: story.titulo.slice(0, 110), // Google ignora headline > 110 chars
     description: story.resumo,
+    inLanguage: 'pt-BR',
     datePublished: story.updatedAt,
     dateModified: story.updatedAt,
+    ...(isCategory(story.category) ? { articleSection: CATEGORY_LABELS[story.category] } : {}),
     ...(story.imageUrl ? { image: [story.imageUrl] } : {}),
     url: pageUrl,
     mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
