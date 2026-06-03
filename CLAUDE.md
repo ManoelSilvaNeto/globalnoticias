@@ -18,7 +18,11 @@ Groq (IA) · Cloudflare Pages.
 - Modelo Google News — nunca copiar texto da fonte, sempre creditar e linkar.
 - Build nunca quebra por causa da IA — fallback obrigatório.
 
-## Estado atual (atualizado em 2026-05-28)
+## Estado atual (atualizado em 2026-06-03)
+
+### Newsletter por e-mail — ENVIO AUTOMÁTICO adicionado ✓ (2026-06-03, PR #3)
+
+Antes existia **só o formulário de inscrição** (embed do Buttondown `globalnoticias`); **nada enviava edições** — inscritos não recebiam nada. Portado do Radar (validado lá em produção): `pipeline/newsletter.ts` (espelha `social.ts`) lê `data/current.json`, monta digest Markdown dos top destaques (reusa `CATEGORY_LABELS`; omite selo p/ `geral`) e dispara via API do Buttondown (`POST /v1/emails`, `status=about_to_send` + headers `X-API-Version: 2026-04-01` e `X-Buttondown-Live-Dangerously: true` — exigidos pela API 2026-04-01, senão 400 `sending_requires_confirmation`). **Cadência: 1 e-mail/dia** (dedup por data em `data/newsletter.json` + janela `NEWSLETTER_SEND_HOUR_UTC` default 12h UTC ≈ 09h BRT). No-op sem `BUTTONDOWN_API_KEY`. Escapes: `NEWSLETTER_DRY_RUN=1`, `NEWSLETTER_FORCE=1`. Workflow: passo "Enviar newsletter" + commit de `data/newsletter.json`. **⏳ Pendência manual:** criar API key na conta Buttondown `globalnoticias` (≠ conta do Radar) em `buttondown.com/keys` (Emails Read&write + Sending Enabled) e `gh secret set BUTTONDOWN_API_KEY --repo ManoelSilvaNeto/globalnoticias`; depois 1º envio com `NEWSLETTER_FORCE=1`.
 
 ### Sprint do BRIEF — concluído ✓
 
