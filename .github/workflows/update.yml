@@ -117,3 +117,27 @@ jobs:
             # push com token explícito: o 2º push do job não herda a credencial do checkout
             git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main
           fi
+
+      - name: Enviar newsletter (Buttondown)
+        # No-op sem BUTTONDOWN_API_KEY. Manda 1 digest/dia (dedup por data da edição
+        # em data/newsletter.json), a partir das 12h UTC (~09h BRT).
+        if: ${{ env.CLOUDFLARE_API_TOKEN != '' }}
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: pnpm tsx pipeline/newsletter.ts
+
+      - name: Commitar estado da newsletter (se mudou)
+        if: ${{ env.CLOUDFLARE_API_TOKEN != '' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "globalnoticias-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/newsletter.json; then
+            echo "Sem envio de newsletter — nada a commitar."
+          else
+            git add data/newsletter.json
+            git commit -m "newsletter: estado de envio $(date -u +%FT%TZ) [skip ci]"
+            # push com token explícito: o 2º+ push do job não herda a credencial do checkout
+            git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main
+          fi
