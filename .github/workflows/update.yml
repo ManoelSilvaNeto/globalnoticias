@@ -47,7 +47,7 @@ jobs:
       - name: Testes
         run: pnpm test
 
-      - name: Rodar pipeline (coleta + cluster + resumo + dados)
+      - name: Rodar pipeline (coleta + cluster + resumo + editorial + dados)
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           # Reserva de IA p/ o editorial: quando o Groq dá 429 (cota do dia), o
