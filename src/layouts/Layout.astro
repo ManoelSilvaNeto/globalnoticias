@@ -18,9 +18,10 @@ interface Props {
 const { title, description = SITE.description, jsonLd = [], ogType = 'website', image, noindex = false } = Astro.props;
 const fullTitle = title ? `${title} — ${SITE.name}` : `${SITE.name} — ${SITE.tagline}`;
 const canonical = new URL(Astro.url.pathname, Astro.site!).href;
-// Imagem do preview social (foto da matéria de destaque). Absoluta — resolve
-// contra o site se vier relativa; URLs externas das fontes passam intactas.
-const ogImage = image ? new URL(image, Astro.site!).href : undefined;
+// Imagem do preview social. Absoluta — resolve contra o site se vier relativa; URLs
+// externas das fontes passam intactas. Sem foto da matéria, cai no card de marca
+// (public/og-default.png) — toda página compartilhável fica com preview consistente.
+const ogImage = new URL(image ?? '/og-default.png', Astro.site!).href;
 ---
 
 <!doctype html>
@@ -32,7 +33,12 @@ const ogImage = image ? new URL(image, Astro.site!).href : undefined;
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
-    <meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow'} />
+    <meta
+      name="robots"
+      content={noindex
+        ? 'noindex, follow, max-image-preview:large'
+        : 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+    />
     <meta name="google-site-verification" content="Wnfp1BNuxtOj3Mev6_MbWboryw7Nbj2HKlEL1Fa-Ze8" />
     <meta name="google-adsense-account" content="ca-pub-7077758294476082" />
     <Analytics />
@@ -45,11 +51,11 @@ const ogImage = image ? new URL(image, Astro.site!).href : undefined;
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
     <meta property="og:locale" content="pt_BR" />
-    {ogImage && <meta property="og:image" content={ogImage} />}
-    <meta name="twitter:card" content={ogImage ? 'summary_large_image' : 'summary'} />
+    <meta property="og:image" content={ogImage} />
+    <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={fullTitle} />
     <meta name="twitter:description" content={description} />
-    {ogImage && <meta name="twitter:image" content={ogImage} />}
+    <meta name="twitter:image" content={ogImage} />
 
     {jsonLd.map((node) => <script type="application/ld+json" set:html={JSON.stringify(node)} />)}
 
