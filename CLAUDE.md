@@ -18,7 +18,16 @@ Groq (IA) · Cloudflare Pages.
 - Modelo Google News — nunca copiar texto da fonte, sempre creditar e linkar.
 - Build nunca quebra por causa da IA — fallback obrigatório.
 
-## Estado atual (atualizado em 2026-06-03)
+## Estado atual (atualizado em 2026-06-04)
+
+### Seção /editorial/ "Panorama do dia" — NO AR ✓ (2026-06-04)
+
+Conteúdo editorial ORIGINAL gerado por IA, 1x/dia, ancorado nas notícias já resumidas/validadas da edição (diferencia de agregador puro; prepara o site p/ a submissão ao AdSense). Portado do Radar e adaptado a notícias gerais. Mergeado direto em `main` por push (dono pediu p/ deixar no ar). **No ar:** `noticias.globalnote.com.br/editorial/` (arquivo) + `/editorial/<data>/` (peça), bloco "Panorama do dia" na home, link "Editorial" no Header/Footer, JSON-LD `Article`, entra no news-sitemap. 1ª peça publicada 2026-06-04 (gerada pelo Cerebras).
+
+- **Arquitetura:** `pipeline/summarize.ts` refatorado p/ base `OpenAICompatSummarizer` + `GroqSummarizer`/`CerebrasSummarizer` + `completeJson()` genérico + `providersFromEnv()` (Groq→Cerebras); `summarize()` inalterado. `pipeline/editorial.ts` (gate 1/dia `EDITORIAL_GEN_HOUR_UTC` default 11h UTC + dedup por arquivo; grava `data/editorial/<data>.json` + `data/editorial-status.json` de observabilidade). `pipeline/index.ts` passo 7 em try/catch (best-effort). Site: `src/lib/editorial.ts` (loader glob), `src/pages/editorial/` (index + [slug]).
+- **Trava anti-alucinação TOLERANTE** (≠ resumo): notícia geral cita muitos políticos/países; `editorialUnknownEntities` só reprova acima de um teto (`EDITORIAL_MAX_UNKNOWN` default 6) — registra os desconhecidos sem barrar à toa.
+- **🔁 Reserva de IA Cerebras (2026-06-04):** o Groq estoura o TPD com os resumos e o editorial 429ava (este site NÃO tinha fallback). Adicionado `CerebrasSummarizer`; com `CEREBRAS_API_KEY` no repo, o editorial cai pro Cerebras no 429. **Secret cadastrado pelo dono (2026-06-04)** — usa a MESMA conta Cerebras do Radar (login Google); uso de ~1 call/dia é trivial, não compete. Validado em produção: `attempts:["erro — sem cota (429)","ok"]` → Cerebras gerou. Sem o secret, roda só Groq (idêntico ao anterior). Override: `CEREBRAS_MODEL`. (Resumos seguem Groq-only; só o editorial usa a reserva.)
+- **Visitas:** Cloudflare Web Analytics (token público em `src/components/Analytics.astro`). Painel: dash.cloudflare.com → Analytics & Logs → Web Analytics → site `noticias.globalnote.com.br`.
 
 ### Newsletter por e-mail — ENVIO AUTOMÁTICO adicionado ✓ (2026-06-03, PR #3)
 
