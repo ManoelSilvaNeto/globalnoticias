@@ -4,6 +4,7 @@
 import Layout from '../../layouts/Layout.astro';
 import StoryList from '../../components/StoryList.astro';
 import { topics, type Topic } from '../../lib/topics';
+import { temaIntro } from '../../lib/tema-intros';
 import { itemListJsonLd, breadcrumbJsonLd } from '../../lib/seo';
 
 export function getStaticPaths() {
@@ -11,9 +12,14 @@ export function getStaticPaths() {
 }
 
 const { topic } = Astro.props as { topic: Topic };
+const intro = temaIntro(topic.slug);
 const pageUrl = new URL(Astro.url.pathname, Astro.site!).href;
 const siteUrl = new URL('/', Astro.site!).href.replace(/\/$/, '');
-const description = `Tudo sobre ${topic.label}: ${topic.stories.length} notícias resumidas e organizadas, com link para as fontes originais.`;
+// description: usa o intro original quando existir (melhor pra SEO/snippet); senão,
+// o texto genérico de sempre.
+const description = intro
+  ? intro.length > 160 ? intro.slice(0, 157).replace(/\s+\S*$/, '') + '…' : intro
+  : `Tudo sobre ${topic.label}: ${topic.stories.length} notícias resumidas e organizadas, com link para as fontes originais.`;
 const ogImage = topic.stories.find((s) => s.imageUrl)?.imageUrl;
 const jsonLd = [
   itemListJsonLd(topic.stories, pageUrl),
@@ -35,6 +41,9 @@ const jsonLd = [
   <h1 class="mt-3 border-b-2 border-neutral-900 pb-1 font-serif text-2xl font-bold dark:border-neutral-100">
     {topic.label}
   </h1>
+  {intro && (
+    <p class="mt-3 text-base leading-relaxed text-neutral-700 dark:text-neutral-300">{intro}</p>
+  )}
   <p class="mt-2 text-sm text-neutral-500">{topic.stories.length} notícias sobre este tema</p>
   <div class="mt-2">
     <StoryList stories={topic.stories} />

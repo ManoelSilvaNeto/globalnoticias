@@ -80,6 +80,25 @@ export type Editorial = {
   destaques: EditorialRef[]; // notícias da edição citadas (links internos)
 };
 
+// Parágrafo de abertura ORIGINAL de uma página-tema (/tema/<slug>): uma síntese
+// evergreen do assunto, gerada 1x pela IA a partir das notícias do tema. Transforma
+// o hub de agregação fina em página com conteúdo próprio (SEO de longo prazo +
+// blindagem AdSense contra "scraped"). Persistido em data/tema-intros.json.
+export type TemaIntro = {
+  slug: string; // = slug da rota /tema/<slug>
+  label: string; // rótulo legível do tema (p/ diff/observabilidade)
+  intro: string; // 1 parágrafo original, PT-BR
+  generatedAt: string; // ISO 8601
+};
+
+// Arquivo de cache dos intros de tema (mapa slug -> intro). `v` permite invalidar
+// tudo num bump futuro do prompt sem apagar manualmente.
+export type TemaIntrosFile = {
+  v: number;
+  updatedAt: string; // ISO 8601
+  intros: Record<string, TemaIntro>;
+};
+
 // Resumo em cache, com carimbo de quando entrou (pra poda da janela).
 export type CachedSummary = Summary & { cachedAt: string };
 
