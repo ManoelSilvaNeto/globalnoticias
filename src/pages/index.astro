@@ -5,6 +5,7 @@ import CategorySection from '../components/CategorySection.astro';
 import AdSlot from '../components/AdSlot.astro';
 import Newsletter from '../components/Newsletter.astro';
 import { currentEdition, hasContent } from '../lib/data';
+import { latestEditorial } from '../lib/editorial';
 import { CATEGORIES } from '../lib/categories';
 import { topics } from '../lib/topics';
 import { formatDateFull } from '../lib/format';
@@ -39,6 +40,26 @@ const ogImage = edition.home.find((s) => s.imageUrl)?.imageUrl;
           <h2 class="sr-only">Principais notícias</h2>
           <StoryList stories={edition.home} featureFirst />
         </section>
+
+        {
+          latestEditorial && (
+            <a
+              href={`/editorial/${latestEditorial.date}/`}
+              class="group mt-8 block rounded-lg border border-sky-200 bg-sky-50/60 p-4 transition-colors hover:border-sky-300 hover:bg-sky-50 dark:border-sky-900 dark:bg-sky-950/40 dark:hover:border-sky-800"
+            >
+              <p class="text-xs font-medium uppercase tracking-wide text-sky-700 dark:text-sky-400">
+                Panorama do dia · Análise
+              </p>
+              <h2 class="mt-1 font-serif text-xl font-bold leading-snug group-hover:underline">
+                {latestEditorial.titulo}
+              </h2>
+              <p class="mt-1 text-sm text-neutral-600 dark:text-neutral-400">{latestEditorial.linhaFina}</p>
+              <span class="mt-2 inline-block text-sm font-medium text-sky-700 group-hover:underline dark:text-sky-400">
+                Ler a análise →
+              </span>
+            </a>
+          )
+        }
 
         <AdSlot />
 

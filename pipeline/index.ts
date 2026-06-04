@@ -8,6 +8,7 @@ import { clusterArticles } from './cluster';
 import { topByCategory, topForHome } from './rank';
 import { summarizeClusters, summarizerFromEnv } from './summarize';
 import { buildEdition, pruneCache, readState, writeData } from './build-data';
+import { maybeWriteEditorial } from './editorial';
 
 const DATA_DIR = resolve(process.cwd(), 'data');
 
@@ -56,6 +57,16 @@ async function main(): Promise<void> {
 
   // 6. gravação (current + snapshot do dia + state com cache podado)
   await writeData(edition, { updatedAt: now.toISOString(), summaries: pruneCache(cache, now) }, DATA_DIR);
+
+  // 7. editorial "Panorama do dia" (best-effort, 1x/dia, ancorado na edição).
+  // Roda APÓS a gravação (que é o conteúdo crítico): se a IA falhar, a edição já
+  // está salva e o editorial re-tenta no próximo run. Nunca derruba a run.
+  try {
+    await maybeWriteEditorial(edition, DATA_DIR, now);
+  } catch (err) {
+    console.warn('[editorial] falhou (não crítico):', String(err).slice(0, 140));
+  }
+
   console.log(`[pipeline] fim — edição ${edition.date}, home: ${edition.home.length} histórias`);
 }
 

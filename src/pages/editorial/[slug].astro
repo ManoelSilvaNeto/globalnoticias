@@ -1,0 +1,80 @@
+---
+// Página de uma peça editorial "Panorama do dia": análise original (autoral da
+// Organização) ancorada nas notícias da edição. URL estável /editorial/<data>.
+import Layout from '../../layouts/Layout.astro';
+import { editorials } from '../../lib/editorial';
+import { formatDateFull, formatDateTime } from '../../lib/format';
+import { editorialJsonLd, breadcrumbJsonLd } from '../../lib/seo';
+import type { Editorial } from '../../lib/types';
+
+export function getStaticPaths() {
+  return editorials.map((e) => ({ params: { slug: e.date }, props: { editorial: e } }));
+}
+
+const { editorial } = Astro.props as { editorial: Editorial };
+const dataLonga = formatDateFull(editorial.date);
+const when = formatDateTime(editorial.generatedAt);
+const description =
+  editorial.linhaFina.length > 200 ? `${editorial.linhaFina.slice(0, 197)}…` : editorial.linhaFina;
+
+const pageUrl = new URL(Astro.url.pathname, Astro.site!).href;
+const siteUrl = new URL('/', Astro.site!).href.replace(/\/$/, '');
+const jsonLd = [
+  editorialJsonLd(editorial, pageUrl, siteUrl),
+  breadcrumbJsonLd([
+    { name: 'Início', url: `${siteUrl}/` },
+    { name: 'Editorial', url: `${siteUrl}/editorial/` },
+    { name: editorial.titulo, url: pageUrl },
+  ]),
+];
+---
+
+<Layout title={editorial.titulo} description={description} ogType="article" jsonLd={jsonLd}>
+  <div class="mx-auto max-w-3xl">
+    <article>
+      <p class="text-sm text-sky-700 dark:text-sky-400">
+        <a href="/editorial" class="hover:underline">← Editorial</a>
+      </p>
+
+      <div class="mt-4 flex items-center gap-2 text-xs">
+        <span class="font-medium uppercase tracking-wide text-sky-700 dark:text-sky-400">Panorama do dia</span>
+        <time class="text-neutral-500" datetime={editorial.generatedAt}>{dataLonga}</time>
+      </div>
+
+      <h1 class="mt-2 font-serif text-2xl font-bold leading-tight sm:text-3xl">{editorial.titulo}</h1>
+      <p class="mt-3 text-lg text-neutral-600 dark:text-neutral-400">{editorial.linhaFina}</p>
+
+      <div class="mt-6 space-y-4 text-base leading-relaxed text-neutral-800 dark:text-neutral-200">
+        {editorial.paragrafos.map((p) => <p>{p}</p>)}
+      </div>
+
+      {
+        editorial.destaques.length > 0 && (
+          <div class="mt-8 border-t border-neutral-200 pt-4 dark:border-neutral-800">
+            <p class="text-xs text-neutral-400">Notícias citadas nesta análise:</p>
+            <ul class="mt-3 space-y-2">
+              {editorial.destaques.map((d) => (
+                <li>
+                  <a href={`/noticia/${d.slug}/`} class="group flex items-baseline gap-2">
+                    <span class="shrink-0 text-xs font-medium uppercase tracking-wide text-sky-700 dark:text-sky-400">
+                      {d.categoria}
+                    </span>
+                    <span class="text-sm text-neutral-700 group-hover:text-sky-700 group-hover:underline dark:text-neutral-300 dark:group-hover:text-sky-400">
+                      {d.titulo}
+                    </span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )
+      }
+
+      <p class="mt-8 border-t border-neutral-200 pt-4 text-xs text-neutral-500 dark:border-neutral-800">
+        Análise produzida automaticamente a partir das notícias resumidas da edição de {dataLonga}, com
+        curadoria editorial automatizada. Pode conter imprecisões — confira sempre os fatos nas fontes
+        originais citadas em cada notícia. {when && <span>Gerado {when}.</span>}
+      </p>
+    </article>
+  </div>
+</Layout>

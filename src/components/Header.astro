@@ -29,6 +29,19 @@ const path = Astro.url.pathname;
 
   <nav aria-label="Categorias" class="mx-auto max-w-6xl overflow-x-auto px-4 pb-2">
     <ul class="flex gap-1 whitespace-nowrap text-sm">
+      <li>
+        <a
+          href="/editorial"
+          class:list={[
+            'inline-block rounded-full px-3 py-1 font-medium transition-colors',
+            path === '/editorial' || path.startsWith('/editorial/')
+              ? 'bg-sky-600 text-white'
+              : 'text-sky-700 hover:bg-sky-50 dark:text-sky-400 dark:hover:bg-sky-950',
+          ]}
+        >
+          Editorial
+        </a>
+      </li>
       {
         CATEGORIES.map((cat) => {
           const active = path === `/${cat}` || path === `/${cat}/`;

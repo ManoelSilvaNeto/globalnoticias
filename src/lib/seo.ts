@@ -1,7 +1,7 @@
 // Geradores de JSON-LD. Como o site é um agregador (não autor das matérias),
 // usamos WebSite + ItemList — estrutura honesta para uma página de curadoria.
 
-import type { Story } from './types';
+import type { Editorial, Story } from './types';
 import { SITE } from './site';
 import { CATEGORY_LABELS, isCategory } from './categories';
 
@@ -59,6 +59,36 @@ export function newsArticleJsonLd(
     },
     citation: story.sources.map((s) => ({ '@type': 'CreativeWork', name: s.name, url: s.url })),
     isBasedOn: story.sources.map((s) => s.url),
+  };
+}
+
+// Marca a peça editorial como Article. Diferente das notícias (NewsArticle de
+// curadoria), o "Panorama do dia" É conteúdo ORIGINAL autoral da Organização —
+// análise sintetizada, não republicação. articleBody dá o texto cheio ao robô.
+export function editorialJsonLd(
+  editorial: Editorial,
+  pageUrl: string,
+  siteUrl: string,
+): Record<string, unknown> {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: editorial.titulo.slice(0, 110),
+    description: editorial.linhaFina,
+    articleBody: editorial.paragrafos.join('\n\n'),
+    inLanguage: 'pt-BR',
+    datePublished: editorial.generatedAt,
+    dateModified: editorial.generatedAt,
+    articleSection: 'Editorial',
+    url: pageUrl,
+    mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+    author: { '@type': 'Organization', name: SITE.name, url: siteUrl },
+    publisher: {
+      '@type': 'Organization',
+      name: SITE.name,
+      url: siteUrl,
+      logo: { '@type': 'ImageObject', url: `${siteUrl}/logo.png` },
+    },
   };
 }
 

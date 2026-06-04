@@ -4,7 +4,7 @@
 // aceita no máximo 1000 URLs. É submetido à parte no Search Console e serve
 // para descoberta rápida de conteúdo fresco (Top Stories / aba Notícias).
 
-import type { Story } from './types';
+import type { Editorial, Story } from './types';
 import { storySlug } from './story';
 import { SITE } from './site';
 
@@ -33,27 +33,50 @@ export function recentNewsStories(stories: Story[], now: Date): Story[] {
     .slice(0, MAX_URLS);
 }
 
-// XML completo do news sitemap. `baseUrl` sem barra final (ex.: https://noticias.globalnote.com.br).
-export function buildNewsSitemap(stories: Story[], baseUrl: string, now: Date): string {
-  const base = baseUrl.replace(/\/$/, '');
-  const urls = recentNewsStories(stories, now)
-    .map((s) => {
-      const loc = `${base}/noticia/${storySlug(s)}/`;
-      return [
-        '<url>',
-        `<loc>${esc(loc)}</loc>`,
-        '<news:news>',
-        '<news:publication>',
-        `<news:name>${esc(SITE.name)}</news:name>`,
-        '<news:language>pt</news:language>',
-        '</news:publication>',
-        `<news:publication_date>${w3c(s.updatedAt)}</news:publication_date>`,
-        `<news:title>${esc(s.titulo)}</news:title>`,
-        '</news:news>',
-        '</url>',
-      ].join('');
+// Uma entrada <url> do sitemap de notícias (loc + título + data de publicação).
+function newsUrl(loc: string, titulo: string, dateIso: string): string {
+  return [
+    '<url>',
+    `<loc>${esc(loc)}</loc>`,
+    '<news:news>',
+    '<news:publication>',
+    `<news:name>${esc(SITE.name)}</news:name>`,
+    '<news:language>pt</news:language>',
+    '</news:publication>',
+    `<news:publication_date>${w3c(dateIso)}</news:publication_date>`,
+    `<news:title>${esc(titulo)}</news:title>`,
+    '</news:news>',
+    '</url>',
+  ].join('');
+}
+
+// Peças editoriais dentro da janela de 48h, das mais recentes p/ as mais antigas.
+function recentEditorials(editorials: Editorial[], now: Date): Editorial[] {
+  const cutoff = now.getTime() - WINDOW_MS;
+  return editorials
+    .filter((e) => {
+      const t = new Date(e.generatedAt).getTime();
+      return Number.isFinite(t) && t >= cutoff;
     })
+    .sort((a, b) => b.generatedAt.localeCompare(a.generatedAt));
+}
+
+// XML completo do news sitemap. `baseUrl` sem barra final (ex.: https://noticias.globalnote.com.br).
+// Inclui as notícias e, opcionalmente, as peças editoriais (conteúdo original) da janela.
+export function buildNewsSitemap(
+  stories: Story[],
+  baseUrl: string,
+  now: Date,
+  editorials: Editorial[] = [],
+): string {
+  const base = baseUrl.replace(/\/$/, '');
+  const storyUrls = recentNewsStories(stories, now)
+    .map((s) => newsUrl(`${base}/noticia/${storySlug(s)}/`, s.titulo, s.updatedAt))
     .join('');
+  const editorialUrls = recentEditorials(editorials, now)
+    .map((e) => newsUrl(`${base}/editorial/${e.date}/`, e.titulo, e.generatedAt))
+    .join('');
+  const urls = storyUrls + editorialUrls;
 
   return (
     `<?xml version="1.0" encoding="UTF-8"?>` +
