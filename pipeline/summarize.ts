@@ -194,18 +194,29 @@ export type CompletionOpts = {
   temperature?: number;
 };
 
-export class GroqSummarizer implements Summarizer {
-  private apiKey: string;
-  private model: string;
+// Provedor OpenAI-compatível genérico (Groq, Cerebras, …): mesmo corpo de request,
+// muda só o endpoint, a chave, o modelo e se aceita schema estrito / reasoning_effort.
+export type ProviderConfig = {
+  label: string; // 'groq' / 'cerebras' — aparece nos logs/status
+  endpoint: string;
+  apiKey: string;
+  model: string;
+  strictSchema: boolean; // manda response_format json_schema (constrained decoding)
+  reasoningEffort: boolean; // manda reasoning_effort: 'low' (família gpt-oss)
+};
 
-  constructor(apiKey: string, model = process.env.GROQ_MODEL ?? 'openai/gpt-oss-20b') {
-    this.apiKey = apiKey;
-    this.model = model;
+export class OpenAICompatSummarizer implements Summarizer {
+  readonly label: string;
+  protected cfg: ProviderConfig;
+
+  constructor(cfg: ProviderConfig) {
+    this.cfg = cfg;
+    this.label = cfg.label;
   }
 
   // Structured outputs estritos quando o modelo suporta; senão json_object.
   private responseFormat(schemaName: string, schema: Record<string, unknown>): Record<string, unknown> {
-    if (STRICT_SCHEMA_MODELS.has(this.model)) {
+    if (this.cfg.strictSchema) {
       return { type: 'json_schema', json_schema: { name: schemaName, strict: true, schema } };
     }
     return { type: 'json_object' };
@@ -245,7 +256,7 @@ export class GroqSummarizer implements Summarizer {
 
   private async rawCompletion(system: string, user: string, opts: CompletionOpts): Promise<string> {
     const body: Record<string, unknown> = {
-      model: this.model,
+      model: this.cfg.model,
       temperature: opts.temperature ?? 0.3,
       // Folga p/ o JSON. Em modelos de reasoning (gpt-oss) os tokens de raciocínio
       // contam aqui; com max baixo o JSON era truncado → 400 "Failed to generate JSON".
@@ -258,12 +269,12 @@ export class GroqSummarizer implements Summarizer {
     };
     // Resumir não exige raciocínio pesado: 'low' reduz tokens de reasoning (mais
     // rápido e deixa espaço pro JSON). Só os gpt-oss aceitam este parâmetro.
-    if (STRICT_SCHEMA_MODELS.has(this.model)) body.reasoning_effort = 'low';
+    if (this.cfg.reasoningEffort) body.reasoning_effort = 'low';
 
-    const res = await fetch(GROQ_ENDPOINT, {
+    const res = await fetch(this.cfg.endpoint, {
       method: 'POST',
       headers: {
-        Authorization: `Bearer ${this.apiKey}`,
+        Authorization: `Bearer ${this.cfg.apiKey}`,
         'Content-Type': 'application/json',
       },
       body: JSON.stringify(body),
@@ -272,7 +283,7 @@ export class GroqSummarizer implements Summarizer {
     if (!res.ok) {
       const errBody = await res.text().catch(() => '');
       // Propaga o status HTTP p/ a lógica de retry/disjuntor (429/500/503).
-      throw Object.assign(new Error(`Groq ${res.status}: ${errBody.slice(0, 200)}`), {
+      throw Object.assign(new Error(`${this.cfg.label} ${res.status}: ${errBody.slice(0, 200)}`), {
         status: res.status,
       });
     }
@@ -281,8 +292,39 @@ export class GroqSummarizer implements Summarizer {
       choices?: { message?: { content?: string } }[];
     };
     const text = data.choices?.[0]?.message?.content;
-    if (!text) throw new Error('resposta vazia da IA');
+    if (!text) throw new Error(`resposta vazia da IA (${this.cfg.label})`);
     return text;
+  }
+}
+
+export class GroqSummarizer extends OpenAICompatSummarizer {
+  constructor(apiKey: string, model = process.env.GROQ_MODEL ?? 'openai/gpt-oss-20b') {
+    super({
+      label: 'groq',
+      endpoint: GROQ_ENDPOINT,
+      apiKey,
+      model,
+      strictSchema: STRICT_SCHEMA_MODELS.has(model),
+      reasoningEffort: STRICT_SCHEMA_MODELS.has(model),
+    });
+  }
+}
+
+const CEREBRAS_ENDPOINT = 'https://api.cerebras.ai/v1/chat/completions';
+// Cerebras hospeda gpt-oss-120b com structured outputs estritos (json_schema) +
+// reasoning_effort — mesma garantia de JSON do Groq. IDs SEM o prefixo 'openai/'.
+const CEREBRAS_STRICT_MODELS = new Set(['gpt-oss-120b', 'gpt-oss-20b']);
+
+export class CerebrasSummarizer extends OpenAICompatSummarizer {
+  constructor(apiKey: string, model = process.env.CEREBRAS_MODEL ?? 'gpt-oss-120b') {
+    super({
+      label: 'cerebras',
+      endpoint: CEREBRAS_ENDPOINT,
+      apiKey,
+      model,
+      strictSchema: CEREBRAS_STRICT_MODELS.has(model),
+      reasoningEffort: CEREBRAS_STRICT_MODELS.has(model),
+    });
   }
 }
 
@@ -296,11 +338,16 @@ export function summarizerFromEnv(): Summarizer | null {
   return new GroqSummarizer(apiKey);
 }
 
-// Provedores de IA p/ o editorial (na ordem de preferência). Hoje só Groq; se um dia
-// houver CEREBRAS_API_KEY + classe equivalente, é só estender aqui. Vazio = sem IA.
-export function providersFromEnv(): GroqSummarizer[] {
-  const apiKey = process.env.GROQ_API_KEY?.trim();
-  return apiKey ? [new GroqSummarizer(apiKey)] : [];
+// Provedores de IA p/ o editorial, na ordem de preferência: Groq primário e, se
+// CEREBRAS_API_KEY existir, Cerebras como reserva (assume quando o Groq dá 429 de
+// cota). Vazio = sem IA. Seguro sem o secret do Cerebras (roda só com Groq).
+export function providersFromEnv(): OpenAICompatSummarizer[] {
+  const providers: OpenAICompatSummarizer[] = [];
+  const groqKey = process.env.GROQ_API_KEY?.trim();
+  if (groqKey) providers.push(new GroqSummarizer(groqKey));
+  const cerebrasKey = process.env.CEREBRAS_API_KEY?.trim();
+  if (cerebrasKey) providers.push(new CerebrasSummarizer(cerebrasKey));
+  return providers;
 }
 
 // ── Orquestração: cache + IA + fallback ───────────────────────────────────────

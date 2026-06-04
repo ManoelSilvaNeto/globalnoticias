@@ -23,7 +23,7 @@ import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import type { Edition, Editorial, EditorialRef, Story } from '../src/lib/types';
 import { CATEGORIES, CATEGORY_LABELS, isCategory } from '../src/lib/categories';
-import { isQuotaError, providersFromEnv, type GroqSummarizer } from './summarize';
+import { isQuotaError, providersFromEnv, type OpenAICompatSummarizer } from './summarize';
 
 // ── Saída crua da IA (antes da validação/montagem) ────────────────────────────
 type RawEditorial = {
@@ -226,7 +226,7 @@ const TEMPERATURE = 0.4;
 
 export async function generateEditorial(
   edition: Edition,
-  providers: GroqSummarizer[],
+  providers: OpenAICompatSummarizer[],
   now: Date,
   maxStories: number,
   destaquesLimit: number,

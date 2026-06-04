@@ -50,6 +50,11 @@ jobs:
       - name: Rodar pipeline (coleta + cluster + resumo + dados)
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          # Reserva de IA p/ o editorial: quando o Groq dá 429 (cota do dia), o
+          # editorial cai pro Cerebras (gpt-oss-120b, json_schema estrito). Opcional —
+          # sem o secret, roda só com Groq (idêntico ao atual). Configurar com:
+          #   gh secret set CEREBRAS_API_KEY --repo ManoelSilvaNeto/globalnoticias
+          CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
         run: pnpm pipeline
 
       - name: Commitar dados (se mudaram)
