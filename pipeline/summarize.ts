@@ -184,6 +184,16 @@ export function parseJsonObject(text: string): unknown {
   return JSON.parse(slice);
 }
 
+// Opções de uma completação JSON: schema estrito (constrained decoding) quando o
+// modelo suporta, e folgas de tokens/temperatura específicas (o editorial precisa
+// de mais espaço de prosa que o resumo curto).
+export type CompletionOpts = {
+  schema: Record<string, unknown>;
+  schemaName: string;
+  maxTokens?: number;
+  temperature?: number;
+};
+
 export class GroqSummarizer implements Summarizer {
   private apiKey: string;
   private model: string;
@@ -194,20 +204,18 @@ export class GroqSummarizer implements Summarizer {
   }
 
   // Structured outputs estritos quando o modelo suporta; senão json_object.
-  private responseFormat(): Record<string, unknown> {
+  private responseFormat(schemaName: string, schema: Record<string, unknown>): Record<string, unknown> {
     if (STRICT_SCHEMA_MODELS.has(this.model)) {
-      return {
-        type: 'json_schema',
-        json_schema: { name: 'resumo', strict: true, schema: RESUMO_SCHEMA },
-      };
+      return { type: 'json_schema', json_schema: { name: schemaName, strict: true, schema } };
     }
     return { type: 'json_object' };
   }
 
-  async summarize(input: SummarizeInput): Promise<Summary> {
+  // Re-tenta transientes (429/500/503) com backoff; demais erros propagam.
+  private async withRetry<T>(fn: () => Promise<T>): Promise<T> {
     for (let attempt = 0; ; attempt++) {
       try {
-        return await this.callOnce(input);
+        return await fn();
       } catch (err) {
         const status = errorStatus(err);
         if (status !== null && TRANSIENT.has(status) && attempt < RETRY_BACKOFF_MS.length) {
@@ -219,17 +227,33 @@ export class GroqSummarizer implements Summarizer {
     }
   }
 
-  private async callOnce(input: SummarizeInput): Promise<Summary> {
+  // Completação JSON genérica (resumo de cluster e editorial usam a mesma máquina de
+  // request/parse/retry — muda só o prompt e o schema). Devolve o objeto já parseado.
+  async completeJson<T>(system: string, user: string, opts: CompletionOpts): Promise<T> {
+    return this.withRetry(async () => {
+      const text = await this.rawCompletion(system, user, opts);
+      return parseJsonObject(text) as T;
+    });
+  }
+
+  async summarize(input: SummarizeInput): Promise<Summary> {
+    return this.completeJson<Summary>(SYSTEM_INSTRUCTION, buildPrompt(input), {
+      schema: RESUMO_SCHEMA,
+      schemaName: 'resumo',
+    });
+  }
+
+  private async rawCompletion(system: string, user: string, opts: CompletionOpts): Promise<string> {
     const body: Record<string, unknown> = {
       model: this.model,
-      temperature: 0.3,
+      temperature: opts.temperature ?? 0.3,
       // Folga p/ o JSON. Em modelos de reasoning (gpt-oss) os tokens de raciocínio
       // contam aqui; com max baixo o JSON era truncado → 400 "Failed to generate JSON".
-      max_completion_tokens: 4096,
-      response_format: this.responseFormat(),
+      max_completion_tokens: opts.maxTokens ?? 4096,
+      response_format: this.responseFormat(opts.schemaName, opts.schema),
       messages: [
-        { role: 'system', content: SYSTEM_INSTRUCTION },
-        { role: 'user', content: buildPrompt(input) },
+        { role: 'system', content: system },
+        { role: 'user', content: user },
       ],
     };
     // Resumir não exige raciocínio pesado: 'low' reduz tokens de reasoning (mais
@@ -258,7 +282,7 @@ export class GroqSummarizer implements Summarizer {
     };
     const text = data.choices?.[0]?.message?.content;
     if (!text) throw new Error('resposta vazia da IA');
-    return parseJsonObject(text) as Summary;
+    return text;
   }
 }
 
@@ -270,6 +294,13 @@ export function summarizerFromEnv(): Summarizer | null {
     return null;
   }
   return new GroqSummarizer(apiKey);
+}
+
+// Provedores de IA p/ o editorial (na ordem de preferência). Hoje só Groq; se um dia
+// houver CEREBRAS_API_KEY + classe equivalente, é só estender aqui. Vazio = sem IA.
+export function providersFromEnv(): GroqSummarizer[] {
+  const apiKey = process.env.GROQ_API_KEY?.trim();
+  return apiKey ? [new GroqSummarizer(apiKey)] : [];
 }
 
 // ── Orquestração: cache + IA + fallback ───────────────────────────────────────

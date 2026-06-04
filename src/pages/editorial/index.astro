@@ -1,0 +1,43 @@
+---
+// Arquivo do "Panorama do dia": lista todas as análises editoriais, da mais
+// recente p/ a mais antiga. Acumula conteúdo ORIGINAL (diferencia o portal de um
+// agregador puro). Indexável.
+import Layout from '../../layouts/Layout.astro';
+import { editorials } from '../../lib/editorial';
+import { formatDateFull } from '../../lib/format';
+import { SITE } from '../../lib/site';
+
+const title = 'Editorial';
+const description = `Panorama do dia: análises diárias e originais que conectam as principais notícias do Brasil e do mundo — ${SITE.name}.`;
+---
+
+<Layout title={title} description={description}>
+  <h1 class="border-b-2 border-neutral-900 pb-1 font-serif text-2xl font-bold dark:border-neutral-100">Editorial</h1>
+  <p class="mt-3 max-w-prose text-neutral-600 dark:text-neutral-400">
+    O <strong>Panorama do dia</strong> é uma análise original que conecta os principais fatos de cada
+    edição — o que predominou e as conexões entre os assuntos. Produzido automaticamente a partir das
+    notícias já resumidas, com curadoria editorial automatizada.
+  </p>
+
+  {
+    editorials.length === 0 ? (
+      <p class="py-16 text-center text-neutral-500">A primeira análise está sendo preparada. Volte em instantes.</p>
+    ) : (
+      <ul class="mt-6 divide-y divide-neutral-200 dark:divide-neutral-800">
+        {editorials.map((e) => (
+          <li class="py-4">
+            <a href={`/editorial/${e.date}/`} class="group block">
+              <p class="text-xs font-medium uppercase tracking-wide text-sky-700 dark:text-sky-400">
+                {formatDateFull(e.date)}
+              </p>
+              <h2 class="mt-1 font-serif text-lg font-bold leading-snug group-hover:text-sky-700 group-hover:underline dark:group-hover:text-sky-400">
+                {e.titulo}
+              </h2>
+              <p class="mt-1 text-sm text-neutral-600 dark:text-neutral-400">{e.linhaFina}</p>
+            </a>
+          </li>
+        ))}
+      </ul>
+    )
+  }
+</Layout>
