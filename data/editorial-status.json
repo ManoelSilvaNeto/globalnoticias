@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-06-05T14:53:40.052Z",
-  "editionDate": "2026-06-05",
-  "hourUtc": 14,
-  "outcome": "generated",
-  "reason": "\"Brasil e mundo em foco: política eleitoral, economia cambial e tensões internacionais marcam a edição\" (3 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok (entidades fora do material toleradas: garres)"
-  ]
+  "ranAt": "2026-06-06T03:35:53.720Z",
+  "editionDate": "2026-06-06",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "attempts": []
 }
