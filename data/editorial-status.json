@@ -1,8 +1,11 @@
 {
-  "ranAt": "2026-06-06T10:04:42.686Z",
+  "ranAt": "2026-06-06T13:45:41.933Z",
   "editionDate": "2026-06-06",
-  "hourUtc": 10,
-  "outcome": "skipped",
-  "reason": "fora da janela (10h < 11h UTC)",
-  "attempts": []
+  "hourUtc": 13,
+  "outcome": "generated",
+  "reason": "\"Brasil se prepara para a Copa enquanto enfrenta desafios internos e externos\" (4 parágrafos)",
+  "attempts": [
+    "erro — sem cota (429)",
+    "ok"
+  ]
 }
