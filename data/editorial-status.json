@@ -1,8 +1,10 @@
 {
-  "ranAt": "2026-06-08T04:06:46.791Z",
+  "ranAt": "2026-06-08T12:30:27.903Z",
   "editionDate": "2026-06-08",
-  "hourUtc": 4,
-  "outcome": "skipped",
-  "reason": "fora da janela (4h < 11h UTC)",
-  "attempts": []
+  "hourUtc": 12,
+  "outcome": "generated",
+  "reason": "\"Escalada geopolítica, crises climáticas e desastres naturais marcam o dia\" (3 parágrafos)",
+  "attempts": [
+    "ok (entidades fora do material toleradas: estados, unidos)"
+  ]
 }
