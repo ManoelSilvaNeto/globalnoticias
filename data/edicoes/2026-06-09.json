@@ -1,205 +1,257 @@
 {
   "date": "2026-06-09",
-  "generatedAt": "2026-06-09T18:07:06.131Z",
+  "generatedAt": "2026-06-09T21:48:02.477Z",
   "home": [
     {
-      "clusterId": "eda0324782920992",
-      "slug": "4b6dfd4263571f44",
-      "titulo": "Ministério suspende vacina do Butantan contra dengue após 42 casos de reações severas",
-      "resumo": "O Ministério da Saúde suspendeu temporariamente a vacina contra dengue desenvolvida pelo Instituto Butantan, após registro de 42 reações adversas graves, incluindo duas mortes suspeitas. A suspensão afeta profissionais de saúde e moradores de municípios que receberam a dose, como São José do Rio Preto e Belo Horizonte. A vacinação de adolescentes de 10 a 14 anos continua com a vacina Qdenga, produzida no Japão. O órgão garante que a investigação das reações ocorrerá o mais rápido possível.",
-      "porQueImporta": "A medida visa garantir a segurança dos imunizados e preservar a confiança no sistema de vacinação.",
+      "clusterId": "757b0c74f2074f7e",
+      "slug": "037cd36634fa6425",
+      "titulo": "Helicóptero militar dos EUA cai próximo ao Estreito de Ormuz",
+      "resumo": "Um helicóptero Apache dos Estados Unidos caiu nas proximidades do Estreito de Ormuz, no Golfo Pérsico. Os dois pilotos foram resgatados com segurança e estão bem. A queda está em investigação e representa a primeira perda de um Apache na guerra no Oriente Médio desde 28 de fevereiro. A mídia estatal iraniana confirmou o acidente.",
+      "porQueImporta": "O incidente destaca a tensão contínua na região e a presença militar dos EUA no Golfo.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/eua-lancam-ataques-contra-o-ira-apos-helicoptero-ser-abatido-em-ormuz/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/eua-lancam-bombardeio-contra-o-ira-em-resposta-a-derrubada-de-helicoptero-em-ormuz/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/eua-ataca-ira-apos-helicoptero-norte-americano-ser-abatido"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/drone-resgata-2-pilotos-de-helicoptero-dos-eua-que-caiu-em-ormuz/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/eua-lancam-ataques-contra-o-ira-em-resposta-a-queda-de-helicoptero-militar/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/09/eua-lancam-bombardeio-contra-ira-retaliacao-derrubada-helicoptero.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/mundo/eua-lancam-ataques-contra-o-ira-apos-helicoptero-americano-ser-abatido/"
+        }
+      ],
+      "updatedAt": "2026-06-09T21:46:15.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Trump_Ira.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "f0c461af65710bb6",
+      "slug": "a286be2037f4fdc3",
+      "titulo": "CCJ retoma discussão sobre PEC que reduz maioridade penal de 18 para 16 anos",
+      "resumo": "A Comissão de Constituição e Justiça da Câmara dos Deputados retomou a discussão sobre a Proposta de Emenda à Constituição que propõe reduzir a maioridade penal de 18 para 16 anos. A proposta, de autoria de Gonzaga Patriota, está na pauta da reunião e será votada ainda nesta semana. A discussão tem gerado divergências, com opositores usando a pauta como bandeira eleitoral e governistas alertando que o aumento de encarceramento não garante melhoria na segurança pública.",
+      "porQueImporta": "A mudança na maioridade penal pode alterar o tratamento jurídico de menores e impactar políticas de segurança e justiça no país.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/ccj-da-camara-adia-discussao-sobre-maioridade-penal-de-18-para-16-anos"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/ccj-da-camara-adia-novamente-analise-de-pec-sobre-reducao-da-maioridade-penal/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/06/09/camara-abre-sessao-e-suspende-analise-de-pec-que-reduz-maioridade-penal-na-ccj.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/ccj-tem-novo-adiamento-da-votacao-da-pec-que-reduz-maioridade-penal/"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/clyr61y69vgo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-06-09T21:24:25.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/03/WhatsApp-Image-2017-07-13-at-12.41.55.jpeg"
+    },
+    {
+      "clusterId": "4c17169a4515e853",
+      "slug": "a916a19d4e16da00",
+      "titulo": "Governo propõe aumentar mistura de etanol na gasolina de 30% para 32%",
+      "resumo": "O ministro de Minas e Energia, Alexandre Silveira, anunciou que o governo pretende elevar a porcentagem de etanol na gasolina de 30% para 32%, o que poderia reduzir a importação de 450 milhões de litros de combustível. A proposta será discutida em 15 dias. Silveira também afirmou que não há negociação em andamento com os Estados Unidos sobre tarifas de etanol.",
+      "porQueImporta": "A mudança pode diminuir a dependência de gasolina importada e impactar o mercado interno de combustíveis.",
       "category": "geral",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/saude/vacina-dengue-eventos-adversos-21-dias"
+          "url": "https://www.metropoles.com/brasil/silveira-diz-que-etanol-nao-esta-em-negociacao-com-eua-por-tarifaco"
         },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/09/sc-suspende-temporariamente-vacina-contra-dengue-do-butantan.ghtml"
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/silveira-diz-que-governo-vai-propor-aumento-de-etanol-na-gasolina-de-30-para-32/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/suspensao-de-vacina-diretor-do-butantan-defende-rigor-em-investigacao/"
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/governo-propoe-aumentar-para-32-o-etanol-na-gasolina-contra-alta-de-preco/"
         },
         {
-          "name": "Super Interessante",
-          "url": "https://super.abril.com.br/saude/ministerio-da-saude-suspende-vacina-contra-a-dengue-do-butantan/"
+          "name": "Exame",
+          "url": "https://exame.com/agro/mistura-de-etanol-em-32-na-gasolina-sera-debatida-em-15-dias-diz-ministro/"
+        }
+      ],
+      "updatedAt": "2026-06-09T21:39:31.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/04/ministros-dario-durigan-bruno-moretti-alexandre-silveira-e-tome-franca-coletiva-medidas-para-mitigar-os-efeitos-da-guerra-sobre-o-setor-de-combustiveis-no-brasil-7-scaled.jpeg"
+    },
+    {
+      "clusterId": "50d8f4cd3ad8c745",
+      "slug": "e0a2738b85ca5a21",
+      "titulo": "Ministério da Saúde suspende temporariamente vacina contra dengue do Butantan",
+      "resumo": "O imunizante Butantan‑DV foi suspenso após registro de reações adversas graves e duas mortes suspeitas. Até 30 de maio, 500 mil doses foram aplicadas em todo o país. A suspensão segue orientação do Ministério da Saúde e da Anvisa, e municípios como Tocantins, Petrópolis e Teresina já interromperam a campanha e recolheram doses não aplicadas.",
+      "porQueImporta": "A medida visa garantir a segurança dos vacinados e a confiança no programa de imunização contra dengue.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/tarcisio-defende-vacina"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/to/tocantins/noticia/2026/06/09/tocantins-interrompe-temporariamente-aplicacao-da-vacina-contra-a-dengue-do-instituto-butantan.ghtml"
         },
         {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/cjdg542e747o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "Drauzio Varella",
-          "url": "https://drauziovarella.uol.com.br/infectologia/ministerio-da-saude-suspende-o-uso-da-vacina-contra-a-dengue-do-butantan/"
+          "name": "Super Interessante",
+          "url": "https://super.abril.com.br/saude/ministerio-da-saude-suspende-vacina-contra-a-dengue-do-butantan/"
         }
       ],
-      "updatedAt": "2026-06-09T17:46:25.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/vacina-butantatan.jpeg"
+      "updatedAt": "2026-06-09T21:24:02.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/06/tarcisio-de-freitas-1.jpg"
     },
     {
-      "clusterId": "58d9b132da883787",
-      "slug": "09a295ee664019ea",
-      "titulo": "Fifa revoga cota de ingressos para torcedores do Irã na Copa do Mundo",
-      "resumo": "A Federação de Futebol do Irã informou que a cota de ingressos destinada aos torcedores iranianos para a fase de grupos da Copa do Mundo foi revogada poucos dias antes do início do torneio pelos Estados Unidos. A decisão impede que os torcedores que já haviam planejado a viagem possam assistir às partidas da seleção iraniana. A Federação não recebeu posicionamento da Fifa nem das autoridades norte‑americanas.",
-      "porQueImporta": "A revogação afeta a experiência dos torcedores e pode gerar tensões diplomáticas entre o Irã e os Estados Unidos.",
+      "clusterId": "6aff34d3b259554b",
+      "slug": "624ddb9346bb7e53",
+      "titulo": "Presidente do BRB detalha crise financeira e busca aporte do GDF",
+      "resumo": "O presidente do Banco de Brasília, Nelson Antônio de Souza, explicou no Senado que o banco registrou um rombo de R$ 8,8 bilhões decorrente de transações com o Banco Master, considerado epicentro do maior escândalo financeiro do país. Ele afirmou que as operações foram \"cruéis\" e que o BRB ainda precisa de aporte do Governo do Distrito Federal para regularizar sua situação patrimonial. O banco planeja divulgar seu balanço até 30 de junho e projeta lucro líquido de R$ 1 bilhão em 2028.",
+      "porQueImporta": "A crise pode afetar a estabilidade financeira e a confiança nas instituições públicas.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/09/o-que-foi-feito-com-o-brb-foi-cruel-muito-dificil-diz-presidente-do-banco-ao-detalhar-rombo-de-r-88-bilhoes.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/deputados-votam-contra-a-convocacao-de-presidente-do-brb"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/brb-quer-divulgar-balanco-ate-30-de-junho-banco-aguarda-aporte-do-gdf/"
+        }
+      ],
+      "updatedAt": "2026-06-09T21:29:49.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/8pUT2tZwMA-HQT9zKdx9KT5SJFs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/v/yoLNbOSamOkEb00dB0vA/d1532-lu-entrevista-brb-29052026-frame-47033.jpeg"
+    },
+    {
+      "clusterId": "ecfc7c95ae8494a2",
+      "slug": "1a413e53f18fd249",
+      "titulo": "Bad Bunny encontra Papa Leão XIV em visita à Espanha",
+      "resumo": "O cantor Bad Bunny se encontrou com o Papa Leão XIV durante a viagem apostólica do pontífice pela Espanha. A reunião ocorreu após o Papa ter comentado a popularidade do artista. O encontro aconteceu enquanto o Papa estava em Barcelona para abençoar a nova torre da Sagrada Família e, posteriormente, em Madrid para discursar sobre o aborto. O encontro foi registrado pela mídia como um momento de diálogo entre a música popular e a Igreja.",
+      "porQueImporta": "Ilustra a interação entre cultura contemporânea e instituições religiosas em eventos públicos.",
       "category": "mundo",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/fifa-revoga-ingressos-para-torcedores-do-ira-na-copa-do-mundo/"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/celebridades/saiba-como-foi-o-encontro-entre-bad-bunny-e-papa-leao-xiv"
         },
         {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/ira-acusa-eua-de-revogar-cota-de-ingressos-para-seus-torcedores-na-copa/"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/bad-bunny-encontra-o-papa-leao-em-passagem-do-pontifice-pela-espanha/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/09/ira-acusa-eua-de-suspenderem-de-ultima-hora-ingressos-para-torcedores-do-pais-na-copa-do-mundo.ghtml"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cr7x5yjyrk1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Super Interessante",
-          "url": "https://super.abril.com.br/sociedade/como-sera-a-logistica-para-o-ira-jogar-na-copa-do-mundo-de-2026/"
+          "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/06/09/papa-leao-xiv-chega-a-barcelona-para-abencoar-nova-torre-da-sagrada-familia.ghtml"
         }
       ],
-      "updatedAt": "2026-06-09T17:35:06.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/AFP__20260608__B6BK3J6__v1__MidRes__FblWc2026StadiumLosAngeles.jpg"
+      "updatedAt": "2026-06-09T21:10:08.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/06/bad-bunny-e-papa-leao-xiv-se-encontram-apos-fala-do-religioso-sobre-cantor.jpg"
     },
     {
-      "clusterId": "a6d98daa77decdfb",
+      "clusterId": "cf948282116c136d",
       "slug": "662b5676dfdb53b8",
       "titulo": "NASA anuncia tripulação da missão Artemis III",
       "resumo": "A NASA divulgou os quatro astronautas que participarão da Artemis III, prevista para 2027. A equipe, composta por Randy Bresnik, Luca Parmitano, Frank Rubio e Andre Douglas, realizará testes de encontro e acoplamento entre a nave Orion e os módulos de pouso lunar. A missão tem como objetivo validar as tecnologias necessárias para futuras viagens à superfície lunar.",
       "porQueImporta": "Os testes da Artemis III são cruciais para garantir a segurança e a eficácia das missões lunares de longo prazo.",
-      "category": "geral",
+      "category": "tecnologia",
       "sources": [
         {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/nasa-anuncia-os-4-astronautas-para-missao-artemis-3-em-2027/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/ciencia/nasa-anuncia-astronautas-da-missao-artemis-iii/"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/ciencia/conheca-randy-bresnik-fuzileiro-e-comandante-da-missao-artemis-iii/"
         },
         {
           "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/06/09/ciencia-e-espaco/nasa-revela-os-quatro-astronautas-da-missao-artemis-3/"
+          "url": "https://olhardigital.com.br/2026/06/09/ciencia-e-espaco/nasa-escala-para-artemis-3-astronauta-que-quase-se-afogou-no-espaco/"
         },
         {
           "name": "G1",
           "url": "https://g1.globo.com/ciencia/noticia/2026/06/09/nasa-anuncia-tripulantes-da-artemis-iii-missao-esta-prevista-para-2027.ghtml"
         }
       ],
-      "updatedAt": "2026-06-09T18:01:02.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-09-133756.png"
+      "updatedAt": "2026-06-09T21:03:27.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/pJHmJxdwBZW9qSGkmLxUro9JM1o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/N/PByRkvSRaBHSjfLCnd7g/captura-de-tela-2026-06-09-131106.png"
     },
     {
-      "clusterId": "22ec1c71e8db6bb9",
-      "slug": "45b701a3e05d4326",
-      "titulo": "Trump alerta Israel e Irã a cessar-fogo após troca de ataques",
-      "resumo": "O presidente dos EUA pediu que Israel e Irã interrompam imediatamente os disparos, após a primeira troca direta de mísseis desde o cessar-fogo de abril. Trump afirmou que ambos os lados desejam um fim das hostilidades e que as negociações de paz continuam em andamento. Os ataques ocorreram após Israel bombardeou o Líbano, o que provocou retaliação iraniana. O presidente também alertou que o bloqueio naval dos EUA permanecerá ativo até que um acordo final seja alcançado.",
-      "porQueImporta": "A escalada pode afetar a estabilidade regional e os processos de paz negociados pelos EUA.",
+      "clusterId": "2080213a21b1e8a3",
+      "slug": "4e53cfd8b19b00dd",
+      "titulo": "Copa do Mundo 2026: programação, preparação e atrações",
+      "resumo": "A Seleção Brasileira encerra a preparação para a estreia contra o Marrocos, marcada para sábado às 19h (horário de Brasília). A equipe dos Estados Unidos realizou seu primeiro treino oficial em Irvine, Califórnia, com 5.500 torcedores nas arquibancadas. Em Natal, bares e restaurantes instalaram telões e atrações musicais para transmitir os jogos. A Copa será aberta em três países, com shows de abertura em Cidade do México, Los Angeles e outra cidade, apresentando artistas como Shakira e Anitta.",
+      "porQueImporta": "Esses detalhes mostram como os países anfitriões e as seleções se organizam para o evento global.",
       "category": "mundo",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/09/protesto-na-cidade-do-mexico-bloqueia-acesso-ao-estadio-da-abertura-da-copa-do-mundo.ghtml"
         },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/mexico-x-africa-do-sul-horario-e-onde-assistir-a-abertura-da-copa-do-mundo/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/09/milhares-de-manifestantes-fecham-avenida-que-da-acesso-a-estadio-da-copa-no-mexico.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-09T20:50:01.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/JT1HCK47aFa_ZrWH7WfncMNbpAE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/q/g/JL8KAZQUA0NhwfybuMJg/2026-06-09t174633z-602002074-rc2hqlag5zdq-rtrmadp-3-mexico-protest-teachers.jpg"
+    },
+    {
+      "clusterId": "1026b2c3b6d3a606",
+      "slug": "38551820b0395b8d",
+      "titulo": "Atlético de Madrid recusa proposta de 150 milhões de euros do Real Madrid por Julián Álvarez",
+      "resumo": "O Real Madrid ofereceu 150 milhões de euros pelo atacante Julián Álvarez, mas o Atlético de Madrid rejeitou a proposta. O clube merengue respondeu com ironia, dizendo que a oferta os faz rir. A recusa foi comunicada em nota oficial, mantendo a boa relação entre os clubes.",
+      "porQueImporta": "A decisão reflete a posição do Atlético em relação a transferências de alto valor e demonstra a postura competitiva no cenário espanhol.",
+      "category": "esportes",
+      "sources": [
         {
           "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/trump-acusa-ira-de-derrubar-helicoptero-militar-dos-eua-e-promete-resposta-ao-ataque/"
+          "url": "https://veja.abril.com.br/esporte/atletico-rejeita-proposta-astronomica-do-real-madrid-por-jogador-argentino/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-ira-abateu-helicoptero-dos-eua-e-promete-resposta-ao-ataque/"
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/atletico-de-madrid-debocha-de-oferta-do-real-por-alvarez-nos-fazem-rir/"
         },
         {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/trump-culpa-o-ira-por-abate-de-helicoptero-e-diz-que-os-eua-devem-responder/"
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/06/09/atletico-ironiza-real-madrid-apos-proposta-por-alvarez-nos-fazem-rir-mais-do-que-o-barcelona.ghtml"
         }
       ],
-      "updatedAt": "2026-06-09T17:39:36.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/GBZAtQB6oZMYiCKKHHPviigUmjY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/j/y929kESG6fJcwBB1l1fQ/2026-06-09t114251z-1831552521-rc29qlarui5s-rtrmadp-3-iran-crisis-lebanon-israel.jpg"
+      "updatedAt": "2026-06-09T20:44:28.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/06/GettyImages-2222300990.jpg?quality=70&strip=info"
     },
     {
-      "clusterId": "814649e093aeca82",
-      "slug": "cd55f8d2ccde5a19",
-      "titulo": "Seleção do Senegal e de outras delegações passam por revista de segurança nos EUA antes de partida",
-      "resumo": "A equipe senegalesa foi revista no aeroporto de Raleigh, na Carolina do Norte, antes de embarcar para a Copa do Mundo, seguindo procedimentos de segurança padrão. A revista incluiu inspeção de bagagem e uso de detectores de metal. Delegações de Uzbequistão e Bélgica também foram submetidas a inspeções semelhantes em aeroportos americanos.",
-      "porQueImporta": "Ilustra as medidas de segurança intensificadas nos EUA durante a Copa do Mundo, refletindo políticas de imigração e protocolos de segurança internacional.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/09/copa-do-mundo-apos-revista-dos-eua-senegal-diz-que-abordagem-seguiu-padrao.ghtml"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/esportes/apos-uzbequistao-e-senegal-selecao-da-belgica-passa-por-rigorosa-revista-em-atlanta/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/campeao-mundial-cannavaro-critica-revista-rigorosa-ao-uzbequistao-nos-eua/"
-        }
-      ],
-      "updatedAt": "2026-06-09T17:44:26.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/kWfEgzSwgMVuENcBGzOWmcfJE8M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/0/EomNsBR2OyV1OEPr5dxQ/belgica-.png"
-    },
-    {
-      "clusterId": "f7eacebd50dd4cc4",
-      "slug": "d65ad190eadffda7",
-      "titulo": "Embraer projeta receita de US$1 a 1,5 bilhão com Eve e Receita Federal anuncia leilão de itens elétricos",
-      "resumo": "A Embraer espera que sua subsidiária Eve gere entre US$1 e US$1,5 bilhão em receita anual após aumento da produção de aeronaves elétricas. Enquanto isso, a Receita Federal anunciou um leilão regional em São Paulo, com 203 lotes que incluem smartwatches, motocicletas elétricas e outros produtos, a ser realizado em 15 de junho.",
-      "porQueImporta": "Ambas as notícias refletem iniciativas de inovação e mobilidade, destacando o crescimento de tecnologias elétricas no setor aeroespacial e no mercado de consumo.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/minas-gerais/leilao-da-receita-em-mg-tem-videogames-relogios-carros-e-caminhoes"
-        },
-        {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/06/09/pro/novo-leilao-da-receita-federal-tem-van-por-a-partir-de-r-86-mil-air-fryer-joias-e-muito-mais/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/06/08/novo-leilao-da-receita.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-09T17:43:17.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/aa-leilAo_3x2.jpg"
-    },
-    {
-      "clusterId": "0689802f41ca297a",
-      "slug": "029a185edb6b28d1",
-      "titulo": "Moraes autoriza general condenado pela trama golpista a se inscrever no Enem 2026",
-      "resumo": "O ministro Alexandre de Moraes, do STF, autorizou o general Paulo Sérgio Nogueira, condenado no caso da trama golpista, a se inscrever e fazer as provas do Enem 2026. Nogueira, ex-ministro da Defesa e comandante do Exército durante o governo Bolsonaro, cumpre 19 anos de prisão. As inscrições do Enem foram prorrogadas até 12 de maio e devem ser feitas pela Página do Participante.",
-      "porQueImporta": "Permite que um condenado em processo de execução de pena participe de exame nacional de acesso ao ensino superior.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/moraes-autoriza-general-condenado-na-trama-golpista-a-fazer-o-enem/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/cartaexpressa/moraes-autoriza-general-condenado-pela-trama-golpista-a-se-inscrever-no-enem/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/06/09/moraes-autoriza-que-ex-ministro-da-defesa-condenado-por-trama-golpista-faca-o-enem-2026.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-09T16:46:14.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/09/54760606666_b7ab51fc96_k.jpg"
-    },
-    {
-      "clusterId": "9b19dbd50536e29b",
+      "clusterId": "c0052b2c81607b35",
       "slug": "88753906811fd822",
       "titulo": "Árbitro somali é excluído da Copa do Mundo após entrada negada nos EUA",
       "resumo": "O árbitro Omar Abdulkadir Artan, escalado pela FIFA para a Copa do Mundo de 2026, teve sua entrada nos Estados Unidos recusada no aeroporto de Miami. Como resultado, ele foi devolvido à Turquia e posteriormente removido da lista de árbitros da competição. A FIFA afirmou que não se envolve em processos de imigração e que Artan não poderá atuar no torneio.",
@@ -207,386 +259,460 @@
       "category": "mundo",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/09/arbitro-somali-tirado-copa-barrado-eua-faria-historia-pelo-seu-pais.ghtml"
+          "name": "Exame",
+          "url": "https://exame.com/esporte/arbitro-brasileiro-vai-apitar-o-jogo-de-estreia-da-copa-do-mundo-de-2026/"
         },
         {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/09/arbitro-barrado-da-copa-por-imigracao-dos-eua-diz-acho-que-eles-tem-um-problema-com-o-meu-pais.ghtml"
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/09/arbitro-somali-tirado-copa-barrado-eua-faria-historia-pelo-seu-pais.ghtml"
         },
         {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/c8720274000o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-06-09T16:02:46.000Z",
+      "updatedAt": "2026-06-09T17:52:29.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/LnXP4Zf8HpFCaEM1wenfUe9SG7Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/G/49B7nyTFCKfHBuhzIG7Q/afp-20260608-b6dz6t3-v1-highres-filesfblwc2026somreferee.jpg"
-    },
-    {
-      "clusterId": "32ebfdeff8605f71",
-      "slug": "8ab80a2b2d980172",
-      "titulo": "CNJ propõe regras de controle judicial e proteção patrimonial para influenciadores mirins",
-      "resumo": "O Conselho Nacional de Justiça apresentou proposta que obriga plataformas a obter aval judicial antes de publicar conteúdo monetizado ou impulsionado por crianças e adolescentes. A medida prevê que juízes possam estabelecer mecanismos de blindagem da renda e patrimônio desses menores. As notificações às redes sociais começarão em 16 de maio. A proposta visa proteger a integridade e os direitos financeiros de influenciadores mirins.",
-      "porQueImporta": "Garantir a proteção legal e financeira de menores que atuam como criadores de conteúdo na internet.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/cnj-apresenta-proposta-para-regulamentar-atuacao-de-influenciadores-mirins/"
-        },
-        {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/06/09/internet-e-redes-sociais/cnj-endurece-regras-para-influenciadores-mirins-nas-redes-sociais/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/06/09/plataformas-serao-notificadas-sobre-obrigacao-de-alvara-para-monetizacao-de-posts-com-criancas-diz-relator-no-cnj.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-09T15:15:51.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/jKadhU99cSnYhZ7JbFa2x2J-yDA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/V/VKHbkxQSK6u6W2iwAX1Q/globo-canal-4-20260317-2000-frame-128738.jpeg"
-    },
-    {
-      "clusterId": "c794f43101e1c185",
-      "slug": "3a91920bd71a265f",
-      "titulo": "Urso faz cidade japonesa suspender aulas em 94 escolas",
-      "resumo": "A cidade de Utsunomiya, no Japão, suspendeu as aulas em todas as 94 escolas primárias e secundárias após avistamentos de um urso na região. O animal foi visto inicialmente em uma área residencial perto de um parque na noite de sábado, e depois em locais como uma galeria comercial, um parque, uma escola de ensino médio e outra escola. As autoridades decidiram interromper as atividades escolares por precaução.",
-      "porQueImporta": "A medida demonstra a preocupação com a segurança dos estudantes diante de encontros inesperados com animais selvagens.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/como-foi-a-captura-do-urso-que-causou-panico-em-povoado-no-japao/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/09/video-urso-e-capturado-apos-cacada-de-varios-dias-por-area-residencial-no-japao.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-09T18:06:33.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/AFP__20260609__B6GE7ZH__v1__MidRes__JapanAnimalBear.jpg?quality=70&strip=info"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "0689802f41ca297a",
-        "slug": "029a185edb6b28d1",
-        "titulo": "Moraes autoriza general condenado pela trama golpista a se inscrever no Enem 2026",
-        "resumo": "O ministro Alexandre de Moraes, do STF, autorizou o general Paulo Sérgio Nogueira, condenado no caso da trama golpista, a se inscrever e fazer as provas do Enem 2026. Nogueira, ex-ministro da Defesa e comandante do Exército durante o governo Bolsonaro, cumpre 19 anos de prisão. As inscrições do Enem foram prorrogadas até 12 de maio e devem ser feitas pela Página do Participante.",
-        "porQueImporta": "Permite que um condenado em processo de execução de pena participe de exame nacional de acesso ao ensino superior.",
+        "clusterId": "f0c461af65710bb6",
+        "slug": "a286be2037f4fdc3",
+        "titulo": "CCJ retoma discussão sobre PEC que reduz maioridade penal de 18 para 16 anos",
+        "resumo": "A Comissão de Constituição e Justiça da Câmara dos Deputados retomou a discussão sobre a Proposta de Emenda à Constituição que propõe reduzir a maioridade penal de 18 para 16 anos. A proposta, de autoria de Gonzaga Patriota, está na pauta da reunião e será votada ainda nesta semana. A discussão tem gerado divergências, com opositores usando a pauta como bandeira eleitoral e governistas alertando que o aumento de encarceramento não garante melhoria na segurança pública.",
+        "porQueImporta": "A mudança na maioridade penal pode alterar o tratamento jurídico de menores e impactar políticas de segurança e justiça no país.",
         "category": "politica",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/moraes-autoriza-general-condenado-na-trama-golpista-a-fazer-o-enem/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/ccj-da-camara-adia-discussao-sobre-maioridade-penal-de-18-para-16-anos"
           },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/cartaexpressa/moraes-autoriza-general-condenado-pela-trama-golpista-a-se-inscrever-no-enem/"
+            "url": "https://www.cartacapital.com.br/politica/ccj-da-camara-adia-novamente-analise-de-pec-sobre-reducao-da-maioridade-penal/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/06/09/moraes-autoriza-que-ex-ministro-da-defesa-condenado-por-trama-golpista-faca-o-enem-2026.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-09T16:46:14.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/09/54760606666_b7ab51fc96_k.jpg"
-      },
-      {
-        "clusterId": "32ebfdeff8605f71",
-        "slug": "8ab80a2b2d980172",
-        "titulo": "CNJ propõe regras de controle judicial e proteção patrimonial para influenciadores mirins",
-        "resumo": "O Conselho Nacional de Justiça apresentou proposta que obriga plataformas a obter aval judicial antes de publicar conteúdo monetizado ou impulsionado por crianças e adolescentes. A medida prevê que juízes possam estabelecer mecanismos de blindagem da renda e patrimônio desses menores. As notificações às redes sociais começarão em 16 de maio. A proposta visa proteger a integridade e os direitos financeiros de influenciadores mirins.",
-        "porQueImporta": "Garantir a proteção legal e financeira de menores que atuam como criadores de conteúdo na internet.",
-        "category": "politica",
-        "sources": [
+            "url": "https://g1.globo.com/politica/noticia/2026/06/09/camara-abre-sessao-e-suspende-analise-de-pec-que-reduz-maioridade-penal-na-ccj.ghtml"
+          },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/cnj-apresenta-proposta-para-regulamentar-atuacao-de-influenciadores-mirins/"
+            "url": "https://www.cnnbrasil.com.br/politica/ccj-tem-novo-adiamento-da-votacao-da-pec-que-reduz-maioridade-penal/"
           },
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/09/internet-e-redes-sociais/cnj-endurece-regras-para-influenciadores-mirins-nas-redes-sociais/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/06/09/plataformas-serao-notificadas-sobre-obrigacao-de-alvara-para-monetizacao-de-posts-com-criancas-diz-relator-no-cnj.ghtml"
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/clyr61y69vgo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-06-09T15:15:51.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/jKadhU99cSnYhZ7JbFa2x2J-yDA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/V/VKHbkxQSK6u6W2iwAX1Q/globo-canal-4-20260317-2000-frame-128738.jpeg"
+        "updatedAt": "2026-06-09T21:24:25.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/03/WhatsApp-Image-2017-07-13-at-12.41.55.jpeg"
       },
       {
-        "clusterId": "bd665a108bc43be1",
-        "slug": "8d885ac8204ff07c",
-        "titulo": "CNJ abre processo disciplinar contra desembargador de Minas Gerais acusado de crimes sexuais",
-        "resumo": "O Conselho Nacional de Justiça aprovou a abertura de um Processo Administrativo Disciplinar para investigar denúncias de crimes sexuais contra o desembargador Magid Nauef Láuar, do Tribunal de Justiça de Minas Gerais. O magistrado permanece afastado de suas funções desde o fim de fevereiro. As acusações surgiram após a decisão de Láuar que absolveu um homem de 35 anos de estupro de uma menina de 12 anos, decisão que recebeu repercussão nacional.",
-        "porQueImporta": "O caso destaca a atuação do CNJ na fiscalização de condutas de magistrados e a importância de garantir a integridade do sistema judiciário.",
+        "clusterId": "6bf5303683cf0a23",
+        "slug": "f787edde41c4e976",
+        "titulo": "STJ mantém absolvição de acusado em caso de relação entre jovem de 18 anos e menina de 13 anos",
+        "resumo": "A Quinta Turma do STJ decidiu, por unanimidade, que não houve estupro de vulnerável na relação entre um jovem de 18 anos e uma menina de 13 anos no Paraná. O relator, ministro Messod Azulay Neto, destacou que o casal forma um núcleo familiar, não há abuso e o réu possui histórico limpo. A decisão foi tomada em segredo de Justiça.",
+        "porQueImporta": "A decisão esclarece a aplicação do conceito de estupro de vulnerável em relações de idade próxima e pode influenciar futuros julgamentos semelhantes.",
         "category": "politica",
         "sources": [
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/justica/cnj-apre-processo-contra-desembargador-acusado-de-crimes-sexuais/"
+            "url": "https://www.cartacapital.com.br/justica/stj-relativiza-estupro-de-vulneravel-e-mantem-absolvicao-de-acusado/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/06/09/cnj-abre-processo-disciplinar-contra-desembargador-de-mg-acusado-de-crimes-sexuais.ghtml"
+            "url": "https://g1.globo.com/politica/noticia/2026/06/09/stj-nao-ve-estupro-de-vulneravel-em-relacao-de-jovem-de-18-anos-e-menina-de-13-caso-excepcionalissimo-diz-relator.ghtml"
           }
         ],
-        "updatedAt": "2026-06-09T18:00:14.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/02/54585412121-72884432be-k-1.jpg"
+        "updatedAt": "2026-06-09T21:40:26.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/02/stj_.jpg"
       },
       {
-        "clusterId": "3ea82c206851f16e",
-        "slug": "4817f31ec2679671",
-        "titulo": "Presidente do BRB destaca impacto da recuperação pós-Master e a importância de divulgar balanço",
-        "resumo": "O presidente do Banco de Brasília, Nelson Antônio de Souza, afirmou que o banco foi o mais afetado pelo escândalo de fraude e que a recuperação pós-Master tem sido difícil. Ele apontou que o lucro já pode ser alcançado em 2027, com um plano de capitalização. Em audiência na Comissão de Assuntos Econômicos do Senado, o presidente ressaltou que a divulgação do balanço beneficia principalmente o próprio BRB.",
-        "porQueImporta": "A situação do BRB pode influenciar a confiança dos investidores e a estabilidade financeira na região.",
+        "clusterId": "572b9722a9a075d4",
+        "slug": "c1aa820ac86ffc6e",
+        "titulo": "\"Quem já foi vacinado pode ficar tranquilo\", afirma diretor do Butantan",
+        "resumo": "Esper Kallas explica que pessoas que tomaram a vacina há menos de 21 dias devem ficar atentos a sintomas, mas, depois disso, risco é baixo",
+        "porQueImporta": "",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-congresso/recuperacao-pos-master-esta-sendo-cruel-diz-presidente-do-brb/"
+            "url": "https://www.poder360.com.br/poder-saude/vacinados-ha-mais-de-21-dias-podem-ficar-descansados-diz-butantan/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/saude/vacinado-tranquil-diretor-butantan"
+          }
+        ],
+        "updatedAt": "2026-06-09T21:28:24.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/02/vacina-capa.jpg"
+      },
+      {
+        "clusterId": "77c0d6b69bfbf670",
+        "slug": "2dc3b2435223f906",
+        "titulo": "PRF resgata 108 cubanos em Roraima",
+        "resumo": "A Polícia Rodoviária Federal resgatou 108 cubanos que estavam em situação de tráfico humano na cidade de Roraima, na fronteira com a Guiana. O resgate ocorreu em uma operação que também resultou na prisão de cinco pessoas acusadas de atuar como ‘coiotes’. A ação foi considerada o maior resgate humanitário registrado em uma única ocorrência no estado.",
+        "porQueImporta": "O episódio destaca a atuação da PRF na proteção de migrantes vulneráveis e a importância de combater o tráfico humano na região.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/prf-resgata-108-cubanos-vitimas-de-trafico-humano-em-roraima"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/sociedade/prf-resgata-108-imigrantes-cubanos-em-roraima-5-coiotes-sao-presos/"
+          }
+        ],
+        "updatedAt": "2026-06-09T21:21:00.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/trafico-humano-ro.jpeg"
+      },
+      {
+        "clusterId": "a0e80b3eaad6716a",
+        "slug": "dc29460a971b7683",
+        "titulo": "Ministério do Turismo impõe multa diária a estados e municípios por falta de prestação de contas sobre emendas PIX",
+        "resumo": "O Ministério do Turismo notificou os entes federativos que não iniciaram o preenchimento dos dados exigidos pelo STF sobre emendas PIX destinadas ao setor de eventos. A multa diária será de 1% do valor da emenda até que a situação seja regularizada. A medida visa garantir transparência e cumprimento das normas de controle financeiro.",
+        "porQueImporta": "A ação reforça a fiscalização sobre recursos públicos destinados a eventos, evitando desvios e promovendo responsabilidade fiscal.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/justica/dino-fixa-multa-a-estados-e-municipios-por-nao-prestarem-contas-sobre-emendas-pix/"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/a-quem-mais-interessa-divulgar-o-balanco-e-o-proprio-brb-diz-presidente/"
+            "url": "https://www.cnnbrasil.com.br/politica/dino-impoe-multa-por-falta-de-transparencia-em-emendas-ao-setor-de-eventos/"
           }
         ],
-        "updatedAt": "2026-06-09T16:32:12.000Z"
+        "updatedAt": "2026-06-09T20:43:21.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/09/Dino3.jpg"
       },
       {
-        "clusterId": "9ac5aa18b4e5a31b",
-        "slug": "66a9e9f0580daeff",
-        "titulo": "Entrada líquida de R$ 2,6 bilhões nas cadernetas de poupança em maio",
-        "resumo": "Em maio, as aplicações nas cadernetas de poupança superaram os saques em R$ 2,6 bilhões, representando o primeiro ingresso de recursos na modalidade neste ano. O Banco Central não indicou a razão específica para o aumento. Os rendimentos creditados nas contas somaram R$ 6,2 bilhões.",
-        "porQueImporta": "A movimentação reflete o comportamento dos poupadores e pode influenciar a liquidez do sistema financeiro.",
+        "clusterId": "ab93510aeea66d9e",
+        "slug": "74bc630721fc2d6b",
+        "titulo": "Comissão mista instalada para analisar MP do frete mínimo",
+        "resumo": "O Congresso instalou a comissão mista que irá analisar a medida provisória que endurece as regras para o cumprimento do piso mínimo do frete no transporte rodoviário de cargas. O relator da proposta será o deputado Zé Trovão (PL-SC) e o vice‑presidente será o deputado Paulo Pimenta (PT-RS). O parecer deve ser apresentado na próxima terça-feira (16) e pode alterar as multas previstas na proposta do governo. A medida foi criada em resposta à disparada do diesel e pode gerar greve de caminhoneiros caso perca validade.",
+        "porQueImporta": "A aprovação da MP pode afetar custos e logística do transporte de cargas no país.",
         "category": "politica",
         "sources": [
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/economia/poupanca-tem-entrada-liquida-de-r-26-bilhoes-em-maio/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/infra/mp-do-frete-volta-a-avancar-no-congresso-a-um-mes-do-prazo-final/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/06/09/caderneta-de-poupanca-tem-entrada-de-r-26-bilhoes-em-maio-mes-de-inicio-do-desenrola-20.ghtml"
+            "url": "https://g1.globo.com/politica/noticia/2026/06/09/tabela-do-frete-congresso-instala-nesta-terca-comissao-sobre-mp-que-preve-multa-de-r-10-mi.ghtml"
           }
         ],
-        "updatedAt": "2026-06-09T14:12:12.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2024/06/dinheiro.png"
+        "updatedAt": "2026-06-09T19:25:20.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/uCF8Qr1vQ_6_Bs0pzv8yO-4D9bg=/s.glbimg.com/jo/g1/f/original/2016/07/02/00caminhoes.sub.01.jpg"
       },
       {
-        "clusterId": "2834fcb9a611b838",
-        "slug": "e863952740c17667",
-        "titulo": "PT publica carta aos evangélicos destacando respeito do governo Lula às igrejas",
-        "resumo": "O Partido dos Trabalhadores divulgou uma carta dirigida ao eleitorado evangélico, elaborada no 4º Encontro Nacional de Evangélicos do PT. Na mensagem, o partido afirma que os governos da legenda sempre tiveram postura de respeito e reconhecimento às igrejas evangélicas. A carta foi lançada após a Marcha para Jesus, que reuniu políticos e líderes religiosos em São Paulo. Lula não participou da marcha, mas enviou o advogado-geral da União como representante.",
-        "porQueImporta": "A carta reforça a relação do PT com o segmento evangélico, importante bloco político no Brasil.",
+        "clusterId": "fdcfa5aad62115fa",
+        "slug": "4cbc32c2f7a51e77",
+        "titulo": "Conselho de Ética da Câmara recomenda suspensão de Marcos Pollon por dois meses",
+        "resumo": "O Conselho de Ética aprovou, por 9 votos a 4, um parecer que recomenda a suspensão de dois meses ao deputado Marcos Pollon (PL-MS) após declarações consideradas ofensivas contra o presidente da Câmara, Hugo Motta (Republicanos-PB). Pollon pode recorrer à Comissão de Constituição e Justiça antes da decisão do plenário. A recomendação foi corrigida para dois meses, não três, conforme informado inicialmente.",
+        "porQueImporta": "A medida reflete a aplicação de normas de conduta parlamentar e pode afetar a atuação do deputado no legislativo.",
         "category": "politica",
         "sources": [
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/em-carta-aos-evangelicos-pt-condena-manipulacao-politica-da-fe/"
+            "url": "https://www.cartacapital.com.br/politica/conselho-de-etica-aprova-suspensao-de-marcos-pollon-por-ofensas-a-hugo-motta/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/06/09/pt-divulga-carta-a-evangelicos-governos-do-partido-nunca-se-opuseram-as-igrejas.ghtml"
+            "url": "https://g1.globo.com/politica/noticia/2026/06/09/conselho-de-etica-da-camara-aprova-parecer-que-recomenda-suspensao-de-marcos-pollon-por-3-meses.ghtml"
           }
         ],
-        "updatedAt": "2026-06-09T13:31:37.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/pt_janja_evangelicos.jpg"
+        "updatedAt": "2026-06-09T18:40:43.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/02/img20251210153505458.jpg"
       },
       {
-        "clusterId": "1e174c3c4118a246",
-        "slug": "6edf54323f155262",
-        "titulo": "Benefício de academia cresce 156% nas pequenas empresas e muda o perfil dos pacotes de RH no Brasil",
-        "resumo": "Uma pesquisa da Flash e Offerwise mostrou que o benefício de academia aumentou 156% entre fevereiro de 2025 e fevereiro de 2026 nas PMEs brasileiras. O crescimento impulsionou mudanças significativas nos pacotes de recursos humanos oferecidos por essas empresas. O estudo indica uma tendência de valorização de programas de bem‑estar corporativo no setor de pequeno e médio porte.",
-        "porQueImporta": "Reflete a crescente importância do bem‑estar como diferencial competitivo nas PMEs.",
+        "clusterId": "a7faf6fbd51a4cce",
+        "slug": "4c055ffe16a7d39e",
+        "titulo": "STJ nega pedido de liberdade de influenciadora Deolane Bezerra",
+        "resumo": "O STJ, por meio da Quinta Turma, rejeitou o pedido de liberdade da influenciadora digital e advogada Deolane Bezerra, que cumpre prisão preventiva desde 21 de maio. A decisão foi tomada enquanto há um habeas corpus em tramitação no TJ‑SP. A influenciadora está sob investigação por suposta lavagem de dinheiro e ligação com o Primeiro Comando da Capital (PCC).",
+        "porQueImporta": "A decisão demonstra a atuação do STJ em casos de suspeita de envolvimento com facções criminosas e a importância de processos judiciais em paralelo.",
         "category": "politica",
         "sources": [
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/do-micro-ao-macro/beneficios-bem-estar-pmes-academia-crescimento-2026/"
-          }
-        ],
-        "updatedAt": "2026-06-09T18:00:27.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/09/TREINO-ACADEMIA.jpg"
-      },
-      {
-        "clusterId": "a4b12597b2eaec42",
-        "slug": "c2151e52871fa67c",
-        "titulo": "MP que amplia Minha Casa, Minha Vida é prorrogada",
-        "resumo": "O Ministério Público solicitou a prorrogação da Medida Provisória que amplia o programa Minha Casa, Minha Vida, permitindo financiamento de reformas para famílias com renda de até R$ 13.000. A medida permanece em análise no Congresso Nacional por mais 60 dias. A prorrogação visa manter a continuidade das políticas habitacionais e de financiamento para famílias de baixa renda.",
-        "porQueImporta": "Garantir acesso contínuo a moradia e financiamento para famílias de baixa renda.",
-        "category": "politica",
-        "sources": [
+            "url": "https://www.cartacapital.com.br/justica/stj-rejeita-soltar-a-influenciadora-deolane-bezerra/"
+          },
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-economia/mp-que-amplia-minha-casa-minha-vida-e-prorrogada/"
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/06/09/deolane-bezerra-stj-nega-pedido-de-liberdade-de-influenciadora-suspeita-de-ligacao-com-o-pcc.ghtml"
           }
         ],
-        "updatedAt": "2026-06-09T17:42:30.000Z"
+        "updatedAt": "2026-06-09T18:28:34.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/deolane-bezerra.jpg"
       }
     ],
     "economia": [
       {
-        "clusterId": "c1c10bc9eec05af3",
-        "slug": "d9df292e87b3b827",
-        "titulo": "Justiça das Bahamas reconhece liquidação do Banco Master e autoriza busca por ativos no exterior",
-        "resumo": "A Suprema Corte das Bahamas reconheceu a liquidação do Banco Master e autorizou a empresa responsável, a EFB Regimes Especiais de Empresas Ltda., a atuar em nome da instituição e de outras empresas do grupo no país. A decisão permite que a empresa realize buscas e administre ativos no exterior. O reconhecimento amplia o alcance internacional do processo iniciado no Brasil.",
-        "porQueImporta": "Facilita a recuperação de recursos ligados ao grupo investigado.",
+        "clusterId": "d40f39e68fba40c6",
+        "slug": "499abe7c2d17ed5d",
+        "titulo": "Seleção iraniana usa broche #168 em homenagem a vítimas de ataque a escola",
+        "resumo": "A equipe de futebol do Irã desembarcou em Tijuana, México, para a Copa do Mundo de 2026 com pins numerados 168, em referência às vítimas do bombardeio de Minab. O broche foi visto em jogadores e membros da comissão técnica. A seleção ainda enfrenta incerteza para entrar nos Estados Unidos.",
+        "porQueImporta": "O gesto simboliza protesto político e pode afetar a participação do Irã nos jogos internacionais.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/justica-das-bahamas-reconhece-liquidacao-do-banco-master-e-libera-busca-por-ativos/"
+            "url": "https://www.infomoney.com.br/mundo/selecao-do-ira-chega-ao-mexico-com-broches-em-homenagem-a-vitimas-de-ataque-a-escola/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/06/09/justica-das-bahamas-reconhece-liquidacao-do-master-e-autoriza-busca-por-ativos-no-exterior.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/09/jogadores-ira-utilizam-broche-referencia-vitimas-ataque-escola-desembarque-copa-do-mundo-fotos.ghtml"
           }
         ],
-        "updatedAt": "2026-06-09T17:55:21.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/11/2025-11-18T173600Z_750163251_RC24ZHA3YTDY_RTRMADP_3_BRAZIL-BANCO-MASTER.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-09T21:31:26.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-07T144447Z_1861343040_UP1EM6714YLPC_RTRMADP_3_SOCCER-WORLDCUP-IRN-ARRIVAL.jpg?fit=300%2C212&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "5daf38fc885b1143",
-        "slug": "109c205c9d3d87df",
-        "titulo": "UE veta importação de carne brasileira a partir de 3 de setembro",
-        "resumo": "A União Europeia proibiu a importação de carne bovina, suína e de frango produzida no Brasil, exigindo garantias oficiais auditadas pelo governo brasileiro. A JBS, principal exportadora, afirmou que não pode aceitar a decisão sem cumprir as exigências. O presidente Lula e o vice‑presidente Geraldo Alckmin disseram que trabalharão para reverter o veto.",
-        "porQueImporta": "A medida afeta a economia brasileira e a relação comercial com a UE.",
+        "clusterId": "977aa3636fa02fa7",
+        "slug": "e5b88220a4a13aa4",
+        "titulo": "UE ordena Meta liberar acesso gratuito ao WhatsApp para chatbots rivais",
+        "resumo": "Reguladores antitruste da União Europeia exigiram que a Meta permita que chatbots de inteligência artificial concorrentes acessem o WhatsApp sem custo. A medida faz parte de uma investigação sobre possíveis abusos de posição dominante da Meta no aplicativo de mensagens. A decisão é a primeira medida provisória contra a empresa em 17 anos.",
+        "porQueImporta": "Garantir competição no mercado de IA e proteger usuários de possíveis práticas monopolistas.",
         "category": "economia",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/agro/nao-da-para-aceitar-que-a-gente-nao-forneca-a-uniao-europeia-diz-jbs/"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/tecnologia/uniao-europeia-impoe-medida-e-da-a-ias-rivais-acesso-livre-ao-whatsapp/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/ba/bahia/noticia/2026/06/08/alckmin-diz-que-presidente-lula-atua-para-reverter-veto-da-uniao-europeia-a-carne-brasileira-trabalho-sera-feito.ghtml"
+            "url": "https://g1.globo.com/tecnologia/noticia/2026/06/09/uniao-europeia-manda-meta-liberar-acesso-gratuito-ao-whatsapp-para-chatbots-rivais-de-ia.ghtml"
           }
         ],
-        "updatedAt": "2026-06-09T17:11:22.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/gpwDm0tBBYmowTUwQs76LE60f2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/e/MQ8SMeTda3ulX7F8IcpA/55322748610-7611521afa-o.jpg"
+        "updatedAt": "2026-06-09T21:05:39.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2277894255.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "3274a876167871d6",
-        "slug": "e246626243bd7914",
-        "titulo": "OpenAI, dona do ChatGPT, entra com pedido de IPO; empresa pode valer US$ 1 trilhão",
-        "resumo": "O logotipo da OpenAI é visto em um telefone celular em frente a uma tela de computador que exibe a tela inicial do ChatGPT AP/Michael Dwyer, Arquivo A OpenAI, criadora do ChatGPT, protocolou nesta segunda-feira (8) um pedido confidencial para uma oferta inicial de ações (IPO, na sigla em inglês) nos Estados Unidos. 🔎 Um IPO é a primeira oferta pública de ações de uma empresa. A operação marca a entrada da companhia na bolsa e permite que investidores passem a negociar seus papéis no mercado. Com a decisão, a OpenAI se junta à concorrente Anthropic, criadora do assistente de inteligência…",
-        "porQueImporta": "",
+        "clusterId": "d0db38db6fecca0b",
+        "slug": "cee712192832c419",
+        "titulo": "Dólar sobe para R$5,18 enquanto Ibovespa recua",
+        "resumo": "O dólar fechou em alta, atingindo R$5,18, impulsionado pela tensão no Oriente Médio e pela trégua entre Israel e Irã. O Ibovespa encerrou a sessão em queda de 0,32%, situando-se em 168.471 pontos. A valorização do real frente ao dólar reflete a preocupação dos investidores com o cenário geopolítico.",
+        "porQueImporta": "A variação cambial e a queda do índice afetam o custo de importação e a confiança dos investidores no mercado brasileiro.",
         "category": "economia",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/negocios/openai-protocola-pedido-de-ipo-nos-eua-em-meio-a-corrida-de-ia/"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/economia/ibovespa-valoriza-com-otimismo-global-sobre-guerra-no-oriente-medio/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/noticia/2026/06/08/openai-dona-do-chatgpt-entra-com-pedido-confidencial-de-ipo.ghtml"
+            "url": "https://g1.globo.com/economia/noticia/2026/06/09/dolar-ibovespa.ghtml"
           }
         ],
-        "updatedAt": "2026-06-09T15:29:13.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/_6ZyiVx0ZFH9B48kgd5dJeReQnU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/G/2QDIvUTmuV4oP2QYlmqg/ap26105015984564.jpg"
+        "updatedAt": "2026-06-09T20:36:15.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2023/06/GettyImages-1229674447.jpg.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "430a7327e5191994",
-        "slug": "fe4be07972450d97",
-        "titulo": "Governo dos EUA libera seleção do Irã para entrar no país um dia antes dos jogos",
-        "resumo": "Departamento de Segurança Interna diz que, \"graças à generosidade do presidente Trump\", a seleção iraniana poderá chegar ao país na véspera de suas partidas; equipe tem como base Tijuana, no México The post Governo dos EUA libera seleção do Irã para entrar no país um dia antes dos jogos appeared first on InfoMoney.",
+        "clusterId": "44fb5357af64ce97",
+        "slug": "64f9cdff1914ed67",
+        "titulo": "Instituições financeiras defendem BC e questionam decisões judiciais contra autarquia",
+        "resumo": "Um grupo de instituições financeiras enviou nota conjunta ao Banco Central, defendendo as decisões da autarquia e contestando decisões judiciais que contrariam a autoridade monetária. O documento alerta que reverter decisões técnicas do BC pode gerar insegurança jurídica e assimetria no mercado. As instituições destacam a importância de manter a autonomia do Banco Central para garantir estabilidade e previsibilidade no sistema financeiro.",
+        "porQueImporta": "A postura das instituições reforça a necessidade de preservar a independência do BC, essencial para a estabilidade econômica.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/economia/instituicoes-financeiras-defendem-bc-e-questionam-decisoes-judiciais-contra-autarquia/"
+          }
+        ],
+        "updatedAt": "2026-06-09T21:46:54.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-25T111552Z_1_LYNXNPEL8O0JV_RTROPTP_4_BRAZIL-ECONOMY-RATES.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "c73d8cc569e51b55",
+        "slug": "dadb6d92bceccc4f",
+        "titulo": "Carney anuncia inauguração de ponte entre Canadá e EUA, apesar de Trump",
+        "resumo": "Em fevereiro, o presidente americano, Donald Trump, ameaçou atrasar a abertura da nova Ponte Internacional Gordie Howe The post Carney anuncia inauguração de ponte entre Canadá e EUA, apesar de Trump appeared first on InfoMoney.",
         "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/esportes/governo-dos-eua-libera-selecao-do-ira-para-entrar-no-pais-um-dia-antes-dos-jogos/"
+            "url": "https://www.infomoney.com.br/mundo/carney-anuncia-inauguracao-de-ponte-entre-canada-e-eua-apesar-de-trump/"
           }
         ],
-        "updatedAt": "2026-06-09T18:04:08.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Ira-Copa-do-Mundo.jpg?fit=300%2C208&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-09T21:32:38.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-10T162748Z_1354556425_RC22JJAA8CPI_RTRMADP_3_USA-CANADA-BRIDGE.jpg?fit=300%2C184&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "4baf157fc73ac6d0",
-        "slug": "85a962c6d0cf5cf0",
-        "titulo": "Anthropic expande acesso a modelo de IA, mas limita uso em cibersegurança",
-        "resumo": "Após alertar para riscos do Mythos, empresa lança Fable 5 com salvaguardas e mantém versão mais sensível sob controle The post Anthropic expande acesso a modelo de IA, mas limita uso em cibersegurança appeared first on InfoMoney.",
+        "clusterId": "ba272d2680a25960",
+        "slug": "d1dc369f5e4f2067",
+        "titulo": "Yamal, Messi, CR7, Neymar: veja os jogadores que viraram estátua de cera pelo mundo",
+        "resumo": "Lamine Yamal acaba de ganhar sua escultura em cera do Madame Tussauds The post Yamal, Messi, CR7, Neymar: veja os jogadores que viraram estátua de cera pelo mundo appeared first on InfoMoney.",
         "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/business/anthropic-expande-acesso-a-modelo-de-ia-mas-limita-uso-em-ciberseguranca/"
+            "url": "https://www.infomoney.com.br/esportes/jogadores-viraram-estatua-cera-mundo/"
           }
         ],
-        "updatedAt": "2026-06-09T17:57:46.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/458097233.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-09T21:30:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/estatua-cera-jogadores.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "2831960b08f0f719",
-        "slug": "8742bc62f6e20ae3",
-        "titulo": "Expert XP 2026: últimas horas para garantir ingresso antes da virada de lote",
-        "resumo": "Maior festival de investimentos do mundo acontece de 23 a 25 de julho, em São Paulo, com Janet Yellen, Mike Pompeo e Niall Ferguson entre os nomes confirmados The post Expert XP 2026: últimas horas para garantir ingresso antes da virada de lote appeared first on InfoMoney.",
+        "clusterId": "9c7b8d9b93fd26db",
+        "slug": "9395bc9e05a67ad6",
+        "titulo": "Alemanha terá castelo com quartos de luxo e sorvete ilimitado na Copa do Mundo",
+        "resumo": "As diárias desse hotel de luxo podem chegar a R$ 7,8 mil The post Alemanha terá castelo com quartos de luxo e sorvete ilimitado na Copa do Mundo appeared first on InfoMoney.",
         "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/carreira/expert-xp-2026-ultimas-horas-para-garantir-ingresso-antes-da-virada-de-lote/"
+            "url": "https://www.infomoney.com.br/consumo/alemanha-castelo-luxo-sorvete-copa-mundo/"
           }
         ],
-        "updatedAt": "2026-06-09T17:45:41.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/xp-expert-2026-home.jpg?fit=300%2C284&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-09T21:30:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/castelo-alemanha-selecao-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "78e50043594be1ff",
-        "slug": "895a29b88a7b987e",
-        "titulo": "Cade aprova aquisição de 11,9% da Oncoclínicas por fundos controlados por Master",
-        "resumo": "Em abril deste ano, o tribunal do Cade concluiu que a operação foi consumada antes da análise necessária do órgão e que deveria ser notificada mesmo posteriormente The post Cade aprova aquisição de 11,9% da Oncoclínicas por fundos controlados por Master appeared first on InfoMoney.",
+        "clusterId": "063ee2c712bc4559",
+        "slug": "06f26f63db308d33",
+        "titulo": "Cármen diz que Código de Ética para STF é ‘resposta necessária’ para a sociedade",
+        "resumo": "Escolhida relatora da iniciativa por Fachin em fevereiro deste ano, a ministra contou que tem se dedicado à elaboração do parecer desde que deixou a Presidência do TSE The post Cármen diz que Código de Ética para STF é ‘resposta necessária’ para a sociedade appeared first on InfoMoney.",
         "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/cade-aprova-aquisicao-de-119-da-oncoclinicas-por-fundos-controlados-por-master/"
+            "url": "https://www.infomoney.com.br/politica/carmen-diz-que-codigo-de-etica-para-stf-e-resposta-necessaria-para-a-sociedade/"
           }
         ],
-        "updatedAt": "2026-06-09T17:21:23.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Oncoclinicas.webp?fit=300%2C221&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "0edb4c5af00a52c8",
-        "slug": "4d48eab608a537eb",
-        "titulo": "Platini processa Fifa e Infantino e fala em trama para barrar candidatura em 2015",
-        "resumo": "Ex-presidente da Uefa abre ações civil e criminal na França e diz ter sido alvo de acusações fictícias para não assumir o comando da entidade The post Platini processa Fifa e Infantino e fala em trama para barrar candidatura em 2015 appeared first on InfoMoney.",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/esportes/platini-processa-fifa-e-infantino-e-fala-em-trama-para-barrar-candidatura-em-2015/"
-          }
-        ],
-        "updatedAt": "2026-06-09T17:12:31.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/07/uefa_president_michel_platini.jpeg?fit=300%2C169&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-09T21:18:44.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/54963942433_9ed3fa6eb9_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "58d9b132da883787",
-        "slug": "09a295ee664019ea",
-        "titulo": "Fifa revoga cota de ingressos para torcedores do Irã na Copa do Mundo",
-        "resumo": "A Federação de Futebol do Irã informou que a cota de ingressos destinada aos torcedores iranianos para a fase de grupos da Copa do Mundo foi revogada poucos dias antes do início do torneio pelos Estados Unidos. A decisão impede que os torcedores que já haviam planejado a viagem possam assistir às partidas da seleção iraniana. A Federação não recebeu posicionamento da Fifa nem das autoridades norte‑americanas.",
-        "porQueImporta": "A revogação afeta a experiência dos torcedores e pode gerar tensões diplomáticas entre o Irã e os Estados Unidos.",
+        "clusterId": "757b0c74f2074f7e",
+        "slug": "037cd36634fa6425",
+        "titulo": "Helicóptero militar dos EUA cai próximo ao Estreito de Ormuz",
+        "resumo": "Um helicóptero Apache dos Estados Unidos caiu nas proximidades do Estreito de Ormuz, no Golfo Pérsico. Os dois pilotos foram resgatados com segurança e estão bem. A queda está em investigação e representa a primeira perda de um Apache na guerra no Oriente Médio desde 28 de fevereiro. A mídia estatal iraniana confirmou o acidente.",
+        "porQueImporta": "O incidente destaca a tensão contínua na região e a presença militar dos EUA no Golfo.",
         "category": "mundo",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/fifa-revoga-ingressos-para-torcedores-do-ira-na-copa-do-mundo/"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mundo/eua-lancam-ataques-contra-o-ira-apos-helicoptero-ser-abatido-em-ormuz/"
           },
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/ira-acusa-eua-de-revogar-cota-de-ingressos-para-seus-torcedores-na-copa/"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/eua-lancam-bombardeio-contra-o-ira-em-resposta-a-derrubada-de-helicoptero-em-ormuz/"
           },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/eua-ataca-ira-apos-helicoptero-norte-americano-ser-abatido"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-internacional/drone-resgata-2-pilotos-de-helicoptero-dos-eua-que-caiu-em-ormuz/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/eua-lancam-ataques-contra-o-ira-em-resposta-a-queda-de-helicoptero-militar/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/09/eua-lancam-bombardeio-contra-ira-retaliacao-derrubada-helicoptero.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/mundo/eua-lancam-ataques-contra-o-ira-apos-helicoptero-americano-ser-abatido/"
+          }
+        ],
+        "updatedAt": "2026-06-09T21:46:15.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Trump_Ira.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "ecfc7c95ae8494a2",
+        "slug": "1a413e53f18fd249",
+        "titulo": "Bad Bunny encontra Papa Leão XIV em visita à Espanha",
+        "resumo": "O cantor Bad Bunny se encontrou com o Papa Leão XIV durante a viagem apostólica do pontífice pela Espanha. A reunião ocorreu após o Papa ter comentado a popularidade do artista. O encontro aconteceu enquanto o Papa estava em Barcelona para abençoar a nova torre da Sagrada Família e, posteriormente, em Madrid para discursar sobre o aborto. O encontro foi registrado pela mídia como um momento de diálogo entre a música popular e a Igreja.",
+        "porQueImporta": "Ilustra a interação entre cultura contemporânea e instituições religiosas em eventos públicos.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/celebridades/saiba-como-foi-o-encontro-entre-bad-bunny-e-papa-leao-xiv"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/celebridades/bad-bunny-encontra-o-papa-leao-em-passagem-do-pontifice-pela-espanha/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/06/09/papa-leao-xiv-chega-a-barcelona-para-abencoar-nova-torre-da-sagrada-familia.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-09T21:10:08.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/bad-bunny-e-papa-leao-xiv-se-encontram-apos-fala-do-religioso-sobre-cantor.jpg"
+      },
+      {
+        "clusterId": "2080213a21b1e8a3",
+        "slug": "4e53cfd8b19b00dd",
+        "titulo": "Copa do Mundo 2026: programação, preparação e atrações",
+        "resumo": "A Seleção Brasileira encerra a preparação para a estreia contra o Marrocos, marcada para sábado às 19h (horário de Brasília). A equipe dos Estados Unidos realizou seu primeiro treino oficial em Irvine, Califórnia, com 5.500 torcedores nas arquibancadas. Em Natal, bares e restaurantes instalaram telões e atrações musicais para transmitir os jogos. A Copa será aberta em três países, com shows de abertura em Cidade do México, Los Angeles e outra cidade, apresentando artistas como Shakira e Anitta.",
+        "porQueImporta": "Esses detalhes mostram como os países anfitriões e as seleções se organizam para o evento global.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/09/protesto-na-cidade-do-mexico-bloqueia-acesso-ao-estadio-da-abertura-da-copa-do-mundo.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/mexico-x-africa-do-sul-horario-e-onde-assistir-a-abertura-da-copa-do-mundo/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/09/milhares-de-manifestantes-fecham-avenida-que-da-acesso-a-estadio-da-copa-no-mexico.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-09T20:50:01.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/JT1HCK47aFa_ZrWH7WfncMNbpAE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/q/g/JL8KAZQUA0NhwfybuMJg/2026-06-09t174633z-602002074-rc2hqlag5zdq-rtrmadp-3-mexico-protest-teachers.jpg"
+      },
+      {
+        "clusterId": "c0052b2c81607b35",
+        "slug": "88753906811fd822",
+        "titulo": "Árbitro somali é excluído da Copa do Mundo após entrada negada nos EUA",
+        "resumo": "O árbitro Omar Abdulkadir Artan, escalado pela FIFA para a Copa do Mundo de 2026, teve sua entrada nos Estados Unidos recusada no aeroporto de Miami. Como resultado, ele foi devolvido à Turquia e posteriormente removido da lista de árbitros da competição. A FIFA afirmou que não se envolve em processos de imigração e que Artan não poderá atuar no torneio.",
+        "porQueImporta": "A decisão demonstra como políticas de imigração podem afetar a participação de profissionais em eventos internacionais.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Exame",
+            "url": "https://exame.com/esporte/arbitro-brasileiro-vai-apitar-o-jogo-de-estreia-da-copa-do-mundo-de-2026/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/09/arbitro-somali-tirado-copa-barrado-eua-faria-historia-pelo-seu-pais.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c8720274000o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-06-09T17:52:29.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/LnXP4Zf8HpFCaEM1wenfUe9SG7Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/G/49B7nyTFCKfHBuhzIG7Q/afp-20260608-b6dz6t3-v1-highres-filesfblwc2026somreferee.jpg"
+      },
+      {
+        "clusterId": "8ea27f930326234c",
+        "slug": "6d6a65fde6a96ffa",
+        "titulo": "EUA revogam ingressos da Copa de torcedores do Irã, diz Federação de Futebol do país",
+        "resumo": "EUA revogam ingressos da Copa de torcedores do Irã, diz Federação de Futebol do país A Federação de Futebol do Irã (FFIRI) afirmou nesta terça-feira (9) que sua cota de ingressos para a Copa do Mundo foi retirada pelos Estados Unidos poucos dias antes do início, que ocorre nesta quinta-feira (11). A decisão deixa os torcedores que já haviam feito planos de viagem impossibilitados de assistir às partidas da seleção iraniana. “Isso acontece apesar do fato de que muitos torcedores iranianos, confiando no processo oficialmente anunciado, já haviam feito os planos necessários para comparecer aos…",
+        "porQueImporta": "",
+        "category": "mundo",
+        "sources": [
           {
             "name": "G1",
             "url": "https://g1.globo.com/mundo/noticia/2026/06/09/ira-acusa-eua-de-suspenderem-de-ultima-hora-ingressos-para-torcedores-do-pais-na-copa-do-mundo.ghtml"
@@ -600,123 +726,31 @@
             "url": "https://super.abril.com.br/sociedade/como-sera-a-logistica-para-o-ira-jogar-na-copa-do-mundo-de-2026/"
           }
         ],
-        "updatedAt": "2026-06-09T17:35:06.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/AFP__20260608__B6BK3J6__v1__MidRes__FblWc2026StadiumLosAngeles.jpg"
+        "updatedAt": "2026-06-09T12:39:50.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/1AS31-wdNj4cC9J4qDXWyZF6G2U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/B/FroA2JQiqfAEaqkEp3ww/bbc-ira.webp"
       },
       {
-        "clusterId": "22ec1c71e8db6bb9",
-        "slug": "45b701a3e05d4326",
-        "titulo": "Trump alerta Israel e Irã a cessar-fogo após troca de ataques",
-        "resumo": "O presidente dos EUA pediu que Israel e Irã interrompam imediatamente os disparos, após a primeira troca direta de mísseis desde o cessar-fogo de abril. Trump afirmou que ambos os lados desejam um fim das hostilidades e que as negociações de paz continuam em andamento. Os ataques ocorreram após Israel bombardeou o Líbano, o que provocou retaliação iraniana. O presidente também alertou que o bloqueio naval dos EUA permanecerá ativo até que um acordo final seja alcançado.",
-        "porQueImporta": "A escalada pode afetar a estabilidade regional e os processos de paz negociados pelos EUA.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/trump-acusa-ira-de-derrubar-helicoptero-militar-dos-eua-e-promete-resposta-ao-ataque/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-ira-abateu-helicoptero-dos-eua-e-promete-resposta-ao-ataque/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/trump-culpa-o-ira-por-abate-de-helicoptero-e-diz-que-os-eua-devem-responder/"
-          }
-        ],
-        "updatedAt": "2026-06-09T17:39:36.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/GBZAtQB6oZMYiCKKHHPviigUmjY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/j/y929kESG6fJcwBB1l1fQ/2026-06-09t114251z-1831552521-rc29qlarui5s-rtrmadp-3-iran-crisis-lebanon-israel.jpg"
-      },
-      {
-        "clusterId": "9b19dbd50536e29b",
-        "slug": "88753906811fd822",
-        "titulo": "Árbitro somali é excluído da Copa do Mundo após entrada negada nos EUA",
-        "resumo": "O árbitro Omar Abdulkadir Artan, escalado pela FIFA para a Copa do Mundo de 2026, teve sua entrada nos Estados Unidos recusada no aeroporto de Miami. Como resultado, ele foi devolvido à Turquia e posteriormente removido da lista de árbitros da competição. A FIFA afirmou que não se envolve em processos de imigração e que Artan não poderá atuar no torneio.",
-        "porQueImporta": "A decisão demonstra como políticas de imigração podem afetar a participação de profissionais em eventos internacionais.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/09/arbitro-somali-tirado-copa-barrado-eua-faria-historia-pelo-seu-pais.ghtml"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/09/arbitro-barrado-da-copa-por-imigracao-dos-eua-diz-acho-que-eles-tem-um-problema-com-o-meu-pais.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c8720274000o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-06-09T16:02:46.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/LnXP4Zf8HpFCaEM1wenfUe9SG7Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/G/49B7nyTFCKfHBuhzIG7Q/afp-20260608-b6dz6t3-v1-highres-filesfblwc2026somreferee.jpg"
-      },
-      {
-        "clusterId": "c794f43101e1c185",
-        "slug": "3a91920bd71a265f",
-        "titulo": "Urso faz cidade japonesa suspender aulas em 94 escolas",
-        "resumo": "A cidade de Utsunomiya, no Japão, suspendeu as aulas em todas as 94 escolas primárias e secundárias após avistamentos de um urso na região. O animal foi visto inicialmente em uma área residencial perto de um parque na noite de sábado, e depois em locais como uma galeria comercial, um parque, uma escola de ensino médio e outra escola. As autoridades decidiram interromper as atividades escolares por precaução.",
-        "porQueImporta": "A medida demonstra a preocupação com a segurança dos estudantes diante de encontros inesperados com animais selvagens.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/como-foi-a-captura-do-urso-que-causou-panico-em-povoado-no-japao/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/09/video-urso-e-capturado-apos-cacada-de-varios-dias-por-area-residencial-no-japao.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-09T18:06:33.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/AFP__20260609__B6GE7ZH__v1__MidRes__JapanAnimalBear.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "ecff7aefb6f8d8a0",
-        "slug": "037cd36634fa6425",
-        "titulo": "Helicóptero militar dos EUA cai próximo ao Estreito de Ormuz",
-        "resumo": "Um helicóptero Apache dos Estados Unidos caiu nas proximidades do Estreito de Ormuz, no Golfo Pérsico. Os dois pilotos foram resgatados com segurança e estão bem. A queda está em investigação e representa a primeira perda de um Apache na guerra no Oriente Médio desde 28 de fevereiro. A mídia estatal iraniana confirmou o acidente.",
-        "porQueImporta": "O incidente destaca a tensão contínua na região e a presença militar dos EUA no Golfo.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/09/tripulantes-helicoptero-eua-abatido-ira-foram-resgatados-por-barco-drone-veja-detalhes.ghtml"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/trump-culpa-ira-por-queda-de-helicoptero-em-ormuz-e-promete-resposta"
-          }
-        ],
-        "updatedAt": "2026-06-09T18:01:09.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/LtXC3NocQnEF1Pk5Ur3khwzxwMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/0/L71BLxQZKVAb0YhGLH0Q/ah-64-hero-desktop.jpeg"
-      },
-      {
-        "clusterId": "ddd1fb255f6201a4",
-        "slug": "66d3d16886a69660",
-        "titulo": "Dinamarquês Christian Eriksen desmaia em partida contra a Ucrânia; jogador já precisou ser reanimado durante jogo em 2021",
-        "resumo": "Jogador passa mal em campo e jogo entre Dinamarca e Ucrânia é encerrado O jogador dinamarquês, Christian Eriksen, caiu desacordado durante o amistoso contra a Ucrânia neste domingo (7). Essa não foi a primeira vez que o atleta teve problemas de saúde dentro de campo — em junho de 2021, Eriksen caiu durante um jogo de sua seleção e chegou a precisar de um desfibrilador para acordar. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia \"Christian Eriksen está consciente e passa bem dentro das circunstâncias\", afirmou a entidade em uma mensagem no X, acrescentando que o amistoso…",
+        "clusterId": "9322164705c48c93",
+        "slug": "8a803a8686be289f",
+        "titulo": "Piloto da Air Canada é acusado de voar por 17 anos com licença falsificada",
+        "resumo": "Air Canada. Divulgação/Air Canada Um ex-piloto da Air Canada foi acusado pelas autoridades canadenses de comandar voos comerciais por 17 anos usando uma licença falsificada. Segundo a polícia, Geoffrey Wall, de 59 anos, realizou centenas de viagens domésticas e internacionais sem possuir a certificação exigida para atuar como comandante de aeronaves. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia A investigação aponta que Wall utilizava documentos fraudulentos desde 2009, quando foi promovido ao cargo de capitão. Para exercer essa função no Canadá, é necessário possuir…",
         "porQueImporta": "",
         "category": "mundo",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/saude/como-dispositivo-salvou-a-vida-de-eriksen-dinamarques-que-deu-susto-em-campo/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/ex-piloto-da-air-canada-e-acusado-de-voar-com-licenca-falsa-por-17-anos/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/07/christian-eriksen-desmaia-em-partida-contra-a-ucrania-jogador-ja-precisou-ser-reanimado-durante-jogo-da-dinamarca.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/09/piloto-da-air-canada-e-acusado-de-voar-por-17-anos-com-licenca-falsificada.ghtml"
           }
         ],
-        "updatedAt": "2026-06-09T17:55:49.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2022/11/000_32QF6F9.jpg?quality=70&strip=info"
+        "updatedAt": "2026-06-09T20:53:48.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/UgwxKRLzcj8lt0JyhRokw6nBiZs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/l/9sqW6OQy6FUwXdZ0CbVA/air-canada-1200w.webp"
       },
       {
-        "clusterId": "37440559eb1ea0f8",
+        "clusterId": "87821c3c2e4b6088",
         "slug": "9da3e430da4a3271",
         "titulo": "Roberto Sánchez e Keiko Fujimori disputam voto a voto no segundo turno presidencial do Peru",
         "resumo": "Com mais de 95% das urnas apuradas, Roberto Sánchez lidera a contagem com 50,1% dos votos válidos, enquanto Keiko Fujimori tem 49,9%. A diferença mínima mantém o resultado indefinido, já que votos de peruanos no exterior e de zonas rurais ainda podem alterar o resultado final. A contagem continua em curso e o resultado será confirmado após a apuração completa.",
@@ -725,57 +759,77 @@
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/09/eleicao-presidencial-peru-mapa.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/09/por-que-o-resultado-da-eleicao-no-peru-demora-tanto-para-sair.ghtml"
           },
           {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/cly7593p6nyo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-06-09T17:10:18.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/dICaVeYFZTszZthOWVc8j2RkGUY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Z/vAoKmqRTiqtKgvlvo7sw/2026-06-01t015028z-283734192-rc2oklay0ztb-rtrmadp-3-peru-election-debate.jpg"
+        "updatedAt": "2026-06-09T20:51:28.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/dmAwMKezDC83rm2oSnWUDZFYP-4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/h/6vq9ozSX2kCDLrGWQUWA/2026-06-08t033059z-1373197550-rc2dplaqofnt-rtrmadp-3-peru-election.jpg"
       },
       {
-        "clusterId": "916b44888b09f460",
-        "slug": "1a413e53f18fd249",
-        "titulo": "Papa Leão XIV visita Espanha, condena aborto e pede reparação por abusos",
-        "resumo": "Durante uma visita de uma semana à Espanha, o Papa Leão XIV iniciou uma série de encontros, incluindo uma missa de Corpus Christi em Madri. Em discurso no Congresso, ele condenou o aborto e pediu que a vida humana seja protegida desde a concepção. O pontífice também solicitou reparações para vítimas de abuso na Igreja. Além disso, o Papa fez comentários sobre a “concorrência” com o artista Bad Bunny, destacando a presença da religião na cultura popular.",
-        "porQueImporta": "A atuação do Papa na Espanha reflete a posição da Igreja Católica sobre questões sociais e de direitos humanos no país.",
+        "clusterId": "a90d1d684a35bd1e",
+        "slug": "73a0cc65e3afd27b",
+        "titulo": "O que a história revela sobre as seleções que já conquistaram a Copa do Mundo",
+        "resumo": "Dados indicam que defender o título costuma terminar mal e contratar um técnico estrangeiro é uma grande aposta de risco.",
+        "porQueImporta": "",
         "category": "mundo",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/video-papa-leao-xiv-entra-na-cabine-dos-pilotos-durante-voo-na-espanha/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/06/09/papa-leao-xiv-chega-a-barcelona-para-abencoar-nova-torre-da-sagrada-familia.ghtml"
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c2lynpwk192o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-06-09T15:33:59.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/MGEZ496PUTLVA8otDoWZdFInKcc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/u/MkT4GsQwGnc28AsJ63AA/2026-06-09t113628z-1913228536-rc2bqlasoqok-rtrmadp-3-pope-spain.jpg"
+        "updatedAt": "2026-06-09T20:24:00.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1343/live/36db66b0-6029-11f1-95b8-61705f259545.jpg"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "94d8223c9244573a",
-        "slug": "e5b88220a4a13aa4",
-        "titulo": "União Europeia manda Meta liberar acesso gratuito ao WhatsApp para chatbots rivais de IA",
-        "resumo": "Meta AI pode criar imagens a partir de um comando dado pelo usuário Reprodução/WhatsApp Reguladores antitruste da União Europeia ordenaram nesta terça-feira (9) que a Meta permita o acesso gratuito de chatbots de inteligência artificial concorrentes ao WhatsApp, enquanto seguem investigando se a empresa abusou de sua posição dominante ao bloquear rivais no aplicativo de mensagens. A decisão da Comissão Europeia de impor uma medida provisória contra a Meta — a primeira do tipo em 17 anos — ocorreu após reclamações da empresa americana The Interaction Company, desenvolvedora do assistente de IA…",
-        "porQueImporta": "",
+        "clusterId": "cf948282116c136d",
+        "slug": "662b5676dfdb53b8",
+        "titulo": "NASA anuncia tripulação da missão Artemis III",
+        "resumo": "A NASA divulgou os quatro astronautas que participarão da Artemis III, prevista para 2027. A equipe, composta por Randy Bresnik, Luca Parmitano, Frank Rubio e Andre Douglas, realizará testes de encontro e acoplamento entre a nave Orion e os módulos de pouso lunar. A missão tem como objetivo validar as tecnologias necessárias para futuras viagens à superfície lunar.",
+        "porQueImporta": "Os testes da Artemis III são cruciais para garantir a segurança e a eficácia das missões lunares de longo prazo.",
         "category": "tecnologia",
         "sources": [
           {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/ciencia/conheca-randy-bresnik-fuzileiro-e-comandante-da-missao-artemis-iii/"
+          },
+          {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/09/internet-e-redes-sociais/ue-manda-meta-liberar-whatsapp-para-chatbots-concorrentes/"
+            "url": "https://olhardigital.com.br/2026/06/09/ciencia-e-espaco/nasa-escala-para-artemis-3-astronauta-que-quase-se-afogou-no-espaco/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/noticia/2026/06/09/uniao-europeia-manda-meta-liberar-acesso-gratuito-ao-whatsapp-para-chatbots-rivais-de-ia.ghtml"
+            "url": "https://g1.globo.com/ciencia/noticia/2026/06/09/nasa-anuncia-tripulantes-da-artemis-iii-missao-esta-prevista-para-2027.ghtml"
           }
         ],
-        "updatedAt": "2026-06-09T17:39:03.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/J8m1WuL4404vnQ2WlYckT0__rfE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/9/P/4JpjM9S5G01jWsFxpMtg/fotojet-34-.jpg"
+        "updatedAt": "2026-06-09T21:03:27.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/pJHmJxdwBZW9qSGkmLxUro9JM1o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/N/PByRkvSRaBHSjfLCnd7g/captura-de-tela-2026-06-09-131106.png"
+      },
+      {
+        "clusterId": "117a0642ffa68316",
+        "slug": "e76e5483289597b3",
+        "titulo": "Apple lança iOS 27 na WWDC 2026",
+        "resumo": "A Apple divulgou a nova versão do iOS, a 27, durante a WWDC 2026, anunciando os dispositivos compatíveis. A atualização será disponibilizada para modelos selecionados, com exceção de alguns dispositivos que não receberão a nova versão. A empresa também apresentou outras novidades em sistemas operacionais para iPhone, Mac e dispositivos relacionados.",
+        "porQueImporta": "A atualização traz melhorias e recursos novos para usuários de dispositivos elegíveis, impactando a experiência de uso.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/inteligencia-artificial/poder-bruto-da-nova-ia-do-iphone-so-sera-liberado-se-voce-pagar/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/tecnologia/ao-vivo/evento-apple-novo-ios.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-09T21:10:00.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/Pxk_URh0dV377aIORQ7uPmA10CE=/700x394/smart/i1120301.png"
       },
       {
         "clusterId": "49303c1e7ff4826b",
@@ -802,434 +856,415 @@
         "imageUrl": "https://t.ctcdn.com.br/OoHzjQmh0nxsjxrvUr8IHmLzzaM=/700x394/smart/i1113941.jpeg"
       },
       {
-        "clusterId": "600bc3f82626d3dd",
-        "slug": "eb122bfc94eaf5ab",
-        "titulo": "XBOX Helix terá desempenho maior que PS6 e pode liderar geração",
-        "resumo": "Uma nova análise das especificações vazadas do XBOX Helix e do PlayStation 6 aponta que o console da Microsoft terá um maior desempenho. Ainda que certos aspectos não impactem tanto o jogador, em resolução e estabilidade de taxa de quadros, ele lidera as estimativas. 8 erros que a Sony não pode cometer no PlayStation 6 8 erros que a Microsoft não pode cometer no XBOX Helix A comparação foi realizada pelo canal Moore’s Law is Dead, que mostra as diferenças esperadas para cada um dos novos videogames — com detalhes sobre como eles se comportarão e o que devemos esperar da sua performance geral.…",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/games/boom-de-ia-mexe-com-oferta-de-xbox-series-e-muda-futuro-do-project-helix/"
-          }
-        ],
-        "updatedAt": "2026-06-09T17:55:00.000Z",
-        "imageUrl": "https://t.ctcdn.com.br/jR73N2zRgm0f5-Yuw3oYjmewfgg=/700x394/smart/i751772.jpeg"
-      },
-      {
-        "clusterId": "ce9bf2942eed241b",
-        "slug": "611a51c524495b79",
-        "titulo": "Promoção na Amazon derruba preço parcelado do notebook gamer Lenovo LOQ E",
-        "resumo": "Para você que estava esperando por uma boa promoção para comprar um notebook gamer completo para jogar, trabalhar e estudar, chegou a hora! Nesta oferta da Amazon, o Lenovo LOQ E está saindo por R$ 4.399 na finalização da compra, com R$ 200 de economia, parcelamento em até 10x sem juros e frete grátis. 🛒 Aproveite e compre o seu Lenovo LOQ E mais barato na Amazon Normalmente, esse modelo aparece por R$ 4.599 na Amazon. Já na loja oficial da Lenovo, ele custa R$ 5.280. Ou seja, a oferta atual representa mais de 16,5% de desconto em comparação com o preço da fabricante. - Entre no Canal do…",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/notebook/promocao-na-amazon-derruba-preco-parcelado-do-notebook-gamer-lenovo-loq-e/"
-          }
-        ],
-        "updatedAt": "2026-06-09T17:46:00.000Z",
-        "imageUrl": "https://t.ctcdn.com.br/e0D5yUrdxXNhXhb0U7_iIt3Av-w=/700x394/smart/i1061275.jpeg"
-      },
-      {
-        "clusterId": "95d6d2831e555c6c",
-        "slug": "25a555e1a58cc6b3",
-        "titulo": "Ridley Scott lança filme apocalíptico \"clone de The Last of Us\"; veja o trailer",
-        "resumo": "Ridley Scott (Blade Runner) está prestes a retornar às salas de cinema neste ano com seu novo filme, intitulado Ponto Sem Retorno. Com Jacob Elordi (Euphoria) no elenco, o longa chamou a atenção por ter uma atmosfera pós-apocalíptica semelhante à de The Last of Us. Os 7 melhores filmes de Ridley Scott, diretor de Napoleão e Blade Runner Saiba por que Ridley Scott tentou converter a franquia Alien em Prometheus Inspirado no livro homônimo do escritor Peter Heller, lançado em 2012, Ponto Sem Retorno é uma história de sobrevivência que se passa em um mundo que foi devastado por uma terrível…",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/entretenimento/ridley-scott-lanca-filme-apocaliptico-clone-de-the-last-of-us-veja-o-trailer/"
-          }
-        ],
-        "updatedAt": "2026-06-09T17:30:00.000Z",
-        "imageUrl": "https://t.ctcdn.com.br/x3GVg-FAMGt6tqPDWT9kPZZL3Hw=/700x394/smart/i1133057.jpeg"
-      },
-      {
-        "clusterId": "c12d7f288ca27b08",
-        "slug": "5c681877b11f4867",
-        "titulo": "Smart TVs em oferta: 3 modelos para torcer pelo Brasil na Copa do Mundo",
-        "resumo": "A Copa vem aí: confira TVs em oferta para renovar a sua sala de estar com estilo e assistir aos jogos em alta qualidade O post Smart TVs em oferta: 3 modelos para torcer pelo Brasil na Copa do Mundo apareceu primeiro em Olhar Digital.",
+        "clusterId": "cb987e0c49db5be8",
+        "slug": "a93e87498a8dd8ca",
+        "titulo": "Sabia que robotáxis quase se tornaram realidade nos EUA de 1964?",
+        "resumo": "Da utopia de sistemas automatizados nos anos 1960 aos robotáxis atuais, a mobilidade urbana ainda tenta cumprir uma promessa antiga O post Sabia que robotáxis quase se tornaram realidade nos EUA de 1964? apareceu primeiro em Olhar Digital.",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/09/reviews/smart-tvs-em-oferta-3-modelos-para-torcer-pelo-brasil-na-copa-do-mundo/"
+            "url": "https://olhardigital.com.br/2026/06/09/carros-e-tecnologia/sabia-que-robotaxis-quase-se-tornaram-realidade-nos-eua-de-1964/"
           }
         ],
-        "updatedAt": "2026-06-09T17:15:00.000Z"
+        "updatedAt": "2026-06-09T21:09:49.000Z"
       },
       {
-        "clusterId": "5d2a026b2983d6d6",
-        "slug": "3b3d67e2ea0847ee",
-        "titulo": "Planos da Vivo vão ficar mais caros em julho e terão mais internet",
-        "resumo": "A Vivo confirmou uma atualização nas condições comerciais dos planos Controle e Pós-Pago. As novas regras passam a valer a partir do dia 20 de junho, com reflexo direto nas contas com vencimento a partir de julho. Vivo lança plano controle mais barato da história da operadora; 45 GB por R$ 35 Vivo agora vende celular parcelado em 21 vezes; veja como funciona A empresa publicou comunicados oficiais no início do mês para alertar os clientes ativos. De acordo com a operadora, o reajuste serve para manter a qualidade da rede e acompanhar a alta no consumo de dados. Em contrapartida, os planos…",
+        "clusterId": "79b6a3b94f5debcb",
+        "slug": "68587d2fab3bdefd",
+        "titulo": "Empresas de tecnologia podem passar a adotar modelos de IA mais baratos?",
+        "resumo": "Com pressão por eficiência e cortes de custo, modelos compactos ganham espaço e desafiam a lógica de que maior capacidade sempre é melhor O post Empresas de tecnologia podem passar a adotar modelos de IA mais baratos? apareceu primeiro em Olhar Digital.",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/06/09/inteligencia-artificial/empresas-de-tecnologia-podem-passar-a-adotar-modelos-de-ia-mais-baratos/"
+          }
+        ],
+        "updatedAt": "2026-06-09T20:55:44.000Z"
+      },
+      {
+        "clusterId": "653742f0bc44a5c6",
+        "slug": "f9bdebf743016ba6",
+        "titulo": "“Arma secreta” da Sony contra Fujifilm vaza pela primeira vez",
+        "resumo": "A Sony prepara o lançamento de um novo produto para o mercado de fotografia. O modelo misterioso apareceu recentemente em registros de uma agência de certificação na Indonésia com o código WW308784 e levantou suspeitas sobre o retorno de uma linha bastante querida pelos entusiastas. IA deixa fotos piores e faz celular da Sony virar piada nas redes sociais Alta demanda de jovens: Canon deve lançar 3 novas câmeras \"estilo cybershot\" A documentação classifica o dispositivo sob a categoria de câmera digital simples, o que indica um modelo com lentes fixas. Essa informação afasta a possibilidade…",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/telecom/planos-da-vivo-vao-ficar-mais-caros-em-julho-e-terao-mais-internet/"
+            "url": "https://canaltech.com.br/produtos/arma-secreta-da-sony-contra-fujifilm-vaza-pela-primeira-vez/"
           }
         ],
-        "updatedAt": "2026-06-09T17:08:40.000Z",
-        "imageUrl": "https://t.ctcdn.com.br/tYOYIKLXZjpUffC9h69emuWU_pg=/700x394/smart/i1066425.png"
+        "updatedAt": "2026-06-09T20:51:58.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/e3_tM_3A2mMWGmWS9bERxOFmcIs=/700x394/smart/i1126477.jpeg"
       },
       {
-        "clusterId": "9918147d97e239db",
-        "slug": "0e58938cb518fdb0",
-        "titulo": "Carros japoneses podem ficar mais baratos no Brasil com novo acordo",
-        "resumo": "E se os carros japoneses ficarem mais competitivos no mercado brasileiro? É o que pode acontecer de acordo com os resultados de uma negociação do governo do Japão, que vai começar neste mês de junho as tratativas do Acordo de Parceria Econômica com o Mercosul durante a cúpula do G7, na França. Por que carro japonês é tão confiável? Por que o Japão vai na contramão do mundo e ignora o carro elétrico? O novo tratado promete reduzir progressivamente as tarifas de importação de automóveis e autopeças japonesas, que atualmente chegam a pesados 35% no Brasil. Desta forma, marcas tradicionais e já…",
+        "clusterId": "38f26e80c3cc8d0f",
+        "slug": "450ca8089a478609",
+        "titulo": "IPO da SpaceX tem demanda quase quatro vezes maior que oferta, diz agência",
+        "resumo": "Volume supera com folga os R$ 389,4 bilhões que a companhia pretende levantar O post IPO da SpaceX tem demanda quase quatro vezes maior que oferta, diz agência apareceu primeiro em Olhar Digital.",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/carros/carros-japoneses-podem-ficar-mais-baratos-no-brasil-com-novo-acordo/"
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/06/09/pro/ipo-da-spacex-tem-demanda-quase-quatro-vezes-maior-que-oferta-diz-agencia/"
           }
         ],
-        "updatedAt": "2026-06-09T17:00:00.000Z",
-        "imageUrl": "https://t.ctcdn.com.br/_YDi2mhhQ8M7vWsB-MmDd_XQRDs=/700x394/smart/i1056911.png"
+        "updatedAt": "2026-06-09T20:48:02.000Z"
+      },
+      {
+        "clusterId": "f62c314060d8f4fa",
+        "slug": "b03a0c08ca1ccf4a",
+        "titulo": "Pombos podem usar o fígado como bússola biológica, indica estudo",
+        "resumo": "Células ricas em ferro no fígado podem responder ao campo magnético e auxiliar pombos na navegação sem referências visuais O post Pombos podem usar o fígado como bússola biológica, indica estudo apareceu primeiro em Olhar Digital.",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/06/09/ciencia-e-espaco/pombos-podem-usar-o-figado-como-bussola-biologica-indica-estudo/"
+          }
+        ],
+        "updatedAt": "2026-06-09T20:39:07.000Z"
       }
     ],
     "ciencia": [
       {
-        "clusterId": "4e7f70ac6378eb4f",
-        "slug": "174ee3300c591c04",
-        "titulo": "Por que a Fifa precisa proteger os jogadores do calor na Copa do Mundo",
-        "resumo": "Quão quente é quente demais para jogar futebol? Entenda como o estresse térmico afeta o desempenho e a saúde dos jogadores",
+        "clusterId": "fd81dc7c27ed840f",
+        "slug": "b1d2a384ac2ef652",
+        "titulo": "A ciência prova: odiar as mesmas coisas produz as melhores amizades",
+        "resumo": "O desgosto pela mesma coisa faz sentir que conhecemos o outro mais rápido e traz sensação de pertencimento",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Super Interessante",
-            "url": "https://super.abril.com.br/comportamento/por-que-a-fifa-precisa-proteger-os-jogadores-do-calor-na-copa-do-mundo/"
+            "url": "https://super.abril.com.br/mundo-estranho/a-ciencia-prova-odiar-as-mesmas-coisas-produz-as-melhores-amizades/"
           }
         ],
-        "updatedAt": "2026-06-09T17:00:03.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/06/0906-super-copa-site.jpg?quality=70&strip=info"
+        "updatedAt": "2026-06-09T21:00:40.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/06/0906-super-odio-site.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "8165f1124eff6fc9",
-        "slug": "4f8aafaebe2f0e49",
-        "titulo": "Museu do Ipiranga adota escaneamento a laser 3D para preservação e inaugura exposição no Metrô de São Paulo",
-        "resumo": "O Museu do Ipiranga, da USP, implementa tecnologia de escaneamento a laser 3D, usada no Coliseu de Roma, para criar um modelo digital do edifício reformado e estabelecer um sistema de gestão da informação que permita manutenção preventiva. A iniciativa é liderada por pesquisadora da Faculdade de Arquitetura, Urbanismo e Design da USP. Em paralelo, o museu inaugurou uma exposição no Metrô de São Paulo, buscando aproximar a sociedade de um importante patrimônio cultural brasileiro.",
-        "porQueImporta": "A aplicação de tecnologia avançada garante a conservação do museu e a exposição no metrô amplia o acesso público ao patrimônio.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/universidade/museu-do-ipiranga-adota-tecnologia-usada-pelo-coliseu-de-roma-para-preservacao-do-edificio-historico/"
-          },
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/ciencia/laser-3d-que-monitora-o-coliseu-sera-usado-no-museu-do-ipiranga/"
-          }
-        ],
-        "updatedAt": "2026-06-08T21:14:36.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260608_00_digitalizacao_museu_do_ipiranga-1024x538.jpg"
-      },
-      {
-        "clusterId": "d5cab9b4c1944c93",
-        "slug": "65488bac8b742ce2",
-        "titulo": "Novo contrato amplia opções alimentares e reforça estrutura dos restaurantes da USP em Ribeirão Preto",
-        "resumo": "Investimento de R$ 21,9 milhões viabiliza mudanças no cardápio, reforço proteico no café da manhã e aprimoramentos nos espaços que atendem mais de 4 mil refeições por dia",
+        "clusterId": "de7ece389793d115",
+        "slug": "ad5649bd89f8859f",
+        "titulo": "Exposição traz obras de docentes que marcaram a história da arte no Brasil",
+        "resumo": "Em cartaz no Espaço das Artes, mostra exibe trabalhos de quatro artistas que, no próximo dia 18, receberão o título de Professor Emérito da Escola de Comunicações e Artes (ECA) da USP: Carmela Gross, Regina Silveira, Evandro Carlos Jardim e Carlos Fajardo",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/novo-contrato-amplia-opcoes-alimentares-e-reforca-estrutura-dos-restaurantes-da-usp-em-ribeirao-preto/"
+            "url": "https://jornal.usp.br/cultura/exposicao-traz-obras-de-docentes-que-marcaram-a-historia-da-arte-no-brasil/"
           }
         ],
-        "updatedAt": "2026-06-09T15:08:57.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260608_cafedamanha-5.JPG-1024x538.jpeg"
+        "updatedAt": "2026-06-09T20:48:51.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260609_maosobra-1024x538.jpg"
       },
       {
-        "clusterId": "f57b3b8db18bb6fc",
-        "slug": "6f0dbfe030d2c776",
-        "titulo": "Aumento da população idosa no Brasil e oferta de residências seniores enfrentam desafios",
-        "resumo": "Especialistas comentam que o aumento da população idosa no Brasil se depara com a insuficiência dos cuidados de serviços de longa duração, sobretudo na esfera pública",
+        "clusterId": "8b29a426bb386bb7",
+        "slug": "c1fd4002f7e40081",
+        "titulo": "Fuvest tem inscrições abertas para segundo simulado do Vestibular 2027 da USP",
+        "resumo": "Prova que dá oportunidade de vivenciar as condições reais do vestibular da USP será realizada presencialmente no dia 26 de julho em várias cidades paulistas e em Fortaleza, no Ceará",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/atualidades/aumento-da-populacao-idosa-no-brasil-e-a-oferta-de-residencias-seniores-enfrentam-desafios/"
+            "url": "https://jornal.usp.br/universidade/fuvest-tem-inscricoes-abertas-para-segundo-simulado-do-vestibular-2027-da-usp/"
           }
         ],
-        "updatedAt": "2026-06-09T14:38:26.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260609_casa-repouso-1024x538.jpg"
+        "updatedAt": "2026-06-09T20:40:39.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2025/12/20251211_00_fuvest_vestibular_prova-1024x538.jpg"
       },
       {
-        "clusterId": "4b1f1fc14495b322",
-        "slug": "79d58709ee6dc8be",
-        "titulo": "Plataforma SampaAdapta monitora o calor urbano e promove políticas públicas para adaptação climática",
-        "resumo": "Humberto Ribeiro da Rocha comenta possíveis políticas públicas que podem ser criadas para solucionar os problemas relacionados ao calor urbano e promover a adaptação climática",
+        "clusterId": "491f8fce93ca3457",
+        "slug": "8bf7ce0302a2cf30",
+        "titulo": "Presença, mas com qualidade",
+        "resumo": "Por Paulo Nassar, professor da Escola de Comunicações e Artes da USP",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/atualidades/plataforma-sampaadapta-monitora-o-calor-urbano-e-promove-politicas-publicas-para-adaptacao-climatica-2/"
+            "url": "https://jornal.usp.br/articulistas/paulo-nassar/presenca-mas-com-qualidade/"
           }
         ],
-        "updatedAt": "2026-06-09T14:32:40.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/03/20260324_00_sampaadapta_sampadapta_iag_fau_usp-1024x538.jpg"
+        "updatedAt": "2026-06-09T20:34:27.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/10/perfil_dest_Paulo-Nassar.jpg"
       },
       {
-        "clusterId": "208a028c77c34443",
-        "slug": "2b5050f5b46a82b2",
-        "titulo": "Formigas podem auxiliar na recuperação de áreas degradadas",
-        "resumo": "Pesquisa aponta que os insetos contribuem para a dispersão de sementes e podem atuar como aliados naturais na restauração ambiental",
+        "clusterId": "0a1d17a28ba3fd94",
+        "slug": "fc56903d33c75e1f",
+        "titulo": "O orgulho que nasce depois do medo",
+        "resumo": "Por Josué Santos, doutorando pela Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto da USP",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/radio-usp/formigas-podem-auxiliar-na-recuperacao-de-areas-degradadas/"
+            "url": "https://jornal.usp.br/artigos/o-orgulho-que-nasce-depois-do-medo/"
           }
         ],
-        "updatedAt": "2026-06-09T13:46:57.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/05/20260527_formigas-1024x538.jpg"
+        "updatedAt": "2026-06-09T20:25:30.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/03/20250103_josuecapa-1024x538.jpg"
       },
       {
-        "clusterId": "317fb569bb7c2220",
-        "slug": "ce775ea745f4c372",
-        "titulo": "Rinite alérgica é tema de aula aberta na Faculdade de Medicina Ribeirão Preto",
-        "resumo": "Encontro será na Sala 1A do Bloco Didático da FMRP, sem necessidade de inscrição prévia",
+        "clusterId": "337f32b8a7334d2b",
+        "slug": "e520c80dd7b90151",
+        "titulo": "A moderação do sofrimento: plataformas, adolescentes e autonomia progressiva",
+        "resumo": "Por Isadora Valadares Assunção, mestranda da Faculdade de Direito da USP",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/rinite-alergica-e-tema-de-aula-aberta-na-faculdade-de-medicina-ribeirao-preto/"
+            "url": "https://jornal.usp.br/artigos/a-moderacao-do-sofrimento-plataformas-adolescentes-e-autonomia-progressiva/"
           }
         ],
-        "updatedAt": "2026-06-09T13:16:21.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2021/06/20240730_alergia-1024x538.jpg"
+        "updatedAt": "2026-06-09T20:10:34.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260609_isadoracapa-1024x538.jpg"
       },
       {
-        "clusterId": "47f1dfb6c8661405",
-        "slug": "5b4a9d5bb1a64765",
-        "titulo": "Publicação reúne reflexões sobre religião, espiritualidade e cuidado em saúde mental",
-        "resumo": "A obra, publicada por pesquisadores da Escola de Enfermagem de Ribeirão Preto aborda desafios, limites e possibilidades da escuta de experiências religiosas e espirituais em diferentes abordagens psicoterapêuticas",
+        "clusterId": "9e0169cbf9ab8f48",
+        "slug": "4b334d117623986a",
+        "titulo": "Love Data Day na USP promove palestras sobre dados abertos e software livre",
+        "resumo": "Evento em rede promovido pela Sociedade Brasileira de Computação, acontecerá no dia 12 de junho, na USP em São Paulo e no campus de São Carlos",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/publicacao-reune-reflexoes-sobre-religiao-espiritualidade-e-cuidado-em-saude-mental/"
+            "url": "https://jornal.usp.br/universidade/love-data-day-na-usp-promove-palestras-sobre-dados-abertos-e-software-livre/"
           }
         ],
-        "updatedAt": "2026-06-09T13:11:12.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260609_espiritualidadesnodiva.jpg-1024x538.jpeg"
+        "updatedAt": "2026-06-09T20:07:20.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/05/20260511_iafomo-1024x538.jpg"
+      },
+      {
+        "clusterId": "51d4ca65249e72c0",
+        "slug": "a390e384dfa043d1",
+        "titulo": "Quais são as perspectivas para a Física no Brasil? Evento na USP debate o tema e premia medalhistas",
+        "resumo": "“Série Física para Todos” promoverá encontro no dia 13 de junho, com entrega de medalhas para estudantes participantes da Olimpíada Brasileira de Física das Escolas Públicas",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/universidade/quais-sao-as-perspectivas-para-a-fisica-no-brasil-evento-na-usp-debate-o-tema-e-premia-medalhistas/"
+          }
+        ],
+        "updatedAt": "2026-06-09T20:00:59.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260609_00_laboratorio_demonstracoes_if_instituto_fisica_usp-1024x538.jpg"
       }
     ],
-    "saude": [
-      {
-        "clusterId": "a16b4231e8a868ff",
-        "slug": "0991179d6ffa26c6",
-        "titulo": "Quanto mais cedo, melhor: os benefícios da atividade física na infância",
-        "resumo": "Estimular o movimento desde cedo não é benéfico apenas para saúde física, mas também promove o desenvolvimento mental e social das crianças. The post Quanto mais cedo, melhor: os benefícios da atividade física na infância first appeared on Portal Drauzio Varella.",
-        "porQueImporta": "",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/atividade-fisica/quanto-mais-cedo-melhor-os-beneficios-da-atividade-fisica-na-infancia/"
-          }
-        ],
-        "updatedAt": "2026-06-09T18:00:29.000Z"
-      },
-      {
-        "clusterId": "4464f12453d1a21f",
-        "slug": "f3eed58bb80dcdbb",
-        "titulo": "Bronzeamento artificial é ilegal e pode causar danos graves à saúde",
-        "resumo": "Clínicas estéticas que oferecem bronzeamento artificial praticam uma técnica proibida pela legislação. O procedimento pode resultar em efeitos adversos sérios, como queimaduras, irritações e riscos de câncer de pele. A prática não é considerada segura pelos especialistas. É importante que os consumidores evitem serviços que utilizam bronzeamento artificial.",
-        "porQueImporta": "A informação alerta sobre riscos à saúde e a ilegalidade de um procedimento comum em clínicas estéticas.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/videos/bronzeamento-artificial-e-seguro/"
-          }
-        ],
-        "updatedAt": "2026-06-08T21:31:00.000Z"
-      },
-      {
-        "clusterId": "45c273873288074f",
-        "slug": "d538c8c2fc5ee08d",
-        "titulo": "Purificador e umidificador de ar: qual escolher",
-        "resumo": "Purificadores removem partículas e microrganismos do ar, enquanto umidificadores aumentam a umidade, reduzindo irritações respiratórias. A escolha depende das necessidades do ambiente: purificadores são recomendados em locais com poluição ou alergias, enquanto umidificadores ajudam em climas secos ou durante o uso de aquecedores. Ambos requerem manutenção adequada para evitar riscos como mofo ou contaminação.",
-        "porQueImporta": "Decidir corretamente entre esses aparelhos pode prevenir crises respiratórias e melhorar a qualidade de vida em ambientes internos.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/imunologia/purificador-x-umidificador-de-ar-qual-escolher/"
-          }
-        ],
-        "updatedAt": "2026-06-08T19:30:32.000Z"
-      },
-      {
-        "clusterId": "9a7fe34736f4e7b5",
-        "slug": "c67ec177f087622c",
-        "titulo": "Teste para avaliar o uso de álcool",
-        "resumo": "O teste Audito foi desenvolvido para avaliar o risco de dependência química em álcool, permitindo que profissionais de saúde orientem o consumo de bebidas alcoólicas. O método analisa padrões de consumo e fatores de risco associados à dependência. A aplicação do teste pode ajudar a prevenir o desenvolvimento de transtornos relacionados ao álcool.",
-        "porQueImporta": "Permite intervenções precoces e personalizadas para reduzir o risco de dependência química.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/drogas-licitas-e-ilicitas/teste-para-avaliar-o-uso-de-alcool/"
-          }
-        ],
-        "updatedAt": "2026-06-08T18:59:28.000Z"
-      }
-    ],
+    "saude": [],
     "esportes": [
       {
-        "clusterId": "16481d4ef75f8a2a",
-        "slug": "4bcf44b55bf1bf5f",
-        "titulo": "Atlético de Madrid rechaça proposta de R$ 899 milhões do Real Madrid por Julián Álvarez",
-        "resumo": "Presidente do Real Madrid anuncia acerto com José Mourinho O Real Madrid anunciou nesta terça-feira que fez uma proposta oficial de 150 milhões de euros (R$ 899,2 milhões) ao Atlético de Madrid pelo atacante argentino Julián Álvarez. De acordo com o clube, o rival rejeitou e pediu como compensação o pagamento integral da multa rescisória. Confira o comunicado abaixo: Julián Álvarez está na mira de Real Madrid e Barcelona Gaspafotos/MB Media/Getty Images + Atlético de Madrid publica proposta falsa Yamal em resposta a assédio do Barça a Álvarez \"O Real Madrid CF anuncia que, após a reunião de…",
-        "porQueImporta": "",
+        "clusterId": "1026b2c3b6d3a606",
+        "slug": "38551820b0395b8d",
+        "titulo": "Atlético de Madrid recusa proposta de 150 milhões de euros do Real Madrid por Julián Álvarez",
+        "resumo": "O Real Madrid ofereceu 150 milhões de euros pelo atacante Julián Álvarez, mas o Atlético de Madrid rejeitou a proposta. O clube merengue respondeu com ironia, dizendo que a oferta os faz rir. A recusa foi comunicada em nota oficial, mantendo a boa relação entre os clubes.",
+        "porQueImporta": "A decisão reflete a posição do Atlético em relação a transferências de alto valor e demonstra a postura competitiva no cenário espanhol.",
         "category": "esportes",
         "sources": [
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/06/09/real-madrid-faz-proposta-por-julian-alvarez-mas-rival-atletico-rechaca.ghtml"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/atletico-rejeita-proposta-astronomica-do-real-madrid-por-jogador-argentino/"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/palmeiras-celebra-volta-de-endrick-ao-real-madrid-e-tera-bonus-milionario/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/atletico-de-madrid-debocha-de-oferta-do-real-por-alvarez-nos-fazem-rir/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/06/09/atletico-ironiza-real-madrid-apos-proposta-por-alvarez-nos-fazem-rir-mais-do-que-o-barcelona.ghtml"
           }
         ],
-        "updatedAt": "2026-06-09T17:15:19.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/OdhjVLTaH1icgqiyw8Q7cAFlwQw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/h/q/AEWv2zS8aHYdeDx8d5zQ/gettyimages-2274182398.jpg"
+        "updatedAt": "2026-06-09T20:44:28.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/06/GettyImages-2222300990.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "c3552b8c23a2b832",
-        "slug": "33970b5bffa256c3",
-        "titulo": "Escalação da Seleção: Ancelotti faz mistério para estreia na Copa do Mundo",
-        "resumo": "Seleção Sportv debate possível escalação da estreia da Seleção Brasileira na Copa do Mundo A seleção brasileira fez mais um treinamento no início da tarde desta terça-feira em Nova Jersey, nos Estados Unidos. Ainda sem Neymar, Carlo Ancelotti comandou treino de preparação com 25 jogadores para a estreia da Copa do Mundo, contra o Marrocos, no próximo sábado. Nos 15 minutos abertos à imprensa, o treinador não deu indícios da escalação. Neymar passa por exames, e CBF fala em \"boa evolução\" \"Estou parecendo um menino\", diz Neymar antes de sua quarta Copa A imprensa teve acesso apenas aos…",
+        "clusterId": "2ceafbd02212d2ba",
+        "slug": "757cec297363a577",
+        "titulo": "Incêndio florestal e ameaça de cobras: Suíça sofre sustos na preparação para Copa do Mundo",
+        "resumo": "Veja a análise do Grupo B da Copa do Mundo 2026 A seleção da Suíça tem sofrido com a natureza na Califórnia, Costa Oeste dos Estados Unidos. Depois de ligar o alerta pela presença de cobras ao lado do Centro de Treinamento, os europeus quase cancelaram o treino na última segunda-feira por causa de um incêndio florestal. + Suíça mobiliza matemático de instituto federal para analisar rivais na Copa do Mundo Antes da entrevista coletiva do volante Djibril Sow, nesta terça, o diretor de imprensa da Federação Suíça de Futebol, Adrian Arnold, explicou que foi por pouco que a delegação não deixou o…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-esboca-possivel-escalacao-da-selecao-para-estreia-na-copa-veja/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/apos-alerta-por-cobras-suica-encara-ameaca-de-incendio-em-sede-para-copa/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/09/selecao-brasileira-faz-treino-com-foco-na-estreia-da-copa-do-mundo.ghtml"
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/09/incendio-florestal-e-ameaca-de-cobras-suica-sofre-sustos-na-preparacao-para-copa-do-mundo.ghtml"
           }
         ],
-        "updatedAt": "2026-06-09T16:28:10.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/Jq018qHX_VW8Iy-OK7DR9ZyAUf8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/B/4/vRruesRgWBsdcJSIsRog/ancelotti-endrick.jpg"
+        "updatedAt": "2026-06-09T21:29:31.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/Y93OF4hZMNUNSJePCwgnn7lPVbA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/d/R/J89Os8Tui08ArzND1LrA/incendio-california.jpg"
       },
       {
-        "clusterId": "7e93f49438d9a238",
-        "slug": "ebb4102dd5fb4abf",
-        "titulo": "Raphael Pereira vê potencial no Comercial e mira recolocar clube no calendário nacional",
-        "resumo": "Comercial anuncia volta de Raphael Pereira para Copa Paulista De volta ao Comercial em pouco menos de três meses, o técnico Raphael Pereira se diz confiante para sua segunda passagem pelo clube em 2026. O primeiro trabalho, que foi relâmpago - de 12 de fevereiro a 4 de março -, precisou de ajustes dentro e fora de campo, e isso afetou negativamente nos resultados na Série A4, segundo Pereira. Na ocasião, o técnico perdeu para o Barretos em casa, na sua estreia, por 2 a 1, e venceu o Colorado Caieiras, fora, por 2 a 1. Nas suas duas últimas rodadas à frente do Alvinegro, o time perdeu para o…",
+        "clusterId": "60d4e69dc81ecf96",
+        "slug": "67de9ec7d45ba84e",
+        "titulo": "Destaque do Marrocos tem lesão no joelho e vira desfalque para estreia na Copa contra o Brasil",
+        "resumo": "Adversário do Brasil na estreia, Marrocos empata com Noruega em amistoso O Marrocos ganhou um problema para a estreia na Copa do Mundo contra o Brasil, no próximo sábado, às 19h (de Brasília), em Nova Jersey. Um dos destaques do time, o atacante Abdessamad Ezzalzouli teve confirmada uma lesão no joelho direito e desfalcará a seleção. Brasil x Marrocos: análise revela perigos e brechas antes de encontro com o Brasil ⚽Pacote contra a cera: veja novas regras da Copa do Mundo Neymar estará disponível para o primeiro jogo da Copa do Mundo? Incêndio florestal e ameaça de cobras perto de CT assustam…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/marrocos-recebe-ma-noticia-para-estreia-contra-brasil-na-copa-do-mundo/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/09/destaque-do-marrocos-tem-lesao-no-joelho-e-vira-desfalque-para-estreia-na-copa-contra-o-brasil.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-09T20:44:25.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2280394246-e1781040581669.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "aab0ce3d42cf804e",
+        "slug": "d4a06693588524c8",
+        "titulo": "Centro usa tecnologia para identificar furtos de energia em Mato Grosso",
+        "resumo": "Em uma sala com painéis digitais e indicadores em tempo real, especialistas monitoram dados de diferentes pontos da rede elétrica de Mato Grosso em busca de variações que possam indicar problemas técnicos ou algo mais grave: o furto de energia. É nesse ambiente que funciona o novo Centro de Operações de Perdas da Energisa, criado para tornar o combate às fraudes mais ágil e eficiente por meio de tecnologia e análise de dados. Reprodução Assessoria A equipe cruza históricos de consumo, alertas operacionais, informações de campo e denúncias anônimas para identificar padrões suspeitos. Quando um…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mt/mato-grosso/especial-publicitario/energisa-mt/noticia/2026/06/09/centro-usa-tecnologia-para-identificar-furtos-de-energia-em-mato-grosso.ghtml"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/mt/noticia/2026/06/09/taca-mato-grosso-de-boliche-define-campeoes-em-tangara-da-serra.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-09T19:55:27.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/u2l6x2b_7ZYd-yfuP-1-Jbm8VOg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/a/52qGXWQh6U6uZT2yrB4A/foto-materia-energisa.jpg"
+      },
+      {
+        "clusterId": "5c9f38f1be2378c5",
+        "slug": "6e34d938c3464b7c",
+        "titulo": "Serena Williams vence partida de estreia no WTA de Queen's e avança às quartas",
+        "resumo": "Serena Williams não fez promessas, mas entregou tudo no jogo que marcou seu retorno ao tênis, na tarde desta terça-feira, pelo torneio de duplas do WTA 500 de Queen's, em Londres. Ao lado da tenista número 9 do ranking de simples, Victoria Mboko, a americana de 44 anos mostrou potência em quadra e bateu a neozelandesa Erin Routliffe e a americana Nicole Martinez por 2 sets a 0, com parciais de 7/6(2) e 6/2. Serena Williams vence partida de estreia ao lado de Victoria Mboko no WTA de Queen's Paul Harding/Getty Images A partida desta terça foi a estreia de Serena no torneio de Queen's e também…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/tenis/serena-williams-volta-as-quadras-apos-quase-quatro-anos-e-avanca-em-queens/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/tenis/noticia/2026/06/09/serena-williams-vence-partida-de-estreia-no-wta-de-queens.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-09T19:26:39.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/Nx3LUEw_iwXCkneqVwcbsq0smvc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/A/v/2pcKjcTsupe1ZxIcuXEg/gettyimages-2280739823.jpg"
+      },
+      {
+        "clusterId": "2bf49c67f403c036",
+        "slug": "e7a44b9af1e7445e",
+        "titulo": "Real Noroeste x Democrata GV - Campeonato Brasileiro Série D 2026 - globoesporte.com",
+        "resumo": "Campeonato Brasileiro Série D 2026 no globoesporte.com - acompanhe tudo sobre Real Noroeste x Democrata GV: escalação, informações sobre o jogo, fotos e muito mais",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/times/comercial-sp/noticia/2026/06/09/raphael-pereira-ve-potencial-no-comercial-e-mira-recolocar-clube-no-calendario-nacional.ghtml"
+            "url": "https://ge.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-b/jogo/09-06-2026/ponte-preta-cuiaba.ghtml"
           }
         ],
-        "updatedAt": "2026-06-09T17:58:11.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/OxSERvkmicwyhjKOEWmWVAbr0rE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/l/o/QsrNz8SXicFQBmLoJfNg/comercial-3.jpg"
+        "updatedAt": "2026-06-09T21:42:10.000Z"
       },
       {
-        "clusterId": "335a5c47f9bd71da",
-        "slug": "364434a0d0ed07d7",
-        "titulo": "Ypiranga-RS x Botafogo-PB - Campeonato Brasileiro Série C 2026 - globoesporte.com",
-        "resumo": "Campeonato Brasileiro Série C 2026 no globoesporte.com - acompanhe tudo sobre Ypiranga-RS x Botafogo-PB: escalação, informações sobre o jogo, fotos e muito mais",
+        "clusterId": "aad1eaa799284616",
+        "slug": "50e5679f308454f3",
+        "titulo": "Presidente de Cabo Verde: \"Ir à Copa nos faz acreditar que tudo é possível, e não só no futebol\"",
+        "resumo": "Seleção de Cabo Verde é recebida por \"torcida\" de funcionários na chegada em Boston Num país-arquipélago espalhado por um oceano, com cerca de meio milhão de habitantes dispersos entre nove das dez ilhas e uma diáspora que alcança quase todos os continentes. Essa configuração de Cabo Verde traz um desafio imenso e constante, o de manter a unidade de uma nação. Há momentos em que um país inteiro passa a olhar para o mesmo lugar e este momento acontece agora, movido pela seleção na Copa do Mundo. Em entrevista exclusiva ao ge na sede do governo, em Praia, capital do país, o presidente de Cabo…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/pr/futebol/brasileirao-sub-20/jogo/09-06-2026/flamengo-atletico-pr.ghtml"
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/09/presidente-de-cabo-verde-ir-a-copa-nos-faz-acreditar-que-tudo-e-possivel-e-nao-so-no-futebol.ghtml"
           }
         ],
-        "updatedAt": "2026-06-09T17:56:51.000Z"
+        "updatedAt": "2026-06-09T21:42:06.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/dWF0VJ4wtO7H77TfNR83rHTLyJ8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/S/c/nItUXRSwKECsnqsHMulg/gettyimages-2163699682.jpg"
       },
       {
-        "clusterId": "8dadc0e86b3619d9",
-        "slug": "37d2fbdc3f487e5b",
-        "titulo": "CBF muda chefe da comissão de arbitragem: sai Rodrigo Cintra, entra Sandro Meira Ricci",
-        "resumo": "A CBF decidiu pela demissão de Rodrigo Cintra, atual presidente da Comissão de Arbitragem. No lugar dele, outro ex-árbitro: Sandro Meira Ricci. A mudança ainda vai ser anunciada pela diretoria de Samir Xaud, presidente da CBF há pouco mais de um ano. Cintra ocupava o cargo desde fevereiro de 2025, anunciado pelo então presidente Ednaldo Rodrigues. Ele foi um dos responsáveis por implantar a profissionalização da arbitragem, que começou neste ano de 2026. Há 10 dias, ele fez palestra ao grupo de Carlo Ancelotti sobre as regras da Fifa - na Granja Comary, em preparação da Seleção para a Copa do…",
+        "clusterId": "ff7bd32cfd06ede3",
+        "slug": "90ce5deab48d0d15",
+        "titulo": "Copa do Mundo Feminina 2027: Espanha, França e Dinamarca se classificam para a competição",
+        "resumo": "Ícones do futebol feminino falam sobre a expectativa da Copa no Brasil em 2027 A Europa conheceu nesta terça-feira mais três seleções classificadas para a Copa do Mundo Feminina do Brasil-2027: Dinamarca, França e a atual campeã mundial, Espanha. A Alemanha já tinha garantido sua vaga na penúltima rodada das eliminatórias da Uefa. Outras 32 seleções europeias vão disputar os playoffs, em busca de mais sete vagas diretas para a Copa de 2027 e uma para a repescagem mundial. Entre os países que vão disputar os playoffs da Uefa estão a Inglaterra, atual bicampeã europeia (2022 e 2025) e vice da…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/noticia/2026/06/09/cbf-muda-chefe-da-comissao-de-arbitragem-sai-rodrigo-cintra-entra-sandro-meira-ricci.ghtml"
+            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/06/09/copa-do-mundo-feminina-2027-espanha-franca-e-dinamarca-se-classificam-para-a-competicao.ghtml"
           }
         ],
-        "updatedAt": "2026-06-09T17:55:17.000Z"
-      },
-      {
-        "clusterId": "e1b9d3b46e021ee0",
-        "slug": "5b596ac4c5a40a4e",
-        "titulo": "Vini Jr. vai nos passos de Neymar e Messi e vira personagem em jogo febre na internet",
-        "resumo": "Vini Jr ganha skin no Fortnite, confira Vini Jr., atacante da Seleção e do Real Madrid, ganhou uma skin (personagem utilizável) exclusiva no Fortnite, um dos cinco jogos mais acessados do mundo, que será disponibilizada online a partir desta quarta-feira, dia 10. Calendário da Copa do Mundo 2026: veja datas e horários de todos os jogos O camisa 7 vai nos passos de Neymar, primeiro jogador brasileiro a estar no game, e Messi, que já têm personagens no universo. Harry Kane e Marco Reus são os outros atletas de futebol a estarem disponíveis para os jogadores. Vini Jr. no Fortnite Reprodução O…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/09/vini-jr-vai-nos-passos-de-neymar-e-messi-e-ganha-personagem-em-jogo-febre-na-internet.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-09T17:50:19.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/2Zo0nMSRBo6_yFUU0HCovnPoaVM=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/g/4/9Le9JGSBiiY8mm8y97ew/whatsapp-image-2026-06-09-at-14.34.43.jpeg"
-      },
-      {
-        "clusterId": "0b764b46d7af67a1",
-        "slug": "cb989b46ed316ed6",
-        "titulo": "Weverton explica saída do Palmeiras: \"Temos que ser corajosos\"",
-        "resumo": "Voz do setorista: Possíveis chegadas e saídas no Palmeiras na janela de transferências A convocação de Weverton para a Copa do Mundo de 2026, a segunda da carreira, surpreendeu muita gente. Em especial, porque o goleiro fez um movimento importante ao trocar o Palmeiras, clube onde era ídolo, pelo Grêmio no início do ano. Uma decisão bastante complicada, na opinião do próprio Weverton. De acordo com o goleiro de 28 anos, a coragem supera os riscos e mostra o caminho. 🔍 adicione o ge nas suas fontes favoritas do Google – Realmente, não foi uma decisão fácil, por toda história que tenho no…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/06/09/weverton-explica-saida-do-palmeiras-temos-que-ser-corajosos.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-09T17:49:01.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/35X39EHBG4F1MR5YccKFDJj9FN0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/d/5/ABhbgBTWWMgyR10iHHsA/gettyimages-2280090151.jpg"
-      },
-      {
-        "clusterId": "509882e8e7f4d975",
-        "slug": "48fb9291e31b2d40",
-        "titulo": "\"A Copa era um sonho de vocês\": a emocionante carta da viúva de Diogo Jota a Robertson, da Escócia",
-        "resumo": "Robertson, da Escócia, lê carta enviada por Rute Cardoso, viúva de Diogo Jota Andy Robertson, que disputará a Copa do Mundo de 2026 pela Escócia, vai realizar o sonho de um amigo que faleceu no ano passado, o português Diogo Jota. O lateral-esquerdo e o atacante atuaram juntos por cinco temporadas no Liverpool, da Inglaterra. O escocês recebeu uma carta de Rute Cardoso, viúva de Jota, em que ela destacou o peso do Mundial para os dois: — Ao alcançar esse momento e garantir sua vaga na Copa do Mundo, você não irá sozinho, você levará o sonho dele com você também. E quando você pisar no campo,…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/09/a-copa-era-um-sonho-de-voces-a-emocionante-carta-da-viuva-de-diogo-jota-a-robertson-da-escocia.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-09T17:48:00.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/YwoMAcLnxJn3kbpox_I16g7wi2I=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/h/p/aEIlVnTruEBr0ffvGrvA/gettyimages-2196419575.jpg"
+        "updatedAt": "2026-06-09T21:41:40.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/6Sx6LPCEvjHdbSnPF5lQiqOp3II=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/A/l/2qq9nfQD6N0ApLoTGiQw/2026-06-05t202839z-1075997642-up1em651kvpyy-rtrmadp-3-soccer-worldcup-ger-nor.jpg"
       }
     ],
     "entretenimento": [
+      {
+        "clusterId": "01cbde31084a77ce",
+        "slug": "01d545564b6ef1b4",
+        "titulo": "Teresa Cristina dá 'Notícia boa' com Cézar Mendes entre as oito músicas autorais do álbum 'Tudo que eu tenho'",
+        "resumo": "Teresa Cristina lança em 19 de junho o single 'Quando a onda passar', primeira amostra do álbum inteiramente autoral 'Tudo que eu tenho' Nana Moraes / Divulgação ♫ NOTÍCIA ♬ “Deixo a maré levar / Que a onda vai trazer / Uma notícia boa / O que não deve ser / Não pode acontecer / É ilusão à toa”. Esses versos resignados são da letra de “Notícia boa”, parceria de Teresa Cristina com o compositor e violonista baiano Cézar Mendes. “Notícia boa” é uma das oito músicas inéditas que compõem o repertório do primeiro álbum inteiramente autoral de Teresa Cristina. O álbum se chama “Tudo que eu tenho” e…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/06/09/teresa-cristina-da-noticia-boa-com-cezar-mendes-entre-as-oito-musicas-autorais-do-album-tudo-que-eu-tenho.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-09T18:26:43.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/j2jPY5kEKJYz1BaCKxXnqfQAQR4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/W/WAjwowSBGJUGttTNg71g/teresananamoraes.jpg"
+      },
+      {
+        "clusterId": "7a64cb7c0c28fc62",
+        "slug": "c7d7de9d99d04a7c",
+        "titulo": "Richarlison rebate críticas ao nome do filho e dispara: 'Ele não vai precisar trabalhar'",
+        "resumo": "Richarlison ao lado de seu filho, Richarlison Jr. Redes sociais Richarlison causou polêmica nas redes sociais após rebater críticas por ter dado seu nome para o primeiro filho, Richarlison Jr. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia O atacante do Tottenham Hotspur, clube da Premier League da Inglaterra, gerou debate ao afirmar que a criança não passará por dificuldades financeiras ao longo da vida. Entenda o que aconteceu Agora no g1 A discussão começou após uma seguidora do Instagram questionar a escolha do atleta. “Imagina tu chamar Richarlison, viver a vida…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/06/09/richarlison-rebate-criticas-ao-nome-do-filho-e-dispara-ele-nao-vai-precisar-trabalhar.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-09T16:30:58.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/BILwb8oZnuuCe8Z1A5J3HnfGAeM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/d/gnpe0iS3S9j9b2e1WWuw/design-sem-nome-74-.png"
+      },
+      {
+        "clusterId": "295eb710528c4eac",
+        "slug": "1b1f24eda7ddb0f1",
+        "titulo": "Em 'Dia D', Spielberg busca encanto de clássicos alienígenas como 'E.T.' e 'Contatos imediatos'; g1 já viu",
+        "resumo": "Quando o maior diretor de todos os tempos volta a seu tema favorito, alienígenas, convém prestar atenção. Em \"Dia D\", Steven Spielberg evoca o encanto que injetou em clássicos como \"Contatos imediatos do terceiro grau\" (1977) e \"E.T. O extraterrestre\" (1982) – com resultados variados. O primeiro blockbuster do cineasta desde 2018 estreia no Brasil nesta quinta-feira (10) com a inocência otimista e pitadas de teorias da conspiração que marcam alguns de seus melhores filmes. Como na maioria da obra do veterano, estão lá uma aventura desnorteante contrastada com a calma para a elucidação do…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/g1-ja-viu/noticia/2026/06/09/em-dia-d-spielberg-busca-encanto-de-classicos-alienigenas-como-et-e-contatos-imediatos-g1-ja-viu.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-09T16:00:26.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/5h4nqWBhd-ymEsPvMqBJ8qpuP9E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/m/sAts03S4Cc8DFy4mKayQ/dia-d-colman-domingo-emily-blunt-josh-oconnor.jpg"
+      },
       {
         "clusterId": "f22857671b78dbf5",
         "slug": "b85783ada25257da",
@@ -1309,54 +1344,6 @@
         ],
         "updatedAt": "2026-06-09T07:00:12.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/HUn2ugy3BVa5iZ_QPRIIWfRCuoI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/J/a/1Yiq7AS72OToSIA6VEKw/waka-waka.jpg"
-      },
-      {
-        "clusterId": "696cea81f0405207",
-        "slug": "1f9e4e67b2917011",
-        "titulo": "Vocalista do Echo & the Bunnymen sofre acidente de carro e banda adia show nos EUA",
-        "resumo": "O cantor Ian McCulloch, da banda Echo & the Bunnymen Reprodução/Instagram O cantor Ian McCulloch, vocalista da banda Echo & the Bunnymen, sofreu um acidente de carro neste domingo (7). Segundo um comunicado publicado pela banda na sua conta oficial do Instagram, McCulloch está bem. \"Felizmente, os ferimentos parecem não ser graves. Porém, como vocês podem imaginar, ele ficou bem abalado com o acidente\", diz trecho da nota Ainda de acordo com o comunicado, o vocalista precisou passar por alguns exames de imagens e está sob cuidados médicos. Agora no g1 Por conta do acidente, a banda decidiu…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/06/08/vocalista-do-echo-and-the-bunnymen-sofre-acidente-de-carro-e-banda-adia-show-nos-eua.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-09T01:57:08.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/GAMB92BJQ_q8qxCvRcPby_9d6b4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/j/yZYTdYRy204dOeq3vVPg/fotos-g1-1920-x-1080-px-83-.png"
-      },
-      {
-        "clusterId": "ae4a4e41548addba",
-        "slug": "bdeb0aa4ddb095a9",
-        "titulo": "Venda geral de ingressos do Rock in Rio 2026 começa nesta segunda-feira",
-        "resumo": "A venda geral dos ingressos para o Rock in Rio 2026 inicia nesta segunda-feira, 8, às 19h, exclusivamente no site da Ticketmaster. A pré-venda, realizada na terça-feira anterior, esgotou todos os ingressos em menos de duas horas e estava disponível apenas para associados Rock in Rio Club e clientes Itaú. O festival ocorrerá nos dias 4, 5, 6, 7 e 11, 12 e 13 de setembro de 2026, no Rio de Janeiro. Os preços variam de R$ 435 a R$ 870, dependendo do tipo de ingresso.",
-        "porQueImporta": "A venda geral marca o início oficial da comercialização de ingressos para um dos maiores eventos musicais do Brasil.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/06/08/rock-in-rio-esgota-ingressos-para-dias-de-calvin-harris-e-maroon-5.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-09T00:21:53.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/aBRz98SGWyNe1hrNdz0Sth7HX-Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/k/dq6uh2RwAHpRKVzALOyw/fotos-g1-1920-x-1080-px-82-.png"
-      },
-      {
-        "clusterId": "8e3191ed2268daff",
-        "slug": "61847b568121a718",
-        "titulo": "João Pedro aparece em curta de Madonna",
-        "resumo": "Madonna lançou o curta \"Confessions II\", de 13 minutos, que precede seu próximo álbum. O vídeo inclui participações especiais, entre elas a do jogador brasileiro João Pedro. Em uma cena, Madonna toca a bunda de João Pedro enquanto ele observa a cantora. O curta também apresenta o companheiro de Chelsea, Cole Palmer, e outros artistas.",
-        "porQueImporta": "Ilustra a colaboração entre esportes e música, ampliando a visibilidade de João Pedro além do campo.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/06/08/fora-da-copa-joao-pedro-faz-participacao-em-curta-de-madonna-assista.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-08T20:50:05.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/2RN0qJvn_gfokcXDnIBjsuYr_5o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/8/TCAABXR0alo77xJgpH5w/fotos-g1-1920-x-1080-px-81-.png"
       }
     ]
   }
