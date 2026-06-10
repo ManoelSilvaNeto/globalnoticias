@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-06-09T11:16:41.559Z",
-  "editionDate": "2026-06-09",
-  "hourUtc": 11,
-  "outcome": "generated",
-  "reason": "\"Suspensão de vacina, debates sobre maioridade penal e tensões globais marcam a edição\" (4 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok"
-  ]
+  "ranAt": "2026-06-10T03:50:53.652Z",
+  "editionDate": "2026-06-10",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "attempts": []
 }
