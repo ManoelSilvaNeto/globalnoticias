@@ -1,8 +1,11 @@
 {
-  "ranAt": "2026-06-10T08:08:43.745Z",
+  "ranAt": "2026-06-10T15:37:14.940Z",
   "editionDate": "2026-06-10",
-  "hourUtc": 8,
-  "outcome": "skipped",
-  "reason": "fora da janela (8h < 11h UTC)",
-  "attempts": []
+  "hourUtc": 15,
+  "outcome": "not-generated",
+  "reason": "IA fora ou validação reprovou",
+  "attempts": [
+    "erro — sem cota (429)",
+    "reprovado — poucos parágrafos (1)"
+  ]
 }
