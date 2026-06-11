@@ -1,8 +1,11 @@
 {
-  "ranAt": "2026-06-11T04:04:04.913Z",
+  "ranAt": "2026-06-11T12:10:52.144Z",
   "editionDate": "2026-06-11",
-  "hourUtc": 4,
-  "outcome": "skipped",
-  "reason": "fora da janela (4h < 11h UTC)",
-  "attempts": []
+  "hourUtc": 12,
+  "outcome": "generated",
+  "reason": "\"Copa do Mundo marca início de semana enquanto pesquisas e tensões regionais moldam o cenário brasileiro\" (4 parágrafos)",
+  "attempts": [
+    "erro — Error: groq 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for mo",
+    "ok"
+  ]
 }
