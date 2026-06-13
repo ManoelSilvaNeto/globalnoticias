@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-06-12T11:44:01.314Z",
-  "editionDate": "2026-06-12",
-  "hourUtc": 11,
-  "outcome": "generated",
-  "reason": "\"Copa 2026 destaca conexões globais enquanto acordos e controvérsias moldam cenários políticos e econômicos\" (4 parágrafos)",
-  "attempts": [
-    "erro — Error: groq 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-20b` in organization `org_01kscvvnpvfp",
-    "ok"
-  ]
+  "ranAt": "2026-06-13T03:52:56.455Z",
+  "editionDate": "2026-06-13",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "attempts": []
 }
