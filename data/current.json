@@ -1,81 +1,133 @@
 {
   "date": "2026-06-14",
-  "generatedAt": "2026-06-14T17:21:47.168Z",
+  "generatedAt": "2026-06-14T21:13:43.752Z",
   "home": [
     {
-      "clusterId": "53a431d4fa6f3693",
-      "slug": "0e4f8b23d2b0fb62",
-      "titulo": "Trump critica ataques de Israel ao Líbano e pede recuo da ofensiva",
-      "resumo": "O presidente dos Estados Unidos, Donald Trump, condenou os ataques israelenses contra o Hezbollah em Beirute, afirmando que não deveriam ter acontecido. Ele destacou a proximidade de um acordo de paz abrangente entre EUA e Irã e pediu uma desescalada urgente na região. Os ataques, que atingiram alvos do Hezbollah no sul de Beirute, aumentaram a tensão enquanto negociações de paz avançam. A crítica de Trump ressalta a preocupação dos EUA em manter o processo de paz em andamento.",
-      "porQueImporta": "A reação de Trump pode influenciar a dinâmica das negociações de paz entre EUA e Irã e a estabilidade do Oriente Médio.",
-      "category": "geral",
+      "clusterId": "c9e3b566c919efc4",
+      "slug": "9a41be77b66cb3e2",
+      "titulo": "Alemanha goleia Curaçao por 7 a 1 na estreia da Copa do Mundo",
+      "resumo": "A seleção alemã venceu a estreante Curaçao por 7 a 1 em Houston, repetindo o mesmo placar que aplicou ao Brasil em 2014. O gol de Curaçao, marcado aos 20 minutos, foi o primeiro da equipe na história das Copas, gerando celebração entre torcedores. A vitória coloca a Alemanha na posição de maior artilheira da história do Mundial, com 239 gols marcados.",
+      "porQueImporta": "A goleada reforça a superioridade da Alemanha e destaca a estreia histórica de Curaçao, marcando um momento simbólico para o menor país participante.",
+      "category": "esportes",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/em-critica-a-israel-trump-diz-que-ataques-contra-beirute-nunca-deveriam-ter-acontecido/"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/ira-questiona-compromisso-dos-eua-com-iniciativas-de-paz-enquanto-israel-ataca-libano/"
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/copa-do-mundo/jogo/14-06-2026/alemanha-curacao.ghtml"
         },
         {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/ataque-de-israel-contra-libano-coloca-acordo-de-paz-em-xeque/"
+          "url": "https://www.cartacapital.com.br/esporte/7-a-1-alemanha-atropela-curacao-na-estreia-na-copa-do-mundo/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/alemanha-7-x-1-curacao-veja-os-melhores-momentos-da-copa-do-mundo/"
         },
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/ataque-de-israel-contra-libano-coloca-acordo-de-paz-em-xeque"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/trump-critica-ataques-de-israel-ao-libano-e-pede-recuo-de-ofensiva/"
-        }
-      ],
-      "updatedAt": "2026-06-14T16:42:22.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Vun9Eh-jpRvnPnFNZp40wBhYPVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/i/tWxhzdRZ6cmr7WcS1EWQ/2026-06-11t084134z-1101184355-rc2irlaz8w7y-rtrmadp-3-iran-crisis.jpg"
-    },
-    {
-      "clusterId": "dc7123ee35d3dce0",
-      "slug": "11039e9cc4e80a3a",
-      "titulo": "Dois helicópteros colidem no ar e caem no Recreio dos Bandeirantes",
-      "resumo": "As aeronaves PP-MAC e PR-DJJ colidiram no ar e caíram na avenida das Américas, no Recreio dos Bandeirantes, na zona sudoeste do Rio de Janeiro. O acidente ocorreu na manhã de domingo, 14 de junho, e resultou em seis mortes. O Corpo de Bombeiros e a Defesa Civil do RJ confirmaram o número de vítimas, mas ainda não divulgaram a lista completa. A Força Aérea Brasileira (FAB) e a Anac abriram investigação sobre as causas do acidente.",
-      "porQueImporta": "O incidente destaca a necessidade de revisão das normas de tráfego aéreo em áreas urbanas densamente povoadas.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/veja-trajeto-de-helicopteros-que-colidiram-no-ar-e-cairam-em-patio-no-rio/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/c17yekjzvw0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/14/fab-vai-investigar-causas-do-acidente-com-helicopteros-no-rio-de-janeiro.ghtml"
+          "url": "https://www.metropoles.com/esportes/nem-o-7-x-1-abalou-torcida-de-curacao-faz-festa-apos-estreia"
         },
         {
           "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-brasil/colisao-de-helicopteros-no-ar-deixa-6-mortos-no-rio/"
+          "url": "https://www.poder360.com.br/copa-2026/copa-2026-melhores-momentos-de-alemanha-7-x-1-curacao/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/esporte/gol-da-alemanha-novo-7-a-1-faz-brasil-perder-artilharia-de-todas-as-copas/"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/esportes/jogo-alemanha-curacau-copa-2026/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/esporte/com-a-7-a-1-contra-curacao-alemanha-tira-do-brasil-o-posto-de-maior-artilheira-das-copas/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/14/holanda-b-apenas-um-jogador-de-curacao-estreante-da-copa-nao-nasceu-no-pais-europeu-entenda.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-14T20:17:41.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/alemanha_curacao.jpg"
+    },
+    {
+      "clusterId": "88e14669522d1217",
+      "slug": "199a65992b5f6855",
+      "titulo": "Holanda e Japão estreiam na Copa do Mundo 2026",
+      "resumo": "A partida entre Holanda e Japão ocorre no dia 14 de junho de 2026, às 17h (horário de Brasília), no AT&T Stadium, em Arlington, Texas, como primeira rodada do Grupo F. Ambas as seleções fazem sua estreia no Mundial. O Japão vem com seis vitórias consecutivas em amistosos recentes, enquanto a Holanda entra com experiência internacional. O jogo será transmitido em canais de TV e streaming, com opções de qualidade em 4K.",
+      "porQueImporta": "É o primeiro confronto de duas equipes na Copa, marcando o início das disputas do Grupo F.",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/14/veja-memes-e-reacoes-de-holanda-x-japao-na-copa-do-mundo.ghtml"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/esporte/copa-do-mundo-memphis-depay-vai-jogar-em-holanda-x-japao/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/entenda-por-que-memphis-e-banco-em-holanda-x-japao-na-estreia-da-copa/"
+        },
+        {
+          "name": "Canaltech",
+          "url": "https://canaltech.com.br/entretenimento/holanda-x-japao-data-horario-e-onde-assistir-a-laranja-mecanica-na-copa/"
         },
         {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/cartaexpressa/helicopteros-caem-em-patio-de-veiculos-no-rio-de-janeiro/"
+          "url": "https://www.cartacapital.com.br/esporte/veja-os-jogos-deste-domingo-na-copa-do-mundo-2026/"
         },
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/acidente-helicoptero-rio-de-janeiro"
+          "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-holanda-x-japao-copa-do-mundo-14-06-26"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/14/jogos-copa-do-mundo-hoje-alemanha-holanda-horarios-onde-assistir.ghtml"
         }
       ],
-      "updatedAt": "2026-06-14T16:25:52.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4a5c/live/9dba0960-680b-11f1-b1db-af71d47507d6.jpg"
+      "updatedAt": "2026-06-14T20:18:35.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/gmUxJBrtcdv9u59_C6ezuBEQJWI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/V/Q/2vD6fyRWCEx1SuAtqdpQ/imagem-2026-06-14-175755288.png"
     },
     {
-      "clusterId": "d4b21fbb1adb69eb",
+      "clusterId": "a5a318ee8aa34086",
+      "slug": "8320e6911f2950bd",
+      "titulo": "Cantor Oliver Tree morre em colisão de helicópteros no Rio de Janeiro",
+      "resumo": "Seis pessoas morreram na manhã de domingo (14) quando dois helicópteros colidiram no Recreio dos Bandeirantes, na zona oeste do Rio de Janeiro. Entre as vítimas estava o cantor norte-americano Oliver Tree, de 32 anos, que estava no país para um show de sua turnê mundial. O acidente também matou o youtuber argentino Gaspi e o DJ Lucas Frota, entre outros. A imprensa internacional cobriu o incidente, destacando a perda de artistas com grande presença nas redes sociais.",
+      "porQueImporta": "O acidente evidenciou riscos de operações aéreas em áreas urbanas e marcou a perda de uma figura cultural de alcance global.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/celebridades/morte-de-oliver-tree-no-rio-repercute-na-imprensa-internacional"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/14/helicopteros-colidem-em-pleno-ar-no-rio-e-6-morrem-veja-repercussao-internacional.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/famosos-lamentam-morte-de-oliver-tree-vitima-de-acidente-aereo-no-rio/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/cartaexpressa/cantor-oliver-tree-esta-entre-as-vitimas-do-acidente-de-helicopteros-no-rio/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-brasil/cantor-oliver-tree-morre-em-colisao-entre-helicopteros-no-rio/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/casual/quem-era-oliver-tree-cantor-esta-entre-as-vitimas-de-acidente-com-helicopteros-no-rj/"
+        }
+      ],
+      "updatedAt": "2026-06-14T19:17:09.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/06/pi7_tool_pi7_tool_x-7.jpg"
+    },
+    {
+      "clusterId": "8959b5208e67698a",
       "slug": "ca8d0a313e902c2f",
       "titulo": "Trump diz que acordo com Irã será assinado domingo e promete abertura do Estreito de Ormuz",
       "resumo": "Trump diz que acordo com Irã será assinado domingo e promete abertura do Estreito de Ormuz O presidente americano Donald Trump afirmou que o acordo de paz entre EUA e Irã está marcado para ser assinado neste domingo (14). Em uma postagem na rede social Truth Social, Trump disse ainda que o Estreito de Ormuz será aberto imediatamente após a assinatura. Segundo o presidente dos Estados Unidos, o acordo que estabelece o fim do conflito no Oriente Médio coloca uma barreira definitiva para que o Irã tenha uma arma nuclear. Trump diz esperar que o processo seja conduzido de forma rápida, fácil e…",
@@ -83,131 +135,71 @@
       "category": "mundo",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-assinatura-do-acordo-com-ira-ainda-hoje-mais-tarde/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/ira-diz-que-e-inutil-negociar-com-os-eua-e-ameaca-o-acordo-a-horas-da-assinatura/"
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/ira-alerta-para-resposta-iminente-aos-ataques-de-israel-a-beirute-linha-vermelha/"
         },
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/eua-e-ira-devem-assinar-acordo-de-cessar-fogo-neste-domingo-entenda"
+          "url": "https://www.metropoles.com/mundo/trump-critica-nova-onda-de-ataques-de-israel-contra-o-libano"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/14/acordo-com-ira-pode-ser-assinado-neste-domingo-entenda-os-pontos-que-incluem-abertura-do-estreito-de-ormuz.ghtml"
+          "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/mundo/ataque-de-israel-contra-libano-coloca-acordo-de-paz-em-xeque/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/mundo/trump-diz-que-acordo-com-ira-pode-ser-assinado-em-horas-e-critica-ataque-de-israel/"
         },
         {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/cm20vke424zo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-06-14T16:55:25.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/presidente-dos-estados-unidos-donald-trump-durante-coletiva-metropoles-3-scaled.jpg"
+      "updatedAt": "2026-06-14T18:57:37.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2280933822.jpg?quality=70&strip=info"
     },
     {
-      "clusterId": "02a200f9f2b9d371",
-      "slug": "46b0756089d86b33",
-      "titulo": "Alemanha e Curaçao se enfrentam na Copa do Mundo",
-      "resumo": "O técnico Dick Advocaat destacou que a Alemanha e o Brasil estão subestimados e que ambas as seleções têm bom entrosamento, sendo favoritas ao título. O duelo entre Alemanha e Curaçao será disputado no Estádio de Houston, no Texas, no Grupo E, junto com a Costa do Marfim e o Equador.",
-      "porQueImporta": "O jogo marca a estreia de Curaçao na Copa e pode influenciar a classificação do Grupo E.",
-      "category": "tecnologia",
+      "clusterId": "e17ab05caca1f07c",
+      "slug": "01757a22b7d460d2",
+      "titulo": "Acidente aéreo no Rio de Janeiro resulta em seis mortes, incluindo youtuber argentino Gaspi e DJ brasileiro Lucas Frota",
+      "resumo": "Na manhã de 14 de julho, dois helicópteros colidiram no Recreio dos Bandeirantes, no Rio de Janeiro, causando a morte de seis pessoas. Entre as vítimas estavam o youtuber argentino Gaspi, de 23 anos, e o DJ e produtor brasileiro Lucas Frota, que vivia entre Miami e Los Angeles. O acidente também matou o cantor americano Oliver Tree. As autoridades confirmaram que as vítimas incluíam estrangeiros e residentes locais.",
+      "porQueImporta": "O incidente destaca a gravidade de acidentes aéreos urbanos e a perda de personalidades influentes nas redes sociais.",
+      "category": "economia",
       "sources": [
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/alemanha-e-brasil-estao-subestimadas-diz-tecnico-de-curacao-sobre-copa/"
+          "url": "https://www.cnnbrasil.com.br/pop/cinema/quem-e-lucas-vignale-diretor-argentino-morto-em-acidente-aereo-no-rio/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/fabia-oliveira/quem-era-gaspi-youtuber-morto-em-colisao-de-helicopteros-no-rio"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pop-arte/noticia/2026/06/14/quem-e-lucas-frota-produtor-e-dj-brasileiro-esta-entre-vitimas-de-acidente-aereo-no-rio.ghtml"
         },
         {
           "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/suecia-x-tunisia-na-copa-onde-assistir-horario-e-escalacoes/"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/14/tecnico-da-costa-do-marfim-foi-gandula-em-jogo-do-brasil-na-copa-e-se-aposentou-por-doenca.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-costa-do-marfim-x-equador-copa-do-mundo-14-06-26"
-        },
-        {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/06/14/internet-e-redes-sociais/costa-do-marfim-x-equador-onde-assistir-horario-e-escalacao-da-copa-do-mundo/"
-        }
-      ],
-      "updatedAt": "2026-06-14T16:53:45.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2268570477.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "8b9d79afb55f969a",
-      "slug": "ae3cb26d557c7a15",
-      "titulo": "Alemanha e Holanda estreiam na Copa do Mundo 2026 neste domingo (14)",
-      "resumo": "Seleção da Alemanha estreia hoje na Copa do Mundo. ODD ANDERSEN/AFP A Copa do Mundo de 2026 caminha para seu quarto dia neste domingo (14). Com a estreia de equipes como Alemanha e Holanda, o dia terá jogos de madrugada, na parte da tarde e à noite. (Veja mais abaixo) Acompanhe a Copa do Mundo 2026 no ge: Simulador da Copa do Mundo 2026 Calendário da Copa do Mundo 2026: veja datas e horários de todos os jogos RESULTADOS: confira a tabela da Copa do Mundo Power Ranking: qual seleção chega mais forte para a Copa do Mundo? Análise: Vini salva um Brasil que preocupa mais do que empolga em estreia…",
-      "porQueImporta": "",
-      "category": "tecnologia",
-      "sources": [
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/14/torcida-da-holanda-forma-mar-laranja-nos-eua-antes-da-estreia-na-copa-do-mundo-video.ghtml"
-        },
-        {
-          "name": "Canaltech",
-          "url": "https://canaltech.com.br/entretenimento/holanda-x-japao-data-horario-e-onde-assistir-a-laranja-mecanica-na-copa/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-holanda-x-japao-copa-do-mundo-14-06-26"
-        },
-        {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/06/14/internet-e-redes-sociais/holanda-x-japao-onde-assistir-horario-e-escalacao-da-copa-do-mundo/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/14/jogos-copa-do-mundo-hoje-alemanha-holanda-horarios-onde-assistir.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-14T16:23:42.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/kcj6h6xRUMhO37xB0BpLwf2LVhU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/1/9/Cy7xArSHAahLu7jWaLpg/whatsapp-image-2026-06-14-at-13.21.24-1-.jpeg"
-    },
-    {
-      "clusterId": "fc877601f4a89624",
-      "slug": "152738ba520cc4ed",
-      "titulo": "Brasil enfrenta Haiti na segunda rodada da Copa 2026",
-      "resumo": "Após empate com Marrocos, o técnico Carlo Ancelotti reconheceu a ansiedade da equipe e prevê evolução para o próximo jogo. O Brasil terá de jogar contra o Haiti na Filadélfia, nos Estados Unidos, na sexta-feira, 19 de junho, às 21h30 (horário de Brasília). O Haiti, que perdeu para a Escócia, será o adversário na lanterna do Grupo C. A partida determinará se o Brasil mantém a possibilidade de avançar para a fase de mata‑mata.",
-      "porQueImporta": "O resultado contra o Haiti pode definir a posição do Brasil no grupo e a continuidade na competição.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/copa-nao-se-ganha-no-primeiro-jogo-ancelotti-apos-empate-com-marrocos/"
+          "url": "https://veja.abril.com.br/brasil/quem-era-o-cantor-americano-que-morreu-em-acidente-de-helicoptero-no-rio/"
         },
         {
           "name": "Exame",
-          "url": "https://exame.com/esporte/depois-de-marrocos-quando-e-proximo-jogo-do-brasil-na-copa/"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/14/tecnico-do-haiti-cita-montanha-contra-brasil-mas-diz-rivais-tem-muito-mais-a-perder-do-que-nos.ghtml"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cly7nv9ed78o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/13/proximo-jogo-brasil-copa-data-horario-e-onde-assistir.ghtml"
+          "url": "https://exame.com/brasil/produtor-e-dj-lucas-frota-esta-entre-os-mortos-do-acidente-aereo-no-recreio/"
         }
       ],
-      "updatedAt": "2026-06-14T13:43:18.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/k6VALwG9KA_nhjxDLjcXfXmNt8k=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/C/i/SNDFUXSiKVLvj9XOBFeA/2026-06-01t124335z-606714612-rc216fa7lnjf-rtrmadp-3-soccer-worldcup-groupc-haiti.jpg"
+      "updatedAt": "2026-06-14T20:34:53.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/06/quem-era-gaspi-youtuber-heicoptero-rj-1.jpg"
     },
     {
-      "clusterId": "24a721f6e5a149ec",
-      "slug": "b817f14fd9763282",
-      "titulo": "Brasil empata com Marrocos na estreia da Copa 2026",
-      "resumo": "A seleção brasileira entrou em campo com uma escalação inédita e saiu perdendo após o gol de Ismael Saibari aos 21 minutos. Vinícius Júnior marcou um gol de destaque aos 32 minutos, igualando o placar. O jogo terminou em 1 a 1, mantendo o Brasil na disputa do grupo C. O confronto ocorreu no Estádio MetLife, próximo à maior comunidade brasileira na América do Norte.",
-      "porQueImporta": "O empate garante ao Brasil pontos importantes na fase de grupos da primeira Copa do Mundo realizada em três países.",
+      "clusterId": "116e25a42025bd3c",
+      "slug": "a76fe41bbbbcf6a1",
+      "titulo": "Brasil empata 1 a 1 com Marrocos na estreia da Copa do Mundo de 2026",
+      "resumo": "O Brasil e o Marrocos terminaram empatados em 1 a 1 na primeira rodada do Grupo C, no Estádio MetLife, em Nova Jersey. O gol de abertura foi marcado por Ismael Saibari aos 21 minutos, e Vinícius Júnior respondeu com um gol de 32 minutos. Marrocos manteve sua sequência invicta de 30 jogos, enquanto o Brasil mostrou falhas defensivas que foram expostas pela equipe africana.",
+      "porQueImporta": "O resultado reflete a competitividade do torneio e destaca a necessidade de ajustes na equipe brasileira antes das próximas partidas.",
       "category": "mundo",
       "sources": [
         {
@@ -215,134 +207,206 @@
           "url": "https://www.bbc.co.uk/portuguese/live/c5yzw1xqv0lt?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/esporte/brasil-empata-com-marrocos-1-1-em-sua-estreia-na-copa-do-mundo-de-2026/"
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/14/o-brasil-visto-de-cima-camera-aerea-mostra-buraco-no-meio-e-escape-com-vini-contra-o-marrocos-veja.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/esporte/depois-de-marrocos-quando-e-proximo-jogo-do-brasil-na-copa/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/13/copa-do-mundo-2026-em-quais-das-sedes-do-torneio-estao-as-maiores-torcidas-do-brasil.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/14/jogos-da-copa-do-mundo-de-sabado-13.ghtml"
         }
       ],
-      "updatedAt": "2026-06-14T17:21:49.875Z",
+      "updatedAt": "2026-06-14T21:13:45.205Z",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b827/live/d009d560-6786-11f1-b1db-af71d47507d6.jpg"
     },
     {
-      "clusterId": "12a66db1d8cc77da",
-      "slug": "35ab7baeae2dea44",
-      "titulo": "Suspeitos de homicídios e crimes violentos são presos em diferentes regiões de SP e BH",
-      "resumo": "Em São Paulo, um homem de 65 anos foi preso em flagrante por suspeita de matar a vizinha após briga sobre corte de água, estando foragido desde abril. No interior de SP, outro homem foi detido após esfaquear e matar seu pai e madrasta em Salto, confessando o crime aos guardas. Em Belo Horizonte, um acusado de feminicídio com 25 facadas há 13 anos foi preso, junto com outro suspeito em mandado aberto por tráfico de drogas.",
-      "porQueImporta": "Essas prisões demonstram a atuação policial em casos de violência doméstica e homicídios, reforçando a segurança pública nas regiões envolvidas.",
-      "category": "geral",
+      "clusterId": "3f22bf3f00e84781",
+      "slug": "d07dcb0a9bfb58d0",
+      "titulo": "Seleção do Irã chega aos Estados Unidos para estreia na Copa do Mundo",
+      "resumo": "A delegação iraniana desembarcou em Los Angeles para a estreia na Copa do Mundo contra a Nova Zelândia, marcada para segunda-feira. Antes da partida, a equipe realizou um último treino e participou de entrevistas coletivas. A torcida iraniana celebrou a partida em frente ao hotel, enquanto a comunidade persa de Los Angeles expressou descontentamento com a seleção. A partida ocorre em meio a tensões geopolíticas entre o Irã e os Estados Unidos.",
+      "porQueImporta": "A chegada do Irã aos EUA destaca a importância da Copa do Mundo como palco de questões políticas e culturais além do esporte.",
+      "category": "esportes",
       "sources": [
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/suspeito-de-matar-vizinha-apos-briga-sobre-corte-de-agua-e-preso-em-sp/"
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/selecao-do-ira-chega-aos-estados-unidos-para-estreia-na-copa-do-mundo/"
         },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/06/14/homicidio-salto.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/minas-gerais/acusado-de-matar-companheira-com-25-facadas-ha-13-anos-e-preso-em-bh"
-        }
-      ],
-      "updatedAt": "2026-06-14T16:17:35.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/LzRb6aIhoeq2VGAqUe-Sb6YY2Ps=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/k/6yCSAPTiymBQSmD8ADBg/design-sem-nome-2025-10-30t131052.631.png"
-    },
-    {
-      "clusterId": "2432b8a8d4c7fd9a",
-      "slug": "31ac5680ae9fbbff",
-      "titulo": "Trump celebra 80 anos com lutas de UFC no gramado da Casa Branca e em meio ao desgaste da guerra no Irã",
-      "resumo": "Arena de luta provisória foi montada no jardim da Casa Branca para evento que comemora os 80 anos de Trump AP O presidente Donald Trump celebra seu aniversário de 80 anos neste domingo (14) com um espetáculo que antes pareceria inimaginável: um evento de lutas em jaula no Gramado Sul da Casa Branca. Esta semana, no entanto, as duras realidades do cargo ameaçaram ofuscar a ostensiva extravagância de artes marciais mistas (UFC), onde combatentes trancados em um octógono de malha de aço tentam socar, chutar e golpear uns aos outros até a finalização. Trump encontra-se encurralado em uma guerra…",
-      "porQueImporta": "",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/lutas/a-cnn-alex-poatan-fala-sobre-luta-do-ufc-na-casa-branca-sera-especial/"
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/14/torcida-faz-festa-antes-de-viagem-do-ira-aos-estados-unidos-para-estreia-na-copa-do-mundo-video.ghtml"
         },
         {
           "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/donald-trump-completa-80-anos-com-espetaculo-de-lutas-do-ufc-na-casa-branca/"
+          "url": "https://www.infomoney.com.br/esportes/selecao-do-ira-deixa-tijuana-com-despedida-animada-antes-da-estreia-na-copa-do-mundo/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/receitas/5-receitas-tipicas-dos-estados-unidos-para-celebrar-a-copa-do-mundo-com-sabor/"
+        }
+      ],
+      "updatedAt": "2026-06-14T21:00:53.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/MF6L-lZtqUnNtmZ7OBAEswTUM4o=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/P/f/qwFNxBRuWkNpru3BJg9Q/2026-06-14t174857z-1446607321-up1em6e1dhjoi-rtrmadp-3-soccer-worldcup-irn-mexico-departure.jpg"
+    },
+    {
+      "clusterId": "0d118297165be817",
+      "slug": "0a0c5ff8b9a4c2a9",
+      "titulo": "Trio recebe prisão preventiva após morte de jovem em rope jump",
+      "resumo": "Maria Eduarda Rodrigues de Freitas, 21 anos, morreu ao cair de uma ponte de 40 metros na divisa entre Limeira e Cordeirópolis, após ser arremessada sem equipamentos de segurança durante um rope jump. A polícia apontou falha na checagem de segurança como causa do acidente. A Justiça decretou prisão preventiva de três homens envolvidos no evento. O caso destaca a necessidade de fiscalização de atividades de risco em locais públicos.",
+      "porQueImporta": "Ilustra falhas de segurança em eventos de risco e a responsabilidade dos organizadores.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/justica/justica-mantem-prisao-de-tres-homens-envolvidos-em-morte-de-jovem-apos-salto-sem-cordas/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/justica-decreta-prisao-preventiva-de-trio-apos-morte-de-jovem-em-salto-de-rope-jump/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/14/trump-celebra-80-anos-com-lutas-de-ufc-no-gramado-da-casa-branca-e-em-meio-ao-desgaste-da-guerra-no-ira.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-14T15:32:20.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-12T015906Z_41002588_RC2DNKA57H4L_RTRMADP_3_USA-TRUMP.jpg?fit=300%2C189&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "5e0d5f3cde07ca26",
-      "slug": "08d74e5b801480be",
-      "titulo": "Três homens presos após morte de jovem em rope jump sem corda",
-      "resumo": "Maria Eduarda Rodrigues de Freitas, de 21 anos, morreu ao saltar de rope jump na Ponte do Esqueleto, em Limeira, sem a corda de segurança. A jovem caiu de 40 metros e sofreu politraumatismo. Em audiência de custódia, a Justiça converteu em preventiva a prisão dos três homens suspeitos de homicídio com dolo eventual. A vítima havia expressado receio em post antes do salto.",
-      "porQueImporta": "O caso destaca a importância da segurança em atividades de risco e a responsabilidade legal dos envolvidos.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/06/14/justica-converte-em-preventiva-prisao-de-trio-por-morte-de-jovem-lancada-sem-corda-em-rope-jump.ghtml"
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/14/ela-queria-dar-aula-de-educacao-fisica-ex-professor-relembra-jovem-que-morreu-em-salto-de-rope-jump-no-interior-de-sp.ghtml"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/jovem-morta-em-rope-jump-e-velada-neste-domingo-na-grande-sao-paulo/"
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/justica-decreta-prisao-preventiva-de-trio-por-morte-de-jovem-em-rope-jump/"
+        }
+      ],
+      "updatedAt": "2026-06-14T19:40:00.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/Foto-Reprodução.jpg"
+    },
+    {
+      "clusterId": "4893064f466983cf",
+      "slug": "a1acada18da070e0",
+      "titulo": "Ex-jogador Jô é preso pela quinta vez por dívida de pensão alimentícia",
+      "resumo": "O ex-atacante João Alves de Assis Silva, de 39 anos, foi detido na madrugada de domingo (14) em uma boate em Belo Horizonte, enquanto estava em festa. A prisão ocorreu após o cumprimento de um mandado expedido pela Justiça de São Paulo. Esta é a quinta prisão de Jô pelo mesmo motivo, dívida de pensão alimentícia. O boletim de ocorrência indica que policiais militares localizaram o jogador no estabelecimento e o prenderam por volta das 4h.",
+      "porQueImporta": "A prisão demonstra a persistência de problemas legais envolvendo ex-atletas e a aplicação da lei em casos de dívida de pensão.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/ex-jogador-jo-e-preso-pela-quinta-vez-por-divida-de-pensao-alimenticia/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/mg-ex-jogador-jo-e-preso-pela-quinta-vez-por-divida-de-pensao-alimenticia/"
         },
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/quem-era-a-jovem-que-morreu-apos-salto-de-rope-jump-sem-corda-em-sp"
+          "url": "https://www.metropoles.com/minas-gerais/idolo-do-galo-ex-atacante-jo-e-preso-em-bh-pela-5a-vez"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/06/14/ex-jogador-jo-e-preso-em-boate-de-bh-por-divida-de-pensao-alimenticia.ghtml"
         }
       ],
-      "updatedAt": "2026-06-14T14:43:24.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/nqSuOyTuzXjuaOdQz_IeIvXlfX8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/h/jOhszNS3iH5rDz51H4GQ/screenshot-13.jpg"
+      "updatedAt": "2026-06-14T19:22:24.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/06/jo-corinthians.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "e204a7e2bbd1749c",
+      "slug": "31ac5680ae9fbbff",
+      "titulo": "UFC realiza evento no jardim da Casa Branca para comemorar 80º aniversário de Trump",
+      "resumo": "O presidente Donald Trump organizou, em 14 de junho, uma série de lutas de artes marciais mistas no gramado da Casa Branca, com um octógono provisório chamado \"The Claw\". O evento contou com a participação de lutadores, incluindo o brasileiro Alex Pereira, e foi promovido como o maior show da Terra. A realização ocorreu em meio a preocupações climáticas e ao contexto de tensões internacionais, como a guerra no Irã.",
+      "porQueImporta": "Ilustra a interseção entre política e entretenimento esportivo em nível internacional.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/14/por-que-trump-esta-promovendo-um-evento-de-lutas-de-ufc-na-casa-branca.ghtml"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/combate/noticia/2026/06/14/trovoada-ventos-de-55-kmh-e-ate-mosquitos-ligam-alerta-para-o-ufc-casa-branca.ghtml"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cdx7nwej81jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/mundo/us-60-milhoes-e-uma-garra-de-600-toneladas-como-sera-o-ufc-de-trump-na-casa-branca/"
+        }
+      ],
+      "updatedAt": "2026-06-14T19:00:50.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/4q-VFcbar1Z3W2O7gG63joSugiU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/9/8u3nzCSgeApyAgtmoGzg/ap26162415299617.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "dc7123ee35d3dce0",
-        "slug": "11039e9cc4e80a3a",
-        "titulo": "Dois helicópteros colidem no ar e caem no Recreio dos Bandeirantes",
-        "resumo": "As aeronaves PP-MAC e PR-DJJ colidiram no ar e caíram na avenida das Américas, no Recreio dos Bandeirantes, na zona sudoeste do Rio de Janeiro. O acidente ocorreu na manhã de domingo, 14 de junho, e resultou em seis mortes. O Corpo de Bombeiros e a Defesa Civil do RJ confirmaram o número de vítimas, mas ainda não divulgaram a lista completa. A Força Aérea Brasileira (FAB) e a Anac abriram investigação sobre as causas do acidente.",
-        "porQueImporta": "O incidente destaca a necessidade de revisão das normas de tráfego aéreo em áreas urbanas densamente povoadas.",
+        "clusterId": "a5a318ee8aa34086",
+        "slug": "8320e6911f2950bd",
+        "titulo": "Cantor Oliver Tree morre em colisão de helicópteros no Rio de Janeiro",
+        "resumo": "Seis pessoas morreram na manhã de domingo (14) quando dois helicópteros colidiram no Recreio dos Bandeirantes, na zona oeste do Rio de Janeiro. Entre as vítimas estava o cantor norte-americano Oliver Tree, de 32 anos, que estava no país para um show de sua turnê mundial. O acidente também matou o youtuber argentino Gaspi e o DJ Lucas Frota, entre outros. A imprensa internacional cobriu o incidente, destacando a perda de artistas com grande presença nas redes sociais.",
+        "porQueImporta": "O acidente evidenciou riscos de operações aéreas em áreas urbanas e marcou a perda de uma figura cultural de alcance global.",
         "category": "politica",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/veja-trajeto-de-helicopteros-que-colidiram-no-ar-e-cairam-em-patio-no-rio/"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c17yekjzvw0o?at_medium=RSS&at_campaign=rss"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/celebridades/morte-de-oliver-tree-no-rio-repercute-na-imprensa-internacional"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/14/fab-vai-investigar-causas-do-acidente-com-helicopteros-no-rio-de-janeiro.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/14/helicopteros-colidem-em-pleno-ar-no-rio-e-6-morrem-veja-repercussao-internacional.ghtml"
           },
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-brasil/colisao-de-helicopteros-no-ar-deixa-6-mortos-no-rio/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/celebridades/famosos-lamentam-morte-de-oliver-tree-vitima-de-acidente-aereo-no-rio/"
           },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/cartaexpressa/helicopteros-caem-em-patio-de-veiculos-no-rio-de-janeiro/"
+            "url": "https://www.cartacapital.com.br/cartaexpressa/cantor-oliver-tree-esta-entre-as-vitimas-do-acidente-de-helicopteros-no-rio/"
           },
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/acidente-helicoptero-rio-de-janeiro"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-brasil/cantor-oliver-tree-morre-em-colisao-entre-helicopteros-no-rio/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/casual/quem-era-oliver-tree-cantor-esta-entre-as-vitimas-de-acidente-com-helicopteros-no-rj/"
           }
         ],
-        "updatedAt": "2026-06-14T16:25:52.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4a5c/live/9dba0960-680b-11f1-b1db-af71d47507d6.jpg"
+        "updatedAt": "2026-06-14T19:17:09.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/pi7_tool_pi7_tool_x-7.jpg"
+      },
+      {
+        "clusterId": "0d118297165be817",
+        "slug": "0a0c5ff8b9a4c2a9",
+        "titulo": "Trio recebe prisão preventiva após morte de jovem em rope jump",
+        "resumo": "Maria Eduarda Rodrigues de Freitas, 21 anos, morreu ao cair de uma ponte de 40 metros na divisa entre Limeira e Cordeirópolis, após ser arremessada sem equipamentos de segurança durante um rope jump. A polícia apontou falha na checagem de segurança como causa do acidente. A Justiça decretou prisão preventiva de três homens envolvidos no evento. O caso destaca a necessidade de fiscalização de atividades de risco em locais públicos.",
+        "porQueImporta": "Ilustra falhas de segurança em eventos de risco e a responsabilidade dos organizadores.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/justica/justica-mantem-prisao-de-tres-homens-envolvidos-em-morte-de-jovem-apos-salto-sem-cordas/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/brasil/justica-decreta-prisao-preventiva-de-trio-apos-morte-de-jovem-em-salto-de-rope-jump/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/14/ela-queria-dar-aula-de-educacao-fisica-ex-professor-relembra-jovem-que-morreu-em-salto-de-rope-jump-no-interior-de-sp.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/justica-decreta-prisao-preventiva-de-trio-por-morte-de-jovem-em-rope-jump/"
+          }
+        ],
+        "updatedAt": "2026-06-14T19:40:00.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/Foto-Reprodução.jpg"
       },
       {
         "clusterId": "5bc84d3be1806dd4",
         "slug": "57461a1f1071aa25",
-        "titulo": "Ponto a ponto: o que a Justiça italiana alegou na decisão que anulou a extradição de Zambelli",
-        "resumo": "Justiça da Itália publica decisão sobre absolvição de Zambelli A Corte Suprema de Cassação da Itália divulgou, nesta sexta-feira (12), os motivos que levaram à decisão de anular, em 22 de maio, a extradição da ex-deputada Carla Zambelli ao Brasil. A determinação italiana diz respeito ao pedido de extradição feito pelo Brasil contra a ex-parlamentar, conduzido com base no processo em que Zambelli foi condenada por invadir os sistemas do Conselho Nacional de Justiça (CNJ). 🔎Há ainda um segundo processo de extradição correndo na Justiça italiana, relacionado à condenação da ex-deputada pelo…",
-        "porQueImporta": "",
+        "titulo": "Justiça italiana anula extradição de Carla Zambelli",
+        "resumo": "A Corte Suprema de Cassação da Itália decidiu anular a extradição de Carla Zambelli ao Brasil, realizada em 22 de maio, com base no processo de condenação por invasão dos sistemas do Conselho Nacional de Justiça. A decisão foi publicada nesta sexta-feira (12). O Brasil havia solicitado a extradição, mas a corte considerou que os requisitos legais não foram atendidos. A medida pode influenciar outros casos de extradição envolvendo ex-parlamentares.",
+        "porQueImporta": "A decisão pode afetar a aplicação de penas e a cooperação internacional em casos de crimes cibernéticos.",
         "category": "politica",
         "sources": [
           {
@@ -354,71 +418,50 @@
             "url": "https://g1.globo.com/mundo/noticia/2026/06/13/ponto-a-ponto-o-que-a-justica-italiana-alegou-na-decisao-que-anulou-a-extradicao-de-zambelli.ghtml"
           }
         ],
-        "updatedAt": "2026-06-14T17:10:32.000Z",
+        "updatedAt": "2026-06-14T21:00:15.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/dEHM1X-dzWGi8MeOPwWPyNuhJzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/Y/A/EuLmQDThidd6YdISJVdQ/age20250603002.jpg"
       },
       {
-        "clusterId": "993afb9f4a4aee6f",
-        "slug": "66c44b189e182c24",
-        "titulo": "TCU cria gratificação de até 15% para servidores de alta complexidade e teletrabalho cresce 24%",
-        "resumo": "O Tribunal de Contas da União instituiu uma gratificação que pode aumentar em até 15% a remuneração de servidores que exercem funções de direção, chefia ou assessoramento em atividades de alta complexidade técnica, fiscalização e gestão institucional. A medida será aplicada a um número restrito de servidores, com impacto financeiro compatível com dotações orçamentárias. Paralelamente, o número de servidores em teletrabalho no país subiu 24% em pouco mais de um ano, refletindo a expansão do trabalho remoto. Ambas as ações indicam ajustes na remuneração e na organização do serviço público.",
-        "porQueImporta": "Essas mudanças afetam a remuneração e a estrutura de trabalho dos servidores públicos, impactando o orçamento e a eficiência administrativa.",
+        "clusterId": "8a556c645ebcd4e8",
+        "slug": "f214761b41956655",
+        "titulo": "Fifa vai pagar salário integral a árbitro somali barrado nos EUA",
+        "resumo": "O árbitro somali Omar Abdulkadir Artan, escalado para a Copa do Mundo de 2026, foi impedido de entrar nos Estados Unidos e ficou retido por 11 horas em Miami. A FIFA decidiu pagar a ele o salário integral do torneio. Artan chegou ao Aeroporto Internacional Aden Abdulle Osman em Mogadíscio em 10 de junho de 2026.",
+        "porQueImporta": "Garantir o pagamento ao árbitro demonstra o compromisso da FIFA com a remuneração de seus funcionários, mesmo diante de restrições de entrada em países anfitriões.",
         "category": "politica",
         "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/andreza-matais/quantidade-servidores-teletrabalho-2025-2026-aumento"
-          },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/06/12/tcu-cria-penduricalho-que-pode-elevar-salarios-em-ate-15percent-entenda.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/14/arbitro-somali-barrado-pelos-eua-recebera-salario-integral-da-fifa.ghtml"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/copa-2026/fifa-vai-pagar-salario-integral-a-arbitro-somali-barrado-nos-eua/"
           }
         ],
-        "updatedAt": "2026-06-14T17:10:32.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/PfF5pPksDMndnJ7hqqxXub-dQYY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/z/E/I2uYVFTcmWzbT5q8c3pg/36091566061-b959b956f3-k.jpg"
+        "updatedAt": "2026-06-14T20:54:05.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/TSXfwsdrSuC0PK3G8QtfRI6l_JE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/s/OA8hBvRI6MjFJQ0AEnVQ/2026-06-10t065700z-379590941-rc2mqlahkg4i-rtrmadp-3-soccer-worldcup-immigration-somalia.jpg"
       },
       {
-        "clusterId": "7ac4b25560479e97",
-        "slug": "4f847a91d5c24ab2",
-        "titulo": "Caiado demonstra interesse em conversar com Renan Santos sobre possível aliança",
-        "resumo": "O ex-governador de Goiás, Ronaldo Caiado, afirmou que pretende sentar e conversar com Renan Santos, pré-candidato à presidência pelo Missão. Caiado elogiou a atuação política de Santos e indicou que quer retomar o contato. A declaração veio em meio a especulações sobre a composição da chapa de Caiado na eleição presidencial.",
-        "porQueImporta": "A possível aliança pode influenciar a dinâmica das candidaturas e a formação de alianças partidárias na eleição.",
+        "clusterId": "0b2c701edef80fb7",
+        "slug": "fca5dc93d907d736",
+        "titulo": "Lula sanciona novo marco legal do transporte coletivo com vetos",
+        "resumo": "O presidente sancionou o novo marco legal do transporte coletivo, retirando a obrigatoriedade de Estados e municípios financiarem integralmente as gratuidades e a isenção de pedágio para ônibus em rodovias estaduais e municipais. A medida representa uma das maiores mudanças no setor desde a Política Nacional de Mobilidade Urbana de 2012. O texto foi aprovado com vetos que alteram disposições anteriores sobre financiamento e pedágios.",
+        "porQueImporta": "A reforma pode reduzir custos para governos e impactar a oferta de transporte público gratuito e o uso de rodovias por ônibus.",
         "category": "politica",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/renan-santos-vence-lula-e-flavio-bolsonaro-em-jogo-do-brasil/"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-governo/lula-sanciona-com-vetos-novo-marco-do-transporte-publico/"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/06/14/brasil-marrocos-resultado-palpites-presidenciaveis.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/infra/lula-sanciona-com-vetos-novo-marco-legal-do-transporte-coletivo/"
           }
         ],
-        "updatedAt": "2026-06-14T15:16:51.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2280781147.jpg?quality=70&strip=info"
+        "updatedAt": "2026-06-14T20:49:48.000Z"
       },
       {
-        "clusterId": "8320c0fa4e427f31",
-        "slug": "9c3750e5bf59a950",
-        "titulo": "Horóscopo de 14 e 15 a 21 de junho de 2026",
-        "resumo": "Para o dia 14 de junho, os signos enfrentam um período de renovação e introspecção, com foco em ajustes internos e confiança no processo. Nos dias 15 a 21, a semana traz oportunidades de crescimento e reconhecimento, exigindo maturidade para lidar com o tempo de cada processo. Alguns nativos encontrarão novas conquistas, enquanto outros serão convidados a fortalecer suas bases e superar medos.",
-        "porQueImporta": "Essas previsões orientam os leitores a prepararem-se emocionalmente para os desafios e oportunidades que a semana pode trazer.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/astrologia/tarot-semanal-previsao-para-os-signos-de-15-a-21-de-junho-de-2026/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/vida-e-estilo/horoscopo/horoscopo-2026-confira-a-previsao-de-hoje-14-6-para-seu-signo"
-          }
-        ],
-        "updatedAt": "2026-06-14T13:02:23.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/aries-1-3-1024x683.jpg"
-      },
-      {
-        "clusterId": "30c0e6c458267057",
+        "clusterId": "0570dcb808bbd413",
         "slug": "53d2036181e94349",
         "titulo": "Lula viaja para G7 na França sem reunião formal com Trump",
         "resumo": "O presidente Luiz Inácio Lula da Silva embarcou para a França para participar da cúpula do G7 em Évian-les-Bains. O governo brasileiro busca a possibilidade de um encontro informal entre Lula e Donald Trump, embora não haja agenda oficial para tal reunião. A presença de Lula no evento é garantida a partir de segunda-feira, dia 15, com a expectativa de que o encontro ocorra durante a cúpula.",
@@ -427,55 +470,115 @@
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/igor-gadelha/lula-embarca-para-o-g7-sem-expectativa-de-reuniao-bilateral-com-trump"
+            "url": "https://www.metropoles.com/brasil/lula-embarca-rumo-a-franca-para-participar-da-cupula-do-g7"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/politica/noticia/2026/06/14/lula-embarca-neste-domingo-para-reuniao-do-g7-na-franca-governo-ve-chance-de-reuniao-com-trump.ghtml"
           }
         ],
-        "updatedAt": "2026-06-14T08:00:12.000Z",
-        "imageUrl": "https://images.metroimg.com/2025/10/27174540/Presidente-dos-EUA-Donald-Trump-se-reune-bilateralmente-com-o-presidente-do-Brasil-Luiz-Inacio-Lula-da-Silva-no-Centro-de-Convencoes-de-Kuala-Lumpur-Malasia-Metropoles-4.jpg"
+        "updatedAt": "2026-06-14T20:10:09.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/lula-alckmin-g7.jpeg"
       },
       {
-        "clusterId": "9b6c3a4c9c4a87f1",
-        "slug": "76e8efc6bbec8fff",
-        "titulo": "Pix Automático completa um ano e inclui 64% de novos assinantes na economia digital",
-        "resumo": "Dados do EBANX mostram que maioria dos usuários da ferramenta nunca havia assinado serviços digitais antes por falta de acesso a cartão de crédito",
-        "porQueImporta": "",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/do-micro-ao-macro/pix-automatico-novos-assinantes-economia-digital-ebanx/"
-          }
-        ],
-        "updatedAt": "2026-06-14T17:00:59.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/02/PIX-pagamento.jpg"
-      },
-      {
-        "clusterId": "015de17fe4dcba05",
-        "slug": "31b36cac7b1e6251",
-        "titulo": "Presença de mulheres nas Forças Armadas cresce 10% em 5 anos",
-        "resumo": "Alistamento militar feminino teve início em 2025; Aeronáutica tem maior participação desse grupo em relação ao total",
-        "porQueImporta": "",
+        "clusterId": "c2d53fae1e24f703",
+        "slug": "a3b71e9cb01f795a",
+        "titulo": "Flávio Bolsonaro recebe apoio de governadores e empresários em SP, mas perde apoio em pesquisas",
+        "resumo": "O PL lançou Flávio Bolsonaro como candidato à Presidência em São Paulo, contando com o apoio do governador Tarcísio de Freitas e do prefeito Ricardo Nunes, além de relações com empresários do estado. Contudo, pesquisas da Quaest mostram que ele perdeu apoio entre evangélicos, mulheres, jovens e na região Sudeste, enquanto Lula amplia sua vantagem no segundo turno. O levantamento também indica que nenhum outro candidato da direita conseguiu aproveitar a queda de votos de Bolsonaro.",
+        "porQueImporta": "A mudança no apoio de Bolsonaro pode influenciar a dinâmica da disputa presidencial e a polarização política no Brasil.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-brasil/presenca-de-mulheres-nas-forcas-armadas-cresce-10-em-5-anos/"
+            "url": "https://www.poder360.com.br/poder-eleicoes/pl-lanca-flavio-bolsonaro-a-presidencia-em-sp-no-final-de-julho/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/06/14/flavio-bolsonaro-quaest-junho.ghtml"
           }
         ],
-        "updatedAt": "2026-06-14T17:00:29.000Z"
+        "updatedAt": "2026-06-14T18:27:50.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/zyB6r8os1JiHxlqlG_9Pu7sqf1E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/P/LiAWiZQUqbAqxR8dqSnw/55326406542-21c6479095-o.jpg"
+      },
+      {
+        "clusterId": "4f257f82128513b8",
+        "slug": "ff4c06e731c19c4e",
+        "titulo": "Exportações do agronegócio aumentam 8% e atingem US$ 16 bilhões em maio",
+        "resumo": "Em maio, as exportações do agronegócio cresceram 8%, totalizando US$ 16 bilhões, representando 50,2% do total de exportações do país no mês. No acumulado do ano, o faturamento do setor chegou a US$ 70,5 bilhões.",
+        "porQueImporta": "O crescimento das exportações do agronegócio reforça a importância do setor para a balança comercial brasileira.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-agro/exportacoes-do-agro-sobem-8-e-somam-us-16-bilhoes-em-maio/"
+          }
+        ],
+        "updatedAt": "2026-06-14T21:11:29.000Z"
       }
     ],
     "economia": [
       {
+        "clusterId": "e17ab05caca1f07c",
+        "slug": "01757a22b7d460d2",
+        "titulo": "Acidente aéreo no Rio de Janeiro resulta em seis mortes, incluindo youtuber argentino Gaspi e DJ brasileiro Lucas Frota",
+        "resumo": "Na manhã de 14 de julho, dois helicópteros colidiram no Recreio dos Bandeirantes, no Rio de Janeiro, causando a morte de seis pessoas. Entre as vítimas estavam o youtuber argentino Gaspi, de 23 anos, e o DJ e produtor brasileiro Lucas Frota, que vivia entre Miami e Los Angeles. O acidente também matou o cantor americano Oliver Tree. As autoridades confirmaram que as vítimas incluíam estrangeiros e residentes locais.",
+        "porQueImporta": "O incidente destaca a gravidade de acidentes aéreos urbanos e a perda de personalidades influentes nas redes sociais.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/cinema/quem-e-lucas-vignale-diretor-argentino-morto-em-acidente-aereo-no-rio/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/colunas/fabia-oliveira/quem-era-gaspi-youtuber-morto-em-colisao-de-helicopteros-no-rio"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/06/14/quem-e-lucas-frota-produtor-e-dj-brasileiro-esta-entre-vitimas-de-acidente-aereo-no-rio.ghtml"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/brasil/quem-era-o-cantor-americano-que-morreu-em-acidente-de-helicoptero-no-rio/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/produtor-e-dj-lucas-frota-esta-entre-os-mortos-do-acidente-aereo-no-recreio/"
+          }
+        ],
+        "updatedAt": "2026-06-14T20:34:53.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/quem-era-gaspi-youtuber-heicoptero-rj-1.jpg"
+      },
+      {
+        "clusterId": "4d3dae602f70f464",
+        "slug": "33e4f28287b9c784",
+        "titulo": "Acidente entre dois helicópteros causa seis mortes no Rio de Janeiro",
+        "resumo": "Em 18 de março, dois helicópteros colidiram e caíram na Avenida das Américas, no Recreio, no Rio de Janeiro, resultando em seis vítimas fatais. O prefeito do Rio, que conhecia uma das vítimas, foi informado do ocorrido. A Polícia Civil identificou os mortos e encontrou câmeras fotográficas e filmadoras entre os pertences recuperados.",
+        "porQueImporta": "O incidente destaca a necessidade de reforçar a segurança e fiscalização de operações aéreas em áreas urbanas.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/brasil/prefeito-do-rio-conhecia-uma-das-vitimas-de-queda-de-helicopteros-no-recreio-veja-quem-sao/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/quem-sao-as-seis-vitimas-de-acidente-entre-helicopteros-no-rj/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/acidente-helicoptero-rio-de-janeiro"
+          }
+        ],
+        "updatedAt": "2026-06-14T18:10:55.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/157ee2cc-08cb-417c-a6be-d3c905444a26-1.jpg?quality=70&strip=info"
+      },
+      {
         "clusterId": "540b3a8fc80c6e93",
         "slug": "61719de68a67fc75",
-        "titulo": "Gestão de contratos: o que podemos aprender com os alemães",
-        "resumo": "Falhas na gestão contratual geram perdas médias de 9% do faturamento anual, aponta levantamento global da associação WorldCC",
-        "porQueImporta": "",
+        "titulo": "TCE aponta superfaturamento e prejuízo de R$16 milhões em contratos da gestão João Campos",
+        "resumo": "O Tribunal de Contas do Estado identificou superfaturamento em contratos da gestão de João Campos, resultando em prejuízo de R$16 milhões. A análise destaca falhas na gestão contratual que geram perdas significativas. Estudos internacionais mostram que tais falhas podem causar perdas médias de 9% do faturamento anual. A situação evidencia a necessidade de revisão e controle mais rigoroso dos contratos públicos.",
+        "porQueImporta": "O caso demonstra impactos financeiros graves de má gestão contratual no setor público.",
         "category": "economia",
         "sources": [
           {
@@ -487,140 +590,103 @@
             "url": "https://exame.com/bussola/o-que-os-executivos-brasileiros-podem-aprender-com-alemaes-sobre-gestao-de-contratos/"
           }
         ],
-        "updatedAt": "2026-06-14T17:10:32.000Z"
+        "updatedAt": "2026-06-14T21:00:15.000Z"
       },
       {
-        "clusterId": "2055ab7ee4a59c0d",
-        "slug": "dafde03563be55c0",
-        "titulo": "Manifestantes quebram janelas e ateiam fogo a Tesla em marcha contra o G7 em Genebra; polícia responde com gás lacrimogêneo",
-        "resumo": "Manifestantes vão às ruas protestar contra G7 Manifestantes atearam fogo a um Tesla e quebraram as janelas de um banco em Genebra no domingo (14), expressando oposição à cúpula do Grupo dos Sete (G7), que ocorrerá a partir de manhã, a poucos quilômetros dali, na cidade francesa de Évian-les-Bains. 🌍 São membros oficiais do G7: Alemanha, Canadá, Estados Unidos, França, Itália, Japão, Reino Unido. Após os manifestantes atirarem pedras contra um prédio de telecomunicações da ONU e também lançaram sinalizadores, a polícia local usou gás lacrimogêneo para afastar as pessoas da área do complexo da…",
-        "porQueImporta": "",
+        "clusterId": "0f6a5409e7d10e5c",
+        "slug": "7a6afe48f870739e",
+        "titulo": "Alemanha goleia Curaçao 7 a 1 na Copa do Mundo de 2026",
+        "resumo": "Na partida da Copa do Mundo de 2026, a Alemanha venceu Curaçao por 7 a 1, marcando uma das maiores goleadas da história do torneio. O resultado entrou na lista de confrontos mais decisivos, junto a outras vitórias históricas da Alemanha, como a de 2014 contra o Brasil. A partida foi realizada no dia 14 de julho e destacou a força ofensiva da equipe alemã.",
+        "porQueImporta": "O resultado reforça a tradição da Alemanha em dominar jogos de grande importância e amplia o histórico de goleadas no Mundial.",
         "category": "economia",
         "sources": [
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/manifestantes-quebram-janelas-e-incendeiam-um-tesla-durante-marcha-contra-o-g7/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/14/protestos-quebram-janela-e-tocam-fogo-em-tresla-em-protesto-contra-g7.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-14T16:41:27.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-14T161028Z_1_LYNXMPEM5D0HL_RTROPTP_4_G7-SUMMIT-PROTESTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "9bbc1e8b5dca8e5d",
-        "slug": "cf8e2b15fc6e9940",
-        "titulo": "Helicópteros colidem no ar no Recreio dos Bandeirantes, no RJ",
-        "resumo": "Aeronaves caíram na manhã do domingo em bairro nobre da zona Oeste do Rio de Janeiro The post Helicópteros colidem no ar no Recreio dos Bandeirantes, no RJ appeared first on InfoMoney.",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/brasil/helicopteros-colidem-no-ar-no-recreio-dos-bandeirantes-no-rj/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-as-maiores-goleadas-da-alemanha-em-copas-do-mundo/"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/brasil/video-mostra-incendio-causado-por-queda-de-helicopteros-no-recreio-dos-bandeirantes/"
+            "url": "https://exame.com/esporte/7-a-1-e-muito-copa-do-mundo-ja-teve-goleadas-ainda-maiores-saiba-quais/"
           }
         ],
-        "updatedAt": "2026-06-14T15:22:47.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2022/12/Agusta-AW-109_10.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-14T19:56:19.000Z"
       },
       {
-        "clusterId": "7e4447871145a633",
-        "slug": "96e414097657d57d",
-        "titulo": "Mega-Sena tem horário alterado no fim de semana da estreia do Brasil na Copa do Mundo",
-        "resumo": "Como funciona a Mega-Sena? O sorteio do concurso 3018 da Mega-Sena terá mudanças no cronograma neste fim de semana, por conta da estreia da seleção brasileira na Copa do Mundo de 2026. De acordo com o sistema de apostas da Caixa, o sorteio ocorrerá apenas às 11h de domingo (14). Clique aqui para seguir o canal de Loterias do g1 no WhatsApp No concurso da última quinta-feira (11), ninguém acertou as seis dezenas e prêmio acumulou para R$ 12 milhões. Tradicionalmente, os sorteios da Mega-Sena realizados aos sábados acontecem à noite, no mesmo dia do encerramento das apostas. A alteração ocorre…",
-        "porQueImporta": "",
+        "clusterId": "a0dbda36a5849ff8",
+        "slug": "3311a73a2b4b69c2",
+        "titulo": "Polícia suíça usa gás lacrimogêneo em protesto contra G7",
+        "resumo": "Manifestantes contra o G7 atacaram a sede da ONU na Suíça, incendiando um carro e quebrando janelas de uma agência da organização. Em resposta, a polícia lançou gás lacrimogêneo para dispersar os protestantes. O confronto ocorreu pouco antes do início do encontro do G7 na região.",
+        "porQueImporta": "O episódio demonstra a tensão crescente em torno do G7 e a reação das autoridades suíças a protestos internacionais.",
         "category": "economia",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/06/14/mega-sena-tera-sorteio-hoje-apos-ser-adiado-por-estreia-do-brasil-na-copa.ghtml"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mundo/policia-usa-gas-lacrimogeneo-em-protesto-contra-o-g7-apos-ataque-a-sede-da-onu/"
           },
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/tem-mega-sena-hoje-veja-como-ficam-os-sorteios-durante-os-jogos-do-brasil-na-copa"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/policia-e-manifestantes-entram-em-confronto-em-protestos-contra-g7-na-suica/"
           }
         ],
-        "updatedAt": "2026-06-14T03:00:13.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg"
+        "updatedAt": "2026-06-14T19:20:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-14T172720Z_1_LYNXMPEM5D0J5_RTROPTP_4_G7-SUMMIT-PROTESTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "300891ee72c5d49c",
-        "slug": "805c0ff4b4b6db50",
-        "titulo": "Lula embarca às 15h deste domingo rumo à França para participar do G7",
-        "resumo": "A agenda internacional se estende até quarta-feira, 17 The post Lula embarca às 15h deste domingo rumo à França para participar do G7 appeared first on InfoMoney.",
-        "porQueImporta": "",
+        "clusterId": "7fcc451577be1794",
+        "slug": "6057d073c3b0ab2c",
+        "titulo": "Federações africanas, Curaçao, Haiti e Uzbequistão criticam Uefa",
+        "resumo": "O presidente da Uefa, Aleksander Ceferin, afirmou que jogos de algumas seleções seriam \"desinteressantes\", o que gerou críticas de federations africanas, Curaçao, Haiti e Uzbequistão. Essas federações argumentam que a Uefa está subestimando equipes que participam da primeira Copa do Mundo com 48 equipes. A reação destaca tensões entre a Uefa e federações de países menos tradicionais no futebol europeu.",
+        "porQueImporta": "A crítica pode influenciar a percepção internacional da Uefa e afetar a inclusão de seleções na nova estrutura da Copa do Mundo.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/lula-embarca-as-15h-deste-domingo-rumo-a-franca-para-participar-do-g7/"
-          }
-        ],
-        "updatedAt": "2026-06-14T17:15:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/55312195013_72ac1af8ac_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "0add739bfa3d4424",
-        "slug": "19619d3032fdc4ae",
-        "titulo": "Nubank diz que 'desenvolvedor acionou por engano' comando que enviou mensagem sobre liquidação extrajudicial",
-        "resumo": "Logo do Nubank na Bolsa de Valores de Nova York. Brendan McDermid/ Reuters O Nubank explicou, em comunicado enviado à imprensa neste sábado (13), os motivos que levaram ao envio, por engano, de uma mensagem anunciando a liquidação extrajudicial da instituição financeira. De acordo como o comunicado, o \"episódio foi resultado de um erro técnico pontual, identificado e corrigido rapidamente\". \"Foi identificado que um desenvolvedor acionou por engano um fluxo de comunicação relacionado à liquidação de instituições financeiras. Na ausência de uma instituição real vinculada a esse fluxo, o nome da…",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/06/13/nubank-diz-que-mensagem-sobre-liquidacao-extrajudicial-enviada-a-clientes-foi-erro-tecnico-pontual.ghtml"
+            "url": "https://www.infomoney.com.br/esportes/federacoes-africanas-haiti-e-uzbequistao-detonam-uefa-nao-somos-insignificantes/"
           },
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/fundadora-do-nubank-chama-de-bizarro-alerta-falso-sobre-liquidacao"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/federacoes-da-africa-curacao-haiti-e-uzbequistao-detonam-uefa-entenda/"
           }
         ],
-        "updatedAt": "2026-06-14T00:32:48.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/9mAg8EviWZ_bPjWF0iy_jIjEhwY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/2/W/qfdTV3QeKNUvtCiJ5nBw/2025-08-20t141547z-1-lynxmpel7j0mz-rtroptp-4-bancos-nubank-analistas.jpg"
+        "updatedAt": "2026-06-14T19:02:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-10T123858Z_1_LYNXMPEM590XM_RTROPTP_4_SOCCER-WORLDCUP-IMMIGRATION-SOMALIA_a58734.jpg?fit=300%2C184&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "c392365f77530cc7",
-        "slug": "b736c2e7fcde630f",
-        "titulo": "Alemanha e Japão voltam a se rearmar, 80 anos após a Segunda Guerra Mundial",
-        "resumo": "Países passaram os 85 anos após derrota do Eixo com forças armadas reduzidas e forte dependência do antigo rival, os EUA The post Alemanha e Japão voltam a se rearmar, 80 anos após a Segunda Guerra Mundial appeared first on InfoMoney.",
-        "porQueImporta": "",
+        "clusterId": "b7f01eb3f1502a71",
+        "slug": "620e45113e511304",
+        "titulo": "Anthropic restringe acesso a modelos Fable 5 e Mythos 5",
+        "resumo": "A Anthropic anunciou que bloqueou o acesso a dois de seus modelos de IA mais recentes, Fable 5 e Mythos 5, após a proibição de uso de IA nos EUA. A medida foi citada pelo premiê do Canadá como exemplo de risco de dependência dos Estados Unidos em tecnologia de IA. A decisão reflete preocupações regulatórias e de segurança em torno de modelos avançados de linguagem.",
+        "porQueImporta": "Ilustra como políticas governamentais podem impactar o desenvolvimento e acesso a tecnologias de IA.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/business/global/alemanha-e-japao-voltam-a-se-rearmar-80-anos-apos-a-segunda-guerra-mundial/"
+            "url": "https://www.infomoney.com.br/mundo/proibicao-a-ia-da-anthropic-mostra-risco-de-dependencia-dos-eua-diz-premie-do-canada/"
           }
         ],
-        "updatedAt": "2026-06-14T17:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/12/2024-12-19T103211Z_1_LYNXMPEKBI0DF_RTROPTP_4_JAPAN-ECONOMY-BOJ.jpg?fit=300%2C215&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-14T21:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/03/2025-03-27T195043Z_291275250_RC2VLDABXJGC_RTRMADP_3_CANADA-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "e01fab0b17496853",
-        "slug": "bcd145d845d350c1",
-        "titulo": "Zelensky discute guerra e diplomacia em telefonema a Trump",
-        "resumo": "Zelensky ‌também transmitiu ​felicitações de aniversário a Trump, ⁠que ​completou ​80 anos neste ⁠domingo The post Zelensky discute guerra e diplomacia em telefonema a Trump appeared first on InfoMoney.",
-        "porQueImporta": "",
+        "clusterId": "e5f6fb27ebda8e94",
+        "slug": "500ee93d51788cc5",
+        "titulo": "Iraque solicita prorrogação do acordo de oleoduto Kirkuk-Ceyhan com a Turquia",
+        "resumo": "O governo iraquiano pediu a extensão do contrato que regula o oleoduto Kirkuk-Ceyhan, responsável por transportar petróleo bruto da região de Kirkuk até o porto de Ceyhan, na Turquia. Desde o início de junho, o Iraque exportou cerca de 12 milhões de barris de petróleo por meio desse oleoduto. A prorrogação visa garantir a continuidade das exportações e a estabilidade do fluxo de energia para a Turquia.",
+        "porQueImporta": "A extensão do acordo assegura a continuidade das exportações de petróleo do Iraque, impactando a segurança energética e as relações comerciais entre os dois países.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/zelensky-discute-guerra-e-diplomacia-em-telefonema-a-trump/"
+            "url": "https://www.infomoney.com.br/mundo/iraque-pede-prorrogacao-de-acordo-do-oleoduto-kirkuk-ceyhan-a-turquia/"
           }
         ],
-        "updatedAt": "2026-06-14T16:20:33.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-28T184043Z_2106522970_RC2UPIA3EBHM_RTRMADP_3_UKRAINE-CRISIS-TRUMP-ZELENSKIY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-14T20:45:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/01/447247335.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "d4b21fbb1adb69eb",
+        "clusterId": "8959b5208e67698a",
         "slug": "ca8d0a313e902c2f",
         "titulo": "Trump diz que acordo com Irã será assinado domingo e promete abertura do Estreito de Ormuz",
         "resumo": "Trump diz que acordo com Irã será assinado domingo e promete abertura do Estreito de Ormuz O presidente americano Donald Trump afirmou que o acordo de paz entre EUA e Irã está marcado para ser assinado neste domingo (14). Em uma postagem na rede social Truth Social, Trump disse ainda que o Estreito de Ormuz será aberto imediatamente após a assinatura. Segundo o presidente dos Estados Unidos, o acordo que estabelece o fim do conflito no Oriente Médio coloca uma barreira definitiva para que o Irã tenha uma arma nuclear. Trump diz esperar que o processo seja conduzido de forma rápida, fácil e…",
@@ -628,67 +694,39 @@
         "category": "mundo",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-assinatura-do-acordo-com-ira-ainda-hoje-mais-tarde/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/ira-diz-que-e-inutil-negociar-com-os-eua-e-ameaca-o-acordo-a-horas-da-assinatura/"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/ira-alerta-para-resposta-iminente-aos-ataques-de-israel-a-beirute-linha-vermelha/"
           },
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/eua-e-ira-devem-assinar-acordo-de-cessar-fogo-neste-domingo-entenda"
+            "url": "https://www.metropoles.com/mundo/trump-critica-nova-onda-de-ataques-de-israel-contra-o-libano"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/14/acordo-com-ira-pode-ser-assinado-neste-domingo-entenda-os-pontos-que-incluem-abertura-do-estreito-de-ormuz.ghtml"
+            "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/mundo/ataque-de-israel-contra-libano-coloca-acordo-de-paz-em-xeque/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/mundo/trump-diz-que-acordo-com-ira-pode-ser-assinado-em-horas-e-critica-ataque-de-israel/"
           },
           {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/cm20vke424zo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-06-14T16:55:25.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/06/presidente-dos-estados-unidos-donald-trump-durante-coletiva-metropoles-3-scaled.jpg"
+        "updatedAt": "2026-06-14T18:57:37.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2280933822.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "fc877601f4a89624",
-        "slug": "152738ba520cc4ed",
-        "titulo": "Brasil enfrenta Haiti na segunda rodada da Copa 2026",
-        "resumo": "Após empate com Marrocos, o técnico Carlo Ancelotti reconheceu a ansiedade da equipe e prevê evolução para o próximo jogo. O Brasil terá de jogar contra o Haiti na Filadélfia, nos Estados Unidos, na sexta-feira, 19 de junho, às 21h30 (horário de Brasília). O Haiti, que perdeu para a Escócia, será o adversário na lanterna do Grupo C. A partida determinará se o Brasil mantém a possibilidade de avançar para a fase de mata‑mata.",
-        "porQueImporta": "O resultado contra o Haiti pode definir a posição do Brasil no grupo e a continuidade na competição.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/copa-nao-se-ganha-no-primeiro-jogo-ancelotti-apos-empate-com-marrocos/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/depois-de-marrocos-quando-e-proximo-jogo-do-brasil-na-copa/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/14/tecnico-do-haiti-cita-montanha-contra-brasil-mas-diz-rivais-tem-muito-mais-a-perder-do-que-nos.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cly7nv9ed78o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/13/proximo-jogo-brasil-copa-data-horario-e-onde-assistir.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-14T13:43:18.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/k6VALwG9KA_nhjxDLjcXfXmNt8k=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/C/i/SNDFUXSiKVLvj9XOBFeA/2026-06-01t124335z-606714612-rc216fa7lnjf-rtrmadp-3-soccer-worldcup-groupc-haiti.jpg"
-      },
-      {
-        "clusterId": "24a721f6e5a149ec",
-        "slug": "b817f14fd9763282",
-        "titulo": "Brasil empata com Marrocos na estreia da Copa 2026",
-        "resumo": "A seleção brasileira entrou em campo com uma escalação inédita e saiu perdendo após o gol de Ismael Saibari aos 21 minutos. Vinícius Júnior marcou um gol de destaque aos 32 minutos, igualando o placar. O jogo terminou em 1 a 1, mantendo o Brasil na disputa do grupo C. O confronto ocorreu no Estádio MetLife, próximo à maior comunidade brasileira na América do Norte.",
-        "porQueImporta": "O empate garante ao Brasil pontos importantes na fase de grupos da primeira Copa do Mundo realizada em três países.",
+        "clusterId": "116e25a42025bd3c",
+        "slug": "a76fe41bbbbcf6a1",
+        "titulo": "Brasil empata 1 a 1 com Marrocos na estreia da Copa do Mundo de 2026",
+        "resumo": "O Brasil e o Marrocos terminaram empatados em 1 a 1 na primeira rodada do Grupo C, no Estádio MetLife, em Nova Jersey. O gol de abertura foi marcado por Ismael Saibari aos 21 minutos, e Vinícius Júnior respondeu com um gol de 32 minutos. Marrocos manteve sua sequência invicta de 30 jogos, enquanto o Brasil mostrou falhas defensivas que foram expostas pela equipe africana.",
+        "porQueImporta": "O resultado reflete a competitividade do torneio e destaca a necessidade de ajustes na equipe brasileira antes das próximas partidas.",
         "category": "mundo",
         "sources": [
           {
@@ -696,52 +734,60 @@
             "url": "https://www.bbc.co.uk/portuguese/live/c5yzw1xqv0lt?at_medium=RSS&at_campaign=rss"
           },
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/esporte/brasil-empata-com-marrocos-1-1-em-sua-estreia-na-copa-do-mundo-de-2026/"
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/14/o-brasil-visto-de-cima-camera-aerea-mostra-buraco-no-meio-e-escape-com-vini-contra-o-marrocos-veja.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/esporte/depois-de-marrocos-quando-e-proximo-jogo-do-brasil-na-copa/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/13/copa-do-mundo-2026-em-quais-das-sedes-do-torneio-estao-as-maiores-torcidas-do-brasil.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/14/jogos-da-copa-do-mundo-de-sabado-13.ghtml"
           }
         ],
-        "updatedAt": "2026-06-14T17:21:49.875Z",
+        "updatedAt": "2026-06-14T21:13:45.205Z",
         "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b827/live/d009d560-6786-11f1-b1db-af71d47507d6.jpg"
       },
       {
-        "clusterId": "2432b8a8d4c7fd9a",
+        "clusterId": "e204a7e2bbd1749c",
         "slug": "31ac5680ae9fbbff",
-        "titulo": "Trump celebra 80 anos com lutas de UFC no gramado da Casa Branca e em meio ao desgaste da guerra no Irã",
-        "resumo": "Arena de luta provisória foi montada no jardim da Casa Branca para evento que comemora os 80 anos de Trump AP O presidente Donald Trump celebra seu aniversário de 80 anos neste domingo (14) com um espetáculo que antes pareceria inimaginável: um evento de lutas em jaula no Gramado Sul da Casa Branca. Esta semana, no entanto, as duras realidades do cargo ameaçaram ofuscar a ostensiva extravagância de artes marciais mistas (UFC), onde combatentes trancados em um octógono de malha de aço tentam socar, chutar e golpear uns aos outros até a finalização. Trump encontra-se encurralado em uma guerra…",
-        "porQueImporta": "",
+        "titulo": "UFC realiza evento no jardim da Casa Branca para comemorar 80º aniversário de Trump",
+        "resumo": "O presidente Donald Trump organizou, em 14 de junho, uma série de lutas de artes marciais mistas no gramado da Casa Branca, com um octógono provisório chamado \"The Claw\". O evento contou com a participação de lutadores, incluindo o brasileiro Alex Pereira, e foi promovido como o maior show da Terra. A realização ocorreu em meio a preocupações climáticas e ao contexto de tensões internacionais, como a guerra no Irã.",
+        "porQueImporta": "Ilustra a interseção entre política e entretenimento esportivo em nível internacional.",
         "category": "mundo",
         "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/lutas/a-cnn-alex-poatan-fala-sobre-luta-do-ufc-na-casa-branca-sera-especial/"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/donald-trump-completa-80-anos-com-espetaculo-de-lutas-do-ufc-na-casa-branca/"
-          },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/14/trump-celebra-80-anos-com-lutas-de-ufc-no-gramado-da-casa-branca-e-em-meio-ao-desgaste-da-guerra-no-ira.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/14/por-que-trump-esta-promovendo-um-evento-de-lutas-de-ufc-na-casa-branca.ghtml"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/combate/noticia/2026/06/14/trovoada-ventos-de-55-kmh-e-ate-mosquitos-ligam-alerta-para-o-ufc-casa-branca.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cdx7nwej81jo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/mundo/us-60-milhoes-e-uma-garra-de-600-toneladas-como-sera-o-ufc-de-trump-na-casa-branca/"
           }
         ],
-        "updatedAt": "2026-06-14T15:32:20.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-12T015906Z_41002588_RC2DNKA57H4L_RTRMADP_3_USA-TRUMP.jpg?fit=300%2C189&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-14T19:00:50.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/4q-VFcbar1Z3W2O7gG63joSugiU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/9/8u3nzCSgeApyAgtmoGzg/ap26162415299617.jpg"
       },
       {
-        "clusterId": "7e7d75fbc999e0d9",
+        "clusterId": "931bd27ce07ebaf3",
         "slug": "9c7e8ffdd802353f",
-        "titulo": "Forças britânicas interceptam petroleiro ligado à 'frota fantasma' da Rússia",
-        "resumo": "Nesta foto divulgada pela Marinha Real britânica, comandos dos Fuzileiros Navais Reais detêm o petroleiro sancionado Smyrtos no Canal da Mancha, no domingo, 14 de junho de 2026. LPhot Hutchins/Marinha Real britânica via AP Forças armadas do Reino Unido abordaram e detiveram neste domingo (14) um petroleiro suspeito de integrar a chamada \"frota fantasma\" usada pela Rússia para transportar petróleo em violação às sanções internacionais impostas após a invasão da Ucrânia. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia A operação foi realizada no Canal da Mancha por comandos…",
-        "porQueImporta": "",
+        "titulo": "Forças britânicas interceptam petroleiro suspeito de integrar frota fantasma russa",
+        "resumo": "No dia 14 de junho de 2026, a Marinha Real britânica abordou e deteve o petroleiro Smyrtos no Canal da Mancha. O navio estava sob sanções internacionais e supostamente fazia parte da frota fantasma usada pela Rússia para transportar petróleo em violação às sanções impostas após a invasão da Ucrânia. A operação foi conduzida por comandos dos Fuzileiros Navais Reais.",
+        "porQueImporta": "A ação reforça a aplicação das sanções contra a Rússia e impede o transporte de petróleo que financia seu conflito na Ucrânia.",
         "category": "mundo",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/video-mostra-como-forcas-do-reino-unido-interceptaram-petroleiro-russo-no-canal-da-mancha/"
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/clyp7l3921mo?at_medium=RSS&at_campaign=rss"
           },
           {
             "name": "Metrópoles",
@@ -752,39 +798,35 @@
             "url": "https://g1.globo.com/mundo/noticia/2026/06/14/forcas-britanicas-interceptam-petroleiro-ligado-a-frota-fantasma-da-russia.ghtml"
           }
         ],
-        "updatedAt": "2026-06-14T14:10:04.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/Design-sem-nome-5-1.jpg?quality=70&strip=info"
+        "updatedAt": "2026-06-14T20:43:05.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6c44/live/f68672f0-60cb-11f1-862f-e3bcf1b4e54e.jpg"
       },
       {
-        "clusterId": "0a31e45d0192d2ed",
-        "slug": "9f88b7e017f02730",
-        "titulo": "Suíça rejeita limite populacional, diz instituto de pesquisas",
-        "resumo": "A Suíça é o país com maior IDH do mundo (0,967), segundo ranking divulgado pelo Programa das Nações Unidas pelo Desenvolvimento (PNUD), da ONU. Denis Balibouse/Reuters Os suíços rejeitaram a iniciativa popular anti-imigração apresentada pela direita radical que pretendia limitar a população do país, segundo as projeções do instituto de pesquisas gsf.bern. A votação, que se anunciava muito acirrada, teria terminado com a vitória do 'Não' com 55%, segundo a projeção do gsf.bern publicada 30 minutos após o fechamento das zonas eleitorais. \"Estamos muito aliviados e felizes. É um resultado…",
-        "porQueImporta": "",
+        "clusterId": "73adae2f1d256822",
+        "slug": "ce55a4d5881da89a",
+        "titulo": "Avião monomotor cai em Missouri, deixando 12 mortos",
+        "resumo": "Um avião monomotor que transportava paraquedistas caiu em uma rodovia próxima ao Aeroporto Memorial de Butler, em Butler, Missouri, no dia 14 de junho de 2026. O acidente resultou na morte de 11 passageiros e do piloto, totalizando 12 vítimas. As autoridades ainda não divulgaram a causa do acidente.",
+        "porQueImporta": "O incidente destaca a necessidade de investigação sobre segurança de voos de pequeno porte nos EUA.",
         "category": "mundo",
         "sources": [
           {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/acidente-com-aviao-deixa-12-mortos-em-missouri-nos-eua"
+          },
+          {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/14/suica-rejeita-limite-populacional-segundo-pesquisa.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c1lyvjnnr64o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/suica-diz-nao-a-limite-de-populacao-dizem-primeiras-estimativas/"
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/14/queda-de-aviao-nos-eua-deixa-mortos-diz-policia.ghtml"
           }
         ],
-        "updatedAt": "2026-06-14T13:22:33.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/pDgtV_b6pytzJosl8icPqgzktCY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/N/b/tUGbnVT1CO9ml4gqdnew/2024-03-13t162418z-369627667-rc20l6asis82-rtrmadp-3-swiss-business.jpg"
+        "updatedAt": "2026-06-14T18:38:48.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/aviao-eua.jpeg"
       },
       {
         "clusterId": "8a5346f83006f084",
         "slug": "4ab3cb7c7c490687",
-        "titulo": "As desculpas de joelho que o Vaticano fez a povoado no Peru: 'Fizeram o que queriam conosco porque somos pobres'",
-        "resumo": "Autoridades da igreja Católica se ajoelharam e pediram desculpas a famílias peruanas. Vatican News via BBC De joelhos. Com esse gesto inusitado, representantes da Igreja Católica pediram perdão no fim de maio às comunidades camponesas herdeiras do povo indígena Tallán, no Peru. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Durante anos, elas denunciaram o roubo de suas terras e a perseguição por parte de empresas ligadas ao Sodalício de Vida Cristã, um agrupamento religioso ultraconservador fundado em 1971 por Fernando Figari e que foi suprimido por ordem do papa…",
-        "porQueImporta": "",
+        "titulo": "Vaticano pede desculpas a camponeses indígenas do Peru por roubo de terras",
+        "resumo": "O Vaticano se ajoelhou e pediu desculpas às famílias Tallán, que acusam empresas ligadas ao Sodalício de Vida Cristã de ter tomado suas terras. O pedido de desculpas ocorreu em maio, após anos de denúncias de roubo e perseguição. O Sodalício, fundado em 1971, foi suprimido por ordem papal. O gesto foi considerado inusitado pela Igreja Católica.",
+        "porQueImporta": "Reconhece a injustiça histórica contra comunidades indígenas e sinaliza a necessidade de reparação.",
         "category": "mundo",
         "sources": [
           {
@@ -800,11 +842,11 @@
         "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e4ae/live/b36d8c80-6448-11f1-b85d-d958efe4702d.jpg"
       },
       {
-        "clusterId": "9865478437f7c467",
-        "slug": "7b1e6ea0ec8921f3",
-        "titulo": "Apuração presidencial no Peru continua em segundo turno com Keiko Fujimori à frente",
-        "resumo": "A apuração das eleições presidenciais no Peru permanece em curso, com Keiko Fujimori mantendo a liderança em torno de 6,4 mil votos sobre Roberto Sánchez. A diferença de votos diminui à medida que mais urnas são contabilizadas. Em 98,303% das urnas apuradas, Keiko lidera com 50,010% dos votos, enquanto Sánchez pede recontagem de todas as atas permitidas pela legislação.",
-        "porQueImporta": "O resultado determinará quem será o próximo presidente do Peru.",
+        "clusterId": "e8e910c75a966baa",
+        "slug": "4b7c095bf8b5c577",
+        "titulo": "Keiko Fujimori mantém vantagem de quase 19 mil votos sobre Roberto Sánchez no segundo turno presidencial no Peru",
+        "resumo": "Na apuração de segunda-feira, 7 de julho, Keiko Fujimori lidera Roberto Sánchez com cerca de 18 mil votos de diferença. O processo de apuração já ultrapassou 98,46% das urnas. A diferença de votos reflete a disputa acirrada entre a candidata de direita e o candidato de esquerda. A contagem continua em curso, mas a vantagem de Fujimori permanece consistente.",
+        "porQueImporta": "A liderança de Fujimori indica um provável resultado favorável a ela, influenciando a política peruana e a estabilidade regional.",
         "category": "mundo",
         "sources": [
           {
@@ -818,99 +860,111 @@
         ],
         "updatedAt": "2026-06-14T15:56:23.000Z",
         "imageUrl": "https://images.metroimg.com/2026/06/fugimori-sanchez.jpg"
+      },
+      {
+        "clusterId": "55204e04bc5566d1",
+        "slug": "9f88b7e017f02730",
+        "titulo": "Suíça rejeita proposta de limite populacional de 10 milhões",
+        "resumo": "Os suíços votaram contra a iniciativa popular de limitar a população a 10 milhões de habitantes, com 55% dos votos em favor do \"Não\". A proposta, impulsionada pelo Partido Popular Suíço, teria alterado a constituição do país. A votação foi considerada acirrada, mas a rejeição foi confirmada pelas projeções do instituto de pesquisas gsf.bern. Atualmente, a população suíça é de cerca de 9,1 milhões, incluindo 30% de residentes nascidos no exterior.",
+        "porQueImporta": "A decisão reflete a resistência suíça a medidas de controle populacional e pode influenciar políticas migratórias futuras.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/14/suica-rejeita-limite-populacional-segundo-pesquisa.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c1lyvjnnr64o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-06-14T13:22:33.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/pDgtV_b6pytzJosl8icPqgzktCY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/N/b/tUGbnVT1CO9ml4gqdnew/2024-03-13t162418z-369627667-rc20l6asis82-rtrmadp-3-swiss-business.jpg"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "02a200f9f2b9d371",
-        "slug": "46b0756089d86b33",
-        "titulo": "Alemanha e Curaçao se enfrentam na Copa do Mundo",
-        "resumo": "O técnico Dick Advocaat destacou que a Alemanha e o Brasil estão subestimados e que ambas as seleções têm bom entrosamento, sendo favoritas ao título. O duelo entre Alemanha e Curaçao será disputado no Estádio de Houston, no Texas, no Grupo E, junto com a Costa do Marfim e o Equador.",
-        "porQueImporta": "O jogo marca a estreia de Curaçao na Copa e pode influenciar a classificação do Grupo E.",
+        "clusterId": "fdfb3db84aab7fc1",
+        "slug": "86db2b52152a6c33",
+        "titulo": "Suspeita de acesso chinês ao Mythos motivou bloqueio da Casa Branca",
+        "resumo": "Conselheiro de Trump afirmou que a Anthropic recusou corrigir falha de segurança no sistema Mythos, alegando que a empresa teria mencionado acesso chinês nas conversas. A Anthropic negou essa alegação. A suspeita de acesso estrangeiro teria levado a Casa Branca a bloquear o sistema.",
+        "porQueImporta": "O bloqueio indica preocupações de segurança nacional sobre vulnerabilidades em sistemas de inteligência artificial.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/alemanha-e-brasil-estao-subestimadas-diz-tecnico-de-curacao-sobre-copa/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/suecia-x-tunisia-na-copa-onde-assistir-horario-e-escalacoes/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/14/tecnico-da-costa-do-marfim-foi-gandula-em-jogo-do-brasil-na-copa-e-se-aposentou-por-doenca.ghtml"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-costa-do-marfim-x-equador-copa-do-mundo-14-06-26"
-          },
-          {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/14/internet-e-redes-sociais/costa-do-marfim-x-equador-onde-assistir-horario-e-escalacao-da-copa-do-mundo/"
+            "url": "https://olhardigital.com.br/2026/06/14/pro/suspeita-de-acesso-chines-ao-mythos-motivou-bloqueio-da-casa-branca-diz-fonte/"
           }
         ],
-        "updatedAt": "2026-06-14T16:53:45.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2268570477.jpg?quality=70&strip=info"
+        "updatedAt": "2026-06-14T20:22:11.000Z"
       },
       {
-        "clusterId": "8b9d79afb55f969a",
-        "slug": "ae3cb26d557c7a15",
-        "titulo": "Alemanha e Holanda estreiam na Copa do Mundo 2026 neste domingo (14)",
-        "resumo": "Seleção da Alemanha estreia hoje na Copa do Mundo. ODD ANDERSEN/AFP A Copa do Mundo de 2026 caminha para seu quarto dia neste domingo (14). Com a estreia de equipes como Alemanha e Holanda, o dia terá jogos de madrugada, na parte da tarde e à noite. (Veja mais abaixo) Acompanhe a Copa do Mundo 2026 no ge: Simulador da Copa do Mundo 2026 Calendário da Copa do Mundo 2026: veja datas e horários de todos os jogos RESULTADOS: confira a tabela da Copa do Mundo Power Ranking: qual seleção chega mais forte para a Copa do Mundo? Análise: Vini salva um Brasil que preocupa mais do que empolga em estreia…",
-        "porQueImporta": "",
+        "clusterId": "036126fcaee9e3bb",
+        "slug": "38f684a954128c1f",
+        "titulo": "Vídeo de gatinho gerado por IA é falso",
+        "resumo": "Um vídeo que mostra um gatinho laranja abandonando uma presa para a namorada ao ver outro animal foi identificado como falso. A cena foi criada com inteligência artificial e circulou nas redes sociais antes do Dia dos Namorados de 2026. A verificação foi solicitada por uma leitora e confirmada pelo G1. O conteúdo não reflete realidade e foi desmentido pela fonte.",
+        "porQueImporta": "Ilustra o uso de IA para criar conteúdo enganoso e a necessidade de checagem de fatos nas redes sociais.",
         "category": "tecnologia",
         "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/14/torcida-da-holanda-forma-mar-laranja-nos-eua-antes-da-estreia-na-copa-do-mundo-video.ghtml"
-          },
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/entretenimento/holanda-x-japao-data-horario-e-onde-assistir-a-laranja-mecanica-na-copa/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-holanda-x-japao-copa-do-mundo-14-06-26"
-          },
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/14/internet-e-redes-sociais/holanda-x-japao-onde-assistir-horario-e-escalacao-da-copa-do-mundo/"
-          },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/14/jogos-copa-do-mundo-hoje-alemanha-holanda-horarios-onde-assistir.ghtml"
+            "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/06/14/e-fake-que-video-de-dois-helicopteros-batendo-no-ar-seja-de-acidente-no-rio-imagens-sao-de-2024-na-malasia.ghtml"
           }
         ],
-        "updatedAt": "2026-06-14T16:23:42.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/kcj6h6xRUMhO37xB0BpLwf2LVhU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/1/9/Cy7xArSHAahLu7jWaLpg/whatsapp-image-2026-06-14-at-13.21.24-1-.jpeg"
+        "updatedAt": "2026-06-14T19:56:27.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/clcnoX1n_Y2F-pBMnGFaJVach2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/y/gYgmlrSlmMS4o3aMizfA/fake-malasia.png"
       },
       {
-        "clusterId": "2a5f7f9e5d492d84",
-        "slug": "199a65992b5f6855",
-        "titulo": "Holanda e Japão estreiam na Copa do Mundo 2026",
-        "resumo": "A partida entre Holanda e Japão ocorre no dia 14 de junho de 2026, às 17h (horário de Brasília), no AT&T Stadium, em Arlington, Texas, como primeira rodada do Grupo F. Ambas as seleções fazem sua estreia no Mundial. O Japão vem com seis vitórias consecutivas em amistosos recentes, enquanto a Holanda entra com experiência internacional. O jogo será transmitido em canais de TV e streaming, com opções de qualidade em 4K.",
-        "porQueImporta": "É o primeiro confronto de duas equipes na Copa, marcando o início das disputas do Grupo F.",
+        "clusterId": "ed290a61cd63a8a6",
+        "slug": "b35594ac3b311457",
+        "titulo": "Novo exame de sangue detecta doenças genéticas no feto sem agulha",
+        "resumo": "Um novo exame de sangue foi capaz de identificar entre 95% e 99% das variantes genéticas que normalmente são detectadas por métodos invasivos, em estudo com 565 gestações. A técnica pode substituir a amniocentese, procedimento que envolve agulha e risco de complicações. Os cientistas afirmam que o teste é preciso e não requer invasão do útero.",
+        "porQueImporta": "Permite diagnóstico precoce de doenças genéticas sem risco de complicações para a gestante.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/14/internet-e-redes-sociais/jogos-de-hoje-14-06-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/"
-          },
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/entretenimento/onde-assistir-aos-jogos-da-copa-do-mundo-em-4k/"
+            "url": "https://olhardigital.com.br/2026/06/14/medicina-e-saude/novo-exame-de-sangue-detecta-doencas-geneticas-no-feto-sem-agulha-dizem-cientistas/"
           }
         ],
-        "updatedAt": "2026-06-14T11:00:00.000Z",
-        "imageUrl": "https://t.ctcdn.com.br/lnAGFaKdiFHQe31K063YUUTowJk=/700x394/smart/i1134249.jpeg"
+        "updatedAt": "2026-06-14T19:25:37.000Z"
+      },
+      {
+        "clusterId": "194be2ad616551da",
+        "slug": "f370e0cf1fb741b5",
+        "titulo": "Matemáticos testam IAs em Harvard e modelos são aprovados em 7 dos 10 problemas",
+        "resumo": "Em uma iniciativa chamada First Proof, 30 avaliadores de Harvard testaram modelos de inteligência artificial em dez problemas matemáticos. Os modelos obtiveram sucesso em sete desses problemas. Mais de 2.300 matemáticos assinaram um manifesto que alerta sobre os riscos da IA na disciplina.",
+        "porQueImporta": "A avaliação demonstra o potencial e as limitações atuais das IAs em resolver questões matemáticas complexas.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/06/14/inteligencia-artificial/matematicos-testam-ias-em-harvard-e-modelos-sao-aprovados-em-7-dos-10-problemas/"
+          }
+        ],
+        "updatedAt": "2026-06-14T18:22:31.000Z"
+      },
+      {
+        "clusterId": "0c0590625bdbdcdf",
+        "slug": "6900c468dfea7b02",
+        "titulo": "Sorteios da Quina e da Lotofácil realizados no fim de semana",
+        "resumo": "O concurso 7050 da Quina, com prêmio de R$ 14,5 milhões, foi sorteado na noite de sábado. O concurso 3710 da Lotofácil, com prêmio de R$ 8 milhões, foi sorteado na manhã de domingo. Ambos os resultados foram divulgados pela Olhar Digital.",
+        "porQueImporta": "Os resultados informam os participantes sobre a possibilidade de ganhos e atualizam o cenário de loterias nacionais.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/06/14/internet-e-redes-sociais/quina-7050-veja-resultado-de-hoje-domingo-14/"
+          }
+        ],
+        "updatedAt": "2026-06-14T17:38:54.000Z"
       },
       {
         "clusterId": "aee0a8d4aa5babe5",
         "slug": "32fa3ed3973876f1",
-        "titulo": "Posso dirigir o carro com apenas uma mão no volante? Veja o que diz a lei",
-        "resumo": "Você tem o costume de dirigir com apenas uma mão no volante? Se sim, é importante ter atenção a esta prática. O motivo? Ter somente uma mão no volante é considerado infração sob a ótica do Código de Trânsito Brasileiro (CTB). 3 ações simples no trânsito que rendem multa e quase ninguém percebe Usar o limpador do para-brisa pode dar multa? Caso viral gera polêmica O que acontece é que a lei considera que dirigir um veículo é uma atividade que exige plena atenção. Por isso, o CTB recomenda que os motoristas mantenham sempre as duas mãos no volante, postura que permite que o motorista realize…",
-        "porQueImporta": "",
+        "titulo": "Dirigir com uma mão no volante é infração",
+        "resumo": "O Código de Trânsito Brasileiro considera dirigir com apenas uma mão no volante uma infração, pois a condução exige atenção plena. A lei recomenda que os motoristas mantenham as duas mãos no volante para garantir segurança e controle do veículo. A prática pode resultar em multa, embora muitos motoristas não percebam a violação.",
+        "porQueImporta": "Garantir a atenção e segurança no trânsito.",
         "category": "tecnologia",
         "sources": [
           {
@@ -924,9 +978,9 @@
       {
         "clusterId": "9c8885f275ece248",
         "slug": "94e940ed9523249c",
-        "titulo": "Meta começa a desfazer aquisição de US$ 2 bilhões da Manus",
-        "resumo": "Cofundadores da startup buscam levantar US$ 1 bi para recuperar a empresa; Pequim amplia controle sobre IA e restringe saída de talentos ao exterior O post Meta começa a desfazer aquisição de US$ 2 bilhões da Manus apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
+        "titulo": "Meta inicia processo de desfazer aquisição de US$ 2 bilhões da Manus",
+        "resumo": "A Meta está desfazendo a compra de US$ 2 bilhões da startup Manus, que desenvolve tecnologia de IA. Os cofundadores da Manus planejam levantar US$ 1 bilhão para tentar recuperar a empresa. O desdobramento ocorre em meio a maior controle da China sobre IA e restrições à saída de talentos para o exterior.",
+        "porQueImporta": "A decisão reflete a crescente cautela das grandes empresas de tecnologia em relação a investimentos em IA e a influência regulatória chinesa.",
         "category": "tecnologia",
         "sources": [
           {
@@ -937,52 +991,74 @@
         "updatedAt": "2026-06-14T15:00:09.000Z"
       },
       {
-        "clusterId": "0d54aac42c2f83bd",
-        "slug": "ec1cd88bcdc2c780",
-        "titulo": "DNA encerra mistério de 26 anos de esqueleto achado em barraca em parque nacional",
-        "resumo": "Em 2000, um homem foi encontrado morto em 2000 no Olympic National Park; empresa de tecnologia forense localizou parentes em vários estados O post DNA encerra mistério de 26 anos de esqueleto achado em barraca em parque nacional apareceu primeiro em Olhar Digital.",
+        "clusterId": "61272cb008843126",
+        "slug": "3ae4ad35d80abf8e",
+        "titulo": "Após alerta da Amazon ao governo Trump, Anthropic suspendeu o Fable 5 globalmente",
+        "resumo": "CEO Andy Jassy comunicou a autoridades que pesquisadores extraíram informações de ciberataques do modelo; Anthropic contesta a gravidade e suspendeu os dois sistemas para cumprir a determinação O post Após alerta da Amazon ao governo Trump, Anthropic suspendeu o Fable 5 globalmente apareceu primeiro em Olhar Digital.",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/14/ciencia-e-espaco/dna-encerra-misterio-de-26-anos-de-esqueleto-achado-em-barraca-em-parque-nacional/"
+            "url": "https://olhardigital.com.br/2026/06/14/pro/apos-alerta-da-amazon-ao-governo-trump-anthropic-suspendeu-o-fable-5-globalmente/"
           }
         ],
-        "updatedAt": "2026-06-14T12:55:24.000Z"
-      },
-      {
-        "clusterId": "4ef13841f257a37b",
-        "slug": "5ec89ff065f49807",
-        "titulo": "Lua hoje: confira a fase da Lua deste domingo 14/06/2026",
-        "resumo": "Em qual fase a Lua está hoje, 14 de junho de 2026? Confira e veja o calendário completo do mês O post Lua hoje: confira a fase da Lua deste domingo 14/06/2026 apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/14/ciencia-e-espaco/lua-hoje-confira-a-fase-da-lua-deste-domingo-14-06-2026/"
-          }
-        ],
-        "updatedAt": "2026-06-14T11:00:00.000Z"
-      },
-      {
-        "clusterId": "3cacb6445f4f5898",
-        "slug": "571ccc13702d1522",
-        "titulo": "NASA continua pesquisa científica da missão Artemis 2 na Terra",
-        "resumo": "A NASA está analisando os dados coletados pela missão Artemis 2, que orbitou a Lua. Os centros de pesquisa da agência vão processar as informações para avançar o conhecimento científico. A análise ocorrerá na Terra, permitindo o uso de equipamentos avançados. O trabalho visa apoiar futuras missões lunares e espaciais.",
-        "porQueImporta": "Esses dados ajudam a refinar tecnologias e estratégias para missões tripuladas ao espaço profundo.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/14/ciencia-e-espaco/nasa-continua-pesquisa-cientifica-da-missao-artemis-2-na-terra/"
-          }
-        ],
-        "updatedAt": "2026-06-14T09:00:00.000Z"
+        "updatedAt": "2026-06-14T13:54:43.000Z"
       }
     ],
     "ciencia": [
+      {
+        "clusterId": "c6ee9fa144e86ae6",
+        "slug": "7b9c52174d3678cc",
+        "titulo": "Via Láctea foi remodelada por uma colisão há bilhões de anos, e agora está a caminho de outra",
+        "resumo": "Fotografia revela Via Láctea em detalhes com nebulosas e estrela Antares em Potirendaba (SP) Jefferson Renee Benatti Mazzoni/Arquivo pessoal Vasily Belokurov é um dos três ganhadores do Prêmio Kavli de Astrofísica de 2026. O prêmio foi concedido por ter descoberto evidências fósseis de fusões galácticas passadas que comprovam como a Via Láctea evoluiu. Independentemente da época ou do ponto de vista, desde uma caverna pré-neolítica até um arranha-céu londrino pós-lockdown, a previsibilidade do céu noturno sempre foi um símbolo de permanência e estabilidade tranquilizadora para a Humanidade.…",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/ciencia/via-lactea-foi-remodelada-por-uma-colisao-ha-bilhoes-de-anos-e-agora-esta-a-caminho-de-outra/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/ciencia/noticia/2026/06/14/via-lactea-foi-remodelada-por-uma-colisao-ha-bilhoes-de-anos-e-agora-esta-a-caminho-de-outra.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-14T21:00:17.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/06/1306-universo-layout_site1.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "9f7b13a85b74ee6d",
+        "slug": "44cbfa13231aa68e",
+        "titulo": "Restos mortais de baleia que encalhou na Alemanha vão virar biodiesel",
+        "resumo": "Por meses, Timmy esteve em manchetes dos jornais alemães e seu resgate foi alvo de debate intenso. Agora, seu corpo vai virar energia renovável.",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/ciencia/restos-mortais-de-baleia-que-encalhou-na-alemanha-vao-virar-biodiesel/"
+          }
+        ],
+        "updatedAt": "2026-06-14T19:10:12.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/06/1306-Baleia-layout_site.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "b87224deb3fc4086",
+        "slug": "6e53f162b02c8db1",
+        "titulo": "Masturbação entre pássaros é natural, inofensiva e não deve ser punida, dizem especialistas",
+        "resumo": "Estudo com 120 espécies revelou que prática é \"amplamente difundida\" entre pássaros. O comportamento, porém, ainda é visto como indesejável e comumente punido.",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/ciencia/masturbacao-entre-passaros-e-natural-inofensiva-e-nao-deve-ser-punida-dizem-especialistas/"
+          }
+        ],
+        "updatedAt": "2026-06-14T17:30:56.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/06/1106-passaros-layout_site.jpg?quality=70&strip=info"
+      },
       {
         "clusterId": "ae875f400f42e8cc",
         "slug": "87eebe06d6e01400",
@@ -998,22 +1074,6 @@
         ],
         "updatedAt": "2026-06-14T11:00:01.000Z",
         "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/04/2804-canetas-layout_site1.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "c7b5161a46984909",
-        "slug": "7b9c52174d3678cc",
-        "titulo": "Via Láctea foi remodelada por uma colisão há bilhões de anos, e agora está a caminho de outra",
-        "resumo": "Fotografia revela Via Láctea em detalhes com nebulosas e estrela Antares em Potirendaba (SP) Jefferson Renee Benatti Mazzoni/Arquivo pessoal Vasily Belokurov é um dos três ganhadores do Prêmio Kavli de Astrofísica de 2026. O prêmio foi concedido por ter descoberto evidências fósseis de fusões galácticas passadas que comprovam como a Via Láctea evoluiu. Independentemente da época ou do ponto de vista, desde uma caverna pré-neolítica até um arranha-céu londrino pós-lockdown, a previsibilidade do céu noturno sempre foi um símbolo de permanência e estabilidade tranquilizadora para a Humanidade.…",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/ciencia/noticia/2026/06/14/via-lactea-foi-remodelada-por-uma-colisao-ha-bilhoes-de-anos-e-agora-esta-a-caminho-de-outra.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-14T08:00:42.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/WcPBYb0p86ADcC8xNWcbIx_jBW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/6/N/gPLoaGRQegX7qAda3ugg/whatsapp-image-2025-08-25-at-03.34.50-1-.jpeg"
       },
       {
         "clusterId": "26d10026480b347b",
@@ -1078,226 +1138,234 @@
         ],
         "updatedAt": "2026-06-13T11:00:48.000Z",
         "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/06/0806-abelha-layout_site.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "3aa48d541d37a9de",
-        "slug": "7477cb31eddf5edd",
-        "titulo": "Primeiro casal da NASA a viajar ao espaço juntos",
-        "resumo": "Durante o treinamento de astronautas, um casal se apaixonou, casou-se em segredo e conseguiu que a NASA criasse exceção às regras de romance no espaço. A agência espacial permitiu que eles embarcassem na mesma missão, tornando-os o primeiro casal a viajar juntos no espaço. O caso chamou atenção pela combinação de romance e exploração espacial.",
-        "porQueImporta": "Ilustra como políticas de instituições podem ser adaptadas para acomodar situações pessoais, destacando a flexibilidade da NASA.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/cultura/dia-dos-namorados-o-primeiro-e-unico-casal-da-nasa-a-viajar-ao-espaco-juntos/"
-          }
-        ],
-        "updatedAt": "2026-06-12T21:25:52.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/06/1206-astronautas-layout_site.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "59eecd65962eb09b",
-        "slug": "4b31b5d048a6cf55",
-        "titulo": "Indústria da opinião usa redes sociais e IA para manipular debates e influenciar usuários",
-        "resumo": "Estudo aponta que bots, contas falsas e inteligência artificial são empregados para criar debates artificiais, manipular tendências e influenciar a percepção pública na internet. A pesquisa destaca a crescente sofisticação das técnicas de manipulação digital. A análise mostra que esses métodos são utilizados por grupos com interesses políticos e econômicos. O relatório alerta para a necessidade de vigilância e regulação das plataformas digitais.",
-        "porQueImporta": "A manipulação digital pode distorcer a informação pública e afetar decisões democráticas.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/radio-usp/industria-da-opiniao-usa-redes-sociais-e-ia-para-manipular-debates-e-influenciar-usuarios/"
-          }
-        ],
-        "updatedAt": "2026-06-12T21:16:53.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/03/pasta-dos-20230313_luli2--1024x1024.jpg"
       }
     ],
-    "saude": [
-      {
-        "clusterId": "9adc35e83680036f",
-        "slug": "71147d1ce5f24c1a",
-        "titulo": "Aumento do diabetes tipo 2 em crianças",
-        "resumo": "O diabetes tipo 2 em crianças tem crescido, principalmente devido à obesidade infantil. A condição está associada a fatores de risco como alimentação inadequada e falta de atividade física. O tratamento envolve mudanças no estilo de vida e, em alguns casos, medicação.",
-        "porQueImporta": "O aumento dessa doença em crianças representa um desafio de saúde pública e pode levar a complicações crônicas precoces.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/pediatria/diabetes-tipo-2-em-criancas-por-que-os-casos-estao-aumentando/"
-          }
-        ],
-        "updatedAt": "2026-06-12T18:00:03.000Z"
-      }
-    ],
+    "saude": [],
     "esportes": [
       {
-        "clusterId": "9d8e88dc4f5a762e",
-        "slug": "d01c183ceb461288",
-        "titulo": "Adolescente de 17 anos é baleado durante festa do título dos Knicks",
-        "resumo": "San Antonio Spurs 90 x 94 New York Knicks | Melhores momentos | Final | NBA 2025/2026 A festa de comemoração dos torcedores do New York Knicks foi marcada por um tiroteio na Times Square, um dos pontos turísticos da cidade. A equipe encerrou um jejum de mais de 50 anos sem títulos na NBA e milhares de torcedores saíram às ruas da cidade para festejar. Segundo o Departamento de Polícia da cidade de Nova York, um adolescente de 17 anos foi baleado e levado ao hospital. + James Harden é preso por porte ilegal de armas Initial plugin text Segundo a Fox News, O Departamento de polícia respondeu a…",
-        "porQueImporta": "",
+        "clusterId": "c9e3b566c919efc4",
+        "slug": "9a41be77b66cb3e2",
+        "titulo": "Alemanha goleia Curaçao por 7 a 1 na estreia da Copa do Mundo",
+        "resumo": "A seleção alemã venceu a estreante Curaçao por 7 a 1 em Houston, repetindo o mesmo placar que aplicou ao Brasil em 2014. O gol de Curaçao, marcado aos 20 minutos, foi o primeiro da equipe na história das Copas, gerando celebração entre torcedores. A vitória coloca a Alemanha na posição de maior artilheira da história do Mundial, com 239 gols marcados.",
+        "porQueImporta": "A goleada reforça a superioridade da Alemanha e destaca a estreia histórica de Curaçao, marcando um momento simbólico para o menor país participante.",
         "category": "esportes",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/basquete/entenda-fato-que-torna-titulo-do-new-york-knicks-unico-na-nba/"
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/jogo/14-06-2026/alemanha-curacao.ghtml"
           },
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/basquete/nba/noticia/2026/06/14/adolescente-de-17-anos-e-baleado-durante-festa-do-titulo-dos-knicks.ghtml"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/esporte/7-a-1-alemanha-atropela-curacao-na-estreia-na-copa-do-mundo/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/alemanha-7-x-1-curacao-veja-os-melhores-momentos-da-copa-do-mundo/"
           },
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/nba-knicks-registra-feito-inedito-na-historia-da-liga-com-novo-titulo"
+            "url": "https://www.metropoles.com/esportes/nem-o-7-x-1-abalou-torcida-de-curacao-faz-festa-apos-estreia"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/copa-2026/copa-2026-melhores-momentos-de-alemanha-7-x-1-curacao/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/gol-da-alemanha-novo-7-a-1-faz-brasil-perder-artilharia-de-todas-as-copas/"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/esportes/jogo-alemanha-curacau-copa-2026/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/esporte/com-a-7-a-1-contra-curacao-alemanha-tira-do-brasil-o-posto-de-maior-artilheira-das-copas/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/14/holanda-b-apenas-um-jogador-de-curacao-estreante-da-copa-nao-nasceu-no-pais-europeu-entenda.ghtml"
           }
         ],
-        "updatedAt": "2026-06-14T14:23:15.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/cm2bAy1QlXLkR_QpLLNFKJKjiG4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/p/V/9SRuKCSze8wB5xJZKa6Q/gettyimages-2280357914.jpg"
+        "updatedAt": "2026-06-14T20:17:41.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/alemanha_curacao.jpg"
       },
       {
-        "clusterId": "53f92b70a4af00c8",
-        "slug": "ec7aab716d69bee7",
-        "titulo": "Checamos: por que Vini Jr e Hakimi não puderam responder perguntas em espanhol em Brasil x Marrocos",
-        "resumo": "Seleção não consegue ser superior e empata na estreia da Copa Vini Jr e Hakimi não puderam responder perguntas em espanhol na véspera do jogo entre Brasil e Marrocos na Copa do Mundo de 2026. Ao que os mediadores das coletivas explicaram: não havia tradução disponível das entrevistas para o espanhol. Os vídeos, porém, viralizaram e provocaram questionamentos, já que o espanhol é o idioma do México, um dos três países-sede do torneio. O ge procurou a Fifa para entender a questão, e a entidade respondeu que se tratou de uma questão operacional. Antes de cada partida, as equipes envolvidas no…",
-        "porQueImporta": "",
+        "clusterId": "88e14669522d1217",
+        "slug": "199a65992b5f6855",
+        "titulo": "Holanda e Japão estreiam na Copa do Mundo 2026",
+        "resumo": "A partida entre Holanda e Japão ocorre no dia 14 de junho de 2026, às 17h (horário de Brasília), no AT&T Stadium, em Arlington, Texas, como primeira rodada do Grupo F. Ambas as seleções fazem sua estreia no Mundial. O Japão vem com seis vitórias consecutivas em amistosos recentes, enquanto a Holanda entra com experiência internacional. O jogo será transmitido em canais de TV e streaming, com opções de qualidade em 4K.",
+        "porQueImporta": "É o primeiro confronto de duas equipes na Copa, marcando o início das disputas do Grupo F.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/14/checamos-por-que-vini-jr-e-hakimi-nao-puderam-responder-perguntas-em-espanhol-em-brasil-x-marrocos.ghtml"
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/14/veja-memes-e-reacoes-de-holanda-x-japao-na-copa-do-mundo.ghtml"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/copa-do-mundo-memphis-depay-vai-jogar-em-holanda-x-japao/"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/vini-jr-se-recusa-a-responder-pergunta-em-espanhol-estou-com-o-brasil/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/entenda-por-que-memphis-e-banco-em-holanda-x-japao-na-estreia-da-copa/"
+          },
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/entretenimento/holanda-x-japao-data-horario-e-onde-assistir-a-laranja-mecanica-na-copa/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/esporte/veja-os-jogos-deste-domingo-na-copa-do-mundo-2026/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-holanda-x-japao-copa-do-mundo-14-06-26"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/14/jogos-copa-do-mundo-hoje-alemanha-holanda-horarios-onde-assistir.ghtml"
           }
         ],
-        "updatedAt": "2026-06-14T16:28:04.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/l1GsmspJ6CWaQtzphpwrvc8AVak=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/9/H/JyhvfHTS6eNadlGVt97Q/2026-06-13t221246z-1591038180-up1em6d1pp9bh-rtrmadp-3-soccer-worldcup-bra-mar.jpg"
+        "updatedAt": "2026-06-14T20:18:35.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/gmUxJBrtcdv9u59_C6ezuBEQJWI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/V/Q/2vD6fyRWCEx1SuAtqdpQ/imagem-2026-06-14-175755288.png"
       },
       {
-        "clusterId": "8b606b0b7875e9f8",
-        "slug": "ad9bff59c2d5ef5e",
-        "titulo": "Felipão revela \"promessa\" de Vini Jr para Copa: \"Seis gols\"",
-        "resumo": "Vinicius Júnior promete 6 gols para Felipão durante a Copa Responsável por garantir o empate para o Brasil na estreia da Copa do Mundo dos Estados Unidos, México e Canadá, Vinicius Junior traçou uma meta para a competição: marcar seis gols. A informação foi revelada por Luiz Felipe Scolari durante o Seleção Copa deste sábado (13), transmitido pelo sportv logo após a partida. 🔍 Adicione o ge nas suas fontes favoritas do Google Felipão contou que tomou conhecimento do objetivo do jogador durante uma visita à Granja Comary, em Teresópolis, na Região Serrana do Rio de Janeiro. Há cerca de duas…",
-        "porQueImporta": "",
+        "clusterId": "3f22bf3f00e84781",
+        "slug": "d07dcb0a9bfb58d0",
+        "titulo": "Seleção do Irã chega aos Estados Unidos para estreia na Copa do Mundo",
+        "resumo": "A delegação iraniana desembarcou em Los Angeles para a estreia na Copa do Mundo contra a Nova Zelândia, marcada para segunda-feira. Antes da partida, a equipe realizou um último treino e participou de entrevistas coletivas. A torcida iraniana celebrou a partida em frente ao hotel, enquanto a comunidade persa de Los Angeles expressou descontentamento com a seleção. A partida ocorre em meio a tensões geopolíticas entre o Irã e os Estados Unidos.",
+        "porQueImporta": "A chegada do Irã aos EUA destaca a importância da Copa do Mundo como palco de questões políticas e culturais além do esporte.",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/felipao-revela-promessa-de-vinicius-junior-pelo-brasil-na-copa-do-mundo/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/selecao-do-ira-chega-aos-estados-unidos-para-estreia-na-copa-do-mundo/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/14/felipao-revela-promessa-de-vini-jr-para-copa-seis-gols.ghtml"
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/14/torcida-faz-festa-antes-de-viagem-do-ira-aos-estados-unidos-para-estreia-na-copa-do-mundo-video.ghtml"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/esportes/selecao-do-ira-deixa-tijuana-com-despedida-animada-antes-da-estreia-na-copa-do-mundo/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/receitas/5-receitas-tipicas-dos-estados-unidos-para-celebrar-a-copa-do-mundo-com-sabor/"
           }
         ],
-        "updatedAt": "2026-06-14T15:56:26.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/D_gNkTL8APPh-ucNPUVVVyKOkW8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/W/8/MLP3sRRGGG9KG7VVZ9oQ/vini-getty1.jpg"
+        "updatedAt": "2026-06-14T21:00:53.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/MF6L-lZtqUnNtmZ7OBAEswTUM4o=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/P/f/qwFNxBRuWkNpru3BJg9Q/2026-06-14t174857z-1446607321-up1em6e1dhjoi-rtrmadp-3-soccer-worldcup-irn-mexico-departure.jpg"
       },
       {
-        "clusterId": "8f1b8125c6d4f168",
+        "clusterId": "9bb722d7424de30d",
         "slug": "740e393c8da545cd",
-        "titulo": "Hamilton encerra quarto pior jejum de vitórias da Ferrari na história; veja lista",
-        "resumo": "Veja os melhores momentos do GP de Barcelona deste domingo Demorou, mas os tifosi – como são chamados os fervorosos torcedores da Ferrari – puderam voltar a comemorar uma vitória depois de 595 dias de jejum, com Lewis Hamilton no GP de Barcelona-Catalunha deste domingo (14). O triunfo no tradicional circuito espanhol é o primeiro da escuderia de Maranello desde o GP do México de 2024, vencido por Carlos Sainz. Acesse o canal de automobilismo do ge no WhatsApp 🔍 Adicione o ge nas suas fontes favoritas do Google Hamilton quebra jejum da Ferrari e volta a vencer na F1 Hamilton vence o GP de…",
+        "titulo": "Lewis Hamilton é o piloto mais velho a vencer na F1 em 56 anos",
+        "resumo": "Histórico! Hamilton vence GP de Barcelona! Em junho de 1996, Michael Schumacher subiu ao topo do pódio da F1 no Circuito de Barcelona-Catalunha pela primeira vez como piloto Ferrari. Passados exatos 30 anos, em junho de 2026, Lewis Hamilton desbancou o alemão como maior vencedor da pista ao triunfar pela sétima vez no GP de Barcelona-Catalunha - conquista que ainda fez dele o mais velho a ganhar uma corrida em 56 anos. Acesse o canal de automobilismo do ge no WhatsApp 🔍 Adicione o ge nas suas fontes favoritas do Google GP de Barcelona-Catalunha: Hamilton quebra jejum da Ferrari e volta a…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/motor/formula-1/noticia/2026/06/14/hamilton-agradece-a-ferrari-e-aos-fas-por-vitoria-me-lembraram-de-quem-sou.ghtml"
+            "url": "https://ge.globo.com/motor/formula-1/noticia/2026/06/14/lewis-hamilton-e-o-piloto-mais-velho-a-vencer-na-f1-em-56-anos.ghtml"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/gp-de-barcelona-catalunha-hamilton-quebra-tabu-pilotando-ferrari/"
           },
           {
             "name": "Metrópoles",
             "url": "https://www.metropoles.com/esportes/f1-hamilton-vence-gp-da-espanha-e-conquista-1a-vitoria-pela-ferrari"
           }
         ],
-        "updatedAt": "2026-06-14T15:40:11.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/sagLRU4XllvUYwSUwyOogw0tMYI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/D/4/dq8cUkStCIOyuEAj8rTA/gettyimages-2281544406.jpg"
+        "updatedAt": "2026-06-14T20:17:49.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/4iUQTNK2Fy4g3z6LQz87BFF9glg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/J/7/fbabvUQmOSudtsMKON3Q/gettyimages-2281544374.jpg"
       },
       {
-        "clusterId": "f3a2d820c23a7699",
-        "slug": "5ac54e9cef23a03e",
-        "titulo": "GP de Barcelona-Catalunha: Hamilton quebra jejum da Ferrari e volta a vencer após quase dois anos",
-        "resumo": "Veja os melhores momentos do GP de Barcelona deste domingo Foram longos 686 dias - quase dois anos. Mas, finalmente, Lewis Hamilton voltou ao lugar que ocupou mais vezes que qualquer outro na F1: o topo do pódio. O inglês acertou na estratégia e venceu o GP de Barcelona-Catalunha neste domingo, superando pole position George Russell. Lando Norris completou o pódio graças à quebra que tirou o líder do Mundial, Kimi Antonelli, nas voltas finais da corrida. Acesse o canal de automobilismo do ge no WhatsApp 🔍 Adicione o ge nas suas fontes favoritas do Google Próxima corrida da F1 2026: veja data…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/hamilton-supera-schumacher-e-quebra-recorde-apos-vencer-o-gp-de-barcelona/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/motor/formula-1/ao-vivo/gp-de-barcelona-catalunha-a-7-etapa-da-f1-em-2026.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-14T15:31:54.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/j8AYIIVowm2FxyPaxt2JRhWjxMY=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/M/Q/22OA8xQ1K3TCVlvbtIXw/2026-06-14t130747z-1688521243-up1em6e10gy6b-rtrmadp-3-motor-f1-barcelona.jpg"
-      },
-      {
-        "clusterId": "12adef332b972bfa",
-        "slug": "a3b7fe4120ea72d5",
-        "titulo": "Arbitro somali Omar Artan receberá cachê integral pela Copa do Mundo",
-        "resumo": "Omar Abdulkadir Artan, árbitro da Somália, foi impedido de entrar nos Estados Unidos e, consequentemente, não pôde apitar a Copa do Mundo. Apesar disso, a FIFA garantiu que ele receberá o cachê integral pela participação no torneio. O valor exato ainda não foi divulgado, pois os pagamentos são feitos ao fim da competição.",
-        "porQueImporta": "Ilustra como a FIFA assegura remuneração a árbitros mesmo quando impedidos de atuar em partidas.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/arbitro-da-somalia-barrado-nos-eua-recebera-salario-integral-da-copa/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/14/arbitro-barrado-nos-eua-recebera-cache-integral-por-participacao-na-copa-do-mundo.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-14T13:25:46.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/Eog_l6ptYxdDSG5C77bi7GjbHao=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/u/B/aiBzJ3QNWddYbr8ITOqw/whatsapp-image-2026-06-10-at-05.32.10-3-.jpeg"
-      },
-      {
-        "clusterId": "2beb47010aac3a87",
-        "slug": "6c141278358bb070",
-        "titulo": "Rafael Câmara acerta na estratégia e vence a primeira na F2 em Barcelona",
-        "resumo": "Vitória brasileira na principal categoria de acesso à Fórmula 1. O pernambucano Rafael Câmara, da Invicta Racing, conquistou neste domingo (14) o primeiro triunfo na categoria, na corrida principal da etapa de Barcelona-Catalunha, a terceira da temporada. O piloto largou na pole position e, apesar de ter perdido a posição no início da prova, conseguiu retomar a ponta e ganhar com uma boa estratégia. Acesse o canal de automobilismo do ge no WhatsApp 🔍 Adicione o ge nas suas fontes favoritas do Google Com o resultado, Câmara chegou aos 69 pontos no campeonato e ocupa a terceira posição na…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/rafael-camara-conquista-primeira-vitoria-na-formula-2-em-barcelona/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/motor/formula-2/noticia/2026/06/14/rafael-camara-acerta-na-estrategia-e-vence-a-primeira-na-f2-em-barcelona.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-14T13:05:35.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/4C5kcezGnTPF_yLDMd_yNV9BV-4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Q/R/GMYODpQ5OFA2nKz1jnQg/gettyimages-2281511989.jpg"
-      },
-      {
-        "clusterId": "e51bf4ad3fd8e7ac",
-        "slug": "1e3f78747a530397",
-        "titulo": "Treinador de Gabriel Ganley faz primeiro pronunciamento após morte de fisiculturista",
-        "resumo": "Alvo de críticas nas redes sociais por conta do silêncio após a morte do fisiculturista e influenciador Gabriel Ganley, no último dia 23 de maio, Marcelo Cruz fez seu primeiro pronunciamento após a perda precoce do atleta. O treinador, que era o responsável por montar a dieta e os protocolos hormonais utilizados por Ganley, passou a ser alvo de críticas após atletas relatarem experiências negativas vividas sob a orientação do profissional no passado, questionando protocolos e estratégias adotadas durante as preparações. Neste sábado, ele publicou um vídeo nas redes sociais lamentando o…",
+        "clusterId": "d92600d275c2e6ac",
+        "slug": "fbc900186e563e57",
+        "titulo": "França tem todos os atletas à disposição em último treino antes de viagem para estreia na Copa",
+        "resumo": "Allez Les Bleus! Com Mbappe e cia, confira o media day da França O técnico Didier Deschamps teve todos os 26 jogadores da seleção da França à disposição neste domingo, no último treino antes da viagem para Nova York para a estreia na Copa do Mundo. O primeiro jogo do Grupo I, contra Senegal, será nesta terça-feira, às 16h (de Brasília). VEJA TAMBÉM: + 🔍 adicione o ge nas suas fontes favoritas do Google + Calendário da Copa: veja datas e horários dos jogos + SIMULADOR: escolha quem avança na Copa + Veja a tabela da Copa do Mundo A França ainda não havia tido todos os jogadores participando…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/fisiculturismo/noticia/2026/06/14/treinador-de-gabriel-ganley-faz-primeiro-pronunciamento-apos-morte-de-fisiculturista.ghtml"
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/14/franca-tem-todos-os-atletas-a-disposicao-em-ultimo-treino-antes-de-viagem-para-estreia-na-copa.ghtml"
           },
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/fabia-oliveira/mae-de-gabriel-ganley-comove-web-com-carta-ao-filho"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/franca-x-senegal-horario-e-onde-assistir-a-copa-do-mundo/"
           }
         ],
-        "updatedAt": "2026-06-14T13:00:09.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/1NqweIsEL5UuSdQAAKC4wTnJUS8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/v/v/EzlkJ0TdWEIgMyBKf3hQ/captura-de-tela-2026-05-26-164237.png"
+        "updatedAt": "2026-06-14T20:32:30.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/x_kpwlILma64BG75UV5O8HNs0WE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/5/S/HIjISoSpqQS5HqYduZRg/2026-06-12t203801z-2086534885-up1em6c1lbbv0-rtrmadp-3-soccer-worldcup-fra.jpg"
+      },
+      {
+        "clusterId": "ac19f80c94b2aa6b",
+        "slug": "6904cfc577c6341b",
+        "titulo": "João Fonseca cai no qualificatório de duplas do ATP 500 de Halle",
+        "resumo": "João Fonseca 3 x 1 Casper Ruud | Melhores Momentos | Roland Garros Uma aventura diferente. Assim foi o fim de semana de João Fonseca na grama do ATP 500 de Halle, na Alemanha. Ele jogou o torneio qualificatório de duplas, ao lado do alemão Daniel Altmaier, acabou eliminado na rodada final, e não conseguiu a vaga na chave principal. O time perdeu para o americano Robert Galloway com o australiano John Peers por 2 a 0, parciais de 7/5 e 6/2. João Fonseca Reuters A primeira partida de João Fonseca na chave de simples, após a eliminação nas quartas de final de Roland Garros, também já está…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-perde-na-final-do-qualificatorio-e-cai-nas-duplas-em-halle/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/tenis/noticia/2026/06/14/joao-fonseca-perde-no-qualificatorio-de-duplas-do-atp-500-de-halle.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-14T20:29:58.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/90zMPIwFtXNYajFeF8Ftb9UG-_Y=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/z/E/fSCjspQpmyfBwOSEifpw/2026-06-02t205404z-1086701917-up1em621m23fh-rtrmadp-3-tennis-frenchopen.jpg"
+      },
+      {
+        "clusterId": "7d08d9875003b9d2",
+        "slug": "07a211fda08beb74",
+        "titulo": "Copa Espírito Santo: Rio Branco VN marca no fim e sai na frente na semifinal contra o Porto Vitória",
+        "resumo": "Rio Branco VN 1 x 0 Porto Vitória | Gol | Semifinal | Copa Espírito Santo 2026 O Rio Branco VN largou na frente na corrida pela vaga na final da Copa Espírito Santo. Recebendo o Porto Vitória no Olímpio Perim, em Venda Nova do Imigrante, o Polenteiro contou com Jorge Mendes para sair vitorioso, por 1 a 0, no jogo de ida, disputado na tarde deste domingo. Veja mais notícias no ge.globo/es Tabela atualizada da Copa Espírito Santo + 📱​ Siga o Globo Esporte Espírito Santo no Instagram Como foi o jogo entre Rio Branco VN e Porto Vitória? Na primeira etapa, o Rio Branco VN foi superior e finalizou…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/es/futebol/copa-espirito-santo/noticia/2026/06/14/copa-espirito-santo-rio-branco-vn-marca-no-fim-e-sai-na-frente-na-semifinal-contra-o-porto-vitoria.ghtml"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/ac/acre/noticia/2026/06/14/produtor-cultural-morre-aos-44-anos-em-rio-branco.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-14T20:23:27.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/ll0u5BJkiQrKLuDSABT_HQOAIYo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/C/MefSqjQVuSAxQLcFu6zA/midia-de-distribuicao-g1-2026-06-14t112331.839.png"
+      },
+      {
+        "clusterId": "7fcd28475b05e139",
+        "slug": "0865103af7cd2b40",
+        "titulo": "Até onde o Brasil chega? Matheus Cunha responde repórter: “Não sou vidente”",
+        "resumo": "O Brasil visto de cima: câmera aérea mostra sufoco e buraco na Seleção no gol de Marrocos O empate do Brasil com Marrocos deixou Carlo Ancelotti mal-humorado na coletiva de imprensa. Ele não foi o único. Com menos paciência do que de hábito, Matheus Cunha reagiu de bate-pronto quando ouviu a seguinte pergunta: Matheus Cunha diz que não é vidente Reprodução - Até onde o Brasil vai chegar? Initial plugin text A resposta saiu sem cerimônia: - Eu não sei, não sou vidente, não trabalho com essas coisas. Mas vamos fazer o melhor para ser campeão. Jogador do Manchester United, Cunha entrou na…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/nao-sou-vidente-diz-matheus-cunha-sobre-chances-do-brasil-na-copa/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/14/ate-onde-o-brasil-chega-matheus-cunha-responde-reporter-nao-sou-vidente.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-14T20:03:27.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/JOsI5irHPXPjyfs1n_TYgUOanlM=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Z/3/OMGbcfSlmKTf7n8bpeHA/whatsapp-image-2026-06-14-at-15.31.00.jpeg"
       }
     ],
     "entretenimento": [
       {
-        "clusterId": "b1193d4cd92dbfa1",
+        "clusterId": "2affa2c66c5b9796",
         "slug": "289e2726f2dfed4a",
         "titulo": "No Dia dos Namorados, Vini Jr. comenta com coração em post de Virginia com buquê",
         "resumo": "Virginia recebeu comentário de Vini Jr. Reprodução/Instagram Virginia Fonseca recebeu um grande buquê de flores nesta sexta-feira (12), Dia dos Namorados. A influenciadora publicou uma foto com o presente nas redes sociais e Vinicius Jr., seu ex-namorado, comentou com um coração. Na sua conta do Instagram, Virginia publicou quatro fotos com o buquê e marcou a cidade de Nova York, onde ela está para a cobertura da Copa do Mundo. A ausência de informações sobre quem teria enviado o presente e o comentário do jogador da seleção brasileira chamaram a atenção. \"E a gente fica como com essa…",
@@ -1306,19 +1374,31 @@
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/celebridades/apos-receber-flores-virginia-fala-sobre-vini-jr-pela-1a-vez-apos-termino/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/fabia-oliveira/bora-viver-diz-virginia-apos-ganhar-flores-e-recado-de-vini-jr"
+            "url": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-fala-pela-1a-vez-de-buque-misterioso-do-dia-dos-namorados/"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/pop-arte/noticia/2026/06/12/no-dia-dos-namorados-vini-jr-comenta-com-coracao-em-post-de-virginia-com-buque.ghtml"
           }
         ],
-        "updatedAt": "2026-06-14T14:20:03.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/06/bora-viver-virginia-vini-jr-flores.jpg"
+        "updatedAt": "2026-06-14T20:34:46.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/UCR5t1gAkPvQksXY7jRCySV5uV0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/B/leXBC3TASpY4Iy6DwGlg/fotos-g1-1920-x-1080-px-94-.png"
+      },
+      {
+        "clusterId": "23f245000b1c0bec",
+        "slug": "308f44392515fef5",
+        "titulo": "Natureza espiritual de Mateus Aleluia é o foco de 'Pontos de força', sensorial documentário que estreia em São Paulo",
+        "resumo": "Mateus Aleluia é o eixo central da narrativa do documentário 'Pontos de força', dirigido e roteirizado por Vânia Lima Reprodução / Filme 'Pontos de força' ♫ CRÍTICA DE DOCUMENÁRIO MUSICAL Título: Pontos de força Direção e roteiro: Vânia Lima Cotação: ★ ★ ★ 1/2 ♬ “O tempo é soberano”, enfatiza Mateus Aleluia no início e no fim da narrativa intencionalmente pausada de “Pontos de força”, filme que estreia no próximo sábado, 20 de junho, na 18ª edição do In-Edit Brasil, festival de documentários musicais que estará em cartaz em São Paulo (SP) de 17 a 28 de junho. É no tempo contemplativo do…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/06/14/natureza-espiritual-de-mateus-aleluia-e-o-foco-de-pontos-de-forca-sensorial-documentario-que-estreia-em-sao-paulo.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-14T13:58:20.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/CID-aBRezbqpONdXE_TClwpRSBQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/4/PDXgmyQSCP5CTgps5A9A/mateusaleluia.jpg"
       },
       {
         "clusterId": "c2d6f5f4ef02ed59",
@@ -1369,11 +1449,11 @@
         "imageUrl": "https://s2-g1.glbimg.com/89KtOLqsfQ64BvW9oR89nlk8zNc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/0/IDapohRyCEpjdn4vr02w/rja4104.jpg.jpeg"
       },
       {
-        "clusterId": "13bba2dd156bf150",
-        "slug": "5f1d73debd757165",
-        "titulo": "Copa do Mundo 2026: festa de abertura nos EUA reúne Anitta, Katy Perry e mais; FOTOS",
-        "resumo": "Rema, LISA e Anitta, Daniel Cole/Reuters A cerimônia de abertura da Copa do Mundo 2026 nos Estados Unidos reuniu grandes nomes da música nesta sexta-feira (12). Entre as estrelas estavam a brasileira Anitta. Essa foi a terceira festa de abertura da competição, que pela primeira vez é disputada em três países: além dos EUA, México e Canada recebem o evento. O primeiro show no SoFi Stadium, em Los Angeles, foi do rapper Future com a cantora Tyla, dois destaques da cultura hip-hop nos EUA. Na sequência, foi a vez de LISA, do grupo de k-pop BLACKPINK, a brasileira Anitta e o cantor Rema mostrarem…",
-        "porQueImporta": "",
+        "clusterId": "68b64c0deba061ec",
+        "slug": "29473af6e863da21",
+        "titulo": "Anitta participa da cerimônia de abertura da Copa do Mundo de 2026 nos EUA",
+        "resumo": "A cantora brasileira Anitta se apresentou no SoFi Stadium, em Los Angeles, junto ao rapper Rema e à cantora tailandesa Lisa, como parte da terceira cerimônia de abertura do torneio. A apresentação foi transmitida mundialmente e recebeu atenção da internet. O evento faz parte da Copa do Mundo que será disputada em três países: Estados Unidos, México e Canadá.",
+        "porQueImporta": "Mostra a presença internacional de artistas brasileiros em eventos globais.",
         "category": "entretenimento",
         "sources": [
           {
@@ -1415,22 +1495,6 @@
         ],
         "updatedAt": "2026-06-12T23:29:37.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/U_Fys4DMOiciDCpX1BjB7OFg4dU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/B/jq5F9YTsGGjGWlGsSRJg/download-2-.png"
-      },
-      {
-        "clusterId": "9e91e54beb07eb36",
-        "slug": "2bf147049489a711",
-        "titulo": "Sósia de Neymar provoca correria em shopping nos Estados Unidos durante Copa do Mundo",
-        "resumo": "Durante a Copa do Mundo, o sósia de Neymar, Eigon Oliver, visitou os Estados Unidos para acompanhar os jogos e acabou causando aglomeração em um shopping center. Pessoas se reuniram para tirar fotos e gravar vídeos, gerando confusão entre os frequentadores. O incidente foi registrado em vídeos publicados pelo próprio influenciador.",
-        "porQueImporta": "Ilustra como figuras semelhantes a atletas famosos podem gerar atenção e confusão em eventos públicos.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/06/12/sosia-de-neymar-vai-a-copa-engana-fas-e-provoca-correria.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-12T19:27:57.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/ldEO-njGsSOvCam4Rs3tNtRw6Uo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/y/YFDtZOQrOcjFurb8W7NA/meow-meow-meow-meow-5-.jpg"
       }
     ]
   }
