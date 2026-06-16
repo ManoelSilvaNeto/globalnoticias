@@ -1,8 +1,11 @@
 {
-  "ranAt": "2026-06-16T04:16:49.680Z",
+  "ranAt": "2026-06-16T12:54:42.470Z",
   "editionDate": "2026-06-16",
-  "hourUtc": 4,
-  "outcome": "skipped",
-  "reason": "fora da janela (4h < 11h UTC)",
-  "attempts": []
+  "hourUtc": 12,
+  "outcome": "generated",
+  "reason": "\"Política interna e internacional se entrelaçam enquanto esportes dão tom de tensão e esperança\" (2 parágrafos)",
+  "attempts": [
+    "erro — Error: groq 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-20b` in organization `org_01kscvvnpvfp",
+    "ok"
+  ]
 }
