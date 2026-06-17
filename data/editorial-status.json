@@ -1,8 +1,11 @@
 {
-  "ranAt": "2026-06-17T04:13:44.080Z",
+  "ranAt": "2026-06-17T12:17:17.614Z",
   "editionDate": "2026-06-17",
-  "hourUtc": 4,
-  "outcome": "skipped",
-  "reason": "fora da janela (4h < 11h UTC)",
-  "attempts": []
+  "hourUtc": 12,
+  "outcome": "generated",
+  "reason": "\"Copa do Mundo 2026 marca início de debates esportivos e políticos ao redor do globo\" (3 parágrafos)",
+  "attempts": [
+    "erro — Error: groq 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for mo",
+    "ok"
+  ]
 }
