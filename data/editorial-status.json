@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-06-19T12:06:48.079Z",
-  "editionDate": "2026-06-19",
-  "hourUtc": 12,
-  "outcome": "generated",
-  "reason": "\"Investigação política e tensões internacionais marcam a edição enquanto esportes enfrentam ausências e lesões\" (3 parágrafos)",
-  "attempts": [
-    "erro — Error: groq 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-20b` in organization `org_01kscvvnpvfp",
-    "ok"
-  ]
+  "ranAt": "2026-06-20T03:46:41.906Z",
+  "editionDate": "2026-06-20",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "attempts": []
 }
