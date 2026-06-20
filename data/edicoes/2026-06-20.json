@@ -1,15 +1,27 @@
 {
   "date": "2026-06-20",
-  "generatedAt": "2026-06-20T14:06:11.856Z",
+  "generatedAt": "2026-06-20T17:26:57.269Z",
   "home": [
     {
-      "clusterId": "d5827d264201d2ac",
+      "clusterId": "75d08d4bac4963b0",
       "slug": "99d78477eadec79d",
       "titulo": "Defesa Civil Nacional retira plataforma após invasão que disparou alerta falso",
       "resumo": "A plataforma Defesa Civil Alerta foi invadida e, sem autorização, enviou mensagens contendo a palavra \"misantropia\" a celulares de diversas cidades entre 19 e 20 de junho. O alerta não correspondia a nenhuma situação de risco real. O Ministério da Integração e do Desenvolvimento Regional confirmou a invasão e a retirada da plataforma às 1h30 da madrugada.",
       "porQueImporta": "O incidente demonstra vulnerabilidade de sistemas de alerta público e pode gerar pânico desnecessário.",
-      "category": "geral",
+      "category": "tecnologia",
       "sources": [
+        {
+          "name": "Canaltech",
+          "url": "https://canaltech.com.br/seguranca/o-que-a-investigacao-ja-sabe-sobre-os-10-alertas-da-defesa-civil/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pr/parana/noticia/2026/06/20/alerta-de-misantropia-da-defesa-civil-governo-do-parana-diz-que-conduta-se-enquadra-como-ato-de-terrorismo.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/tecnologia/celular-tocou-alto-de-madrugada-entenda-como-funciona-o-alerta-da-defesa-civil/"
+        },
         {
           "name": "Metrópoles",
           "url": "https://www.metropoles.com/brasil/defesa-civil-sistema-de-alerta-nacional-e-retirado-do-ar-apos-ataque"
@@ -23,18 +35,6 @@
           "url": "https://olhardigital.com.br/2026/06/20/pro/o-que-e-misantropia-palavra-apareceu-em-falso-alerta-da-defesa-civil/"
         },
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/misantropia-o-bizarro-alerta-da-defesa-civil-que-pode-indicar-ataque-hacker/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasil/defesa-civil-aciona-policia-federal-para-investigar-invasao-desta-madrugada/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/tecnologia/noticia/2026/06/20/policia-federal-investigar-suspeita-invasao-defesa-civil-nacional-alerta-extremo.ghtml"
-        },
-        {
           "name": "Exame",
           "url": "https://exame.com/tecnologia/misantropia-como-funciona-um-alerta-verdadeiro-da-defesa-civil/"
         },
@@ -43,163 +43,183 @@
           "url": "https://www.bbc.com/portuguese/articles/cjeglwx4jnjo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-06-20T13:42:15.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/alertafalso.jpeg"
+      "updatedAt": "2026-06-20T16:52:00.000Z",
+      "imageUrl": "https://t.ctcdn.com.br/8ZM9m6vhV8Fb2nyfScf_zfLUwY4=/700x394/smart/i1136387.jpeg"
     },
     {
-      "clusterId": "e225b6d7d9476798",
-      "slug": "547d63dfd7c0da57",
-      "titulo": "Alemanha enfrenta Costa do Marfim na segunda rodada do Grupo E da Copa 2026",
-      "resumo": "O duelo ocorrerá em Toronto, às 17h (horário de Brasília), e decide a liderança do Grupo E. Ambas as seleções venceram a primeira rodada, com a Alemanha derrotando Curaçao por 7 a 1 e a Costa do Marfim vencendo Equador por 1 a 0. A vitória da Costa do Marfim pode permitir que a equipe avance para as fases eliminatórias, enquanto a Alemanha busca consolidar sua posição.",
-      "porQueImporta": "O resultado determinará quem lidera o grupo e quem tem maior chance de avançar para os mata‑mata.",
-      "category": "tecnologia",
+      "clusterId": "05562e54260e76c0",
+      "slug": "8902c45e72f8632f",
+      "titulo": "Datafolha mostra Lula com 47% e Flávio Bolsonaro com 43% no segundo turno",
+      "resumo": "A pesquisa Datafolha, com 2.004 entrevistados em 139 cidades e margem de erro de 2 pontos, indica que Lula tem 47% das intenções de voto no segundo turno, enquanto Flávio Bolsonaro tem 43%. Os números permanecem iguais ao levantamento de 22 de maio. A pesquisa foi registrada no TSE sob o número BR-09956/2026.",
+      "porQueImporta": "Esses resultados refletem a expectativa de voto no cenário de segunda volta das eleições presidenciais.",
+      "category": "politica",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/alemanha-x-costa-do-marfim-na-copa-onde-assistir-horario-e-escalacoes/"
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes/datafolha-flavio-bolsonaro-e-rejeitado-por-48-lula-por-46/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/nova-geracao-costa-do-marfim-pode-alcancar-feito-que-drogba-nao-conseguiu/"
+          "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-48-rejeitam-flavio-bolsonaro-e-46-lula/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/a-disputa-entre-lula-e-flavio-bolsonaro-no-segundo-turno-segundo-o-novo-datafolha/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/lula-mantem-a-dianteira-e-segue-quatro-pontos-a-frente-de-flavio-no-segundo-turno-aponta-datafolha/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/datafolha-lula-flavio-bolsonaro-1o-turno"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/06/20/datafolha-2o-turno-lula-tem-47-e-flavio-bolsonaro-43.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/datafolha-lula-tem-41-e-flavio-bolsonaro-31-no-1o-turno/"
+        }
+      ],
+      "updatedAt": "2026-06-20T16:39:52.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/LF-1.jpg"
+    },
+    {
+      "clusterId": "57ee75c0a2706589",
+      "slug": "aa108ea43c9f3404",
+      "titulo": "Jogos da segunda rodada da Copa do Mundo 2026 em 20/06 e 19/06",
+      "resumo": "Na segunda rodada da Copa do Mundo 2026, o dia 20 de junho contou com partidas entre Alemanha e Curaçao, Holanda e Suécia, Equador e Japão, e Tunísia e Curaçao. No dia anterior, 19 de junho, o Brasil venceu o Haiti por 3 a 0 na Filadélfia, após empate com Marrocos na estreia. O Brasil agora se prepara para enfrentar a Escócia na terceira rodada do Grupo C.",
+      "porQueImporta": "Esses resultados definem a posição das equipes na fase de grupos e influenciam as chances de avançar para as oitavas de final.",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argentina-x-austria-horario-e-onde-assistir-a-copa-do-mundo/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/esporte/tunisia-x-japao-na-copa-onde-assistir-horario-e-escalacoes/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/20/palpites-e-dicas-para-equador-x-curacao-pela-copa-do-mundo.ghtml"
         },
         {
           "name": "Canaltech",
           "url": "https://canaltech.com.br/entretenimento/alemanha-x-costa-do-marfim-horario-e-onde-assistir-ao-jogo-da-copa-2026/"
         },
         {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/20/nova-joia-e-resultados-por-que-a-costa-do-marfim-e-uma-ameaca-a-alemanha-neste-sabado.ghtml"
-        },
-        {
           "name": "Metrópoles",
           "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-alemanha-x-costa-do-marfim-copa-do-mundo-20-06-26"
         },
         {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/06/20/internet-e-redes-sociais/alemanha-x-costa-do-marfim-onde-assistir-horario-e-escalacoes-do-jogo-da-copa-do-mundo/"
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/19/proximo-jogo-brasil-copa-data-horario-e-onde-assistir.ghtml"
         }
       ],
-      "updatedAt": "2026-06-20T13:30:43.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2269715262.jpg?quality=70&strip=info"
+      "updatedAt": "2026-06-20T17:00:49.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2268570477.jpg?quality=70&strip=info"
     },
     {
-      "clusterId": "77f636f4b365c7ee",
-      "slug": "3a34da9c9a7bf203",
-      "titulo": "Brasil enfrenta Escócia na última rodada do Grupo C da Copa 2026",
-      "resumo": "O Brasil, que venceu o Haiti por 3 a 0, encara a Escócia na quarta-feira, 24 de junho, na última partida do Grupo C. A Escócia, que perdeu 1 a 0 para o Marrocos, busca melhorar seu desempenho no segundo tempo. O resultado necessário para o Brasil é um empate, que garantiria a classificação para a fase de grupos, enquanto uma vitória asseguraria a liderança do grupo.",
-      "porQueImporta": "O resultado determinará se o Brasil avança para a fase de grupos e quem lidera o Grupo C.",
-      "category": "mundo",
+      "clusterId": "4cee5f7bebb4f597",
+      "slug": "fb5d59ff017178ad",
+      "titulo": "Palpites e dicas para Holanda x Suécia pela Copa do Mundo",
+      "resumo": "Holanda 2 x 2 Japão | Melhores momentos | 1ª rodada | Copa do Mundo FIFA 2026 Holanda e Suécia se enfrentam às 14h pela segunda rodada da Copa do Mundo 2026. O Gato Mestre apresenta em parceria com o economista Bruno Imaizumi o potencial de cada resultado. + Jogo muda após hidratação em 35% das pausas na Copa do Mundo; entenda + Chances da Copa: Brasil tem 92% de possibilidades de avançar, França passa a ser a favorita + Copa do Mundo 2026: veja rankings de artilheiros e garçons Palpite para Holanda x Suécia Grupo F Bruno Imaizumi/Gato Mestre Placar mais provável: Holanda 1 x 0 Suécia Os…",
+      "porQueImporta": "",
+      "category": "economia",
       "sources": [
         {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/c74yk7ye48no?at_medium=RSS&at_campaign=rss"
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/copa-do-mundo/jogo/20-06-2026/holanda-suecia.ghtml"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/o-que-o-brasil-precisa-fazer-para-se-classificar-a-proxima-fase-da-copa/"
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/memphis-titular-veja-escalacoes-e-onde-assistir-holanda-x-suecia-na-copa/"
         },
         {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/20/de-olho-na-escocia-veja-quais-sao-os-pontos-de-atencao-para-o-brasil-no-proximo-jogo-da-copa-do-mundo.ghtml"
+          "name": "Exame",
+          "url": "https://exame.com/esporte/holanda-x-suecia-quem-e-o-brasileiro-escalado-para-o-var-do-jogo-da-copa-hoje/"
         },
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/apos-vitoria-confira-o-que-o-brasil-precisa-para-se-classificar"
-        }
-      ],
-      "updatedAt": "2026-06-20T13:29:22.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f4ec/live/3b65b110-5e79-11f1-929d-ad528af5a4c7.jpg"
-    },
-    {
-      "clusterId": "f7fd2c9e8eccfaad",
-      "slug": "9fdd13bf3806664a",
-      "titulo": "Trump diz que Irã 'não receberá nenhum dinheiro' e nega acusação de líder supremo de que agiu em desepero",
-      "resumo": "Após assinatura de acordo entre EUA e Irã, petroleiros navegam pelo estreito de Ormuz Em novo sinal de irritação com o Irã, o presidente dos Estados Unidos, Donald Trump, disse nesta sexta-feira (19) que o governo iraniano \"não receberá nenhum dinheiro\", após os dois países assinarem o acordo de paz, que prevê compensação financeira a Teerã. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp AO VIVO: Acompanhe as últimas notícias da guerra no Oriente Médio Ele disse que os EUA \"cumprirão os 60 dias\", em referência ao prazo estipulado para as negociações posteriores ao acordo, sobre o…",
-      "porQueImporta": "",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/20/comando-militar-do-ira-diz-que-fechou-estreito-de-ormuz-vance-nega.ghtml"
+          "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-holanda-x-suecia-copa-do-mundo-20-06-26"
         },
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/ira-fecha-ormuz-por-suposta-violacao-do-acordo-de-cessar-fogo-diz-agencia/"
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/20/alemanha-e-holanda-jogam-a-segunda-rodada-da-copa-do-mundo-2026-neste-sabado-20.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-20T17:24:22.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/xkuYsfQRi2vDqKmMJ6zwB0RCXww=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/i/5/sqoAWnR6GHnoGw2GHO3Q/2026-06-14t211112z-1691024253-up1em6e1mun7e-rtrmadp-3-soccer-worldcup-nld-jpn.jpg"
+    },
+    {
+      "clusterId": "e879d38710a664d9",
+      "slug": "d82b2da84a4da5a4",
+      "titulo": "Israel realiza ataques no sul do Líbano, Iran fecha Estreito de Ormuz",
+      "resumo": "Bombardeios israelenses no sul do Líbano resultaram em pelo menos 16 mortes, incluindo uma família de quatro pessoas, e continuam após o acordo de cessar-fogo. O Irã anunciou o fechamento do Estreito de Ormuz em resposta aos ataques, podendo adotar outras medidas se Israel prosseguir.",
+      "porQueImporta": "A escalada de violência ameaça a estabilidade regional e pode comprometer acordos de paz entre Estados Unidos e Irã.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/ataque-de-israel-mata-ao-menos-16-pessoas-no-libano/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/ira-anuncia-novo-fechamento-do-estreito-de-ormuz-apos-ataque-no-libano"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/mundo/ira-anuncia-fechamento-do-estreito-de-ormuz-em-resposta-a-ataques-de-israel-no-libano/"
         },
         {
           "name": "Exame",
           "url": "https://exame.com/mundo/ira-anuncia-fechamento-do-estreito-de-ormuz-apos-ataques-de-israel-no-libano/"
         },
         {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/um-dia-apos-retomada-de-trafego-ira-impoe-novas-regras-a-navios-e-reduz-fluxo-no-estreito-de-ormuz/"
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/20/ataques-seguem-no-libano-apesar-de-cessar-fogo-com-israel-7-pessoas-morreram-diz-imprensa-libanesa.ghtml"
         }
       ],
-      "updatedAt": "2026-06-20T13:26:57.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/5blq2EvBg2lJwx8oEfxFauBP01A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/e/llxXcuRMey0OSSVBARqw/2026-06-18t131217z-1189600078-rc2awlam27im-rtrmadp-3-iran-crisis-oman-hormuz.jpg"
+      "updatedAt": "2026-06-20T15:46:59.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/03/gettyimages-2242929815.jpg"
     },
     {
-      "clusterId": "63802d7a2fc56353",
-      "slug": "79e38f3017a6fe44",
-      "titulo": "PT ajuíza ação no TSE contra Flávio Bolsonaro por vídeo com IA",
-      "resumo": "O PT, por meio da Federação Brasil da Esperança, entrou com representação no Tribunal Superior Eleitoral contra o senador Flávio Bolsonaro. A ação acusa o pré-candidato à Presidência de usar inteligência artificial para criar um vídeo que teria propaganda eleitoral antecipada e de associar o PT a crime organizado. O pedido exige a remoção do conteúdo em até 24 horas. A medida faz parte de um debate mais amplo sobre a legalidade de deep fakes e propaganda digital nas campanhas.",
-      "porQueImporta": "A ação destaca a crescente preocupação com a veracidade de conteúdos digitais em campanhas eleitorais e a necessidade de regulamentação da propaganda online.",
-      "category": "politica",
+      "clusterId": "3237026d00a002d0",
+      "slug": "24cbe707cf7319e6",
+      "titulo": "Presidente da Bolívia declara estado de emergência após semanas de protestos",
+      "resumo": "O presidente Rodrigo Paz decretou estado de emergência para ampliar poderes do governo e mobilizar forças armadas na tentativa de remover bloqueios de estradas que duram mais de 50 dias. A medida visa restabelecer a ordem, proteger cidadãos e garantir o fluxo de bens essenciais. Manifestantes, incluindo indígenas e grupos ligados a Evo Morales, continuam protestando. A decisão ocorre em meio à crise política e econômica do país.",
+      "porQueImporta": "A medida pode alterar a dinâmica de protestos e afetar a estabilidade política e econômica da Bolívia.",
+      "category": "geral",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/a-estrategia-a-conta-gotas-para-o-plano-de-governo-de-flavio-bolsonaro/"
-        },
-        {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/pt-aciona-tse-contra-flavio-bolsonaro-por-video-com-ia/"
+          "url": "https://www.cartacapital.com.br/mundo/presidente-da-bolivia-decreta-estado-de-excecao-apos-6-semanas-de-protestos/"
         },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/06/19/pt-aciona-tse-contra-flavio-bolsonaro-por-video.ghtml"
+          "name": "Exame",
+          "url": "https://exame.com/mundo/bolivia-decreta-estado-de-excecao-apos-semanas-de-protestos-e-bloqueios/"
         },
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/pt-aciona-tse-flavio-bolsonaro-video-ia-top-gun"
-        }
-      ],
-      "updatedAt": "2026-06-20T13:01:44.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/Senador-Flavio-Bolsonaro.-Imagem-Germano-Luders-Divulgacao-Veja-e1781558240861.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "bc17dbb43ce8ec4e",
-      "slug": "144a6af2f3c7c825",
-      "titulo": "Hino instrumental da Bósnia volta a viralizar na Copa do Mundo",
-      "resumo": "A melodia instrumental usada como hino da Bósnia, conhecida como Intermeco, não possui letra oficial desde 1999. A música, lançada há 15 anos, reflete a esperança de jovens em busca de uma vida melhor no exterior. Ela ganhou nova atenção ao ser tocada na partida de estreia da Bósnia na Copa do Mundo de 2026, gerando curiosidade sobre a ausência de texto.",
-      "porQueImporta": "O caso destaca a singularidade de um hino nacional sem letra e sua repercussão em eventos esportivos internacionais.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "Exame",
-          "url": "https://exame.com/esporte/copa-do-mundo-ja-tem-dois-eliminados-apos-segunda-rodada-confira/"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/20/segunda-fase-da-copa-do-mundo-2026-veja-as-selecoes-eliminadas.ghtml"
+          "url": "https://www.metropoles.com/mundo/presidente-estado-emergencia-bolivia"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/20/alemanha-e-holanda-jogam-a-segunda-rodada-da-copa-do-mundo-2026-neste-sabado-20.ghtml"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cq815ejne3do?at_medium=RSS&at_campaign=rss"
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/20/presidente-da-bolivia-decreta-estado-de-emergencia-apos-50-dias-de-protestos.ghtml"
         }
       ],
-      "updatedAt": "2026-06-20T10:33:13.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/KoSlKn5xSyaggTOtqLzMxEYfp2M=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Y/3/desv7fRaGnKBsLJX6UnA/vincenzo-montella.jpg"
+      "updatedAt": "2026-06-20T13:55:49.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/AFP__20260618__B7KX9PX__v1__MidRes__BoliviaPoliticsCrisisProtests.jpg"
     },
     {
-      "clusterId": "97e32f6a6658e66e",
-      "slug": "6fc79c2949e36f73",
-      "titulo": "Operação Compliance Zero atinge líder do governo no Senado, Jaques Wagner, em meio a investigações sobre o Banco Master",
-      "resumo": "A Polícia Federal iniciou a 9ª fase da Operação Compliance Zero contra o senador Jaques Wagner, apontando que ele teria recebido vantagens indevidas, como um apartamento de luxo e repasses milionários, em troca de apoio político ao Banco Master. O presidente Lula questionou o senador sobre o caso e afirmou que não havia indícios de envolvimento. O partido PT e integrantes do Planalto sugerem que Wagner se afaste da liderança do governo no Senado para evitar impactos na campanha presidencial.",
-      "porQueImporta": "O caso pode comprometer a imagem do governo Lula e afetar sua campanha eleitoral.",
+      "clusterId": "8e06fa0dc33e2fa5",
+      "slug": "f0df1dad603abb46",
+      "titulo": "Investigação do caso Master envolve Jaques Wagner e cria dilema para Lula",
+      "resumo": "A Polícia Federal iniciou a 9ª fase da Operação Compliance Zero, apontando o senador Jaques Wagner como suposto beneficiário de vantagens indevidas em troca de apoio político ao Banco Master. O presidente Lula questionou Wagner sobre o esquema, recebendo respostas de que não havia envolvimento. A investigação, que inclui buscas em endereços ligados ao senador, pode afetar a imagem do governo e a narrativa do PT sobre o escândalo.",
+      "porQueImporta": "O caso pode comprometer a credibilidade do governo Lula e influenciar a percepção pública antes das eleições.",
       "category": "politica",
       "sources": [
         {
@@ -215,59 +235,59 @@
           "url": "https://www.bbc.com/portuguese/articles/c5yzk6nn265o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-06-20T14:03:49.000Z",
+      "updatedAt": "2026-06-20T17:24:25.000Z",
       "imageUrl": "https://images.metroimg.com/2026/05/lula-sanciona-lei-que-cria-dia-nacional-em-memoria-das-vitimas-da-covid-19-6.jpeg"
     },
     {
-      "clusterId": "f8318693764b9022",
-      "slug": "71882ce714237e33",
-      "titulo": "Israel realiza ataques no sul do Líbano após renovação de cessar-fogo",
-      "resumo": "Israel lançou bombardeios no sul do Líbano, incluindo a cidade de Nabatiyeh, poucas horas após a entrada em vigor de um novo acordo de cessar-fogo com o Hezbollah. As autoridades libanesas registraram entre 16 e 48 mortes, incluindo crianças, e afirmaram que os ataques foram em resposta a projéteis disparados pelo grupo. O exército israelense alegou ter atingido mais de 80 alvos e eliminado dezenas de membros do Hezbollah. A continuidade dos confrontos ameaça o acordo de paz entre os Estados Unidos e o Irã que visava encerrar a guerra no Oriente Médio.",
-      "porQueImporta": "Os ataques demonstram a fragilidade das tréguas regionais e a possibilidade de escalada de conflitos no Oriente Médio.",
+      "clusterId": "e9b644edc6fd96b7",
+      "slug": "23d5bb08bdc89926",
+      "titulo": "André do Prado anuncia pré-candidatura ao Senado com Eduardo Bolsonaro como suplente",
+      "resumo": "O ex-deputado André do Prado lançou sua pré-candidatura ao Senado em São Paulo, anunciando que o ex-Político Eduardo Bolsonaro será seu suplente. O candidato afirmou que a candidatura deveria ser do ex-deputado. A chapa já enfrenta críticas por incluir o inelegível Eduardo Bolsonaro. O lançamento ocorreu em 20 de junho.",
+      "porQueImporta": "A inclusão de um político inelegível como suplente pode afetar a legitimidade da candidatura.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/eduardo-bolsonaro-sera-meu-suplente-ao-senado-diz-andre-do-prado/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/com-flavio-e-tarcisio-andre-do-prado-lanca-pre-candidatura-ao-senado"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ap/amapa/noticia/2026/06/19/randolfe-rodrigues-anuncia-pre-candidatura-a-reeleicao-ao-senado-pelo-amapa.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-20T17:07:59.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/06/andre-tarcisio-e-flavio.jpg"
+    },
+    {
+      "clusterId": "ad3592c2a98530c2",
+      "slug": "6aaae0c249074fde",
+      "titulo": "EUA negam fechamento do Estreito de Ormuz enquanto Irã afirma controle",
+      "resumo": "O Comando Central dos Estados Unidos afirmou que o regime iraniano não controla o Estreito de Ormuz e que navios continuam a transitar pelo canal. Em contraste, a Guarda Revolucionária do Irã declarou que o estreito está fechado, alegando violação de acordos de cessar-fogo. A disputa ocorre antes de uma nova rodada de negociações entre Washington e Teerã, prevista para a Suíça, que visa discutir a implementação de um acordo de paz firmado em 17 de junho.",
+      "porQueImporta": "A situação influencia o fluxo de petróleo e a estabilidade regional, afetando mercados globais e relações internacionais.",
       "category": "mundo",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/israel-realiza-ataques-no-libano-apos-cessar-fogo-ao-menos-16-pessoas-morreram/"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/eua-rebatem-midia-do-ira-e-dizem-que-navios-continuam-passando-por-ormuz/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/20/ataques-seguem-no-libano-apesar-de-cessar-fogo-com-israel-7-pessoas-morreram-diz-imprensa-libanesa.ghtml"
+          "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
         },
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/israel-faz-ataques-mortais-no-libano-apesar-do-cessar-fogo-diz-midia/"
+          "name": "Jornal da USP",
+          "url": "https://jornal.usp.br/radio-usp/1021433/"
         }
       ],
-      "updatedAt": "2026-06-20T13:49:35.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/AFP__20260619__B7LT2G3__v1__HighRes__LebanonIsraelIranUsWar.jpg?quality=70&strip=info"
+      "updatedAt": "2026-06-20T16:56:06.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/5blq2EvBg2lJwx8oEfxFauBP01A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/e/llxXcuRMey0OSSVBARqw/2026-06-18t131217z-1189600078-rc2awlam27im-rtrmadp-3-iran-crisis-oman-hormuz.jpg"
     },
     {
-      "clusterId": "0b3980f463f7dcdc",
-      "slug": "0f50b42b22f8bb3c",
-      "titulo": "Seleção do Irã diz que fará reclamação à Fifa por restrições de viagem na Copa",
-      "resumo": "Delegação do Irã tem dificuldades para deixar os EUA após estreia na Copa A seleção do Irã vai apresentar uma reclamação à Fifa por restrições de viagem nos Estados Unidos durante a Copa do Mundo 2026, informou o porta-voz da federação iraniana na quinta-feira (18). A seleção defende que informou com antecedência o cronograma de viagens aos organizadores, mas que enfrenta restrições, afetando os planos da comissão técnica e a preparação para o jogo contra a Bélgica. \"Apesar de ter enviado seu cronograma de preparação para o torneio com bastante antecedência, a seleção nacional do Irã voltou a…",
-      "porQueImporta": "",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/20/governo-dos-eua-considera-aliviar-restricoes-de-viagem-ao-ira-na-copa-do-mundo.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/ira-fara-queixa-a-fifa-sobre-restricoes-de-viagem-para-a-copa-do-mundo/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/19/selecao-do-ira-diz-que-fara-reclamacao-a-fifa-por-restricoes-de-viagem-na-copa.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-20T13:43:54.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/c0h1g4DJ8pYnZvZBpz4Cjh-BsMQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/m/N/pcXGJiTwalkApuyIb0PA/2026-06-11t193700z-2001537410-up1em6b1ihmlq-rtrmadp-3-soccer-worldcup-irn.jpg"
-    },
-    {
-      "clusterId": "ce8ee36a37542836",
+      "clusterId": "b851b6a6b4d4508f",
       "slug": "6d8fac8f6d026f67",
       "titulo": "Lula brinca que Neymar é o primeiro jogador convocado em home office",
       "resumo": "Durante um evento em Belo Horizonte, o presidente Luiz Inácio Lula da Silva fez uma piada ao afirmar que Neymar seria o primeiro jogador a ser convocado em home office. A frase foi dita enquanto conversava com uma criança presente na cerimônia. A brincadeira gerou risos entre os presentes. O comentário não alterou a convocação oficial do jogador para a Copa do Mundo.",
@@ -276,7 +296,7 @@
       "sources": [
         {
           "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-china/fala-de-lula-sobre-neymar-viraliza-em-redes-sociais-na-china/"
+          "url": "https://www.poder360.com.br/poder-eleicoes/apos-critica-de-lula-flavio-vai-a-evento-com-camisa-de-neymar/"
         },
         {
           "name": "Metrópoles",
@@ -287,46 +307,58 @@
           "url": "https://g1.globo.com/politica/noticia/2026/06/19/antes-de-brincadeira-com-neymar-e-home-office-lula-sobre-ronaldo.ghtml"
         }
       ],
-      "updatedAt": "2026-06-20T13:26:08.000Z",
+      "updatedAt": "2026-06-20T16:53:22.000Z",
       "imageUrl": "https://images.metroimg.com/1b69607d-flavio-bolsonaro.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "63802d7a2fc56353",
-        "slug": "79e38f3017a6fe44",
-        "titulo": "PT ajuíza ação no TSE contra Flávio Bolsonaro por vídeo com IA",
-        "resumo": "O PT, por meio da Federação Brasil da Esperança, entrou com representação no Tribunal Superior Eleitoral contra o senador Flávio Bolsonaro. A ação acusa o pré-candidato à Presidência de usar inteligência artificial para criar um vídeo que teria propaganda eleitoral antecipada e de associar o PT a crime organizado. O pedido exige a remoção do conteúdo em até 24 horas. A medida faz parte de um debate mais amplo sobre a legalidade de deep fakes e propaganda digital nas campanhas.",
-        "porQueImporta": "A ação destaca a crescente preocupação com a veracidade de conteúdos digitais em campanhas eleitorais e a necessidade de regulamentação da propaganda online.",
+        "clusterId": "05562e54260e76c0",
+        "slug": "8902c45e72f8632f",
+        "titulo": "Datafolha mostra Lula com 47% e Flávio Bolsonaro com 43% no segundo turno",
+        "resumo": "A pesquisa Datafolha, com 2.004 entrevistados em 139 cidades e margem de erro de 2 pontos, indica que Lula tem 47% das intenções de voto no segundo turno, enquanto Flávio Bolsonaro tem 43%. Os números permanecem iguais ao levantamento de 22 de maio. A pesquisa foi registrada no TSE sob o número BR-09956/2026.",
+        "porQueImporta": "Esses resultados refletem a expectativa de voto no cenário de segunda volta das eleições presidenciais.",
         "category": "politica",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/a-estrategia-a-conta-gotas-para-o-plano-de-governo-de-flavio-bolsonaro/"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes/datafolha-flavio-bolsonaro-e-rejeitado-por-48-lula-por-46/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-48-rejeitam-flavio-bolsonaro-e-46-lula/"
           },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/pt-aciona-tse-contra-flavio-bolsonaro-por-video-com-ia/"
+            "url": "https://www.cartacapital.com.br/politica/a-disputa-entre-lula-e-flavio-bolsonaro-no-segundo-turno-segundo-o-novo-datafolha/"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/06/19/pt-aciona-tse-contra-flavio-bolsonaro-por-video.ghtml"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/lula-mantem-a-dianteira-e-segue-quatro-pontos-a-frente-de-flavio-no-segundo-turno-aponta-datafolha/"
           },
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/pt-aciona-tse-flavio-bolsonaro-video-ia-top-gun"
+            "url": "https://www.metropoles.com/brasil/datafolha-lula-flavio-bolsonaro-1o-turno"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/06/20/datafolha-2o-turno-lula-tem-47-e-flavio-bolsonaro-43.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/datafolha-lula-tem-41-e-flavio-bolsonaro-31-no-1o-turno/"
           }
         ],
-        "updatedAt": "2026-06-20T13:01:44.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/Senador-Flavio-Bolsonaro.-Imagem-Germano-Luders-Divulgacao-Veja-e1781558240861.jpg?quality=70&strip=info"
+        "updatedAt": "2026-06-20T16:39:52.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/LF-1.jpg"
       },
       {
-        "clusterId": "97e32f6a6658e66e",
-        "slug": "6fc79c2949e36f73",
-        "titulo": "Operação Compliance Zero atinge líder do governo no Senado, Jaques Wagner, em meio a investigações sobre o Banco Master",
-        "resumo": "A Polícia Federal iniciou a 9ª fase da Operação Compliance Zero contra o senador Jaques Wagner, apontando que ele teria recebido vantagens indevidas, como um apartamento de luxo e repasses milionários, em troca de apoio político ao Banco Master. O presidente Lula questionou o senador sobre o caso e afirmou que não havia indícios de envolvimento. O partido PT e integrantes do Planalto sugerem que Wagner se afaste da liderança do governo no Senado para evitar impactos na campanha presidencial.",
-        "porQueImporta": "O caso pode comprometer a imagem do governo Lula e afetar sua campanha eleitoral.",
+        "clusterId": "8e06fa0dc33e2fa5",
+        "slug": "f0df1dad603abb46",
+        "titulo": "Investigação do caso Master envolve Jaques Wagner e cria dilema para Lula",
+        "resumo": "A Polícia Federal iniciou a 9ª fase da Operação Compliance Zero, apontando o senador Jaques Wagner como suposto beneficiário de vantagens indevidas em troca de apoio político ao Banco Master. O presidente Lula questionou Wagner sobre o esquema, recebendo respostas de que não havia envolvimento. A investigação, que inclui buscas em endereços ligados ao senador, pode afetar a imagem do governo e a narrativa do PT sobre o escândalo.",
+        "porQueImporta": "O caso pode comprometer a credibilidade do governo Lula e influenciar a percepção pública antes das eleições.",
         "category": "politica",
         "sources": [
           {
@@ -342,11 +374,35 @@
             "url": "https://www.bbc.com/portuguese/articles/c5yzk6nn265o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-06-20T14:03:49.000Z",
+        "updatedAt": "2026-06-20T17:24:25.000Z",
         "imageUrl": "https://images.metroimg.com/2026/05/lula-sanciona-lei-que-cria-dia-nacional-em-memoria-das-vitimas-da-covid-19-6.jpeg"
       },
       {
-        "clusterId": "ce8ee36a37542836",
+        "clusterId": "e9b644edc6fd96b7",
+        "slug": "23d5bb08bdc89926",
+        "titulo": "André do Prado anuncia pré-candidatura ao Senado com Eduardo Bolsonaro como suplente",
+        "resumo": "O ex-deputado André do Prado lançou sua pré-candidatura ao Senado em São Paulo, anunciando que o ex-Político Eduardo Bolsonaro será seu suplente. O candidato afirmou que a candidatura deveria ser do ex-deputado. A chapa já enfrenta críticas por incluir o inelegível Eduardo Bolsonaro. O lançamento ocorreu em 20 de junho.",
+        "porQueImporta": "A inclusão de um político inelegível como suplente pode afetar a legitimidade da candidatura.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/eduardo-bolsonaro-sera-meu-suplente-ao-senado-diz-andre-do-prado/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/sao-paulo/com-flavio-e-tarcisio-andre-do-prado-lanca-pre-candidatura-ao-senado"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/ap/amapa/noticia/2026/06/19/randolfe-rodrigues-anuncia-pre-candidatura-a-reeleicao-ao-senado-pelo-amapa.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-20T17:07:59.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/andre-tarcisio-e-flavio.jpg"
+      },
+      {
+        "clusterId": "b851b6a6b4d4508f",
         "slug": "6d8fac8f6d026f67",
         "titulo": "Lula brinca que Neymar é o primeiro jogador convocado em home office",
         "resumo": "Durante um evento em Belo Horizonte, o presidente Luiz Inácio Lula da Silva fez uma piada ao afirmar que Neymar seria o primeiro jogador a ser convocado em home office. A frase foi dita enquanto conversava com uma criança presente na cerimônia. A brincadeira gerou risos entre os presentes. O comentário não alterou a convocação oficial do jogador para a Copa do Mundo.",
@@ -355,7 +411,7 @@
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-china/fala-de-lula-sobre-neymar-viraliza-em-redes-sociais-na-china/"
+            "url": "https://www.poder360.com.br/poder-eleicoes/apos-critica-de-lula-flavio-vai-a-evento-com-camisa-de-neymar/"
           },
           {
             "name": "Metrópoles",
@@ -366,48 +422,68 @@
             "url": "https://g1.globo.com/politica/noticia/2026/06/19/antes-de-brincadeira-com-neymar-e-home-office-lula-sobre-ronaldo.ghtml"
           }
         ],
-        "updatedAt": "2026-06-20T13:26:08.000Z",
+        "updatedAt": "2026-06-20T16:53:22.000Z",
         "imageUrl": "https://images.metroimg.com/1b69607d-flavio-bolsonaro.jpg"
       },
       {
-        "clusterId": "298e4f059e995ebd",
-        "slug": "1d930250deba8cb5",
-        "titulo": "Ministro da Justiça, chefe da PF, é indicado por Jaques Wagner",
-        "resumo": "Jaques Wagner indicou o atual ministro da Justiça para o cargo de chefe da Polícia Federal, gerando controvérsia política. A nomeação pode afetar a composição do STF, caso haja nova indicação de Messias. A decisão de Wagner tem sido vista como fator de instabilidade na articulação governamental, exigindo recomposição com Alcolumbre.",
-        "porQueImporta": "A escolha pode influenciar a estrutura de poder no governo e a composição do Supremo Tribunal Federal.",
+        "clusterId": "7acd45b8fa7b3403",
+        "slug": "ae95c7f75fe1ad9e",
+        "titulo": "USP abre inscrições para curso de finanças pessoais",
+        "resumo": "A Faculdade de Economia, Administração, Contabilidade e Atuária da USP lançou inscrições para um curso que visa ensinar planejamento estratégico das finanças pessoais e comportamentais. O curso ocorrerá de 6 a 31 de julho. O programa tem foco em melhorar a organização financeira dos participantes.",
+        "porQueImporta": "O curso oferece ferramentas práticas para quem busca otimizar seus recursos financeiros.",
         "category": "politica",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/andreza-matais/atual-ministro-da-justica-chefe-da-pf-e-indicacao-de-jaques-wagner"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-educacao/usp-abre-inscricoes-para-residencia-na-area-da-saude/"
           },
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/justica/o-impacto-do-enrosco-de-jaques-wagner-sobre-uma-possivel-nova-indicacao-de-messias-ao-stf/"
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/universidade/como-organizar-as-financas-e-investir-melhor-servico-da-usp-abre-inscricoes-para-curso/"
           }
         ],
-        "updatedAt": "2026-06-20T14:03:49.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/04/JM.jpg"
+        "updatedAt": "2026-06-20T17:07:11.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2019/11/20191113_00_dinheiro_economia_fiscal_calculadora.jpg"
       },
       {
-        "clusterId": "b3a79bd6f56c33c5",
-        "slug": "4a88e39b0ac1bb77",
-        "titulo": "Líder indígena Raoni transferido para Hospital São Paulo com quadro grave",
-        "resumo": "O cacique Raoni foi transferido para o Hospital São Paulo após sofrer obstrução intestinal. O paciente permanece em estado grave, mas estável, segundo o hospital. O Instituto de Pesquisa e Desenvolvimento de Raoni informou que o quadro é estável. A transferência ocorreu na sexta-feira, 20 de junho.",
-        "porQueImporta": "A condição de Raoni afeta a comunidade indígena e a atenção à saúde de líderes tradicionais.",
+        "clusterId": "3984c0acb698fa00",
+        "slug": "f5ac165e016e2250",
+        "titulo": "Governo suspeita de ataque hacker coordenado em alertas de “misantropia”",
+        "resumo": "Outra hipótese é de que ataque tenha sido feito por apenas uma pessoa, mas usando diferentes acessos estaduais do sistema Defesa Civil Alerta; governo ainda não tem informações concretas",
+        "porQueImporta": "",
         "category": "politica",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/sao-paulo/cacique-raoni-segue-estado-grave-uti"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-seguranca-publica/governo-suspeita-de-ataque-hacker-coordenado-em-alertas-de-misantropia/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/brasil/memes-e-videos-que-explicam-acao-de-hacker-a-reacao-de-misantropia-nas-redes/"
+          }
+        ],
+        "updatedAt": "2026-06-20T16:08:53.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/misatropia-v.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "4092b9ceda3aa965",
+        "slug": "87f87ac2e15d68da",
+        "titulo": "Mensagem falsa e intenção de contratação no Brasil",
+        "resumo": "Uma mensagem falsa enviada a celulares em vários estados do Brasil revelou fragilidades na cibersegurança, segundo o especialista Arthur Igreja. Paralelamente, dados do ManpowerGroup indicam que o Brasil ocupa o quarto lugar no ranking mundial de intenção de contratação, embora especialistas em RH alertem para riscos de integração e engajamento de qualidade.",
+        "porQueImporta": "Esses fatos destacam desafios simultâneos de segurança digital e de mercado de trabalho no país.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/tecnologia/misantropi4-mensagem-falsa-quebra-confianca-em-alertas-diz-especialista/"
           },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/sociedade/quadro-de-saude-de-raoni-e-grave-mas-estavel-diz-hospital-sao-paulo/"
+            "url": "https://www.cartacapital.com.br/do-micro-ao-macro/contratacao-cresce-brasil-integracao/"
           }
         ],
-        "updatedAt": "2026-06-20T12:24:43.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/06/Supremo-Tribunal-Federal-STF-retoma-o-julgamento-sobre-o-marco-temporal-na-demarcacao-de-terras-indigenas-23.jpeg"
+        "updatedAt": "2026-06-20T15:16:08.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/09/iStock-2187596823.jpg"
       },
       {
         "clusterId": "e505a908d9d790d1",
@@ -428,193 +504,253 @@
         ],
         "updatedAt": "2026-06-20T10:02:27.000Z",
         "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/aries-1-1-1024x683-2.jpg"
-      },
-      {
-        "clusterId": "63046339f3edd565",
-        "slug": "0811622093e7aa65",
-        "titulo": "Governo anuncia bloqueio de recursos de apostas ilegais e penaliza influenciadores",
-        "resumo": "O governo federal vai bloquear recursos de plataformas de apostas ilegais e encaminhá‑los ao fundo de segurança pública, conforme anunciado pelo presidente Lula e confirmado pelo ministro da Fazenda. Influenciadores que promovam essas plataformas serão responsabilizados tributariamente, com cobrança de Imposto de Renda, PIS e Cofins. O ministro da Justiça informou que 25,2 milhões de brasileiros utilizam essas plataformas, representando entre 41% e 51% das apostas no país. Mais de 40 mil sites já foram bloqueados.",
-        "porQueImporta": "A medida visa coibir a prática de apostas ilegais e proteger a economia e a segurança pública.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/influencers-e-bancos-podem-ser-enquadrados-em-cerco-a-bets-ilegais"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/06/19/governo-vai-congelar-recursos-de-bets-ilegais-e-enviar-ao-fundo-de-seguranca-publica-diz-ministro-da-fazenda.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-20T08:01:18.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/06/apostas-bets.jpg"
-      },
-      {
-        "clusterId": "21801f3f23dce269",
-        "slug": "5cec884f59f40ea6",
-        "titulo": "TSE firma acordo com partidos para garantir cumprimento de cotas e STF mantém perdão a partidos que descumpriram",
-        "resumo": "O Tribunal Superior Eleitoral firmou acordo com partidos políticos para assegurar o cumprimento das cotas de mulheres, negros e indígenas nas candidaturas de 2026. A lei exige que pelo menos 30% das vagas sejam ocupadas por mulheres, enquanto não há exigência mínima para negros e indígenas. O Supremo Tribunal Federal decidiu manter o perdão concedido a partidos que não cumpriram as cotas, seguindo a posição do relator Cristiano Zanin.",
-        "porQueImporta": "A decisão influencia a composição política e a representatividade de grupos historicamente marginalizados nas eleições.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/06/20/tse-faz-acordo-com-partidos-para-evitar-fraudes-de-cotas-para-mulheres-pretos-e-indigenas-veja-casos-polemicos.ghtml"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/justica/stf-mantem-perdao-a-partidos-que-descumpriram-cotas/"
-          }
-        ],
-        "updatedAt": "2026-06-20T07:00:58.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/uH_ZTVEkEhcIUvRduwR4Xo5ZZJ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/B/O/KX0brYSbO6jbmz6mMiSw/whatsapp-image-2024-10-15-at-16.03.16.jpeg"
       }
     ],
     "economia": [
       {
-        "clusterId": "378fe492ae963dba",
-        "slug": "19a8c00a07a61f2f",
-        "titulo": "Eleição suplementar de governador de Roraima ocorre neste domingo",
-        "resumo": "O Tribunal Superior Eleitoral determinou a realização de uma eleição suplementar para escolher o governador e o vice de Roraima, após a cassação do mandato de Edilson Damião. A votação será realizada em 350 locais do estado, das 8h às 17h, com mais de 384 mil eleitores aptos a votar. Três chapas concorrem à disputa, lideradas por Arthur Henrique (PL), Nelita e outra chapa não citada. O novo comando do Executivo estadual terá mandato até 5 de janeiro de 2027.",
-        "porQueImporta": "A eleição define quem comandará o estado até o início de 2027, após a cassação de um governador.",
+        "clusterId": "4cee5f7bebb4f597",
+        "slug": "fb5d59ff017178ad",
+        "titulo": "Palpites e dicas para Holanda x Suécia pela Copa do Mundo",
+        "resumo": "Holanda 2 x 2 Japão | Melhores momentos | 1ª rodada | Copa do Mundo FIFA 2026 Holanda e Suécia se enfrentam às 14h pela segunda rodada da Copa do Mundo 2026. O Gato Mestre apresenta em parceria com o economista Bruno Imaizumi o potencial de cada resultado. + Jogo muda após hidratação em 35% das pausas na Copa do Mundo; entenda + Chances da Copa: Brasil tem 92% de possibilidades de avançar, França passa a ser a favorita + Copa do Mundo 2026: veja rankings de artilheiros e garçons Palpite para Holanda x Suécia Grupo F Bruno Imaizumi/Gato Mestre Placar mais provável: Holanda 1 x 0 Suécia Os…",
+        "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/eleicoes-em-junho-roraima-vai-as-urnas-neste-domingo-para-escolher-governador-tampao/"
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/jogo/20-06-2026/holanda-suecia.ghtml"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/rr/roraima/ao-vivo/roraimenses-escolhem-governador-e-vice-de-roraima-na-eleicao-suplementar-deste-domingo.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-20T13:45:57.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2021/08/cropped-eleiccca7occ83es-01.jpg?fit=225%2C300&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "eea7c19b4945ee85",
-        "slug": "e2310500ad3889f4",
-        "titulo": "Frente fria causa queda de temperatura e risco de geada no fim de semana",
-        "resumo": "Uma frente fria atingiu Mato Grosso do Sul, provocando queda de temperatura e queda abaixo de 8°C em várias regiões. O inverno oficial começa no domingo, com máximas abaixo de 20°C e possibilidade de nevoeiro. Em São Paulo, Paraná e Santa Catarina, a frente trouxe chuvas intensas, enquanto no Sul as temperaturas próximas de 2°C aumentam o risco de geada.",
-        "porQueImporta": "O evento pode afetar a agricultura e a mobilidade urbana devido ao frio intenso e risco de geada.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/20/frente-fria-derruba-temperaturas-e-frio-abaixo-de-8-persiste-em-ms.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/memphis-titular-veja-escalacoes-e-onde-assistir-holanda-x-suecia-na-copa/"
           },
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/brasil/ultimo-fim-de-semana-do-outono-tera-temporais-geada-e-temperaturas-abaixo-de-5c/"
-          }
-        ],
-        "updatedAt": "2026-06-20T13:29:56.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/67VMg-ruCScpCHdg7PxVIf4RCTY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/5/hQMdszSAyPQMXJACjgpg/image-10-.png"
-      },
-      {
-        "clusterId": "cd975c73fa667bc4",
-        "slug": "1055b83ca7bb4601",
-        "titulo": "INSS abre prazo até sábado para contestar descontos indevidos",
-        "resumo": "Beneficiários do INSS, incluindo aposentados e pensionistas, têm até sábado para contestar descontos indevidos em suas contas. A contestação pode ser feita pelo aplicativo Meu INSS ou pelos Correios. O procedimento é obrigatório para que o beneficiário possa aderir ao acordo administrativo de ressarcimento oferecido pelo governo federal.",
-        "porQueImporta": "Garantia de que os beneficiários não paguem valores indevidos e possam receber o ressarcimento devido.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/minhas-financas/inss-aposentados-e-pensionistas-podem-contestar-descontos-indevidos-ate-este-sabado/"
+            "name": "Exame",
+            "url": "https://exame.com/esporte/holanda-x-suecia-quem-e-o-brasileiro-escalado-para-o-var-do-jogo-da-copa-hoje/"
           },
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/inss-prazo-contestar-desconto-termina-sabado"
+            "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-holanda-x-suecia-copa-do-mundo-20-06-26"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/20/alemanha-e-holanda-jogam-a-segunda-rodada-da-copa-do-mundo-2026-neste-sabado-20.ghtml"
           }
         ],
-        "updatedAt": "2026-06-20T13:05:24.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Como-consultar-o-Meu-INSS.jpg?fit=300%2C172&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-20T17:24:22.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/xkuYsfQRi2vDqKmMJ6zwB0RCXww=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/i/5/sqoAWnR6GHnoGw2GHO3Q/2026-06-14t211112z-1691024253-up1em6e1mun7e-rtrmadp-3-soccer-worldcup-nld-jpn.jpg"
       },
       {
-        "clusterId": "e7b96fba2ea3cc9f",
-        "slug": "0464795425218d66",
-        "titulo": "Líbano acusa Israel de ataques brutais apesar de cessar-fogo",
-        "resumo": "O Líbano acusou Israel de realizar ataques brutais, mesmo após a assinatura de um cessar-fogo. As forças libanesas apontaram um ataque israelense na estrada Kfar Remane, em Nabatieh, que resultou na morte de um militar. A acusação destaca a persistência de confrontos na região. O incidente reforça a tensão contínua entre os dois países.",
-        "porQueImporta": "A acusação pode levar a novas escaladas de violência na região.",
+        "clusterId": "cdb5dbb664a84979",
+        "slug": "272d7df8d968ae7f",
+        "titulo": "Polícia prende seis suspeitos por morte de jovem em rope jump",
+        "resumo": "A polícia civil prendeu três novos instrutores, totalizando seis presos, por envolvimento na morte de Maria Eduarda Rodrigues de Farias, de 21 anos, que morreu ao ser lançada sem a corda de segurança durante um rope jump na Ponte do Esqueleto, entre Limeira e Cordeirópolis, SP. A vítima deveria ter sido presa a duas cordas, segundo a delegada responsável. O inquérito ainda busca esclarecer detalhes da dinâmica do acidente.",
+        "porQueImporta": "O caso destaca riscos de atividades de risco e a necessidade de fiscalização adequada.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/libano-acusa-israel-de-ataques-brutais-apesar-de-cessar-fogo/"
+            "url": "https://www.infomoney.com.br/brasil/policia-prende-novos-suspeitos-por-morte-de-jovem-em-salto-de-rope-jump/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/rope-jump-outros-tres-suspeitos-sao-presos-por-morte-de-jovem-em-sp/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/06/20/morte-em-rope-jump-completa-1-semana-o-que-ainda-falta-saber-sobre-tragedia-de-jovem-lancada-sem-cordas-1.ghtml"
           }
         ],
-        "updatedAt": "2026-06-20T14:01:32.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-12-081629.png?fit=300%2C201&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-20T15:36:06.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/jovem_morre_apos_ser_jogada_sem_corda_de_rope_jump.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "8abda420468ff8d0",
-        "slug": "4ac01b55825d3898",
-        "titulo": "Manifestantes se reunem em Londres pelos 10 anos do Brexit e defendem retorno à UE",
-        "resumo": "Em Londres, grupos de manifestantes se reuniram para celebrar o décimo aniversário do referendo de 2016 que resultou no Brexit. A reunião contou com apoio de pessoas que desejam uma relação mais estreita entre o Reino Unido e a União Europeia. Os participantes pediram o retorno do país à UE e destacaram a necessidade de diálogo e cooperação. A manifestação ocorreu nas vésperas do aniversário do referendo, reforçando a continuidade do debate sobre a posição do Reino Unido no bloco europeu.",
-        "porQueImporta": "O protesto reflete a persistente divisão interna sobre a relação do Reino Unido com a UE, influenciando possíveis negociações futuras.",
+        "clusterId": "7588b17960678a2b",
+        "slug": "81e207584a4e5e2b",
+        "titulo": "Júri afasta feminicídio e ex-vice-prefeito acusado de matar esposa deixa prisão no ES",
+        "resumo": "Conselho de sentença condenou Célio Morales por homicídio culposo, posse ilegal de arma e fraude processual; MP vai recorrer The post Júri afasta feminicídio e ex-vice-prefeito acusado de matar esposa deixa prisão no ES appeared first on InfoMoney.",
+        "porQueImporta": "",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/ex-vice-prefeito-e-condenado-por-morte-da-esposa-mas-deixa-prisao-no-es"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/juri-afasta-feminicidio-e-ex-vice-prefeito-acusado-de-matar-esposa-deixa-prisao-no-es/"
+          }
+        ],
+        "updatedAt": "2026-06-20T17:16:10.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/vanuza-spala-de-almeida-e-celio-martins-morales.jpg"
+      },
+      {
+        "clusterId": "86fca288253dab30",
+        "slug": "a68a1faf7ecee365",
+        "titulo": "Endrick recebe elogios da imprensa espanhola após atuação na Copa",
+        "resumo": "O atacante Endrick foi destacado pela imprensa espanhola após sua estreia na Copa do Mundo, quando entrou no segundo tempo contra o Haiti. Apesar de ter um gol anulado, sua performance foi considerada de destaque. A seleção brasileira volta a jogar contra a Escócia na próxima quarta-feira.",
+        "porQueImporta": "O reconhecimento internacional reforça a importância de Endrick para o futuro da seleção brasileira.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/endrick-e-elogiado-por-imprensa-espanhola-apos-atuacao-na-copa-genio/"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/esportes/endrick-e-elogiado-pela-imprensa-espanhola-apos-vitoria-genio-de-taguatinga/"
+          }
+        ],
+        "updatedAt": "2026-06-20T17:00:07.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-20T024330Z_1705355018_UP1EM6K06BGNX_RTRMADP_3_SOCCER-WORLDCUP-BRA-HTI-1.jpg?fit=300%2C194&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "da41361a09456d53",
+        "slug": "5acd6f3365eb243a",
+        "titulo": "Vice-presidente dos EUA planeja negociações com Irã",
+        "resumo": "O vice-presidente dos Estados Unidos, JD Vance, indicou que espera iniciar negociações em breve com o Irã, mantendo a confiança de que o cessar-fogo estabelecido no pacto de 14 pontos permanecerá. Vance havia previsto uma viagem à Suíça para discutir o assunto, mas adiou a partida devido a incertezas geradas pelo conflito entre Israel e o Hezbollah no Líbano.",
+        "porQueImporta": "As negociações podem influenciar a estabilidade regional e os acordos de não proliferação nuclear.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/manifestantes-se-reunem-em-londres-pelos-10-anos-do-brexit-e-defendem-retorno-a-ue/"
+            "url": "https://www.infomoney.com.br/mundo/vance-espera-negociacoes-breve-ira/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/vice-dos-eua-deve-ir-a-suica-hoje-para-negociacoes-com-ira/"
           }
         ],
-        "updatedAt": "2026-06-20T14:00:08.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-20T124639Z_1816404147_RC2NXLA58YUU_RTRMADP_3_BRITAIN-EU-LONDON.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-20T16:43:50.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/10/jd2.jpg?fit=300%2C195&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "f9e45ee03a7523c2",
-        "slug": "b4dadf8ef8f00d48",
-        "titulo": "Modelo matemático da FGV prevê resultado provável da partida Holanda x Suécia",
-        "resumo": "Um modelo estatístico desenvolvido pela Fundação Getúlio Vargas estima que a seleção da Holanda tem maior probabilidade de vencer a partida contra a Suécia, marcada para sábado. O estudo analisa dados históricos e desempenho recente das equipes para gerar a previsão. A análise foi divulgada pela InfoMoney.",
-        "porQueImporta": "A previsão oferece insights para torcedores e analistas sobre o provável desenlace do confronto.",
+        "clusterId": "9f34a67bca2e5ee1",
+        "slug": "be16f78a9f48210d",
+        "titulo": "Incêndio em resort na República Dominicana deixa turista morta e evacua 1.700 hóspedes",
+        "resumo": "Um incêndio atingiu o Viva Wyndham Dominicus Beach Hotel, em Bayahibe, e se espalhou rapidamente devido à estrutura de palha do telhado. A tragédia resultou na morte de uma turista italiana e obrigou a evacuação de cerca de 1.700 hóspedes para hotéis próximos. As autoridades locais coordenaram a transferência e o controle do fogo.",
+        "porQueImporta": "O incidente destaca riscos de segurança em acomodações turísticas e a necessidade de medidas preventivas em resorts.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/esportes/holanda-x-suecia-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/"
+            "url": "https://www.infomoney.com.br/mundo/incendio-em-resort-na-republica-dominicana-mata-turista-e-evacua-1-700-hospedes/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/incendio-em-resort-na-republica-dominicana-deixa-turista-morta-e-forca-saida-de-1-700-hospedes/"
           }
         ],
-        "updatedAt": "2026-06-20T14:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/probabilidade-copa-mundo-futebol-thumb-holanda-suecia.png?fit=300%2C191&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-20T16:11:28.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-20T014944Z_893954271_RC2DXLAST5J7_RTRMADP_3_DOMINICAN-REPUBLIC-FIRE.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "e28c2e7f529dd003",
-        "slug": "c80bc537b8a25eca",
-        "titulo": "Mansões de celebridades à venda com luxos como cinema e academia",
-        "resumo": "Várias propriedades de famosos, incluindo Hélio de la Peña e Matheus Solano, estão disponíveis no mercado imobiliário. As residências apresentam amenidades de alto padrão, como cinemas, edículas e academias privativas. Os imóveis visam atender a um público que busca exclusividade e conforto. A venda de casas de celebridades costuma atrair atenção de investidores e fãs.",
-        "porQueImporta": "Ilustra o mercado de luxo e o interesse em propriedades de alto padrão.",
+        "clusterId": "82651c45a248afd2",
+        "slug": "97d4dcc55c5af7b9",
+        "titulo": "Mendonça manda remover posts que ligavam Lula a PCC e Vorcaro",
+        "resumo": "Decisões foram tomadas na sexta-feira (19), em ações apresentadas pela Federação Brasil da Esperança, formada por PT, PCdoB e PV The post Mendonça manda remover posts que ligavam Lula a PCC e Vorcaro appeared first on InfoMoney.",
+        "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/consumo/famosos-vendem-mansoes-milhoes-o-que-tem-cada-casa/"
+            "url": "https://www.infomoney.com.br/politica/mendonca-remover-posts-lula-pcc-vorcaro/"
           }
         ],
-        "updatedAt": "2026-06-20T13:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/mansoes-famosos-venda-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-20T17:12:48.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/04/52441529977_f3565b5d7d_o.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "c5f442ccd6bb466b",
-        "slug": "101bf6389f49624c",
-        "titulo": "Lei Falcão faz 50 anos",
-        "resumo": "A Lei Falcão, promulgada em 1975, estabeleceu que os partidos políticos só poderiam mencionar na propaganda a legenda, o currículo e o número de registro dos candidatos na Justiça Eleitoral. A norma ficou conhecida como a \"lei do silêncio\" e limitou a divulgação de informações sobre os candidatos durante as campanhas. Em 2025, a lei completa meio século de vigência, marcando um marco histórico nas regras eleitorais brasileiras.",
-        "porQueImporta": "Relembra um marco regulatório que influenciou a forma de campanha política no Brasil.",
+        "clusterId": "87446c2bfd58e55f",
+        "slug": "c9ac6c1bd2e21a20",
+        "titulo": "Modelo matemático prevê possível resultado da partida Alemanha x Costa do Marfim",
+        "resumo": "Um modelo estatístico da Fundação Getúlio Vargas estimou as probabilidades de vitória das equipes na partida de sábado, 20. O estudo indica que a Alemanha tem maior chance de vencer, enquanto a Costa do Marfim tem menor probabilidade. O modelo utiliza dados históricos e métricas de desempenho para gerar as projeções.",
+        "porQueImporta": "A previsão ajuda torcedores e analistas a entenderem as chances de cada equipe antes do jogo.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/lei-falcao-faz-50-anos-relembre-a-lei-do-silencio-das-eleicoes-nos-anos-70-e-80/"
+            "url": "https://www.infomoney.com.br/esportes/alemanha-x-costa-do-marfim-modelo-matematico-aponta-possivel-resultado-do-jogo-veja/"
           }
         ],
-        "updatedAt": "2026-06-20T13:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/CampanhaEleitoral_LeiFalcao.jpeg?fit=300%2C196&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-20T17:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/probabilidade-copa-mundo-futebol-thumb-alemanha-costamarfim.png?fit=300%2C191&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "77f636f4b365c7ee",
+        "clusterId": "ad3592c2a98530c2",
+        "slug": "6aaae0c249074fde",
+        "titulo": "EUA negam fechamento do Estreito de Ormuz enquanto Irã afirma controle",
+        "resumo": "O Comando Central dos Estados Unidos afirmou que o regime iraniano não controla o Estreito de Ormuz e que navios continuam a transitar pelo canal. Em contraste, a Guarda Revolucionária do Irã declarou que o estreito está fechado, alegando violação de acordos de cessar-fogo. A disputa ocorre antes de uma nova rodada de negociações entre Washington e Teerã, prevista para a Suíça, que visa discutir a implementação de um acordo de paz firmado em 17 de junho.",
+        "porQueImporta": "A situação influencia o fluxo de petróleo e a estabilidade regional, afetando mercados globais e relações internacionais.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/eua-rebatem-midia-do-ira-e-dizem-que-navios-continuam-passando-por-ormuz/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
+          },
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/radio-usp/1021433/"
+          }
+        ],
+        "updatedAt": "2026-06-20T16:56:06.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/5blq2EvBg2lJwx8oEfxFauBP01A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/e/llxXcuRMey0OSSVBARqw/2026-06-18t131217z-1189600078-rc2awlam27im-rtrmadp-3-iran-crisis-oman-hormuz.jpg"
+      },
+      {
+        "clusterId": "01eec817ac8d7366",
+        "slug": "a6719c6871252bc7",
+        "titulo": "Trump e Meloni entram em conflito sobre foto no G7",
+        "resumo": "O presidente dos Estados Unidos afirmou que a primeira‑ministra italiana Giorgia Meloni pediu para tirar uma foto com ele durante a cúpula do G7, alegação que a líder italiana nega, chamando‑a de inventada. A disputa reflete a deterioração da relação entre os dois líderes, que antes eram próximos. Ambas as declarações geraram repercussão nas redes sociais e na imprensa internacional.",
+        "porQueImporta": "O episódio destaca tensões entre potências norte‑americanas e europeias, influenciando a dinâmica política internacional.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mundo/trump-critica-meloni-e-alega-baixa-popularidade-da-italiana-em-meio-a-polemica/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/20/donald-trump-criticar-giorgia-meloni-popularidade-baixa-italia.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cn75zn3xz2zo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-06-20T16:32:01.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Trump-e-Meloni.png?fit=300%2C188&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "3f72138fd0510237",
+        "slug": "848ce0bd370e8b8f",
+        "titulo": "Endrick estreia na Copa do Mundo contra Haiti",
+        "resumo": "O atacante Endrick, do Real Madrid, entrou no segundo tempo da partida do Brasil contra o Haiti, marcando a primeira partida da fase de grupos. Seu ingresso gerou grande entusiasmo na torcida e no estádio, com ovações e exibição de seu rosto no telão. O gol de Endrick foi posteriormente anulado por impedimento semiautomático. O técnico Carlo Ancelotti havia decidido não escalar o jogador no início do jogo, mas o colocou na segunda metade.",
+        "porQueImporta": "A estreia de Endrick demonstra a integração de jovens talentos na seleção brasileira e a atenção global sobre a performance do time na Copa.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/celebridades/gabriely-miranda-chora-com-estreia-de-endrick-na-copa-do-mundo/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/viralizou/endrick-entra-em-campo-contra-haiti-e-web-vai-a-loucura-veja-reacoes"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/06/19/brasil-x-haiti-duvidas-sobre-endrick-e-mudancas-marcam-preparacao-da-selecao-confira.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-20T13:44:35.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/endrick-selecao-brasileira.jpg"
+      },
+      {
+        "clusterId": "d154f370778f4f1d",
         "slug": "3a34da9c9a7bf203",
         "titulo": "Brasil enfrenta Escócia na última rodada do Grupo C da Copa 2026",
         "resumo": "O Brasil, que venceu o Haiti por 3 a 0, encara a Escócia na quarta-feira, 24 de junho, na última partida do Grupo C. A Escócia, que perdeu 1 a 0 para o Marrocos, busca melhorar seu desempenho no segundo tempo. O resultado necessário para o Brasil é um empate, que garantiria a classificação para a fase de grupos, enquanto uma vitória asseguraria a liderança do grupo.",
@@ -624,10 +760,6 @@
           {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/c74yk7ye48no?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/o-que-o-brasil-precisa-fazer-para-se-classificar-a-proxima-fase-da-copa/"
           },
           {
             "name": "GE",
@@ -640,134 +772,6 @@
         ],
         "updatedAt": "2026-06-20T13:29:22.000Z",
         "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f4ec/live/3b65b110-5e79-11f1-929d-ad528af5a4c7.jpg"
-      },
-      {
-        "clusterId": "f7fd2c9e8eccfaad",
-        "slug": "9fdd13bf3806664a",
-        "titulo": "Trump diz que Irã 'não receberá nenhum dinheiro' e nega acusação de líder supremo de que agiu em desepero",
-        "resumo": "Após assinatura de acordo entre EUA e Irã, petroleiros navegam pelo estreito de Ormuz Em novo sinal de irritação com o Irã, o presidente dos Estados Unidos, Donald Trump, disse nesta sexta-feira (19) que o governo iraniano \"não receberá nenhum dinheiro\", após os dois países assinarem o acordo de paz, que prevê compensação financeira a Teerã. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp AO VIVO: Acompanhe as últimas notícias da guerra no Oriente Médio Ele disse que os EUA \"cumprirão os 60 dias\", em referência ao prazo estipulado para as negociações posteriores ao acordo, sobre o…",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/20/comando-militar-do-ira-diz-que-fechou-estreito-de-ormuz-vance-nega.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/ira-fecha-ormuz-por-suposta-violacao-do-acordo-de-cessar-fogo-diz-agencia/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/ira-anuncia-fechamento-do-estreito-de-ormuz-apos-ataques-de-israel-no-libano/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/um-dia-apos-retomada-de-trafego-ira-impoe-novas-regras-a-navios-e-reduz-fluxo-no-estreito-de-ormuz/"
-          }
-        ],
-        "updatedAt": "2026-06-20T13:26:57.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/5blq2EvBg2lJwx8oEfxFauBP01A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/e/llxXcuRMey0OSSVBARqw/2026-06-18t131217z-1189600078-rc2awlam27im-rtrmadp-3-iran-crisis-oman-hormuz.jpg"
-      },
-      {
-        "clusterId": "bc17dbb43ce8ec4e",
-        "slug": "144a6af2f3c7c825",
-        "titulo": "Hino instrumental da Bósnia volta a viralizar na Copa do Mundo",
-        "resumo": "A melodia instrumental usada como hino da Bósnia, conhecida como Intermeco, não possui letra oficial desde 1999. A música, lançada há 15 anos, reflete a esperança de jovens em busca de uma vida melhor no exterior. Ela ganhou nova atenção ao ser tocada na partida de estreia da Bósnia na Copa do Mundo de 2026, gerando curiosidade sobre a ausência de texto.",
-        "porQueImporta": "O caso destaca a singularidade de um hino nacional sem letra e sua repercussão em eventos esportivos internacionais.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/copa-do-mundo-ja-tem-dois-eliminados-apos-segunda-rodada-confira/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/20/segunda-fase-da-copa-do-mundo-2026-veja-as-selecoes-eliminadas.ghtml"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/20/alemanha-e-holanda-jogam-a-segunda-rodada-da-copa-do-mundo-2026-neste-sabado-20.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cq815ejne3do?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-06-20T10:33:13.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/KoSlKn5xSyaggTOtqLzMxEYfp2M=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Y/3/desv7fRaGnKBsLJX6UnA/vincenzo-montella.jpg"
-      },
-      {
-        "clusterId": "f8318693764b9022",
-        "slug": "71882ce714237e33",
-        "titulo": "Israel realiza ataques no sul do Líbano após renovação de cessar-fogo",
-        "resumo": "Israel lançou bombardeios no sul do Líbano, incluindo a cidade de Nabatiyeh, poucas horas após a entrada em vigor de um novo acordo de cessar-fogo com o Hezbollah. As autoridades libanesas registraram entre 16 e 48 mortes, incluindo crianças, e afirmaram que os ataques foram em resposta a projéteis disparados pelo grupo. O exército israelense alegou ter atingido mais de 80 alvos e eliminado dezenas de membros do Hezbollah. A continuidade dos confrontos ameaça o acordo de paz entre os Estados Unidos e o Irã que visava encerrar a guerra no Oriente Médio.",
-        "porQueImporta": "Os ataques demonstram a fragilidade das tréguas regionais e a possibilidade de escalada de conflitos no Oriente Médio.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/israel-realiza-ataques-no-libano-apos-cessar-fogo-ao-menos-16-pessoas-morreram/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/20/ataques-seguem-no-libano-apesar-de-cessar-fogo-com-israel-7-pessoas-morreram-diz-imprensa-libanesa.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/israel-faz-ataques-mortais-no-libano-apesar-do-cessar-fogo-diz-midia/"
-          }
-        ],
-        "updatedAt": "2026-06-20T13:49:35.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/AFP__20260619__B7LT2G3__v1__HighRes__LebanonIsraelIranUsWar.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "6dd883986e2db030",
-        "slug": "a6719c6871252bc7",
-        "titulo": "Trump e Meloni entram em conflito sobre foto no G7",
-        "resumo": "O presidente dos Estados Unidos afirmou que a primeira‑ministra italiana Giorgia Meloni pediu para tirar uma foto com ele durante a cúpula do G7, alegação que a líder italiana nega, chamando‑a de inventada. A disputa reflete a deterioração da relação entre os dois líderes, que antes eram próximos. Ambas as declarações geraram repercussão nas redes sociais e na imprensa internacional.",
-        "porQueImporta": "O episódio destaca tensões entre potências norte‑americanas e europeias, influenciando a dinâmica política internacional.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/20/donald-trump-criticar-giorgia-meloni-popularidade-baixa-italia.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/trump-volta-a-criticar-giorgia-meloni-e-diz-que-nao-quer-melhorar-relacoes/"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cn75zn3xz2zo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-06-20T13:19:08.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/aU3Ax520s0maopi_29KO5RysU2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/1/tybRnITPixhndqbRqhvw/ap26167398045021.jpg"
-      },
-      {
-        "clusterId": "a7bae98b018a7957",
-        "slug": "96cf4acf27e3ca17",
-        "titulo": "EUA e Irã assinam acordo de paz após quase quatro meses de guerra",
-        "resumo": "Os presidentes Donald Trump e Masoud Pezeshkian assinaram um memorando de entendimento que encerra o conflito iniciado em fevereiro, quando os EUA e Israel atacaram o Irã. O acordo prevê um prazo de 60 dias para tratar de questões pendentes, como o programa nuclear iraniano e a situação no Líbano, e inclui cláusulas de reconstrução e compensação financeira. O Pentágono estima que os custos da guerra somam cerca de US$ 80 bilhões, enquanto o presidente Trump recusa pagar US$ 300 bilhões previstos no acordo. O encontro na Suíça, originalmente previsto para discutir a implementação, foi cancelado.",
-        "porQueImporta": "O fim do conflito tem impacto direto na estabilidade regional, nos preços do petróleo e nas relações internacionais dos EUA e do Irã.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/acordo-provisorio-entenda-o-que-ainda-falta-ser-resolvido-entre-eua-x-ira/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/20/o-que-se-sabe-sobre-o-programa-nuclear-iraniano-o-ponto-mais-delicado-do-acordo-de-paz-entre-ira-e-eua.ghtml"
-          },
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/radio-usp/1021433/"
-          }
-        ],
-        "updatedAt": "2026-06-20T13:00:47.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/hNTc3vOtp1zxLV0mFAdZSDTjtQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/o/J/Pjrp1ARYiyksxgYBMyVg/000-627h467.jpg"
       },
       {
         "clusterId": "88b738d77a768e96",
@@ -786,125 +790,144 @@
             "url": "https://g1.globo.com/mundo/noticia/2026/06/18/departamento-de-estado-dos-eua-chama-condenacao-de-eduardo-bolsonaro-no-stf-de-perseguicao-e-manipulacao-juridica.ghtml"
           }
         ],
-        "updatedAt": "2026-06-20T14:03:49.000Z",
+        "updatedAt": "2026-06-20T17:24:25.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/y0BCrcnKwnRdWNWniwiH3q9Aqlk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/c/F/4vAPvqQjAAlHEGnOHh0Q/age20251114030.jpg"
       },
       {
-        "clusterId": "35ca60ee390ea444",
-        "slug": "0fe00e8072941662",
-        "titulo": "Brasil atua como mediador em acordo entre Rússia e Ucrânia",
-        "resumo": "O presidente Lula propôs a mediação de um acordo de paz entre Rússia e Ucrânia, o que foi aceito pelo presidente ucraniano Zelensky. A iniciativa rompe o paradigma tradicional de apoio externo ao conflito, colocando o Brasil em posição de ator diplomático relevante. Enquanto isso, a Rússia mantém sua postura de que os ataques aéreos contra a Ucrânia continuarão e que Kiev não busca negociações. A Ucrânia, por sua vez, tem intensificado ataques aéreos, incluindo a destruição de uma refinaria em Moscou.",
-        "porQueImporta": "A atuação do Brasil como mediador pode influenciar a dinâmica do conflito e a estabilidade regional.",
+        "clusterId": "12526814471f9c10",
+        "slug": "d72af2d8615255b6",
+        "titulo": "Por que o consumo diário de suplementos pode fazer mais mal do que bem",
+        "resumo": "Getty Images/BBC Eu não me via como uma grande consumidora de suplementos, mas depois dei uma boa olhada no meu armário. Sem perceber, acumulei várias bolsas de creatina, vitamina D, magnésio, colágeno, um suplemento tudo-em-um e alguns comprimidos projetados para ajudar nos altos e baixos da perimenopausa. Achei que estava imune aos anúncios constantes nas redes sociais. Mas não estava. Uma pesquisa recente do grupo de consumidores Which? descobriu que 76% dos entrevistados tomavam pelo menos um suplemento regularmente — o que inclui vitaminas, minerais, ômega-3, probióticos e suplementos de…",
+        "porQueImporta": "",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/saude/noticia/2026/06/20/por-que-o-consumo-diario-de-suplementos-pode-fazer-mais-mal-do-que-bem.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cn94yjr477qo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-06-20T15:39:26.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/LtI2um88VGynlihcv1SN1unPDv8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/c/G0vnKpRBuZ4KogeAEzRw/aaa38ad0-6bc5-11f1-8e1d-bbbb1017d210.jpg.webp"
+      },
+      {
+        "clusterId": "c615ebc3517901fe",
+        "slug": "43a252f2fe9763c7",
+        "titulo": "Mãe de Vozinha, goleiro de Cabo Verde, chega aos EUA",
+        "resumo": "Mãe do Vozinha chega aos EUA Reprodução/Reuters Ana Candida Évora, mãe do goleiro cabo-verdiano Vozinha, chegou aos Estados Unidos nesta sexta-feira (19) para ver o filho jogar a Copa do Mundo de 2026. Na quarta (17), ela viajou de sua cidade, São Vicente, para a capital de Cabo Verde, Praia, para concluir a documentação necessária para viajar aos Estados Unidos. Mãe de Vozinha, goleiro de Cabo Verde, viaja para concluir visto para ir aos EUA ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Ana Candida, que ganhou fama repentina depois que o filho lamentou que a mãe perdeu sua…",
+        "porQueImporta": "",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/mae-do-goleiro-vozinha-chega-aos-estados-unidos/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/19/mae-de-vozinha-goleiro-de-cabo-verde-chega-aos-eua.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-20T15:16:22.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/AFP__20260619__B7P68CR__v1__MidRes__FblWc2026Cpv.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "9c93b9d33c19c304",
+        "slug": "b1039a3bf7b5a02c",
+        "titulo": "Cantora iraniana é condenada a mais de 70 chibatadas por se apresentar sem hijab em live",
+        "resumo": "A cantora iraniana Parastoo Ahmadi interpretou a canção patriótica Az Khoone Javanane Vatan (Do Sangue da Juventude da Pátria) sem hijab em uma apresentação transmitida ao vivo que viralizou. Reprodução/Youtube A cantora iraniana Parastoo Ahmadi e oito membros de uma equipe de produção, incluindo músicos, teriam sido condenados a 74 chicotadas por realizarem um show transmitido ao vivo no canal de Ahmadi no YouTube em 2024, segundo o jornal \"The Guardian”. Em dezembro de 2024, a cantora de 29 anos interpretou a canção patriótica Az Khoone Javanane Vatan (Do Sangue da Juventude da Pátria) sem…",
+        "porQueImporta": "",
         "category": "mundo",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/analise-brasil-quebra-paradigma-ao-ajudar-em-acordo-entre-russia-e-ucrania/"
+            "url": "https://www.cnnbrasil.com.br/internacional/cantora-iraniana-e-condenada-a-74-chibatadas-diz-ong/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/19/russia-ataques-aereos-ucrania-continuarao-negociacoes.ghtml"
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/06/19/cantora-iraniana-e-condenada-a-mais-de-70-chibatadas-por-se-apresentar-sem-hijab-em-live.ghtml"
           }
         ],
-        "updatedAt": "2026-06-20T14:00:31.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/5BHNlvKJiSeg-YsxeYZ-vdgo3s0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/x/B4Q2kLRDiebd2BRwRJnA/2026-06-18t045307z-1968434087-rc24wla7htuq-rtrmadp-3-ukraine-crisis-attack-moscow.jpg"
+        "updatedAt": "2026-06-20T15:13:06.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/v5gBiMHVQzmv-_Yea4_jf4NwQl8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/W/UqxYLkRv2YktpNCOvx9A/cantora-iraniana.png"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "e225b6d7d9476798",
-        "slug": "547d63dfd7c0da57",
-        "titulo": "Alemanha enfrenta Costa do Marfim na segunda rodada do Grupo E da Copa 2026",
-        "resumo": "O duelo ocorrerá em Toronto, às 17h (horário de Brasília), e decide a liderança do Grupo E. Ambas as seleções venceram a primeira rodada, com a Alemanha derrotando Curaçao por 7 a 1 e a Costa do Marfim vencendo Equador por 1 a 0. A vitória da Costa do Marfim pode permitir que a equipe avance para as fases eliminatórias, enquanto a Alemanha busca consolidar sua posição.",
-        "porQueImporta": "O resultado determinará quem lidera o grupo e quem tem maior chance de avançar para os mata‑mata.",
+        "clusterId": "75d08d4bac4963b0",
+        "slug": "99d78477eadec79d",
+        "titulo": "Defesa Civil Nacional retira plataforma após invasão que disparou alerta falso",
+        "resumo": "A plataforma Defesa Civil Alerta foi invadida e, sem autorização, enviou mensagens contendo a palavra \"misantropia\" a celulares de diversas cidades entre 19 e 20 de junho. O alerta não correspondia a nenhuma situação de risco real. O Ministério da Integração e do Desenvolvimento Regional confirmou a invasão e a retirada da plataforma às 1h30 da madrugada.",
+        "porQueImporta": "O incidente demonstra vulnerabilidade de sistemas de alerta público e pode gerar pânico desnecessário.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/alemanha-x-costa-do-marfim-na-copa-onde-assistir-horario-e-escalacoes/"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/seguranca/o-que-a-investigacao-ja-sabe-sobre-os-10-alertas-da-defesa-civil/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pr/parana/noticia/2026/06/20/alerta-de-misantropia-da-defesa-civil-governo-do-parana-diz-que-conduta-se-enquadra-como-ato-de-terrorismo.ghtml"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/nova-geracao-costa-do-marfim-pode-alcancar-feito-que-drogba-nao-conseguiu/"
-          },
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/entretenimento/alemanha-x-costa-do-marfim-horario-e-onde-assistir-ao-jogo-da-copa-2026/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/20/nova-joia-e-resultados-por-que-a-costa-do-marfim-e-uma-ameaca-a-alemanha-neste-sabado.ghtml"
+            "url": "https://www.cnnbrasil.com.br/tecnologia/celular-tocou-alto-de-madrugada-entenda-como-funciona-o-alerta-da-defesa-civil/"
           },
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-alemanha-x-costa-do-marfim-copa-do-mundo-20-06-26"
+            "url": "https://www.metropoles.com/brasil/defesa-civil-sistema-de-alerta-nacional-e-retirado-do-ar-apos-ataque"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/sociedade/misantropia-defesa-civil-nacional-desativa-sistema-de-alerta-por-suspeita-de-ataque-hacker/"
           },
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/20/internet-e-redes-sociais/alemanha-x-costa-do-marfim-onde-assistir-horario-e-escalacoes-do-jogo-da-copa-do-mundo/"
+            "url": "https://olhardigital.com.br/2026/06/20/pro/o-que-e-misantropia-palavra-apareceu-em-falso-alerta-da-defesa-civil/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/tecnologia/misantropia-como-funciona-um-alerta-verdadeiro-da-defesa-civil/"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cjeglwx4jnjo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-06-20T13:30:43.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2269715262.jpg?quality=70&strip=info"
+        "updatedAt": "2026-06-20T16:52:00.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/8ZM9m6vhV8Fb2nyfScf_zfLUwY4=/700x394/smart/i1136387.jpeg"
       },
       {
-        "clusterId": "8d70560a190de0c7",
-        "slug": "56c5aa8b49ba6468",
-        "titulo": "Resultado da Lotofácil de hoje: veja números e ganhadores do concurso 3715",
-        "resumo": "O sorteio de R$ 2 milhões do concurso 3715 foi realizado em São Paulo. Além dos 15 números premiados, confira como resgatar seu prêmio! O post Resultado da Lotofácil de hoje: veja números e ganhadores do concurso 3715 apareceu primeiro em Olhar Digital.",
+        "clusterId": "f1cb49556d4a5fbd",
+        "slug": "a3377de65d614dba",
+        "titulo": "Galaxy A07 ou A17? Veja uma seleção de Smartphones Samsung em promoção na Amazon",
+        "resumo": "Se você está pensando em trocar de celular sem gastar muito, a Amazon tem boas opções da Samsung em oferta agora. Reunimos três modelos da linha Galaxy com preços competitivos — confira abaixo qual se encaixa melhor no seu bolso e nas suas necessidades. Celular Samsung Galaxy A07 128GB, 4GB, Câm. 50MP, Tela 6.7″ – […] O post Galaxy A07 ou A17? Veja uma seleção de Smartphones Samsung em promoção na Amazon apareceu primeiro em Olhar Digital.",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/20/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3715/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/confira-os-numeros-da-lotofacil-3715-sorteados-hoje-20-6"
+            "url": "https://olhardigital.com.br/2026/06/20/reviews/iphone-na-faixa-selecionamos-os-melhores-modelos-apple-em-promocao-na-amazon/"
           }
         ],
-        "updatedAt": "2026-06-20T12:03:20.000Z",
-        "imageUrl": "https://images.metroimg.com/49aa582c-loteria-lotofacil.jpg"
+        "updatedAt": "2026-06-20T16:45:00.000Z"
       },
       {
-        "clusterId": "517e809508a227c5",
-        "slug": "e92dd78718bef4d0",
-        "titulo": "Lua em fase de quarto crescente e estudo revela novo período de impacto de asteroides",
-        "resumo": "No sábado, 20 de junho de 2026, a Lua estava em fase de quarto crescente, conforme calendário lunar divulgado pelo Olhar Digital. Um estudo publicado pela Metrópoles identificou um novo período de bombardeio de asteroides no Sistema Solar, desafiando a crença de que o fenômeno havia cessado. A pesquisa destaca a presença de cristais na Lua como evidência desse impacto recente.",
-        "porQueImporta": "A descoberta atualiza o entendimento sobre a dinâmica de impactos no Sistema Solar e a evolução da superfície lunar.",
+        "clusterId": "647c880783c9f127",
+        "slug": "dcc8457ef6d64269",
+        "titulo": "Samsung Neo QLED com IA: veja uma seleção de TVs 4K em promoção",
+        "resumo": "Se você está pensando em renovar a TV da sala, este é um bom momento para dar uma olhada nas ofertas disponíveis na Amazon. A Samsung trouxe, em 2025, sua linha Vision AI com tecnologia Neo QLED Ultra 4K — e três modelos dessa linha estão com preços competitivos agora. Confira as opções abaixo. Samsung […] O post Samsung Neo QLED com IA: veja uma seleção de TVs 4K em promoção apareceu primeiro em Olhar Digital.",
+        "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/20/ciencia-e-espaco/lua-hoje-confira-a-fase-da-lua-deste-sabado-20-06-2026/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/ciencia/cristal-lua-sistema-solar-asteroides"
+            "url": "https://olhardigital.com.br/2026/06/20/reviews/samsung-neo-qled-com-ia-veja-uma-selecao-de-tvs-4k-em-promocao/"
           }
         ],
-        "updatedAt": "2026-06-20T11:06:00.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/05/lua-3.jpg"
-      },
-      {
-        "clusterId": "7a3aa3d3df06873d",
-        "slug": "ae8a24b9486e9017",
-        "titulo": "Tunísia enfrenta Japão na segunda rodada do Grupo F da Copa do Mundo 2026",
-        "resumo": "O confronto entre Tunísia e Japão marca o milésimo jogo da história da Copa do Mundo e a estreia de um novo técnico tunisiano. A seleção japonesa está sem sua principal estrela, enquanto a Tunísia busca consolidar sua posição no grupo. O duelo acontece no México e será transmitido em canais esportivos nacionais e internacionais.",
-        "porQueImporta": "O jogo representa um marco histórico e pode influenciar a classificação das equipes no Grupo F.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tunisia-estreia-novo-tecnico-contra-japao-desfalcado-da-sua-maior-estrela/"
-          },
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/20/internet-e-redes-sociais/tunisia-x-japao-onde-assistir-horario-e-escalacoes-do-jogo-da-copa-do-mundo/"
-          }
-        ],
-        "updatedAt": "2026-06-20T10:30:48.000Z"
+        "updatedAt": "2026-06-20T16:05:00.000Z"
       },
       {
         "clusterId": "75041e7843f8183a",
@@ -927,72 +950,68 @@
         "imageUrl": "https://t.ctcdn.com.br/0bcUcG5lnYWEu0iOq9QRejyefx4=/700x394/smart/i943265.jpeg"
       },
       {
-        "clusterId": "484304507aade744",
-        "slug": "488d7adaaa87be57",
-        "titulo": "Jogos de hoje (20/06/26): onde assistir futebol ao vivo e horários das partidas",
-        "resumo": "Quer saber quem joga hoje? Confira horários e onde assistir ao vivo aos jogos de hoje (20/06/26) do futebol do Brasil e do mundo na TV e no streaming O post Jogos de hoje (20/06/26): onde assistir futebol ao vivo e horários das partidas apareceu primeiro em Olhar Digital.",
+        "clusterId": "41c22da88accdaa4",
+        "slug": "66e11d27fdf1f850",
+        "titulo": "Galaxy Watch Ultra com 60% OFF: menor preço em 365 dias",
+        "resumo": "O Samsung Galaxy Watch Ultra 2025 está com a melhor oferta dos últimos 365 dias na Amazon: 60% de desconto no topo de linha absoluto da Samsung em smartwatches, com caixa em titânio aeroespacial, conectividade LTE e Galaxy AI. De R$ 4.999,00, o aparelho caiu para R$ 1.999,00, abrindo uma janela rara para entrar no […] O post Galaxy Watch Ultra com 60% OFF: menor preço em 365 dias apareceu primeiro em Olhar Digital.",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/20/internet-e-redes-sociais/jogos-de-hoje-20-06-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/"
+            "url": "https://olhardigital.com.br/2026/06/20/reviews/samsung-galaxy-watch-ultra-2025-oferta/"
           }
         ],
-        "updatedAt": "2026-06-20T11:00:00.000Z"
+        "updatedAt": "2026-06-20T15:44:44.000Z"
       },
       {
-        "clusterId": "59b9fd0d42e5afb2",
-        "slug": "e3012e5679b37e62",
-        "titulo": "Inteligência artificial redefine produtividade corporativa",
-        "resumo": "A inteligência artificial diminui a carga de atividades operacionais, deslocando o foco para funções analíticas. A tecnologia altera o tipo de esforço exigido nas empresas, tornando processos mais eficientes. A automação de tarefas rotineiras libera recursos humanos para atividades de maior valor agregado.",
-        "porQueImporta": "Essas mudanças podem aumentar a competitividade e a inovação nas organizações.",
+        "clusterId": "77f7451d174912e0",
+        "slug": "a7046da2b82db1bf",
+        "titulo": "O retorno do El Niño e os riscos para o Brasil e o mundo",
+        "resumo": "Saiba tudo sobre o El Niño, fenômeno climático que vem preocupando climatologistas e autoridades em diferentes países O post O retorno do El Niño e os riscos para o Brasil e o mundo apareceu primeiro em Olhar Digital.",
+        "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/20/colunistas/como-a-inteligencia-artificial-esta-redefinindo-a-produtividade-corporativa/"
+            "url": "https://olhardigital.com.br/2026/06/20/ciencia-e-espaco/o-retorno-do-el-nino-e-os-riscos-para-o-brasil-e-o-mundo/"
           }
         ],
-        "updatedAt": "2026-06-20T10:02:00.000Z"
+        "updatedAt": "2026-06-20T14:40:14.000Z"
       },
       {
-        "clusterId": "142d27c138f28b8e",
-        "slug": "dc578d74b7ad66de",
-        "titulo": "Webb revela diferenças entre amanhecer e entardecer em exoplaneta escaldante",
-        "resumo": "Pela primeira vez, o Telescópio James Webb observou diferenças entre as regiões de amanhecer e entardecer de um exoplaneta ultraquente O post Webb revela diferenças entre amanhecer e entardecer em exoplaneta escaldante apareceu primeiro em Olhar Digital.",
+        "clusterId": "a3d69e282219d3b7",
+        "slug": "b0651b2c283382cb",
+        "titulo": "Alerta nacional na Argentina: o que se sabe sobre o sumiço de uma cápsula de césio-137",
+        "resumo": "Autoridades argentinas estão investigando o desaparecimento de uma cápsula com césio-137 de uma unidade médica O post Alerta nacional na Argentina: o que se sabe sobre o sumiço de uma cápsula de césio-137 apareceu primeiro em Olhar Digital.",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/20/ciencia-e-espaco/webb-revela-diferencas-entre-amanhecer-e-entardecer-em-exoplaneta-escaldante/"
+            "url": "https://olhardigital.com.br/2026/06/20/ciencia-e-espaco/alerta-nacional-na-argentina-o-que-se-sabe-sobre-o-sumico-de-uma-capsula-de-cesio-137/"
           }
         ],
-        "updatedAt": "2026-06-20T09:03:00.000Z"
-      }
-    ],
-    "ciencia": [
+        "updatedAt": "2026-06-20T14:08:17.000Z"
+      },
       {
-        "clusterId": "51573f2744806bce",
-        "slug": "a6d205153b567de2",
-        "titulo": "Cuiabá realiza mutirão gratuito de vacinação para cães neste sábado (20)",
-        "resumo": "Ação será realizada das 8h às 16h, no Canil Municipal, sem necessidade de agendamento prévio. Prefeitura de Cuiabá Moradores de Cuiabá poderão vacinar gratuitamente seus cães neste sábado (20), durante um mutirão promovido pela Secretaria Adjunta de Bem-Estar Animal (Sabea). A ação será realizada das 8h às 16h, no Canil Municipal, sem necessidade de agendamento prévio. Durante o evento, serão oferecidas vacinas polivalentes, que ajudam a prevenir doenças como cinomose, parvovirose, hepatite infecciosa e leptospirose. Em parceria com a Vigilância em Zoonoses, também será disponibilizada a…",
+        "clusterId": "2467ea2c03ab21a7",
+        "slug": "92c929602df47c14",
+        "titulo": "Hospital italiano testa robô que conversa com pacientes e auxilia equipes de saúde",
+        "resumo": "Paciente pode indicar seu nível de dor usando uma escala com a ajuda do robô Alter-Ego MARCO BERTORELLO / AFP Um robô com sobrancelhas expressivas e capaz de interagir com pacientes está sendo testado em um hospital de Milão. A expectativa é que ele ajude a reduzir a carga de trabalho da equipe de saúde ao executar tarefas básicas, mas essenciais. 🗒️Tem alguma sugestão de reportagem? Mande para o g1 Batizado de \"Alter-Ego\", o robô de 1,2 metro pode desempenhar funções que vão desde representar um médico em atendimento remoto até levar uma garrafa de água a um paciente ou acompanhá-lo até uma…",
         "porQueImporta": "",
-        "category": "ciencia",
+        "category": "tecnologia",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/06/20/cuiaba-realiza-mutirao-gratuito-de-vacinacao-para-caes-neste-sabado-20.ghtml"
-          },
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/universidade/faculdade-de-medicina-da-usp-em-bauru-participa-de-mutirao-oftalmologico-gratuito-neste-sabado/"
+            "url": "https://g1.globo.com/inovacao/noticia/2026/06/20/hospital-italiano-testa-robo-que-conversa-com-pacientes-e-auxilia-equipes-de-saude.ghtml"
           }
         ],
-        "updatedAt": "2026-06-20T12:06:20.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/44tPlBRR7BGtcrR-c-C1GF1xi1U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/t/s32LyAQOWg74aDpJBFXQ/foto-g1-2026-06-20t080041.878.png"
-      },
+        "updatedAt": "2026-06-20T06:00:33.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/Fh5yDavpV50S8KHxQ3gfOApMd9Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/t/y3DIVYRy2pmyaVhNZiow/afp-20260619-b6w69px-v1-midres-italysciencetechnologyhealthrobotai.jpg"
+      }
+    ],
+    "ciencia": [
       {
         "clusterId": "2fe68ea8624dc70f",
         "slug": "063a0f275fac56db",
@@ -1104,6 +1123,22 @@
         ],
         "updatedAt": "2026-06-19T19:02:28.000Z",
         "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/06/20230622_Plinio-Martins-Filho-1024x538.jpg"
+      },
+      {
+        "clusterId": "df3bfadb3a089c50",
+        "slug": "37a5c002f94ab16b",
+        "titulo": "Exposição 'Beijo de Língua' reúne linguagens artísticas e idiomas",
+        "resumo": "A mostra do artista Nelson Felix, instalada no Museu de Arte Contemporânea da USP, apresenta 13 obras que combinam elementos textuais e visuais. Cada peça explora a relação entre linguagem escrita e expressão visual, criando uma experiência interativa. A exposição destaca a interdisciplinaridade entre arte e linguística, convidando o público a refletir sobre a comunicação em múltiplas formas.",
+        "porQueImporta": "A mostra amplia o diálogo entre arte e linguagem, incentivando novas formas de expressão e interpretação cultural.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/cultura/exposicao-entrelaca-linguagens-artisticas-e-idiomas/"
+          }
+        ],
+        "updatedAt": "2026-06-19T18:50:23.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260619_exposicaomaccapa-1024x538.jpg"
       }
     ],
     "saude": [
@@ -1185,31 +1220,91 @@
     ],
     "esportes": [
       {
-        "clusterId": "62804cea8ab78953",
-        "slug": "92b80f22b2a54a42",
-        "titulo": "Técnico do Paraguai critica rigor de expulsão pela \"Lei Vini Jr.\": \"Receio que o futebol perca sua essência\"",
-        "resumo": "Nova regra! Almirón, do Paraguai, é expulso por tapar a boca para falar com adversário O técnico Gustavo Alfaro comentou a expulsão do meia Miguel Almirón pela \"Lei Vini Jr.\" após a vitória do Paraguai por 1 a 0 sobre a Turquia, pela segunda rodada do Grupo D da Copa do Mundo 2026. Em entrevista coletiva, o treinador reconheceu que a regra foi aplicada de forma correta ao jogador, que recebeu cartão vermelho por cobrir a boca durante uma discussão com um adversário, mas criticou o rigor excessivo do novo regulamento. + Técnico do Paraguai exalta poder de reação: “Recuperamos a fé\" + Imprensa…",
-        "porQueImporta": "",
+        "clusterId": "57ee75c0a2706589",
+        "slug": "aa108ea43c9f3404",
+        "titulo": "Jogos da segunda rodada da Copa do Mundo 2026 em 20/06 e 19/06",
+        "resumo": "Na segunda rodada da Copa do Mundo 2026, o dia 20 de junho contou com partidas entre Alemanha e Curaçao, Holanda e Suécia, Equador e Japão, e Tunísia e Curaçao. No dia anterior, 19 de junho, o Brasil venceu o Haiti por 3 a 0 na Filadélfia, após empate com Marrocos na estreia. O Brasil agora se prepara para enfrentar a Escócia na terceira rodada do Grupo C.",
+        "porQueImporta": "Esses resultados definem a posição das equipes na fase de grupos e influenciam as chances de avançar para as oitavas de final.",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tecnico-do-paraguai-exalta-espirito-da-equipe-apos-vitoria-na-copa/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argentina-x-austria-horario-e-onde-assistir-a-copa-do-mundo/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/tunisia-x-japao-na-copa-onde-assistir-horario-e-escalacoes/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/20/tecnico-do-paraguai-fala-sobre-arbitragem-apos-expulsao-pela-lei-vini-jr.ghtml"
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/20/palpites-e-dicas-para-equador-x-curacao-pela-copa-do-mundo.ghtml"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/almiron-expulso-por-que-jogador-do-paraguai-levou-cartao-vermelho-na-copa/"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/entretenimento/alemanha-x-costa-do-marfim-horario-e-onde-assistir-ao-jogo-da-copa-2026/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-alemanha-x-costa-do-marfim-copa-do-mundo-20-06-26"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/19/proximo-jogo-brasil-copa-data-horario-e-onde-assistir.ghtml"
           }
         ],
-        "updatedAt": "2026-06-20T11:55:54.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/m9miPJUEx99LyL7ModlDAjU3sqc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/V/5/DyiDXlTYC8X02xp3287g/gettyimages-2282439190.jpg"
+        "updatedAt": "2026-06-20T17:00:49.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2268570477.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "fa41e8ab87e11ad6",
+        "clusterId": "8625d05a2b9da744",
+        "slug": "93c45663755f8d14",
+        "titulo": "Pai de Matheus Cunha fala sobre emoção de ver paraibano brilhar pelo Brasil na Copa do Mundo: 'Fomos premiados'",
+        "resumo": "Carmelo Cunha, pai, e Luziana Cunha, mãe de Matheus Cunha Reprodução O desempenho do paraibano Matheus Cunha, que brilhou marcando dois gols pela seleção brasileira na partida contra o Haiti pela segunda rodada da Copa do Mundo de 2026, nesta sexta-feira (19), emocionou a família inteira. À Rádio CBN Paraíba, Carmelo Cunha, pai do jogador, falou sobre o momento e destacou a alegria de ver o filho se destacar. \"Deus é muito bom, porque eu não esperava viver momentos como vivi o de ontem, não. É muita emoção! O desempenho de Mateus, a função que ele desempenha no coletivo da Seleção Brasileira,…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/06/20/por-que-matheus-cunha-comemora-gols-surfando-entenda-ligacao-do-atacante-com-o-rn.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/celebridades/mae-e-esposa-de-matheus-cunha-choram-com-gols-do-jogador-contra-o-haiti/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/pb/copa-do-mundo/noticia/2026/06/20/pais-de-matheus-cunha-se-emocionam-com-gols-na-copa-voce-nao-sabe-se-chora-ou-se-ri.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-20T16:52:24.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/vj3cwZjgET8qAMwFExxPGSWLWvg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/0/d4ndSXTjC0HGgB2AlANg/sem-titulo-1.jpg"
+      },
+      {
+        "clusterId": "dad12d079b3c70f9",
+        "slug": "001d943083ebd03e",
+        "titulo": "Inter Miami resolve pendências e acerta a contratação de Casemiro, volante da Seleção",
+        "resumo": "\"Empenho muito completo da equipe\", diz Casemiro após vitória do Brasil contra o Haiti O Inter Miami resolveu os últimos detalhes que restavam e acertou a contratação de Casemiro. O volante da seleção brasileira vai assinar com o clube dos Estados Unidos por três temporadas e atuará ao lado do craque Lionel Messi. Já havia um acordo verbal desde o mês passado, como informou o ge, mas houve um impasse nas últimas semanas. O Los Angeles Galaxy tinha abordado Casemiro antes do Inter Miami e, por isso, tinha a preferência para contratá-lo devido a regras da MLS. Casemiro preferia o Inter Miami…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/casemiro-fecha-com-inter-miami-e-jogara-ao-lado-de-messi-apos-a-copa"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/20/inter-miami-resolve-pendencias-e-acerta-a-contratacao-de-casemiro-volante-da-selecao.ghtml"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/criticado-na-selecao-casemiro-vai-jogar-ao-lado-de-messi/"
+          }
+        ],
+        "updatedAt": "2026-06-20T15:22:59.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/04/casemiro-manchester-united.jpg"
+      },
+      {
+        "clusterId": "7c18f6c699f5be2a",
         "slug": "d1afbacc82c1824a",
         "titulo": "Três boas notícias para a Seleção na vitória sobre o Haiti",
         "resumo": "Brasil 3 x 0 Haiti | Melhores momentos | 2ª rodada | Copa do Mundo 2026 A atuação do Brasil e a vitória de 3 a 0 sobre o Haiti, nesta sexta-feira, estiveram dentro do esperado. A diferença no desempenho da Seleção, em comparação com o 1 a 1 contra Marrocos na estreia, foi equivalente à distância entre os dois primeiros adversários na Copa do Mundo. É de dentro dessa perspectiva que se deve analisar aquilo que a Seleção teve de bom – e no que ela precisa melhorar. O trabalho brasileiro foi amplamente facilitado pela estratégia suicida do Haiti de jogar com a linha defensiva alta. A ingenuidade…",
@@ -1218,126 +1313,99 @@
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/20/casemiro-e-quem-mais-correu-em-brasil-x-haiti-veja-ranking-fisico-da-selecao.ghtml"
+            "url": "https://ge.globo.com/blogs/painel-tatico/post/2026/06/20/entenda-como-bruno-guimaraes-foi-o-motor-invisivel-na-vitoria-do-brasil-sobre-o-haiti.ghtml"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/esporte/brasil-encaminha-classificacao-na-copa-com-vitoria-sobre-o-haiti/"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/hora1/noticia/2026/06/19/brasil-x-haiti-veja-a-provavel-escalacao-para-o-jogo-de-hoje-e-mudancas.ghtml"
           }
         ],
-        "updatedAt": "2026-06-20T13:54:00.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/cfHZesa1quSIXtU5VEvADG0yAWc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/3/A/qSgbf1SuilCSKmkontkw/gettyimages-2282426819.jpg"
+        "updatedAt": "2026-06-20T14:58:22.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/-LezUy_-gLwHugO3fFDgjsz_YUY=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/9/2/M191DDTx6SxywcLExjpQ/bruno-3.png"
       },
       {
-        "clusterId": "3cd0c7bf5230257a",
-        "slug": "3ec8315d7cc1b684",
-        "titulo": "Técnico do Marrocos sai em defesa de Hakimi, que será julgado na França por acusação de estupro",
-        "resumo": "Escócia 0 x 1 Marrocos | Melhores momentos | 2ª rodada | Copa do Mundo 2026 Em entrevista coletiva após a vitória sobre a Escócia, na sexta-feira, o técnico do Marrocos, Mohamed Ouahbi, saiu em defesa de Hakimi. Horas antes do jogo da segunda rodada do Grupo C, o lateral-direito do PSG soube que será julgado na França por acusação de estupro: + Hakimi tem recurso negado e será julgado na França por acusação de estupro — Você viu o jogo? Imagino que sim. O Hakimi foi extraordinário. Estamos muito tranquilos, ele está muito tranquilo e acredito que ele jogou muito bem. Ele fez um bom trabalho,…",
+        "clusterId": "f5e8678892632480",
+        "slug": "037e879c4b6d35c4",
+        "titulo": "João Fonseca se garante entre os 24 melhores cabeças de chave em Wimbledon",
+        "resumo": "João Fonseca 0 x 2 Yannick Hanfmann | Melhores momentos | 1ª rodada | ATP 500 de Halle João Fonseca será, pela primeira vez na carreira, um dos 24 primeiros cabeças de chave de um Grand Slam. O feito foi oficializado neste sábado e pode facilitar os confrontos dele em Wimbledon, competição que será realizada a partir do dia 28 e é um dos quatro maiores torneios da temporada. O brasileiro deve aparecer, na segunda-feira, em 27º lugar do ranking mundial, mas como um dos 24 cabeças de chave, já que alguns tenistas que estão na frente não vão jogar o torneio. João Fonseca James Fearn/Getty Images…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/20/tecnico-do-marrocos-sai-em-defesa-de-hakimi-que-sera-julgado-na-franca-por-acusacao-de-estupro.ghtml"
+            "url": "https://ge.globo.com/tenis/noticia/2026/06/20/joao-fonseca-se-garante-entre-os-24-melhores-cabecas-de-chave-em-wimbledon.ghtml"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/19/capitao-do-marrocos-na-copa-achraf-hakimi-ira-a-julgamento-por-acusacao-de-estupro-na-franca.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-sera-cabeca-de-chave-numero-2-no-atp-250-de-eastboune-entenda/"
           }
         ],
-        "updatedAt": "2026-06-20T13:14:36.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/-bH9GcU7h9Bye7DPx9bDedqB21U=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/H/l/a9axAeTNy8k6BA5BRGFg/2026-06-19t223121z-1600549747-up1em6j1qk76e-rtrmadp-3-soccer-worldcup-sco-mar.jpg"
+        "updatedAt": "2026-06-20T17:00:48.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/rmFlx_8QLvMDaZBAAGQK6yni3Zo=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/p/a/JWNmABRf6giTtvukiR3A/gettyimages-2279111444.jpg"
       },
       {
-        "clusterId": "ce0dd49fcae53b84",
-        "slug": "ed9cb12de692fd7d",
-        "titulo": "Jornal espanhol destaca volta de Neymar contra a Escócia: \"Grande notícia\"",
-        "resumo": "Ancelotti garante Neymar para jogo contra a Escócia A possível volta de Neymar à Seleção Brasileira contra a Escócia ganhou destaque na imprensa espanhola. Em uma matéria sobre a entrevista coletiva de Carlo Ancelotti após a vitória por 3 a 0 sobre o Haiti, o jornal AS classificou a recuperação do camisa 10 como uma das principais notícias da equipe brasileira antes da última rodada da fase de grupos da Copa do Mundo. \"Uma das grandes notícias foi que Ancelotti garantiu que Neymar estará disponível para a partida contra a Escócia\", escreveu o jornal espanhol. Jornal espanhol destaca volta de…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/neymar-titular-o-que-ancelotti-sinaliza-para-o-craque-no-jogo-contra-a-escocia/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/20/jornal-espanhol-destaca-volta-de-neymar-contra-a-escocia-grande-noticia.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-20T12:58:53.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/16JUN2026TREINOREDBULL18NEYMAR-e1781645482162.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "37f1bf0075f36a15",
-        "slug": "93c45663755f8d14",
-        "titulo": "Memes: gols de Matheus Cunha e Vini Jr. contra o Haiti animam internet",
-        "resumo": "Matheus Cunha, do Brasil, comemora o primeiro gol da equipe com Bruno Guimarães, Lucas Paquetá e Vinicius Junior REUTERS/Dylan Martinez Os gols de Matheus Cunha e Vini Jr. na partida entre Brasil e Haiti nesta sexta-feira (19) animaram a internet. Nas redes sociais, memes destacaram o bom desempenho dos atacantes da Seleção Brasileira. Algumas publicações destacaram a assistência de Lucas Paquetá para o gol de Vini Jr. e lembraram que os dois foram revelados pelo Flamengo. Outras comentaram os dois gols de Matheus Cunha, escalado como titular por Carlo Ancelotti. \"Nunca critiquei\", brincaram…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/20/emocao-da-mae-de-matheus-cunha-em-gol-do-filho-comove-web-veja-reacoes.ghtml"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/noticia/2026/06/19/memes-brasil-haiti.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-20T12:58:13.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/AL4X_jyRP5g-y-m4NuRc6BW8DIg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/K/E/4i8BJERp2AUBRJLBTnFQ/whatsapp-image-2026-06-20-at-09.48.26.jpeg"
-      },
-      {
-        "clusterId": "efcb66411aa41975",
-        "slug": "3358782bb7765d35",
-        "titulo": "Trio é preso por tráfico de drogas em Volta Redonda",
-        "resumo": "Trio é preso por tráfico de drogas em Volta Redonda Divulgação/Polícia Militar Três homens, de 18, 29 e 32 anos foram presos por tráfico de drogas na sexta-feira (19) em Volta Redonda (RJ). O caso aconteceu na Avenida Itaipava, no bairro Belmonte. Segundo a Polícia Militar, os agentes estavam em patrulhamento pelo local quando receberam informações sobre suspeitos armados, que teriam montado uma mesma com drogas e estavam impedindo a passagem dos moradores do endereço. Ainda de acordo com a PM, após o cerco, três homens foram vistos em volta da mesa. Com eles, foram apreendidas uma bateria de…",
+        "clusterId": "05a4f8814b519e78",
+        "slug": "12184c9419113987",
+        "titulo": "Suspeito de assassinar ex-atacante do Santa Cruz em SC é preso; empresário também foi morto",
+        "resumo": "Ex-jogador de futebol é assassinado a tiros em Tubarão (SC) O homem suspeito de assassinar a tiros o ex-jogador do Santa Cruz Ivan Fiel da Silva, conhecido como Brasão, foi preso em flagrante na sexta-feira (19). Ele também é investigado por executar o empresário João Roberto Pereira de Oliveira, 20 anos, poucos minutos depois. A Polícia Civil investiga a relação entre os envolvidos. Brasão foi morto nos fundos do próprio bar, em Tubarão, no Sul de Santa Catarina, na madrugada de sexta. A outra vítima foi assassinada a tiros dentro de uma conveniência de bebidas, a cerca de 500 metros do…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/06/20/trio-e-preso-por-trafico-de-drogas-em-volta-redonda.ghtml"
+            "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/20/suspeito-assassinar-ex-jogador-brasao-preso-sc.ghtml"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/pb/futebol/brasileirao-serie-c/noticia/2026/06/20/botafogo-pb-x-volta-redonda-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+            "url": "https://ge.globo.com/pe/futebol/times/santa-cruz/noticia/2026/06/20/saiba-o-que-o-santa-cruz-precisa-para-entrar-no-g-8-da-serie-c-na-11a-rodada.ghtml"
           }
         ],
-        "updatedAt": "2026-06-20T12:41:02.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/7CNrXOyX78PClQ30C_dKZZMamp0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/k/qG4kGJSSKY8KFiu0inIg/whatsapp-image-2026-06-20-at-09.02.25-1-.jpeg"
+        "updatedAt": "2026-06-20T16:42:13.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/rpJNDvGSiZ5jj-owv75OIR91LYo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/R/J4FBqwRQGStF6BYBEbNw/captura-de-tela-2026-06-20-134605.png"
       },
       {
-        "clusterId": "f95505ed6ee4ee34",
-        "slug": "89d10e244dd3e89f",
-        "titulo": "Londrina x Athletic Club - Campeonato Brasileiro Série B 2026 - Ao vivo - globoesporte.com",
-        "resumo": "Campeonato Brasileiro Série B 2026 no globoesporte.com - acompanhe tudo sobre Londrina x Athletic Club: escalação, informações sobre o jogo, fotos e muito mais",
+        "clusterId": "14c8869010ccb57e",
+        "slug": "dc782aefbedabd3d",
+        "titulo": "Bolão da dupla Ba-Vi: quarteto crava placar do segundo jogo do Brasil e reage",
+        "resumo": "Vini Jr foi eleito craque do jogo de Brasil 3 x 0 Haiti O Brasil fez a sua parte ao vencer o Haiti por 3 a 0, no último sábado, pela segunda rodada da Copa do Mundo. De quebra, o resultado da seleção brasileira fez quatro jogadores de Bahia e Vitória reagirem no Bolão da Dupla Ba-Vi promovido pelo ge. Siga o ge Bahia nos Canais do WhatsApp Siga o ge Vitória nos Canais do WhatsApp Todos os jogadores que participam do bolão acreditaram na vitória da Seleção, mas somente Everton Ribeiro, Erick Pulga, Matheuzinho e Dudu cravaram o resultado da partida disputada na Filadélfia. Contudo, os líderes…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-reage-a-album-de-fotos-de-vini-jr-em-jogo-do-brasil-na-copa/"
+          },
+          {
             "name": "GE",
-            "url": "https://ge.globo.com/volei/jogo/20-06-2026/china-brasil.ghtml"
+            "url": "https://ge.globo.com/ba/futebol/noticia/2026/06/20/bolao-da-dupla-ba-vi-quarteto-crava-placar-do-segundo-jogo-do-brasil-e-reage.ghtml"
           }
         ],
-        "updatedAt": "2026-06-20T13:56:41.000Z"
+        "updatedAt": "2026-06-20T16:35:52.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/6Y_J5eJiBD_X7vLNpgG4J8u3ypY=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/W/D/xGdgyzQ8SPo57TqFHUvg/white-and-blue-modern-basketball-photo-collage-1-.jpg"
       },
       {
-        "clusterId": "f0604ac84ccb78f6",
-        "slug": "0e6e5c669670fa79",
-        "titulo": "Treinador do Paraguai brinca com atuação de Galarza após polêmica: \"Que siga deprimido\"",
-        "resumo": "Turquia 0 x 1 Paraguai | Melhores momentos | 2ª rodada | Copa do Mundo FIFA 2026 Ex-jogador de Vasco e Coritiba, Matías Galarza foi o grande nome da vitória por 1 a 0 sobre a Turquia. O autor do gol mais rápido deste Mundial, o meia foi o centro das atenções nos dias que antecederam a partida por ter aparecido na lista de dispensas de seu clube, o River Plate. Em coletiva de imprensa antes da partida decisiva, o jogador chegou a reagir aos rumores de que não estaria bem psicologicamente. 🗓️ Calendário da Copa do Mundo 2026: veja datas e horários de todos os jogos 🔍 Adicione o ge nas suas…",
-        "porQueImporta": "",
+        "clusterId": "ab17f0a0fbdd9ef0",
+        "slug": "2d819aed9fff568a",
+        "titulo": "Matías Galarza marca gol mais rápido da Copa 2026",
+        "resumo": "O volante paraguaio Matías Galarza marcou aos 1 minuto e 4 segundos contra a Turquia, estabelecendo o recorde de gol mais rápido da edição de 2026. O gol deu ao Paraguai a vitória por 1 a 0 na segunda rodada do Grupo D. Galarza, ex-jogador do Vasco, está em busca de novo clube após ser dispensado pelo River Plate.",
+        "porQueImporta": "O recorde demonstra a rapidez e eficácia do jogador, aumentando seu valor de mercado e destacando o desempenho do Paraguai na Copa.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/20/treinador-do-paraguai-brinca-com-atuacao-de-galarza-apos-polemica-que-siga-deprimido.ghtml"
+            "url": "https://ge.globo.com/cartola/copa-do-mundo/noticia/2026/06/20/vini-jr-brilha-na-2-e-dispara-como-maior-pontuador-do-brasil-no-cartola-da-copa-do-mundo-fifatm.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/copa-do-mundo-autor-de-gol-dos-eua-freeman-e-filho-de-campeao-da-nfl"
           }
         ],
-        "updatedAt": "2026-06-20T13:49:42.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/PXKYSF4d0ilQCx1H6b5TFdCepUs=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/a/M/s1vvFXSjOHIYdiugSARA/13837957-640x360.jpg"
+        "updatedAt": "2026-06-20T16:00:08.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/b0CVdts-h9eG0iN0ckgETKX1fYo=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/5/b/Z8PxCxThiBjw1iI5yBMw/2026-06-20t012502z-551075975-up1em6k03xnky-rtrmadp-3-soccer-worldcup-bra-hti.jpg"
       }
     ],
     "entretenimento": [
