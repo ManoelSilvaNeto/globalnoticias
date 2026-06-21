@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-06-20T14:06:11.856Z",
-  "editionDate": "2026-06-20",
-  "hourUtc": 14,
-  "outcome": "generated",
-  "reason": "\"Cenário de alerta digital, disputas esportivas e tensões políticas marcam a edição\" (4 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok"
-  ]
+  "ranAt": "2026-06-21T04:18:50.809Z",
+  "editionDate": "2026-06-21",
+  "hourUtc": 4,
+  "outcome": "skipped",
+  "reason": "fora da janela (4h < 11h UTC)",
+  "attempts": []
 }
