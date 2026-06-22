@@ -1,57 +1,197 @@
 {
   "date": "2026-06-22",
-  "generatedAt": "2026-06-22T04:20:57.794Z",
+  "generatedAt": "2026-06-22T13:35:27.346Z",
   "home": [
     {
-      "clusterId": "b5a4ca4b96a8e82f",
-      "slug": "ca2a9da06ce7343b",
-      "titulo": "Segundo turno das eleições presidenciais na Colômbia",
-      "resumo": "O segundo turno da eleição presidencial colombiana acontece neste domingo entre o candidato de ultradireita Abelardo de la Espriella, apoiado por Donald Trump, e o senador de esquerda Iván Cepeda, aliado de Gustavo Petro. A disputa reflete a polarização política do país e pode alterar o equilíbrio de poder na América Latina. As urnas abriram em todo o território, com expectativa de que o resultado consolide a tendência de governos de direita na região.",
-      "porQueImporta": "O vencedor determinará a direção política da Colômbia e pode influenciar a dinâmica política da América Latina.",
+      "clusterId": "d19f1c5735f5a0d7",
+      "slug": "1c89eff955427a10",
+      "titulo": "Andy Burnham anuncia candidatura para substituir Keir Starmer como primeiro-ministro",
+      "resumo": "Andy Burnham, ex-prefeito de Manchester e recém-eleito deputado, confirmou que vai se candidatar à liderança do Partido Trabalhista após a renúncia de Keir Starmer. O político, que já disputou a liderança do partido duas vezes, tem experiência de nove anos fora de Westminster. Burnham garantiu assento no Parlamento em 17 de março e agradeceu a Starmer pela liderança. Sua candidatura surge em meio à busca por um novo líder do Reino Unido.",
+      "porQueImporta": "A escolha de Burnham pode definir a direção política do país e influenciar questões internas e externas.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/saiba-quem-e-andy-burnham-favorito-para-substituir-keir-starmer/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/quem-e-o-rei-do-norte-favorito-para-substituir-starmer-como-primeiro-ministro-do-reino-unido/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/conheca-andy-burnham-favorito-para-cargo-de-premie-do-reino-unido/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/mundo/andy-burnham-confirma-que-apresentara-candidatura-para-suceder-starmer/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/22/andy-burnham-o-mais-cotado-para-substituir-starmer-anuncia-que-vai-se-candidatar-ao-cargo-de-primeiro-ministro.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/mundo/quem-e-andy-burnham-favorito-para-assumir-o-governo-do-reino-unido/"
+        }
+      ],
+      "updatedAt": "2026-06-22T13:10:58.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2282182474.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "d5cd3238abd4faf6",
+      "slug": "e1d7d4256d70bb6e",
+      "titulo": "Anvisa revoga suspensão parcial de produtos Ypê",
+      "resumo": "A Anvisa alterou a decisão de suspender produtos de limpeza da Ypê, permitindo a comercialização de determinados lotes de detergentes, sabões e desinfetantes. A liberação se baseou em laudos satisfatórios apresentados pela empresa para os lotes produzidos em 2026. A medida foi anunciada em diversas fontes, incluindo Veja, Olhar Digital, Poder360, CartaCapital e Metrópoles.",
+      "porQueImporta": "A decisão garante a continuidade do fornecimento de produtos de limpeza essenciais ao consumidor.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/saude/caso-ype-anvisa-atualiza-status-de-produtos-que-foram-suspensos-em-maio/"
+        },
+        {
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/06/22/medicina-e-saude/anvisa-muda-decisao-e-libera-produtos-da-ype-veja-o-que-volta-ao-mercado/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-saude/anvisa-revoga-parte-da-suspensao-de-produtos-da-ype-veja-lotes/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/cartaexpressa/anvisa-anuncia-novas-liberacoes-de-produtos-ype-veja-a-lista/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/anvisa-libera-parte-dos-lotes-suspensos-de-produtos-ype"
+        }
+      ],
+      "updatedAt": "2026-06-22T13:19:53.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/10/3010-vcrh-ype-site.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "90aebf291e1446ce",
+      "slug": "cf688addd594544d",
+      "titulo": "Abelardo de la Espriella vence segundo turno da eleição presidencial na Colômbia",
+      "resumo": "O advogado e empresário Abelardo de la Espriella, candidato de extrema direita, foi declarado vencedor na apuração preliminar do segundo turno, superando o senador Iván Cepeda por menos de 250 mil votos. A vitória foi anunciada com 99,99% das urnas apuradas, enquanto a contagem oficial ainda está em andamento. Cepeda e seu partido planejam contestar 33 mil mesas eleitorais, alegando irregularidades. De la Espriella, apoiado pelo presidente dos Estados Unidos, Donald Trump, afirmou buscar reconciliação após a vitória.",
+      "porQueImporta": "A eleição marca a ascensão de um candidato de direita ultraparlamentar na América Latina, alterando o equilíbrio político regional.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/quem-e-abelardo-de-la-espriella-o-novo-presidente-de-extrema-direita-da-colombia/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/22/eleicoes-na-colombia-candidato-de-petro-diz-que-pedira-recontagem-dos-votos.ghtml"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/mundo/abelardo-de-la-espriella-vence-cepeda-e-interrompe-ciclo-progressista-na-colombia/"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/crelvnyw532o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/apos-vitoria-em-eleicao-polarizada-espriella-diz-buscar-reconciliacao"
+        }
+      ],
+      "updatedAt": "2026-06-22T13:16:53.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/GettyImages-2260437740.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "d60428b9e97a9583",
+      "slug": "496b332e14745c04",
+      "titulo": "Argentina enfrenta Áustria na segunda rodada da Copa do Mundo 2026",
+      "resumo": "A Argentina, que venceu a Argélia por 3 a 0 na estreia, enfrenta a Áustria em Dallas às 14h na segunda rodada. Se vencer, a seleção pode garantir a liderança do grupo e a classificação para a fase de mata‑mata, dependendo do resultado da Jordânia contra a Argentina. O jogo ocorre no estádio do Dallas Cowboys, com capacidade para 70.649 espectadores.",
+      "porQueImporta": "O resultado determinará se a Argentina pode avançar sem depender de outros confrontos, influenciando a dinâmica do grupo.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/22/como-a-argentina-pode-garantir-a-lideranca-da-chave-ja-na-segunda-rodada-da-copa.ghtml"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/esporte/franca-e-argentina-podem-garantir-vaga-hoje-confira-os-jogos-da-copa/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/esporte/copa-do-mundo-hoje-argentina-encara-teste-duro-franca-e-favorita-e-senegal-joga-pela-sobrevivencia/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-argentina-x-austria-copa-do-mundo-22-06-22"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/22/argentina-enfrenta-austria-em-segundo-confronto-do-time-de-messi-na-copa-veja-jogos-do-dia.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-22T13:00:19.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/Gx7l7DWBTlaHDkOurXX8Q8p-kF4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Q/2/hTt4c5Q5KInVRPLe7kvw/2026-06-11t231711z-828641162-up1em6b1sol0h-rtrmadp-3-soccer-worldcup-arg.jpg"
+    },
+    {
+      "clusterId": "48a94922b09d9971",
+      "slug": "faf217a22aeace08",
+      "titulo": "Ex-presidente do Fed Alan Greenspan morre aos 100 anos",
+      "resumo": "Alan Greenspan, economista norte‑americano, faleceu em casa nos Estados Unidos, aos 100 anos, em decorrência de complicações da doença de Parkinson. Ele dirigiu o Federal Reserve de 1987 até 2006, completando cinco mandatos consecutivos sob quatro presidentes. Greenspan foi figura central na política econômica americana durante quase duas décadas.",
+      "porQueImporta": "Sua morte marca o fim de uma era de influência significativa na política monetária dos EUA.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-gente/ex-presidente-do-fed-alan-greenspan-morre-aos-100-anos/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/alan-greenspan-ex-presidente-do-fed-morre-aos-100-anos-nos-eua"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/alan-greenspan-econonomista-e-ex-chair-do-fed-morre-aos-100-anos-diz-tv/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/economia/noticia/2026/06/22/alan-greenspan-ex-presidente-do-federal-reserve.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-22T13:31:52.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/06/alan-greenspan.jpeg"
+    },
+    {
+      "clusterId": "1496b7373a9a377c",
+      "slug": "70d2f9703bb42db4",
+      "titulo": "O que acontece no Reino Unido após a renúncia de Keir Starmer; entenda próximos passos",
+      "resumo": "Primeiro-ministro do Reino Unido, Keir Starmer anuncia que vai renunciar O primeiro-ministro do Reino Unido, Keir Starmer, anunciou sua saída do cargo nesta segunda-feira (22) e abriu espaço para uma nova disputa pelo comando do parlamento britânico. Starmer afirmou que deve permanecer no posto até que o nome do sucessor seja definido. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O atual premiê afirmou que vai pedir ao comitê organizador do Partido Trabalhista, do qual ele é o atual líder, para iniciar o processo de sucessão. As inscrições para disputar o cargo deve ser abertas…",
+      "porQueImporta": "",
       "category": "mundo",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/22/cidadania-dos-eua-e-anti-establishment-quem-e-abelardo-de-la-espriella-presidente-eleito-em-apuracao-preliminar-na-colombia.ghtml"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/governo-trump-reconhece-vitoria-da-direita-na-colombia/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/eleicao-na-colombia-lideres-e-autoridades-parabenizam-de-la-espriella/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/flavio-bolsonaro-sobre-eleicao-na-colombia-direita-segue-triunfando"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cgl3nykn3d9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/entenda-como-funciona-apuracao-preliminar-dos-votos-na-colombia/"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/na-colombia-la-espriella-vence-eleicao/"
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/22/o-que-acontece-no-reino-unido-apos-a-renuncia-de-keir-starmer-entenda-proximos-passos.ghtml"
         },
         {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/apuracao-preliminar-na-colombia-da-vitoria-a-ultradireita-com-abelardo-de-la-espriella/"
+          "url": "https://www.cartacapital.com.br/mundo/starmer-o-politico-que-quis-transformar-o-reino-unido-e-perdeu-o-apoio-do-partido/"
         },
         {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/petro-questiona-apuracao-e-nao-reconhece-vitoria-de-de-la-espriella-na-colombia/"
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cwy055l0g29o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/keir-starmer-premie-do-reino-unido-renuncia-ao-cargo"
         }
       ],
-      "updatedAt": "2026-06-22T03:00:11.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/zBId-Mg3PW3fWt2mzrE8QS7-K9I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/1/4oNAU2SHGCWB7hc4yi9Q/2026-06-21t144324z-1091814064-rc2dyla300am-rtrmadp-3-colombia-election.jpg"
+      "updatedAt": "2026-06-22T12:56:27.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/gcxvHjB0glU9meiZJavDkYdle7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/4/v12lINTLmHdfYBYIcC8A/2026-06-22t100021z-1200556988-rc2xylapxb54-rtrmadp-3-britain-politics.jpg"
     },
     {
-      "clusterId": "c79a2ffaa1c4867b",
+      "clusterId": "065d3931364cd3ec",
       "slug": "62a9b25176c51c3f",
       "titulo": "Cabo Verde enfrenta Uruguai na segunda rodada do Grupo H da Copa do Mundo",
       "resumo": "A seleção de Cabo Verde, liderada pelo goleiro Vozinha, volta a campo em Miami neste domingo para enfrentar o Uruguai. O duelo marca o primeiro confronto direto entre as duas equipes na história da Copa. Vozinha, que se tornou sensação após defender todos os chutes da Espanha na estreia, tem destaque na imprensa e entre os torcedores. A partida está marcada para 19h (horário de Brasília).",
@@ -59,32 +199,12 @@
       "category": "esportes",
       "sources": [
         {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/21/tecnico-de-cabo-verde-elogia-capital-brasileira-e-celebra-um-pais-pequeno-pode-brigar-contra-grandes.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-os-gols-historicos-de-uruguai-2-x-2-cabo-verde-pela-copa-do-mundo/"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/copa-2026/copa-2026-melhores-momentos-de-uruguai-2-x-2-cabo-verde/"
-        },
-        {
           "name": "G1",
-          "url": "https://g1.globo.com/fantastico/noticia/2026/06/21/quem-e-vozinha-conheca-o-goleiro-de-cabo-verde-que-virou-fenomeno-na-copa.ghtml"
+          "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/06/22/apos-empatar-com-uruguai-cabo-verde-vive-clima-inedito-de-copa-do-mundo.ghtml"
         },
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/cabo-verde-marca-gols-busca-novo-empate-e-complica-uruguai-na-classificacao/"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/esportes/cabo-verde-resiste-uruguai-empate-copa-mundo/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/cabo-verde-marca-1o-gol-na-historia-da-copa-do-mundo-contra-uruguai"
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/22/presidente-da-fifa-encontra-mae-de-vozinha-em-jogo-de-cabo-verde-na-copa-momento-emocionante.ghtml"
         },
         {
           "name": "Canaltech",
@@ -95,124 +215,20 @@
           "url": "https://www.bbc.com/portuguese/articles/c0ly052wd42o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-06-22T01:43:53.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/mU81VHgqE30r0NGNKrHeueYIAIs=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/d/9/vN6mq2R6GOYalY2NnQmg/bubista.jpg"
+      "updatedAt": "2026-06-22T12:33:09.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/0RpuqQuGXF9eVuvJN5eoiBPJp_8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/K/AaxPjAQgqjsYDn37OZdg/cabo-verde-3.jpg"
     },
     {
-      "clusterId": "485db8450bf89bec",
-      "slug": "83ccf292212b0ccd",
-      "titulo": "Egito vence Nova Zelândia por 3 a 1 na segunda rodada da Copa do Mundo 2026",
-      "resumo": "A seleção egípcia venceu a Nova Zelândia por 3 a 1 em Vancouver, na segunda rodada do Grupo G. O gol da abertura foi marcado por Finn Surman, mas o Egito virou com gols de Mostafa Zico, Mohamed Salah e Rayan Trézéguet. O triunfo representa a primeira vitória do Egito em Copas do Mundo e coloca o país na liderança do grupo.",
-      "porQueImporta": "A vitória quebra o jejum histórico do Egito em Copas do Mundo e fortalece sua posição no Grupo G.",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/jogo/21-06-2026/nova-zelandia-egito.ghtml"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/copa-2026/copa-2026-melhores-momentos-de-nova-zelandia-1-x-3-egito/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/salah-e-zico-protagonizam-primeira-vitoria-do-egito-em-copas-do-mundo/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/copa-egito-vence-nova-zelandia-com-brilho-de-zico-e-salah"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/zico-e-trezeguet-egito-vence-nova-zelandia-com-gols-de-xaras-de-craques/"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/esportes/onde-assistir-nova-zelandia-egito/"
-        }
-      ],
-      "updatedAt": "2026-06-22T03:33:48.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2282689980.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "1417efefbf2a3d1a",
-      "slug": "ca4b744cf6b8d8f6",
-      "titulo": "Morte de Ramiro Valdés, ex-vice-presidente e comandante da Revolução Cubana",
-      "resumo": "Ramiro Valdés, que participou da Revolução Cubana ao lado de Fidel Castro e Che Guevara, morreu aos 94 anos. O presidente Miguel Díaz-Canel anunciou a morte nas redes sociais, descrevendo a perda como profunda. Valdés havia servido como vice‑presidente e ministro no governo cubano. A causa da morte não foi divulgada.",
-      "porQueImporta": "A morte de Valdés encerra a vida de um dos principais líderes da Revolução Cubana, marcando o fim de uma era histórica para o país.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/comandante-revolucao-de-cuba-ramiro-valdes-menendez-morre/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/morre-aos-94-anos-ramiro-valdes-um-dos-lideres-da-revolucao-cubana/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/morre-ramiro-valdes-aliado-de-fidel-na-revolucao-cubana-aos-94-anos"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/21/morre-ramiro-valdes-revolucionario-cuba.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/ramiro-valdes-comandante-da-revolucao-cubana-morre-aos-94-anos/"
-        }
-      ],
-      "updatedAt": "2026-06-21T22:58:50.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Ramiro-Valdes-Menendez.webp?fit=300%2C158&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "18dfbfe135e52f3a",
-      "slug": "994e89735226fd1c",
-      "titulo": "Kim Kataguiri desiste de pré-candidatura ao governo de São Paulo para disputar novo mandato na Câmara",
-      "resumo": "O deputado federal Kim Kataguiri abandonou a pré-candidatura ao governo de São Paulo, anunciada pelo partido Missão. Ele optou por concorrer a um novo mandato na Câmara dos Deputados. A decisão ocorreu após ter sido escolhido para liderar o Ministério da Reforma do Estado em uma eventual gestão de Renan Santos. A mudança reflete a estratégia política do partido e a busca por posições legislativas.",
-      "porQueImporta": "A decisão altera a composição de candidatos e pode influenciar a dinâmica política estadual e federal.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/paulo-serra-desiste-de-disputar-governo-de-sp/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/paulo-serra-desiste-de-disputar-o-governo-de-sao-paulo-e-anuncia-pre-candidatura-a-camara/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/cartaexpressa/depois-de-kataguiri-paulo-serra-psdb-tambem-desiste-de-concorrer-ao-governo-de-sao-paulo/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/paulo-serra-desiste-governo-sp"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/06/20/kim-kataguiri-desiste-de-concorrer-ao-governo-de-sp-para-ser-superministro-de-renan-santos.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-21T20:16:28.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/Serra.jpg"
-    },
-    {
-      "clusterId": "3b2a46aa09483c3a",
+      "clusterId": "e41f708f9d46370c",
       "slug": "22ec28c10bda4a1b",
       "titulo": "Arthur Henrique lidera eleição suplementar de Roraima, mas resultado está em sub judice",
       "resumo": "O ex-prefeito de Boa Vista, Arthur Henrique, recebeu 160.004 votos, correspondendo a 60,87% dos votos válidos na eleição suplementar de Roraima realizada em 21 de julho. Apesar de ser o candidato mais votado, sua candidatura ainda aguarda análise do Tribunal Superior Eleitoral e do Supremo Tribunal Federal, permanecendo em situação de sub judice. A decisão final determinará se ele assume o cargo de governador até janeiro de 2027.",
       "porQueImporta": "O resultado pode definir quem governará o estado até a próxima eleição, mas ainda depende de julgamento judicial.",
-      "category": "politica",
+      "category": "economia",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/rr/roraima/ao-vivo/roraimenses-escolhem-governador-e-vice-de-roraima-na-eleicao-suplementar-deste-domingo.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/sub-judice-arthur-henrique-e-mais-votado-em-rr-resultado-aguarda-justica/"
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/mesmo-com-impasse-no-tse-flavio-bolsonaro-comemora-vitoria-de-arthur-em-roraima/"
         },
         {
           "name": "CartaCapital",
@@ -223,655 +239,155 @@
           "url": "https://www.metropoles.com/brasil/eleicao-suplementar-roraima-arthur-henrique"
         }
       ],
-      "updatedAt": "2026-06-22T03:09:03.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/lwEc3KnySkXabHdSPVHTp8zT0Fk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/a/94vJNCQHGFftZ9Jdjzrg/arthur-henrique-vota.jpeg"
+      "updatedAt": "2026-06-22T13:24:29.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-27T200245Z_1_LYNXMPEM4Q21M_RTROPTP_4_BRAZIL-ELECTION-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "clusterId": "f5bbb21b1ed57907",
-      "slug": "e6bc4470b20df5bf",
-      "titulo": "França enfrenta Iraque na segunda rodada da Copa do Mundo",
-      "resumo": "O jogo entre França e Iraque está marcado para segunda-feira, 22, às 18h (horário de Brasília), no Lincoln Financial Field, Filadélfia, EUA. A partida faz parte da segunda rodada do Grupo I, que inclui Noruega e Senegal. O técnico do Iraque, Graham Arnold, brincou sobre escalar três goleiros diante do poder ofensivo francês, especialmente de Kylian Mbappé.",
-      "porQueImporta": "É a primeira partida do Iraque na Copa, marcando seu início na competição.",
+      "clusterId": "dc9ed04fbca1d52d",
+      "slug": "2488fbf7bffa7d59",
+      "titulo": "Sabrina Sato anuncia gravidez com Nicolas Prattes",
+      "resumo": "A apresentadora Sabrina Sato divulgou em 22 de fevereiro que está grávida de seu primeiro filho com o ator Nicolas Prattes, anunciando a notícia em vídeo nas redes sociais. O casal contou com a participação de Zoe, filha de Sabrina com Duda Nagle, que ajudou a revelar a novidade. Celebridades e fãs parabenizaram o casal nas redes sociais. O anúncio segue a sequência de duas perdas gestacionais que o casal enfrentou em 2024.",
+      "porQueImporta": "A notícia reflete a expectativa de um novo membro na família de Sabrina Sato e demonstra o apoio público ao casal.",
       "category": "geral",
       "sources": [
         {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/22/franca-x-iraque-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
-        },
-        {
           "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/o-plano-bem-humorado-do-tecnico-do-iraque-para-encarar-a-franca-tres-goleiros/"
+          "url": "https://veja.abril.com.br/coluna/veja-gente/sabrina-sato-esta-gravida-do-primeiro-filho-com-nicolas-prattes/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tecnico-do-iraque-sobre-duelo-contra-franca-queria-poder-jogar-com-3-gole/"
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/tati-machado-se-emociona-com-gravidez-de-sabrina-sato-coracao-vai-parar/"
         },
         {
-          "name": "Exame",
-          "url": "https://exame.com/esporte/tecnico-do-iraque-brinca-sobre-escalar-tres-goleiros-contra-a-franca/"
+          "name": "G1",
+          "url": "https://g1.globo.com/pop-arte/noticia/2026/06/22/sabrina-sato-e-nicolas-prattes-anunciam-gravidez-do-primeiro-filho-nosso-amor-floresceu.ghtml"
         }
       ],
-      "updatedAt": "2026-06-22T03:00:32.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/QuUZxNFSX3tlg02aQCfSbZ9Qeds=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/f/U/XI50NHRO26VPIURTHZyg/gettyimages-2282390259.jpg"
+      "updatedAt": "2026-06-22T13:03:21.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2024/08/prattes-sato.jpg?quality=70&strip=info"
     },
     {
-      "clusterId": "bf5e4cdc0eec4692",
-      "slug": "826911a6e56c2cc3",
-      "titulo": "\"Jogar 30 minutos com um a menos é muito difícil\", diz técnico da Bélgica após empate com Irã",
-      "resumo": "Bélgica 0 x 0 Irã | Melhores momentos | 2ª rodada | Copa do Mundo 2026 Na visão do técnico Rudi Garcia, a Bélgica criou chances suficientes para vencer o Irã com facilidade, mas faltou eficiência ao ataque no empate por 0 a 0 neste domingo, pela segunda rodada do Grupo G da Copa do Mundo. O treinador ainda justificou o resultado com a expulsão do zagueiro Ngoy, aos 21 minutos do segundo tempo: + Quem é o jogador da Bélgica que foi expulso após lance bizarro contra o Irã — Poderíamos ter vencido o Irã por três gols de diferença. Não fomos eficientes o suficiente. Tivemos muitas oportunidades.…",
-      "porQueImporta": "",
+      "clusterId": "2bd53f24e2a242ae",
+      "slug": "ebcd3cb7af837b07",
+      "titulo": "Espanha goleia Arábia Saudita 4 a 0 na Copa do Mundo 2026",
+      "resumo": "A seleção espanhola venceu a Arábia Saudita por 4 a 0 em Atlanta, na segunda rodada do Grupo H. O atacante Lamine Yamal marcou seu primeiro gol em Copas, igualando Pelé em idade ao abrir o placar, e Mikel Oyarzabal marcou dois gols e deu assistência. A vitória encerra a seca da Espanha em Copas e consolida a goleada histórica da equipe na competição. A Arábia Saudita sofreu sua quinta goleada em sete participações em Mundiais.",
+      "porQueImporta": "O resultado demonstra a recuperação da Espanha após a estreia e destaca a ascensão de jovens talentos como Yamal no cenário mundial.",
       "category": "esportes",
       "sources": [
         {
           "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/21/tecnico-do-ira-desabafa-apos-novo-empate-entramos-na-copa-nas-piores-condicoes-possiveis.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/belgica-x-ira-veja-os-melhores-momentos-do-jogo-da-copa-do-mundo/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/esporte/com-um-jogador-a-menos-belgica-fica-no-0-a-0-com-o-ira-pela-copa-do-mundo/"
+          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/22/conheca-rocafonda-inspiracao-de-lamine-yamal-na-comemoracao-304.ghtml"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/21/ira-podera-antecipar-sua-viagem-a-seattle-para-3o-jogo-na-copa-anuncia-tecnico.ghtml"
+          "url": "https://g1.globo.com/fantastico/noticia/2026/06/22/espanha-goleia-a-arabia-saudita-com-primeiro-gol-de-lamine-yamal-em-uma-copa-do-mundo-veja-os-resultados-dos-jogos-deste-domingo-21.ghtml"
+        },
+        {
+          "name": "Canaltech",
+          "url": "https://canaltech.com.br/entretenimento/espanha-x-arabia-saudita-que-horas-e-e-onde-assistir-ao-jogo-da-copa-2026/"
         }
       ],
-      "updatedAt": "2026-06-21T23:30:47.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/2FKg7VGiGeeg7n7tyrGwh5PeXS0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/t/p/lY4atxS7mS8B4EOvMpeQ/2026-06-14t232441z-1637025660-up1em6e1t13kg-rtrmadp-3-soccer-worldcup-irn-nzl-preview.jpg"
-    },
-    {
-      "clusterId": "92a6f3f5dd2e474e",
-      "slug": "766c5b3ea64af4a6",
-      "titulo": "EUA e Irã iniciam negociações na Suíça sobre paz e programa nuclear",
-      "resumo": "O vice-presidente dos Estados Unidos, JD Vance, e o chefe de negociações iraniano, Mohammed Ghalibaf, chegaram a Zurique para iniciar conversas de 60 dias sobre um acordo de paz definitivo. Os temas centrais incluem o fim da guerra no Líbano, a segurança do Estreito de Ormuz e o programa nuclear iraniano. A reunião marca a primeira discussão presencial desde o memorando de 14 pontos assinado em junho.",
-      "porQueImporta": "Essas negociações podem definir a estabilidade regional e o futuro do controle nuclear no Oriente Médio.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/delegacao-do-ira-deixa-o-local-de-negociacoes-apos-ameaca-de-trump/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/ira-deixa-local-de-negociacao-com-eua-apos-ameacas-de-trump"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/ira-abandona-negociacoes-com-os-eua-na-suica-apos-novas-ameacas-de-trump/"
-        }
-      ],
-      "updatedAt": "2026-06-21T20:43:33.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/Suica2.jpg"
-    },
-    {
-      "clusterId": "b7878af07dd2644e",
-      "slug": "e5d168dec1eb2677",
-      "titulo": "Trump prevê queda de Keir Starmer e critica políticas do Reino Unido",
-      "resumo": "O presidente dos Estados Unidos, Donald Trump, postou nas redes sociais que o primeiro‑ministro britânico Keir Starmer falhou em lidar com questões migratórias e de energia, e que, segundo ele, Starmer deixará o cargo. Em paralelo, a imprensa inglesa indica que Starmer tem dias contados como premiê, com sua posição enfraquecida após a eleição de um rival no Parlamento. Trump também pediu apoio da primeira‑ministra italiana Giorgia Meloni contra o Irã.",
-      "porQueImporta": "A declaração de Trump pode influenciar a percepção internacional sobre a estabilidade política do Reino Unido e a relação entre os EUA e a Europa.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/trump-diz-que-keir-starmer-vai-renunciar-apos-falhar-feio/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/21/trump-cobra-apoio-de-meloni-contra-o-ira-e-afirma-que-starmer-deixara-o-cargo-em-ataques-nas-redes.ghtml"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/starmer-esta-com-dias-contados-como-premie-diz-imprensa-inglesa/"
-        }
-      ],
-      "updatedAt": "2026-06-22T02:58:42.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/iZhtjcYcolQhA2agYBUaP0F5XC0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/l/aJJqiRQvAiDhyk5RKmJA/fotojet-18-.jpg"
+      "updatedAt": "2026-06-22T11:51:10.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/JeqxrRfK399V3p5SycMth-TqUtY=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2024/b/h/AiNWACTxCLOG6zAyPLeQ/design-sem-nome.png"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "18dfbfe135e52f3a",
-        "slug": "994e89735226fd1c",
-        "titulo": "Kim Kataguiri desiste de pré-candidatura ao governo de São Paulo para disputar novo mandato na Câmara",
-        "resumo": "O deputado federal Kim Kataguiri abandonou a pré-candidatura ao governo de São Paulo, anunciada pelo partido Missão. Ele optou por concorrer a um novo mandato na Câmara dos Deputados. A decisão ocorreu após ter sido escolhido para liderar o Ministério da Reforma do Estado em uma eventual gestão de Renan Santos. A mudança reflete a estratégia política do partido e a busca por posições legislativas.",
-        "porQueImporta": "A decisão altera a composição de candidatos e pode influenciar a dinâmica política estadual e federal.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/paulo-serra-desiste-de-disputar-governo-de-sp/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/paulo-serra-desiste-de-disputar-o-governo-de-sao-paulo-e-anuncia-pre-candidatura-a-camara/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/cartaexpressa/depois-de-kataguiri-paulo-serra-psdb-tambem-desiste-de-concorrer-ao-governo-de-sao-paulo/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/sao-paulo/paulo-serra-desiste-governo-sp"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/06/20/kim-kataguiri-desiste-de-concorrer-ao-governo-de-sp-para-ser-superministro-de-renan-santos.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-21T20:16:28.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/Serra.jpg"
-      },
-      {
-        "clusterId": "3b2a46aa09483c3a",
-        "slug": "22ec28c10bda4a1b",
-        "titulo": "Arthur Henrique lidera eleição suplementar de Roraima, mas resultado está em sub judice",
-        "resumo": "O ex-prefeito de Boa Vista, Arthur Henrique, recebeu 160.004 votos, correspondendo a 60,87% dos votos válidos na eleição suplementar de Roraima realizada em 21 de julho. Apesar de ser o candidato mais votado, sua candidatura ainda aguarda análise do Tribunal Superior Eleitoral e do Supremo Tribunal Federal, permanecendo em situação de sub judice. A decisão final determinará se ele assume o cargo de governador até janeiro de 2027.",
-        "porQueImporta": "O resultado pode definir quem governará o estado até a próxima eleição, mas ainda depende de julgamento judicial.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/rr/roraima/ao-vivo/roraimenses-escolhem-governador-e-vice-de-roraima-na-eleicao-suplementar-deste-domingo.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/sub-judice-arthur-henrique-e-mais-votado-em-rr-resultado-aguarda-justica/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/arthur-henrique-pl-e-o-mais-votado-em-roraima-mas-resultado-e-nulo-e-sub-judice/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/eleicao-suplementar-roraima-arthur-henrique"
-          }
-        ],
-        "updatedAt": "2026-06-22T03:09:03.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/lwEc3KnySkXabHdSPVHTp8zT0Fk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/a/94vJNCQHGFftZ9Jdjzrg/arthur-henrique-vota.jpeg"
-      },
-      {
-        "clusterId": "b7878af07dd2644e",
-        "slug": "e5d168dec1eb2677",
-        "titulo": "Trump prevê queda de Keir Starmer e critica políticas do Reino Unido",
-        "resumo": "O presidente dos Estados Unidos, Donald Trump, postou nas redes sociais que o primeiro‑ministro britânico Keir Starmer falhou em lidar com questões migratórias e de energia, e que, segundo ele, Starmer deixará o cargo. Em paralelo, a imprensa inglesa indica que Starmer tem dias contados como premiê, com sua posição enfraquecida após a eleição de um rival no Parlamento. Trump também pediu apoio da primeira‑ministra italiana Giorgia Meloni contra o Irã.",
-        "porQueImporta": "A declaração de Trump pode influenciar a percepção internacional sobre a estabilidade política do Reino Unido e a relação entre os EUA e a Europa.",
+        "clusterId": "d19f1c5735f5a0d7",
+        "slug": "1c89eff955427a10",
+        "titulo": "Andy Burnham anuncia candidatura para substituir Keir Starmer como primeiro-ministro",
+        "resumo": "Andy Burnham, ex-prefeito de Manchester e recém-eleito deputado, confirmou que vai se candidatar à liderança do Partido Trabalhista após a renúncia de Keir Starmer. O político, que já disputou a liderança do partido duas vezes, tem experiência de nove anos fora de Westminster. Burnham garantiu assento no Parlamento em 17 de março e agradeceu a Starmer pela liderança. Sua candidatura surge em meio à busca por um novo líder do Reino Unido.",
+        "porQueImporta": "A escolha de Burnham pode definir a direção política do país e influenciar questões internas e externas.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-internacional/trump-diz-que-keir-starmer-vai-renunciar-apos-falhar-feio/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/21/trump-cobra-apoio-de-meloni-contra-o-ira-e-afirma-que-starmer-deixara-o-cargo-em-ataques-nas-redes.ghtml"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/starmer-esta-com-dias-contados-como-premie-diz-imprensa-inglesa/"
-          }
-        ],
-        "updatedAt": "2026-06-22T02:58:42.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/iZhtjcYcolQhA2agYBUaP0F5XC0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/l/aJJqiRQvAiDhyk5RKmJA/fotojet-18-.jpg"
-      },
-      {
-        "clusterId": "66a6f909fc356bea",
-        "slug": "b6095111d5d2e806",
-        "titulo": "Europa enfrenta segunda onda de calor extremo",
-        "resumo": "Temperaturas próximas de 40°C foram registradas em grande parte da Europa, provocando alertas de calor e cancelamentos de trens. Na França, o número de departamentos em alerta máximo aumentou, colocando quase 35 milhões de pessoas sob vigilância laranja ou vermelha. A onda de calor coincide com o solstício de verão, o que aumenta as preocupações sobre condições climáticas extremas.",
-        "porQueImporta": "O aumento das temperaturas e os alertas de calor afetam a saúde pública, o transporte e a economia em escala continental.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/21/solsticio-de-verao-europa-enfrenta-onda-de-calor-intensa-com-temperaturas-proximas-de-40c-e-cancelamentos-de-trens.ghtml"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/franca-eleva-numero-de-departamentos-em-alerta-maximo-devido-a-onda-de-calor-intenso/"
-          }
-        ],
-        "updatedAt": "2026-06-21T21:16:57.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/DoaxDIkiXRAv-SGTl_EHD0PkOuw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/s/LHmvfTQLCwYktLgx4pBg/2026-06-20t165428z-1165399130-rc2rxlawr4xh-rtrmadp-3-europe-weather-france-heat.jpg"
-      },
-      {
-        "clusterId": "793d2da2724aef0f",
-        "slug": "0ec8888b5695357d",
-        "titulo": "Marcha da Maconha reúne milhares de pessoas em São Paulo",
-        "resumo": "A Marcha da Maconha ocorreu na Avenida Paulista, em frente ao MASP, em 21 de março, com manifestantes exigindo a legalização da cannabis e mudanças na política de drogas. O monitoramento da USP estimou que o pico da participação contou com 7,4 mil pessoas, com margem de erro de 12%, indicando entre 6,5 mil e 8,3 mil participantes. Os participantes exibiram roupas coloridas, bandeiras e cartazes em apoio à regulamentação da maconha.",
-        "porQueImporta": "O evento demonstra a mobilização popular em torno da reforma das políticas de drogas no Brasil.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/sociedade/marcha-da-maconha-reune-74-mil-pessoas-em-sao-paulo-diz-monitoramento-da-usp/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/21/marcha-da-maconha-reune-manifestantes-na-avenida-paulista-e-pede-mudancas-na-politica-de-guerra-as-drogas.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-21T20:55:11.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2023/09/pin9472-aa.jpg"
-      },
-      {
-        "clusterId": "e2446b3b0ba7afe5",
-        "slug": "1ccc4acd6f12d98f",
-        "titulo": "João Fonseca e Daniel Altmaier ficam com o vice de duplas no ATP 500 de Halle",
-        "resumo": "No torneio de duplas do ATP 500 de Halle, a dupla brasileira João Fonseca e o alemão Daniel Altmaier foi eliminada na final por Théo Arribagé e Albano Olivetti, com placar de 2 sets a 0. Fonseca buscava seu segundo título profissional de duplas, mas não conseguiu superar a equipe francesa. A partida foi decisiva para a classificação final do torneio.",
-        "porQueImporta": "A derrota impede que Fonseca conquiste seu segundo título profissional, afetando sua carreira e a representação brasileira no circuito de duplas.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/esporte/joao-fonseca-fica-com-o-vice-na-chave-de-duplas-do-atp-500-de-halle/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/joao-fonseca-vice-duplas-halle"
-          }
-        ],
-        "updatedAt": "2026-06-21T17:36:56.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/Fonseca.jpg"
-      },
-      {
-        "clusterId": "bc0825260b338b0a",
-        "slug": "9fb5c547311ccb25",
-        "titulo": "Cacique Raoni Metuktire apresenta boa evolução clínica após cirurgia de desobstrução intestinal",
-        "resumo": "O líder indígena Raoni Metuktire, de 94 anos, foi submetido a cirurgia de desobstrução intestinal no Hospital São Paulo, em São Paulo, no sábado (20). O procedimento foi realizado com técnica minimamente invasiva e sem complicações. Após a operação, ele permanece na Unidade de Terapia Intensiva (UTI), onde está afebril e respira sem apoio de aparelhos. Os médicos relatam evolução clínica estável e positiva.",
-        "porQueImporta": "A recuperação do cacique Raoni demonstra a eficácia de procedimentos minimamente invasivos em pacientes idosos e destaca a atenção médica dedicada a líderes indígenas.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/sociedade/apos-cirurgia-cacique-raoni-segue-com-boa-evolucao-clinica-em-uti/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/sao-paulo/cacique-raoni-cirurgia-segue-uti"
-          }
-        ],
-        "updatedAt": "2026-06-21T15:35:46.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2024/03/img_9308.jpg"
-      },
-      {
-        "clusterId": "2c0341df81ef699a",
-        "slug": "e8138e0b28d832dc",
-        "titulo": "Fãs holandeses cantam \"Magalenha\" nos EUA após vitória da Holanda sobre a Suécia",
-        "resumo": "Durante o jogo entre Holanda e Suécia, realizado nos Estados Unidos, os torcedores holandeses celebraram a vitória cantando a música \"Magalenha\". A canção, popular no Brasil, foi usada como forma de comemoração e demonstração de apoio à seleção. O evento atraiu atenção da mídia internacional e destacou a influência da cultura brasileira no cenário esportivo global.",
-        "porQueImporta": "Ilustra como a música brasileira pode unir torcedores internacionais e aumentar a visibilidade cultural no exterior.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/copa-2026/torcedores-holandeses-cantam-magalenha-nos-eua/"
-          }
-        ],
-        "updatedAt": "2026-06-22T03:33:18.000Z"
-      }
-    ],
-    "economia": [
-      {
-        "clusterId": "1417efefbf2a3d1a",
-        "slug": "ca4b744cf6b8d8f6",
-        "titulo": "Morte de Ramiro Valdés, ex-vice-presidente e comandante da Revolução Cubana",
-        "resumo": "Ramiro Valdés, que participou da Revolução Cubana ao lado de Fidel Castro e Che Guevara, morreu aos 94 anos. O presidente Miguel Díaz-Canel anunciou a morte nas redes sociais, descrevendo a perda como profunda. Valdés havia servido como vice‑presidente e ministro no governo cubano. A causa da morte não foi divulgada.",
-        "porQueImporta": "A morte de Valdés encerra a vida de um dos principais líderes da Revolução Cubana, marcando o fim de uma era histórica para o país.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/comandante-revolucao-de-cuba-ramiro-valdes-menendez-morre/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/morre-aos-94-anos-ramiro-valdes-um-dos-lideres-da-revolucao-cubana/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/morre-ramiro-valdes-aliado-de-fidel-na-revolucao-cubana-aos-94-anos"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/21/morre-ramiro-valdes-revolucionario-cuba.ghtml"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/ramiro-valdes-comandante-da-revolucao-cubana-morre-aos-94-anos/"
-          }
-        ],
-        "updatedAt": "2026-06-21T22:58:50.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Ramiro-Valdes-Menendez.webp?fit=300%2C158&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "90dce6c7a47834d2",
-        "slug": "ebcd3cb7af837b07",
-        "titulo": "Espanha goleia Arábia Saudita 4 a 0 na Copa do Mundo 2026",
-        "resumo": "A seleção espanhola venceu a Arábia Saudita por 4 a 0 em Atlanta, na segunda rodada do Grupo H. O atacante Lamine Yamal marcou seu primeiro gol em Copas, igualando Pelé em idade ao abrir o placar, e Mikel Oyarzabal marcou dois gols e deu assistência. A vitória encerra a seca da Espanha em Copas e consolida a goleada histórica da equipe na competição. A Arábia Saudita sofreu sua quinta goleada em sete participações em Mundiais.",
-        "porQueImporta": "O resultado demonstra a recuperação da Espanha após a estreia e destaca a ascensão de jovens talentos como Yamal no cenário mundial.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/21/lamine-yamal-comemora-a-vitoria-da-espanha-com-a-namorada-e-a-mae.ghtml"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/veja-quem-marcou-os-gols-da-goleada-da-espanha-sobre-a-arabia-saudita/"
-          },
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/entretenimento/espanha-x-arabia-saudita-que-horas-e-e-onde-assistir-ao-jogo-da-copa-2026/"
-          }
-        ],
-        "updatedAt": "2026-06-22T02:14:37.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/DSCOQHVUu4el5s64guk0Apw0nV8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/O/d/drP7NlQGWRjxoJbM0blQ/whatsapp-image-2026-06-21-at-23.02.24.jpeg"
-      },
-      {
-        "clusterId": "73e6f4136a27597e",
-        "slug": "8e0def6de6c01b66",
-        "titulo": "Petróleo sobe após tensão entre EUA e Irã por Ormuz",
-        "resumo": "O preço do Brent subiu para US$ 80,55 e o WTI para US$ 77,35 após novas ameaças de Trump de que o Irã pode suspender as negociações sobre o acordo de cessar-fogo. Os mercados futuros de ações nos EUA caíram, enquanto os preços do petróleo aumentaram mais de 1%. A tensão se concentra na passagem de petróleo pelo Estreito de Ormuz, crucial para o comércio global.",
-        "porQueImporta": "A instabilidade na região pode elevar os preços globais do petróleo e afetar os mercados financeiros.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/petroleo-sobe-apos-nova-tensao-entre-eua-e-ira-por-ormuz"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/eua-mercado-futuros-caem-petroleo-radar/"
-          }
-        ],
-        "updatedAt": "2026-06-22T00:41:44.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/05/ormuz-estreito-ira.jpg"
-      },
-      {
-        "clusterId": "711d4bc3b884b30d",
-        "slug": "0f145c2b29ab6d77",
-        "titulo": "Netanyahu descarta críticas de que Israel não teria atingido objetivos contra Irã",
-        "resumo": "Criar as condições para uma revolta popular foi um de seus objetivos iniciais, apontou o primeiro-ministro The post Netanyahu descarta críticas de que Israel não teria atingido objetivos contra Irã appeared first on InfoMoney.",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/netanyahu-descarta-criticas-israel-objetivos/"
-          }
-        ],
-        "updatedAt": "2026-06-22T00:40:25.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Benjamin-Netanyahu.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "b966a228b37a0573",
-        "slug": "fa3e1a9c286f0959",
-        "titulo": "Polônia minimiza tensões com Zelenski e chama conflito de erro",
-        "resumo": "O primeiro-ministro polonês, Donald Tusk, afirmou no X que o conflito entre políticos de Polônia e Ucrânia é um \"erro estratégico\" que causa perdas para ambos os lados. Ele descreveu a situação como um equívoco que deve ser resolvido. Tusk enfatizou que a disputa não representa um desafio maior para a região.",
-        "porQueImporta": "A declaração pode influenciar a percepção internacional sobre a estabilidade política entre Polônia e Ucrânia.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/premie-polonia-minimizar-tensoes-zelenski/"
-          }
-        ],
-        "updatedAt": "2026-06-21T23:11:30.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/11/2024-11-22T115528Z_1_LYNXMPEKAL0GX_RTROPTP_4_POLONIA-TUSK-CONFLITO-GLOBAL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "ec2216f9cf2a2352",
-        "slug": "53a07c6c7e19aa6d",
-        "titulo": "Yamal entra no Top 10 dos mais jovens a marcar gols em Copas",
-        "resumo": "O atacante Yamal, de 18 anos e 343 dias, marcou um gol aos 10 minutos do primeiro tempo contra a Arábia Saudita, superando o recorde de Lionel Messi. O feito o coloca entre os dez menores jogadores a marcar em Copas da FIFA. O gol foi registrado no Mundial de 2026, no qual o Brasil disputa a fase de grupos.",
-        "porQueImporta": "Ilustra a ascensão de um jovem talento no cenário internacional e destaca a continuidade da tradição brasileira em produzir jogadores de alto nível.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/esportes/yamal-supera-messi-e-entra-no-top-10/"
-          }
-        ],
-        "updatedAt": "2026-06-21T22:39:24.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/07/lamine-yamal-e1752586006509.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "92bc0a6176ccd198",
-        "slug": "c89c66cd9fe07e36",
-        "titulo": "Deputado Rollemberg solicita inquérito parlamentar sobre CPI do Master",
-        "resumo": "O deputado Rollemberg, membro da base do governo Lula, protocolou um requerimento solicitando um inquérito parlamentar sobre a CPI do Master. O pedido foi feito no início de fevereiro. A CPI do Master tem investigado supostas irregularidades no setor de telecomunicações. O requerimento visa esclarecer as denúncias e garantir a transparência do processo.",
-        "porQueImporta": "A medida pode influenciar a condução da investigação e a responsabilização de envolvidos.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/deputado-requerimento-cpi-master-inquerito-parlamentar/"
-          }
-        ],
-        "updatedAt": "2026-06-21T22:17:54.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/04/141533.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "c8dbbd9d53a7ef40",
-        "slug": "4eed3611f3b3d7eb",
-        "titulo": "Paquetá lamenta lesão de Raphinha e destaca impacto de Ancelotti em Vinícius",
-        "resumo": "O meia Paquetá afirmou que o elenco sente a ausência do atacante Raphinha, que está lesionado. Ele ressaltou a importância do jogador para o time. Paquetá também elogiou o trabalho de Ancelotti, que tem melhorado o desempenho de Vinícius Júnior.",
-        "porQueImporta": "A lesão de Raphinha pode afetar a ofensiva do time e a atuação de Vinícius Júnior é crucial para os resultados futuros.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/perdemos-um-jogador-muito-importante-diz-paqueta-sobre-lesao-de-raphinha/"
-          }
-        ],
-        "updatedAt": "2026-06-21T19:46:56.000Z"
-      }
-    ],
-    "mundo": [
-      {
-        "clusterId": "b5a4ca4b96a8e82f",
-        "slug": "ca2a9da06ce7343b",
-        "titulo": "Segundo turno das eleições presidenciais na Colômbia",
-        "resumo": "O segundo turno da eleição presidencial colombiana acontece neste domingo entre o candidato de ultradireita Abelardo de la Espriella, apoiado por Donald Trump, e o senador de esquerda Iván Cepeda, aliado de Gustavo Petro. A disputa reflete a polarização política do país e pode alterar o equilíbrio de poder na América Latina. As urnas abriram em todo o território, com expectativa de que o resultado consolide a tendência de governos de direita na região.",
-        "porQueImporta": "O vencedor determinará a direção política da Colômbia e pode influenciar a dinâmica política da América Latina.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/22/cidadania-dos-eua-e-anti-establishment-quem-e-abelardo-de-la-espriella-presidente-eleito-em-apuracao-preliminar-na-colombia.ghtml"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-internacional/governo-trump-reconhece-vitoria-da-direita-na-colombia/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/eleicao-na-colombia-lideres-e-autoridades-parabenizam-de-la-espriella/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/flavio-bolsonaro-sobre-eleicao-na-colombia-direita-segue-triunfando"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cgl3nykn3d9o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.poder360.com.br/poder-internacional/saiba-quem-e-andy-burnham-favorito-para-substituir-keir-starmer/"
           },
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/brasil/entenda-como-funciona-apuracao-preliminar-dos-votos-na-colombia/"
+            "url": "https://veja.abril.com.br/mundo/quem-e-o-rei-do-norte-favorito-para-substituir-starmer-como-primeiro-ministro-do-reino-unido/"
           },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/na-colombia-la-espriella-vence-eleicao/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/apuracao-preliminar-na-colombia-da-vitoria-a-ultradireita-com-abelardo-de-la-espriella/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/petro-questiona-apuracao-e-nao-reconhece-vitoria-de-de-la-espriella-na-colombia/"
-          }
-        ],
-        "updatedAt": "2026-06-22T03:00:11.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/zBId-Mg3PW3fWt2mzrE8QS7-K9I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/1/4oNAU2SHGCWB7hc4yi9Q/2026-06-21t144324z-1091814064-rc2dyla300am-rtrmadp-3-colombia-election.jpg"
-      },
-      {
-        "clusterId": "92a6f3f5dd2e474e",
-        "slug": "766c5b3ea64af4a6",
-        "titulo": "EUA e Irã iniciam negociações na Suíça sobre paz e programa nuclear",
-        "resumo": "O vice-presidente dos Estados Unidos, JD Vance, e o chefe de negociações iraniano, Mohammed Ghalibaf, chegaram a Zurique para iniciar conversas de 60 dias sobre um acordo de paz definitivo. Os temas centrais incluem o fim da guerra no Líbano, a segurança do Estreito de Ormuz e o programa nuclear iraniano. A reunião marca a primeira discussão presencial desde o memorando de 14 pontos assinado em junho.",
-        "porQueImporta": "Essas negociações podem definir a estabilidade regional e o futuro do controle nuclear no Oriente Médio.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/delegacao-do-ira-deixa-o-local-de-negociacoes-apos-ameaca-de-trump/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/ira-deixa-local-de-negociacao-com-eua-apos-ameacas-de-trump"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/ira-abandona-negociacoes-com-os-eua-na-suica-apos-novas-ameacas-de-trump/"
-          }
-        ],
-        "updatedAt": "2026-06-21T20:43:33.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/Suica2.jpg"
-      },
-      {
-        "clusterId": "ba3278440b31c02c",
-        "slug": "b02c19441a5ac304",
-        "titulo": "Trump critica popularidade de Meloni e acusa de implorar foto no G7",
-        "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou que a popularidade da primeira‑ministra italiana Giorgia Meloni está baixa e que isso motivou seu pedido de foto durante a cúpula do G7. Meloni negou ter implorado e descreveu os ataques de Trump como sem sentido, respondendo que ele deveria se concentrar em sua própria situação. A troca de farpas ocorreu nas redes sociais e em declarações públicas, refletindo tensões entre os dois líderes.",
-        "porQueImporta": "A disputa destaca divergências entre os EUA e a Itália sobre política externa e a percepção de apoio mútuo.",
-        "category": "mundo",
-        "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/falas-de-trump-sobre-meloni-sao-incompreensiveis-diz-chanceler-da-italia/"
+            "url": "https://www.cnnbrasil.com.br/internacional/conheca-andy-burnham-favorito-para-cargo-de-premie-do-reino-unido/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/mundo/andy-burnham-confirma-que-apresentara-candidatura-para-suceder-starmer/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/20/meloni-chama-ataques-de-trump-de-sem-sentido-e-provoca-popularidade-baixa.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/22/andy-burnham-o-mais-cotado-para-substituir-starmer-anuncia-que-vai-se-candidatar-ao-cargo-de-primeiro-ministro.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/mundo/quem-e-andy-burnham-favorito-para-assumir-o-governo-do-reino-unido/"
           }
         ],
-        "updatedAt": "2026-06-21T20:14:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/aU3Ax520s0maopi_29KO5RysU2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/1/tybRnITPixhndqbRqhvw/ap26167398045021.jpg"
+        "updatedAt": "2026-06-22T13:10:58.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2282182474.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "df00055fd30c32fa",
-        "slug": "e30bdd7f1bea5d1c",
-        "titulo": "Pênis como indicador de saúde e atenção redobrada a idosos no inverno",
-        "resumo": "A disfunção erétil pode sinalizar problemas graves como infarto, AVC, diabetes e demência, segundo pesquisadores, exigindo maior atenção de pacientes e médicos. No inverno, a queda de temperatura e o tempo seco aumentam a necessidade de vacinação, hidratação e vigilância a sinais de alerta em idosos.",
-        "porQueImporta": "Detectar sinais precoces pode prevenir doenças graves e melhorar a qualidade de vida dos idosos.",
-        "category": "mundo",
+        "clusterId": "d5cd3238abd4faf6",
+        "slug": "e1d7d4256d70bb6e",
+        "titulo": "Anvisa revoga suspensão parcial de produtos Ypê",
+        "resumo": "A Anvisa alterou a decisão de suspender produtos de limpeza da Ypê, permitindo a comercialização de determinados lotes de detergentes, sabões e desinfetantes. A liberação se baseou em laudos satisfatórios apresentados pela empresa para os lotes produzidos em 2026. A medida foi anunciada em diversas fontes, incluindo Veja, Olhar Digital, Poder360, CartaCapital e Metrópoles.",
+        "porQueImporta": "A decisão garante a continuidade do fornecimento de produtos de limpeza essenciais ao consumidor.",
+        "category": "politica",
         "sources": [
           {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cpv34ge1zr9o?at_medium=RSS&at_campaign=rss"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/saude/caso-ype-anvisa-atualiza-status-de-produtos-que-foram-suspensos-em-maio/"
+          },
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/06/22/medicina-e-saude/anvisa-muda-decisao-e-libera-produtos-da-ype-veja-o-que-volta-ao-mercado/"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-saude/anvisa-revoga-parte-da-suspensao-de-produtos-da-ype-veja-lotes/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/cartaexpressa/anvisa-anuncia-novas-liberacoes-de-produtos-ype-veja-a-lista/"
           },
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/saude/saude-idosos-inverno"
+            "url": "https://www.metropoles.com/brasil/anvisa-libera-parte-dos-lotes-suspensos-de-produtos-ype"
           }
         ],
-        "updatedAt": "2026-06-21T11:25:23.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e241/live/a25a1f10-6963-11f1-8e1d-bbbb1017d210.jpg"
+        "updatedAt": "2026-06-22T13:19:53.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/10/3010-vcrh-ype-site.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "904442ca36c6c70b",
-        "slug": "6add72e032857748",
-        "titulo": "Surto de ebola no leste da República Democrática do Congo causa mortes em orfanato e campo de deslocados",
-        "resumo": "O surto de ebola na região de Ituri, epicentro da maior epidemia do país, já contabiliza mais de 900 casos. Uma menina de 6 meses morreu no orfanato de Bunia e foi enterrada por freiras e profissionais de saúde. No campo de deslocados de Kigonze, mais de 30 pessoas morreram desde maio, com suspeita de casos não detectados. O vírus continua circulando em áreas de conflito e vulnerabilidade.",
-        "porQueImporta": "A persistência do ebola em zonas de conflito aumenta o risco de propagação e dificulta o controle da epidemia.",
-        "category": "mundo",
+        "clusterId": "1fe1f888a421432a",
+        "slug": "509646b911ea37d0",
+        "titulo": "Prazo de prisão domiciliar de Bolsonaro chega ao fim nesta quinta-feira",
+        "resumo": "O prazo de prisão domiciliar concedido a Jair Bolsonaro termina nesta quinta-feira, 25 de junho. A extensão do benefício depende do ministro Alexandre de Moraes, relator do caso no STF. Bolsonaro cumpre desde novembro de 2023 a pena de 27 anos e três meses por liderar uma organização criminosa que tentou um golpe de estado em 2022. A decisão sobre a prorrogação ainda não foi tomada.",
+        "porQueImporta": "A decisão sobre a continuidade da prisão domiciliar de Bolsonaro pode influenciar a dinâmica política e o debate sobre a aplicação da lei no país.",
+        "category": "politica",
         "sources": [
           {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/saude/ebola-e-hantavirus-por-que-nem-todo-surto-de-doenca-grave-vira-pandemia/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/prisao-domiciliar-de-bolsonaro-chega-ao-fim-nesta-quinta-feira-25-6"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/saude/noticia/2026/06/20/bebe-de-6-meses-e-enterrada-apos-morrer-de-ebola-em-orfanato-no-congo-surto-ja-soma-mais-de-900-casos.ghtml"
+            "url": "https://g1.globo.com/politica/noticia/2026/06/22/prazo-de-prisao-domiciliar-de-bolsonaro-termina-na-quinta-prorrogacao-depende-de-moraes.ghtml"
           }
         ],
-        "updatedAt": "2026-06-21T11:00:25.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/05/1805-ebola-layout_site.jpg?quality=70&strip=info"
+        "updatedAt": "2026-06-22T13:32:42.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/dSqGcX0lhtDfg3yia90R9WEAiZA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/X/Vd1CHkTri7ZmB1vZ2gfA/2026-03-27t133145z-578524049-rc20dka85mlg-rtrmadp-3-brazil-bolsonaro.jpg"
       },
       {
-        "clusterId": "cc36c64994085bdf",
-        "slug": "beb053ed56840a3b",
-        "titulo": "Irã fecha Estreito de Ormuz após ataques de Israel ao Líbano",
-        "resumo": "O Irã anunciou o fechamento do Estreito de Ormuz em resposta a novos ataques de Israel ao Líbano, alegando violação de acordos de cessar-fogo. Os Estados Unidos negam que o estreito tenha sido fechado e afirmam que não haverá cobrança de pedágio durante o período de cessar-fogo. O fechamento aumenta a tensão na região e precede uma nova rodada de negociações entre Washington e Teerã na Suíça.",
-        "porQueImporta": "O estreito é uma rota crítica para o transporte de petróleo, e seu fechamento pode impactar o comércio global e a estabilidade regional.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/20/trump-nao-havera-cobranca-de-pedagio-no-estreito-de-ormuz-a-menos-que-seja-imposto-pelos-eua.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/czxqwn510wvo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-06-20T19:25:54.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/5blq2EvBg2lJwx8oEfxFauBP01A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/e/llxXcuRMey0OSSVBARqw/2026-06-18t131217z-1189600078-rc2awlam27im-rtrmadp-3-iran-crisis-oman-hormuz.jpg"
-      },
-      {
-        "clusterId": "a3da6d515aa20bdd",
-        "slug": "f47050e245e3e5b1",
-        "titulo": "Calendário de jogos do torneio divulgado",
-        "resumo": "A organização do torneio publicou a tabela completa de partidas, incluindo datas, horários e locais. O documento também apresenta os resultados já obtidos e a classificação atual dos participantes. A divulgação permite aos torcedores acompanhar o andamento do campeonato e planejar suas visitas.",
-        "porQueImporta": "Informação essencial para fãs e participantes que desejam acompanhar o desenrolar do torneio.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c20yjrpxr35o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-06-21T22:15:27.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02bc/live/37515e30-6775-11f1-8e1d-bbbb1017d210.png"
-      },
-      {
-        "clusterId": "c8da00aabfde92c5",
-        "slug": "915770a49d006360",
-        "titulo": "Nome de síndrome que afeta mais de 170 milhões de mulheres é alterado",
-        "resumo": "A síndrome, que causa dor crônica e inflamação em órgãos internos, recebeu novo nome para refletir sua natureza multissistêmica. A mudança visa reduzir o estigma e aumentar o reconhecimento da condição. Profissionais de saúde e pacientes destacam a importância de um diagnóstico mais preciso. A nova denominação também pretende facilitar pesquisas e tratamentos mais eficazes.",
-        "porQueImporta": "A alteração de nome pode melhorar o diagnóstico e o tratamento de milhões de mulheres afetadas.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cz0jymx4z97o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-06-21T20:35:44.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f0a/live/29e47080-6c01-11f1-817c-d96159ef580f.jpg"
-      }
-    ],
-    "tecnologia": [
-      {
-        "clusterId": "1119a9e4e13013b2",
-        "slug": "12e44787bed20715",
-        "titulo": "Alerta extremo falso da Defesa Civil disparado por invasão",
-        "resumo": "Na madrugada de 19/20 de junho, a plataforma Defesa Civil Alerta enviou dez alertas extremos a celulares em sete estados, contendo a palavra \"misantropia\" e mensagens sem relação com risco real. O sistema foi retirado do ar às 1h30 e a Polícia Federal iniciou investigação preliminar por suspeita de ataque hacker. O Ministério da Integração e o Conselho Nacional de Direitos Humanos solicitaram apuração de discurso de ódio nas mensagens. A Anatel confirmou que os alertas não foram emitidos por autoridades.",
-        "porQueImporta": "O episódio demonstra vulnerabilidade de sistemas de emergência e potencial uso de alertas para propagação de discurso de ódio.",
-        "category": "tecnologia",
+        "clusterId": "ddb07c71699eaf52",
+        "slug": "cdc613ae73aebe25",
+        "titulo": "Alertas extremos falsos disparados pela Defesa Civil geram investigação",
+        "resumo": "Na madrugada de sábado, dez alertas extremos foram enviados por meio do sistema Defesa Civil Alerta, contendo a palavra “misantropia” e, em alguns casos, menção a “ataque alienígena”. O disparo não seguiu o padrão operacional do sistema e não havia risco real. A Polícia Federal e o Ministério Público abriram investigações preliminares, enquanto a Anatel confirmou que as mensagens não foram emitidas por autoridades oficiais.",
+        "porQueImporta": "O episódio destaca vulnerabilidades em sistemas de alerta público e a necessidade de monitoramento de segurança cibernética.",
+        "category": "politica",
         "sources": [
           {
             "name": "Metrópoles",
@@ -890,112 +406,605 @@
         "imageUrl": "https://images.metroimg.com/2026/06/brasileiros-recebem-alerta-sonoro-falso-no-celular-defesa-civil-nega-envio-celulares-curitiba-brasilia-palavra-misantropia-metropoles-13-scaled.jpg"
       },
       {
-        "clusterId": "c1d62e55aef0f828",
-        "slug": "607d2990592957bd",
-        "titulo": "Estudo identifica mais de 500 terremotos em região antártica improvável",
-        "resumo": "Pesquisadores detectaram 510 terremotos em uma área da Antártida onde a ocorrência desses eventos é considerada improvável. A análise utilizou dados sísmicos de longo período para mapear os focos. O estudo destaca a necessidade de reavaliar a compreensão dos processos tectônicos na região.",
-        "porQueImporta": "A descoberta pode alterar a percepção sobre a atividade sísmica na Antártida e suas implicações geológicas.",
-        "category": "tecnologia",
+        "clusterId": "60853cc3195a1615",
+        "slug": "24046873c63d6e83",
+        "titulo": "Prefeitos eleitos em eleições suplementares no interior de SP e MG",
+        "resumo": "Em Reginópolis, SP, João Paulo (PSD) foi eleito prefeito com diferença de 34 votos após a inelegibilidade do prefeito anterior, condenado por fraude à cota de gênero. Em Bonito, MG, Miqueias Figueredo (Republicanos) assumiu o cargo após a Justiça Eleitoral barrar a candidatura do vencedor do pleito de 2024. Ambas as eleições foram convocadas para substituir prefeitos que não puderam cumprir mandato.",
+        "porQueImporta": "Mostra a continuidade administrativa em municípios afetados por irregularidades eleitorais.",
+        "category": "politica",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/21/ciencia-e-espaco/estudo-encontra-mais-de-500-terremotos-em-uma-regiao-onde-eles-nao-deveriam-existir/"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes/prefeito-e-eleito-com-diferenca-de-34-votos-no-interior-de-sp/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/minas-gerais/miqueias-figueredo-republicanos-e-eleito-prefeito-de-bonito-de-minas"
           }
         ],
-        "updatedAt": "2026-06-21T23:20:29.000Z"
+        "updatedAt": "2026-06-22T13:13:41.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/prefeito-bonito-de-minas_3x2.jpg"
       },
       {
-        "clusterId": "e47d3988e794e2ef",
-        "slug": "071022d56b63ec09",
-        "titulo": "Xbox oferece promoções em jogos de ação, magia e super-heróis",
-        "resumo": "A Amazon disponibiliza descontos em três títulos do catálogo Xbox, incluindo Halo Infinite, um jogo de ação com temática de guerra e tecnologia avançada, e outros que combinam elementos de fantasia e super-heróis. Os jogos estão disponíveis para Xbox One e Xbox Series X, com bônus como um baralho exclusivo no caso de Halo Infinite. A oferta destaca a variedade de gêneros disponíveis na plataforma e incentiva a compra por preços atrativos.",
-        "porQueImporta": "Essas promoções tornam mais acessíveis títulos populares, incentivando a compra e o engajamento dos usuários da plataforma Xbox.",
-        "category": "tecnologia",
+        "clusterId": "d68ab437bab98908",
+        "slug": "9826d1640004eaea",
+        "titulo": "Horóscopo de 22 de junho de 2026",
+        "resumo": "A segunda‑feira de 22 de junho traz energia de encerramento e cura emocional, convidando os signos a reorganizar prioridades e reconhecer o que deve ser deixado para trás. O baralho cigano indica que decisões importantes ganharão clareza, enquanto o tarot destaca a necessidade de revisões e abertura para novas possibilidades. O dia pede responsabilidade, paciência e equilíbrio emocional para lidar com desafios e ajustar expectativas.",
+        "porQueImporta": "Essas previsões orientam os leitores a refletirem sobre suas escolhas e prepararem-se para mudanças internas.",
+        "category": "politica",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/21/reviews/halo-harry-potter-e-mais-jogos-de-xbox-em-promocao-que-valem-a-pena/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/astrologia/baralho-cigano-previsao-para-os-12-signos-de-22-a-28-de-junho-de-2026/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/vida-e-estilo/horoscopo/horoscopo-2026-confira-a-previsao-de-hoje-22-6-para-seu-signo"
           }
         ],
-        "updatedAt": "2026-06-21T22:26:00.000Z"
+        "updatedAt": "2026-06-22T13:02:23.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/1aries-20-1024x683.jpg"
       },
       {
-        "clusterId": "5e11271ae10cb4a6",
-        "slug": "d0a0c44bbe8e87dc",
-        "titulo": "Quatro universidades brasileiras aparecem no ranking global de universidades",
-        "resumo": "O ranking global de universidades incluiu quatro instituições brasileiras, mas todas registraram queda em relação à edição anterior. A Universidade de São Paulo (USP) permaneceu na primeira posição entre as brasileiras, seguida pela Universidade Estadual de Campinas (UNICAMP), Universidade Federal do Rio de Janeiro (UFRJ) e Universidade Federal de Minas Gerais (UFMG). A posição das universidades brasileiras no ranking global diminuiu, refletindo mudanças nas métricas de avaliação internacional.",
-        "porQueImporta": "O posicionamento das universidades brasileiras no ranking global indica a competitividade e a qualidade da pesquisa e ensino no país.",
-        "category": "tecnologia",
+        "clusterId": "4138ec9ce0fada9d",
+        "slug": "10609035e40a82b7",
+        "titulo": "Cantor Oliver Tree morre e corpo repatriado aos Estados Unidos",
+        "resumo": "O cantor Oliver Tree faleceu em 20 de junho de 2024. Seu corpo foi repatriado aos Estados Unidos, conforme anunciado pela equipe do artista nas redes sociais. Em comunicado posterior, a equipe revelou que o artista deixou uma herança para uma fundação que ele criou, conforme testamento.",
+        "porQueImporta": "A notícia destaca a morte de um artista internacional e a criação de uma fundação em seu legado.",
+        "category": "politica",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/21/pro/ranking-global-elege-melhor-universidade-brasileira-saiba-qual/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/cartaexpressa/corpo-do-cantor-oliver-tree-e-repatriado-aos-estados-unidos/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/celebridades/oliver-tree-deixa-heranca-para-fundacao-criada-por-ele-em-testamento"
           }
         ],
-        "updatedAt": "2026-06-21T22:20:26.000Z"
+        "updatedAt": "2026-06-22T10:42:06.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/oliver_tree_riodejaneiro.jpg"
       },
       {
-        "clusterId": "6d6b8ccfb9494810",
-        "slug": "b4024a449a2abf7b",
-        "titulo": "Jogos imperdíveis para PS5 incluem Marvel’s Wolverine e Spider-Man 2",
-        "resumo": "Para usuários do PlayStation 5, a Amazon destaca três títulos em destaque: Marvel’s Wolverine, Spider-Man 2 e um RPG de ação. Os jogos oferecem opções variadas, desde clássicos da Marvel até experiências de ação e aventura. Os preços são atrativos, tornando-os opções interessantes para quem busca ampliar a biblioteca. A seleção reflete tendências de lançamentos recentes e demanda dos consumidores.",
-        "porQueImporta": "Esses lançamentos representam oportunidades de compra e entretenimento para proprietários de PS5.",
-        "category": "tecnologia",
+        "clusterId": "5139b27bf9cecb6a",
+        "slug": "1507744fb739c2ff",
+        "titulo": "Papudinha pronta para receber Bolsonaro caso Moraes assine ordem",
+        "resumo": "O ministro do STF, relator da execução penal de Bolsonaro, pode decidir prorrogar ou revogar a ordem de prisão domiciliar. Caso a ordem seja assinada, o ex-presidente pode ser encaminhado ao presídio Papudinha. A decisão dependerá da avaliação do ministro sobre a necessidade de prisão preventiva.",
+        "porQueImporta": "A medida pode determinar o início da prisão de Bolsonaro, alterando o cenário político e jurídico do país.",
+        "category": "politica",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/21/reviews/marvels-wolverine-spider-man-2-e-mais-confira-jogos-imperdiveis-para-ps5/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/justica/papudinha-ja-esta-pronta-para-receber-bolsonaro-caso-moraes-assine-a-ordem/"
           }
         ],
-        "updatedAt": "2026-06-21T22:06:00.000Z"
+        "updatedAt": "2026-06-22T13:31:52.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/03/Jair.jpg"
+      }
+    ],
+    "economia": [
+      {
+        "clusterId": "e41f708f9d46370c",
+        "slug": "22ec28c10bda4a1b",
+        "titulo": "Arthur Henrique lidera eleição suplementar de Roraima, mas resultado está em sub judice",
+        "resumo": "O ex-prefeito de Boa Vista, Arthur Henrique, recebeu 160.004 votos, correspondendo a 60,87% dos votos válidos na eleição suplementar de Roraima realizada em 21 de julho. Apesar de ser o candidato mais votado, sua candidatura ainda aguarda análise do Tribunal Superior Eleitoral e do Supremo Tribunal Federal, permanecendo em situação de sub judice. A decisão final determinará se ele assume o cargo de governador até janeiro de 2027.",
+        "porQueImporta": "O resultado pode definir quem governará o estado até a próxima eleição, mas ainda depende de julgamento judicial.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/mesmo-com-impasse-no-tse-flavio-bolsonaro-comemora-vitoria-de-arthur-em-roraima/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/arthur-henrique-pl-e-o-mais-votado-em-roraima-mas-resultado-e-nulo-e-sub-judice/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/eleicao-suplementar-roraima-arthur-henrique"
+          }
+        ],
+        "updatedAt": "2026-06-22T13:24:29.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-27T200245Z_1_LYNXMPEM4Q21M_RTROPTP_4_BRAZIL-ELECTION-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "86929727197ee43a",
-        "slug": "3874e0c99a3af816",
-        "titulo": "Amazon oferece promoções em impressoras e soundbars",
-        "resumo": "A Amazon disponibiliza ofertas em três modelos de impressoras multifuncionais, incluindo opções com tanque de tinta para uso intenso, e em três soundbars de diferentes perfis e orçamentos. As promoções visam atender tanto usuários domésticos quanto profissionais que buscam melhorar a qualidade de impressão e áudio. Os itens selecionados apresentam variações de canais, subwoofers e capacidades de tanque, permitindo escolher conforme necessidade e orçamento.",
-        "porQueImporta": "Essas promoções permitem que consumidores atualizem equipamentos essenciais de forma econômica.",
-        "category": "tecnologia",
+        "clusterId": "9a254760cfa4d49a",
+        "slug": "ff575435b2188ca8",
+        "titulo": "Mercado eleva projeções de inflação e juros para 2026",
+        "resumo": "O Boletim Focus, divulgado pelo Banco Central, mostra que o mercado aumentou a previsão de inflação para 2026 em 5,33% e a taxa Selic para 14% ao ano, com apenas um corte adicional previsto em agosto. A expectativa de inflação também subiu, refletindo preocupações com a guerra no Oriente Médio. A projeção de crescimento econômico foi elevada. Essas mudanças seguem a décima quinta semana consecutiva de aumento nas estimativas.",
+        "porQueImporta": "Essas projeções influenciam decisões de política monetária e expectativas de investidores.",
+        "category": "economia",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/21/reviews/hora-de-economizar-impressoras-em-promocao/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/mercado-sobe-previsao-para-juros-e-ve-selic-em-14-no-fim-de-2026/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/focus-mercado-sobe-projecoes-para-inflacao-e-juros"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/06/22/mercado-sobe-de-novo-estimativa-de-inflacao-em-2026-e-passa-a-projetar-so-mais-um-corte-no-juro-para-14percent-ao-ano-em-agosto.ghtml"
           }
         ],
-        "updatedAt": "2026-06-21T21:26:00.000Z"
+        "updatedAt": "2026-06-22T11:50:14.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/03/fachada-banco-central-bc-brasilia-df-metropoles-scaled.jpg"
       },
       {
-        "clusterId": "a4b039ae39257bf5",
-        "slug": "10ba372d7fd35aa0",
-        "titulo": "Acidente com Tesla Autopilot resulta em morte de mulher nos EUA",
-        "resumo": "Um veículo Tesla em modo Autopilot perdeu o controle e invadiu uma casa, causando a morte de uma mulher. O motorista relatou que o sistema estava ativado no momento do acidente. O incidente ocorreu nos Estados Unidos e levantou questões sobre a segurança do piloto automático.",
-        "porQueImporta": "O caso destaca potenciais riscos associados ao uso de sistemas de piloto automático em veículos.",
-        "category": "tecnologia",
+        "clusterId": "abcac3088cb8de25",
+        "slug": "101e48f341856e92",
+        "titulo": "França enfrenta Iraque na segunda rodada da Copa do Mundo 2026",
+        "resumo": "O técnico francês, Didier Deschamps, alertou que o confronto com o Iraque não será fácil. O jogo ocorrerá na Filadélfia, às 18h, na segunda rodada do Grupo I. Modelos estatísticos indicam que a França tem maior probabilidade de vencer, mas o Iraque pode representar um desafio. A partida faz parte da fase de grupos da Copa do Mundo 2026.",
+        "porQueImporta": "O resultado determinará a posição das equipes no Grupo I e influenciará suas chances de avançar para a fase de eliminação.",
+        "category": "economia",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/21/carros-e-tecnologia/tesla-acidente-envolvendo-piloto-automatico-deixa-mulher-morta-nos-eua/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/deschamps-alerta-franca-antes-de-jogo-com-iraque-nao-sera-facil/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/esporte/franca-x-iraque-quem-vai-ganhar-o-jogo-na-copa-do-mundo/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/22/palpites-e-dicas-para-franca-x-iraque-pela-copa-do-mundo.ghtml"
           }
         ],
-        "updatedAt": "2026-06-21T21:12:31.000Z"
+        "updatedAt": "2026-06-22T11:30:32.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/H761FEmyhNbbBaw-MzorpseryEY=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/l/a/FSnMh0SPGpgacjg03XxQ/2026-06-16t211309z-664529547-up1em6g1mmgba-rtrmadp-3-soccer-worldcup-fra-sen.jpg"
       },
       {
-        "clusterId": "e896a1a631a74231",
-        "slug": "4d2a21c53d555366",
-        "titulo": "iPad e Galaxy Tab em promoção na Amazon",
-        "resumo": "A Amazon oferece descontos em dois modelos de tablet: o iPad (2025) Wi‑Fi de 128 GB com chip A16 e o Galaxy Tab com Android. A promoção visa atender usuários de ambos os ecossistemas, permitindo a troca por um aparelho mais moderno. Os preços e condições específicas não foram detalhados na fonte.",
-        "porQueImporta": "Oferece oportunidades de compra a preços reduzidos para consumidores que buscam atualizar seus dispositivos.",
+        "clusterId": "42f3d0424ff809a1",
+        "slug": "3ea484d3ea5c6120",
+        "titulo": "União Europeia propõe incentivar refino local de minerais críticos no Brasil",
+        "resumo": "A União Europeia apresentou uma proposta que visa diferenciar-se na disputa por terras raras brasileiras, focando no estímulo ao processamento local e na criação de empregos. O comissário Jozef Síkela afirmou que a proposta é mais vantajosa para o Brasil do que as de outros atores. A iniciativa busca garantir que o país não seja apenas exportador de matéria-prima, mas também participante da cadeia de valor. O centro de pesquisa e processamento de terras raras da mineradora australiana foi visitado pela UE como parte da negociação.",
+        "porQueImporta": "A proposta pode transformar o Brasil em um polo de produção de minerais críticos, aumentando sua competitividade e gerando empregos.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/economia/em-aposta-no-brasil-ue-se-diferencia-ao-estimular-refino-local-de-minerais-criticos/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/06/22/ue-diz-que-oferece-proposta-mais-vantajosa-ao-brasil-na-disputa-por-minerais-criticos.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-22T13:06:27.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-22T112635Z_1_LYNXMPEM5L0R5_RTROPTP_4_BRAZIL-EU-MINERALS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "e49341f9738c43d4",
+        "slug": "42527958f81464e6",
+        "titulo": "Feriado de São João garante folga em cinco capitais e altera horários de serviços",
+        "resumo": "O dia 24 de junho, dia de São João, não é feriado nacional, mas é ponto facultativo em pelo menos cinco capitais: Aracaju, João Pessoa, Maceió, Recife e Salvador. Em Petrolina e no Grande Recife, os horários de comércio, shoppings e serviços públicos são modificados, com fechamento geral do varejo e possibilidade de abertura mediante atenção às regras. O governo estadual e municipal transferiu o ponto facultativo de Corpus Christi para a véspera do São João, criando folga adicional. Trabalhadores dessas cidades têm direito à pausa, embora o feriado não seja reconhecido em todo o país.",
+        "porQueImporta": "A mudança de horário e a concessão de folga afetam a rotina de trabalhadores e consumidores nas regiões afetadas.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/06/22/sao-joao-em-petrolina-veja-o-que-abre-e-fecha-na-vespera-e-no-dia-do-feriado.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/vida-e-estilo/sao-joao-nao-e-feriado-nacional-mas-garante-folga-em-5-capitais"
+          }
+        ],
+        "updatedAt": "2026-06-22T12:57:24.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/g9ev9UbaGN7cJxnUdGxJLROQ__I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/e/qESXncRBqGBEBQBvTGTw/img-6339.jpg"
+      },
+      {
+        "clusterId": "ab12bbd4ab29ed47",
+        "slug": "5a09e2e8373306a1",
+        "titulo": "Ypê inicia recall voluntário de lava-roupas líquido",
+        "resumo": "A Ypê anunciou o recolhimento voluntário de novos lotes de lava-roupas líquido, conforme orientação da Anvisa. A medida abrange produtos fabricados até 31 de março de 2026. O recall faz parte de um plano aprovado pela agência reguladora.",
+        "porQueImporta": "Garantir a segurança dos consumidores e evitar riscos à saúde.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/ype-fara-recall-voluntario-de-novos-lotes-de-lava-roupas-liquido"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/ype-fara-recolhimento-voluntario-de-lava-roupas-veja-produtos-afetados/"
+          }
+        ],
+        "updatedAt": "2026-06-22T11:27:16.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/tixan-ype.jpg"
+      },
+      {
+        "clusterId": "f418501a60993090",
+        "slug": "942edcac664a8005",
+        "titulo": "Azzas anuncia operação na B3 que pode destravar valor da FarmRio",
+        "resumo": "A Azzas planeja listar ações da FarmRio na B3, sem indicar compradores específicos. A operação pretende liberar o valor da empresa, considerada valiosa por analistas. A listagem pode aumentar a liquidez e atrair investidores para o setor de agronegócios.",
+        "porQueImporta": "A listagem pode impulsionar o valor da FarmRio e ampliar oportunidades de investimento no agronegócio brasileiro.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/azzas-2154-azza3-como-a-farm-rio-pode-destravar-valor-para-as-acoes-da-varejista/"
+          }
+        ],
+        "updatedAt": "2026-06-22T13:23:09.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/07/FARM-INTERNACIONAL_VENICEFARM-INTERNACIONAL_VENICE_.jpeg?fit=225%2C300&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "3baeb1271fe0db68",
+        "slug": "b69f103e7de79829",
+        "titulo": "JPMorgan eleva Yduqs para compra e rebaixa Ânima com visão sobre juros",
+        "resumo": "O banco JPMorgan aumentou a recomendação de compra para as ações da Yduqs, refletindo um cenário mais desafiador para juros e a deterioração operacional da empresa. Ao mesmo tempo, a recomendação para a Ânima foi rebaixada, com foco na perspectiva de juros. O movimento impactou o preço das ações, com YDUQ3 subindo após a divulgação.",
+        "porQueImporta": "A mudança de recomendação pode influenciar decisões de investidores e afetar o valor das ações das empresas envolvidas.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/jpmorgan-eleva-yduqs-para-compra-e-rebaixa-anima-com-visao-sobre-juros-yduq3-salta-anim3-cai/"
+          }
+        ],
+        "updatedAt": "2026-06-22T13:20:24.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2019/06/concurso-publico-educacao-candidato-vestibular.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      }
+    ],
+    "mundo": [
+      {
+        "clusterId": "90aebf291e1446ce",
+        "slug": "cf688addd594544d",
+        "titulo": "Abelardo de la Espriella vence segundo turno da eleição presidencial na Colômbia",
+        "resumo": "O advogado e empresário Abelardo de la Espriella, candidato de extrema direita, foi declarado vencedor na apuração preliminar do segundo turno, superando o senador Iván Cepeda por menos de 250 mil votos. A vitória foi anunciada com 99,99% das urnas apuradas, enquanto a contagem oficial ainda está em andamento. Cepeda e seu partido planejam contestar 33 mil mesas eleitorais, alegando irregularidades. De la Espriella, apoiado pelo presidente dos Estados Unidos, Donald Trump, afirmou buscar reconciliação após a vitória.",
+        "porQueImporta": "A eleição marca a ascensão de um candidato de direita ultraparlamentar na América Latina, alterando o equilíbrio político regional.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/quem-e-abelardo-de-la-espriella-o-novo-presidente-de-extrema-direita-da-colombia/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/22/eleicoes-na-colombia-candidato-de-petro-diz-que-pedira-recontagem-dos-votos.ghtml"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/mundo/abelardo-de-la-espriella-vence-cepeda-e-interrompe-ciclo-progressista-na-colombia/"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/crelvnyw532o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/apos-vitoria-em-eleicao-polarizada-espriella-diz-buscar-reconciliacao"
+          }
+        ],
+        "updatedAt": "2026-06-22T13:16:53.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/GettyImages-2260437740.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "1496b7373a9a377c",
+        "slug": "70d2f9703bb42db4",
+        "titulo": "O que acontece no Reino Unido após a renúncia de Keir Starmer; entenda próximos passos",
+        "resumo": "Primeiro-ministro do Reino Unido, Keir Starmer anuncia que vai renunciar O primeiro-ministro do Reino Unido, Keir Starmer, anunciou sua saída do cargo nesta segunda-feira (22) e abriu espaço para uma nova disputa pelo comando do parlamento britânico. Starmer afirmou que deve permanecer no posto até que o nome do sucessor seja definido. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O atual premiê afirmou que vai pedir ao comitê organizador do Partido Trabalhista, do qual ele é o atual líder, para iniciar o processo de sucessão. As inscrições para disputar o cargo deve ser abertas…",
+        "porQueImporta": "",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/22/o-que-acontece-no-reino-unido-apos-a-renuncia-de-keir-starmer-entenda-proximos-passos.ghtml"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/mundo/starmer-o-politico-que-quis-transformar-o-reino-unido-e-perdeu-o-apoio-do-partido/"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cwy055l0g29o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/keir-starmer-premie-do-reino-unido-renuncia-ao-cargo"
+          }
+        ],
+        "updatedAt": "2026-06-22T12:56:27.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/gcxvHjB0glU9meiZJavDkYdle7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/4/v12lINTLmHdfYBYIcC8A/2026-06-22t100021z-1200556988-rc2xylapxb54-rtrmadp-3-britain-politics.jpg"
+      },
+      {
+        "clusterId": "f6d345519e56cc32",
+        "slug": "cf6dd1206b147bd0",
+        "titulo": "Relatório indica que mais de um terço do tempo em celulares é sem objetivo claro",
+        "resumo": "Um estudo da Virgin Media O2 mostra que, em média, 36% do tempo gasto em celulares não tem propósito definido. A pesquisa, conduzida por especialistas da Universidade de Cambridge, destaca que o uso sem objetivo não se deve apenas a escolhas imprudentes, mas a padrões de comportamento. O relatório sugere que o controle do tempo de tela requer estratégias conscientes.",
+        "porQueImporta": "Entender o uso sem objetivo ajuda a promover hábitos digitais mais saudáveis.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/saude/noticia/2026/06/22/o-primeiro-passo-para-controlar-seu-tempo-de-tela-e-se-manter-no-controle-segundo-especialistas.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c1e2edvjy91o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-06-22T12:50:19.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/X3sxdyqsLOhGo_-S64MzN-KLFX4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/i/NuK8AGQAyvC1HLiBnfsQ/segundo-um-novo-relatorio-as-pessoas-estimam-que-mais-de-um-terco-do-tempo-gasto-em-seus-celulares-ocorre-sem-um-objetivo-claro.jpeg"
+      },
+      {
+        "clusterId": "d57384a20e90258d",
+        "slug": "2f554f56d2bb6357",
+        "titulo": "Pênis pode indicar problemas de saúde em homens acima de 40 anos",
+        "resumo": "Estudos mostram que mais da metade dos homens com mais de 40 anos apresenta disfunção erétil, que pode ser um sinal precoce de infarto, AVC, diabetes e demência. O tema costuma ser tratado de forma leve, mas a condição deve ser levada a sério. Profissionais de saúde e pacientes precisam prestar mais atenção aos sinais de alerta do pênis.",
+        "porQueImporta": "Detectar a disfunção erétil pode permitir intervenção precoce em doenças graves.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/saude/noticia/2026/06/22/por-que-o-penis-e-um-termometro-da-saude-masculina-e-como-prestar-atencao-em-seus-sinais-de-alerta.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cpv34ge1zr9o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-06-22T12:43:57.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/3lWiJkBuw8I_DiOZ8TdAgv6SkGk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/t/EGdyLnRlmxrYrGIJgmgg/disfuncao-eretil.jpeg"
+      },
+      {
+        "clusterId": "b65fc0ddd080b85d",
+        "slug": "9da0a3c2703e1e76",
+        "titulo": "EUA e Irã iniciam negociações de paz na Suíça com foco em desescalada e programa nuclear",
+        "resumo": "Vice-presidente dos Estados Unidos compareceu à Suíça com delegação para negociar com autoridades iranianas. As discussões, mediadas pelo Paquistão e Catar, duraram 18 horas e resultaram em acordo preliminar para avançar em temas como a guerra no Líbano e o programa nuclear iraniano. Os EUA anunciaram que inspetores da ONU monitorarão o programa nuclear do Irã.",
+        "porQueImporta": "Acordo pode reduzir tensões regionais e avançar na desescalada de conflitos no Líbano.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/vice-dos-eua-inspetores-da-onu-vao-monitorar-programa-nuclear-do-ira"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/22/eua-e-ira-viram-a-noite-negociando-e-tem-grande-progresso-por-desescalada-no-libano-e-grupo-para-resolver-questao-nuclear.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-22T12:31:00.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/04/gettyimages-2270099333.jpg"
+      },
+      {
+        "clusterId": "80cfd77ffe2461d6",
+        "slug": "64662406661fa362",
+        "titulo": "Economia dos EUA supera rivais apesar de turbulência governamental",
+        "resumo": "A economia americana continua crescendo mais rápido que a de outros países, mesmo com instabilidade política e medidas controversas do governo Trump. Os EUA mantêm vantagem em setores como tecnologia, serviços e exportações, enquanto a inflação e a taxa de desemprego permanecem relativamente controladas. Esse desempenho superior reflete a resiliência das empresas americanas e a confiança dos investidores.",
+        "porQueImporta": "O desempenho econômico dos EUA influencia mercados globais e políticas comerciais internacionais.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/06/22/como-a-economia-dos-eua-continua-superando-seus-rivais-apesar-de-toda-turbulencia-do-governo-trump.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c0my9w0nlzdo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-06-22T12:21:43.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/2DoNqvSVdWqkJvqnhB4ZIrGhVNo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/0/nWtFliQ1iLlqhpMyYCCA/4877abc0-6599-11f1-99b8-5530f29d65f4.jpg.webp"
+      },
+      {
+        "clusterId": "ca5345828bc884ac",
+        "slug": "7da7f63ea235c07e",
+        "titulo": "Explosão em complexo de gás do Catar deixa 54 feridos e 18 desaparecidos",
+        "resumo": "Uma explosão seguida de incêndio ocorreu no complexo de gás de Barzan, na Cidade Industrial de Ras Laffan, no Catar, no dia 21 de junho de 2026. O acidente, atribuído a um incidente técnico, resultou em 54 feridos e 18 pessoas desaparecidas. O local é o maior polo de exportação de gás natural liquefeito do mundo. O Ministério do Interior e a QatarEnergy confirmaram os números e estão investigando as causas.",
+        "porQueImporta": "O incidente destaca a vulnerabilidade de instalações críticas de energia e pode afetar a produção global de gás natural liquefeito.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/explosao-em-usina-de-gas-no-catar"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/22/explosao-atinge-principal-complexo-de-gas-do-catar.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-22T10:44:40.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/explosao-de-gas-no-catar.jpg"
+      },
+      {
+        "clusterId": "f4624dd4280a22b7",
+        "slug": "ca8a182b82499f2b",
+        "titulo": "Islândia repensa defesa após mudanças na política internacional",
+        "resumo": "A Islândia, país sem exército permanente, tem dependido da OTAN e dos Estados Unidos para sua segurança. O retorno de Donald Trump à presidência dos EUA gerou incertezas sobre o compromisso americano. Em resposta, a nação está reavaliando suas estratégias de defesa. A mudança reflete a necessidade de adaptação a um cenário geopolítico em transformação.",
+        "porQueImporta": "A decisão pode alterar o equilíbrio de segurança no Atlântico Norte.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/22/o-pais-europeu-que-nunca-teve-exercito-e-agora-tem-que-reavaliar-sua-defesa.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c75y46y1x1qo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-06-22T07:00:16.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/MsEpy5gJTjq1tGxT5XneBCb7YvE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/I/ViqNqaTKOID5QbchYg8Q/c877d2a0-643b-11f1-a936-d75187a800c2.jpg.webp"
+      }
+    ],
+    "tecnologia": [
+      {
+        "clusterId": "32fb1ba7f42a955f",
+        "slug": "94cd627bab3077f0",
+        "titulo": "Clipes de Homem‑Aranha revelam vilão obscuro nas HQs",
+        "resumo": "O comercial do novo filme de Tom Holland apresenta o vilão Teioso enfrentando o ciborgue Ramrod, personagem que já apareceu nas histórias do Demolidor e do Homem‑Aranha. A cena, exibida na televisão, mostra Ramrod correndo em direção ao herói, sugerindo uma nova ameaça para o filme. O anúncio gerou curiosidade entre os fãs ao destacar a presença de um antagonista pouco conhecido.",
+        "porQueImporta": "Indica a introdução de novos personagens nos quadrinhos que podem influenciar a trama do próximo filme.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/entretenimento/clipe-de-homem-aranha-um-novo-dia-surpreende-com-presenca-de-vilao-obscuro/"
+          }
+        ],
+        "updatedAt": "2026-06-22T13:35:00.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/OVyvHjHcRq8f5Go_9f8Fzy3Zqwc=/700x394/smart/i1135447.png"
+      },
+      {
+        "clusterId": "0d30326d9f3d7c96",
+        "slug": "20aa8093681fe99e",
+        "titulo": "Como identificar se alguém bloqueou seu número no WhatsApp",
+        "resumo": "O WhatsApp não notifica quando um contato bloqueia seu número, mas é possível descobrir usando a verificação da criptografia de ponta a ponta de uma conversa. O truque consiste em observar se o código de segurança da conversa muda ou desaparece, indicando que o contato não está mais acessível. Essa técnica evita enviar mensagens que seriam rejeitadas.",
+        "porQueImporta": "Permite que usuários saibam quando perderam contato sem enviar mensagens indesejadas.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/apps/este-truque-ajuda-a-descobrir-quem-te-bloqueou-no-whatsapp/"
+          }
+        ],
+        "updatedAt": "2026-06-22T13:01:04.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/WF9Obp6pcClldVqR1sJSmrTySVE=/700x394/smart/i1113075.png"
+      },
+      {
+        "clusterId": "4d06a23c6de9b6ac",
+        "slug": "5f5efd9cda8b2d7f",
+        "titulo": "Brasil consolida maior ecossistema de Open Finance com 160 milhões de consentimentos ativos",
+        "resumo": "O Banco Central registrou 160 milhões de consentimentos ativos no primeiro trimestre de 2026, confirmando o Brasil como o maior ecossistema de Open Finance do mundo. A tecnologia financeira tem ampliado o acesso ao crédito, mas o endividamento das famílias permanece elevado. A expansão de serviços financeiros digitais oferece novas oportunidades de inclusão, enquanto desafios de dívida continuam.",
+        "porQueImporta": "A expansão do Open Finance pode melhorar o acesso ao crédito, mas o alto endividamento familiar indica que o impacto ainda é limitado.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/21/reviews/ipad-e-galaxy-tab-em-promocao-hora-de-renovar-o-seu-tablet/"
+            "url": "https://olhardigital.com.br/2026/06/22/pro/a-virada-silenciosa-como-a-tecnologia-financeira-redefine-o-acesso-ao-credito-no-brasil/"
           }
         ],
-        "updatedAt": "2026-06-21T21:06:00.000Z"
+        "updatedAt": "2026-06-22T12:58:00.000Z"
+      },
+      {
+        "clusterId": "ffc88aab8e8fe6ad",
+        "slug": "64d283ae7ee6a769",
+        "titulo": "Samsung oferece promoção em TVs Vision AI 2025",
+        "resumo": "A Samsung lançou promoções na Amazon para três modelos da linha Vision AI 2025, incluindo dois NEO QLED e um OLED, todos com resolução 4K e recursos de inteligência artificial integrados. Os consumidores podem adquirir os aparelhos com desconto, aproveitando a tecnologia avançada de imagem e som. A oferta destaca a aposta da marca em IA para melhorar a experiência de visualização em casa.",
+        "porQueImporta": "A promoção permite que os consumidores acessem tecnologia de ponta a preços reduzidos, impulsionando a adoção de TVs inteligentes.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/06/22/reviews/samsung-vision-ai-em-promocao-neo-qled-e-oled-4k-com-ia-para-renovar-sua-sala/"
+          }
+        ],
+        "updatedAt": "2026-06-22T12:54:00.000Z"
+      },
+      {
+        "clusterId": "4e4f807b78827fcd",
+        "slug": "b1ba300e6c2c8edb",
+        "titulo": "Modo multiplayer de The Last of Us Parte II cancelado, modder cria alternativa para PC",
+        "resumo": "O modo multiplayer do jogo The Last of Us Parte II foi cancelado pela Sony, mas um modder chamado Specilizer desenvolveu uma modificação semelhante que será lançada em setembro apenas para PC. A mod inclui mapas personalizados e cenários do jogo original, além de confrontos entre jogadores.",
+        "porQueImporta": "A iniciativa oferece aos fãs uma alternativa ao modo multiplayer cancelado, mantendo o interesse na comunidade de jogadores.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/games/modo-multiplayer-de-the-last-of-us-2-sai-do-papel-mas-so-no-pc/"
+          }
+        ],
+        "updatedAt": "2026-06-22T12:45:00.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/JbLciL1lMTEENx5OyqZZVPNn8J4=/700x394/smart/i390808.jpeg"
+      },
+      {
+        "clusterId": "7ab5e085605d71b0",
+        "slug": "2149b5f241b9585a",
+        "titulo": "Smart TVs 4K em promoção na Amazon",
+        "resumo": "A Amazon oferece descontos em Smart TVs 4K de marcas como Hisense, LG e Samsung, com tecnologias que variam de QLED a Crystal UHD. O site apresenta três modelos em oferta, permitindo ao consumidor escolher a opção que melhor atende às suas necessidades. As TVs destacam recursos como resolução 4K, conectividade inteligente e design moderno. O artigo orienta sobre as vantagens de aproveitar a promoção para renovar a sala de estar.",
+        "porQueImporta": "A oferta permite que consumidores atualizem suas TVs com tecnologia 4K a preços reduzidos.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/06/22/reviews/hora-de-renovar-a-sala-smart-tvs-4k-em-promocao-na-amazon-5/"
+          }
+        ],
+        "updatedAt": "2026-06-22T12:41:17.000Z"
+      },
+      {
+        "clusterId": "47c446fe940fdaaa",
+        "slug": "cf5ef4e9f59b8a8a",
+        "titulo": "Câmera de segurança Wi-Fi TP‑Link Tapo C320WS em oferta no Mercado Livre",
+        "resumo": "A TP‑Link Tapo C320WS, câmera Wi‑Fi de 2K, está em promoção no Mercado Livre. O modelo grava em alta resolução, oferece imagens coloridas e possui recursos de monitoramento remoto. A oferta inclui benefícios como preço reduzido e condições especiais de compra.",
+        "porQueImporta": "Permite que consumidores atualizem a segurança residencial com tecnologia avançada a um custo mais acessível.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/06/22/reviews/proteja-sua-casa-e-seus-bens-camera-de-seguranca-wi-fi-em-oferta-incrivel/"
+          }
+        ],
+        "updatedAt": "2026-06-22T12:38:00.000Z"
+      },
+      {
+        "clusterId": "36d7ab42bbc2735a",
+        "slug": "e51ea333c9526332",
+        "titulo": "Samsung libera ChatGPT Enterprise para funcionários",
+        "resumo": "A OpenAI firmou acordo com a Samsung Electronics para disponibilizar o ChatGPT Enterprise e o Codex na empresa. O acesso será oferecido a todos os colaboradores na Coreia do Sul e aos membros da divisão Device eXperience (DX) globalmente, que cuida de smartphones, redes móveis e eletrônicos de consumo. A iniciativa é considerada uma das maiores implantações corporativas do ChatGPT até o momento.",
+        "porQueImporta": "Demostra a crescente adoção de IA corporativa em grandes empresas globais.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/mercado/acordo-historico-faz-samsung-liberar-chatgpt-para-funcionarios/"
+          }
+        ],
+        "updatedAt": "2026-06-22T12:30:00.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/xd7PX63TXzmQbRAVRUtJt4QJkeQ=/700x394/smart/i1127081.jpeg"
       }
     ],
     "ciencia": [
+      {
+        "clusterId": "2ca10aec99177887",
+        "slug": "bc580382959d96f0",
+        "titulo": "Peixes não têm pelos devido a diferenças evolutivas",
+        "resumo": "Os peixes não possuem pelos porque suas evoluções divergiram, resultando em diferentes adaptações como escamas ou ausência de pelagem. Enquanto mamíferos aquáticos como golfinhos e focas desenvolveram pelos, peixes mantêm escamas ou pele lisa. Essa diferença reflete adaptações ao ambiente aquático e à necessidade de proteção e locomoção.",
+        "porQueImporta": "Entender as adaptações evolutivas ajuda a compreender a diversidade biológica e os mecanismos de adaptação ao meio ambiente.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/ciencia/por-que-os-peixes-nao-tem-pelos/"
+          }
+        ],
+        "updatedAt": "2026-06-22T13:00:33.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2022/05/Novas-especies-de-peixes-sao-descobertas-na-Amazonia-–-mas-estao-a-beira-da-extincao.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "0bef2a0bae4f9840",
+        "slug": "ac23cc55dcf88d4e",
+        "titulo": "Jogador expulso após três cartões amarelos na Copa",
+        "resumo": "Durante a Copa, um jogador recebeu três cartões amarelos, condição que resultou em sua expulsão. O árbitro confundiu o atleta devido ao sotaque, levando ao erro. A expulsão ocorreu após a terceira advertência, conforme regras do torneio.",
+        "porQueImporta": "Ilustra como falhas de comunicação podem afetar decisões em competições internacionais.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/mundo-estranho/maluquice-na-copa-a-unica-vez-em-que-um-jogador-precisou-de-tres-cartoes-amarelos-para-ser-expulso/"
+          }
+        ],
+        "updatedAt": "2026-06-22T11:12:08.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/06/1906-maluquice-copa-layout_site.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "65d1a2af17e0a920",
+        "slug": "8040194ae85932ec",
+        "titulo": "USP implementa solução inovadora para destravar importações científicas",
+        "resumo": "A Universidade de São Paulo (USP) lançou uma nova solução para facilitar a importação de equipamentos e materiais de pesquisa. A iniciativa envolve a coordenação entre os departamentos de Administração e Convênios da USP, com foco em acelerar processos burocráticos e reduzir atrasos. A medida visa atender às demandas de laboratórios e centros de pesquisa que dependem de equipamentos importados para avançar em projetos científicos.",
+        "porQueImporta": "A medida pode acelerar a pesquisa científica e melhorar a competitividade da USP no cenário internacional.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/artigos/usp-implementa-solucao-inovadora-para-destravar-importacoes-cientificas/"
+          }
+        ],
+        "updatedAt": "2026-06-22T10:00:16.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260619_articulistasnovo-1024x538.jpg"
+      },
       {
         "clusterId": "69537e5d848c0f3d",
         "slug": "66c6a8698980acb7",
@@ -1075,44 +1084,12 @@
         ],
         "updatedAt": "2026-06-20T21:00:39.000Z",
         "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/06/1806-orangotangos-layout_site.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "cc3682ea95e990e1",
-        "slug": "b0302f45282a9448",
-        "titulo": "Esqueletos humanos decapitados encontrados em sítio arqueológico Neolítico na Eslováquia",
-        "resumo": "Arqueólogos descobriram 77 esqueletos humanos sem cabeça em valas de um sítio arqueológico de 7.000 anos na Eslováquia. Os restos foram encontrados em posições que sugerem que a decapitação pode ter sido parte de rituais ou práticas de extermínio. A descoberta levanta questões sobre as crenças e práticas sociais da comunidade Neolítica. Ainda não se sabe ao certo o motivo das decapitações, mas a análise continua.",
-        "porQueImporta": "A descoberta oferece insights sobre práticas rituais e sociais de sociedades Neolíticas.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/historia/dezenas-de-esqueletos-humanos-decapitados-sao-descobertos-em-sitio-arqueologico-neolitico/"
-          }
-        ],
-        "updatedAt": "2026-06-20T19:00:22.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/06/1706-esqueletos-layout_site-CAPA.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "2fe68ea8624dc70f",
-        "slug": "063a0f275fac56db",
-        "titulo": "Desequilíbrio energético da Terra dobrou nas últimas décadas e alimenta extremos climáticos",
-        "resumo": "A diferença entre a energia que entra e sai da Terra aumentou significativamente nas últimas décadas, dobrando em magnitude. Esse aumento está ocorrendo mais rapidamente do que os modelos anteriores previam. O desequilíbrio contribui para a intensificação de eventos climáticos extremos, como ondas de calor e tempestades intensas. Estudos indicam que a aceleração desse processo pode agravar os impactos climáticos futuros.",
-        "porQueImporta": "Um maior desequilíbrio energético intensifica eventos climáticos extremos, afetando ecossistemas, infraestrutura e comunidades.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/ciencia/desequilibrio-energetico-da-terra-dobrou-nas-ultimas-decadas-e-alimenta-extremos-climaticos/"
-          }
-        ],
-        "updatedAt": "2026-06-20T11:00:46.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/06/1605-desequilibrio-energetico-layout_site.jpg?quality=70&strip=info"
       }
     ],
     "saude": [],
     "esportes": [
       {
-        "clusterId": "c79a2ffaa1c4867b",
+        "clusterId": "065d3931364cd3ec",
         "slug": "62a9b25176c51c3f",
         "titulo": "Cabo Verde enfrenta Uruguai na segunda rodada do Grupo H da Copa do Mundo",
         "resumo": "A seleção de Cabo Verde, liderada pelo goleiro Vozinha, volta a campo em Miami neste domingo para enfrentar o Uruguai. O duelo marca o primeiro confronto direto entre as duas equipes na história da Copa. Vozinha, que se tornou sensação após defender todos os chutes da Espanha na estreia, tem destaque na imprensa e entre os torcedores. A partida está marcada para 19h (horário de Brasília).",
@@ -1120,32 +1097,12 @@
         "category": "esportes",
         "sources": [
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/21/tecnico-de-cabo-verde-elogia-capital-brasileira-e-celebra-um-pais-pequeno-pode-brigar-contra-grandes.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-os-gols-historicos-de-uruguai-2-x-2-cabo-verde-pela-copa-do-mundo/"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/copa-2026/copa-2026-melhores-momentos-de-uruguai-2-x-2-cabo-verde/"
-          },
-          {
             "name": "G1",
-            "url": "https://g1.globo.com/fantastico/noticia/2026/06/21/quem-e-vozinha-conheca-o-goleiro-de-cabo-verde-que-virou-fenomeno-na-copa.ghtml"
+            "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/06/22/apos-empatar-com-uruguai-cabo-verde-vive-clima-inedito-de-copa-do-mundo.ghtml"
           },
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/cabo-verde-marca-gols-busca-novo-empate-e-complica-uruguai-na-classificacao/"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/esportes/cabo-verde-resiste-uruguai-empate-copa-mundo/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/cabo-verde-marca-1o-gol-na-historia-da-copa-do-mundo-contra-uruguai"
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/22/presidente-da-fifa-encontra-mae-de-vozinha-em-jogo-de-cabo-verde-na-copa-momento-emocionante.ghtml"
           },
           {
             "name": "Canaltech",
@@ -1156,174 +1113,199 @@
             "url": "https://www.bbc.com/portuguese/articles/c0ly052wd42o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-06-22T01:43:53.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/mU81VHgqE30r0NGNKrHeueYIAIs=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/d/9/vN6mq2R6GOYalY2NnQmg/bubista.jpg"
+        "updatedAt": "2026-06-22T12:33:09.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/0RpuqQuGXF9eVuvJN5eoiBPJp_8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/K/AaxPjAQgqjsYDn37OZdg/cabo-verde-3.jpg"
       },
       {
-        "clusterId": "485db8450bf89bec",
-        "slug": "83ccf292212b0ccd",
-        "titulo": "Egito vence Nova Zelândia por 3 a 1 na segunda rodada da Copa do Mundo 2026",
-        "resumo": "A seleção egípcia venceu a Nova Zelândia por 3 a 1 em Vancouver, na segunda rodada do Grupo G. O gol da abertura foi marcado por Finn Surman, mas o Egito virou com gols de Mostafa Zico, Mohamed Salah e Rayan Trézéguet. O triunfo representa a primeira vitória do Egito em Copas do Mundo e coloca o país na liderança do grupo.",
-        "porQueImporta": "A vitória quebra o jejum histórico do Egito em Copas do Mundo e fortalece sua posição no Grupo G.",
+        "clusterId": "2bd53f24e2a242ae",
+        "slug": "ebcd3cb7af837b07",
+        "titulo": "Espanha goleia Arábia Saudita 4 a 0 na Copa do Mundo 2026",
+        "resumo": "A seleção espanhola venceu a Arábia Saudita por 4 a 0 em Atlanta, na segunda rodada do Grupo H. O atacante Lamine Yamal marcou seu primeiro gol em Copas, igualando Pelé em idade ao abrir o placar, e Mikel Oyarzabal marcou dois gols e deu assistência. A vitória encerra a seca da Espanha em Copas e consolida a goleada histórica da equipe na competição. A Arábia Saudita sofreu sua quinta goleada em sete participações em Mundiais.",
+        "porQueImporta": "O resultado demonstra a recuperação da Espanha após a estreia e destaca a ascensão de jovens talentos como Yamal no cenário mundial.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/jogo/21-06-2026/nova-zelandia-egito.ghtml"
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/22/conheca-rocafonda-inspiracao-de-lamine-yamal-na-comemoracao-304.ghtml"
           },
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/copa-2026/copa-2026-melhores-momentos-de-nova-zelandia-1-x-3-egito/"
+            "name": "G1",
+            "url": "https://g1.globo.com/fantastico/noticia/2026/06/22/espanha-goleia-a-arabia-saudita-com-primeiro-gol-de-lamine-yamal-em-uma-copa-do-mundo-veja-os-resultados-dos-jogos-deste-domingo-21.ghtml"
           },
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/salah-e-zico-protagonizam-primeira-vitoria-do-egito-em-copas-do-mundo/"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/entretenimento/espanha-x-arabia-saudita-que-horas-e-e-onde-assistir-ao-jogo-da-copa-2026/"
+          }
+        ],
+        "updatedAt": "2026-06-22T11:51:10.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/JeqxrRfK399V3p5SycMth-TqUtY=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2024/b/h/AiNWACTxCLOG6zAyPLeQ/design-sem-nome.png"
+      },
+      {
+        "clusterId": "de2c474a0268bb9b",
+        "slug": "5ebebeca9d533bff",
+        "titulo": "Noruega enfrenta Senegal na segunda rodada da Copa do Mundo 2026",
+        "resumo": "A Noruega, liderada por Erling Haaland e Martin Odegaard, goleou o Iraque 4 a 1 na estreia e busca garantir classificação antecipada. O técnico senegalês Pape Thiaw optou por não montar um plano específico contra Haaland, focando na estratégia coletiva contra toda a equipe. O confronto está marcado para segunda-feira, 21h, em Nova Jersey.",
+        "porQueImporta": "O resultado determinará a posição de cada equipe no Grupo I e influenciará a trajetória rumo aos mata‑mata.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/22/fabrica-de-craques-a-escola-que-formou-haaland-e-odegaard-e-ajudou-noruega-a-voltar-a-copa.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/esporte/noruega-x-senegal-quem-vai-ganhar-o-jogo-na-copa-do-mundo/"
+          }
+        ],
+        "updatedAt": "2026-06-22T13:00:17.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/O0TQtPyL9Mh-Q4IoV2SoHrHI8n0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/k/h/twBtiMS2uvQlZyEbAZyQ/gettyimages-2281953812.jpg"
+      },
+      {
+        "clusterId": "8e12f88bb8bfeb75",
+        "slug": "6694a56ea64d9863",
+        "titulo": "Zico do Egito marca gol e ajuda na vitória histórica sobre a Nova Zelândia",
+        "resumo": "O atacante Mostafa Zico marcou um gol de cabeça aos 13 minutos do segundo tempo, contribuindo para a virada do Egito de 1 a 0 para 3 a 1 contra a Nova Zelândia. Ele também deu assistência para um dos gols da equipe. A partida foi a primeira vitória do Egito em Copas do Mundo. Zico foi chamado de última hora pelo técnico Hossam Hassan e se destacou no jogo.",
+        "porQueImporta": "A atuação de Zico demonstra a importância de jogadores emergentes em momentos decisivos de grandes torneios.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/22/primeiro-de-muitos-zico-do-egito-agora-sonha-igualar-numero-de-gols-do-xara-em-copas-do-mundo.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/zico-do-egito-aproveita-sua-chance-na-copa-do-mundo-apos-adiar-as-ferias/"
+          }
+        ],
+        "updatedAt": "2026-06-22T13:00:10.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/Je-It9dx_QoFBFLV3gf6tWUkIJY=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/g/x/zE7R1TSPe1RCW21kIS3A/2026-06-22t030742z-975333277-up1em6m07dyuy-rtrmadp-3-soccer-worldcup-nzl-egy.jpg"
+      },
+      {
+        "clusterId": "fd98372498a00c47",
+        "slug": "26dd5ecaf86846e0",
+        "titulo": "Egito vence Nova Zelândia e lidera Grupo G da Copa do Mundo 2026",
+        "resumo": "O Egito venceu a Nova Zelândia por 3 a 1 em Vancouver, marcando sua primeira vitória em Copas do Mundo. Mo Salah marcou e assistiu ao gol de Trézéguet, enquanto Zico abriu o placar. A vitória coloca o Egito na liderança do Grupo G com quatro pontos, mantendo todas as equipes ainda na disputa de classificação.",
+        "porQueImporta": "A conquista histórica abre caminho para o Egito avançar na fase de grupos e reforça a competitividade da seleção africana no torneio.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/22/grupo-g-da-copa-egito-belgica-ira-e-nova-zelandia-seguem-com-chances-de-classificacao.ghtml"
           },
           {
             "name": "Metrópoles",
             "url": "https://www.metropoles.com/esportes/copa-egito-vence-nova-zelandia-com-brilho-de-zico-e-salah"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/zico-e-trezeguet-egito-vence-nova-zelandia-com-gols-de-xaras-de-craques/"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/esportes/onde-assistir-nova-zelandia-egito/"
           }
         ],
-        "updatedAt": "2026-06-22T03:33:48.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2282689980.jpg?quality=70&strip=info"
+        "updatedAt": "2026-06-22T13:00:09.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/jFCwjfvV8l7j2ncTTI2K0Fh07-U=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/2/9/XzFgKjTGeZve0sGKVjQg/2026-06-22t022006z-476009934-up1em6m06hhst-rtrmadp-3-soccer-worldcup-nzl-egy.jpg"
       },
       {
-        "clusterId": "bf5e4cdc0eec4692",
-        "slug": "826911a6e56c2cc3",
-        "titulo": "\"Jogar 30 minutos com um a menos é muito difícil\", diz técnico da Bélgica após empate com Irã",
-        "resumo": "Bélgica 0 x 0 Irã | Melhores momentos | 2ª rodada | Copa do Mundo 2026 Na visão do técnico Rudi Garcia, a Bélgica criou chances suficientes para vencer o Irã com facilidade, mas faltou eficiência ao ataque no empate por 0 a 0 neste domingo, pela segunda rodada do Grupo G da Copa do Mundo. O treinador ainda justificou o resultado com a expulsão do zagueiro Ngoy, aos 21 minutos do segundo tempo: + Quem é o jogador da Bélgica que foi expulso após lance bizarro contra o Irã — Poderíamos ter vencido o Irã por três gols de diferença. Não fomos eficientes o suficiente. Tivemos muitas oportunidades.…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/21/tecnico-do-ira-desabafa-apos-novo-empate-entramos-na-copa-nas-piores-condicoes-possiveis.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/belgica-x-ira-veja-os-melhores-momentos-do-jogo-da-copa-do-mundo/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/com-um-jogador-a-menos-belgica-fica-no-0-a-0-com-o-ira-pela-copa-do-mundo/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/21/ira-podera-antecipar-sua-viagem-a-seattle-para-3o-jogo-na-copa-anuncia-tecnico.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-21T23:30:47.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/2FKg7VGiGeeg7n7tyrGwh5PeXS0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/t/p/lY4atxS7mS8B4EOvMpeQ/2026-06-14t232441z-1637025660-up1em6e1t13kg-rtrmadp-3-soccer-worldcup-irn-nzl-preview.jpg"
-      },
-      {
-        "clusterId": "554c266bc81ad8bc",
-        "slug": "d95d043d053d5744",
-        "titulo": "Argentina enfrenta Áustria na segunda rodada da Copa do Mundo 2026",
-        "resumo": "A Argentina, liderada por Lionel Messi, disputa seu segundo jogo do Grupo J contra a Áustria na segunda-feira, 22 de junho. Messi, que já marcou três gols na estreia, pode superar recordes de artilharia. A equipe argentina treina para o confronto enquanto a Áustria, sob o comando de Ralf Rangnick, reconhece o talento de Messi. O jogo está marcado para 14h (horário de Brasília).",
-        "porQueImporta": "O resultado determinará a posição de ambos os times no grupo e influenciará a continuidade na fase de grupos.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/22/argentina-enfrenta-austria-em-segundo-confronto-do-time-de-messi-na-copa-veja-jogos-do-dia.ghtml"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/22/quebrador-de-recordes-veja-marcas-que-messi-pode-superar-com-a-argentina.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-22T03:00:52.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/Trkqkp4jmUkwGLnNBIHp6WLZsRQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/C/A3L3EJQpOWNXiyp0GoaQ/2026-06-17t003734z-1624079054-up1em6h01qkr6-rtrmadp-3-soccer-worldcup-arg-dza.jpg"
-      },
-      {
-        "clusterId": "060321f040074c28",
-        "slug": "5cc1c880ef887c77",
-        "titulo": "Scaloni interpreta comentário de Ancelotti como elogio",
-        "resumo": "O técnico da Argentina, Lionel Scaloni, respondeu a uma declaração de José Ancelotti, que havia mencionado a seleção argentina como exemplo de equipe que joga bem apesar de não ser favorita. Scaloni afirmou que entendeu o comentário como um elogio e evitou polêmica. A resposta ocorreu antes do jogo contra a Áustria, em Dallas, na Copa do Mundo.",
-        "porQueImporta": "Revela a percepção de respeito mútuo entre os treinadores e a importância da Argentina na competição.",
+        "clusterId": "3e5201601e990a35",
+        "slug": "5a55d8ce83385d72",
+        "titulo": "Bielsa assume responsabilidade pelo início ruim do Uruguai e destaca obrigação de vencer a Espanha",
+        "resumo": "O técnico argentino Marcelo Bielsa reconheceu que o Uruguai teve um começo ruim na Copa do Mundo, com dois empates na fase de grupos. Ele afirmou que a seleção tem a obrigação de vencer a Espanha para ter chance de avançar. Bielsa mostrou perplexidade diante da situação do time e destacou a necessidade de melhorar para a próxima fase.",
+        "porQueImporta": "O desempenho do Uruguai na Copa do Mundo pode influenciar a classificação do grupo e a trajetória da equipe rumo às fases eliminatórias.",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/erro-de-comunicacao-scaloni-responde-ancelotti-sobre-intensidade-argentina/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/bielsa-mostra-perplexidade-com-situacao-do-uruguai-na-copa-do-mundo/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/21/scaloni-evita-polemica-ao-comentar-declaracao-de-ancelotti-entendi-como-elogio.ghtml"
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/22/bielsa-assume-responsabilidade-por-inicio-ruim-do-uruguai-e-mira-jogo-com-a-espanha-obrigacao-de-ganhar.ghtml"
           }
         ],
-        "updatedAt": "2026-06-22T02:43:52.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/6Wb9PQtx_bZLf0x8RqDDq3c8neA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/A/U/vYV45DSSyWqO1iLUd20Q/whatsapp-image-2026-06-21-at-21.16.54.jpeg"
+        "updatedAt": "2026-06-22T11:17:34.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/qoF7kYfGoyh4BnQBubd8k8EhSno=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/6/P/UQhd1BQ8iOxOv5GJRcxw/2026-06-15t223208z-182780660-up1em6f1qlitu-rtrmadp-3-soccer-worldcup-sau-ury.jpg"
       },
       {
-        "clusterId": "91d832419d5909a6",
-        "slug": "7e9fade1544a1f09",
-        "titulo": "Bielsa descarta retorno de Arrascaeta contra a Espanha",
-        "resumo": "O técnico do Uruguai, Marcelo Bielsa, afirmou que o atacante Arrascaeta não voltará ao time para o jogo contra a Espanha, na última rodada do Grupo H da Copa do Mundo 2026. Arrascaeta sofreu lesão muscular durante a preparação da seleção. O técnico também comentou sobre a lesão de Ronald Araújo, do Barcelona, que também está em recuperação. A ausência de Arrascaeta pode afetar a estratégia ofensiva do Uruguai na partida decisiva.",
-        "porQueImporta": "A falta de um jogador chave pode mudar o desempenho do Uruguai em um jogo decisivo da Copa do Mundo.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/arrascaeta-joga-marcelo-bielsa-esclarece-expectativa-sobre-meia-para-copa/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/21/bielsa-descarta-volta-de-arrascaeta-contra-a-espanha.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-22T02:25:03.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/-7MsAHeV1b9GuxBTRKKIW5uYUro=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/1/A/Rl1Q76TuKcfAuKHIAJBg/captura-de-tela-2026-06-19-083629.png"
-      },
-      {
-        "clusterId": "0412ea12f2d6781d",
-        "slug": "eb410b537021266b",
-        "titulo": "Bélgica empata com Irã na Copa",
-        "resumo": "A seleção belga não conseguiu vencer o Irã, resultando em um empate em 0 a 0. O goleiro iraniano Beiranvand fez uma defesa impressionante, mantendo a equipe sem sofrer gols. A partida terminou sem gols, deixando a Bélgica com um ponto no grupo G. O empate complica a posição da Bélgica na fase de grupos.",
-        "porQueImporta": "O resultado afeta a classificação da Bélgica no grupo G da Copa.",
+        "clusterId": "7b7d90c965b1b8a7",
+        "slug": "3a95aa5f0da0b255",
+        "titulo": "Samuel Pupo eliminado nas quartas de final de Saquarema e Tya Zebrowski avança para semifinal",
+        "resumo": "Samuel Pupo, surfista brasileiro, perdeu a disputa de quartas de final contra Leonardo Fioravanti em Saquarema, encerrando sua participação na etapa. Enquanto isso, a jovem surfista francesa Tya Zebrowski, de 15 anos, eliminou a pentacampeã mundial Carissa Moore e avançou para a semifinal. O evento faz parte da WSL Saquarema 2026, onde quatro brasileiros competem nas quartas de final do masculino.",
+        "porQueImporta": "A eliminação de Pupo e o avanço de Zebrowski refletem a competitividade internacional e a ascensão de novos talentos no circuito mundial de surfe.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/jogo/21-06-2026/belgica-ira.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/belgica-tropeca-e-so-empata-com-ira-que-segue-sem-perder-na-copa/"
+            "url": "https://ge.globo.com/surfe/wsl/noticia/2026/06/22/samuel-pupo-perde-nas-quartas-de-final-e-e-eliminado-em-saquarema.ghtml"
           }
         ],
-        "updatedAt": "2026-06-21T23:31:53.000Z"
+        "updatedAt": "2026-06-22T13:24:57.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/ncokXJX7eJ-oe7N7R18wPsGL7Ms=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/v/B/L4X9cYTzKbJQ6lXxvPmQ/samuel-pupo-26rioct-3621-thiago-diz.jpg"
       },
       {
-        "clusterId": "cf692d383897a800",
-        "slug": "02ea8fcf45799db6",
-        "titulo": "Sergipe empata 1 a 1 com ASA na segunda fase da Série D",
-        "resumo": "O Sergipe venceu o ASA por 1 a 1 no jogo de ida da segunda fase da Série D, com gol de Thiago Santos no primeiro tempo e gol de Michel Douglas no segundo. O resultado deixou a partida em aberto para a volta, mas o técnico Flávio Araújo destacou que o time saiu fortalecido apesar das chances desperdiçadas.",
-        "porQueImporta": "O empate mantém o Sergipe na disputa pela classificação na Série D, com a volta ainda em jogo.",
+        "clusterId": "7028cde9172f8407",
+        "slug": "015513c4a6f4d246",
+        "titulo": "Petkovic defende goleiro Luca Zidane após derrota 3-0 para Argentina",
+        "resumo": "O técnico da Argélia, Vladimir Petkovic, defendeu seu goleiro Luca Zidane, filho de Zinedine Zidane, após críticas pela atuação na derrota por 3 a 0 para a Argentina. Luca revelou que recorre a apoio psicológico para lidar com a pressão da Copa do Mundo de 2026. O treinador ressaltou que todos os jogadores têm direito a cometer erros. A discussão destaca a importância do suporte mental no futebol moderno.",
+        "porQueImporta": "Ilustra como a pressão de grandes torneios pode afetar jogadores e a necessidade de apoio psicológico.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/se/futebol/times/sergipe/noticia/2026/06/21/flavio-araujo-diz-que-sergipe-sai-fortalecido-de-empate-contra-o-asa.ghtml"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/serie-d-zeroum-veja-os-melhores-momentos-de-asa-al-x-sergipe-se"
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/22/tecnico-da-argelia-defende-goleiro-filho-de-zidane-todo-jogador-tem-o-direito-de-cometer-erros.ghtml"
           }
         ],
-        "updatedAt": "2026-06-21T23:22:12.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/OlUoSiSQiXABe1GlYkYT2XUZm-o=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/u/z/aNBeIsTfWFVB5DlCcULg/flavio.png"
+        "updatedAt": "2026-06-22T13:22:57.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/lpgVGAxrOBHuGV78RqT-VmUy_3c=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/A/o/Jf3ONbQ2WgHqxqwTKw4w/gettyimages-2281370942.jpg"
       }
     ],
     "entretenimento": [
+      {
+        "clusterId": "9cbb7321df3cfc27",
+        "slug": "2d038fc2257d03be",
+        "titulo": "Kevinho passa mal e é hospitalizado durante show em Portugal",
+        "resumo": "O cantor Kevinho sofreu mal-estar durante uma apresentação em Mértola, Portugal, e precisou ser hospitalizado. Ele relatou que a sensação térmica era de 103 ºC e que não se hidratou adequadamente. O episódio ocorreu no meio da apresentação, quando ele sentiu aperto no peito.",
+        "porQueImporta": "O incidente destaca os riscos de saúde que artistas enfrentam em shows ao ar livre em condições de calor extremo.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/06/21/kevinho-passa-mal-durante-show-em-portugal.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/entretenimento/musica/kevinho-detalha-hospitalizacao"
+          }
+        ],
+        "updatedAt": "2026-06-22T01:18:13.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/wegs1ra7ED2SEzEhCx-xnbIoTXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/U/XjRkasSDquvotSAFWlZA/fotojet-19-.jpg"
+      },
+      {
+        "clusterId": "a06ae92c63c63271",
+        "slug": "584a2883af3901a3",
+        "titulo": "Trends de TikTok e remixes de brega funk invadem festas juninas escolares",
+        "resumo": "Nas escolas brasileiras, as festas juninas estão sendo marcadas por danças inspiradas em tendências do TikTok e remixes de brega funk, substituindo as coreografias tradicionais. Vídeos nas redes sociais mostram alunos adaptando esses estilos em quadras escolares. A mudança reflete a influência das mídias sociais na cultura juvenil. A prática tem gerado discussões sobre a preservação das tradições locais.",
+        "porQueImporta": "Ilustra como as plataformas digitais estão remodelando rituais culturais escolares.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/06/22/olha-a-aura-e-mentira-dancinhas-de-tiktok-e-remixes-de-funk-invadem-quadrilhas-escolares.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-22T07:01:56.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/JpTcLjXMdxxO0FjF-zw8b6L_tvc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/o/dXMs9zS2SBiYrAYLpkPA/design-sem-nome-80-.png"
+      },
+      {
+        "clusterId": "de6d09dbd7455570",
+        "slug": "042ce031a44168c0",
+        "titulo": "Calema estreia no Rock in Rio Lisboa e anuncia colaboração com Lauana Prado",
+        "resumo": "O duo português Calema, formado pelos irmãos Fradique e António Mendes Ferreira, abriu o Palco Sunset no Rock in Rio Lisboa em 6 de setembro, sendo a primeira atração do Palco Mundo do Rock. O show contou com cerca de 100 mil pessoas e contou com a participação de Lauana Prado em uma colaboração anunciada pelo grupo. Calema, que atua no pop contemporâneo, já havia anunciado a estreia no festival e a parceria com a artista brasileira.",
+        "porQueImporta": "A participação de Calema no Rock in Rio Lisboa e a colaboração com Lauana Prado destacam a presença de artistas portugueses no cenário internacional e a expansão de sua carreira.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/06/22/estreantes-no-rock-in-rio-duo-portugues-calema-anuncia-feat-com-lauana-prado.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-22T07:01:20.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/udR3lSqNqgyEGCjcbFQJUxZStxw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/F/bZd0kWSqmf3jMptGM4Pg/palcomundo-calema-sabado20-1721-hugomoreira-hm2-9028.jpg"
+      },
       {
         "clusterId": "3011bf7065398023",
         "slug": "5480781d13c3db75",
@@ -1392,8 +1374,8 @@
         "clusterId": "9c2f0f563f7b2917",
         "slug": "2339a917844baad7",
         "titulo": "Pedro Sampaio apresenta show catártico no Rock in Rio Lisboa",
-        "resumo": "Pedro Sampaio voltou ao Rock in Rio Lisboa como segunda atração do Palco Mundo, apresentando um espetáculo que incluiu a participação de Melody e um balé contagiante. O cantor distribuiu 10 mil leques ao público para aliviar o calor intenso durante a apresentação. A performance foi marcada por energia e interação com a plateia, mantendo o público animado do início ao fim.",
-        "porQueImporta": "O evento demonstra a capacidade de artistas de criar experiências memoráveis em grandes festivais, atraindo atenção e reforçando a importância cultural do Rock in Rio Lisboa.",
+        "resumo": "Pedro Sampaio voltou ao Rock in Rio Lisboa como segunda atração do Palco Mundo, apresentando um espetáculo que incluiu a participação de Melody e um balé contagiante. O cantor distribuiu 10 mil leques ao público para aliviar o calor intenso do festival. A performance foi bem recebida, mantendo a empolgação da primeira até a última música.",
+        "porQueImporta": "O evento destaca a presença de artistas internacionais em um festival de grande porte, atraindo atenção para a cena musical brasileira.",
         "category": "entretenimento",
         "sources": [
           {
@@ -1403,54 +1385,6 @@
         ],
         "updatedAt": "2026-06-20T20:33:58.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/rdxTFlvK3YfNLdsu5XdFkBR1T5k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/Y/xh44JnTaOeKy3Hzt0hrQ/whatsapp-image-2026-06-20-at-17.26.10.jpeg"
-      },
-      {
-        "clusterId": "36747998eb449172",
-        "slug": "19b35590d7c25120",
-        "titulo": "Álbum de 1982 de Angela Ro Ro reeditado em LP após 44 anos",
-        "resumo": "O disco ‘Simples carinho’, lançado em 1982, foi reeditado em formato original de LP em junho. A nova edição apresenta vinil translúcido verde, semelhante à capa do álbum. A cantora, compositora e pianista carioca, teve a obra reavaliada após décadas de ausência. A reedição traz à tona um período turbulento de sua carreira.",
-        "porQueImporta": "Revela a importância histórica da obra de Angela Ro Ro e sua influência na música brasileira.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/06/20/album-de-1982-em-que-angela-ro-ro-foi-amparada-por-antonio-adolfo-e-joao-donato-e-reeditado-em-lp-apos-44-anos.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-20T19:47:07.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/MN73yAlSdb7c1mTKVZql8CdNBQw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/d/2cfCKcRZOC9ktUizdDCA/angelarorosimplescarinho.jpg"
-      },
-      {
-        "clusterId": "6bcb2b4472572ecd",
-        "slug": "f1da4878d78be5ff",
-        "titulo": "Momo lança oitavo álbum, Tum tum tum, em Londres",
-        "resumo": "O cantor e compositor Marcelo Frota, conhecido como Momo, lançou seu oitavo álbum, Tum tum tum, após 20 anos de carreira. O trabalho, produzido em Londres, destaca a influência da música afro‑brasileira em sua sonoridade. Momo, que já residiu em Portugal, continua a expandir sua produção musical internacionalmente.",
-        "porQueImporta": "O lançamento demonstra a persistência e evolução de Momo na cena musical global.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/06/20/momo-se-deixa-levar-pela-ritmica-afro-brasileira-em-tum-tum-tum-oitavo-album-em-20-anos-de-obra-fonografica.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-20T14:34:14.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/5EIt3x2QFDONmW6Y-sy7woK1VdY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/P/9pJBwpQQSxq2UuexIrcg/momo.-sophia-poole-1.jpg"
-      },
-      {
-        "clusterId": "c1a7350fa75cff45",
-        "slug": "b7911047aa04db58",
-        "titulo": "Dua Lipa e Callum Turner casam na Itália",
-        "resumo": "A cantora Dua Lipa divulgou nas redes sociais fotos da cerimônia de casamento com o ator Callum Turner. A celebração ocorreu em Palermo e Bagheria, na costa noroeste da Sicília, em início de junho. O evento durou dois dias e contou com uma grande festa de pré-casamento. A publicação foi feita em 20 de junho.",
-        "porQueImporta": "Ilustra a união de duas personalidades públicas e seu impacto na mídia e nas redes sociais.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/06/20/dua-lipa-fotos-casamento-callum-turner-italia.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-20T14:33:04.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/BfATU5BjFTmWJQf5Exum5_cHz6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/F/r6cOZLR4i35GfOuDpBhg/2026-06-05t194246z-1807908665-rc2unla0a1zk-rtrmadp-3-people-dua-lipa-callum-turner-1-.jpg"
       }
     ]
   }
