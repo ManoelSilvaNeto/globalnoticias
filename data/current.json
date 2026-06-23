@@ -1,145 +1,73 @@
 {
   "date": "2026-06-23",
-  "generatedAt": "2026-06-23T11:17:39.742Z",
+  "generatedAt": "2026-06-23T14:51:02.534Z",
   "home": [
     {
-      "clusterId": "dd4a26691ee391c1",
-      "slug": "5b64aacc3824f60d",
-      "titulo": "Polícia Federal bloqueia até R$ 670 milhões ligados ao banco Digimais",
-      "resumo": "A Polícia Federal executou a Operação Miragem, cumprindo nove mandados de busca e apreensão em São Paulo, e bloqueou até R$ 670 milhões de bens vinculados ao banco Digimais, controlado por Edir Macedo. A investigação aponta manipulação de balanços e operações irregulares que beneficiam a controladora The Universal. O bispo Edir Macedo é investigado, mas não foi detido por residir no exterior. A operação visa desarticular um esquema fraudulento contra o Sistema Financeiro Nacional.",
-      "porQueImporta": "O bloqueio demonstra a atuação das autoridades contra fraudes financeiras envolvendo instituições ligadas a figuras públicas.",
+      "clusterId": "7ab326ce609a44cb",
+      "slug": "2cf6449ef384942e",
+      "titulo": "Dólar cai 0,46% e Ibovespa sobe mais de 1%",
+      "resumo": "Na segunda-feira (22), o dólar fechou em queda de 0,46%, cotado a R$ 5,1413, após o Banco Central vender US$ 1 bilhão à vista. O Ibovespa encerrou o pregão em alta de 1,31%, atingindo 170.365 pontos, impulsionado por ações de Itaú e BTG e pelo apetite por risco que se intensificou após negociações entre EUA e Irã.",
+      "porQueImporta": "Reflete a reação do mercado brasileiro a decisões monetárias e eventos geopolíticos que afetam a confiança dos investidores.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23062026/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/economia/ibovespa-cai-com-aversao-ao-risco-global-e-pressao-sobre-acoes-de-tecnologia/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/negocios/dolar-sobe-e-atinge-r-518-com-ata-do-copom-e-menor-apetite-por-risco"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/mercado/mercado-financeiro-ibovespa-dolar-23-junho-2026/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/economia/noticia/2026/06/23/dolar-ibovespa.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/invest/mercados/ibovespa-opera-com-copom-cauteloso-e-tombo-de-acoes-de-tecnologia-dolar-sobe/"
+        }
+      ],
+      "updatedAt": "2026-06-23T14:18:06.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-13-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "cd8be2bda14fbc72",
+      "slug": "51f67b620dd1aa88",
+      "titulo": "Jaques Wagner enfrenta busca e apreensão e debate de saída do cargo",
+      "resumo": "O senador Jaques Wagner, líder do governo no Senado, recorreu ao STF para anular a decisão que autorizou a busca e apreensão em sua residência, parte da Operação Compliance Zero. A operação, conduzida pela Polícia Federal, apontou que Wagner atuou em defesa de interesses do Banco. Enquanto isso, o governo e a campanha de Lula discutem a possibilidade de sua saída para evitar exposição política e preservar a vitrine do partido na Bahia. A decisão sobre a renúncia está prevista para a próxima reunião entre Wagner e o presidente.",
+      "porQueImporta": "A situação pode afetar a estabilidade política e a imagem do governo de Lula.",
       "category": "politica",
       "sources": [
         {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/sociedade/pf-apura-fraudes-no-sistema-financeiro-e-bloqueia-r-670-milhoes-de-banco-ligado-a-edir-macedo/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/negocios/banco-de-edir-macedo-publicou-nota-de-esclarecimento-em-maio-veja/"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/brasil/pf-faz-operacao-e-bloqueia-ate-r-670-milhoes-ligados-ao-banco-de-edir-macedo/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/operacao-da-pf-mira-banco-de-edir-macedo-da-universal/"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/mario-sabino/jaques-wagner-e-o-magnifico-par-de-pernas"
         },
         {
           "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-seguranca-publica/pf-realiza-operacao-contra-banco-controlado-por-edir-macedo/"
+          "url": "https://www.poder360.com.br/poder-congresso/jaques-wagner-ja-deveria-ter-entregue-o-cargo-diz-tebet/"
         },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/pf-faz-operacao-contra-banco-digimais-edir-macedo-e-alvo"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/23/pf-faz-operacao-contra-fraudes-no-sistema-financeiro-e-bloqueia-ate-r-670-milhoes-em-bens-ligados-ao-digimais-banco-de-edir-macedo.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-23T10:53:21.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/01/edir_ma.jpg"
-    },
-    {
-      "clusterId": "5276f9291b7ba466",
-      "slug": "016279daea88cf87",
-      "titulo": "Messi brilha, França vence e Argélia encerra jejum: veja o resumo dos jogos da Copa desta segunda (22)",
-      "resumo": "Copa do Mundo: Brasil treina para encarar Escócia e Messi dá show de novo A segunda-feira (22) de Copa do Mundo teve classificação da Argentina, show de Lionel Messi, vitórias de França e Noruega e uma virada emocionante da Argélia no último jogo do dia. A seleção argentina venceu a Áustria por 2 a 0 e garantiu vaga na próxima fase da competição. Os dois gols foram marcados por Messi, que chegou a 18 gols em Copas do Mundo e se isolou como maior artilheiro da história do torneio. Nesta edição, o camisa 10 já soma cinco gols: três na estreia e dois nesta segunda-feira. A França também…",
-      "porQueImporta": "",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/jogos-de-ontem-na-copa-do-mundo-resultados-da-argelia-franca-noruega-e-mais/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-da-globo/noticia/2026/06/23/resultados-dos-jogos-de-ontem-da-copa-gols-e-placares-de-segunda-22.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/esporte/copa-do-mundo-2026-confira-os-resultados-dos-jogos-de-ontem-segunda-feira-22/"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/jogo/22-06-2026/jordania-argelia.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argelia-vira-no-fim-elimina-a-jordania-e-segue-viva-na-copa-do-mundo/"
-        }
-      ],
-      "updatedAt": "2026-06-23T11:11:35.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2282832085.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "7d3e87bb13cc4de2",
-      "slug": "27bc225367b4230e",
-      "titulo": "Inglaterra e Gana se enfrentam na segunda rodada do Grupo L da Copa do Mundo 2026",
-      "resumo": "A partida entre Inglaterra e Gana está marcada para terça-feira, 23 de junho, às 17h (horário de Brasília), em Boston, nos Estados Unidos. O jogo faz parte da segunda rodada da fase de grupos da Copa do Mundo 2026, no Grupo L, e coloca frente a frente duas seleções que venceram na estreia do torneio. A transmissão será realizada pela Globo, ge TV e Sportv, além de ser possível acompanhar ao vivo na página de tempo real do ge.globo.",
-      "porQueImporta": "O confronto decide a liderança do Grupo L e influencia a classificação para as fases eliminatórias.",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/inglaterra-e-gana-fazem-confronto-direto-por-lideranca-do-grupo-l/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-inglaterra-x-gana-copa-do-mundo-23-06-26"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/23/palpites-e-dicas-para-inglaterra-x-gana-pela-copa-do-mundo.ghtml"
-        },
-        {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/06/23/internet-e-redes-sociais/inglaterra-x-gana-onde-assistir-horario-e-escalacao-da-copa-do-mundo/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/esporte/inglaterra-x-gana-quem-vai-ganhar-o-jogo-na-copa-do-mundo/"
-        }
-      ],
-      "updatedAt": "2026-06-23T10:30:52.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/inglaterra-gana.jpg"
-    },
-    {
-      "clusterId": "7b3b05e7333980ea",
-      "slug": "496b332e14745c04",
-      "titulo": "Argentina enfrenta Áustria na segunda rodada da Copa do Mundo 2026",
-      "resumo": "A Argentina, que venceu a Argélia por 3 a 0 na estreia, enfrenta a Áustria em Dallas às 14h na segunda rodada. Se vencer, a seleção pode garantir a liderança do grupo e a classificação para a fase de mata‑mata, dependendo do resultado da Jordânia contra a Argentina. O jogo ocorre no estádio do Dallas Cowboys, com capacidade para 70.649 espectadores.",
-      "porQueImporta": "O resultado determinará se a Argentina pode avançar sem depender de outros confrontos, influenciando a dinâmica do grupo.",
-      "category": "mundo",
-      "sources": [
         {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/esporte/terca-feira-de-copa-tem-os-ultimos-jogos-da-segunda-rodada/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/jogos-de-hoje-terca-23-de-junho-onde-assistir-futebol-ao-vivo-e-horarios/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/esporte/jogos-de-hoje-da-copa-do-mundo-2026-veja-as-partidas-desta-terca-23/"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/23/copa-do-mundo-hoje-veja-jogos-e-horarios-do-dia-2306.ghtml"
+          "url": "https://www.cartacapital.com.br/politica/pt-busca-acelerar-solucao-sobre-jaques-wagner-para-preservar-palanque-de-lula-na-bahia/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/23/portugal-e-inglatera-jogam-a-segunda-etapa-da-fase-de-grupos-da-copa-do-mundo-nesta-terca-23.ghtml"
+          "url": "https://g1.globo.com/politica/noticia/2026/06/22/jaques-wagner-recorre-ao-stf-e-pede-anulacao-da-operacao-da-pf-que-teve-o-senador-como-um-dos-alvos.ghtml"
         }
       ],
-      "updatedAt": "2026-06-23T09:52:54.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/AFP__20260617__B7G39QW__v2__MidRes__TopshotFblWc2026Match22EngCro.jpg"
+      "updatedAt": "2026-06-23T14:48:59.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/jaques-wagner-e-lula-foto-ricardo-stuckert-pr.jpg"
     },
     {
-      "clusterId": "d2168cafa39f5fca",
+      "clusterId": "a39dcbba3a18ef51",
       "slug": "5f0beec52282985f",
       "titulo": "CNJ aprova fim da aposentadoria compulsória como punição a juízes",
       "resumo": "O Conselho Nacional de Justiça votou a alteração do regimento interno que elimina a aposentadoria compulsória como sanção disciplinar contra magistrados. A medida padroniza os procedimentos de julgamento de processos administrativos disciplinares em todo o país. Além disso, o CNJ fortaleceu a pena de disponibilidade, que retira o juiz de suas funções com pagamento proporcional. A mudança reflete a decisão do STF de encerrar a aposentadoria remunerada como punição.",
@@ -147,210 +75,242 @@
       "category": "politica",
       "sources": [
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/manoela-alcantara/cnj-analisa-regras-apos-fim-da-aposentadoria-compulsoria-para-juizes"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/cnj-analisa-resolucao-que-regulamenta-atuacao-de-influenciadores-mirins/"
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/justica/relator-do-cnj-defende-o-fim-da-aposentadoria-compulsoria-como-sancao-a-magistrados/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/cnj-regulamenta-hoje-fim-da-aposentadoria-compulsoria-como-punicao-a-juizes/"
+          "url": "https://www.cnnbrasil.com.br/politica/apos-voto-do-relator-cnj-adia-analise-do-fim-da-aposentadoria-compulsoria/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/06/23/cnj-deve-regulamentar-nesta-terca-fim-da-aposentadoria-compulsoria-para-juizes.ghtml"
+          "url": "https://g1.globo.com/politica/noticia/2026/06/23/cnj-aposentadoria-juizes.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/manoela-alcantara/stf-publica-acordao-de-decisao-que-preve-perda-do-cargo-para-juizes"
         }
       ],
-      "updatedAt": "2026-06-23T11:16:08.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/03/55153614785_4b4d188ac0_c.jpg?quality=70&strip=info"
+      "updatedAt": "2026-06-23T14:35:18.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/Foto-Zenildo-TrajanoCNJ.jpg"
     },
     {
-      "clusterId": "1e4c4a54a92b1057",
-      "slug": "e2e40650b3a08db7",
-      "titulo": "Visitantes do mirante precisam buscar abrigo durante tiroteio no Santa Marta; operação policial causa tensão na região",
-      "resumo": "Pessoas visitavam mirante quando começou tiroteio na comunidade Santa Marta, no Rio Um grupo de aproximadamente 60 turistas e visitantes que estava no Mirante Dona Marta, em Botafogo, na Zona Sul do Rio, desde as 3h30, viveu momentos de tensão desde a madrugada desta terça-feira (23), após o início de um intenso tiroteio na comunidade Santa Marta, localizada nas proximidades do ponto turístico. O confronto começou pouco depois das 4h quando equipes da Polícia Civil do RJ chegaram à comunidade para cumprir mais uma fase da Operação Contenção, que tem como objetivo combater a expansão…",
-      "porQueImporta": "",
+      "clusterId": "98451fbd34eadf5f",
+      "slug": "583c7714bc5d671f",
+      "titulo": "Brexit completa 10 anos e maioria britânica considera reentrada na UE",
+      "resumo": "Dez anos após o referendo de 2016, o Reino Unido vive as consequências do Brexit em política, comércio e economia. A maioria dos britânicos agora expressa arrependimento e apoia a reentrada na União Europeia. O país enfrenta desafios de adaptação e a UE mantém cautela quanto a uma possível reaproximação.",
+      "porQueImporta": "O resultado reflete a mudança de opinião pública e pode influenciar futuras negociações entre o Reino Unido e a UE.",
       "category": "geral",
       "sources": [
         {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-seguranca-publica/policia-prende-3-em-operacao-contra-o-comando-vermelho-no-rio/"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/brasil/policia-civil-faz-acao-no-dona-marta-e-moradores-relatam-tiroteio-na-zona-sul-do-rio/"
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/mundo/brexit-completa-10-anos-em-meio-a-duvidas-da-populacao-britanica/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/23/mirante-dona-marta-operacao-policial.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/operacao-contra-cv-no-morro-santa-marta-provoca-tiroteio-na-zona-sul-do-rio/"
-        }
-      ],
-      "updatedAt": "2026-06-23T10:51:33.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-23-073443.png?fit=300%2C278&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "b0bf26168c60f57f",
-      "slug": "538b57b954e59e0d",
-      "titulo": "Seleção da Noruega faz remada viking com torcida após vitória sobre Senegal",
-      "resumo": "Após vencer o Senegal por 3 a 2, a seleção da Noruega e a torcida realizaram a remada viking no MetLife Stadium, em Nova Jersey. Os jogadores se sentaram no gramado e, com um tambor, executaram a coreografia em conjunto com os torcedores. A celebração, já tradicional na Copa do Mundo, ganhou destaque nas redes sociais. Um torcedor permaneceu parado, chamando atenção durante a coreografia.",
-      "porQueImporta": "A ação reforçou a identidade cultural da torcida norueguesa e destacou a importância da celebração coletiva em eventos esportivos internacionais.",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/23/contra-a-mare-torcedor-noruegues-se-recusa-a-remar-em-barco-viking-e-chama-a-atencao-veja.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/viralizou/remada-viking-o-que-significa-a-comemoracao-de-jogadores-da-noruega"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/comemoracao-viking-embala-noruega-na-classificacao-ao-mata-mata-da-copa/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/video-jogadores-da-noruega-se-juntam-a-torcida-em-comemoracao-viking/"
-        }
-      ],
-      "updatedAt": "2026-06-23T10:47:47.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/5C87EkkZm3q_qZg8cAYd_50VO_o=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/s/1/8PEFxxRrO0l69L5WzQmw/noruegues.jpeg"
-    },
-    {
-      "clusterId": "442cfd0f795037c9",
-      "slug": "83cee6da35591c07",
-      "titulo": "Colômbia enfrenta República Democrática do Congo na segunda rodada da Copa do Mundo 2026",
-      "resumo": "O duelo entre Colômbia e República Democrática do Congo está marcado para a segunda rodada do Grupo K, na terça-feira, 23 de junho, às 23h (horário de Brasília). A RD Congo, que surpreendeu ao empatar Portugal na estreia, busca repetir a performance e conquistar pontos. A partida será realizada no Estádio Akron, no México. As equipes já têm escalações previstas e os meios de transmissão foram divulgados pelas fontes.",
-      "porQueImporta": "O resultado pode definir a posição das seleções no grupo e influenciar a continuidade no torneio.",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/23/com-fator-casa-contra-colombia-congo-quer-repetir-zebra-o-papel-de-desafiante-e-que-nos-gostamos.ghtml"
-        },
-        {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/06/23/internet-e-redes-sociais/colombia-x-rd-congo-onde-assistir-horario-e-escalacoes-do-jogo-da-copa-do-mundo/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/panama-x-croacia-horario-e-onde-assistir-a-copa-do-mundo/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/esporte/colombia-x-republica-democratica-do-congo-quem-vai-ganhar-o-jogo-na-copa-do-mundo/"
-        }
-      ],
-      "updatedAt": "2026-06-23T09:00:10.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/EwW_Xy4a0KmSApY4_OZtkaqkhM4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/U/o/BBxFiOSROIKivCM1yFHQ/gettyimages-2269295565.jpg"
-    },
-    {
-      "clusterId": "0fc0221790ff870a",
-      "slug": "472f6755f98a9b8b",
-      "titulo": "Abelardo de la Espriella vence eleição presidencial na Colômbia",
-      "resumo": "O advogado e empresário Abelardo de la Espriella foi declarado vencedor no segundo turno das eleições presidenciais colombianas, com uma margem de menos de 250 mil votos sobre o candidato da esquerda, Iván Cepeda. A vitória foi confirmada em apuração preliminar, mas ainda pode ser contestada pelo partido de Cepeda. De la Espriella é considerado de extrema direita e recebeu apoio público de Donald Trump, que parabenizou o candidato. A eleição representa mais uma guinada à direita na América do Sul, que já conta com sete dos doze presidentes de espectro conservador.",
-      "porQueImporta": "A mudança de governo pode alterar a política interna colombiana e fortalecer laços com os Estados Unidos, impactando a dinâmica política regional.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/com-eleicao-na-colombia-america-do-sul-da-guinada-a-direita"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/vitoria-de-espriella-por-que-a-oposicao-de-direita-ganha-forca-na-america-latina/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/06/23/a-guinada-a-direita-na-colombia-e-no-peru-e-seus-efeitos-para-a-america-do-sul-o-assunto-1745.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/23/4-grandes-mudancas-no-reino-unido-10-anos-apos-o-brexit-e-quais-as-chances-de-o-pais-voltar-a-uniao-europeia.ghtml"
         },
         {
           "name": "BBC Brasil",
-          "url": "https://www.bbc.co.uk/portuguese/articles/cy8wjg4ylzjo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-06-23T08:00:07.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/presidentes-direita-america-do-suljpg-2.jpeg"
-    },
-    {
-      "clusterId": "1a0a9251c2d1754d",
-      "slug": "22dcb16831476614",
-      "titulo": "Neymar treina sem limitações e pode entrar contra Escócia",
-      "resumo": "Neymar treinou sem limitações pela primeira vez desde sua recuperação e pode ser convocado para a partida contra a Escócia. O goleiro Alisson foi poupado da atividade por controle de carga, mas não preocupa para a partida. Raphinha permanece fora dos trabalhos para tratamento de lesão. A seleção brasileira treina em Nova Jersey com foco no jogo contra a Escócia, válido pela terceira rodada do Grupo C da Copa do Mundo.",
-      "porQueImporta": "A presença de Neymar pode influenciar a estratégia e o desempenho do Brasil na Copa do Mundo.",
-      "category": "geral",
-      "sources": [
+          "url": "https://www.bbc.com/portuguese/articles/clywlg4kvjmo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "name": "Exame",
-          "url": "https://exame.com/brasil/brasil-x-escocia-rodizio-sera-suspenso-em-sao-paulo-por-jogo-da-copa-do-mundo/"
+          "url": "https://exame.com/mundo/o-brexit-virou-arrependimento-mas-nao-ha-volta-facil-para-o-reino-unido/"
+        }
+      ],
+      "updatedAt": "2026-06-23T14:22:24.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/AFP__20260620__B7NB7KJ__v1__MidRes__FilesBritainEuPoliticsReferendumEconomyImmigrati.jpg"
+    },
+    {
+      "clusterId": "72b473a77f306047",
+      "slug": "7004842b0802a525",
+      "titulo": "Trump afirma que Irã aceitou inspeções nucleares",
+      "resumo": "O presidente dos Estados Unidos afirmou que o Irã concordou em permitir grandes inspeções em suas usinas nucleares, alegação que foi rejeitada pelo regime iraniano. O vice-presidente J.D. Vance também reforçou a posição de que Teerã deu sinal verde para vistorias. O Irã negou ter feito qualquer compromisso sobre seu programa nuclear durante as negociações recentes. As declarações de Trump surgiram em meio a discussões sobre um possível acordo de paz e alívio financeiro para o país.",
+      "porQueImporta": "A divergência sobre a aceitação de inspeções nucleares pode afetar a credibilidade das negociações internacionais e a segurança global.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/mesmo-apos-ira-desmentir-trump-insiste-que-pais-aceitou-inspecoes-em-plantas-nucleares/"
         },
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/entretenimento/copa-do-mundo-10-lugares-para-assistir-brasil-x-escocia-no-df"
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/trump-contradiz-ira-e-diz-que-pais-aceitou-inspecao-nuclear/"
         },
         {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/22/zagueiro-diz-que-escocia-esta-extremamente-ansiosa-para-enfrentar-brasil-e-um-icone-em-copa.ghtml"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/trump-insiste-que-ira-concordou-com-inspecoes-nucleares-apos-teera-negar/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/fantastico/noticia/2026/06/22/brasil-x-escocia-a-saida-de-raphinha-e-a-expectativa-da-presenca-de-neymar-no-proximo-desafio-na-copa.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/22/ira-vai-aceitar-inspetores-para-monitorar-programa-nuclear-diz-vice-de-trump.ghtml"
         }
       ],
-      "updatedAt": "2026-06-23T07:18:33.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/vini-jr-selecao-brasileira-copa-do-mundo-500-jogos.jpg"
+      "updatedAt": "2026-06-23T13:32:23.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-2272096621-e1776981772637.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "cecafb1f3e2fb641",
+      "slug": "f1bff1eb971ae6d5",
+      "titulo": "Brasil já projeta possíveis adversários no mata-mata da Copa 2026",
+      "resumo": "A Seleção brasileira, sob o comando de Carlo Ancelotti, já está analisando quem pode enfrentar na fase de 32 avos da Copa do Mundo 2026. Os principais candidatos a cruzar o caminho do Brasil são Holanda, Japão e Suécia, dependendo dos resultados finais dos grupos C e F. A fase de mata-mata começa em 28 de junho e termina em 19 de julho.",
+      "porQueImporta": "Definir os possíveis oponentes ajuda a equipe a se preparar estrategicamente para a fase decisiva do torneio.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/23/quem-o-brasil-pode-enfrentar-no-mata-mata-da-copa-do-mundo-os-cenarios-de-cada-resultado.ghtml"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/23/colombia-pode-garantir-vaga-antecipada-na-segunda-fase-da-copa-veja-a-situacao-do-grupo.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/esporte/calendario-da-copa-do-mundo-2026-veja-as-datas-dos-confrontos-da-2a-fase-do-torneio/"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cdej354kxzwo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-06-23T12:38:10.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/xWbQ02gMl6e0vy8ArV988Q9Jsyw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/9/tfgFEzRYOOwk936hS3lA/sao-joao-de-maracanau-2026-transmite-jogo-brasil-x-haiti-na-copa-2026-com-show-de-luiz-fidelis.jpg"
+    },
+    {
+      "clusterId": "ff6e416dc48df630",
+      "slug": "b0daf2d60d1d1606",
+      "titulo": "Keir Starmer anuncia renúncia ao cargo de primeiro-ministro do Reino Unido",
+      "resumo": "O líder do Partido Trabalhista, Keir Starmer, anunciou que deixará o cargo, permitindo que o Reino Unido tenha seu sétimo premiê em dez anos. Starmer afirmou que permanecerá no cargo até que o sucessor seja definido e que o processo de escolha deve começar em 9 de julho. A renúncia ocorre em meio a críticas internas e externas, incluindo comentários do presidente dos EUA sobre políticas do Reino Unido.",
+      "porQueImporta": "A mudança de liderança pode influenciar a política interna e externa do Reino Unido, especialmente em questões de energia, imigração e relações internacionais.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/analise-a-crise-por-tras-da-renuncia-de-keir-starmer-no-reino-unido/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/06/23/as-duvidas-que-pairam-sobre-o-mais-cotado-para-substituir-keir-starmer-como-primeiro-ministro-do-reino-unido.ghtml"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cn4r3473zxjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/23/inglaterra-na-copa-reino-unido-nas-olimpiadas-entenda-divisao-nas-competicoes.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-23T11:29:56.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Lcbl0a0GgbeAhww3fAzOhI2PNfk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/J/mCFIcQQ4KBZBmsVcChyA/novo-projeto-7-.jpg"
+    },
+    {
+      "clusterId": "a14c4219c268c03a",
+      "slug": "6f70da45bd4f1620",
+      "titulo": "Operação da Polícia Federal bloqueia R$ 670 milhões do banco Digimais, de Edir Macedo",
+      "resumo": "A Polícia Federal executou nove mandados de busca e apreensão contra o banco Digimais, de propriedade de Edir Macedo, e bloqueou R$ 670 milhões. A investigação aponta fraudes no sistema financeiro e a utilização de fundos de investimento para ocultar a situação econômica do banco. O Banco Central identificou irregularidades na condução do banco, que agora está sob controle da Polícia Federal.",
+      "porQueImporta": "A operação demonstra a atuação das autoridades em combater fraudes financeiras envolvendo instituições ligadas a figuras religiosas de destaque.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/c4gyjl3vdmro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/sociedade/pf-apura-fraudes-no-sistema-financeiro-e-bloqueia-r-670-milhoes-de-banco-ligado-a-edir-macedo/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/edir-macedo-bispo-da-igreja-universal-e-dono-do-digimais-alvo-da-pf"
+        }
+      ],
+      "updatedAt": "2026-06-23T14:46:22.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b990/live/67b43b20-6eef-11f1-8e1d-bbbb1017d210.jpg"
+    },
+    {
+      "clusterId": "41e5d60a867d7772",
+      "slug": "38830c290cb0b1a8",
+      "titulo": "Calor extremo na Europa e afastamento de Alex Escobar na Copa do Mundo",
+      "resumo": "Vários países europeus, incluindo Reino Unido, França e Espanha, registraram temperaturas recordes e alertas de calor. O jornalista Alex Escobar, que cobria a Copa do Mundo, sofreu um pico de pressão durante uma transmissão ao vivo e foi afastado do jogo do Brasil, ficando em observação em hospital nos EUA.",
+      "porQueImporta": "O episódio destaca os riscos do calor extremo tanto para o público quanto para profissionais de mídia em eventos internacionais.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/business/global/europa-sofre-com-calor-extremo-entenda-o-que-esta-acontecendo/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/saude/calor-na-copa-do-mundo-entenda-mal-estar-enfrentado-por-alex-escobar/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/fabia-oliveira/alex-escobar-e-afastado-temporariamente-da-cobertura-da-copa-do-mundo"
+        }
+      ],
+      "updatedAt": "2026-06-23T14:46:04.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-23T143028Z_950957786_RC2PZLAMBDE1_RTRMADP_3_EUROPE-WEATHER-SPAIN.jpg?fit=300%2C212&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "a86c1418602ff0b1",
+      "slug": "cea043bdf34ed012",
+      "titulo": "Com agendas no estado, Lula e Flávio Bolsonaro intensificam a decisiva ‘batalha por São Paulo’",
+      "resumo": "Petista visita os maiores colégios eleitorais paulistas, enquanto o senador vai ao interior; afunilamento da disputa entre Tarcísio e Haddad mobiliza campanhas",
+      "porQueImporta": "",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/com-agendas-no-estado-lula-e-flavio-bolsonaro-intensificam-a-decisiva-batalha-por-sao-paulo/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes/flavio-tem-51-contra-42-de-lula-no-rs-no-2o-turno-diz-pesquisa/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/a-briga-entre-lula-e-flavio-bolsonaro-pelo-voto-dos-gauchos-segundo-o-real-time-big-data/"
+        }
+      ],
+      "updatedAt": "2026-06-23T14:30:28.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/lula-flavio.jpg?quality=70&strip=info"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "dd4a26691ee391c1",
-        "slug": "5b64aacc3824f60d",
-        "titulo": "Polícia Federal bloqueia até R$ 670 milhões ligados ao banco Digimais",
-        "resumo": "A Polícia Federal executou a Operação Miragem, cumprindo nove mandados de busca e apreensão em São Paulo, e bloqueou até R$ 670 milhões de bens vinculados ao banco Digimais, controlado por Edir Macedo. A investigação aponta manipulação de balanços e operações irregulares que beneficiam a controladora The Universal. O bispo Edir Macedo é investigado, mas não foi detido por residir no exterior. A operação visa desarticular um esquema fraudulento contra o Sistema Financeiro Nacional.",
-        "porQueImporta": "O bloqueio demonstra a atuação das autoridades contra fraudes financeiras envolvendo instituições ligadas a figuras públicas.",
+        "clusterId": "cd8be2bda14fbc72",
+        "slug": "51f67b620dd1aa88",
+        "titulo": "Jaques Wagner enfrenta busca e apreensão e debate de saída do cargo",
+        "resumo": "O senador Jaques Wagner, líder do governo no Senado, recorreu ao STF para anular a decisão que autorizou a busca e apreensão em sua residência, parte da Operação Compliance Zero. A operação, conduzida pela Polícia Federal, apontou que Wagner atuou em defesa de interesses do Banco. Enquanto isso, o governo e a campanha de Lula discutem a possibilidade de sua saída para evitar exposição política e preservar a vitrine do partido na Bahia. A decisão sobre a renúncia está prevista para a próxima reunião entre Wagner e o presidente.",
+        "porQueImporta": "A situação pode afetar a estabilidade política e a imagem do governo de Lula.",
         "category": "politica",
         "sources": [
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/sociedade/pf-apura-fraudes-no-sistema-financeiro-e-bloqueia-r-670-milhoes-de-banco-ligado-a-edir-macedo/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/negocios/banco-de-edir-macedo-publicou-nota-de-esclarecimento-em-maio-veja/"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/brasil/pf-faz-operacao-e-bloqueia-ate-r-670-milhoes-ligados-ao-banco-de-edir-macedo/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/brasil/operacao-da-pf-mira-banco-de-edir-macedo-da-universal/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/colunas/mario-sabino/jaques-wagner-e-o-magnifico-par-de-pernas"
           },
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-seguranca-publica/pf-realiza-operacao-contra-banco-controlado-por-edir-macedo/"
+            "url": "https://www.poder360.com.br/poder-congresso/jaques-wagner-ja-deveria-ter-entregue-o-cargo-diz-tebet/"
           },
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/pf-faz-operacao-contra-banco-digimais-edir-macedo-e-alvo"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/pt-busca-acelerar-solucao-sobre-jaques-wagner-para-preservar-palanque-de-lula-na-bahia/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/23/pf-faz-operacao-contra-fraudes-no-sistema-financeiro-e-bloqueia-ate-r-670-milhoes-em-bens-ligados-ao-digimais-banco-de-edir-macedo.ghtml"
+            "url": "https://g1.globo.com/politica/noticia/2026/06/22/jaques-wagner-recorre-ao-stf-e-pede-anulacao-da-operacao-da-pf-que-teve-o-senador-como-um-dos-alvos.ghtml"
           }
         ],
-        "updatedAt": "2026-06-23T10:53:21.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/01/edir_ma.jpg"
+        "updatedAt": "2026-06-23T14:48:59.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/jaques-wagner-e-lula-foto-ricardo-stuckert-pr.jpg"
       },
       {
-        "clusterId": "d2168cafa39f5fca",
+        "clusterId": "a39dcbba3a18ef51",
         "slug": "5f0beec52282985f",
         "titulo": "CNJ aprova fim da aposentadoria compulsória como punição a juízes",
         "resumo": "O Conselho Nacional de Justiça votou a alteração do regimento interno que elimina a aposentadoria compulsória como sanção disciplinar contra magistrados. A medida padroniza os procedimentos de julgamento de processos administrativos disciplinares em todo o país. Além disso, o CNJ fortaleceu a pena de disponibilidade, que retira o juiz de suas funções com pagamento proporcional. A mudança reflete a decisão do STF de encerrar a aposentadoria remunerada como punição.",
@@ -358,37 +318,57 @@
         "category": "politica",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/manoela-alcantara/cnj-analisa-regras-apos-fim-da-aposentadoria-compulsoria-para-juizes"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/cnj-analisa-resolucao-que-regulamenta-atuacao-de-influenciadores-mirins/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/justica/relator-do-cnj-defende-o-fim-da-aposentadoria-compulsoria-como-sancao-a-magistrados/"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/cnj-regulamenta-hoje-fim-da-aposentadoria-compulsoria-como-punicao-a-juizes/"
+            "url": "https://www.cnnbrasil.com.br/politica/apos-voto-do-relator-cnj-adia-analise-do-fim-da-aposentadoria-compulsoria/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/06/23/cnj-deve-regulamentar-nesta-terca-fim-da-aposentadoria-compulsoria-para-juizes.ghtml"
+            "url": "https://g1.globo.com/politica/noticia/2026/06/23/cnj-aposentadoria-juizes.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/colunas/manoela-alcantara/stf-publica-acordao-de-decisao-que-preve-perda-do-cargo-para-juizes"
           }
         ],
-        "updatedAt": "2026-06-23T11:16:08.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/03/55153614785_4b4d188ac0_c.jpg?quality=70&strip=info"
+        "updatedAt": "2026-06-23T14:35:18.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/Foto-Zenildo-TrajanoCNJ.jpg"
       },
       {
-        "clusterId": "800a9a2dd45a13f7",
-        "slug": "3172d485dac8b464",
-        "titulo": "Bolsonaro depõe à polícia do DF nesta terça, na prisão domiciliar, sobre arma apreendida em blitz",
-        "resumo": "Ex-presidente Jair Bolsonaro em prisão domiciliar, em imagem de arquivo WILTON JUNIOR/ESTADÃO CONTEÚDO A Polícia Civil do Distrito Federal colhe na tarde desta terça-feira o depoimento do ex-presidente Jair Bolsonaro no inquérito sobre a arma de fogo, registrada no nome do político apreendida em uma blitz na semana passada. O depoimento será tomado de forma presencial, no condomínio de alto padrão onde Bolsonaro cumpre prisão domiciliar em Brasília. Relator da pena de Bolsonaro, o ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes negou o pedido da polícia para ouvir o…",
+        "clusterId": "a86c1418602ff0b1",
+        "slug": "cea043bdf34ed012",
+        "titulo": "Com agendas no estado, Lula e Flávio Bolsonaro intensificam a decisiva ‘batalha por São Paulo’",
+        "resumo": "Petista visita os maiores colégios eleitorais paulistas, enquanto o senador vai ao interior; afunilamento da disputa entre Tarcísio e Haddad mobiliza campanhas",
         "porQueImporta": "",
         "category": "politica",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/saiba-como-sera-o-depoimento-de-bolsonaro-no-caso-da-arma-apreendida/"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/com-agendas-no-estado-lula-e-flavio-bolsonaro-intensificam-a-decisiva-batalha-por-sao-paulo/"
           },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes/flavio-tem-51-contra-42-de-lula-no-rs-no-2o-turno-diz-pesquisa/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/a-briga-entre-lula-e-flavio-bolsonaro-pelo-voto-dos-gauchos-segundo-o-real-time-big-data/"
+          }
+        ],
+        "updatedAt": "2026-06-23T14:30:28.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/lula-flavio.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "54ba1f4b90fcfc20",
+        "slug": "3172d485dac8b464",
+        "titulo": "Bolsonaro depõe em casa sobre arma apreendida",
+        "resumo": "O ex-presidente Jair Bolsonaro foi ouvido pela Polícia Civil do Distrito Federal em sua residência, onde cumpre prisão domiciliar, sobre a arma de fogo registrada em seu nome que foi apreendida em blitz. O depoimento foi realizado presencialmente, após o relator da pena, ministro Alexandre de Moraes, negar a possibilidade de videoconferência. A coleta de depoimento faz parte do inquérito sobre a arma.",
+        "porQueImporta": "A audiência confirma a continuidade do processo investigativo contra Bolsonaro e demonstra o cumprimento das medidas de prisão domiciliar.",
+        "category": "politica",
+        "sources": [
           {
             "name": "Metrópoles",
             "url": "https://www.metropoles.com/colunas/manoela-alcantara/bolsonaro-sera-ouvido-em-casa-pela-pcdf-no-caso-de-arma-apreendida"
@@ -398,68 +378,48 @@
             "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/23/bolsonaro-depoe-a-policia-do-df-nesta-terca-na-prisao-domiciliar-sobre-arma-apreendida-em-blitz.ghtml"
           }
         ],
-        "updatedAt": "2026-06-23T06:15:25.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/03/jair-bolsonaro.jpg"
+        "updatedAt": "2026-06-23T14:48:59.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/7j37qzn0u4Ki-8ELbdYkFUBcJDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/Y/kQWhnWQJWqcKSTIWywmw/age20250911073.jpg"
       },
       {
-        "clusterId": "d69139dd0e323f51",
-        "slug": "0df2c737476b93c4",
-        "titulo": "Jaques Wagner enfrenta pressão para renunciar após operação da PF e recorre ao STF",
-        "resumo": "O senador Jaques Wagner, líder do governo no Senado, recorreu ao STF para anular a busca e apreensão em sua residência, alvo da 9ª fase da Operação Compliance Zero. A operação foi autorizada pelo ministro André Mendonça e apontou que Wagner atuou em defesa de interesses do Banco. Enquanto isso, o governo planeja discutir a possível saída de Wagner em reunião com Lula. A presidente da CCJ defende Wagner, afirmando que seu trabalho não pode ser impedido.",
-        "porQueImporta": "A situação pode levar à mudança de liderança do governo no Senado e afetar a estabilidade política.",
+        "clusterId": "e03a3d6d29ee00eb",
+        "slug": "509646b911ea37d0",
+        "titulo": "Prorrogação da prisão domiciliar de Bolsonaro depende de decisão do ministro Moraes",
+        "resumo": "O prazo da prisão domiciliar humanitária de Jair Bolsonaro, concedida em novembro de 2023, termina na quinta-feira (25). A extensão do benefício depende do ministro Alexandre de Moraes, relator do caso no STF. Bolsonaro cumpre 27 anos e três meses de prisão por liderar organização criminosa que tentou golpe em 2022. O quadro de saúde do ex-presidente não mudou nos últimos meses, sustentando a possibilidade de prorrogação.",
+        "porQueImporta": "A decisão afeta a aplicação da pena e a percepção de justiça no caso de golpe.",
         "category": "politica",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/mario-sabino/jaques-wagner-e-o-magnifico-par-de-pernas"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/aliados-de-bolsonaro-apostam-em-prorrogacao-de-domiciliar-do-ex-presidente/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/06/22/jaques-wagner-recorre-ao-stf-e-pede-anulacao-da-operacao-da-pf-que-teve-o-senador-como-um-dos-alvos.ghtml"
+            "url": "https://g1.globo.com/politica/noticia/2026/06/22/prazo-de-prisao-domiciliar-de-bolsonaro-termina-na-quinta-prorrogacao-depende-de-moraes.ghtml"
           }
         ],
-        "updatedAt": "2026-06-23T11:16:08.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/04/jaques-wagner-em-entrevista-ao-portal-metropoles-2-scaled.jpg"
+        "updatedAt": "2026-06-23T14:30:45.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/03/cropped-54578249068_aef864d790_c.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "3dce744fe009b946",
-        "slug": "db1b3f3a02d3f934",
-        "titulo": "Vagas do Senado e disputa pelo governo do RS apresentam empates e margens de erro de 2 pontos",
-        "resumo": "A pesquisa Real Time Big Data aponta Van Hattem, Manuela e Sanderson como líderes na corrida ao Senado, com margens de erro de 2 pontos percentuais. No governo, Juliana Brizola lidera o primeiro turno com 37%, enquanto Luciano Zucco tem 32%, gerando empate técnico no segundo turno. Eduardo Leite obtém 58% de aprovação, enquanto o governo Lula é desaprovado por 57%.",
-        "porQueImporta": "Os resultados refletem a polarização política e a indecisão dos eleitores no Rio Grande do Sul.",
+        "clusterId": "fc2c20a4c752f03e",
+        "slug": "98a71b730d1fce91",
+        "titulo": "Ipsos-Ipec mostra avaliação do governo Lula em 38% como ruim ou péssimo",
+        "resumo": "A pesquisa realizada entre 13 e 17 de junho contou com 2.000 entrevistados e revelou que 38% dos brasileiros avaliam o governo Lula como ruim ou péssimo, 32% como ótimo ou bom e 28% como regular. A porcentagem de avaliações negativas é maior que a positiva, embora tenha diminuído levemente em relação a março, quando era de 40%. A margem de erro da sondagem é de dois pontos percentuais.",
+        "porQueImporta": "Os resultados indicam a percepção pública sobre o governo antes da eleição, influenciando o cenário político.",
         "category": "politica",
         "sources": [
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/a-disputa-acirrada-pelas-vagas-do-rs-ao-senado-segundo-o-real-time-big-data/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/real-time-corrida-ao-senado-pelo-rs-tem-multiplos-empates/"
-          }
-        ],
-        "updatedAt": "2026-06-23T11:13:31.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/CAPA-para-materia-1064-×-614-px-1200-x-630-px.png"
-      },
-      {
-        "clusterId": "da2951a501401f4a",
-        "slug": "8c7efb9650d63c47",
-        "titulo": "'Dark Horse': PGR avalia que cabe a Mendonça, e não Moraes, decidir sobre pedido para investigar repasse de Vorcaro",
-        "resumo": "O procurador-geral da República, Paulo Gonet, afirmou, em parecer, que o ministro André Mendonça, do Supremo Tribunal Federal, deve ser o relator de um pedido para investigar valores para o filme \"Dark Horse\" solicitados pelo senador Flávio Bolsonaro (PL-RJ) ao ex-banqueiro Daniel Vorcaro, do Master. O pedido foi apresentado pelo deputado Lindebrgh Farias (PT-RJ) no inquérito relatado pelo ministro Alexandre de Moraes que levou à condenação de Eduardo Bolsonaro por coação à Justiça. Lindbergh apresentou o pedido nesse caso por entender que houve uma atuação internacional de Eduardo pelo…",
-        "porQueImporta": "",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/o-grande-debate-moraes-ou-mendonca-quem-deve-julgar-o-caso-dark-horse/"
+            "url": "https://www.cartacapital.com.br/politica/como-os-eleitores-avaliam-o-governo-lula-em-cada-area-a-quase-3-meses-da-eleicao/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/06/22/dark-horse-pgr-avalia-que-cabe-a-mendonca-e-nao-moraes-decidir-sobre-pedido-para-investigar-repasse-de-vorcaro.ghtml"
+            "url": "https://g1.globo.com/politica/noticia/2026/06/22/ipsos-ipec-avaliacao-governo-lula-junho.ghtml"
           }
         ],
-        "updatedAt": "2026-06-23T10:17:01.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/IXHzAzHwDuR_Vq64SeZFs0tNBvU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/x/G/pxEI12Qq6S5PfO5lUkBw/age20230914017.jpg"
+        "updatedAt": "2026-06-23T13:53:23.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/04/55237036671_54131c3c17_k.jpg"
       },
       {
         "clusterId": "0519612f249fbdf9",
@@ -504,51 +464,91 @@
     ],
     "economia": [
       {
-        "clusterId": "a1df61d3f5a052b5",
-        "slug": "f96c15ec4b871c35",
-        "titulo": "Incêndio de grandes proporções atinge galpões de autopeças na Lapa",
-        "resumo": "Um incêndio começou por volta das 00h38 na Rua Emílio Goeldi, na Lapa, zona oeste de São Paulo, atingindo galpões que armazenavam peças automotivas, incluindo plástico, papel e ferro. O Corpo de Bombeiros mobilizou treze viaturas e registrou que cerca de 10 mil metros quadrados foram afetados pelo fogo. Não há relatos de feridos.",
-        "porQueImporta": "O fogo comprometeu uma área significativa de armazenamento de autopeças, podendo impactar a cadeia de suprimentos e a segurança do bairro.",
+        "clusterId": "7ab326ce609a44cb",
+        "slug": "2cf6449ef384942e",
+        "titulo": "Dólar cai 0,46% e Ibovespa sobe mais de 1%",
+        "resumo": "Na segunda-feira (22), o dólar fechou em queda de 0,46%, cotado a R$ 5,1413, após o Banco Central vender US$ 1 bilhão à vista. O Ibovespa encerrou o pregão em alta de 1,31%, atingindo 170.365 pontos, impulsionado por ações de Itaú e BTG e pelo apetite por risco que se intensificou após negociações entre EUA e Irã.",
+        "porQueImporta": "Reflete a reação do mercado brasileiro a decisões monetárias e eventos geopolíticos que afetam a confiança dos investidores.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/brasil/incendio-de-grandes-proporcoes-atinge-galpoes-de-autopecas-na-lapa-zona-oeste-de-sp/"
+            "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23062026/"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/video-veja-incendio-de-grandes-proporcoes-que-atinge-galpoes-na-lapa-sp/"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/economia/ibovespa-cai-com-aversao-ao-risco-global-e-pressao-sobre-acoes-de-tecnologia/"
           },
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/incendio-de-grandes-proporcoes-atinge-galpoes-na-lapa-em-sao-paulo"
-          }
-        ],
-        "updatedAt": "2026-06-23T11:05:02.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-23-080317.png?fit=300%2C152&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "8fbf9b2269aeff49",
-        "slug": "dce6534208478b84",
-        "titulo": "Etanol sobe e açúcar enfrenta escassez na Índia",
-        "resumo": "Os preços do etanol aumentaram devido à expectativa de aprovação de uma mistura obrigatória E32 pelo CNPE. Enquanto isso, a Índia, segundo fontes do setor, terá pouca produção de açúcar disponível para exportação nas próximas três safras, causada pelo El Niño e pelo aumento da demanda de cana para etanol. A escassez pode reduzir a oferta mundial de açúcar e elevar seus preços.",
-        "porQueImporta": "Impacto direto nos preços de combustíveis e de açúcar, influenciando custos de transporte e de alimentos.",
-        "category": "economia",
-        "sources": [
+            "url": "https://www.metropoles.com/negocios/dolar-sobe-e-atinge-r-518-com-ata-do-copom-e-menor-apetite-por-risco"
+          },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/agro/etanol-sobe-com-expectativa-do-e32-e-acucar-continua-em-baixa/"
+            "url": "https://www.cnnbrasil.com.br/economia/mercado/mercado-financeiro-ibovespa-dolar-23-junho-2026/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/06/23/acucar-mais-caro-por-que-a-india-pode-sumir-do-mercado-e-o-que-isso-significa-para-os-precos.ghtml"
+            "url": "https://g1.globo.com/economia/noticia/2026/06/23/dolar-ibovespa.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/invest/mercados/ibovespa-opera-com-copom-cauteloso-e-tombo-de-acoes-de-tecnologia-dolar-sobe/"
           }
         ],
-        "updatedAt": "2026-06-23T09:52:46.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/a1TZ-bZjCC8G69iNRJiTUec0zh8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/G/w/jOOEI3TBmAbjws4FrqgQ/mathilde-langevin-ymegsqhdoxw-unsplash.jpg"
+        "updatedAt": "2026-06-23T14:18:06.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Ibovespa-ao-vivo-13-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "edb4f6d78f9b65cc",
+        "clusterId": "41e5d60a867d7772",
+        "slug": "38830c290cb0b1a8",
+        "titulo": "Calor extremo na Europa e afastamento de Alex Escobar na Copa do Mundo",
+        "resumo": "Vários países europeus, incluindo Reino Unido, França e Espanha, registraram temperaturas recordes e alertas de calor. O jornalista Alex Escobar, que cobria a Copa do Mundo, sofreu um pico de pressão durante uma transmissão ao vivo e foi afastado do jogo do Brasil, ficando em observação em hospital nos EUA.",
+        "porQueImporta": "O episódio destaca os riscos do calor extremo tanto para o público quanto para profissionais de mídia em eventos internacionais.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/business/global/europa-sofre-com-calor-extremo-entenda-o-que-esta-acontecendo/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/saude/calor-na-copa-do-mundo-entenda-mal-estar-enfrentado-por-alex-escobar/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/colunas/fabia-oliveira/alex-escobar-e-afastado-temporariamente-da-cobertura-da-copa-do-mundo"
+          }
+        ],
+        "updatedAt": "2026-06-23T14:46:04.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-23T143028Z_950957786_RC2PZLAMBDE1_RTRMADP_3_EUROPE-WEATHER-SPAIN.jpg?fit=300%2C212&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "4d14b2017bb4be89",
+        "slug": "93a4505a1d6cd8f6",
+        "titulo": "Toyota lança seu primeiro SUV elétrico no Brasil",
+        "resumo": "A Toyota disponibilizou no Brasil o SUV elétrico bZ4X, com potência de 343 cv, autonomia de 361 km e porta-malas de 452 litros. O veículo custa R$ 419.990 e a produção é limitada a 99 unidades. O modelo conta com rodas de liga leve de 20 polegadas e pneus 235/50R20.",
+        "porQueImporta": "Marca pioneira no mercado brasileiro de veículos elétricos.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/06/23/carros-e-tecnologia/o-primeiro-eletrico-da-toyota-no-brasil-ja-tem-preco-e-chega-limitado/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/casual/toyota-lanca-primeiro-carro-100-eletrico-no-mercado-brasileiro/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/carros/noticia/2026/06/23/toyota-bz4x-suv-eletrico.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-23T13:02:24.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/-MkXJ7-G_-HDXndu3hbg-WN7QK4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/u/QDjC95SrWm5ZdlxeBqqw/rdur6052.jpg"
+      },
+      {
+        "clusterId": "87533883aec45f81",
         "slug": "be9695cd8fe36a41",
         "titulo": "Receita Federal abre consulta ao segundo lote de restituição do IRPF",
         "resumo": "A Receita Federal disponibilizou, a partir das 9h de terça-feira, a consulta ao segundo lote de restituição do Imposto de Renda Pessoa Física referente a junho de 2026. O pagamento será efetuado em 30 de junho. O lote contempla 9,585,797 contribuintes, com R$ 16 bilhões destinados a restituições, o maior em número de beneficiados da história. O valor corresponde ao do primeiro lote de 2026, pago em maio.",
@@ -556,209 +556,128 @@
         "category": "economia",
         "sources": [
           {
-            "name": "Exame",
-            "url": "https://exame.com/invest/minhas-financas/receita-abre-consulta-ao-2o-lote-da-restituicao-do-imposto-de-renda-2026-veja-como-verificar/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/financas/restituicao-do-ir-receita-libera-consulta-ao-2o-lote-veja-como-fazer/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/ir-2026-receita-abre-consulta-ao-2o-lote-de-restituicao-nesta-3a"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/06/23/imposto-de-renda-2026-receita-abre-nesta-terca-a-consulta-ao-2o-lote-de-restituicao-o-maior-da-historia.ghtml"
           }
         ],
-        "updatedAt": "2026-06-23T07:41:32.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/T1F1PSuANja4ECpFR7pPAyVrL5w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/s/e/LmfQB2QEOGR1xZG5NisA/3.jpg"
+        "updatedAt": "2026-06-23T12:35:26.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/leao-do-imposto-de-renda.jpg"
       },
       {
-        "clusterId": "d479aae7bdd9610b",
-        "slug": "94fbcfe98b2813c1",
-        "titulo": "Anac autoriza Wamos Air e Air Peace a operar voos internacionais no Brasil",
-        "resumo": "A Agência Nacional de Aviação Civil (Anac) concedeu autorização às companhias aéreas estrangeiras Wamos Air, da Espanha, e Air Peace, da Nigéria, para operar voos regulares de passageiros e carga com origem ou destino no Brasil. As autorizações foram emitidas pelas Portarias nº 19.439 e nº 19.449, de 15 de junho de 2026, após o cumprimento dos requisitos previstos no Código Brasileiro de Aviação Civil. As empresas agora podem oferecer rotas internacionais que incluem o território brasileiro.",
-        "porQueImporta": "A entrada de novas companhias estrangeiras aumenta a concorrência e pode ampliar opções de rotas e preços para os consumidores brasileiros.",
+        "clusterId": "9e736db6e1245144",
+        "slug": "f3498f303a87d4ae",
+        "titulo": "Ciro Nogueira em Ibiza e queda nas intenções de voto",
+        "resumo": "O senador Ciro Nogueira foi visto em Ibiza, onde se divertiu, mas sua imagem política sofreu impacto após o caso Master. Em pesquisas de intenção de voto, ele registrou 12,6% das preferências, ficando em terceiro lugar na disputa pelo Senado. A Operação Compliance Zero e a queda nas pesquisas ameaçam sua reeleição.",
+        "porQueImporta": "A situação pode alterar o equilíbrio político no Senado e refletir a influência de escândalos na carreira de políticos.",
         "category": "economia",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/anac-autoriza-duas-companhias-aereas-estrangeiras-a-operar-no-brasil"
+            "url": "https://www.metropoles.com/colunas/mario-sabino/ciro-nogueira-se-diverte-em-ibiza-ele-nao-e-excecao-mas-simbolo"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/06/22/anac-autoriza-novas-companhias-aereas-no-brasil.ghtml"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/atlas-apos-caso-master-ciro-nogueira-aparece-em-3o-lugar-e-ve-reeleicao-ameacada/"
           }
         ],
-        "updatedAt": "2026-06-22T23:38:10.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/06/anac-autoriza-duas-companhias-aereas-estrangeiras-a-operar-no-brasil.jpg"
+        "updatedAt": "2026-06-23T14:48:59.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/10/ciro-nogueira-pp-senador-politica04.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "fc2cb98176573094",
-        "slug": "462fd8991d511024",
-        "titulo": "Raízen, Yduqs, Axia, MRV, Cogna e outras ações em destaque",
-        "resumo": "A notícia destaca os principais movimentos corporativos do dia, incluindo ações de Raízen, Yduqs, Axia, MRV e Cogna. Os investidores são convidados a acompanhar as movimentações e análises de mercado apresentadas pela fonte. O artigo oferece um panorama das empresas em foco e seus impactos potenciais no mercado acionário.",
-        "porQueImporta": "Esses movimentos podem influenciar decisões de investimento e a percepção de mercado sobre as empresas citadas.",
+        "clusterId": "edffc9d829197ebb",
+        "slug": "07ed54bc93a317d2",
+        "titulo": "Partida França x Iraque interrompida por tempestade na Filadélfia",
+        "resumo": "A partida da segunda rodada do Grupo I da Copa do Mundo, entre França e Iraque, foi suspensa por 1h30 devido a tempestade com raios na região da Filadélfia. O jogo foi retomado após a chuva cessar. A Espanha também teve seu treino interrompido pelas mesmas condições climáticas.",
+        "porQueImporta": "A suspensão demonstra o impacto de condições climáticas extremas no calendário da Copa do Mundo.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/alem-de-franca-x-iraque-espanha-tambem-sofre-com-tempestade-nos-eua/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/esg/copa-do-mundo-franca-x-iraque-e-o-primeiro-jogo-interrompido-por-condicoes-climaticas-extremas/"
+          }
+        ],
+        "updatedAt": "2026-06-23T13:02:10.000Z"
+      },
+      {
+        "clusterId": "9a99488985784214",
+        "slug": "1262bdb8c7c33305",
+        "titulo": "Banco Digimais alvo de bloqueio de R$ 670 milhões",
+        "resumo": "O bloqueio de bens e valores de até R$ 670 milhões foi determinado em operação que investigou fraudes contábeis envolvendo o banco Digimais, 10 empresas e 8 pessoas físicas. A acusação de calote de R$ 500 milhões levou a Yards Capital a buscar judicialmente a recuperação dos aportes. A operação, denominada Miragem, cumpriu nove mandados em São Paulo.",
+        "porQueImporta": "A medida demonstra a atuação de autoridades em combater fraudes financeiras de grande escala.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/sao-paulo/digimais-modelo-banco-master-pf"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/pf-mira-banco-digimais-em-operacao-com-bloqueio-de-r-670-milhoes/"
+          }
+        ],
+        "updatedAt": "2026-06-23T12:53:34.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/master-digimais.jpg"
+      },
+      {
+        "clusterId": "e26cf59f3734b2a5",
+        "slug": "cc3e04316d548086",
+        "titulo": "Putin acusa OTAN de se preparar abertamente para guerra contra a Rússia",
+        "resumo": "O presidente russo Vladimir Putin afirmou que a OTAN está se preparando para um conflito aberto contra a Rússia e que o Ocidente utiliza ameaças falsas para aumentar seus orçamentos militares. Ele justificou as ações de Moscou como necessárias para a autodefesa. Putin criticou a postura militar do Ocidente e pediu que a OTAN revele suas intenções. A declaração foi feita em meio a tensões crescentes entre a Rússia e países ocidentais.",
+        "porQueImporta": "A acusação pode intensificar as tensões geopolíticas e afetar a segurança internacional.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/raizen-yduqs-axia-mrv-cogna-e-mais-acoes-para-acompanhar-hoje/"
+            "url": "https://www.infomoney.com.br/mundo/putin-acusa-otan-de-se-preparar-abertamente-para-guerra-contra-a-russia/"
           }
         ],
-        "updatedAt": "2026-06-23T11:04:55.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Captura-de-tela-2025-11-12-130824.png?fit=300%2C199&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "f64960a56649ffe4",
-        "slug": "f17f1d048d5025b7",
-        "titulo": "Bolsa da Coreia do Sul cai 10% com queda de gigantes de chips",
-        "resumo": "O índice KOSPI despencou 10% após queda de mais de 12% nas ações da Samsung Electronics e da SK Hynix, acionando o circuit breaker. A queda foi impulsionada por preocupações com a desaceleração econômica e a volatilidade no setor de tecnologia. O fechamento do mercado ocorreu em meio a expectativas de mudanças na política monetária e de crescimento econômico do país.",
-        "porQueImporta": "A queda reflete a vulnerabilidade do mercado sul-coreano a fatores globais e pode afetar investidores e empresas de tecnologia.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/kospi-bolsa-da-coreia-do-sul-desaba-10-e-tem-circuit-breaker-com-queda-de-techs/"
-          }
-        ],
-        "updatedAt": "2026-06-23T11:01:50.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Captura-de-tela-2026-03-03-154527.png?fit=300%2C203&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "c1c8b5c03d3d4530",
-        "slug": "818a375ea811c409",
-        "titulo": "Yduqs anuncia novo campus do Ibmec em Fortaleza",
-        "resumo": "A Yduqs, controladora da empresa de educação Ibmec, anunciou a abertura de um novo campus em Fortaleza. O projeto terá um investimento estimado em R$ 10 milhões. O campus pretende ampliar a oferta de cursos presenciais na região.",
-        "porQueImporta": "A expansão aumenta o acesso a educação superior na região nordeste.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/yduqs-yduq3-anuncia-lancamento-de-um-novo-campus-do-ibmec-em-fortaleza/"
-          }
-        ],
-        "updatedAt": "2026-06-23T10:59:12.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2019/10/55752538_2440791505976320_511210174623514624_o.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "0779355bdcaa4fcc",
-        "slug": "93e9644a82a82e2f",
-        "titulo": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
-        "resumo": "Índices futuros dos EUA recuam com sell-off de ações de tecnologia The post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney.",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23062026/"
-          }
-        ],
-        "updatedAt": "2026-06-23T10:57:18.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/03/Ibovespa-ao-vivo-bolsa-de-valores-32.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-23T14:24:49.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-04T173533Z_1_LYNXMPEM531C1_RTROPTP_4_RUSSIA-TANZANIA.jpg?fit=300%2C222&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "7b3b05e7333980ea",
-        "slug": "496b332e14745c04",
-        "titulo": "Argentina enfrenta Áustria na segunda rodada da Copa do Mundo 2026",
-        "resumo": "A Argentina, que venceu a Argélia por 3 a 0 na estreia, enfrenta a Áustria em Dallas às 14h na segunda rodada. Se vencer, a seleção pode garantir a liderança do grupo e a classificação para a fase de mata‑mata, dependendo do resultado da Jordânia contra a Argentina. O jogo ocorre no estádio do Dallas Cowboys, com capacidade para 70.649 espectadores.",
-        "porQueImporta": "O resultado determinará se a Argentina pode avançar sem depender de outros confrontos, influenciando a dinâmica do grupo.",
+        "clusterId": "72b473a77f306047",
+        "slug": "7004842b0802a525",
+        "titulo": "Trump afirma que Irã aceitou inspeções nucleares",
+        "resumo": "O presidente dos Estados Unidos afirmou que o Irã concordou em permitir grandes inspeções em suas usinas nucleares, alegação que foi rejeitada pelo regime iraniano. O vice-presidente J.D. Vance também reforçou a posição de que Teerã deu sinal verde para vistorias. O Irã negou ter feito qualquer compromisso sobre seu programa nuclear durante as negociações recentes. As declarações de Trump surgiram em meio a discussões sobre um possível acordo de paz e alívio financeiro para o país.",
+        "porQueImporta": "A divergência sobre a aceitação de inspeções nucleares pode afetar a credibilidade das negociações internacionais e a segurança global.",
         "category": "mundo",
         "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/esporte/terca-feira-de-copa-tem-os-ultimos-jogos-da-segunda-rodada/"
-          },
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/jogos-de-hoje-terca-23-de-junho-onde-assistir-futebol-ao-vivo-e-horarios/"
+            "url": "https://veja.abril.com.br/mundo/mesmo-apos-ira-desmentir-trump-insiste-que-pais-aceitou-inspecoes-em-plantas-nucleares/"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/jogos-de-hoje-da-copa-do-mundo-2026-veja-as-partidas-desta-terca-23/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/23/copa-do-mundo-hoje-veja-jogos-e-horarios-do-dia-2306.ghtml"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/23/portugal-e-inglatera-jogam-a-segunda-etapa-da-fase-de-grupos-da-copa-do-mundo-nesta-terca-23.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-23T09:52:54.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/AFP__20260617__B7G39QW__v2__MidRes__TopshotFblWc2026Match22EngCro.jpg"
-      },
-      {
-        "clusterId": "0fc0221790ff870a",
-        "slug": "472f6755f98a9b8b",
-        "titulo": "Abelardo de la Espriella vence eleição presidencial na Colômbia",
-        "resumo": "O advogado e empresário Abelardo de la Espriella foi declarado vencedor no segundo turno das eleições presidenciais colombianas, com uma margem de menos de 250 mil votos sobre o candidato da esquerda, Iván Cepeda. A vitória foi confirmada em apuração preliminar, mas ainda pode ser contestada pelo partido de Cepeda. De la Espriella é considerado de extrema direita e recebeu apoio público de Donald Trump, que parabenizou o candidato. A eleição representa mais uma guinada à direita na América do Sul, que já conta com sete dos doze presidentes de espectro conservador.",
-        "porQueImporta": "A mudança de governo pode alterar a política interna colombiana e fortalecer laços com os Estados Unidos, impactando a dinâmica política regional.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/com-eleicao-na-colombia-america-do-sul-da-guinada-a-direita"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/vitoria-de-espriella-por-que-a-oposicao-de-direita-ganha-forca-na-america-latina/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/06/23/a-guinada-a-direita-na-colombia-e-no-peru-e-seus-efeitos-para-a-america-do-sul-o-assunto-1745.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.co.uk/portuguese/articles/cy8wjg4ylzjo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-06-23T08:00:07.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/06/presidentes-direita-america-do-suljpg-2.jpeg"
-      },
-      {
-        "clusterId": "c2cb55d387cb5ee6",
-        "slug": "34c1e9a1245de8c8",
-        "titulo": "EUA e Irã 'viram a noite' negociando e têm 'grande progresso' por desescalada no Líbano e grupo para resolver questão nuclear",
-        "resumo": "EUA e Irã começam negociações de paz na Suíça, mas voltam a trocar ameaças Os Estados Unidos e o Irã chegaram a um acordo para iniciar a implementação do acordo de paz preliminar entre eles e para resolver questões sensíveis, como a guerra no Líbano e a questão nuclear iraniana, anunciaram no domingo (21) os mediadores Paquistão e Catar. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Os mediadores disseram que os dois países entraram em consenso após negociações de alto nível na Suíça que duraram 18 horas —iniciaram na manhã deste domingo, avançaram pela noite e terminaram após o…",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/vance-diz-que-negociacoes-criaram-boa-base-para-acordo-definitivo-com-o-ira/"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-internacional/trump-contradiz-ira-e-diz-que-pais-aceitou-inspecao-nuclear/"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/israel-e-libano-retomam-negociacoes-nesta-terca-23-apos-acordo-eua-ira/"
+            "url": "https://www.cnnbrasil.com.br/internacional/trump-insiste-que-ira-concordou-com-inspecoes-nucleares-apos-teera-negar/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/23/novas-negociacoes-entre-libano-e-israel-devem-comecar-nesta-terca.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/22/ira-vai-aceitar-inspetores-para-monitorar-programa-nuclear-diz-vice-de-trump.ghtml"
           }
         ],
-        "updatedAt": "2026-06-23T10:47:22.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-18T162317Z_1_LYNXMPEM5H1BI_RTROPTP_4_USA-TRUMP.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-23T13:32:23.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-2272096621-e1776981772637.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "240c232a8dba81d1",
-        "slug": "f01e7950d12a5ab9",
-        "titulo": "Em missão delicada, Marco Rubio tenta vender acordo com o Irã a aliados do Golfo",
-        "resumo": "O secretário de Estado dos EUA, Marco Rubio, participa de uma reunião bilateral entre o presidente dos EUA, Donald Trump, e o emir do Catar, Sheikh Tamim bin Hamad Al Thani, à margem da cúpula do G7, em Evian-les-Bains, na França. Evelyn Hockstein / Reuters O secretário de Estado dos EUA, Marco Rubio, enfrenta uma delicada missão esta semana ao apresentar o acordo de paz de Washington com o Irã a líderes árabes do Golfo, que temem que concessões excessivas fortaleçam Teerã e reformulem o equilíbrio de segurança e o fluxo de petróleo na região. Rubio se reunirá com os líderes nos Emirados…",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/rubio-visita-aliados-do-golfo-mais-afetados-pelo-ira-enquanto-acordo-avanca/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/23/em-missao-delicada-marco-rubio-tenta-vender-acordo-com-o-ira-a-aliados-do-golfo.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-23T10:34:24.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/C6PL3mWW0ZjF_Z3viIlfr_fZS0s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/p/fXWf5ZTVSvwB0chrpr2w/2026-06-16t094627z-1159285950-rc2xula6qua8-rtrmadp-3-g7-summit-trump.jpg"
-      },
-      {
-        "clusterId": "6176f2229d4ce2e3",
+        "clusterId": "ff6e416dc48df630",
         "slug": "b0daf2d60d1d1606",
         "titulo": "Keir Starmer anuncia renúncia ao cargo de primeiro-ministro do Reino Unido",
         "resumo": "O líder do Partido Trabalhista, Keir Starmer, anunciou que deixará o cargo, permitindo que o Reino Unido tenha seu sétimo premiê em dez anos. Starmer afirmou que permanecerá no cargo até que o sucessor seja definido e que o processo de escolha deve começar em 9 de julho. A renúncia ocorre em meio a críticas internas e externas, incluindo comentários do presidente dos EUA sobre políticas do Reino Unido.",
@@ -766,85 +685,153 @@
         "category": "mundo",
         "sources": [
           {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/analise-a-crise-por-tras-da-renuncia-de-keir-starmer-no-reino-unido/"
+          },
+          {
             "name": "G1",
             "url": "https://g1.globo.com/mundo/noticia/2026/06/23/as-duvidas-que-pairam-sobre-o-mais-cotado-para-substituir-keir-starmer-como-primeiro-ministro-do-reino-unido.ghtml"
           },
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.co.uk/portuguese/articles/cn4r3473zxjo?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/articles/cn4r3473zxjo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/23/inglaterra-na-copa-reino-unido-nas-olimpiadas-entenda-divisao-nas-competicoes.ghtml"
           }
         ],
-        "updatedAt": "2026-06-23T10:12:01.000Z",
+        "updatedAt": "2026-06-23T11:29:56.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/Lcbl0a0GgbeAhww3fAzOhI2PNfk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/J/mCFIcQQ4KBZBmsVcChyA/novo-projeto-7-.jpg"
       },
       {
-        "clusterId": "29741edf5d759935",
-        "slug": "22fcdcbabe7066a0",
-        "titulo": "Estreito de Ormuz registra o tráfego mais intenso desde o início da guerra",
-        "resumo": "Navios no Estreito de Ormuz em 18 de junho de 2026. Reuters/Stringer Pelo menos 35 navios com carga atravessaram o Estreito de Ormuz na terça-feira (23), um recorde desde o início da guerra no Oriente Médio no fim de fevereiro, segundo dados da plataforma Kpler divulgados uma semana após o anúncio de um memorando de entendimento entre Irã e Estados Unidos. O volume de tráfego representa quase um terço do que era registrado em períodos de paz, quando cerca de 120 navios transitavam diariamente por esta passagem estratégica para o comércio mundial de hidrocarbonetos e outros produtos. Durante a…",
-        "porQueImporta": "",
+        "clusterId": "35054b30689de07b",
+        "slug": "61989b284d1a49aa",
+        "titulo": "Esposa de jogador da Seleção leva equipe completa para acompanhar na Copa",
+        "resumo": "Carol Cabrino, esposa de Marquinhos, trouxe para os EUA uma equipe que inclui cozinheira de Paris, filmmaker e assessor, além de familiares, para acompanhar o jogador durante a Copa. A delegação brasileira está baseada em Nova Jersey, onde as famílias alugaram casas próximas. A presença da comitiva visa oferecer apoio emocional e logístico ao atleta. A iniciativa reflete a importância da família no bem‑estar dos jogadores durante o torneio.",
+        "porQueImporta": "Mostra como a família e equipe de apoio contribuem para o desempenho e bem‑estar dos atletas em competições internacionais.",
         "category": "mundo",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/06/23/estreito-de-ormuz-registra-o-trafego-mais-intenso-desde-o-inicio-da-guerra.ghtml"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/mulher-de-jogador-da-selecao-ostenta-cozinheira-de-paris-e-equipe-nos-eua/"
           },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/fantastico/noticia/2026/06/23/esposa-de-jogador-da-selecao-diz-que-levou-cozinheira-de-paris-filmmaker-e-assessor-para-os-eua-durante-a-copa.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-23T14:42:39.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-23-at-11.39.21.jpeg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "83da6cb15ebef0cd",
+        "slug": "22fcdcbabe7066a0",
+        "titulo": "Tráfego de navios em Ormuz aumenta após acordo entre EUA e Irã",
+        "resumo": "O número de embarcações que atravessam o Estreito de Ormuz subiu para 35 por dia, quase um terço do volume de paz anterior. O Irã informou que a passagem será limitada a um número variável diário, conforme condições regionais. O aumento ocorre após o memorando de entendimento entre os EUA e o Irã, que abriu a rota para o comércio de hidrocarbonetos.",
+        "porQueImporta": "O tráfego crescente indica a retomada da estabilidade comercial na região estratégica do Oriente Médio.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-internacional/trafego-de-navios-em-ormuz-cresce-apos-acordo-entre-eua-e-ira/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/23/ira-diz-que-numero-limitado-de-navios-passara-diariamente-por-ormuz.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-23T14:39:37.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/y7pvYM-73WKqvNoNfCWGh2skj9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/T/KbQ9pmR8CydBahmF6EzQ/2026-06-16t180449z-731274368-rc2eulap3g9q-rtrmadp-3-iran-crisis-investment-fund.jpg"
+      },
+      {
+        "clusterId": "d69b1db64f380791",
+        "slug": "64491cd20d853cfb",
+        "titulo": "Torre Eiffel fecha mais cedo devido ao calor extremo em Paris",
+        "resumo": "A Torre Eiffel foi fechada nesta terça-feira (23 de junho de 2026) por causa de uma onda de calor que elevou as temperaturas em Paris, chegando a 40°C. O monumento, que normalmente abre às 16h, passou a fechar às 11h no horário de Brasília. Visitantes com ingressos já comprados serão reembolsados automaticamente. O fechamento foi anunciado pelo site oficial da torre.",
+        "porQueImporta": "O fechamento demonstra como eventos climáticos extremos podem afetar atrações turísticas de grande importância cultural e econômica.",
+        "category": "mundo",
+        "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/trafego-maritimo-aumenta-constantemente-no-estreito-de-ormuz-aponta-site/"
+            "url": "https://www.cnnbrasil.com.br/internacional/torre-eiffel-fecha-mais-cedo-devido-ao-calor-extremo-em-paris/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/06/23/torre-eiffel-fechada-onda-de-calor.ghtml"
           }
         ],
-        "updatedAt": "2026-06-23T10:10:03.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/5blq2EvBg2lJwx8oEfxFauBP01A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/e/llxXcuRMey0OSSVBARqw/2026-06-18t131217z-1189600078-rc2awlam27im-rtrmadp-3-iran-crisis-oman-hormuz.jpg"
+        "updatedAt": "2026-06-23T14:19:01.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/6QoUG4tTnLcGDKWW9EOixFnVls4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/4/Et1BjQRnm0RAqMyous0w/2026-06-22t221857z-874591579-rc25zlaksbpy-rtrmadp-3-europe-weather-france-heat.jpg"
       },
       {
-        "clusterId": "61ba016bea2deb71",
-        "slug": "741343c2c608cd5c",
-        "titulo": "Rugidos de tigre, bebidas de luxo, nude em entrevista: as polêmicas de Abelardo de la Espriella, eleito na Colômbia",
-        "resumo": "De La Espriella, candidato à presidência na Colômbia. Reprodução Abelardo de la Espriella, advogado de 47 anos e empresário sem experiência política, venceu a apuração preliminar das eleições presidenciais da Colômbia neste domingo (21). Figura conhecida da elite colombiana, o ultradireitista construiu sua imagem pública muito antes da campanha eleitoral e acumula episódios que o transformaram em um personagen controverso. Entre rugidos de tigre em eventos públicos, vídeos exibindo bebidas e carros de luxo e até uma polêmica envolvendo a exposição das próprias genitais durante uma entrevista,…",
-        "porQueImporta": "",
+        "clusterId": "093e856e314cd35d",
+        "slug": "2a7f016ac9a4b5ae",
+        "titulo": "Ataque israelense mata duas pessoas no sul do Líbano e provoca acusações de violação de cessar-fogo",
+        "resumo": "Tropas israelenses abriram fogo no sul do Líbano, resultando na morte de duas pessoas, segundo a Defesa Civil libanesa e a mídia estatal. O ataque ocorreu perto de uma escavadeira em Nabatieh al-Fawqa. O Hezbollah acusou Israel de violar o cessar-fogo que vinha sendo respeitado desde domingo. O incidente ocorre enquanto o Líbano se prepara para uma nova rodada de negociações diretas com Israel em Washington.",
+        "porQueImporta": "O episódio aumenta a tensão na região e pode complicar os esforços de paz entre Israel e o Líbano.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/ataque-de-israel-mata-duas-pessoas-no-libano-em-teste-para-cessar-fogo-ligado-ao-ira/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/23/tropas-israelenses-matam-pessoas-libano-diz-midia-estatal.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-23T14:16:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/fronteira-libano-ataques-guerra-israel-oriente-medio01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "b71815e3f75685a2",
+        "slug": "a77feab1064e1b83",
+        "titulo": "Irã nega aceitar inspeções nucleares enquanto Trump ameaça encerrar negociações",
+        "resumo": "O Irã afirmou que não tem planos para permitir inspeções da Agência Internacional de Energia Atômica (AIEA) em suas instalações nucleares. Em resposta, o presidente dos Estados Unidos, Donald Trump, alegou que negociadores iranianos aceitaram vistorias na primeira rodada de negociações pós-acordo na Suíça. Trump ameaçou encerrar as negociações se o Irã não cumprir a inspeção. A disputa reflete a tensão contínua sobre o programa nuclear iraniano.",
+        "porQueImporta": "A questão das inspeções nucleares é central para a segurança internacional e a estabilidade da região.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/ira-rebate-trump-e-nega-ter-aceitado-inspecao-em-instalacoes-nucleares"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/23/ira-descarta-inspecoes-instalacoes-nucleares-bombardeadas-guerra.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-23T14:11:29.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/03/eua-ira-trump-guerra-oriente-medio-arte-metropoles-2.jpeg"
+      },
+      {
+        "clusterId": "f4c263f43e8709eb",
+        "slug": "472f6755f98a9b8b",
+        "titulo": "Abelardo de la Espriella vence eleição presidencial na Colômbia",
+        "resumo": "O advogado e empresário Abelardo de la Espriella foi declarado vencedor no segundo turno das eleições presidenciais colombianas, com uma margem de menos de 250 mil votos sobre o candidato da esquerda, Iván Cepeda. A vitória foi confirmada em apuração preliminar, mas ainda pode ser contestada pelo partido de Cepeda. De la Espriella é considerado de extrema direita e recebeu apoio público de Donald Trump, que parabenizou o candidato. A eleição representa mais uma guinada à direita na América do Sul, que já conta com sete dos doze presidentes de espectro conservador.",
+        "porQueImporta": "A mudança de governo pode alterar a política interna colombiana e fortalecer laços com os Estados Unidos, impactando a dinâmica política regional.",
         "category": "mundo",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/23/como-de-la-espriella-construiu-sua-fortuna-e-os-negocios-questionaveis-envolvendo-o-vencedor-das-eleicoes-na-colombia.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/23/colombia-comeca-escrutinio-de-votos-apos-contagem-inicial-apontar-vitoria-de-candidato-pro-trump-entenda-processo.ghtml"
           },
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.co.uk/portuguese/articles/cgk6r4g8g33o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/articles/cy8wjg4ylzjo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-06-23T09:19:39.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/Jeu4DXDceY3tdWX-p8ob_BfzO5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/r/8qFIggRnqwqiP5qVYviQ/novo-projeto-6-.jpg"
-      },
-      {
-        "clusterId": "5410f9d9cd589b0f",
-        "slug": "b8ea1669146b491f",
-        "titulo": "O movimento católico ultraconservador que desafia o papa e cresce no Brasil com missa em latim e padre de costas",
-        "resumo": "Igreja da Fraternidade Sacerdotal São Pio X em São Paulo: congregação tradicionalista reza missas em latim Reprodução/BBC A cena é muito diferente das que se costumam repetir nas manhãs de domingo nas milhares de igrejas católicas espalhadas pelo Brasil. Depois de um silêncio solene, o som de sinos e um cheiro forte de incenso anunciaram o início da missa das 9h na pequena capela da Fraternidade Sacerdotal São Pio X no bairro da Vila Mariana, em São Paulo, no último domingo de Pentecostes, no fim de maio. O padre entrou com seus diáconos pelo corredor principal carregando um turíbulo, um…",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/23/o-movimento-catolico-ultraconservador-que-desafia-o-papa-e-cresce-no-brasil-com-missa-em-latim-e-padre-de-costas.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.co.uk/portuguese/articles/cly822lql0lo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-06-23T08:22:22.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/okrJTs8lyaCcpaw0zijR9w2QNho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/F/V5gOwbQhmqqlFpPUrN6Q/fc807820-6438-11f1-a936-d75187a800c2.jpg.webp"
+        "updatedAt": "2026-06-23T13:56:14.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/qalZMnERNAqDdJLb96GeWellahQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/D/qijifYTbCi4y2sxNQGGg/2026-06-21t143336z-795229641-rc28ylaytxf3-rtrmadp-3-colombia-election.jpg"
       }
     ],
     "tecnologia": [
       {
         "clusterId": "d90ebdb24c885808",
         "slug": "1179608ca898d12b",
-        "titulo": "Por que o novo Steam Machine custa US$ 1.049 e não tem subsídio da Valve?",
-        "resumo": "Todos sabiam que o Steam Machine seria caro, mas o preço de US$ 1.049 assustou muita gente. O anúncio do valor nesta segunda-feira (22) teve um impacto forte na indústria e trouxe diversas questões — como a precificação e o subsídio da Valve. 12 erros comuns de quem monta o primeiro PC gamer Como era o mundo dos games na última vez que o Brasil ganhou a Copa Na verdade, a companhia pensa de forma diferente de outras como Sony, Microsoft e Nintendo. Estas vendem videogame mais barato, já que a compensação virá com o lucro dos softwares criados pelos seus estúdios. Para o engenheiro Pierre-Loup…",
-        "porQueImporta": "",
+        "titulo": "Valve anuncia Steam Machine com preços entre US$ 1.049 e US$ 1.428",
+        "resumo": "A Valve revelou o Steam Machine, um console compacto de PC, com quatro opções de configuração. A versão base de 512 GB custa US$ 1.049, enquanto a de 2 TB com controle e duas placas removíveis chega a US$ 1.428. Os preços equivalem a cerca de R$ 5.400 a R$ 7.350. O envio começa em 29 de março, mas não há confirmação de venda direta no Brasil.",
+        "porQueImporta": "O lançamento define um novo modelo de console baseado em PC, influenciando o mercado de jogos e a estratégia de distribuição da Valve.",
         "category": "tecnologia",
         "sources": [
           {
@@ -860,120 +847,165 @@
         "imageUrl": "https://t.ctcdn.com.br/61iW3IY7oh8M8duJ0Xv35MlGvKI=/700x394/smart/i1136793.jpeg"
       },
       {
-        "clusterId": "e70b6a3967407478",
-        "slug": "d57778668ccb387a",
-        "titulo": "Lua hoje: confira a fase da Lua desta terça-feira 23/06/2026",
-        "resumo": "Em qual fase a Lua está hoje, 23 de junho de 2026? Confira e veja o calendário completo do mês O post Lua hoje: confira a fase da Lua desta terça-feira 23/06/2026 apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/23/ciencia-e-espaco/lua-hoje-confira-a-fase-da-lua-desta-terca-feira-23-06-2026/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/tragedia-em-lua-de-mel-marido-morre-apos-pular-de-ponta-cabeca-no-mar"
-          }
-        ],
-        "updatedAt": "2026-06-23T09:55:00.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/06/foto-marido-morre-mar.jpg"
-      },
-      {
-        "clusterId": "7aa417a50e4e13d9",
-        "slug": "f4e69ca8140e798c",
-        "titulo": "Microsoft volta atrás e vai forçar instalação do Copilot no Windows",
-        "resumo": "A Microsoft voltará a exigir a instalação do aplicativo Microsoft 365 Copilot no Windows 11 durante os próximos 30 dias. A medida será válida para um grupo selecionado de computadores compatíveis com os softwares pacote Microsoft 365 (antigo Office). Como desativar o botão do Copilot no Microsoft Edge Como usar o Copilot no Windows | Guia Prático De acordo com o site Windows Latest, a empresa confirmou a mudança no portal para administradores de sistemas: a instalação forçada vai acontecer entre a segunda quinzena de junho e a primeira quinzena de julho, sem exigir interação dos usuários para…",
-        "porQueImporta": "",
+        "clusterId": "63e77b7e519036b1",
+        "slug": "9e4d569c4e203365",
+        "titulo": "Motorola pode lançar novo topo de linha após sucesso da linha Signature",
+        "resumo": "A Motorola teria vazado material de marketing indicando o lançamento de um novo smartphone de alta performance, o Motorola Edge 70 Max. O dispositivo seria ultrafino, com foco em inteligência artificial e desempenho avançado, e teria variações de hardware para diferentes mercados, incluindo a Índia. O lançamento está previsto para mercados globais, com preços competitivos em relação a concorrentes como Samsung e Apple.",
+        "porQueImporta": "O anúncio sugere que a Motorola está buscando reforçar sua posição no segmento premium de smartphones.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/software/microsoft-volta-atras-e-vai-forcar-instalacao-do-copilot-no-windows/"
+            "url": "https://canaltech.com.br/smartphone/apos-sucesso-do-signature-motorola-planeja-novo-top-de-linha-indica-vazamento/"
           }
         ],
-        "updatedAt": "2026-06-23T10:40:00.000Z",
-        "imageUrl": "https://t.ctcdn.com.br/Hwvqog0otcxuJF8JWVKHPXSROpI=/700x394/smart/i1136883.jpeg"
+        "updatedAt": "2026-06-23T14:16:02.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/MY77mtBhPTwTiUhKjSuAUK60dVY=/700x394/smart/i1137017.png"
       },
       {
-        "clusterId": "da99dd8702358704",
-        "slug": "a76460066bc6522f",
-        "titulo": "Samsung Galaxy M47 já tem data de lançamento e promete bateria duradoura",
-        "resumo": "A Samsung confirmou oficialmente a chegada do novo Galaxy M47. O smartphone será apresentado no próximo dia 29 e chegará com foco em desempenho, resistência e longa vida útil. Além disso, o aparelho contará com tela Super AMOLED de 120 Hz, proteção Gorilla Glass Victus+ e até seis anos de suporte de software. Celular Samsung baratinho chegando: Galaxy A27 tem visual completamente vazado Vazou tudo: Galaxy A27, novo celular baratinho da Samsung, teria câmera pior Um dos principais destaques do Galaxy M47 é a tela de 6,7 polegadas Super AMOLED com taxa de atualização de 120 Hz, o que envolve…",
-        "porQueImporta": "",
+        "clusterId": "ef53f76bdaef9626",
+        "slug": "0f9bc87240e41805",
+        "titulo": "Microsoft mantém foco no ecossistema Windows e PC com Project Helix",
+        "resumo": "A cofundadora do Xbox, Laura Frier, afirmou que o Project Helix não representa abandono dos consoles, mas sim um retorno ao ecossistema Windows, cloud, Game Pass e PCs. Ela destacou que o sucesso do novo console depende de uma boa experiência de usuário. Paralelamente, foi revelado um novo logo para o Xbox Handheld na página oficial da Microsoft, indicando um possível rebranding e centralização do hardware. O logo ainda não apareceu em trailers do Xbox Game Showcase 2026.",
+        "porQueImporta": "Essas informações mostram a estratégia da Microsoft em equilibrar consoles e PC, influenciando decisões de compra e desenvolvimento de jogos.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/smartphone/samsung-galaxy-m47-ja-tem-data-de-lancamento-e-promete-bateria-duradoura/"
+            "url": "https://canaltech.com.br/games/cofundadora-do-xbox-diz-que-project-helix-e-um-pc-disfarcado/"
           }
         ],
-        "updatedAt": "2026-06-23T10:30:00.000Z",
-        "imageUrl": "https://t.ctcdn.com.br/aYAqm603W5N7qBK3xHNk0zWS4O8=/700x394/smart/i1136895.png"
+        "updatedAt": "2026-06-23T14:05:00.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/xHu7l3ZsR3CCnSOdaH_GQ9xoCSU=/700x394/smart/i1122317.jpeg"
       },
       {
-        "clusterId": "33ed465f6b0696bf",
-        "slug": "3b473fff172fd652",
-        "titulo": "Planeta rosa-choque: cor de mundo distante não é sua única surpresa",
-        "resumo": "Observações do telescópio espacial James Webb revelaram nuvens de sal na atmosfera do GJ 504b, um dos \"planetas\" mais frios já estudados O post Planeta rosa-choque: cor de mundo distante não é sua única surpresa apareceu primeiro em Olhar Digital.",
+        "clusterId": "2d285b756f114d04",
+        "slug": "0acbeb54512d4004",
+        "titulo": "BYD entrega 265 ônibus elétricos a São Paulo",
+        "resumo": "A Prefeitura de São Paulo exibiu 500 ônibus elétricos em um desfile de sete quilômetros na Marginal Tietê, destacando a participação da BYD, que entregou 265 unidades. A entrega aumenta a frota de ônibus zero emissão da capital para 1.759 veículos. O evento demonstra o avanço da mobilidade sustentável na cidade.",
+        "porQueImporta": "A expansão da frota elétrica reduz emissões e melhora a qualidade do ar urbano.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/carros/byd-domina-mobilidade-em-sp-e-entrega-265-novos-onibus-eletricos/"
+          }
+        ],
+        "updatedAt": "2026-06-23T14:00:00.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/8oAknXSWk1IYspdPhbLGrwtvsTQ=/700x394/smart/i1136903.png"
+      },
+      {
+        "clusterId": "7f167d9f91f58a61",
+        "slug": "cf152a7d5411d9f8",
+        "titulo": "TCL lança geladeira Inverse P416BF com consumo 70% menor que concorrentes",
+        "resumo": "A TCL anunciou a geladeira Inverse P416BF, que consome até 70% menos energia que modelos similares de duas portas com capacidade superior a 300 litros. O fabricante afirma que a eficiência foi comprovada por dados do Inmetro, que a classifica como a mais econômica da categoria. O lançamento ocorre no mercado brasileiro, oferecendo uma opção mais sustentável para consumidores.",
+        "porQueImporta": "Reduz o consumo de energia e pode diminuir a conta de eletricidade dos usuários.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/eletro/tcl-lanca-geladeira-no-brasil-que-consome-70-menos-energia-que-rivais-similares/"
+          }
+        ],
+        "updatedAt": "2026-06-23T13:52:00.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/1VnGkLXZXchOx8x5SO2hSgzPxg4=/700x394/smart/i1137005.jpeg"
+      },
+      {
+        "clusterId": "7f1bfae9d4648540",
+        "slug": "1177b70ee60f88b1",
+        "titulo": "Como o Vera Rubin pode ajudar a desvendar o mistério da energia escura",
+        "resumo": "O Observatório Vera Rubin pode estar prestes a desvendar a energia escura, um dos maiores mistérios da astronomia O post Como o Vera Rubin pode ajudar a desvendar o mistério da energia escura apareceu primeiro em Olhar Digital.",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/23/ciencia-e-espaco/planeta-rosa-choque-cor-de-mundo-distante-nao-e-sua-unica-surpresa/"
+            "url": "https://olhardigital.com.br/2026/06/23/ciencia-e-espaco/como-o-vera-rubin-pode-ajudar-a-desvendar-o-misterio-da-energia-escura/"
           }
         ],
-        "updatedAt": "2026-06-23T10:00:00.000Z"
+        "updatedAt": "2026-06-23T13:42:04.000Z"
       },
       {
-        "clusterId": "29e99d8afd764444",
-        "slug": "3fe3e7bef4d0f9af",
-        "titulo": "Mistério de 500 milhões de anos sobre a evolução é finalmente resolvido",
-        "resumo": "Descoberta na China revela que os briozoários já participavam da explosão cambriana, preenchendo uma das maiores lacunas do registro fóssil O post Mistério de 500 milhões de anos sobre a evolução é finalmente resolvido apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
+        "clusterId": "d38dbb6d0bc2b0b4",
+        "slug": "e88437b3a37ba52a",
+        "titulo": "Amazon oferece promoções em iPhones, smartphones Samsung e Smart TVs 4K",
+        "resumo": "A Amazon disponibiliza descontos em três categorias de produtos eletrônicos: iPhones Apple, smartphones Samsung e Smart TVs 4K de marcas como Hisense, LG e Samsung. Cada segmento apresenta modelos selecionados com condições atrativas, atendendo diferentes perfis de consumidores. As ofertas incluem opções de armazenamento e recursos específicos, como câmeras e telas de alta resolução. Os consumidores podem aproveitar preços reduzidos em dispositivos de marcas reconhecidas.",
+        "porQueImporta": "Essas promoções permitem que os consumidores adquiram tecnologia de ponta a preços mais acessíveis, facilitando a atualização de dispositivos domésticos e pessoais.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/23/ciencia-e-espaco/misterio-de-500-milhoes-de-anos-sobre-a-evolucao-e-finalmente-resolvido/"
+            "url": "https://olhardigital.com.br/2026/06/23/reviews/hora-de-economizar-iphones-apple-em-promocao-na-amazon-2/"
           }
         ],
-        "updatedAt": "2026-06-23T09:30:00.000Z"
+        "updatedAt": "2026-06-23T13:41:00.000Z"
       },
       {
-        "clusterId": "7eabddf0c725006c",
-        "slug": "bf195dfd775b5645",
-        "titulo": "É #FAKE que foto mostre Shakira com Piqué na arquibancada de Argentina x Áustria na Copa; imagem foi manipulada por IA",
-        "resumo": "Shakira não estava com Piqué em vitória da Argentina sobre a Áustria por 2 a 0 g1 Circula nas redes sociais uma publicação dizendo que a cantora Shakira assistiu ao jogo Argentina x Áustria nesta segunda-feira (22), válido pela segunda rodada do grupo J na Copa do Mundo, acompanhada do ex-jogdor Gerard Piqué, com quem teve um relacionamento entre 2010 e 2022. É #FAKE. Selo Fake (Horizontal) g1 🔴 Como são os posts? Publicado nesta segunda no X, onde já foi visto mais de 640 mil vezes, o post mostra uma imagem de Shakira e Piqué, ex-zagueiro do Barcelona e da seleção da Espanha, supostamente…",
-        "porQueImporta": "",
+        "clusterId": "e97ef784201a126e",
+        "slug": "ea09f3c6f47a688e",
+        "titulo": "Getty Images e OpenAI firmam acordo de exibição de imagens no ChatGPT",
+        "resumo": "A Getty Images, que em 2023 processou uma empresa de IA por uso indevido de suas imagens, anunciou um acordo plurianual com a OpenAI. O acervo fotográfico licenciado da Getty será exibido nas experiências de busca e descoberta do ChatGPT. O contrato não divulgou termos financeiros nem detalhes adicionais.",
+        "porQueImporta": "O acordo amplia o acesso a imagens licenciadas no ChatGPT, influenciando a disponibilidade de conteúdo visual na plataforma.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/06/23/e-fake-que-video-mostre-sosia-de-hitler-na-arquibancada-do-jogo-alemanha-x-curacao-na-copa-imagens-foram-manipuladas-por-ia.ghtml"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/mercado/critica-feroz-do-setor-de-ia-getty-images-vira-parceira-oficial-do-chatgpt/"
           }
         ],
-        "updatedAt": "2026-06-23T08:04:18.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/MBVTFSimibBMbe8-TC1-ljTLgg4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/R/dsvBVMQW67oIWEiVDUsw/abre-materia-fof-29-.png"
-      },
-      {
-        "clusterId": "55910a943bc9187f",
-        "slug": "1e4086dc9b33258e",
-        "titulo": "James Webb detecta vento que pode apagar galáxias",
-        "resumo": "A sonda James Webb identificou um vento intergaláctico de alta velocidade que pode remover gás de galáxias, impedindo a formação de novas estrelas. O fenômeno, descrito como “assassino”, ocorre em regiões onde a radiação intensa acelera partículas de gás. Estudos indicam que esse vento pode acelerar a evolução de galáxias, levando-as a um estado mais envelhecido. A descoberta oferece nova perspectiva sobre os processos que regulam a vida e morte das galáxias.",
-        "porQueImporta": "Entender como o vento intergaláctico influencia a evolução das galáxias ajuda a explicar a diversidade observada no universo.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/22/videos/confira-o-olhar-digital-news-na-integra-22-06-2026/"
-          }
-        ],
-        "updatedAt": "2026-06-23T02:49:36.000Z"
+        "updatedAt": "2026-06-23T13:35:00.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/vlLgFWhcojQVPVLg3zhCRjU0rQI=/700x394/smart/i1136963.png"
       }
     ],
     "ciencia": [
+      {
+        "clusterId": "d866b19410c1bc41",
+        "slug": "5a7ea3eb0807fc3f",
+        "titulo": "Publicação celebra os 30 anos do curso de licenciatura em Ciências Agrárias da USP em Piracicaba",
+        "resumo": "Professores do curso reúnem no livro práticas pedagógicas, experiências, estudos de caso e resultados obtidos ao longo de três décadas voltadas à formação de professores",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/universidade/publicacao-celebra-os-30-anos-do-curso-de-licenciatura-em-ciencias-agrarias-da-usp-em-piracicaba/"
+          }
+        ],
+        "updatedAt": "2026-06-23T13:04:23.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260623_00_curso_ciencias_agrarias_esalq_usp.jpg"
+      },
+      {
+        "clusterId": "a2d8b5c568aaca8f",
+        "slug": "dcc4af404ce1ae35",
+        "titulo": "Nova lei endurece penas para roubo, estelionato e golpes virtuais",
+        "resumo": "Mudanças já estão em vigor e ampliam punições para crimes patrimoniais, além de criar sanções específicas para os chamados \"laranjas\" de fraudes eletrônicas",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/atualidades/nova-lei-endurece-penas-para-roubo-estelionato-e-golpes-virtuais/"
+          }
+        ],
+        "updatedAt": "2026-06-23T11:10:13.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260622_estelionato-1024x537.jpg"
+      },
+      {
+        "clusterId": "1eef2cd5dc092b38",
+        "slug": "0ea5417c88024cc5",
+        "titulo": "Como o treino aeróbio ajuda a reduzir perda muscular associada ao câncer​",
+        "resumo": "Ao modular inflamação, ativação de enzima pode ser o segredo para transformar o treino em escudo contra os efeitos agressivos do tumor, sugere estudo em animais",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/ciencias/como-o-treino-aerobio-ajuda-a-reduzir-perda-muscular-associada-ao-cancer/"
+          }
+        ],
+        "updatedAt": "2026-06-23T11:06:01.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260615_exercicio-1024x538.jpg"
+      },
       {
         "clusterId": "ea69f6ae54c9c47b",
         "slug": "a4c73c28597cfff2",
@@ -989,6 +1021,38 @@
         ],
         "updatedAt": "2026-06-23T11:00:39.000Z",
         "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/06/2206-El-Nino-layout_site.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "fd0a44d0b6b8bb22",
+        "slug": "e2b8d3a7f42de1f6",
+        "titulo": "Produtos florestais não-madeireiros mostram que é possível aliar desenvolvimento e conservação",
+        "resumo": "Convivendo com sociedades extrativistas da Amazônia, pesquisadores registram ascensão social marcante de comunidades que cuidam da floresta da qual tiram sustento",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/ciencias/produtos-florestais-nao-madeireiros-mostram-que-e-possivel-aliar-desenvolvimento-e-conservacao/"
+          }
+        ],
+        "updatedAt": "2026-06-23T11:00:32.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260608_mulheres-1024x538.jpg"
+      },
+      {
+        "clusterId": "b43935dd63d4cced",
+        "slug": "915ebc202c56953a",
+        "titulo": "Realidade virtual faz o cuidador experimentar desafios enfrentados pelos idosos",
+        "resumo": "Realidade virtual leva idosos a locais nunca antes explorados por eles Já escrevi inúmeras vezes sobre como a tecnologia pode ser uma ferramenta da maior importância para cuidadores e adultos mais velhos. Recentemente, descobri a Front Porch – o equivalente a varanda, alpendre – uma organização sem fins lucrativos que há 20 anos atua nas áreas de habitação acessível, inovação em serviços e inclusão digital. Davis Park é vice-presidente de transformação da entidade e elegeu como prioridades a redução do estresse do cuidador e a melhoria da qualidade do cuidado para idosos. Uma das iniciativas…",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/06/23/realidade-virtual-faz-o-cuidador-experimentar-desafios-enfrentados-pelos-idosos.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-23T07:01:49.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/8ZWxWJ5wFFXYE0Ys8RTGYcx_1jM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/W/qKQ6eTTaAB3P3kkyMYrw/tecnologiafrontporch1.jpg"
       },
       {
         "clusterId": "4c3479e48c06ee35",
@@ -1021,89 +1085,24 @@
         ],
         "updatedAt": "2026-06-22T21:49:39.000Z",
         "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/Novo-Projeto-1024x538.png"
-      },
-      {
-        "clusterId": "1dd8fac4eb0d55ef",
-        "slug": "3a0315ada9cf10eb",
-        "titulo": "Messi autista? Fake news originou em 2013 e foi negada por familiares e médico",
-        "resumo": "Em 2013, um jornalista brasileiro publicou um artigo sugerindo que Lionel Messi seria autista, gerando uma fake news que se espalhou pela internet. A história não tem fundamento e foi contestada pela família do jogador e pelo médico de infância. A informação foi amplamente compartilhada, mas não há evidências que confirmem a alegação.",
-        "porQueImporta": "Esclarece a origem de uma informação falsa que circulou amplamente sobre um atleta mundialmente reconhecido.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/saude/messi-e-autista-como-surgiu-a-fake-news-de-que-o-jogador-estaria-no-espectro/"
-          }
-        ],
-        "updatedAt": "2026-06-22T21:00:31.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/06/2206-messi-layout_site.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "2a8a382cafb709ab",
-        "slug": "d14290393222b05c",
-        "titulo": "USP oferece apoio a municípios brasileiros para participar de ranking internacional de sustentabilidade",
-        "resumo": "A Universidade de São Paulo disponibilizará capacitação e metodologias para que municípios se inscrevam em ranking internacional de sustentabilidade. O apoio incluirá avaliação de governança, clima, mobilidade, recursos hídricos e gestão ambiental. A iniciativa visa fortalecer a participação local em métricas globais de sustentabilidade.",
-        "porQueImporta": "Permite que cidades brasileiras se alinhem a padrões internacionais e melhorem suas práticas ambientais.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/municipios-brasileiros-terao-apoio-da-usp-para-participar-de-ranking-internacional-de-sustentabilidade/"
-          }
-        ],
-        "updatedAt": "2026-06-22T20:17:27.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260622_cidadessustentaveis2-1024x538.jpeg"
-      },
-      {
-        "clusterId": "ca30b48ad292c8dd",
-        "slug": "4c28729d3d2d1ba3",
-        "titulo": "Projeto da USP transforma temas de saúde em atividades interativas para estudantes da rede pública",
-        "resumo": "Um projeto da USP reúne estudantes de diversos cursos para desenvolver atividades interativas sobre saúde e levar educação a escolas públicas. A iniciativa visa aproximar jovens da universidade e promover o aprendizado prático. Os participantes criam materiais didáticos que abordam temas relevantes para a comunidade escolar.",
-        "porQueImporta": "Contribui para a disseminação de conhecimento em saúde e fortalece o vínculo entre universidade e escolas públicas.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/noticias/projeto-da-usp-transforma-temas-de-saude-em-atividades-interativas-para-estudantes-da-rede-publica/"
-          }
-        ],
-        "updatedAt": "2026-06-22T19:55:58.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260615_projetocrid-1024x538.jpg"
-      },
-      {
-        "clusterId": "7b88da1a084fb5c4",
-        "slug": "ee9462b8ac9e1f3c",
-        "titulo": "Evento on-line aborda atuação da Escola USP de Gestão",
-        "resumo": "O Grupo de Estudo Carreira Docente de Impacto do IEA-RP organizou um evento online para discutir a atuação da Escola USP de Gestão. A palestrante será Adriana Caldana, coordenadora do órgão. O encontro visa analisar o papel da escola no contexto acadêmico e de impacto social.",
-        "porQueImporta": "O evento destaca a importância da Escola USP de Gestão na formação de profissionais e na promoção de pesquisas de impacto.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/atuacao-da-escola-usp-de-gestao-e-tema-de-evento-on-line/"
-          }
-        ],
-        "updatedAt": "2026-06-22T19:53:20.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260615_encerramento-1024x546.jpg"
-      },
-      {
-        "clusterId": "9f86a8e6e1a18d20",
-        "slug": "ae92e359317c7c1b",
-        "titulo": "Seminário no Museu da Língua Portuguesa aborda conhecimento tradicional e inteligência artificial",
-        "resumo": "O evento, organizado pela USP, reuniu especialistas nacionais e internacionais para debater os desafios da proteção dos direitos intelectuais indígenas frente ao avanço da inteligência artificial. Os participantes discutiram como a IA pode impactar o uso e a preservação de saberes tradicionais. O seminário destacou a necessidade de políticas que garantam o respeito e a valorização desses conhecimentos.",
-        "porQueImporta": "É relevante porque a IA pode ameaçar a proteção dos direitos culturais indígenas, exigindo atenção e regulamentação.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/diversidade/conhecimentos-tradicionais-e-inteligencia-artificial-sao-temas-de-seminario-no-museu-da-lingua-portuguesa/"
-          }
-        ],
-        "updatedAt": "2026-06-22T19:25:57.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260619_ia-1024x537.jpg"
       }
     ],
     "saude": [
+      {
+        "clusterId": "7903a3e82f243502",
+        "slug": "11a6d2e7b7662cc7",
+        "titulo": "Crianças brasileiras com asma: sinais de alerta e prevenção",
+        "resumo": "Uma em cada cinco crianças no Brasil pode ter asma, condição que causa crises respiratórias. Os principais sinais incluem chiado, falta de ar e tosse persistente. O diagnóstico precoce e o acompanhamento médico reduzem complicações. Estratégias de prevenção incluem evitar gatilhos e usar medicação prescrita.",
+        "porQueImporta": "Reconhecer os sintomas cedo evita crises graves e melhora a qualidade de vida infantil.",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/pediatria/seu-filho-pode-ter-asma-e-voce-nao-sabe-conheca-os-sinais-de-alerta/"
+          }
+        ],
+        "updatedAt": "2026-06-22T19:00:52.000Z"
+      },
       {
         "clusterId": "79a001d3bfcb66b2",
         "slug": "42fa9dbf2df998ee",
@@ -1122,43 +1121,163 @@
     ],
     "esportes": [
       {
-        "clusterId": "7d3e87bb13cc4de2",
-        "slug": "27bc225367b4230e",
-        "titulo": "Inglaterra e Gana se enfrentam na segunda rodada do Grupo L da Copa do Mundo 2026",
-        "resumo": "A partida entre Inglaterra e Gana está marcada para terça-feira, 23 de junho, às 17h (horário de Brasília), em Boston, nos Estados Unidos. O jogo faz parte da segunda rodada da fase de grupos da Copa do Mundo 2026, no Grupo L, e coloca frente a frente duas seleções que venceram na estreia do torneio. A transmissão será realizada pela Globo, ge TV e Sportv, além de ser possível acompanhar ao vivo na página de tempo real do ge.globo.",
-        "porQueImporta": "O confronto decide a liderança do Grupo L e influencia a classificação para as fases eliminatórias.",
+        "clusterId": "740ec98315618df1",
+        "slug": "e1994abc8c7655cd",
+        "titulo": "Delegação do Egito é impedida de entrar em cidade dos EUA após vitória na Copa do Mundo",
+        "resumo": "Nova Zelândia 1 x 3 Egito | Gols | 2ª rodada | Copa do Mundo 2026 Depois de derrotar a Nova Zelândia e conquistar sua primeira vitória em Copas do Mundo, o Egito enfrentou um contratempo fora de campo. A seleção planejava seguir de Vancouver, no Canadá, para Seattle, nos Estados Unidos, onde disputará sua próxima partida, mas foi impedido de permanecer na cidade norte-americana e precisou retornar à sua base em Spokane. + Com dancinha de Salah, seleção do Egito faz festa no vestiário após vitória inédita na Copa 🔍 Adicione o ge nas suas fontes favoritas do Google + Confira a tabela completa…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/cidade-dos-eua-barra-entrada-de-selecao-do-egito/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/copa-do-mundo-selecao-do-egito-e-impedida-de-entrar-em-cidade-dos-eua"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/23/egito-e-impedido-de-entrar-em-cidade-dos-estados-unidos-apos-vitoria-na-copa-do-mundo.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-23T14:15:03.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2282797940.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "bb55f92fe445f3be",
+        "slug": "22dcb16831476614",
+        "titulo": "Neymar treina sem limitações e pode entrar contra Escócia",
+        "resumo": "Neymar treinou sem limitações pela primeira vez desde sua recuperação e pode ser convocado para a partida contra a Escócia. O goleiro Alisson foi poupado da atividade por controle de carga, mas não preocupa para a partida. Raphinha permanece fora dos trabalhos para tratamento de lesão. A seleção brasileira treina em Nova Jersey com foco no jogo contra a Escócia, válido pela terceira rodada do Grupo C da Copa do Mundo.",
+        "porQueImporta": "A presença de Neymar pode influenciar a estratégia e o desempenho do Brasil na Copa do Mundo.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/23/quem-e-o-atacante-de-20-anos-que-se-tornou-esperanca-da-escocia-contra-o-brasil.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/entretenimento/copa-do-mundo-10-lugares-para-assistir-brasil-x-escocia-no-df"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/fantastico/noticia/2026/06/22/brasil-x-escocia-a-saida-de-raphinha-e-a-expectativa-da-presenca-de-neymar-no-proximo-desafio-na-copa.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-23T13:00:11.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/BNAJbZDAwNankvfm9KMsV9GqB38=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/X/6/Au484HTuS27i5OIV0uZg/gettyimages-2281852330.jpg"
+      },
+      {
+        "clusterId": "4110d6e365f17677",
+        "slug": "c891f07e29da5097",
+        "titulo": "Mbappé e Messi marcam gols decisivos e redefinem recordes de artilharia na Copa",
+        "resumo": "Na partida contra o Iraque, Kylian Mbappé marcou dois gols, elevando seu total de 16 na Copa do Mundo e igualando o recorde de Miroslav Klose. Enquanto isso, Lionel Messi anotou dois gols na vitória da Argentina sobre a Áustria, alcançando 18 gols e se tornando o maior artilheiro da história da competição. O desempenho de ambos os jogadores destaca a importância de suas contribuições para o sucesso de suas seleções.",
+        "porQueImporta": "Esses resultados alteram o histórico de artilharia da Copa, colocando Messi no topo e mantendo Mbappé como um dos maiores artilheiros da era moderna.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/23/messi-tem-mais-gols-em-copas-do-mundo-que-quase-metade-das-selecoes-da-atual-edicao.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cq817w27gz3o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/tecnologia/noticia/2026/06/22/memes-messi-perde-penalti-e-internet-reage-veja.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-23T13:00:08.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/iIfJfsoURCr4XZknsvJZFXBqhG4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/A/O/DysJy7TVuqGNMBr2jeMQ/messi.jpg"
+      },
+      {
+        "clusterId": "d646247052fb1c88",
+        "slug": "c6939df387de5654",
+        "titulo": "Retorno antecipado: Mirassol voltará a jogar antes da final da Copa do Mundo",
+        "resumo": "Mirassol acerta empréstimo de jogador do Cruzeiro O Mirassol voltará a jogar antes do previsto e ainda durante a Copa do Mundo. O Leão entra em campo no dia 16 de julho (quinta-feira), três dias antes da decisão do Mundial, quando recebe o Grêmio, pela 19ª rodada do Brasileirão. 📲 Clique aqui e siga o canal do ge Mirassol no WhatsApp A CBF confirmou nessa segunda-feira a tabela das rodadas 19 até 24 da Série A, com quatro jogos acontecendo ainda durante a Copa. A decisão do torneio está marcada para o dia 19 de julho, em Nova Jersey. Mirassol volta a jogar no dia 16 de julho Gilson Lobo/Agif…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/sp/tem-esporte/futebol/times/mirassol/noticia/2026/06/23/retorno-antecipado-mirassol-voltara-a-jogar-antes-da-final-da-copa-do-mundo.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/cbf-confirma-retorno-do-brasileirao-dias-antes-da-final-da-copa"
+          }
+        ],
+        "updatedAt": "2026-06-23T14:30:15.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/AjcoZ4-ziE59i4OFmub6XjiknYc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/q/9/fABAlSTtOGmfEgbO8dGg/design-sem-nome-20-.png"
+      },
+      {
+        "clusterId": "32c00e06ead0fe82",
+        "slug": "04d4bf48deb5d62c",
+        "titulo": "Luiz Henrique, Endrick... Quem deve substituir Raphinha? Comentaristas opinam",
+        "resumo": "Endrick, Luiz Henrique... Quem deve substituir Raphinha na Seleção? Comentaristas opinam O Brasil enfrenta a Escócia nesta quarta-feira, na terceira rodada do Grupo C da Copa do Mundo, e terá pelo menos uma mudança na escalação em relação ao jogo contra o Haiti. Raphinha tem lesão na coxa direita e é desfalque. Para seu lugar, Luiz Henrique, Rayan, Endrick e Gabriel Martinelli são algumas das opções. O ge ouviu os comentaristas do Grupo Globo, que escolheram o ex-Botafogo como o nome ideal para ser titular do ataque da seleção brasileira. Ana Thaís Matos, Eric Faria, Luiz Carlos Jr, Maestro…",
+        "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/inglaterra-e-gana-fazem-confronto-direto-por-lideranca-do-grupo-l/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-inglaterra-x-gana-copa-do-mundo-23-06-26"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/resultado-enquete-luiz-henrique-endrick-rayan-substituir-raphinha-selecao/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/23/palpites-e-dicas-para-inglaterra-x-gana-pela-copa-do-mundo.ghtml"
-          },
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/23/internet-e-redes-sociais/inglaterra-x-gana-onde-assistir-horario-e-escalacao-da-copa-do-mundo/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/inglaterra-x-gana-quem-vai-ganhar-o-jogo-na-copa-do-mundo/"
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/23/luiz-henrique-endrick-quem-deve-substituir-raphinha-comentaristas-opinam.ghtml"
           }
         ],
-        "updatedAt": "2026-06-23T10:30:52.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/06/inglaterra-gana.jpg"
+        "updatedAt": "2026-06-23T13:24:51.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/Xria3hz6kxex1OOAd8hXLQ7G_Lo=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/2/c/0Pke5mTBSJWzdsAtHwIQ/22jun2026treinoredbull1-rayan.jpg"
       },
       {
-        "clusterId": "b0bf26168c60f57f",
-        "slug": "538b57b954e59e0d",
-        "titulo": "Seleção da Noruega faz remada viking com torcida após vitória sobre Senegal",
-        "resumo": "Após vencer o Senegal por 3 a 2, a seleção da Noruega e a torcida realizaram a remada viking no MetLife Stadium, em Nova Jersey. Os jogadores se sentaram no gramado e, com um tambor, executaram a coreografia em conjunto com os torcedores. A celebração, já tradicional na Copa do Mundo, ganhou destaque nas redes sociais. Um torcedor permaneceu parado, chamando atenção durante a coreografia.",
-        "porQueImporta": "A ação reforçou a identidade cultural da torcida norueguesa e destacou a importância da celebração coletiva em eventos esportivos internacionais.",
+        "clusterId": "8c1ef3cce8de49fe",
+        "slug": "ab23cd184d2f7c7e",
+        "titulo": "Haaland artilheiro da Copa? \"Mais fácil jogando por França ou Argentina\", diz técnico da Noruega",
+        "resumo": "Noruega 3 x 2 Senegal | Melhores momentos | 2ª rodada | Copa do Mundo 2026 Maior goleador da história da seleção da Noruega, com 59 gols em 52 jogos, Erling Haaland está na briga pela artilharia da Copa do Mundo 2026. Disputadas as duas primeiras rodadas do Grupo I, o atacante do Manchester City tem quatro gols marcados, apenas um a menos do que Lionel Messi. Foram dois gols na estreia, contra o Iraque, e mais dois nesta segunda-feira, contra Senegal. + Seleção faz remada viking com torcida da Noruega; assista Ciente da importância do jogador, o técnico norueguês Stale Solbakken foi sincero…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/devem-nos-vencer-haaland-e-sincero-sobre-duelo-entre-noruega-e-franca/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/23/haaland-freia-empolgacao-e-nao-cre-em-noruega-candidata-ao-titulo-da-copa-temos-que-ser-realistas.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-23T13:22:24.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/QYxkebo3VZzNTe30mZeuPI2v5uw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/a/4/8Z7qQDSJ2FZY6j6lTELw/gettyimages-2282354285.jpg"
+      },
+      {
+        "clusterId": "7d7daaaebea8127c",
+        "slug": "0f3f518703dc6995",
+        "titulo": "Técnico do Panamá acredita em vitória sobre Croácia e cita zebras: \"Por que não ser mais uma?\"",
+        "resumo": "Gana 1 x 0 Panamá | Melhores momentos | 1ª rodada | Copa do Mundo 2026 Cabo Verde arrancando empates contra as campeãs mundiais Espanha e Uruguai. A República Democrática do Congo também somando seu primeiro ponto em Copas contra Portugal, do astro Cristiano Ronaldo. Curaçao segurando um 0 a 0 com o Equador, após estrear levando uma goleada de 7 a 1 para a Alemanha. A Copa do Mundo de 2026 vem entregando resultados surpreendentes. E por que o Panamá também não pode \"aprontar\" para cima da Croácia, nesta terça-feira? + Veja a tabela da Copa do Mundo + Simule os resultados da Copa do Mundo Quem…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/apos-surpreender-portugal-rd-congo-quer-seguir-fazendo-historia-na-copa/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/23/com-fator-casa-contra-colombia-congo-quer-repetir-zebra-o-papel-de-desafiante-e-que-nos-gostamos.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-23T13:00:31.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/EwW_Xy4a0KmSApY4_OZtkaqkhM4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/U/o/BBxFiOSROIKivCM1yFHQ/gettyimages-2269295565.jpg"
+      },
+      {
+        "clusterId": "cfbf152f62420c00",
+        "slug": "c05aa2661c8ebb37",
+        "titulo": "Torcedor norueguês se recusa a remar em \"barco viking\" e chama a atenção; veja",
+        "resumo": "Torcedores noruegueses fazem a remada viking no Estádio de Nova Jersey Até o elenco de jogadores da Noruega se mobilizou para imitar na noite de segunda-feira a já tradicional celebração que imita a remada de um barco viking, em uma das imagens mais marcantes da Copa do Mundo. Um homem, porém, foi “contra a maré”, permaneceu parado em meio à coreografia e chamou a atenção. 🔍 Adicione o ge nas suas fontes favoritas do Google Antes de os noruegueses baterem o Senegal por 3 a 2 e alcançarem a segunda vitória no Grupo I, os torcedores da Noruega realizaram a remada viking pré-jogo. O “mar…",
+        "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
@@ -1168,161 +1287,25 @@
           {
             "name": "Metrópoles",
             "url": "https://www.metropoles.com/viralizou/remada-viking-o-que-significa-a-comemoracao-de-jogadores-da-noruega"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/comemoracao-viking-embala-noruega-na-classificacao-ao-mata-mata-da-copa/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/video-jogadores-da-noruega-se-juntam-a-torcida-em-comemoracao-viking/"
           }
         ],
         "updatedAt": "2026-06-23T10:47:47.000Z",
         "imageUrl": "https://s2-ge.glbimg.com/5C87EkkZm3q_qZg8cAYd_50VO_o=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/s/1/8PEFxxRrO0l69L5WzQmw/noruegues.jpeg"
-      },
-      {
-        "clusterId": "442cfd0f795037c9",
-        "slug": "83cee6da35591c07",
-        "titulo": "Colômbia enfrenta República Democrática do Congo na segunda rodada da Copa do Mundo 2026",
-        "resumo": "O duelo entre Colômbia e República Democrática do Congo está marcado para a segunda rodada do Grupo K, na terça-feira, 23 de junho, às 23h (horário de Brasília). A RD Congo, que surpreendeu ao empatar Portugal na estreia, busca repetir a performance e conquistar pontos. A partida será realizada no Estádio Akron, no México. As equipes já têm escalações previstas e os meios de transmissão foram divulgados pelas fontes.",
-        "porQueImporta": "O resultado pode definir a posição das seleções no grupo e influenciar a continuidade no torneio.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/23/com-fator-casa-contra-colombia-congo-quer-repetir-zebra-o-papel-de-desafiante-e-que-nos-gostamos.ghtml"
-          },
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/23/internet-e-redes-sociais/colombia-x-rd-congo-onde-assistir-horario-e-escalacoes-do-jogo-da-copa-do-mundo/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/panama-x-croacia-horario-e-onde-assistir-a-copa-do-mundo/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/colombia-x-republica-democratica-do-congo-quem-vai-ganhar-o-jogo-na-copa-do-mundo/"
-          }
-        ],
-        "updatedAt": "2026-06-23T09:00:10.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/EwW_Xy4a0KmSApY4_OZtkaqkhM4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/U/o/BBxFiOSROIKivCM1yFHQ/gettyimages-2269295565.jpg"
-      },
-      {
-        "clusterId": "776bfca5ddaa8db7",
-        "slug": "07883714eab64d4f",
-        "titulo": "Giannis Antetokounmpo deixa os Bucks e seguirá para o Miami Heat, diz portal",
-        "resumo": "Giannis Antetokounmpo ganha presentes de Vini Jr e veste camisa da Seleção Giannis Antetokounmpo está de saída do Milwaukee Bucks. Segundo o portal ESPN, por meio do jornalista Shams Charania, a franquia acertou a transferência do astro grego para o Miami Heat em uma negociação que promete mudar o equilíbrio de forças da Conferência Leste da NBA. O acordo prevê o envio de Giannis e Bobby Portis para Miami. Em troca, os Bucks receberão Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakucionis, três escolhas de primeira rodada do Draft — incluindo a 13ª escolha deste ano —, uma \"pick…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/basquete/giannis-antetokounmpo-e-trocado-pelos-bucks-para-o-miami-heat/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/nba-milwaukee-bucks-trocam-giannis-antetokounmpo-para-o-miami-heat"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/basquete/nba/noticia/2026/06/23/giannis-antetokounmpo-deixa-os-bucks-e-seguira-para-o-miami-heat-diz-portal.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-23T10:51:41.000Z",
-        "imageUrl": "https://images.metroimg.com/2023/12/18093540/Giannis-Antetounkoumpo.jpg"
-      },
-      {
-        "clusterId": "157224e3aaf1ef3b",
-        "slug": "60b9c70d5cb08940",
-        "titulo": "Rival de Portugal, Uzbequistão já teve sonho da Copa adiado por causa de jogo anulado por erro do árbitro",
-        "resumo": "A Colômbia vence Uzbequistão e lidera o grupo que tem Portugal Atual técnico do Uzbequistão, Fabio Cannavaro por pouco não viu a seleção asiática disputar a mesma Copa do Mundo em que capitaneou a Itália rumo ao título. O time uzbeque tinha dado um passo rumo ao Mundial de 2006, mas teve uma vitória anulada por erro de arbitragem na repescagem. O jogo precisou ser repetido, e a seleção acabou derrotada. + O desastre aéreo que dizimou uma geração de talentos e atrapalhou o sonho do Uzbequistão O Uzbequistão disputa a Copa do Mundo pela primeira vez em 2026 e garantiu classificação ao terminar…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/23/rival-de-portugal-uzbequistao-ja-teve-sonho-da-copa-adiado-por-causa-de-jogo-anulado-por-erro-do-arbitro.ghtml"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-portugal-x-uzbequistao-copa-do-mundo-23-06-26"
-          }
-        ],
-        "updatedAt": "2026-06-23T11:00:13.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/GxhYGG5wmPmy5bksvVM7AUm2GEc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/4/c/rA7KyJQJWjhsrB0zZ2pA/gettyimages-1313809630.jpg"
-      },
-      {
-        "clusterId": "cc8f0102f9fca3a3",
-        "slug": "75cd337ad33363a0",
-        "titulo": "Colômbia pode garantir vaga antecipada na segunda fase da Copa; veja a situação do grupo",
-        "resumo": "Uzbequistão 1 x 3 Colômbia | Melhores momentos | 1ª rodada | Copa do Mundo FIFA 2026 A Colômbia pode garantir a classificação para a segunda fase da Copa do Mundo com uma rodada de antecedência. Para isso, basta vencer a República Democrática do Congo, nesta terça-feira, às 23h (de Brasília), pela segunda rodada do Grupo K, na cidade de Guadalajara, no México. + Veja a tabela da Copa do Mundo Como venceu o Uzbequistão na estreia e viu Portugal e RD Congo empatarem, os colombianos estarão garantidos no mata-mata somando mais três pontos, sem depender de qualquer outro resultado da partida dos…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/23/colombia-pode-garantir-vaga-antecipada-na-segunda-fase-da-copa-veja-a-situacao-do-grupo.ghtml"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/jornal-da-globo/noticia/2026/06/23/veja-as-selecoes-classificadas-e-eliminadas-da-copa-do-mundo-ate-agora.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-23T11:00:09.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/_AhJ0OzOTFyMV1XaCIBmd8j1jJY=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/H/g/GyBtLARf6XgxkXSyMOVQ/2026-06-18t042239z-644068390-up1em6i0bwn3v-rtrmadp-3-soccer-worldcup-uzb-col.jpg"
-      },
-      {
-        "clusterId": "550dca2a13cac233",
-        "slug": "ca0db9965e6a4e3b",
-        "titulo": "Motociclista sem habilitação fica ferido após bater moto em carro em Volta Redonda",
-        "resumo": "Motociclista sem habilitação fica ferido após bater moto em carro em Volta Redonda Divulgação/Semop Um acidente envolvendo um carro e uma moto deixou um motociclista ferido na noite de segunda-feira (22) no bairro Vila Mury, em Volta Redonda (RJ). A colisão aconteceu na Avenida Almirante Adalberto de Barros Nunes (Beira Rio) por volta das 22h, em frente ao posto da Guarda Municipal. Segundo a Secretaria Municipal de Ordem Pública, a moto acabou batendo no carro. O motociclista sofreu ferimentos moderados e foi socorrido ao Hospital São João Batista. O g1 entrou em contato com a unidade médica…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/rj/sul-do-rio-costa-verde/futebol/times/volta-redonda/noticia/2026/06/23/volta-redonda-inicia-semana-prolongada-de-preparacao-para-enfrentar-o-amazonas.ghtml"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/06/23/motociclista-sem-habilitacao-fica-ferido-apos-bater-moto-em-carro-em-volta-redonda.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-23T10:55:15.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/HAlPDxIIn6EvL7Ejy2VmaydpkHk=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/6/O/IKAt4ESSq2vMApwqB3BA/55341381829-16a9e478c9-c.jpg"
-      },
-      {
-        "clusterId": "315d18b857495729",
-        "slug": "ef4ff5b655a0cb27",
-        "titulo": "Haaland artilheiro da Copa? \"Mais fácil jogando por França ou Argentina\", diz técnico da Noruega",
-        "resumo": "Noruega 3 x 2 Senegal | Melhores momentos | 2ª rodada | Copa do Mundo 2026 Maior goleador da história da seleção da Noruega, com 59 gols em 52 jogos, Erling Haaland está na briga pela artilharia da Copa do Mundo 2026. Disputadas as duas primeiras rodadas do Grupo I, o atacante do Manchester City tem quatro gols marcados, apenas um a menos do que Lionel Messi. Foram dois gols na estreia, contra o Iraque, e mais dois nesta segunda-feira, contra Senegal. + Seleção faz remada viking com torcida da Noruega; assista Ciente da importância do jogador, o técnico norueguês Stale Solbakken foi sincero…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/23/haaland-minimiza-importancia-de-noruega-x-franca-provavelmente-vao-ganhar-de-nos.ghtml"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/passou-o-cometa-haaland-marca-dois-e-bate-novo-recorde-pela-noruega/"
-          }
-        ],
-        "updatedAt": "2026-06-23T07:00:19.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/QYxkebo3VZzNTe30mZeuPI2v5uw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/a/4/8Z7qQDSJ2FZY6j6lTELw/gettyimages-2282354285.jpg"
       }
     ],
     "entretenimento": [
       {
-        "clusterId": "70633efb6e613c1f",
+        "clusterId": "fdc66a16be5afe95",
         "slug": "013f884d0fad2a37",
         "titulo": "Corpo de Oliver Tree chega à Califórnia após acidente de helicóptero no Rio",
         "resumo": "O músico americano Oliver Tree faleceu em acidente de helicóptero no Recreio dos Bandeirantes, na Zona Oeste do Rio de Janeiro, em 14 de julho. O corpo foi repatriado para a Califórnia, onde a família o recebeu. A colisão envolveu dois helicópteros e resultou em seis vítimas fatais.",
         "porQueImporta": "O repatriamento marca o fim de um trágico episódio que abalou a comunidade musical e a cidade do Rio de Janeiro.",
         "category": "entretenimento",
         "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/celebridades/oliver-tree-equipe-revela-destido-da-heranca-do-cantor/"
+          },
           {
             "name": "Metrópoles",
             "url": "https://www.metropoles.com/celebridades/mae-de-oliver-tree-sobre-heranca-familia-nao-vai-receber-um-centavo"
@@ -1332,11 +1315,11 @@
             "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/06/22/corpo-de-oliver-tree-chega-aos-eua-apos-morte-em-acidente-de-helicoptero.ghtml"
           }
         ],
-        "updatedAt": "2026-06-23T10:07:29.000Z",
+        "updatedAt": "2026-06-23T12:05:24.000Z",
         "imageUrl": "https://images.metroimg.com/2026/06/pais-de-oliver-tree.jpg"
       },
       {
-        "clusterId": "d410b6a22987c3d3",
+        "clusterId": "a167e25d5a075201",
         "slug": "2488fbf7bffa7d59",
         "titulo": "Sabrina Sato anuncia gravidez com Nicolas Prattes",
         "resumo": "A apresentadora Sabrina Sato divulgou em 22 de fevereiro que está grávida de seu primeiro filho com o ator Nicolas Prattes, anunciando a notícia em vídeo nas redes sociais. O casal contou com a participação de Zoe, filha de Sabrina com Duda Nagle, que ajudou a revelar a novidade. Celebridades e fãs parabenizaram o casal nas redes sociais. O anúncio segue a sequência de duas perdas gestacionais que o casal enfrentou em 2024.",
@@ -1354,6 +1337,22 @@
         ],
         "updatedAt": "2026-06-23T09:22:36.000Z",
         "imageUrl": "https://images.metroimg.com/2025/12/01125151/Sabrina-Satto-e-Nicolas-Prattes.jpg"
+      },
+      {
+        "clusterId": "4508e8d632255719",
+        "slug": "698ec1237afe3ad2",
+        "titulo": "Obra de João Bosco ganha outro sopro de vida em 'Horda', álbum gravado ao vivo com a orquestra alemã NDR BigBand",
+        "resumo": "João Bosco lança em 3 de julho álbum gravado ao vivo com a NDR BigBand em julho de 2025, com arranjos e regências do trombonista Rafael Rocha Reprodução / Encarte da edição em CD do álbum 'Horda' ♫ CRÍTICA DE ÁLBUM Título: Horda Artistas: João Bosco & NDR BigBand – com regência de Rafael Rocha Cotação: ★ ★ ★ ★ ★ ♬ Dois álbuns celebram os 80 anos que João Bosco completará em 13 de julho, sendo que um deles, “Amigos novos e antigos – João Bosco 80 anos”, ainda está em processo de produção com feats do cantor com nomes de diferentes gerações e estilos. Dez dias antes do 80º aniversário, o…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/06/23/obra-de-joao-bosco-ganha-novo-sopro-de-vida-em-horda-album-gravado-com-a-orquestra-alema-ndr-bigband.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-23T13:12:19.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/w3vskj5ZXyj5wDHffP1fKVWpJdY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/d/0YNcy0SPCOtXKWJn5sjQ/boscohordafoto.jpg"
       },
       {
         "clusterId": "fce045659fb9bdbc",
@@ -1434,22 +1433,6 @@
         ],
         "updatedAt": "2026-06-22T07:01:20.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/udR3lSqNqgyEGCjcbFQJUxZStxw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/F/bZd0kWSqmf3jMptGM4Pg/palcomundo-calema-sabado20-1721-hugomoreira-hm2-9028.jpg"
-      },
-      {
-        "clusterId": "8c7beb7e17692584",
-        "slug": "18d7d2e258ef8b8d",
-        "titulo": "Cantor Kevinho passa mal durante show em Portugal",
-        "resumo": "Durante um show em Mértola, Portugal, o cantor Kevinho começou a apresentação, mas no meio da performance sentiu um aperto no peito e passou mal. Ele atribuiu o episódio ao calor intenso e à falta de hidratação adequada. O artista postou nas redes sociais, tranquilizando os fãs e explicando a situação.",
-        "porQueImporta": "O incidente destaca a importância da hidratação e cuidados de saúde para artistas em turnês internacionais.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/06/21/kevinho-passa-mal-durante-show-em-portugal.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-22T01:18:13.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/wegs1ra7ED2SEzEhCx-xnbIoTXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/U/XjRkasSDquvotSAFWlZA/fotojet-19-.jpg"
       }
     ]
   }
