@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-06-23T11:17:39.742Z",
-  "editionDate": "2026-06-23",
-  "hourUtc": 11,
-  "outcome": "generated",
-  "reason": "\"Autoridades investigam fraudes financeiras enquanto a Copa do Mundo movimenta cenários globais\" (3 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok"
-  ]
+  "ranAt": "2026-06-24T03:40:00.085Z",
+  "editionDate": "2026-06-24",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "attempts": []
 }
