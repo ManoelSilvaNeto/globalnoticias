@@ -1,66 +1,94 @@
 {
   "date": "2026-06-25",
-  "generatedAt": "2026-06-25T14:35:23.983Z",
+  "generatedAt": "2026-06-25T18:10:54.076Z",
   "home": [
     {
-      "clusterId": "4b1df4006109e3f2",
-      "slug": "0c832b63ea62b5c4",
-      "titulo": "Michelle Bolsonaro publica vídeo criticando Flávio Bolsonaro e pede união",
-      "resumo": "Michelle Bolsonaro divulgou vídeos nas redes sociais em que a ex-primeira-dama afirma ter sido humilhada e maltratada pelo senador Flávio Bolsonaro, em meio a divergências sobre alianças no Ceará. Flávio respondeu com um pedido de desculpas, afirmando que não teve intenção de ofender e que busca a trégua. Ambos declararam que pretendem trabalhar juntos para derrotar o atual governo, apesar do atrito público.",
-      "porQueImporta": "O episódio reflete tensões internas no Partido Liberal que podem influenciar a campanha presidencial de Flávio Bolsonaro.",
+      "clusterId": "8538793249cf795f",
+      "slug": "761700323d5c5e5e",
+      "titulo": "Flávio Bolsonaro publica vídeo de IA com Neymar após crítica de Lula",
+      "resumo": "O senador Flávio Bolsonaro, pré-candidato à presidência, postou no X um vídeo gerado por inteligência artificial que mostra o atacante Neymar em um avião militar, levando-o a um jogo nos Estados Unidos. O vídeo foi publicado às 13h, horas antes da partida do Brasil contra a Escócia na Copa do Mundo, em Miami. A publicação ocorreu em resposta a comentários recentes de Lula sobre Neymar.",
+      "porQueImporta": "A ação demonstra a polarização política envolvendo figuras públicas e o uso de tecnologia de IA para fins de retórica política.",
       "category": "politica",
       "sources": [
         {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/flavio-pede-desculpas-de-novo-a-michelle-em-novo-video/"
+        },
+        {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/igor-gadelha/valdemar-reage-a-video-de-michelle-sobre-flavio-vamos-ter-paciencia"
+          "url": "https://www.metropoles.com/brasil/falou-pouco-diz-irmao-de-michelle-sobre-polemica-com-flavio-bolsonaro"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/video-de-michelle-caiu-como-uma-bomba-mas-ficara-para-tras-diz-bia-kicis/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/06/25/crise-michelle-filhos-bolsonaro-cronologia.ghtml"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/cartaexpressa/atlasintel-testa-o-desempenho-de-michelle-bolsonaro-apos-desavenca-publica-com-flavio/"
         },
         {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/c4gy3ljr4lmo?at_medium=RSS&at_campaign=rss"
-        },
+        }
+      ],
+      "updatedAt": "2026-06-25T17:44:46.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/flavio-bolsonaro-michelle-bolsonaro-2.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "5d6c6adce04bd645",
+      "slug": "32de2bb844b00beb",
+      "titulo": "Vereador Senival Moura preso em operação contra lavagem de dinheiro do PCC",
+      "resumo": "O Ministério Público de São Paulo apontou que o vereador Senival Moura, do PT, era o verdadeiro dono da empresa de ônibus Transunião, usada para movimentar recursos da facção PCC. Em operação da Polícia Civil, foram apreendidos fuzis e documentos que indicam a participação do vereador em esquema de lavagem de dinheiro. A investigação também revelou que o vereador teria sido jurado de morte pela facção após devolver valores desviados. A operação faz parte de uma série de ações contra empresas de transporte vinculadas ao PCC.",
+      "porQueImporta": "A prisão demonstra a extensão da influência do PCC no setor de transporte público e a participação de políticos em esquemas criminosos.",
+      "category": "politica",
+      "sources": [
         {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-gente/michelle-fala-em-uniao-e-nega-desentendimento-com-flavio-bolsonaro/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/michelle-nega-briga-apos-video-com-criticas-a-flavio-nao-tenho-raiva/"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/mp-aponta-que-vereador-era-verdadeiro-dono-de-empresa-ligada-ao-pcc"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/06/25/flavio-michelle-nega-briga-e-diz-que-vao-trabalhar-juntos.ghtml"
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/25/falso-medico-forjava-exames-para-motoristas-de-onibus-de-empresa-suspeita-de-lavar-dinheiro-do-pcc-diz-policia.ghtml"
         },
         {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/crise-entre-michelle-e-flavio-preocupa-por-voto-feminino-e-aliados-pregam-uniao/"
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-seguranca-publica/investigacao-sobre-pcc-no-transporte-chega-a-3a-empresa-de-onibus-em-sp/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/salve-de-pcc-citava-vereador-preso-segundo-policia-veja-a-carta/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/sociedade/operacao-que-mira-pcc-e-empresas-de-onibus-prende-vereador-do-pt-paulista/"
         }
       ],
-      "updatedAt": "2026-06-25T14:34:37.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3c14/live/a9825670-7072-11f1-b1db-af71d47507d6.jpg"
+      "updatedAt": "2026-06-25T18:10:38.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/scf81yaBfXkD5m7Yiuqs9qwC504=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/k/H/iWTAtQQtiFRHfJciHSHA/frame-01-29-24.602.jpg"
     },
     {
-      "clusterId": "e4fc6a8f18a7f9a6",
-      "slug": "8b6fa5a28ce0cc84",
-      "titulo": "Brasil lidera Grupo C e aguarda adversário na fase de mata‑mata",
-      "resumo": "O Brasil, comandado por Carlo Ancelotti, lidera o Grupo C da Copa do Mundo 2026 com quatro pontos, após vitória sobre a Escócia. A última partida do grupo será contra a Escócia, em Miami, no dia 24 de junho. O resultado determinará a classificação final do Grupo F, onde o Brasil enfrentará o segundo colocado, que pode ser Japão, Holanda ou Suécia, dependendo dos jogos de 25 de junho.",
-      "porQueImporta": "O adversário do Brasil na fase de mata‑mata será definido apenas após os resultados finais do Grupo F, influenciando a rota da seleção na competição.",
+      "clusterId": "a8487a02a434fda0",
+      "slug": "99d16f6727a4adb7",
+      "titulo": "Brasil enfrenta o segundo colocado do Grupo F na fase de mata‑mata da Copa 2026",
+      "resumo": "O Brasil, líder do Grupo C, terá como adversário na fase de mata‑mata o time que terminar na segunda posição do Grupo F, que pode ser Holanda, Japão ou Suécia. O resultado será definido na última rodada de grupos, marcada para 25 de junho. A partida determinará o primeiro confronto do Brasil na fase eliminatória.",
+      "porQueImporta": "Define o próximo desafio da seleção brasileira na Copa 2026.",
       "category": "mundo",
       "sources": [
         {
           "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/tunisia-x-holanda-na-copa-onde-assistir-horario-e-escalacoes/"
+          "url": "https://veja.abril.com.br/esporte/desempenho-da-selecao-brasileira-contra-holanda-suecia-e-japao-em-copas/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/holanda-japao-ou-suecia-pode-ser-proximo-adversario-do-brasil-na-copa"
         },
         {
           "name": "GE",
           "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/25/possivel-adversario-do-brasil-na-copa-tecnico-da-holanda-diz-nao-temos-medo-de-ninguem.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tecnico-da-holanda-descarta-receio-de-pegar-o-brasil-na-copa-da-na-mesma/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/esporte/brasil-conhece-nesta-quinta-seu-proximo-adversario-na-copa/"
         },
         {
           "name": "BBC Brasil",
@@ -71,135 +99,99 @@
           "url": "https://g1.globo.com/mundo/noticia/2026/06/25/japao-e-holanda-jogam-a-ultima-rodada-da-fase-de-grupos-da-copa-do-mundo-e-decidem-quem-sera-o-adversario-do-brasil.ghtml"
         }
       ],
-      "updatedAt": "2026-06-25T14:19:36.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2275686371.jpg?quality=70&strip=info"
+      "updatedAt": "2026-06-25T17:58:24.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2016/06/esporte-futebol-copa-1998-20140523-17-original.jpeg?quality=70&strip=info"
     },
     {
-      "clusterId": "4bfab1d6768cb0c6",
-      "slug": "c9763d20cc1207ed",
-      "titulo": "Terremotos de magnitude 7,2 e 7,5 atingem Venezuela",
-      "resumo": "Dois sismos, com epicentros a 5 km de distância, ocorreram na noite de 24 de junho de 2026, atingindo a Venezuela com magnitudes 7,2 e 7,5. O terremoto de 7,5 causou destruição em Caracas, com vários prédios desabando. Até a última atualização, 164 pessoas morreram e 971 ficaram feridas, e mais de 500 equipes de emergência estão trabalhando nos resgates. A presidente interina Delcy Rodríguez decretou estado de emergência e suspendeu aulas e serviços não essenciais.",
-      "porQueImporta": "O evento representa o maior abalo sísmico registrado no país em mais de um século, com impactos humanitários e estruturais significativos.",
-      "category": "mundo",
+      "clusterId": "73b584066b5d8306",
+      "slug": "f2d6b4e33976cebe",
+      "titulo": "Bolsonaro pede prorrogação de prisão domiciliar enquanto ex-presidente enfrenta julgamento",
+      "resumo": "O ex-presidente Jair Bolsonaro solicitou ao ministro Alexandre de Moraes a prorrogação de sua prisão domiciliar, concedida em março por 90 dias. O prazo termina nesta quinta-feira (25). A medida ocorre enquanto a candidatura de seu filho, Flávio Bolsonaro, enfrenta desafios políticos e legais, com aliados apontando-o como potencial pacificador de rachas internos do PL.",
+      "porQueImporta": "A extensão da prisão pode influenciar o cenário político e a viabilidade da candidatura de Flávio Bolsonaro.",
+      "category": "politica",
       "sources": [
         {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/justica/pgr-quer-aguardar-apuracao-sobre-arma-para-opinar-sobre-prisao-domiciliar-de-bolsonaro/"
+        },
+        {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/video-predios-em-cidade-na-venezuela-sao-destruidos-apos-terremotos/"
+          "url": "https://www.cnnbrasil.com.br/politica/apreensao-de-arma-de-bolsonaro-gera-incomodo-na-pgr/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/pgr-ainda-nao-ve-falta-grave-de-bolsonaro-e-quer-esperar-investigacao/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/manoela-alcantara/pgr-que-aguardar-inquerito-para-avaliar-se-bolsonaro-cometeu-falta-grave"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/25/video-mostra-momento-em-que-edificio-desaba-na-venezuela-apos-terremoto.ghtml"
+          "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/25/pgr-sugere-esperar-fim-do-inquerito-sobre-arma-de-bolsonaro-para-avaliar-falta-grave-de-prisao-domiciliar.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-25T17:44:53.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/09/Jair.jpg"
+    },
+    {
+      "clusterId": "3cdb1b45430eeee1",
+      "slug": "7b1c5fb9e23d5fa5",
+      "titulo": "Site registra mais de 24 mil desaparecidos após terremotos devastadores na Venezuela",
+      "resumo": "Equipes de emergência em frente a escombros de prédio derrubado por terremotos históricos em Caracas, na Venezuela, em 25 de junho de 2026. REUTERS/Leonardo Fernandez Viloria Um site criado para rastrear pessoas desaparecidas nos terremotos históricos que devastaram a Venezuela listava mais de 24 mil pessoas até o início da tarde desta quinta-feira (25). AO VIVO: Veja as últimas atualizações do terremoto ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O número é extraoficial por ser alimentado pela população, porém dá uma dimensão da devastação causada pelos tremores de magnitudes…",
+      "porQueImporta": "",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/ao-vivo/terremotos-causam-destruicao-na-venezuela.ghtml"
         },
         {
           "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cpq3120rvyro?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/portuguese/articles/cqj1e51p7vko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/entenda-como-aconteceu-terremoto-na-venezuela/"
         },
         {
           "name": "Metrópoles",
           "url": "https://www.metropoles.com/mundo/imagens-mostram-destruicao-apos-terremotos-na-venezuela-veja"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/venezuela-confirma-mais-de-30-mortes-apos-terremotos/"
         }
       ],
-      "updatedAt": "2026-06-25T14:04:21.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ceA3imBpF5_OzqhsCG4PxCydoAI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/3/PBhiAARDCXsAXSjf3a7A/predio-venezuela-.png"
+      "updatedAt": "2026-06-25T18:02:32.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/3v41RJnBqE7DDnUVuXTKYCM6PYU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/W/KVZiq1TlWHze7o9GA1mQ/2026-06-25t063948z-439315881-rc2t0ma1bx5k-rtrmadp-3-venezuela-quake.jpg"
     },
     {
-      "clusterId": "019527d413591e04",
-      "slug": "2ad80f531304b765",
-      "titulo": "Lula cumprimenta presidente eleito da Colômbia e reforça relação ‘além de ideologias’",
-      "resumo": "Lula no G7 LUDOVIC MARIN / AFP O presidente Luiz Inácio Lula da Silva (PT) parabenizou, nesta quarta-feira (25), o povo colombiano pela eleição de Abelardo de la Espriella à Presidência do país. Em publicação nas redes sociais, Lula destacou o “processo democrático e soberano” e afirmou que a relação entre Brasil e Colômbia é “fundamental para a superação de desafios comuns”. “A amizade entre o Brasil e a Colômbia, que transcende ideologias, é fundamental para a superação de desafios comuns como a preservação da Amazônia, o enfrentamento da pobreza e o combate ao crime organizado”, escreveu o…",
-      "porQueImporta": "",
-      "category": "geral",
+      "clusterId": "8d75ca33ffb9a7a3",
+      "slug": "7c225ead53058020",
+      "titulo": "Lula inaugura fábrica de fertilizantes da Petrobras após 11 anos de atraso",
+      "resumo": "O presidente inaugurou a unidade de fertilizantes da Petrobras, que ficou parada desde 2015. Ele atribui os atrasos à operação Lava Jato e ao processo de privatizações. A obra foi retomada com contratos assinados e receberá R$ 5 bilhões em investimentos. A iniciativa visa reduzir a dependência de insumos estratégicos para o agronegócio.",
+      "porQueImporta": "A retomada da produção nacional de fertilizantes fortalece a soberania e a segurança alimentar do país.",
+      "category": "politica",
       "sources": [
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/a-mensagem-de-lula-ao-ultradireitista-que-venceu-a-eleicao-na-colombia/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/lula-parabeniza-colombia-pela-eleicao-de-la-espriella-candidato-da-direita/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/06/25/lula-cumprimenta-presidente-eleito-da-colombia-e-reforca-relacao-alem-de-ideologias.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/lula-prega-parceria-apos-vitoria-da-direita-na-colombia-transcende-ideologias"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/lula-parabeniza-vitoria-de-espriella-na-colombia-e-fala-em-amizade-acima-de-ideologias/"
-        }
-      ],
-      "updatedAt": "2026-06-25T13:03:02.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/Espriella.jpg"
-    },
-    {
-      "clusterId": "395a81a48f2100e3",
-      "slug": "d85652907aa08c6a",
-      "titulo": "IPCA‑15 de junho sobe 0,41% com pressão de alimentos e energia elétrica",
-      "resumo": "O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA‑15) registrou alta de 0,41% em junho, abaixo da 0,62% de maio. A variação foi impulsionada principalmente por alimentos e energia elétrica, enquanto a queda nos combustíveis ajudou a conter o índice. O acumulado em 12 meses passou a 4,80%, superando os 4,64% do período anterior. O resultado indica desaceleração da inflação, mas mantém pressão sobre o poder de compra.",
-      "porQueImporta": "Reflete a evolução da inflação que influencia decisões de política monetária e o custo de vida da população.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/infra/energia-eletrica-e-maior-pressao-do-ipca-15-em-junho/"
-        },
         {
           "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-economia/ipca-15-de-junho-reduz-a-041-acumulado-em-12-meses-vai-a-480/"
+          "url": "https://www.poder360.com.br/poder-governo/lula-inaugura-fabrica-de-fertilizantes-apos-11-anos-de-atraso/"
         },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/06/25/ipca-15-maio.ghtml"
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/lula-assina-contratos-para-retomar-obra-em-fabrica-de-fertilizantes/"
         },
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/ibge-previa-da-inflacao-ipca-15-desacelera-para-041-em-junho"
+          "url": "https://www.metropoles.com/brasil/lula-critica-privatizacoes-ao-visitar-fabrica-da-petrobras-em-ms"
         },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/economia/ipca-15-fecha-em-041-em-junho-e-fica-abaixo-do-esperado/"
-        }
-      ],
-      "updatedAt": "2026-06-25T12:56:12.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/hEorMc6b4zL7txWXRk9KTZT9g5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/I/LBifS8SoyIDywGJXmt4w/fta20250306036.jpg"
-    },
-    {
-      "clusterId": "ac5ebb2ee2e4ae7a",
-      "slug": "f30b0a944cbd6e0a",
-      "titulo": "Braskem abre negociação com credores e pede proteção na Justiça para reestruturar dívida",
-      "resumo": "Braskem tenta renegociar dívidas com credores financeiros. Divulgação/Braskem A Braskem informou nesta quinta-feira (25) que começou a negociar com bancos e outros credores financeiros para reestruturar suas dívidas. A petroquímica também entrou com um pedido de Tutela de Urgência Cautelar — que garante uma proteção temporária e evita que a situação financeira da empresa piore enquanto ela tenta concluir as negociações. 🗒️Tem alguma sugestão de reportagem? Mande para o g1 Em comunicado ao mercado, a companhia informou que as medidas visam \"preservar um ambiente estável\" para que a…",
-      "porQueImporta": "",
-      "category": "economia",
-      "sources": [
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/negocios/braskem-inicia-processo-de-mediacao/"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/braskem-brkm5-desaba-mais-de-9-apos-buscar-tutela-cautelar-contra-credores/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/06/25/braskem-inicia-processo-de-mediacao-e-pede-cautelar-para-protecao-contra-credores-financeiros.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/invest/mercados/braskem-pede-tutela-cautelar-e-abre-mediacao-para-renegociar-divida-de-us-95-bi/"
+          "url": "https://www.cnnbrasil.com.br/agro/lula-defende-soberania-e-producao-nacional-de-fertilizantes/"
         }
       ],
-      "updatedAt": "2026-06-25T14:28:47.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2023/01/braskem-1024x576-1.webp?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "updatedAt": "2026-06-25T17:35:17.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/lula_fertilizantes.jpg"
     },
     {
-      "clusterId": "7f6ab8c60126a9ee",
+      "clusterId": "50c527f09100c537",
       "slug": "0290ad4f34bdf63a",
       "titulo": "Jaques Wagner deixa liderança do governo no Senado após operação da PF sobre o caso Master",
       "resumo": "O senador Jaques Wagner (PT-BA) deixou o cargo de líder do governo no Senado, em acordo com o presidente Lula, poucos dias após ser alvo de investigação da Polícia Federal no esquema Master. A decisão foi tomada após reunião de duas horas entre Lula e Wagner no Palácio da Alvorada. A saída ocorre em meio a pressão interna e à expectativa de que o senador se afaste do cargo. A liderança do governo no Senado será repassada a outro parlamentar em breve.",
@@ -207,150 +199,234 @@
       "category": "politica",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/apos-saida-de-jaques-wagner-lula-aponta-teresa-leitao-para-lideranca-no-senado/"
-        },
-        {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/lula-escolhe-teresa-leitao-como-nova-lider-do-governo-no-senado/"
+          "url": "https://www.cnnbrasil.com.br/politica/teresa-leitao-assume-lideranca-do-governo-no-senado-mirando-fim-da-6x1/"
         },
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/lula-escolhe-teresa-leitao-para-substituir-jaques-wagner-na-lideranca"
+          "url": "https://www.metropoles.com/brasil/quem-e-teresa-leitao-nova-lider-do-governo-lula-no-senado"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/lula-confirma-teresa-leitao-como-nova-lider-do-governo-no-senado/"
         },
         {
           "name": "G1",
           "url": "https://g1.globo.com/politica/noticia/2026/06/25/lula-anuncia-teresa-leitao-como-nova-lider-do-governo-no-senado.ghtml"
         }
       ],
-      "updatedAt": "2026-06-25T14:27:00.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/55327097318_ff8b159c5e_o.jpg?quality=70&strip=info"
+      "updatedAt": "2026-06-25T16:47:42.000Z",
+      "imageUrl": "https://images.metroimg.com/2022/10/01081953/teresa-leitao-pt.jpg"
     },
     {
-      "clusterId": "41a9db027325ee46",
-      "slug": "4ca3e5e209dc991f",
-      "titulo": "Marina Versos será a intérprete de Marília Mendonça na cinebiografia do Prime Video",
-      "resumo": "A Amazon Prime Video confirmou que Marina Versos interpretará Marília Mendonça na cinebiografia que será lançada em 2027. O elenco também inclui Hermila Guedes, Klara Castanho, Marcelo Serrado e Sophia Valverde. As filmagens começaram em julho de 2024. A produção retratará a trajetória da cantora que faleceu em 2021.",
-      "porQueImporta": "A cinebiografia traz à vida a história de uma das maiores vozes do sertanejo, ampliando seu legado cultural.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/pop/streaming/filme-sobre-marilia-mendonca-revela-elenco-saiba-quem-sera-a-cantora/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/entretenimento/televisao/veja-fotos-da-atriz-que-vivera-marilia-mendonca-em-cinebiografia-e-compare"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/cultura/conheca-a-atriz-que-fara-marilia-mendonca-em-filme-do-prime-video/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pop-arte/noticia/2026/06/25/saiba-quem-vai-interpretar-marilia-mendonca-em-filme.ghtml"
-        }
-      ],
-      "updatedAt": "2026-06-25T14:15:25.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/marina-versos-e-marilia-mendonca.jpg"
-    },
-    {
-      "clusterId": "045a80cd6426c41e",
-      "slug": "8c330ba504552206",
-      "titulo": "Países enviam ajuda humanitária à Venezuela após terremotos",
-      "resumo": "Terremotos de magnitude 7,2 e 7,4 atingiram Caracas e arredores, causando mais de 100 mortes e centenas de feridos. Vários países, incluindo Brasil, Estados Unidos e nações europeias, enviaram equipes de resgate e material de socorro. O presidente Lula ordenou ao Ministério das Relações Exteriores avaliar a forma de apoio brasileiro. A presidente interina Delcy Rodríguez agradeceu a solidariedade internacional.",
-      "porQueImporta": "A resposta internacional demonstra a importância da cooperação humanitária em desastres naturais.",
+      "clusterId": "08d2dda1b2416958",
+      "slug": "75d308d06c9d78eb",
+      "titulo": "Polícia Federal inicia segunda fase da Operação Disclosure contra fraude bilionária nas Americanas",
+      "resumo": "A Polícia Federal, em conjunto com o Ministério Público Federal, deflagrou a segunda etapa da Operação Disclosure para investigar irregularidades contábeis nas Americanas, estimadas em R$ 54 bilhões. O foco inclui acionistas de referência, como Carlos Sicupira e Paulo Lemann, e executivos de bancos ligados à empresa. A operação envolve mandados de busca e apreensão no Rio de Janeiro e São Paulo, além de bloqueio de bens. A Americanas afirmou que não foi alvo de mandados de busca nesta fase.",
+      "porQueImporta": "A investigação pode impactar a estrutura acionária e a confiança no mercado financeiro brasileiro.",
       "category": "politica",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/paises-se-mobilizam-para-enviar-ajuda-a-venezuela-apos-terremotos/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/paises-de-todo-o-mundo-oferecem-ajuda-a-venezuela-apos-terremotos/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/06/25/paises-enviam-equipes-de-resgate-ajuda-humanitaria-venezuela-terremotos.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/lula-oferece-ajuda-do-brasil-a-venezuela-apos-terremotos/"
-        }
-      ],
-      "updatedAt": "2026-06-25T14:14:31.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2283212074.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "5333a13a84974135",
-      "slug": "fb88511de88ef2f9",
-      "titulo": "Vereador do PT, Senival Moura, é preso em operação contra lavagem de dinheiro do PCC",
-      "resumo": "Senival Moura, vereador de São Paulo, foi detido na Operação Última Parada, que investigou um esquema de lavagem de dinheiro da facção criminosa PCC envolvendo a empresa de ônibus TransUnião. A operação resultou em cinco mandados de prisão e 104 mandados de busca e apreensão em São Paulo e Minas Gerais. O partido PT afirmou que não compactua com crime organizado e expressou surpresa pela prisão de seu membro.",
-      "porQueImporta": "A prisão demonstra a atuação das autoridades contra a infiltração de facções criminosas em empresas públicas e na política local.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/quem-e-senival-moura-vereador-de-sp-preso-em-operacao-contra-lavagem-de-dinheiro-do-pcc/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/25/pt-nao-compactua-com-crime-organizado-diz-presidente-do-partido-em-sp-sobre-prisao-de-vereador-em-operacao.ghtml"
-        },
-        {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/laranjas-e-ligacao-com-pcc-entenda-operacao-que-prendeu-vereador-em-sp/"
+          "url": "https://www.cnnbrasil.com.br/economia/negocios/veja-quem-sao-sicupira-e-paulo-lemann-alvos-da-pf-no-caso-americanas/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/economia/noticia/2026/06/25/quem-sao-os-alvos-da-pf.ghtml"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/economia/a-nova-operacao-da-pf-contra-fraude-na-americanas-com-bloqueio-de-r-54-bilhoes/"
         },
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/alvos-de-operacao-pcc-onibus"
+          "url": "https://www.metropoles.com/negocios/quem-sao-beto-sicupira-e-paulo-lemann-alvos-de-operacao-da-pf"
         }
       ],
-      "updatedAt": "2026-06-25T14:13:06.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/senival_moura.jpg"
+      "updatedAt": "2026-06-25T16:41:43.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/dPChZy-1nYPGa-mzjInGuN_jTLw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/l/f/eUJC5URvGUwQXOW4yaAg/beto-sicupira-longo017.182901.jpg"
+    },
+    {
+      "clusterId": "6cf21074630f2fa8",
+      "slug": "876ef749efae8bb5",
+      "titulo": "Deputado Josimar Maranhãozinho alvo de buscas da Polícia Federal",
+      "resumo": "A Polícia Federal realizou buscas na manhã de 25 de junho em operação que investiga suspeita de desvio de emendas do chamado \"orçamento secreto\" envolvendo o deputado Josimar Maranhãozinho. A ação, denominada \"Operação Afluente\", apura crimes de corrupção, desvio de recursos públicos e lavagem de dinheiro ligados a uma organização criminosa. Até o momento, a defesa do deputado não respondeu à solicitação de comentário.",
+      "porQueImporta": "A investigação pode revelar irregularidades no uso de recursos públicos e afetar a confiança na política estadual.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/stf-josimar-maranhaozinho-pressionava-prefeitos-a-pagar-propina"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/25/quem-e-o-deputado-federal-josimar-maranhaozinho-alvo-de-operacao-da-pf-sobre-desvio-de-emendas.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/operacao-que-mira-deputado-apreende-helicoptero-e-dinheiro/"
+        }
+      ],
+      "updatedAt": "2026-06-25T18:10:38.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/O1xKn-1U78LXExAREIFdx5sDjPM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Z/HiWgoPSKufXrttVKfDBg/josimar-maranhaozinho.jpg"
+    },
+    {
+      "clusterId": "54405cae60cc8e61",
+      "slug": "9b71fdf2bf8ea2ba",
+      "titulo": "IPCA-15: prévia da inflação sobe 0,41% em junho com pressão de alimentos e energia elétrica",
+      "resumo": "Inflação ALOISIO MAURICIO/FOTOARENA/FOTOARENA/ESTADÃO CONTEÚDO O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), considerado a prévia da inflação oficial do país, subiu 0,41% em junho, segundo dados divulgados nesta quinta-feira (25) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Com o resultado, a inflação acumulada em 12 meses chegou a 4,80%, acima dos 4,64% registrados no período imediatamente anterior. 🗒️ Tem alguma sugestão de reportagem? Mande para o g1 A prévia de junho ficou 0,21 ponto percentual abaixo da taxa de maio, que havia sido de 0,62%. O resultado…",
+      "porQueImporta": "",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-25062026/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/ibge-previa-da-inflacao-ipca-15-desacelera-para-041-em-junho"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/economia/noticia/2026/06/25/ipca-15-junho.ghtml"
+        }
+      ],
+      "updatedAt": "2026-06-25T18:01:21.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/01/4.png?fit=300%2C186&amp;quality=70&amp;strip=all"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "4b1df4006109e3f2",
-        "slug": "0c832b63ea62b5c4",
-        "titulo": "Michelle Bolsonaro publica vídeo criticando Flávio Bolsonaro e pede união",
-        "resumo": "Michelle Bolsonaro divulgou vídeos nas redes sociais em que a ex-primeira-dama afirma ter sido humilhada e maltratada pelo senador Flávio Bolsonaro, em meio a divergências sobre alianças no Ceará. Flávio respondeu com um pedido de desculpas, afirmando que não teve intenção de ofender e que busca a trégua. Ambos declararam que pretendem trabalhar juntos para derrotar o atual governo, apesar do atrito público.",
-        "porQueImporta": "O episódio reflete tensões internas no Partido Liberal que podem influenciar a campanha presidencial de Flávio Bolsonaro.",
+        "clusterId": "8538793249cf795f",
+        "slug": "761700323d5c5e5e",
+        "titulo": "Flávio Bolsonaro publica vídeo de IA com Neymar após crítica de Lula",
+        "resumo": "O senador Flávio Bolsonaro, pré-candidato à presidência, postou no X um vídeo gerado por inteligência artificial que mostra o atacante Neymar em um avião militar, levando-o a um jogo nos Estados Unidos. O vídeo foi publicado às 13h, horas antes da partida do Brasil contra a Escócia na Copa do Mundo, em Miami. A publicação ocorreu em resposta a comentários recentes de Lula sobre Neymar.",
+        "porQueImporta": "A ação demonstra a polarização política envolvendo figuras públicas e o uso de tecnologia de IA para fins de retórica política.",
         "category": "politica",
         "sources": [
           {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/flavio-pede-desculpas-de-novo-a-michelle-em-novo-video/"
+          },
+          {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/igor-gadelha/valdemar-reage-a-video-de-michelle-sobre-flavio-vamos-ter-paciencia"
+            "url": "https://www.metropoles.com/brasil/falou-pouco-diz-irmao-de-michelle-sobre-polemica-com-flavio-bolsonaro"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/video-de-michelle-caiu-como-uma-bomba-mas-ficara-para-tras-diz-bia-kicis/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/06/25/crise-michelle-filhos-bolsonaro-cronologia.ghtml"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/cartaexpressa/atlasintel-testa-o-desempenho-de-michelle-bolsonaro-apos-desavenca-publica-com-flavio/"
           },
           {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/c4gy3ljr4lmo?at_medium=RSS&at_campaign=rss"
-          },
+          }
+        ],
+        "updatedAt": "2026-06-25T17:44:46.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/flavio-bolsonaro-michelle-bolsonaro-2.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "5d6c6adce04bd645",
+        "slug": "32de2bb844b00beb",
+        "titulo": "Vereador Senival Moura preso em operação contra lavagem de dinheiro do PCC",
+        "resumo": "O Ministério Público de São Paulo apontou que o vereador Senival Moura, do PT, era o verdadeiro dono da empresa de ônibus Transunião, usada para movimentar recursos da facção PCC. Em operação da Polícia Civil, foram apreendidos fuzis e documentos que indicam a participação do vereador em esquema de lavagem de dinheiro. A investigação também revelou que o vereador teria sido jurado de morte pela facção após devolver valores desviados. A operação faz parte de uma série de ações contra empresas de transporte vinculadas ao PCC.",
+        "porQueImporta": "A prisão demonstra a extensão da influência do PCC no setor de transporte público e a participação de políticos em esquemas criminosos.",
+        "category": "politica",
+        "sources": [
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-gente/michelle-fala-em-uniao-e-nega-desentendimento-com-flavio-bolsonaro/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/michelle-nega-briga-apos-video-com-criticas-a-flavio-nao-tenho-raiva/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/mp-aponta-que-vereador-era-verdadeiro-dono-de-empresa-ligada-ao-pcc"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/06/25/flavio-michelle-nega-briga-e-diz-que-vao-trabalhar-juntos.ghtml"
+            "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/25/falso-medico-forjava-exames-para-motoristas-de-onibus-de-empresa-suspeita-de-lavar-dinheiro-do-pcc-diz-policia.ghtml"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/crise-entre-michelle-e-flavio-preocupa-por-voto-feminino-e-aliados-pregam-uniao/"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-seguranca-publica/investigacao-sobre-pcc-no-transporte-chega-a-3a-empresa-de-onibus-em-sp/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/salve-de-pcc-citava-vereador-preso-segundo-policia-veja-a-carta/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/sociedade/operacao-que-mira-pcc-e-empresas-de-onibus-prende-vereador-do-pt-paulista/"
           }
         ],
-        "updatedAt": "2026-06-25T14:34:37.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3c14/live/a9825670-7072-11f1-b1db-af71d47507d6.jpg"
+        "updatedAt": "2026-06-25T18:10:38.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/scf81yaBfXkD5m7Yiuqs9qwC504=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/k/H/iWTAtQQtiFRHfJciHSHA/frame-01-29-24.602.jpg"
       },
       {
-        "clusterId": "7f6ab8c60126a9ee",
+        "clusterId": "73b584066b5d8306",
+        "slug": "f2d6b4e33976cebe",
+        "titulo": "Bolsonaro pede prorrogação de prisão domiciliar enquanto ex-presidente enfrenta julgamento",
+        "resumo": "O ex-presidente Jair Bolsonaro solicitou ao ministro Alexandre de Moraes a prorrogação de sua prisão domiciliar, concedida em março por 90 dias. O prazo termina nesta quinta-feira (25). A medida ocorre enquanto a candidatura de seu filho, Flávio Bolsonaro, enfrenta desafios políticos e legais, com aliados apontando-o como potencial pacificador de rachas internos do PL.",
+        "porQueImporta": "A extensão da prisão pode influenciar o cenário político e a viabilidade da candidatura de Flávio Bolsonaro.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/justica/pgr-quer-aguardar-apuracao-sobre-arma-para-opinar-sobre-prisao-domiciliar-de-bolsonaro/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/apreensao-de-arma-de-bolsonaro-gera-incomodo-na-pgr/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/brasil/pgr-ainda-nao-ve-falta-grave-de-bolsonaro-e-quer-esperar-investigacao/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/colunas/manoela-alcantara/pgr-que-aguardar-inquerito-para-avaliar-se-bolsonaro-cometeu-falta-grave"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/25/pgr-sugere-esperar-fim-do-inquerito-sobre-arma-de-bolsonaro-para-avaliar-falta-grave-de-prisao-domiciliar.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-25T17:44:53.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/09/Jair.jpg"
+      },
+      {
+        "clusterId": "8d75ca33ffb9a7a3",
+        "slug": "7c225ead53058020",
+        "titulo": "Lula inaugura fábrica de fertilizantes da Petrobras após 11 anos de atraso",
+        "resumo": "O presidente inaugurou a unidade de fertilizantes da Petrobras, que ficou parada desde 2015. Ele atribui os atrasos à operação Lava Jato e ao processo de privatizações. A obra foi retomada com contratos assinados e receberá R$ 5 bilhões em investimentos. A iniciativa visa reduzir a dependência de insumos estratégicos para o agronegócio.",
+        "porQueImporta": "A retomada da produção nacional de fertilizantes fortalece a soberania e a segurança alimentar do país.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-governo/lula-inaugura-fabrica-de-fertilizantes-apos-11-anos-de-atraso/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/lula-assina-contratos-para-retomar-obra-em-fabrica-de-fertilizantes/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/lula-critica-privatizacoes-ao-visitar-fabrica-da-petrobras-em-ms"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/agro/lula-defende-soberania-e-producao-nacional-de-fertilizantes/"
+          }
+        ],
+        "updatedAt": "2026-06-25T17:35:17.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/lula_fertilizantes.jpg"
+      },
+      {
+        "clusterId": "50c527f09100c537",
         "slug": "0290ad4f34bdf63a",
         "titulo": "Jaques Wagner deixa liderança do governo no Senado após operação da PF sobre o caso Master",
         "resumo": "O senador Jaques Wagner (PT-BA) deixou o cargo de líder do governo no Senado, em acordo com o presidente Lula, poucos dias após ser alvo de investigação da Polícia Federal no esquema Master. A decisão foi tomada após reunião de duas horas entre Lula e Wagner no Palácio da Alvorada. A saída ocorre em meio a pressão interna e à expectativa de que o senador se afaste do cargo. A liderança do governo no Senado será repassada a outro parlamentar em breve.",
@@ -358,89 +434,37 @@
         "category": "politica",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/apos-saida-de-jaques-wagner-lula-aponta-teresa-leitao-para-lideranca-no-senado/"
-          },
-          {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/lula-escolhe-teresa-leitao-como-nova-lider-do-governo-no-senado/"
+            "url": "https://www.cnnbrasil.com.br/politica/teresa-leitao-assume-lideranca-do-governo-no-senado-mirando-fim-da-6x1/"
           },
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/lula-escolhe-teresa-leitao-para-substituir-jaques-wagner-na-lideranca"
+            "url": "https://www.metropoles.com/brasil/quem-e-teresa-leitao-nova-lider-do-governo-lula-no-senado"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/lula-confirma-teresa-leitao-como-nova-lider-do-governo-no-senado/"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/politica/noticia/2026/06/25/lula-anuncia-teresa-leitao-como-nova-lider-do-governo-no-senado.ghtml"
           }
         ],
-        "updatedAt": "2026-06-25T14:27:00.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/55327097318_ff8b159c5e_o.jpg?quality=70&strip=info"
+        "updatedAt": "2026-06-25T16:47:42.000Z",
+        "imageUrl": "https://images.metroimg.com/2022/10/01081953/teresa-leitao-pt.jpg"
       },
       {
-        "clusterId": "045a80cd6426c41e",
-        "slug": "8c330ba504552206",
-        "titulo": "Países enviam ajuda humanitária à Venezuela após terremotos",
-        "resumo": "Terremotos de magnitude 7,2 e 7,4 atingiram Caracas e arredores, causando mais de 100 mortes e centenas de feridos. Vários países, incluindo Brasil, Estados Unidos e nações europeias, enviaram equipes de resgate e material de socorro. O presidente Lula ordenou ao Ministério das Relações Exteriores avaliar a forma de apoio brasileiro. A presidente interina Delcy Rodríguez agradeceu a solidariedade internacional.",
-        "porQueImporta": "A resposta internacional demonstra a importância da cooperação humanitária em desastres naturais.",
+        "clusterId": "08d2dda1b2416958",
+        "slug": "75d308d06c9d78eb",
+        "titulo": "Polícia Federal inicia segunda fase da Operação Disclosure contra fraude bilionária nas Americanas",
+        "resumo": "A Polícia Federal, em conjunto com o Ministério Público Federal, deflagrou a segunda etapa da Operação Disclosure para investigar irregularidades contábeis nas Americanas, estimadas em R$ 54 bilhões. O foco inclui acionistas de referência, como Carlos Sicupira e Paulo Lemann, e executivos de bancos ligados à empresa. A operação envolve mandados de busca e apreensão no Rio de Janeiro e São Paulo, além de bloqueio de bens. A Americanas afirmou que não foi alvo de mandados de busca nesta fase.",
+        "porQueImporta": "A investigação pode impactar a estrutura acionária e a confiança no mercado financeiro brasileiro.",
         "category": "politica",
         "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/paises-se-mobilizam-para-enviar-ajuda-a-venezuela-apos-terremotos/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/paises-de-todo-o-mundo-oferecem-ajuda-a-venezuela-apos-terremotos/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/25/paises-enviam-equipes-de-resgate-ajuda-humanitaria-venezuela-terremotos.ghtml"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/lula-oferece-ajuda-do-brasil-a-venezuela-apos-terremotos/"
-          }
-        ],
-        "updatedAt": "2026-06-25T14:14:31.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2283212074.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "5333a13a84974135",
-        "slug": "fb88511de88ef2f9",
-        "titulo": "Vereador do PT, Senival Moura, é preso em operação contra lavagem de dinheiro do PCC",
-        "resumo": "Senival Moura, vereador de São Paulo, foi detido na Operação Última Parada, que investigou um esquema de lavagem de dinheiro da facção criminosa PCC envolvendo a empresa de ônibus TransUnião. A operação resultou em cinco mandados de prisão e 104 mandados de busca e apreensão em São Paulo e Minas Gerais. O partido PT afirmou que não compactua com crime organizado e expressou surpresa pela prisão de seu membro.",
-        "porQueImporta": "A prisão demonstra a atuação das autoridades contra a infiltração de facções criminosas em empresas públicas e na política local.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/quem-e-senival-moura-vereador-de-sp-preso-em-operacao-contra-lavagem-de-dinheiro-do-pcc/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/25/pt-nao-compactua-com-crime-organizado-diz-presidente-do-partido-em-sp-sobre-prisao-de-vereador-em-operacao.ghtml"
-          },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/laranjas-e-ligacao-com-pcc-entenda-operacao-que-prendeu-vereador-em-sp/"
+            "url": "https://www.cnnbrasil.com.br/economia/negocios/veja-quem-sao-sicupira-e-paulo-lemann-alvos-da-pf-no-caso-americanas/"
           },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/sao-paulo/alvos-de-operacao-pcc-onibus"
-          }
-        ],
-        "updatedAt": "2026-06-25T14:13:06.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/senival_moura.jpg"
-      },
-      {
-        "clusterId": "3ef329252472e7dd",
-        "slug": "f6c9aae15ec0d5b2",
-        "titulo": "PF faz nova operação sobre fraude nas Americanas; relembre o escândalo contábil que levou a varejista à crise",
-        "resumo": "PF cumpre mandados contra alvos ligados às Lojas Americanas A Polícia Federal (PF), em conjunto com o Ministério Público Federal (MPF), deflagrou nesta quinta-feira (25) a segunda etapa da Operação Disclosure, que apura as irregularidades contábeis bilionárias envolvendo as Americanas. Na ação, estão sendo cumpridos nove mandados de busca e apreensão no Rio de Janeiro e em São Paulo. 🗒️Tem alguma sugestão de reportagem? Mande para o g1 Além disso, a 10ª Vara Federal Criminal do Rio de Janeiro autorizou o bloqueio de bens e ativos dos investigados até o montante de R$ 54 bilhões, quantia que,…",
-        "porQueImporta": "",
-        "category": "politica",
-        "sources": [
           {
             "name": "G1",
             "url": "https://g1.globo.com/economia/noticia/2026/06/25/quem-sao-os-alvos-da-pf.ghtml"
@@ -450,67 +474,15 @@
             "url": "https://www.cartacapital.com.br/economia/a-nova-operacao-da-pf-contra-fraude-na-americanas-com-bloqueio-de-r-54-bilhoes/"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/fraudes-nas-americanas-sicupira-e-filho-de-jorge-lemann-sao-alvos-da-pf/"
-          },
-          {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/entenda-a-investigacao-da-pf-sobre-a-fraude-bilionaria-nas-americanas"
+            "url": "https://www.metropoles.com/negocios/quem-sao-beto-sicupira-e-paulo-lemann-alvos-de-operacao-da-pf"
           }
         ],
-        "updatedAt": "2026-06-25T14:07:34.000Z",
+        "updatedAt": "2026-06-25T16:41:43.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/dPChZy-1nYPGa-mzjInGuN_jTLw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/l/f/eUJC5URvGUwQXOW4yaAg/beto-sicupira-longo017.182901.jpg"
       },
       {
-        "clusterId": "039f38c13ab4a3f5",
-        "slug": "f2d6b4e33976cebe",
-        "titulo": "Bolsonaro pede prorrogação de prisão domiciliar enquanto ex-presidente enfrenta julgamento",
-        "resumo": "O ex-presidente Jair Bolsonaro solicitou ao ministro Alexandre de Moraes a prorrogação de sua prisão domiciliar, concedida em março por 90 dias. O prazo termina nesta quinta-feira (25). A medida ocorre enquanto a candidatura de seu filho, Flávio Bolsonaro, enfrenta desafios políticos e legais, com aliados apontando-o como potencial pacificador de rachas internos do PL.",
-        "porQueImporta": "A extensão da prisão pode influenciar o cenário político e a viabilidade da candidatura de Flávio Bolsonaro.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/blog-do-noblat/ricardo-noblat/obituario-da-candidatura-de-flavio-bolsonaro-a-presidente"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/entre-a-volta-a-prisao-e-a-briga-de-familia-bolsonaro-tenta-salvar-a-candidatura-de-flavio/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/06/23/defesa-bolsonaro-prorrogacao-prisao-domiciliar.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-25T14:34:37.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/Jair-Carlos-Flavio-Jair-Renan-e-Michelle-Bolsonaro-Foto-Miguel-Schincariol-AFP.jpg"
-      },
-      {
-        "clusterId": "0baa86ddc50cecbf",
-        "slug": "bce85f078c9d93a0",
-        "titulo": "Haddad define França na sua vice e terá Marina e Tebet concorrendo ao Senado por SP",
-        "resumo": "Pré-candidato ao governo paulista ficou responsável por definir posições de seus companheiros na chapa após reunião entre lideranças terminar sem consenso",
-        "porQueImporta": "",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes/haddad-escolhe-franca-como-vice-tebet-e-marina-para-o-senado/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/brasil/haddad-define-franca-na-sua-vice-e-tera-marina-e-tebet-concorrendo-ao-senado-por-sp/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/sao-paulo/apos-reuniao-com-lula-haddad-define-franca-como-vice-na-chapa-em-sp"
-          }
-        ],
-        "updatedAt": "2026-06-25T13:50:41.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/03/55156974938_f40ea710e3_o.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "9a1671e23d699758",
+        "clusterId": "6cf21074630f2fa8",
         "slug": "876ef749efae8bb5",
         "titulo": "Deputado Josimar Maranhãozinho alvo de buscas da Polícia Federal",
         "resumo": "A Polícia Federal realizou buscas na manhã de 25 de junho em operação que investiga suspeita de desvio de emendas do chamado \"orçamento secreto\" envolvendo o deputado Josimar Maranhãozinho. A ação, denominada \"Operação Afluente\", apura crimes de corrupção, desvio de recursos públicos e lavagem de dinheiro ligados a uma organização criminosa. Até o momento, a defesa do deputado não respondeu à solicitação de comentário.",
@@ -519,188 +491,192 @@
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/pf-mira-deputado-josimar-maranhaozinho-em-operacao-contra-corrupcao"
+            "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/stf-josimar-maranhaozinho-pressionava-prefeitos-a-pagar-propina"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/06/25/maranhaozinho-e-alvo-de-buscas-da-pf-em-operacao-sobre-suspeita-de-desvio-de-emendas.ghtml"
+            "url": "https://g1.globo.com/ma/maranhao/noticia/2026/06/25/quem-e-o-deputado-federal-josimar-maranhaozinho-alvo-de-operacao-da-pf-sobre-desvio-de-emendas.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/operacao-que-mira-deputado-apreende-helicoptero-e-dinheiro/"
           }
         ],
-        "updatedAt": "2026-06-25T14:34:37.000Z",
+        "updatedAt": "2026-06-25T18:10:38.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/O1xKn-1U78LXExAREIFdx5sDjPM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Z/HiWgoPSKufXrttVKfDBg/josimar-maranhaozinho.jpg"
+      },
+      {
+        "clusterId": "cedf6b37269bd410",
+        "slug": "f067c582852266a0",
+        "titulo": "STF pode retomar julgamento sobre vínculo de emprego entre motoristas e apps e ações de improbidade administrativa",
+        "resumo": "O Supremo Tribunal Federal (STF) pode retomar, nesta quarta-feira (24), o julgamento de processos que discutem a existência de vínculo de emprego entre motoristas e entregadores e os aplicativos, além de ações contra a Lei de Improbidade Administrativa. A sessão anterior do STF invalidou novos dispositivos da reforma da Lei de Improbidade. O tema voltou à pauta após sessões de apresentação de argumentos no ano passado, e agora se espera a apresentação dos votos dos ministros.",
+        "porQueImporta": "A decisão pode definir o futuro da relação trabalhista com aplicativos e impactar a aplicação da Lei de Improbidade Administrativa.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-justica/ao-vivo-stf-retoma-julgamento-sobre-improbidade-administrativa-3/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/06/24/stf-pode-julgar-nesta-quarta-vinculo-entre-trabalhadores-e-apps-e-acoes-contra-lei-de-improbidade-entenda.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-25T18:10:19.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/CYXsivJJuOvNV0p5ORNM9F8Ah-4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/B/c/O5JfmyRuG0Eo5ptOTPzQ/telecom-mobilidade.jpg"
       }
     ],
     "economia": [
       {
-        "clusterId": "395a81a48f2100e3",
-        "slug": "d85652907aa08c6a",
-        "titulo": "IPCA‑15 de junho sobe 0,41% com pressão de alimentos e energia elétrica",
-        "resumo": "O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA‑15) registrou alta de 0,41% em junho, abaixo da 0,62% de maio. A variação foi impulsionada principalmente por alimentos e energia elétrica, enquanto a queda nos combustíveis ajudou a conter o índice. O acumulado em 12 meses passou a 4,80%, superando os 4,64% do período anterior. O resultado indica desaceleração da inflação, mas mantém pressão sobre o poder de compra.",
-        "porQueImporta": "Reflete a evolução da inflação que influencia decisões de política monetária e o custo de vida da população.",
+        "clusterId": "54405cae60cc8e61",
+        "slug": "9b71fdf2bf8ea2ba",
+        "titulo": "IPCA-15: prévia da inflação sobe 0,41% em junho com pressão de alimentos e energia elétrica",
+        "resumo": "Inflação ALOISIO MAURICIO/FOTOARENA/FOTOARENA/ESTADÃO CONTEÚDO O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15), considerado a prévia da inflação oficial do país, subiu 0,41% em junho, segundo dados divulgados nesta quinta-feira (25) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Com o resultado, a inflação acumulada em 12 meses chegou a 4,80%, acima dos 4,64% registrados no período imediatamente anterior. 🗒️ Tem alguma sugestão de reportagem? Mande para o g1 A prévia de junho ficou 0,21 ponto percentual abaixo da taxa de maio, que havia sido de 0,62%. O resultado…",
+        "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/infra/energia-eletrica-e-maior-pressao-do-ipca-15-em-junho/"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-economia/ipca-15-de-junho-reduz-a-041-acumulado-em-12-meses-vai-a-480/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/06/25/ipca-15-maio.ghtml"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-25062026/"
           },
           {
             "name": "Metrópoles",
             "url": "https://www.metropoles.com/brasil/ibge-previa-da-inflacao-ipca-15-desacelera-para-041-em-junho"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/economia/ipca-15-fecha-em-041-em-junho-e-fica-abaixo-do-esperado/"
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/06/25/ipca-15-junho.ghtml"
           }
         ],
-        "updatedAt": "2026-06-25T12:56:12.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/hEorMc6b4zL7txWXRk9KTZT9g5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/G/I/LBifS8SoyIDywGJXmt4w/fta20250306036.jpg"
+        "updatedAt": "2026-06-25T18:01:21.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/01/4.png?fit=300%2C186&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "ac5ebb2ee2e4ae7a",
-        "slug": "f30b0a944cbd6e0a",
-        "titulo": "Braskem abre negociação com credores e pede proteção na Justiça para reestruturar dívida",
-        "resumo": "Braskem tenta renegociar dívidas com credores financeiros. Divulgação/Braskem A Braskem informou nesta quinta-feira (25) que começou a negociar com bancos e outros credores financeiros para reestruturar suas dívidas. A petroquímica também entrou com um pedido de Tutela de Urgência Cautelar — que garante uma proteção temporária e evita que a situação financeira da empresa piore enquanto ela tenta concluir as negociações. 🗒️Tem alguma sugestão de reportagem? Mande para o g1 Em comunicado ao mercado, a companhia informou que as medidas visam \"preservar um ambiente estável\" para que a…",
-        "porQueImporta": "",
+        "clusterId": "b8f231b94da56561",
+        "slug": "7820e56875cf6d45",
+        "titulo": "Revisão do PIB dos EUA, estimativas de crescimento no Brasil e crescimento da Argentina no primeiro trimestre",
+        "resumo": "O Produto Interno Bruto dos Estados Unidos foi revisado para cima no primeiro trimestre, atingindo crescimento de 2,1%, enquanto os gastos do consumidor permanecem praticamente estáveis e a inflação em maio chegou a 4,1%, a maior taxa em três anos. No Brasil, o Banco Central elevou a projeção de crescimento do PIB para 2026 de 1,6% para 2%, atribuindo o aumento a estímulos fiscais. Na Argentina, o PIB cresceu 2,3% no mesmo período, mantendo o ritmo de expansão da economia.",
+        "porQueImporta": "Esses dados indicam a dinâmica econômica global e as políticas que influenciam o crescimento e a inflação em diferentes regiões.",
         "category": "economia",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/negocios/braskem-inicia-processo-de-mediacao/"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/braskem-brkm5-desaba-mais-de-9-apos-buscar-tutela-cautelar-contra-credores/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/06/25/braskem-inicia-processo-de-mediacao-e-pede-cautelar-para-protecao-contra-credores-financeiros.ghtml"
+            "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/pib-dos-eua-no-1o-trimestre-e-revisado-para-cima/"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/invest/mercados/braskem-pede-tutela-cautelar-e-abre-mediacao-para-renegociar-divida-de-us-95-bi/"
-          }
-        ],
-        "updatedAt": "2026-06-25T14:28:47.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2023/01/braskem-1024x576-1.webp?fit=300%2C169&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "c565553259feed19",
-        "slug": "b43c0077770c82b1",
-        "titulo": "Arrecadação federal atinge R$ 266,8 bilhões em maio",
-        "resumo": "Em maio, a Receita Federal registrou R$ 266,8 bilhões em arrecadação, o maior valor já obtido para o mês desde 1995. O resultado corresponde a um aumento real de 10,7% em relação a maio do ano anterior, já corrigido pela inflação. No acumulado de janeiro a maio, a arrecadação totalizou R$ 1,323 trilhão, 6,42% acima da inflação em comparação ao mesmo período de 2025.",
-        "porQueImporta": "O crescimento da arrecadação reflete a expansão econômica e influencia a capacidade de financiamento das políticas públicas.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/arrecadacao-federal-bate-r-2668-bi-em-maio/"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/economia/arrecadacao-federal-cresce-107-em-maio-e-soma-r-2668-bilhoes/"
+            "url": "https://exame.com/economia/pib-dos-eua-cresce-21-no-primeiro-trimestre-mas-inflacao-atinge-41-em-maio/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/06/25/arrecadacao-federal-soma-r-2668-bilhoes-em-maio-com-alta-de-64percent-e-bate-recorde-para-o-mes.ghtml"
+            "url": "https://g1.globo.com/economia/noticia/2026/06/25/banco-central-eleva-para-2percent-estimativa-de-alta-do-pib-em-2026.ghtml"
           }
         ],
-        "updatedAt": "2026-06-25T14:17:18.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/04/2025-04-15T133112Z_1_LYNXMPEL3E0LZ_RTROPTP_4_BRAZIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-25T15:25:30.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/ytsO30dXZWWA5mwZpQATzqbiOps=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/b/25qvRYRACMYQLTBqTetg/globo-canal-4-20260529-2000-frame-107807.jpeg"
       },
       {
-        "clusterId": "45d63c420153744e",
-        "slug": "ab49b2782ada23bd",
-        "titulo": "Apple aumenta preços de MacBooks e iPads devido a alta nos custos de memória",
-        "resumo": "A Apple elevou os preços de seus notebooks e iPads, citando a forte elevação nos custos de chips de memória e armazenamento, impulsionada pela expansão de data centers de inteligência artificial. O aumento afeta principalmente o MacBook Neo, modelo mais barato, e não impacta o iPhone, principal fonte de receita da empresa. A medida marca a primeira vez que a empresa repassa custos ao consumidor.",
-        "porQueImporta": "Reflete como a corrida pela IA está influenciando preços de tecnologia de consumo.",
+        "clusterId": "cbb77199ca437f74",
+        "slug": "74be1868eb7b33c6",
+        "titulo": "Marina Silva e Simone Tebet são candidatas ao Senado em São Paulo",
+        "resumo": "O PT e o PSB confirmaram Marina Silva e Simone Tebet como candidatas ao Senado Federal por São Paulo. A chapa será liderada pelo pré-candidato Fernando Haddad, com o ex-governador Márcio França como vice. Marina Silva é deputada federal por São Paulo desde 2022, enquanto Simone Tebet nasceu em Mato Grosso do Sul.",
+        "porQueImporta": "A escolha de duas ex-ministras de alto perfil reforça a força política dos partidos na disputa pelo Senado em São Paulo.",
         "category": "economia",
         "sources": [
           {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/notebook/fim-do-minimalismo-apple-deve-inundar-mercado-com-novos-macbooks/"
-          },
-          {
             "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/noticia/2026/06/25/apple-aumenta-precos-de-macbooks-e-ipads-apos-disparada-no-custo-de-memoria.ghtml"
+            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/06/25/marina-silva-e-simone-tebet-sao-confirmadas-candidatas-ao-senado-em-sp-na-chapa-de-haddad-e-marcio-franca.ghtml"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/tecnologia/apple-aumenta-precos-de-mac-ipad-e-vision-pro-e-culpa-a-corrida-da-ia/"
+            "url": "https://exame.com/brasil/haddad-lanca-franca-como-vice-marina-e-tebet-disputarao-senado/"
           }
         ],
-        "updatedAt": "2026-06-25T14:15:00.000Z",
-        "imageUrl": "https://t.ctcdn.com.br/mQKz6t_CBNVBTqGHyQ40xMm8UDo=/700x394/smart/i1107993.png"
+        "updatedAt": "2026-06-25T18:01:54.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/w0GMFiWL-CwCcgawpXyVNBo7DGw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/v/QD2ocZRvioP31Tf6ohtg/marina-silva-e-haddad.jpeg"
       },
       {
-        "clusterId": "a22ad4d319892760",
-        "slug": "88e8a2d332fe973b",
-        "titulo": "Petrobras registra crescimento de produção enquanto petróleo cai abaixo de US$75",
-        "resumo": "A produção de petróleo da Petrobras aumentou 14% em maio em relação ao mesmo mês do ano anterior, atingindo 2,62 milhões de barris por dia em abril. O preço do petróleo caiu para menos de US$75 devido à reabertura do Estreito de Ormuz e sinais de excesso de oferta. A queda no preço pode impactar as margens da empresa, enquanto o aumento na produção pode compensar parcialmente a perda de receita.",
-        "porQueImporta": "O desempenho da Petrobras influencia a economia brasileira e o mercado de energia global.",
+        "clusterId": "fb2e143ff19f45c3",
+        "slug": "1eba569fadbf3250",
+        "titulo": "Equador enfrenta Alemanha na Copa do Mundo",
+        "resumo": "O duelo entre Equador e Alemanha está marcado para a fase de grupos da Copa do Mundo. O jogo será transmitido em canais de televisão e plataformas digitais, permitindo aos torcedores acompanhar a partida em tempo real. Ambas as seleções buscam pontos importantes para garantir a classificação à fase seguinte.",
+        "porQueImporta": "O resultado pode definir a trajetória de cada equipe na competição internacional.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/petroleo-perde-forca-o-que-esperar-de-petrobras-prio-e-brava-agora/"
+            "url": "https://www.infomoney.com.br/esportes/onde-assistir-equador-alemanha/"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/06/23/producao-petroleo-petrobras.ghtml"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-equador-x-alemanha-copa-do-mundo-25-06-26"
           }
         ],
-        "updatedAt": "2026-06-25T14:30:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Petroleo.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-25T17:55:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/thumb-equador-x-alemanha.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "221fdc99e66e6e34",
-        "slug": "36acf57e31f3aece",
-        "titulo": "PL aciona TSE e pede suspensão de publicidade do governo Lula",
-        "resumo": "Partido do pré-candidato Flávio Bolsonaro alega gasto acima do teto legal e uso eleitoral da máquina pública The post PL aciona TSE e pede suspensão de publicidade do governo Lula appeared first on InfoMoney.",
-        "porQueImporta": "",
+        "clusterId": "17b7991f708a4c95",
+        "slug": "5bca4c759825c0de",
+        "titulo": "Fim da escala 6×1 pode encarecer imóveis em mais de 5%",
+        "resumo": "A ABRAINC afirma que a extinção da escala 6×1 aumentará em cerca de 5% os custos de construção e prolongará o tempo das obras. O órgão destaca que a mudança pode afastar 12,5 milhões de brasileiros do sonho da casa própria. A estimativa baseia-se em estudo da consultoria CTE.",
+        "porQueImporta": "Impacto direto no custo de aquisição de imóveis e no acesso à moradia no Brasil.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/pl-aciona-tse-e-pede-suspensao-de-publicidade-do-governo-lula/"
+            "url": "https://www.infomoney.com.br/minhas-financas/fim-da-escala-6x1-deixara-imoveis-5-mais-caros-e-obras-mais-longas-diz-abrainc/"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/pl-alega-gasto-acima-do-teto-e-pede-veto-a-publicidades-do-governo-lula/"
+            "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/fim-da-escala-6x1-vai-encarecer-imoveis-diz-abrainc/"
           }
         ],
-        "updatedAt": "2026-06-25T14:09:12.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-02T130230Z_1573548033_RC2R1GASYA1I_RTRMADP_3_USA-TRUMP-TARIFFS-BRAZIL.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-06-25T17:54:12.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-25-at-12.36.27.jpeg?fit=300%2C202&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "6a3afe21540ca1d0",
-        "slug": "8140dd0db3b11178",
-        "titulo": "Dólar oscila entre altas e baixas na abertura, com inflação do Brasil e dos EUA no radar",
-        "resumo": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta quinta-feira (25) com volatilidade e oscilava entre altas e baixas. Perto das 9h, a moeda tinha um leve avanço de 0,01%, cotada a R$ 5,2025. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ Os novos dados de inflação do Brasil e dos Estados Unidos são o principal destaque desta quinta-feira. Os indicadores devem reforçar a percepção do mercado sobre o futuro das taxas básicas de juros em ambos os países e trazer informações…",
-        "porQueImporta": "",
+        "clusterId": "ae194f804dbaf45d",
+        "slug": "7f980d38059d8cc7",
+        "titulo": "Bolsas europeias fecham em alta impulsionadas por resultados da Micron",
+        "resumo": "As bolsas da Europa fecharam em alta, impulsionadas pelos resultados positivos da Micron. A empresa divulgou investimentos em inteligência artificial e reduziu preocupações sobre uma possível bolha no setor de chips. Clientes comprometeram US$ 22 bilhões para garantir o fornecimento de chips de memória.",
+        "porQueImporta": "Os resultados reforçam a confiança no crescimento do setor de tecnologia e no investimento em IA.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-em-alta-com-impulso-tech-apos-resultados-da-micron/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/mercado/bolsas-da-europa-fecham-em-alta-com-impulso-tech-apos-resultados-da-micron/"
+          }
+        ],
+        "updatedAt": "2026-06-25T17:35:33.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/04/2024-04-24T185107Z_1_LYNXNPEK3N0TK_RTROPTP_4_EUROPE-STOCKS.jpg?fit=300%2C192&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "cf158017e26bf5b3",
+        "slug": "b171eed56a77e5c7",
+        "titulo": "IBM anuncia primeiro chip do mundo com tecnologia abaixo de 1 nanômetro",
+        "resumo": "A IBM revelou a primeira tecnologia de chip com dimensão de 0,7 nanômetro, que pode ser produzida nos próximos cinco anos. O novo chip teria quase 100 bilhões de transistores, dobrando a densidade em relação ao chip de 2 nanômetros de 2021. Espera-se que o desempenho seja cerca de 50% superior ao da geração anterior.",
+        "porQueImporta": "Avanço tecnológico que pode impulsionar a eficiência e capacidade de dispositivos eletrônicos.",
         "category": "economia",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/mercado/mercado-financeiro-ibovespa-dolar-25-junho-2026/"
+            "url": "https://www.cnnbrasil.com.br/tecnologia/ibm-lancara-primeiro-chip-menor-que-1-nanometro-saiba-detalhes/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/06/25/dolar-ibovespa.ghtml"
+            "url": "https://g1.globo.com/inovacao/noticia/2026/06/25/ibm-anuncia-primeiro-chip-sub-1-nanometro-do-mundo.ghtml"
           }
         ],
-        "updatedAt": "2026-06-25T12:28:26.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/9Nox_bbbmGyxR3BOJXDd71OGVmk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/d/z/vFoW5MRSmwxWJBILyNcQ/muitas-notas-de-dolares-dos-eua.jpg"
+        "updatedAt": "2026-06-25T16:29:56.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/yzs9Ftg1XXk5H72HqIj8QlBjxeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/V/nK9fAkQj220Q0NrUoyhg/chip-1-nanometro-ibm.jpg"
       },
       {
-        "clusterId": "5301bc6b25fb9d29",
+        "clusterId": "21e865d96f1e3eb3",
         "slug": "f28664e165de06f2",
         "titulo": "Brasil avança para mata‑mata da Copa 2026 após vitória sobre Escócia",
         "resumo": "A seleção brasileira, comandada por Carlo Ancelotti, venceu a Escócia por 3 a 0 na última rodada da fase de grupos, garantindo a classificação para a fase de mata‑mata. O triunfo marcou a volta de Neymar Jr. ao elenco. Na próxima segunda-feira, 29 de junho, o Brasil enfrentará o segundo colocado do Grupo F, podendo ser Holanda, Japão ou Suécia.",
@@ -709,41 +685,37 @@
         "sources": [
           {
             "name": "Exame",
-            "url": "https://exame.com/esporte/brasil-pode-ser-eliminado-no-proximo-jogo-da-copa-veja-como-funciona-o-mata-mata/"
+            "url": "https://exame.com/esporte/selecoes-classificadas-para-o-mata-mata-da-copa-do-mundo-2026-veja-a-lista-atualizada/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/24/proximo-jogo-brasil-copa-data-horario-e-onde-assistir.ghtml"
+            "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/06/25/analise-brasil-faz-primeira-fase-convincente-e-chega-ao-mata-mata-mais-seguro.ghtml"
           }
         ],
-        "updatedAt": "2026-06-25T09:54:58.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/WXb_JGvfgLBRcM7GpLkL8dzoEjo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/B/wFSkAdTpiTX8eZqOTvhQ/2026-06-25t001047z-2044114490-up1em6p00hx4y-rtrmadp-3-soccer-worldcup-sco-bra.jpg"
+        "updatedAt": "2026-06-25T14:06:19.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/dD3oij4-re_4soaNmjg8yxxMfvA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/o/Rm5mIITZGGwNjHEEZBRA/globo-canal-4-20260624-2000-frame-181458-1-.jpeg"
       }
     ],
     "mundo": [
       {
-        "clusterId": "e4fc6a8f18a7f9a6",
-        "slug": "8b6fa5a28ce0cc84",
-        "titulo": "Brasil lidera Grupo C e aguarda adversário na fase de mata‑mata",
-        "resumo": "O Brasil, comandado por Carlo Ancelotti, lidera o Grupo C da Copa do Mundo 2026 com quatro pontos, após vitória sobre a Escócia. A última partida do grupo será contra a Escócia, em Miami, no dia 24 de junho. O resultado determinará a classificação final do Grupo F, onde o Brasil enfrentará o segundo colocado, que pode ser Japão, Holanda ou Suécia, dependendo dos jogos de 25 de junho.",
-        "porQueImporta": "O adversário do Brasil na fase de mata‑mata será definido apenas após os resultados finais do Grupo F, influenciando a rota da seleção na competição.",
+        "clusterId": "a8487a02a434fda0",
+        "slug": "99d16f6727a4adb7",
+        "titulo": "Brasil enfrenta o segundo colocado do Grupo F na fase de mata‑mata da Copa 2026",
+        "resumo": "O Brasil, líder do Grupo C, terá como adversário na fase de mata‑mata o time que terminar na segunda posição do Grupo F, que pode ser Holanda, Japão ou Suécia. O resultado será definido na última rodada de grupos, marcada para 25 de junho. A partida determinará o primeiro confronto do Brasil na fase eliminatória.",
+        "porQueImporta": "Define o próximo desafio da seleção brasileira na Copa 2026.",
         "category": "mundo",
         "sources": [
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/tunisia-x-holanda-na-copa-onde-assistir-horario-e-escalacoes/"
+            "url": "https://veja.abril.com.br/esporte/desempenho-da-selecao-brasileira-contra-holanda-suecia-e-japao-em-copas/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/holanda-japao-ou-suecia-pode-ser-proximo-adversario-do-brasil-na-copa"
           },
           {
             "name": "GE",
             "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/25/possivel-adversario-do-brasil-na-copa-tecnico-da-holanda-diz-nao-temos-medo-de-ninguem.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tecnico-da-holanda-descarta-receio-de-pegar-o-brasil-na-copa-da-na-mesma/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/esporte/brasil-conhece-nesta-quinta-seu-proximo-adversario-na-copa/"
           },
           {
             "name": "BBC Brasil",
@@ -754,43 +726,39 @@
             "url": "https://g1.globo.com/mundo/noticia/2026/06/25/japao-e-holanda-jogam-a-ultima-rodada-da-fase-de-grupos-da-copa-do-mundo-e-decidem-quem-sera-o-adversario-do-brasil.ghtml"
           }
         ],
-        "updatedAt": "2026-06-25T14:19:36.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2275686371.jpg?quality=70&strip=info"
+        "updatedAt": "2026-06-25T17:58:24.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2016/06/esporte-futebol-copa-1998-20140523-17-original.jpeg?quality=70&strip=info"
       },
       {
-        "clusterId": "4bfab1d6768cb0c6",
-        "slug": "c9763d20cc1207ed",
-        "titulo": "Terremotos de magnitude 7,2 e 7,5 atingem Venezuela",
-        "resumo": "Dois sismos, com epicentros a 5 km de distância, ocorreram na noite de 24 de junho de 2026, atingindo a Venezuela com magnitudes 7,2 e 7,5. O terremoto de 7,5 causou destruição em Caracas, com vários prédios desabando. Até a última atualização, 164 pessoas morreram e 971 ficaram feridas, e mais de 500 equipes de emergência estão trabalhando nos resgates. A presidente interina Delcy Rodríguez decretou estado de emergência e suspendeu aulas e serviços não essenciais.",
-        "porQueImporta": "O evento representa o maior abalo sísmico registrado no país em mais de um século, com impactos humanitários e estruturais significativos.",
+        "clusterId": "3cdb1b45430eeee1",
+        "slug": "7b1c5fb9e23d5fa5",
+        "titulo": "Site registra mais de 24 mil desaparecidos após terremotos devastadores na Venezuela",
+        "resumo": "Equipes de emergência em frente a escombros de prédio derrubado por terremotos históricos em Caracas, na Venezuela, em 25 de junho de 2026. REUTERS/Leonardo Fernandez Viloria Um site criado para rastrear pessoas desaparecidas nos terremotos históricos que devastaram a Venezuela listava mais de 24 mil pessoas até o início da tarde desta quinta-feira (25). AO VIVO: Veja as últimas atualizações do terremoto ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O número é extraoficial por ser alimentado pela população, porém dá uma dimensão da devastação causada pelos tremores de magnitudes…",
+        "porQueImporta": "",
         "category": "mundo",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/video-predios-em-cidade-na-venezuela-sao-destruidos-apos-terremotos/"
-          },
-          {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/25/video-mostra-momento-em-que-edificio-desaba-na-venezuela-apos-terremoto.ghtml"
+            "url": "https://g1.globo.com/mundo/ao-vivo/terremotos-causam-destruicao-na-venezuela.ghtml"
           },
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cpq3120rvyro?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/articles/cqj1e51p7vko?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/entenda-como-aconteceu-terremoto-na-venezuela/"
           },
           {
             "name": "Metrópoles",
             "url": "https://www.metropoles.com/mundo/imagens-mostram-destruicao-apos-terremotos-na-venezuela-veja"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/venezuela-confirma-mais-de-30-mortes-apos-terremotos/"
           }
         ],
-        "updatedAt": "2026-06-25T14:04:21.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/ceA3imBpF5_OzqhsCG4PxCydoAI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/3/PBhiAARDCXsAXSjf3a7A/predio-venezuela-.png"
+        "updatedAt": "2026-06-25T18:02:32.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/3v41RJnBqE7DDnUVuXTKYCM6PYU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/W/KVZiq1TlWHze7o9GA1mQ/2026-06-25t063948z-439315881-rc2t0ma1bx5k-rtrmadp-3-venezuela-quake.jpg"
       },
       {
-        "clusterId": "3e6b2604b5ffcf34",
+        "clusterId": "5a4b94d11c3cf31f",
         "slug": "9dec45aabd202672",
         "titulo": "Jogador argentino Lucas Trejo relata que família desapareceu após terremotos na Venezuela",
         "resumo": "O jogador de futebol argentino Lucas Trejo, de 38 anos, vive em La Guaira, estado afetado pelos terremotos. Ele informou que o prédio onde morava desabou e que sua família está desaparecida. Trejo fez um apelo nas redes sociais pedindo orações e ajuda para localizar os parentes.",
@@ -799,84 +767,32 @@
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/jogador-procura-familia-apos-predio-desabar-na-venezuela-orem"
+            "url": "https://www.metropoles.com/esportes/liga-beisebol-da-venezuela-e-suspensa-apos-terremoto-interromper-jogo"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/25/jogador-de-futebol-familia-desaparecida-apos-terremoto-venezuela.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/25/jogador-de-beisebol-procura-esposa-desaparecida-apos-desabamento-de-hotel-em-terremoto-na-venezuela.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/familia-de-jogador-argentino-esta-desaparecida-apos-terremotos-na-venezuela/"
           }
         ],
-        "updatedAt": "2026-06-25T13:45:44.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/06/jogador-de-futebol-argentino-pede-ajuda-familia-desaparecida-venezuela.jpg"
+        "updatedAt": "2026-06-25T17:56:12.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/liga-de-beisebol-venezuela-suspensa.jpg"
       },
       {
-        "clusterId": "e8734fdeeda23c4e",
-        "slug": "2ddff59bb9a77346",
-        "titulo": "Rayan, 19 anos, pode substituir Raphinha na Seleção contra Escócia",
-        "resumo": "O treinador Carlo Ancelotti indicou que Rayan, atacante de 19 anos, pode entrar no lugar de Raphinha, que está lesionado, no jogo decisivo contra a Escócia. Rayan já atuou na vitória de 3 a 0 sobre a Escócia na Copa do Mundo. O jovem tem sido observado por seu potencial e versatilidade no ataque.",
-        "porQueImporta": "A escolha de Rayan pode influenciar a estratégia ofensiva da Seleção em partida crucial da Copa do Mundo.",
+        "clusterId": "4ccf59e004b56ab6",
+        "slug": "b28a6c9d189e92e6",
+        "titulo": "Onda de calor extrema na Europa causa dezenas de mortes e fechamento de escolas",
+        "resumo": "Temperaturas de superfície ultrapassaram 50 °C em grande parte da França e da Espanha, segundo satélite da ESA, e o Reino Unido registrou recordes de calor em junho. A onda de calor resultou em mais de 50 mortes, incluindo crianças e idosos, principalmente por afogamento e insolação. O clima extremo levou ao fechamento de escolas, atrasos no transporte e apagões de energia.",
+        "porQueImporta": "A crise climática extrema aumenta riscos à saúde pública e à infraestrutura, exigindo medidas de adaptação imediatas.",
         "category": "mundo",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/titular-do-brasil-contra-a-escocia-rayan-ainda-nao-perdeu-em-2026"
+            "url": "https://www.metropoles.com/vida-e-estilo/ferias-na-europa-confira-dicas-para-lidar-com-a-onda-de-calor"
           },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/06/24/brasil-x-escocia-rayan-deve-assumir-vaga-de-raphinha-em-jogo-decisivo.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-25T13:38:51.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/06/rayan-escocia-x-brasil.jpg"
-      },
-      {
-        "clusterId": "10685d20d9fb9c2a",
-        "slug": "67de7f026d90e9e1",
-        "titulo": "VÍDEO: Motorista atropela multidão no México que celebrava vitória de jogo na Copa do Mundo",
-        "resumo": "Torcedor celebra vitória do México em jogo da Copa do Mundo na cidade do México, em 24 de junho de 2026. Luis Cortes/ Reuters Um motorista atropelou uma multidão que celebrava a vitória do México em um jogo da Copa do Mundo na cidade de Cabo San Lucas, no sul do estado mexicano da Baixa Califórnia. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O caso ocorreu na noite de quarta-feira (24), após a seleção mexicana vencer a República Tcheca. Segundo a prefeitura local, o motorista acelerou no meio de um grupo de pessoas que se concentrava no centro turístico da cidade, atropelando…",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/no-mexico-veiculo-atinge-torcedores-que-comemoravam-vitoria-na-copa/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/06/25/motorista-atropela-multidao-no-mexico-que-celebrava-vitoria-de-jogo-na-copa-do-mundo.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-25T12:57:22.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/0Q3skrEtj-0CaESQihLXLO3evEo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Y/IFJi8lTTSh1AWimYTUqg/2026-06-25t040815z-1896768295-up1em6p0bhqmz-rtrmadp-3-soccer-worldcup-cze-mex-fans-mexicocity.jpg"
-      },
-      {
-        "clusterId": "0fb0e0066cad3178",
-        "slug": "c9da2586ede555c1",
-        "titulo": "Beckham, Camila Cabello, 'Cascão': famosos aparecem na torcida pelo Brasil na Copa do Mundo",
-        "resumo": "Camarote do Brasil: galã, ator, cantora e 'Cascão' aparecem na torcida pela Seleção Maior campeão da história das Copas do Mundo, com cinco títulos, o Brasil costuma atrair torcedores ilustres ao redor do planeta. E nesta Copa não tem sido diferente. O Hora 1 mostrou algumas das celebridades que apareceram na torcida pela Seleção Brasileira durante o mundial (veja no vídeo acima). David Beckham Ex-jogador inglês David Beckham, um dos maiores ícones do futebol mundial, apareceu demonstrando apoio à Seleção Brasileira Reprodução/TV Globo O ex-jogador inglês David Beckham, um dos maiores ícones…",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/celebridades/matthew-broderick-e-david-beckham-assistem-a-jogo-do-brasil-no-estadio/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/hora1/noticia/2026/06/25/beckham-camila-cabello-e-cascao-famosos-aparecem-na-torcida-pelo-brasil-na-copa-do-mundo.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-25T11:57:02.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/MgXdmzbwmmHA0bGiW-sG6dTCzU8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/x/3K9BMiSqyQfPE4ShQDTA/camarote-br.01-frame-955.jpeg"
-      },
-      {
-        "clusterId": "0714e9b45887bc4c",
-        "slug": "b28a6c9d189e92e6",
-        "titulo": "40 mortos por afogamento na França: o que é o 'domo de calor' que está causando temperaturas extremas na Europa",
-        "resumo": "40 mortos por afogamento na França: o que é o 'domo de calor' que está causando temperaturas extremas na Europa Getty Images Países da Europa Ocidental e Central — entre eles Espanha, França e Reino Unido — emitiram alertas vermelhos devido à previsão de intensificação, nos próximos dias, de uma onda de calor com temperaturas que podem ultrapassar os 40 °C. Mais da metade das regiões da França está atualmente sob o nível máximo de alerta meteorológico e, por causa disso, centenas de escolas foram fechadas. O país teve o dia mais quente já registrado (44,3 °C em Pissos, Landes) em sua história…",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
           {
             "name": "G1",
             "url": "https://g1.globo.com/mundo/noticia/2026/06/25/mais-uma-crianca-e-encontrada-morta-dentro-de-carro-durante-onda-de-calor-na-franca.ghtml"
@@ -886,37 +802,121 @@
             "url": "https://www.bbc.com/portuguese/articles/c9v27lx1kwmo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-06-25T11:51:25.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/fvLQ5ba04zYzVP2EJcCV5k_c-KQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/P/R8OxnJTT6nUnG7KcIOXA/afp-20260625-b8am69f-v1-highres-germanyweatherclimateheatwave.jpg"
+        "updatedAt": "2026-06-25T17:21:33.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/mulher-calor-suor.jpg"
       },
       {
-        "clusterId": "7cfdadeb7e75dc39",
-        "slug": "e427f4dcc9e6809b",
-        "titulo": "Seleção Brasileira escala Rayan para substituir Raphinha na partida contra Escócia",
-        "resumo": "Carlo Ancelotti escolheu Rayan para substituir o lesionado Raphinha na escalação do Brasil contra a Escócia, na última rodada do Grupo C da Copa do Mundo. O duelo acontece em Miami, às 19h, e o Brasil precisa apenas de um empate para avançar. A formação inclui Alisson, Danilo, Marquinhos, Gabriel Magalhães, Douglas Santos, Casemiro, Bruno Guimarães e Lucas Moura.",
-        "porQueImporta": "A escolha de Rayan pode influenciar a estratégia ofensiva do Brasil em um jogo decisivo para a classificação.",
+        "clusterId": "3d0b3754625547be",
+        "slug": "6d47b3fdb92de77c",
+        "titulo": "Brasil enfrenta Escócia na última rodada da fase de grupos da Copa do Mundo 2026",
+        "resumo": "O Brasil, liderando o Grupo C, enfrenta a Escócia na última partida da fase de grupos, em Miami, no Lincoln Hard Rock Stadium. Vinícius Júnior marcou dois gols na vitória por 3 a 0, consolidando sua posição como principal jogador do Cartola da Copa e vice-artilheiro do torneio. A Escócia, que nunca avançou da fase de grupos, busca mudar sua história. A partida pode garantir a classificação do Brasil às oitavas de final.",
+        "porQueImporta": "Decisiva para a classificação do Brasil e para a trajetória de Vinícius Júnior na Copa.",
         "category": "mundo",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/blogs/painel-tatico/post/2026/06/25/a-tatica-de-ancelotti-que-explica-o-jogo-mais-completo-do-brasil-na-copa.ghtml"
+            "url": "https://ge.globo.com/cartola/copa-do-mundo/noticia/2026/06/25/cartola-da-copa-do-mundo-da-fifatm-veja-quais-foram-os-melhores-do-brasil-na-primeira-fase.ghtml"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/06/24/endrick-e-ancelotti-veja-10-memes-que-resumem-a-piada-preferida-dos-brasileiros-na-copa.ghtml"
+            "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/06/24/adversaria-do-brasil-escocia-disputa-copa-do-mundo-pela-9a-vez-e-nunca-passou-da-primeira-fase.ghtml"
           }
         ],
-        "updatedAt": "2026-06-25T10:00:11.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/DhxTz-WEWi5Gu8pQUvBz47nAJFw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/M/o/04DQDWQX6hxIAWX1aoWw/esquema.png"
+        "updatedAt": "2026-06-25T18:00:08.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/krQCOVXC5TsMSVZRpEtJ12r-3w8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/q/z/Na0s9YQk2AZ0nYOu4rFg/2026-06-24t221424z-720584230-up1em6o1przlr-rtrmadp-3-soccer-worldcup-sco-bra.jpg"
+      },
+      {
+        "clusterId": "a1eb56c335baa061",
+        "slug": "5d50b31656c924b7",
+        "titulo": "Terremoto de magnitude 6,9 atinge região leste do Japão",
+        "resumo": "Um terremoto de magnitude 6,9 ocorreu na noite de quarta-feira (24 de junho) na costa leste da ilha de Honshu, próximo à província de Iwate. O epicentro foi registrado a cerca de 50 km de profundidade, no mar ao norte da região de Iwate. Não há registro de feridos ou mortos, e não há alerta de tsunami. O abalo foi sentido em toda a região leste do país.",
+        "porQueImporta": "O evento demonstra a atividade sísmica contínua no Japão, país com alta sensibilidade a terremotos.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/czj8pnjnn1do?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/meio-ambiente/noticia/2026/06/25/mundo-teve-4-grandes-terremotos-em-poucas-horas-tremores-na-venezuela-no-japao-e-nos-eua-tem-alguma-ligacao.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-25T17:31:58.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3721/live/ce342c40-70a0-11f1-a074-f75fb10ee765.jpg"
+      },
+      {
+        "clusterId": "c0f4df82ff35a301",
+        "slug": "67de7f026d90e9e1",
+        "titulo": "Motorista atropela multidão celebrando vitória do México na Copa do Mundo",
+        "resumo": "Um motorista em Cabo San Lucas, Baja California Sur, acelerou no centro turístico e colidiu com uma multidão que comemorava a vitória do México na Copa do Mundo, resultando em 17 feridos. O veículo atingiu pilares de proteção antes de ser detido pelas autoridades. A ocorrência ocorreu na noite de quarta-feira, 24 de junho.",
+        "porQueImporta": "O incidente demonstra riscos de segurança em eventos esportivos e destaca a necessidade de controle de tráfego em áreas turísticas.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/homem-atropela-17-pessoas-que-comemoravam-vitoria-do-mexico-na-copa"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/25/motorista-atropela-multidao-no-mexico-que-celebrava-vitoria-de-jogo-na-copa-do-mundo.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-25T16:02:16.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/atropelamento-mexico-xopa.jpg"
+      },
+      {
+        "clusterId": "1a74f45e24db745d",
+        "slug": "7dee386f1f5869ff",
+        "titulo": "Dois torcedores recebem US$ 50 mil para assistir a todos os jogos da Copa do Mundo",
+        "resumo": "Kevin Akoto, cozinheiro na Flórida, e Austin Franklin, influenciador da Filadélfia, foram selecionados entre milhares de candidatos para cobrir os 104 jogos da Copa do Mundo. Eles atuarão como observadores-chefes, acompanhando todas as partidas em uma cabine de vidro da BBC e produzindo conteúdo para um serviço de streaming. Cada um receberá US$ 50 mil pelo trabalho.",
+        "porQueImporta": "Ilustra como a cobertura da Copa do Mundo pode se tornar uma oportunidade de emprego remunerada e de produção de conteúdo em escala global.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/06/25/quem-sao-os-torcedores-que-vao-receber-us-50-mil-para-assistir-a-todos-os-jogos-da-copa.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c8j2r8gr70ko?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-06-25T15:19:02.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/FS1PrbD_eE42iVcNXI8QNl9ubXE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/e/Vk9WdcSNqFAJBQa8gHLA/d5b30190-707c-11f1-8e1d-bbbb1017d210.jpg.webp"
       }
     ],
     "tecnologia": [
       {
+        "clusterId": "58116c9678a257e1",
+        "slug": "26a8b86fba55f31b",
+        "titulo": "Pré-venda de GTA VI começa no Brasil com preços definidos",
+        "resumo": "A pré-venda de GTA VI iniciou no Brasil em 25 de outubro, com a edição Standard custando R$ 449,90 e a Ultimate R$ 549,90, conforme divulgado na PlayStation Store e na Loja Xbox. O lançamento oficial está marcado para 19 de novembro de 2026. Compradores que adquirirem qualquer edição antes de 20 de novembro receberão o pacote Vintage Vice City e um mês de assinatura do GTA+. Nos Estados Unidos, o jogo será vendido por US$ 79,99, com a Ultimate Edition a US$ 99,99.",
+        "porQueImporta": "O lançamento define novos preços e benefícios para jogos AAA, impactando consumidores e o mercado de entretenimento digital.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/tecnologia/pre-venda-do-aguardado-game-gta-vi-no-brasil-comeca-com-precos-salgados/"
+          },
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/games/preco-de-gta-6-no-brasil-espanta-e-estabelece-nova-padronizacao-de-jogos-aaa/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/games/noticia/2026/06/24/gta-6-sera-vendido-por-us-80-nos-eua.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-25T17:45:26.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/39f3facb-gta-vi-article-image-illustration-2.png"
+      },
+      {
         "clusterId": "ccc319ca0b0476ab",
         "slug": "48286121b3150be6",
-        "titulo": "Roberto Carlos apareceu com \"iPhone de ouro\" no jogo do Brasil; saiba o preço",
-        "resumo": "O ex-jogador Roberto Carlos chamou a atenção do público durante o último jogo do Brasil na primeira fase da Copa do Mundo. A transmissão oficial flagrou o craque com um \"iPhone de ouro\", um modelo totalmente personalizado que tem valor estimado em até R$ 30 mil. iPhone de ouro 24k é lançado para quem não gostou do T1 da Trump Mobile 3 iPhones de ouro que custam mais que um carro O momento ocorreu na vitória da Seleção Brasileira por 3 a 0 contra a Escócia. Além do ex-lateral, as câmeras também mostraram outros grandes nomes do futebol nacional nas arquibancadas, como Ronaldo, Ronaldinho, Kaká…",
-        "porQueImporta": "",
+        "titulo": "Roberto Carlos aparece com iPhone de ouro no jogo do Brasil",
+        "resumo": "O ex-jogador Roberto Carlos foi visto usando um iPhone de ouro, um modelo personalizado com valor estimado em até R$ 30 mil, durante a partida do Brasil contra a Escócia. A cena foi capturada pela transmissão oficial e gerou repercussão nas redes sociais. Outros jogadores, como Ronaldo, Ronaldinho e Kaká, também estavam presentes no estádio.",
+        "porQueImporta": "Ilustra o interesse de figuras públicas em produtos de luxo e sua influência nas redes sociais.",
         "category": "tecnologia",
         "sources": [
           {
@@ -934,9 +934,9 @@
       {
         "clusterId": "573fcb334b60663d",
         "slug": "4eee5ba699fb8fe2",
-        "titulo": "OpenAI declara guerra à NVIDIA: saiba tudo sobre o novo chip de IA Jalapeño",
-        "resumo": "A OpenAI deu o passo mais ousado de sua história em direção à independência de hardware. Em parceria com a Broadcom, a criadora do ChatGPT revelou o Jalapeño, seu primeiro chip de processamento de inteligência artificial customizado. O movimento visa reduzir a dependência da NVIDIA, líder absoluta nesse segmento, e conter a crise de fornecimento de semicondutores no setor. AGI | O que é inteligência artificial geral? O que muda quando a OpenAI deixa de ser exclusiva da Microsoft? O que é o chip Jalapeño da OpenAI e como ele funciona? O Jalapeño foi projetado especificamente para a inferência,…",
-        "porQueImporta": "",
+        "titulo": "OpenAI lança chip Jalapeño em parceria com Broadcom",
+        "resumo": "A OpenAI apresentou o Jalapeño, seu primeiro chip de IA desenvolvido sob medida para acelerar e reduzir custos da inferência de modelos como o ChatGPT. O chip foi criado em colaboração com a Broadcom e é especificamente projetado para executar modelos de IA, diferindo do treinamento de modelos. A iniciativa visa diminuir a dependência da OpenAI de hardware da NVIDIA e mitigar a crise de fornecimento de semicondutores.",
+        "porQueImporta": "O lançamento demonstra a busca da OpenAI por autonomia tecnológica e eficiência nos custos de operação de IA.",
         "category": "tecnologia",
         "sources": [
           {
@@ -952,263 +952,232 @@
         "imageUrl": "https://s2-g1.glbimg.com/R-npKPb7ApcOIPhQE84lqyiT2Q8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/O/6/wLLEZWQS2WzCuyY0EB9g/afp-20251002-77jn29e-v1-highres-filesustechnologyaiinvestments.jpg"
       },
       {
-        "clusterId": "0c01ee0ba63d7c55",
-        "slug": "f7e212b9151e0166",
-        "titulo": "Samsung pode preparar tablet com \"buraco na tela\"; veja o que já sabemos",
-        "resumo": "Novas animações encontradas na versão beta da One UI 9.0 sugerem que a Samsung pode estar trabalhando em um tablet com câmera frontal embutida em um furo na tela. A pista surgiu de forma discreta nos arquivos da nova interface baseada no Android 17. Samsung revela detalhe de novo \"celular fashion\" sem querer Celular mais top da Samsung pode ficar menos poderoso em 2027, indica vazamento As animações de rotação de tela mostram um dispositivo com proporções típicas de um tablet e um pequeno recorte circular no display para acomodar a câmera frontal. 📱 Veja as melhores promoções de tablets no…",
-        "porQueImporta": "",
+        "clusterId": "e0629bf6e9fd17c9",
+        "slug": "9baeb6003ee6618b",
+        "titulo": "Carros elétricos superam modelos a gasolina na Europa em maio",
+        "resumo": "Em maio, veículos 100% elétricos ultrapassaram os modelos a gasolina em emplacamentos na Europa, totalizando 1,15 milhão de novos veículos. A tendência reflete o crescimento da eletrificação na indústria automotiva global. Apesar desse avanço, as vendas de carros em geral caíram em janeiro. A Tesla continua sendo um dos principais impulsionadores das vendas de veículos elétricos.",
+        "porQueImporta": "O resultado indica uma mudança significativa na preferência dos consumidores e no mercado automotivo europeu.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/carros/fim-de-uma-era-carros-eletricos-superam-modelos-a-gasolina-na-europa/"
+          }
+        ],
+        "updatedAt": "2026-06-25T18:05:00.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/yxulmHyWpXXPzCAJJQhKkon0SpM=/700x394/smart/i1100211.png"
+      },
+      {
+        "clusterId": "5f552bd5735d469a",
+        "slug": "1f1622b607b8edb8",
+        "titulo": "Amazon oferece promoções em mouses, monitores, notebooks e smartwatches",
+        "resumo": "A Amazon disponibiliza ofertas em diversos itens para gamers e usuários em geral, incluindo mouses sem fio de marcas como Logitech, Redragon e Havit; monitores gamer com painéis IPS e altas taxas de atualização; notebooks de modelos ASUS Vivobook, Samsung Galaxy Book Go e ASUS TUF Gaming A15 com placas RTX; e smartwatches com telas AMOLED e integração de IA. As promoções abrangem opções de baixo custo a configurações mais robustas, atendendo a diferentes necessidades e orçamentos.",
+        "porQueImporta": "Essas ofertas permitem que consumidores atualizem equipamentos de forma econômica e adequada ao seu perfil de uso.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/25/reviews/celular-em-promocao-aproveite-56-off-no-samsung-galaxy-a36/"
-          },
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/smartphone/fim-do-misterio-insider-revela-quando-chegam-os-proximos-dobraveis-da-samsung/"
+            "url": "https://olhardigital.com.br/2026/06/25/reviews/hora-de-equipar-sua-setup-mouses-gamer-sem-fio-em-promocao-na-amazon/"
           }
         ],
-        "updatedAt": "2026-06-25T12:10:00.000Z",
-        "imageUrl": "https://t.ctcdn.com.br/rpMjHGq37LF1bMvU5OfYU6PHES4=/700x394/smart/i1035525.jpeg"
+        "updatedAt": "2026-06-25T17:53:00.000Z"
       },
       {
-        "clusterId": "2ad9bfb0728b3ad7",
-        "slug": "603bc6abd04458ed",
-        "titulo": "Primeiro carro 100% elétrico da Toyota chega ao Brasil; conheça o BZ4X",
-        "resumo": "A Toyota acaba de inaugurar sua entrada no setor dos carros elétricos com o utilitário esportivo médio BZ4X, seu primeiro veículo 100% elétrico apresentado no país. O modelo veio para enfrentar o disputado segmento premium e desembarca em versão única por R$ 419.900 com muita exclusividade, já que o lote inicial vai ter apenas 99 unidades. Toyota \"faz festa\" para último Corolla fabricado no interior de São Paulo Toyota prepara bike elétrica, dobrável e barata para revolucionar mobilidade A chegada do BZ4X marca a entrada oficial da fabricante japonesa na corrida dos carros totalmente movidos…",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/auto/fim-de-uma-era-ultimo-toyota-corolla-e-produzido-em-indaiatuba/"
-          },
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/carros/primeiro-carro-100-eletrico-da-toyota-chega-ao-brasil-conheca-o-bz4x/"
-          }
-        ],
-        "updatedAt": "2026-06-25T11:51:46.000Z",
-        "imageUrl": "https://t.ctcdn.com.br/M_Vn0DdcbpT90q0qQG_XJkw02wk=/700x394/smart/i1137297.png"
-      },
-      {
-        "clusterId": "b899694c1c0d765c",
-        "slug": "26a8b86fba55f31b",
-        "titulo": "Preço de GTA 6 no Brasil é revelado e estabelece nova padronização de jogos AAA",
-        "resumo": "A pré-venda de GTA 6 no Brasil começou nesta quinta-feira (25), com os preços divulgados oficialmente na PlayStation Store e na Loja XBOX. Em ambas as plataformas, a edição Standard é vendida por R$ 449,90 e a Ultimate pode ser comprada por R$ 549,90. O que faz GTA ser amado por uns e odiado por outros? GTA 6 Ultimate Edition: o que vai estar na edição de luxo do novo jogo? Quem comprar qualquer uma das versões antes do dia 20 de novembro de 2026 receberá dois brindes: o pacote Vintage Vice City e um mês de assinatura do serviço GTA+. O jogo será disponibilizado pela Rockstar no dia 19 de…",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/games/preco-de-gta-6-no-brasil-espanta-e-estabelece-nova-padronizacao-de-jogos-aaa/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/games/noticia/2026/06/24/gta-6-sera-vendido-por-us-80-nos-eua.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-25T11:34:00.000Z",
-        "imageUrl": "https://t.ctcdn.com.br/JPeJFlvPuvdEJsPenBkb-hogFe0=/700x394/smart/i1137331.jpeg"
-      },
-      {
-        "clusterId": "a5e37908db3b5be3",
-        "slug": "a9b3bc50077726fb",
-        "titulo": "Meta ressuscita app que vai usar IA para responder comentários por você",
-        "resumo": "A Meta anunciou o relançamento do Creator Studio em uma versão reformulada e focada em inteligência artificial, voltada para ajudar criadores de conteúdo a gerenciar páginas, analisar desempenho e interagir com a comunidade com apoio de IA. A ferramenta, que havia sido lançada em 2020 e depois descontinuada, volta agora em fase de testes com um grupo limitado de criadores. Como usar o Facebook: guia completo com dúvidas e soluções Como baixar e instalar o Facebook (erros e soluções) O novo aplicativo funciona como um assistente integrado no ecossistema do Facebook, com a proposta de…",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/apps/meta-ressuscita-app-que-vai-usar-ia-para-responder-comentarios-por-voce/"
-          }
-        ],
-        "updatedAt": "2026-06-25T14:05:00.000Z",
-        "imageUrl": "https://t.ctcdn.com.br/adL_aDIpGckjjbWfLLoYh-kl-rI=/700x394/smart/i1064605.jpeg"
-      },
-      {
-        "clusterId": "e36e30dd583258f1",
-        "slug": "4eca16c7f65c9fb4",
-        "titulo": "País sensação da Copa 2026 ganha \"forcinha\" de companhia aérea brasileira",
-        "resumo": "A Copa do Mundo 2026 te deixou com vontade de conhecer Curaçau? Se sim, saiba que a Azul vai retomar a partir de 1º de julho os voos diretos que ligam Belo Horizonte (MG) ao destino no Caribe. A operação vai acontecer somente no período de férias e vai consolidar a companhia como a única do Brasil a oferecer essa ligação sem escalas em julho ao longo de 32 voos. Qual o voo comercial mais longo do Brasil? Quanto custa ter (e manter) um jato executivo no Brasil? Inicialmente, a viagem para o território que integra o Reino dos Países Baixos vai ter duas frequências semanais operadas pelo o…",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/carros/pais-sensacao-da-copa-2026-ganha-forcinha-de-companhia-aerea-brasileira/"
-          }
-        ],
-        "updatedAt": "2026-06-25T14:05:00.000Z",
-        "imageUrl": "https://t.ctcdn.com.br/XSpg-xuRc3JhPB29tyPLZ6qhPJ8=/700x394/smart/i1137669.png"
-      },
-      {
-        "clusterId": "ac166c91d9c2ebee",
-        "slug": "6256ab37912db712",
-        "titulo": "Bicicleta elétrica usa sol e IA, mas será que ela é eficiente?",
-        "resumo": "Bicicleta elétrica solar com IA promete autonomia ampliada, mas especialistas apontam dúvidas sobre eficiência e uso real no dia a dia O post Bicicleta elétrica usa sol e IA, mas será que ela é eficiente? apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
+        "clusterId": "54396b6340da01c9",
+        "slug": "5630e65d604dacdc",
+        "titulo": "Terremotos na Venezuela podem representar risco para o Brasil",
+        "resumo": "Terremotos de magnitude forte foram registrados na Venezuela, gerando preocupação sobre possíveis impactos no Brasil. Especialistas apontam que, embora a distância reduza a probabilidade de danos diretos, a atividade sísmica pode afetar a região de fronteira e a infraestrutura de transporte. O país mantém monitoramento e planos de contingência para responder a eventuais consequências.",
+        "porQueImporta": "A atividade sísmica na Venezuela pode afetar a segurança e a infraestrutura brasileira na região de fronteira.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/06/25/reviews/bicicleta-eletrica-usa-sol-e-ia-mas-sera-que-ela-e-eficiente/"
+            "url": "https://olhardigital.com.br/2026/06/25/ciencia-e-espaco/terremotos-na-venezuela-quais-sao-os-perigos-para-o-brasil-especialistas-respondem/"
           }
         ],
-        "updatedAt": "2026-06-25T14:00:12.000Z"
+        "updatedAt": "2026-06-25T17:52:43.000Z"
+      },
+      {
+        "clusterId": "d7b704c4730687ef",
+        "slug": "2e9735e2e34d179b",
+        "titulo": "Quase 400 jornais processam OpenAI e Microsoft por usar textos jornalísticos sem autorização",
+        "resumo": "Quase 400 editoras ajuizaram ações contra a OpenAI e a Microsoft nos Estados Unidos, alegando que as empresas treinaram modelos de inteligência artificial com textos jornalísticos sem obter autorização. As editoras buscam indenização pelos supostos danos causados pela utilização não autorizada de suas publicações. O processo destaca a disputa sobre direitos autorais no contexto de treinamento de IA.",
+        "porQueImporta": "O caso evidencia a tensão entre tecnologia de IA e proteção de direitos autorais de conteúdo jornalístico.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/06/25/inteligencia-artificial/quase-400-jornais-processam-openai-e-microsoft-por-treinar-ia-com-textos-jornalisticos-sem-autorizacao/"
+          }
+        ],
+        "updatedAt": "2026-06-25T17:44:25.000Z"
+      },
+      {
+        "clusterId": "ffc737a20aba921b",
+        "slug": "60c4d3b5b121aaae",
+        "titulo": "Japão planeja usar IA para acelerar traduções de animes e mangás e combater pirataria",
+        "resumo": "O governo japonês está mobilizando recursos para reduzir a pirataria de animes e mangás, buscando proteger receitas na distribuição internacional. A iniciativa, liderada pela primeira‑ministra Sanae Takaichi, visa expandir o mercado externo do entretenimento japonês e triplicar as vendas desses conteúdos até 2033. A estratégia inclui o uso de inteligência artificial para acelerar a tradução de obras para outros idiomas.",
+        "porQueImporta": "A medida pode aumentar a receita do setor de entretenimento japonês e reduzir perdas causadas pela pirataria.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/entretenimento/guerra-a-pirataria-japao-quer-usar-ia-para-acelerar-traducoes-de-animes-e-manga/"
+          }
+        ],
+        "updatedAt": "2026-06-25T17:05:00.000Z",
+        "imageUrl": "https://t.ctcdn.com.br/mG8pgWQe3FD9iFcKuHSN8oyiang=/700x394/smart/i1137765.png"
       }
     ],
     "ciencia": [
       {
-        "clusterId": "759f90790913a04c",
-        "slug": "272b8fcac913c305",
-        "titulo": "Centro de Preservação Cultural da USP promove roteiro em São Paulo para o Dia internacional do orgulho LGBTQIAPN+",
-        "resumo": "A Casa de Dona Yayá, em parceria com a ONG Casa 1, realizará no dia 28 de junho um percurso guiado para falar sobre a memória e as conquistas do movimento",
+        "clusterId": "159fb53be1904b16",
+        "slug": "5c34569a57aae259",
+        "titulo": "Cocô fossilizado de 700 mil anos revela que esquilos comiam mamutes",
+        "resumo": "Estudos de DNA em coprólitos preservados no permafrost canadense mostram que esquilos da era Pleistoceno consumiam mamutes e, em alguns casos, baleias. A análise indica que esses roedores eram predadores adaptados à sobrevivência durante a hibernação. Os fósseis provêm de túneis de esquilos e foram mantidos em condições de gelo por 700 mil anos.",
+        "porQueImporta": "A descoberta amplia o conhecimento sobre a dieta e comportamento dos esquilos pré-históricos, revelando adaptações surpreendentes ao clima extremo.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/ciencia/coco-de-700-mil-anos-revela-que-esquilos-comiam-mamutes-e-baleias/"
+          },
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/ciencia/coco-fossilizado-de-700-mil-anos-revela-que-esquilos-comiam-mamutes/"
+          }
+        ],
+        "updatedAt": "2026-06-25T15:23:52.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/06/2306-esquilos-comiam-mamutes-layout_site.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "f4a4ff809ae3e254",
+        "slug": "15b79e26a84f1b02",
+        "titulo": "Projeto da USP auxilia comunidade de Ribeirão Preto na regularização fundiária",
+        "resumo": "Estudantes, professores e funcionários da Faculdade de Direito da USP realizaram mutirões para coletar dados socioeconômicos dos moradores da Nova Vila União, em Ribeirão Preto. O levantamento visa apoiar o processo de regularização fundiária da área. A próxima fase do projeto está marcada para 27 de junho.",
+        "porQueImporta": "Contribui para a regularização de moradias e melhoria das condições de vida da comunidade local.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/campus-ribeirao-preto/projeto-da-usp-auxilia-comunidade-de-ribeirao-preto-na-regularizacao-fundiaria/"
+          }
+        ],
+        "updatedAt": "2026-06-25T17:07:05.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260625_direitocomunidade-2.JPG-1024x538.jpeg"
+      },
+      {
+        "clusterId": "8e2ebfea41b3c784",
+        "slug": "99d97eb5e960428a",
+        "titulo": "Algum animal além da abelha produz mel?",
+        "resumo": "O artigo investiga se outras espécies, como formigas, produzem mel. Explica que, embora as abelhas sejam as únicas conhecidas por produzir mel em grande escala, algumas formigas coletam e armazenam substâncias açucaradas semelhantes. Também descreve as diferenças nos processos de produção e nos usos dessas substâncias pelos insetos.",
+        "porQueImporta": "Entender a diversidade de produção de mel pode ampliar o conhecimento sobre ecossistemas e possíveis aplicações biotecnológicas.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/coluna/oraculo/algum-animal-alem-da-abelha-produz-mel/"
+          }
+        ],
+        "updatedAt": "2026-06-25T17:00:54.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/06/SI_488_Oraculo_Animais_que_produzem_mel.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "509fae0e45a034b9",
+        "slug": "c5c4e0c93eab4477",
+        "titulo": "Debate acadêmico questiona a noção de transição energética",
+        "resumo": "Um debate acadêmico analisou a viabilidade da transição energética, destacando que a dependência de energias renováveis pode não ser suficiente para a descarbonização global. Os participantes apontaram desafios técnicos, econômicos e de infraestrutura que podem atrasar a mudança. A discussão também abordou a necessidade de políticas mais robustas e de investimentos em tecnologias emergentes.",
+        "porQueImporta": "O debate esclarece os limites e as exigências de uma transição energética eficaz, influenciando decisões políticas e de investimento.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/radio-usp/debate-academico-poe-em-xeque-a-nocao-de-transicao-energetica/"
+          }
+        ],
+        "updatedAt": "2026-06-25T16:25:19.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/03/pasta-dos-20230313_jose-eli--1024x1024.jpg"
+      },
+      {
+        "clusterId": "4e71ef0ef4e4efdf",
+        "slug": "30b8c8e5f9da95b9",
+        "titulo": "Primeiro transplante renal pareado do Brasil amplia possibilidades para pacientes com doadores vivos",
+        "resumo": "Procedimento realizado em maio pelo Hospital das Clínicas da USP e pela Santa Casa de Juiz de Fora permite a troca de doadores entre pares incompatíveis e pode ajudar a reduzir as filas por transplantes",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/diversidade/centro-de-preservacao-cultural-da-usp-promove-roteiro-em-sao-paulo-para-o-dia-internacional-do-orgulho-lgbtqiapn/"
+            "url": "https://jornal.usp.br/radio-usp/jornal-da-usp-no-ar-2/jornal-da-usp-no-ar/primeiro-transplante-renal-pareado-do-brasil-amplia-possibilidades-para-pacientes-com-doadores-vivos/"
           }
         ],
-        "updatedAt": "2026-06-25T14:00:33.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260624_lgbt-1024x538.jpg"
+        "updatedAt": "2026-06-25T16:11:40.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/01/20260123_transplante-rim-1024x538.jpg"
       },
       {
-        "clusterId": "d1dfa0dc78efceb3",
-        "slug": "5a4bd5b5c36d40f2",
-        "titulo": "How an underwater “déjà-vu” led to the first global map of coral relatives",
-        "resumo": "Relatives of corals, zoanthids share similarities with distant populations that defy simple evolutionary explanations",
+        "clusterId": "dd87f471d5e68bce",
+        "slug": "57e0c604c9e695a6",
+        "titulo": "Teste do pezinho pode evitar sequelas graves e salvar vidas",
+        "resumo": "Triagem neonatal permite identificar doenças silenciosas nos primeiros dias de vida e iniciar o tratamento antes do surgimento de complicações",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/uspnews/how-an-underwater-deja-vu-led-to-the-first-global-map-of-coral-relatives/"
+            "url": "https://jornal.usp.br/radio-usp/teste-do-pezinho-pode-evitar-sequelas-graves-e-salvar-vidas/"
           }
         ],
-        "updatedAt": "2026-06-25T13:29:28.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/05/20260512_polipos-abertos-1024x538.jpg"
+        "updatedAt": "2026-06-25T15:11:28.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2022/11/20221205_teste_pezinho-1024x538.jpg"
       },
       {
-        "clusterId": "6ccfd5c0e541999a",
-        "slug": "4c54b5ce01dd6236",
-        "titulo": "Cratera mais antiga da Terra tem mais de 3 bilhões de anos, segundo novas medições",
-        "resumo": "Novo estudo apresenta as estimativas mais precisas já feitas sobre a idade da estrutura de North Pole Dome, localizado na Austrália Ocidental",
+        "clusterId": "2580a5df17334567",
+        "slug": "f0f51ca7ff2acaa4",
+        "titulo": "Quando surgiu a tradição de pintar as ruas para a Copa do Mundo?",
+        "resumo": "O costume não está mais no seu auge – mas ganhou força novamente em 2026.",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Super Interessante",
-            "url": "https://super.abril.com.br/ciencia/cratera-mais-antiga-da-terra-tem-mais-de-3-bilhoes-de-anos-segundo-novas-medicoes/"
+            "url": "https://super.abril.com.br/coluna/oraculo/quando-surgiu-a-tradicao-de-pintar-as-ruas-para-a-copa-do-mundo/"
           }
         ],
-        "updatedAt": "2026-06-25T13:00:24.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/06/2506-meteorito-layout_site-CAPA.jpg?quality=70&strip=info"
+        "updatedAt": "2026-06-25T15:00:37.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/06/SI_488_Oraculo_Rua_pintada_na_Copa_do_Mundo.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "6c32441df36ec976",
-        "slug": "3fa518c49293527f",
-        "titulo": "Pesquisador da USP vence prêmio internacional na área de bioquímica",
-        "resumo": "Thiago Gomes, doutorando do Instituto de Química da USP, recebeu o prêmio por seu trabalho que trata de uma nova função da mioglobina",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/universidade/pesquisador-da-usp-vence-premio-internacional-na-area-de-bioquimica/"
-          }
-        ],
-        "updatedAt": "2026-06-25T11:56:39.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260623_00_premio_nakashima_iq_usp.jpg"
-      },
-      {
-        "clusterId": "599bb6415bde67c0",
-        "slug": "c754575c591577d7",
-        "titulo": "O que são os evangelhos sinóticos?",
-        "resumo": "Já teve a sensação de déjà vu enquanto lia a Bíblia? Você não está sozinho.",
+        "clusterId": "16a336693ab2dc7a",
+        "slug": "cb54ab57d2caa18e",
+        "titulo": "De que reino vem a pimenta-do-reino?",
+        "resumo": "De um reino que não existe mais...",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Super Interessante",
-            "url": "https://super.abril.com.br/coluna/oraculo/o-que-sao-os-evangelhos-sinoticos/"
+            "url": "https://super.abril.com.br/coluna/oraculo/de-que-reino-vem-a-pimenta-do-reino/"
           }
         ],
-        "updatedAt": "2026-06-25T11:00:14.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/06/SI_488_Oraculo_Evangelhos_sinoticos.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "3abd44e94f5a16bb",
-        "slug": "0e87fa11248cbc15",
-        "titulo": "Jogos que avaliam desempenho motor contribuem para diagnóstico do autismo",
-        "resumo": "Método objetivo e quantificável - com captação de sutilezas do movimento - pode auxiliar na precisão dos diagnósticos​",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/ciencias/jogos-que-avaliam-desempenho-motor-contribuem-para-diagnostico-do-autismo/"
-          }
-        ],
-        "updatedAt": "2026-06-25T10:46:46.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260619_jogos-1024x538.jpg"
-      },
-      {
-        "clusterId": "c0bdad049a6b1611",
-        "slug": "99738c0c70442978",
-        "titulo": "Telescópio Euclid capta imagem inédita do coração da Via Láctea com 60 milhões de estrelas",
-        "resumo": "Imagem do telescópio Euclid mostra o bojo galáctico, a região central e mais brilhante da Via Láctea, com mais de 60 milhões de estrelas. ESA/Euclid A Agência Espacial Europeia (ESA) divulgou na última terça-feira (24) a maior e mais detalhada imagem já feita do coração da Via Láctea em luz visível. O retrato, captado pelo telescópio espacial Euclid, mostra mais de 60 milhões de estrelas concentradas no chamado bojo galáctico, a região central e mais brilhante da nossa galáxia, além de nebulosas e aglomerados de estrelas. A foto foi feita em março de 2025, em cerca de 26 horas de observação,…",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/ciencia/noticia/2026/06/25/telescopio-euclid-capta-imagem-inedita-do-coracao-da-via-lactea-com-60-milhoes-de-estrelas.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-25T08:04:30.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/-okoImkf1R0SP77DlnygTtEPwOo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/d/98hMEDRKad2Cd6nX3GOg/euclid-s-view-of-our-galaxy-s-bulge.jpg"
-      },
-      {
-        "clusterId": "60cfa82995313d3d",
-        "slug": "6b9f0aa8d9f089db",
-        "titulo": "Entenda como medicamentos e suplementos podem influenciar exames laboratoriais",
-        "resumo": "Embora o debate sobre polifarmácia – a utilização de cinco ou mais medicamentos simultaneamente – normalmente esteja associado às interações (às vezes danosas) das substâncias presentes nos remédios, há uma outra questão menos conhecida, mas igualmente relevante. Trata-se das interações entre medicamentos e exames laboratoriais, tema da palestra de Thiago de Melo Costa Pereira, professor da Universidade Vila Velha no 51º. Congresso Brasileiro de Análises Clínicas, que ocorrerá no Rio de Janeiro entre 28 de junho e 1º. de julho. Thiago de Melo Costa Pereira, professor da Universidade Vila…",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/06/25/entenda-como-medicamentos-e-suplementos-podem-influenciar-exames-laboratoriais.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-25T07:01:52.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/mNfWrrhFh5GZ5gJ125rlqqTKgG8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/X/zfMAtySWGX19Fbc1uJ9A/medicamentosfarmaceuticothiagomelocosta2.jpg"
+        "updatedAt": "2026-06-25T14:50:13.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/06/SI_488_Oraculo_Pimenta_do_reino.jpg?quality=70&strip=info"
       }
     ],
     "saude": [
       {
-        "clusterId": "60534f98907e965e",
-        "slug": "789ea006b04408bd",
-        "titulo": "Erros comuns no uso de medicamentos para perda de peso",
-        "resumo": "Muitos usuários tomam medicamentos para emagrecimento sem orientação médica, alteram a dose por conta própria e não adotam mudanças no estilo de vida. Esses comportamentos aumentam o risco de efeitos adversos e reduzem a eficácia do tratamento. A falta de acompanhamento profissional pode levar a complicações de saúde e ao fracasso na perda de peso.",
-        "porQueImporta": "O uso inadequado de fármacos para emagrecimento pode comprometer a saúde e impedir resultados sustentáveis.",
+        "clusterId": "2a4fc88edc315b6c",
+        "slug": "4d7d5214dcae84bf",
+        "titulo": "Xarope não cura tosse e pode causar efeitos colaterais",
+        "resumo": "Apesar da popularidade desses remédios, estudos apontam que eles oferecem pouco ou nenhum benefício para a tosse aguda causada por infecções virais. The post Xarope não cura tosse e pode causar efeitos colaterais first appeared on Portal Drauzio Varella.",
+        "porQueImporta": "",
         "category": "saude",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/saude/noticia/2026/06/25/por-que-os-medicamentos-para-perda-de-peso-nao-funcionam-em-algumas-pessoas.ghtml"
-          },
-          {
             "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/medicamentos/10-erros-comuns-ao-usar-medicamentos-para-perda-de-peso/"
+            "url": "https://drauziovarella.uol.com.br/pediatria/xarope-nao-cura-tosse-e-pode-causar-efeitos-colaterais/"
           }
         ],
-        "updatedAt": "2026-06-25T13:39:06.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/9NU0FkC7QXntBT8-wqhNxqSoyK0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/B/7c2GSWQRmGCC1peIFNxQ/adobestock-2044851770.jpeg"
+        "updatedAt": "2026-06-25T18:00:29.000Z"
       },
       {
         "clusterId": "708e64aef310bfcb",
@@ -1272,6 +1241,21 @@
         "imageUrl": "https://s2-g1.glbimg.com/HHL05yzEHaC1di4rlruXwpDUQbg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/1/x/wJsKAlTgqj53gnrITItQ/captura-de-tela-2024-06-26-084704.png"
       },
       {
+        "clusterId": "8efceebb50215367",
+        "slug": "789ea006b04408bd",
+        "titulo": "Erros comuns no uso de medicamentos para perda de peso",
+        "resumo": "Muitos usuários tomam medicamentos para emagrecimento sem orientação médica, alteram a dose por conta própria e não adotam mudanças no estilo de vida. Esses comportamentos aumentam o risco de efeitos adversos e reduzem a eficácia do tratamento. A falta de acompanhamento profissional pode levar a complicações de saúde e ao fracasso na perda de peso.",
+        "porQueImporta": "O uso inadequado de fármacos para emagrecimento pode comprometer a saúde e impedir resultados sustentáveis.",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/medicamentos/10-erros-comuns-ao-usar-medicamentos-para-perda-de-peso/"
+          }
+        ],
+        "updatedAt": "2026-06-23T20:00:44.000Z"
+      },
+      {
         "clusterId": "c07f93c8d5e7f0a8",
         "slug": "aff20707bc00f385",
         "titulo": "Objeto preso no ânus pode causar perfurações e exigir cirurgia",
@@ -1285,180 +1269,184 @@
           }
         ],
         "updatedAt": "2026-06-23T19:00:00.000Z"
-      },
-      {
-        "clusterId": "889f98b148b8739b",
-        "slug": "d4b13f55dbc944d3",
-        "titulo": "Diabetes tipo 1 mais comum em crianças exige manejo diário mas não impede qualidade de vida",
-        "resumo": "O diabetes tipo 1 é uma doença autoimune sem prevenção conhecida. A condição requer monitoramento e tratamento contínuo, mas não impede que os pacientes mantenham uma boa qualidade de vida. Os sintomas incluem sede excessiva, perda de peso e fadiga. O tratamento envolve controle glicêmico com insulina e ajustes de dieta e atividade física.",
-        "porQueImporta": "Entender que, apesar da necessidade de cuidados constantes, crianças e adultos com diabetes tipo 1 podem viver plenamente.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/doencas-cronicas/diabetes/mais-comum-em-criancas-diabetes-tipo-1-exige-manejo-diario-mas-nao-impede-qualidade-de-vida/"
-          }
-        ],
-        "updatedAt": "2026-06-23T18:00:48.000Z"
       }
     ],
     "esportes": [
       {
-        "clusterId": "601d8b2bfd2ca1ba",
-        "slug": "04968c24617a97b4",
-        "titulo": "GDF decreta ponto facultativo na segunda-feira (29), dia de jogo do Brasil",
-        "resumo": "Palácio do Buriti, sede do governo do Distrito Federal, em Brasília TV Globo/ Reprodução O governo do Distrito Federal anunciou que segunda-feira (29) será ponto facultativo nas repartições públicas por causa do jogo do Brasil na Copa do Mundo. A informação foi confirmada pela governadora Celina Leão em uma rede social. Anteriormente, o GDF já havia anunciado que o expediente terminaria três horas antes do início das partidas no mundial. A nova decisão foi motivada pelo nó no trânsito registrado antes e durante o confronto da Seleção Brasileira desta quarta-feira (24). \"No último jogo do…",
+        "clusterId": "ee7297097bb57bea",
+        "slug": "74381a09b493ce59",
+        "titulo": "Ponto facultativo? Veja os horários dos jogos do Brasil até uma possível final da Copa",
+        "resumo": "Escócia 0 x 3 Brasil | Gols | 3ª rodada | Copa do Mundo 2026 A classificação do Brasil para o mata-mata da Copa do Mundo veio acompanhada de uma notícia que animou muitos trabalhadores. Depois de três partidas disputadas à noite, a Seleção disputará a segunda fase em um horário comercial, algo que costuma mexer com a rotina de empresas pelo país, alimenta as expectativas por liberações ou ponto facultativo e dá uma forcinha para quem quer encurtar o expediente para acompanhar a bola rolando. Neymar elogia Vini Jr. e crava: \"É o nosso principal jogador\" França, Argentina? Veja quando o Brasil…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/06/25/gdf-decreta-ponto-facultativo-na-segunda-feira-29-dia-de-jogo-do-brasil.ghtml"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/colunas/manoela-alcantara/stf-decreta-ponto-facultativo-no-dia-do-jogo-do-brasil"
           },
           {
             "name": "GE",
             "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/25/ponto-facultativo-veja-os-horarios-dos-jogos-do-brasil-ate-uma-possivel-final-da-copa.ghtml"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/grande-angular/gdf-tera-ponto-facultativo-na-segunda-feira-29-dia-do-jogo-do-brasil"
           }
         ],
-        "updatedAt": "2026-06-25T13:24:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/pSRZ5z9h6KJFKfez828JLQdEnKE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/1/T/QbWVsRTteJvj8PASvOGg/buriti.webp"
+        "updatedAt": "2026-06-25T18:10:38.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/55339670406_cb78275284_k.jpg"
       },
       {
-        "clusterId": "007c388e918b9bd2",
-        "slug": "0e2ec3f62300424e",
-        "titulo": "Anfitrião da Copa, México vence os três jogos da fase de grupos e avança em primeiro lugar",
-        "resumo": "Anfitrião da Copa, México vence os três jogos e avança em primeiro no mata-mata O México já entrou em campo na noite desta quarta-feira (24) classificado para a próxima fase, mas seguiu em busca da campanha perfeita nesta Copa do Mundo. E conseguiu. Foram três jogos e três vitórias da seleção anfitriã. A última delas veio com autoridade: 3 a 0 sobre a República Tcheca, em uma partida marcada também por um momento histórico para o goleiro mexicano. O Chávez abriu o placar e colocou os donos da casa em vantagem. O goleiro Ochoa entrou em campo e se tornou o único a disputar seis Copas do Mundo,…",
+        "clusterId": "52969abe14ee3781",
+        "slug": "07c760ac93f0073a",
+        "titulo": "Brasil x Itália na Liga das Nações masculina de vôlei: onde assistir e horário",
+        "resumo": "Ucrânia 3 x 1 Brasil | Melhores momentos | Liga das Nações de Vôlei Masculino O Brasil tem um grande desafio pela frente na Liga das Nações masculina de vôlei. Depois de estrear invicto jogando em casa, em Brasília, a seleção sofreu a primeira derrota ao cometer muitos erros contra a Ucrânia. A equipe liderada por Bernardinho perdeu a liderança da tabela e vai encarar a Itália na etapa de Liubliana, na Eslovênia. A partida diante dos italianos será nessa sexta-feira (26), às 15h (de Brasília), com transmissão ao vivo do sportv2 e cobertura em tempo real do ge. + Brasil comete erros contra a…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/06/25/anfitriao-da-copa-mexico-vence-os-tres-jogos-da-fase-de-grupos-e-avanca-em-primeiro-lugar.ghtml"
+            "name": "GE",
+            "url": "https://ge.globo.com/volei/jogo/26-06-2026/brasil-italia.ghtml"
           },
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/25/campanha-perfeita-homenagem-a-idolo-e-festa-em-casa-mexico-tem-primeira-fase-dos-sonhos-na-copa.ghtml"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/brasil-cai-no-ranking-mundial-de-volei-apos-derrota-na-liga-das-nacoes"
           }
         ],
-        "updatedAt": "2026-06-25T14:00:39.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/xP0I9M3QIjgskmg-pQOeeTJKJZ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/V/kVU5MSRMKexj18P8ltug/afp-20260625-b88w3xq-v1-highres-fblwc2026match53czemex.jpg"
+        "updatedAt": "2026-06-25T17:53:25.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/P75o5ogh-313HYIgCuJ1TJhp5Po=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/u/9/dywlrfRUGAYGw6wQmLww/armoa-volei.jpg"
       },
       {
-        "clusterId": "5a9b9ba722379e7d",
-        "slug": "b15d31e4b2e903d2",
-        "titulo": "Neymar repete frase que inspirou Hamilton, e heptacampeão compartilha post",
-        "resumo": "\"Lembre-se de quem você é\". A frase que serviu como mantra para Lewis Hamilton superar a maré baixa com a Ferrari e celebrar sua primeira vitória com a escuderia, há duas semanas, foi escolhida por Neymar para comemorar o retorno aos campos pela Seleção brasileira na Copa do Mundo, nesta quarta-feira. O heptacampeão respondeu a publicação do amigo feita após a vitória por 3 a 0 sobre a Escócia no Mundial, e também compartilhou o post do camisa 10. Acesse o canal de automobilismo do ge no WhatsApp Initial plugin text - Sempre! - escreveu Hamilton na postagem de Neymar. Neymar compartilha post…",
+        "clusterId": "b4590c45dd7068ce",
+        "slug": "af2407e3228a9032",
+        "titulo": "Torcida da Holanda toma as ruas de Kansas City antes de jogo com a Tunísia; assista",
+        "resumo": "Torcedores holandeses fazem festa antes de Holanda x Tunísia na Copa do Mundo Depois de passar por Dallas e Houston, a torcida holandesa faz a festa agora em Kansas City, onde a seleção joga hoje a partida decisiva com a Tunísia, pela terceira e última rodada da fase de grupos da Copa do Mundo. Apesar de o jogo ser às 18h no horário local (20h de Brasília), desde o amanhecer desta quinta-feira as ruas da cidade dividida entre os estados de Kansas e Missouri. Veja no vídeo acima. Calendário da Copa do Mundo 2026: veja datas e horários dos jogos Simulador da Copa: veja os critérios e faça…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/25/torcida-da-holanda-toma-as-ruas-de-kansas-city-antes-de-jogo-com-a-tunisia-assista.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-tunisia-x-holanda-copa-do-mundo-25-06-26"
+          }
+        ],
+        "updatedAt": "2026-06-25T17:37:20.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/EiUOPabBmRWboUyP_yXq1ReKSrc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/A/7/sFwM8LThe8UtkagV6cvw/hlrioovwiaa4f3i.jpg"
+      },
+      {
+        "clusterId": "7ca0c14008dcdea9",
+        "slug": "88fa2a66a303a4e3",
+        "titulo": "Esposa rebate ofensas por suposta reação negativa de Davide Ancelotti à entrada de Neymar",
+        "resumo": "Brasil x Escócia: Neymar recebe instruções de Ancelotti para entrar em campo A esposa de Davide Ancelotti relatou em seu perfil nas redes sociais ataques de torcedores brasileiros por conta de um gesto do auxiliar e filho de Carlo Ancelotti na entrada do atacante Neymar no jogo contra a Escócia na Copa do Mundo (assista acima). Reação de Ancelotti contra quarto árbitro viraliza em gol de Vini Jr. pelo Brasil De acordo com a publicação, Davide teria feito sinal de reprovação com a cabeça. Conforme apuração do ge, o gesto não era para o camisa 10, mas um assunto em paralelo com o assistente…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/neymar-usa-mantra-de-hamilton-apos-volta-a-selecao-e-recebe-resposta-do-piloto/"
+            "url": "https://veja.abril.com.br/esporte/a-reacao-do-filho-de-ancelotti-antes-de-neymar-entrar-em-campo/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/motor/formula-1/noticia/2026/06/25/neymar-repete-frase-que-inspirou-hamilton-e-heptacampeao-compartilha-post.ghtml"
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/25/esposa-de-davide-ancelotti-relata-ataques-nas-redes-sociais-por-gesto-de-treinador-inumeros-insultos.ghtml"
           }
         ],
-        "updatedAt": "2026-06-25T13:49:18.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/neymar.jpg?quality=70&strip=info"
+        "updatedAt": "2026-06-25T17:22:29.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2268513238.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "a24357b4a5aedd4e",
-        "slug": "0a7da1db4b4bd207",
-        "titulo": "\"Milagre da África do Sul\": veja a repercussão internacional da classificação sul-africana",
-        "resumo": "África do Sul 1 x 0 Coreia do Sul | Melhores momentos | 3ª rodada | Copa do Mundo 2026 A África do Sul teve uma noite mágica de Copa do Mundo na última quarta-feira. A vitória por 1 a 0 sobre a Coreia do Sul, em Monterrey, levou a seleção sul-africana pela primeira vez ao mata-mata de um mundial masculino e ganhou destaque na imprensa internacional. O feito foi tratado como \"milagre\" pelo jornal espanhol Marca e como uma virada histórica para uma equipe que chegou à última rodada na lanterna do Grupo A. África do Sul x Coreia do Sul - Copa do Mundo REUTERS/Eloisa Sanchez 🔍 Adicione o ge nas…",
+        "clusterId": "37d1ebbbe4a23324",
+        "slug": "5bdb9d0391d485bd",
+        "titulo": "Bahia trabalha resistência e faz atividade em campo reduzido",
+        "resumo": "Segue o BAba debate saída de Gabriel Xavier do Bahia Em mais uma manhã de treinamentos na intertemporada, o elenco do Bahia voltou a trabalhar as jogadas de ataque na Cidade Tricolor, nesta quinta-feira. Siga o ge Bahia nos Canais do WhatsApp Veja quem chega e quem sai do Bahia O treinador Rogério Ceni começou a atividade com um trabalho técnico em espaço reduzido e, em seguida, os jogadores fizeram um treino de resistência também voltado à construção ofensiva. Por último, Ceni dividiu duas equipes de nove atletas em uma atividade de confronto com regras para passes e finalizações. Erick,…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/06/25/queremos-mais-nesta-copa-do-mundo-diz-tecnico-da-africa-da-sul-apos-classificacao-historica.ghtml"
+            "url": "https://ge.globo.com/ba/futebol/times/bahia/noticia/2026/06/25/bahia-trabalha-resistencia-e-faz-atividade-em-campo-reduzido.ghtml"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/hora1/noticia/2026/06/25/resultados-dos-jogos-de-ontem-da-copa-gols-e-placares-de-quarta-24.ghtml"
+            "url": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml"
           }
         ],
-        "updatedAt": "2026-06-25T11:00:09.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/qDDfCcEMd1uqbe3OQXQT5KW8uZU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/X/H/DxrbLFSymq92htNqWsBQ/2026-06-25t031121z-267882597-up1em6p08uvm5-rtrmadp-3-soccer-worldcup-zaf-kor.jpg"
+        "updatedAt": "2026-06-25T16:50:22.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/38gTnw2LigbwLKanLz85wdeQwBE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/D/4/iGZPATRHS8RwQrwxRKBA/55356885328-04a659859c-o.jpg"
       },
       {
-        "clusterId": "268f7570a173e274",
-        "slug": "b2cad1c836c1b9bb",
-        "titulo": "Série B 2026: veja onde assistir aos jogos da 15ª rodada",
-        "resumo": "CRB 1 x 1 Fortaleza | Melhores momentos | 14ª rodada | Brasileirão Série B 2026 Os clubes se preparam para a disputa da 15ª rodada da Série B do Brasileiro em meio à disputa da Copa do Mundo 2026. O ge lista aqui todos os jogos desta rodada da competição e onde acompanhar cada um deles. Nesta edição, a Série B mudou a fórmula de disputa. Ao fim da fase classificatória, os dois primeiros colocados garantem vaga na Série A do Brasileirão 2027, e as equipes que terminarem entre a terceira e a sexta posição avançam para os playoffs, que definirão as duas vagas restantes. Os quatro últimos serão…",
+        "clusterId": "34798899f9451641",
+        "slug": "2b240ff9acfff01e",
+        "titulo": "Bragantino planeja trabalhar conceitos de jogo em período de treinos antes da volta ao Brasileirão",
+        "resumo": "Bragantino divulga imagens da construção da arena do clube O Red Bull Bragantino deu início nesta semana à preparação para a volta do Brasileirão e da Sul-Americana, na segunda quinzena de julho. Após 21 dias de férias, os jogadores retornaram aos treinos com avaliações físicas e médicas, além de atividades no campo. Nesta quinta-feira, 25, o técnico Vagner Mancini comandou uma atividade no centro de treinamento do clube. O treino foi totalmente aberto à imprensa. O trabalho começou com atividades de um contra e, na reta final, com um treino em campo reduzido. Bragantino retorna aos treinos…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/ce/futebol/brasileirao-serie-b/noticia/2026/06/25/serie-b-2026-veja-onde-assistir-aos-jogos-da-15a-rodada.ghtml"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/serie-d-zeroum-veja-jogos-em-que-nenhum-time-leva-vantagem-na-2a-fase"
+            "url": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/times/bragantino/noticia/2026/06/25/bragantino-planeja-trabalhar-conceitos-de-jogo-em-periodo-de-treinos-antes-da-volta-ao-brasileirao.ghtml"
           }
         ],
-        "updatedAt": "2026-06-25T08:04:34.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/B0WwkoY7NqHezu1fp-AlAY86-uU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/D/A/YMeQ8mQYmkPrngrXN3KA/54917899669-60120335bc-k.jpg"
+        "updatedAt": "2026-06-25T18:09:58.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/6qKPqCYKtabCFXx0FQGZ0CZSI_E=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/R/i/jRCBXCSXyUw9mgmySJnA/img-1746.jpg"
       },
       {
-        "clusterId": "b5863a3b9df57b10",
-        "slug": "abf6fe41ee98cb43",
-        "titulo": "Criciúma x São Bernardo: equipes se enfrentaram apenas duas vezes há 13 anos",
-        "resumo": "Criciúma bate o América Mineiro fora de casa Com um retrospecto curto de apenas dois jogos, Criciúma e São Benardo voltam a se encontrar neste sábado, pela 15ª rodada da Série B do Campeonato Brasileiro. A bola rola às 16h (de Brasília), no Heriberto Hülse. Criciúma x São Bernardo - Copa do Brasil 2013 Foto: Fernando Ribeiro / Ag. Estado +Técnico do Criciúma mira em confronto direto com o São Bernardo: \"É decisão\" +Puskas? Zagueiro do Criciúma revela que já vinha treinando golaço de letra Os dois compromissos da história foram em 2013, válidos pela segunda fase da Copa do Brasil. Na época, o…",
+        "clusterId": "c57472339a306a2b",
+        "slug": "cf251ec38fcba106",
+        "titulo": "Portuguesa x Sampaio Corrêa-RJ - Campeonato Brasileiro Série D 2026 - globoesporte.com",
+        "resumo": "Campeonato Brasileiro Série D 2026 no globoesporte.com - acompanhe tudo sobre Portuguesa x Sampaio Corrêa-RJ: escalação, informações sobre o jogo, fotos e muito mais",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/pr/futebol/brasileirao-serie-d/jogo/28-06-2026/cianorte-independente-pr.ghtml"
+            "url": "https://ge.globo.com/ba/futebol/brasileirao-sub-17/jogo/25-06-2026/bahia-vitoria.ghtml"
           }
         ],
-        "updatedAt": "2026-06-25T14:26:35.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/SOpudYS4a7sA5KLExOgqX2bH47A=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/e/L/WmispCQXuo8Mplgd7oow/america-mg-x-criciuma-serie-b.jpg"
+        "updatedAt": "2026-06-25T18:09:39.000Z"
       },
       {
-        "clusterId": "eebdd4df409376ef",
-        "slug": "eeb7fd7c6ba718e5",
-        "titulo": "Altos define programação para jogo decisivo com ABC pela Série D",
-        "resumo": "O Altos definiu a programação oficial para o confronto decisivo diante do ABC, válido pela segunda fase do Campeonato Brasileiro Série D. A equipe piauiense entra em campo no próximo domingo, às 16h, na Arena das Dunas, em Natal. Sem problemas no elenco, o time chega para o duelo sem desfalques por lesão ou suspensão. A comissão técnica terá força máxima à disposição para a partida eliminatória fora de casa. Ray, volante do Altos Jota Lima/A.A. Altos A delegação alviverde embarca para a capital potiguar na manhã de sexta-feira, saindo de Teresina com uma parada prevista em Recife. No período…",
+        "clusterId": "8cd44eed35a9888a",
+        "slug": "2ae6a6560cd145c0",
+        "titulo": "Fortaleza inicia Brasileiro sub-17 com quatro vitórias em cinco jogos",
+        "resumo": "Carpini mira recuperação do Fortaleza na Série B em clássico contra o Sport O Fortaleza bateu o Atlético-GO, na terça (23), pela 5ª rodada da Série B, no estádio Valdir Cândido de Queiroz, e pulou para terceira posição, com 12 pontos, no Campeonato Brasileiro sub-17. O time tricolor vive bom início na competição nacional, com quatro vitórias em cinco jogos. 📲 Tudo sobre o Fortaleza direto no seu WhatsApp. Clique aqui! Os resultados deixam o Fortaleza atrás apenas de Palmeiras e Fluminense, que lideram a competição com 15 pontos cada. O técnico Thiago Dantas apontou motivos para a sequência…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/pi/futebol/times/altos/noticia/2026/06/25/altos-define-programacao-para-jogo-decisivo-com-abc-pela-serie-d.ghtml"
+            "url": "https://ge.globo.com/ce/futebol/times/fortaleza/noticia/2026/06/25/fortaleza-inicia-brasileiro-sub-17-com-quatro-vitorias-em-cinco-jogos.ghtml"
           }
         ],
-        "updatedAt": "2026-06-25T14:23:06.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/fvG0Pp_mQPbBdeOReq1nYMPs2Iw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/H/n/oA0j80R1WQImNDg70T7Q/snapinsta-ai-3891160459324056343.jpg"
-      },
-      {
-        "clusterId": "50d3da8729a0c17c",
-        "slug": "a9e14637ab20bca5",
-        "titulo": "São Paulo marca reunião com lideranças políticas no CT para conter desgaste",
-        "resumo": "A diretoria do São Paulo marcou, para as próximas duas semanas, reuniões com lideranças de diferentes setores do clube no CT da Barra Funda. Os encontros têm como objetivo reduzir o desgaste interno e apresentar o planejamento do departamento de futebol às vésperas da eleição presidencial do clube. Harry Massis, presidente do São Paulo, em São Paulo x Palmeiras Marcello Zambrana/AGIF + Siga o canal ge São Paulo no WhatsApp As reuniões terão a presença de dirigentes, integrantes da comissão técnica e um grupo de conselheiros considerados estratégicos pela diretoria. O primeiro está marcado…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2026/06/25/sao-paulo-marca-reuniao-com-liderancas-politicas-no-ct-para-conter-desgaste.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-25T14:19:23.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/bxDZ1Je-1G7_a93FlZVMtM6GTE8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/R/2/gq75jZR3Wk743lCt1jIQ/agif26032120293717.jpg"
+        "updatedAt": "2026-06-25T18:05:04.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/2FMyXHgb5O5vb3HOd4da8UVoE3Y=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/2/p/9Jo4kkSYuDVlrEYZVSGw/img-3730-1200x800.webp"
       }
     ],
     "entretenimento": [
       {
-        "clusterId": "59b3f5c1b940acdd",
+        "clusterId": "5e35b4b9d4db29bd",
+        "slug": "878397f61d131dc2",
+        "titulo": "Virginia comemora gols de Vini Jr. e vaia lance anulado pelo VAR; VEJA",
+        "resumo": "Virginia comemora gols de Vini Jr. e vaia lance anulado pelo VAR A influenciadora Virginia Fonseca comemorou os gols de Vini Jr. no primeiro tempo contra a Escócia nesta quarta-feira (24) em partida da Copa do Mundo. Porém, um dos três lances foi anulado pelo árbitro. No stories do Instagram, ela publicou um vídeo comemorando o primeiro gol marcado pelo camisa 7 da seleção. \"Gol! É papo de estourar uma tampa, não vai ter jeito\", escreveu. Depois, Virginia publicou outro vídeo comemorando o segundo do atacante brasileiro. No entanto, o lance foi anulado pelo árbitro após o VAR indicar uma…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/celebridades/virginia-comenta-em-foto-de-vini-jr-apos-reconciliacao"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/celebridades/poliana-rocha-esconde-virginia-e-vini-jr-em-post-sobre-ze-felipe/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/06/24/virginia-comemora-gols-de-vini-jr-e-vaia-lance-anulado-pelo-var.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-25T17:31:56.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/vini-jr-interage-com-virginia-jogo-brasil.jpg"
+      },
+      {
+        "clusterId": "28a0994d98636f70",
         "slug": "7588b1475710c611",
         "titulo": "Influenciadora Virginia reage ao gol anulado de Vini Jr. na Copa do Mundo",
         "resumo": "Virginia Fonseca, presente em Miami, comemorou os dois primeiros gols de Vini Jr. contra a Escócia, mas ficou indignada quando o segundo foi anulado pelo VAR. A decisão gerou protestos entre torcedores brasileiros. A influenciadora compartilhou vídeos e comentários nas redes sociais.",
@@ -1466,67 +1454,55 @@
         "category": "entretenimento",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-ganha-comentario-apaixonado-de-vini-jr-apos-jogo-do-brasil-veja/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/celebridades/vini-jr-deixa-comentario-sugestivo-em-foto-de-virginia-fonseca"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/cultura/os-detalhes-milionarios-do-look-de-virginia-para-torcer-pelo-brasil-na-copa/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/06/24/virginia-comemora-gols-de-vini-jr-e-vaia-lance-anulado-pelo-var.ghtml"
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/06/24/virginia-compartilha-fotos-de-look-para-apoiar-selecao-no-calor-de-miami-vai-brasil.ghtml"
           }
         ],
-        "updatedAt": "2026-06-25T13:51:31.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/05/vv-457.jpg"
+        "updatedAt": "2026-06-25T16:53:11.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/WhatsApp-Image-2026-06-25-at-13.47.13.jpeg?quality=70&strip=info"
       },
       {
-        "clusterId": "40dbec6d7e489e9d",
-        "slug": "76bfe02b84d37dca",
-        "titulo": "Capital Inicial cancela turnê nos EUA após consulado negar liberação de músicos",
-        "resumo": "Capital Inicial cancela turnê nos EUA após consulado negar liberação de músicos Redes sociais A banda Capital Inicial anunciou nesta terça-feira (24) o cancelamento da turnê que faria nos Estados Unidos nesta semana. Em comunicado publicado nas redes sociais, a banda informou que não houve liberação consular para profissionais da equipe técnica e músicos de apoio que viajariam com o grupo. As apresentações faziam parte da turnê “Música Urbana” e estavam marcadas para acontecer entre os dias 24 e 28 de junho, em Boston, Nova York, Miami e Orlando. Músicos de apoio não conseguiram liberação…",
+        "clusterId": "e78a72360ca06e7d",
+        "slug": "4ca3e5e209dc991f",
+        "titulo": "Marina Versos será a intérprete de Marília Mendonça na cinebiografia do Prime Video",
+        "resumo": "A Amazon Prime Video confirmou que Marina Versos interpretará Marília Mendonça na cinebiografia que será lançada em 2027. O elenco também inclui Hermila Guedes, Klara Castanho, Marcelo Serrado e Sophia Valverde. As filmagens começaram em julho de 2024. A produção retratará a trajetória da cantora que faleceu em 2021.",
+        "porQueImporta": "A cinebiografia traz à vida a história de uma das maiores vozes do sertanejo, ampliando seu legado cultural.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/entretenimento/televisao/veja-fotos-da-atriz-que-vivera-marilia-mendonca-em-cinebiografia-e-compare"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/06/25/saiba-quem-vai-interpretar-marilia-mendonca-em-filme.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-25T14:09:04.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/marina-versos-e-marilia-mendonca.jpg"
+      },
+      {
+        "clusterId": "7c02bf14057e377f",
+        "slug": "44c5607b3c5275c7",
+        "titulo": "Sandra Annenberg reage à imitação de Tata Werneck em encontro no Fantástico: 'Ri sem parar'",
+        "resumo": "Sandra Annenberg reage à imitação de Tata Werneck em encontro no Fantástico: 'Ri sem parar' O Fantástico promove, neste domingo (28), um encontro inusitado entre a jornalista Sandra Annenberg e a atriz e apresentadora Tata Werneck, que ganhou destaque ao imitar a comunicadora em quadros de humor. Em trecho divulgado pela atração, Tata aparece caracterizada como a jornalista e brinca com a semelhança entre as duas. \"A responsável por eu conseguir falar com uma certa dicção é Sandra\", afirma a apresentadora. Questionada sobre a reação à imitação, Sandra Annenberg diz que não conseguiu parar de…",
         "porQueImporta": "",
         "category": "entretenimento",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/musica/capital-inicial-cancela-turne-nos-eua-apos-equipe-ter-liberacao-negada/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/entretenimento/musica/capital-inicial-cancela-eua"
-          },
-          {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/06/24/capital-inicial-cancela-turne-nos-eua-apos-consulado-negar-liberacao-de-musicos.ghtml"
+            "url": "https://g1.globo.com/fantastico/noticia/2026/06/25/sandra-annenberg-reage-a-imitacao-de-tata-werneck-em-encontro-no-fantastico-ri-sem-parar.ghtml"
           }
         ],
-        "updatedAt": "2026-06-25T12:39:05.000Z",
-        "imageUrl": "https://images.metroimg.com/2024/04/19114600/Copia-de-Uso-imprensa-foto-Leo-Aversa-1.jpg"
+        "updatedAt": "2026-06-25T15:48:30.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/HJU0aEGwEkjRC0xJwA47hDX4vz4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/B/NAXLhDTMCplzIBvlNmQg/snapinsta.com.br-6a3d4a83e8ab5-frame-at-0m30s.jpg"
       },
       {
-        "clusterId": "1df286cc6b4cb2ad",
-        "slug": "85f5d4f6b3985cd4",
-        "titulo": "Gabriel Domingues, Adolpho Veloso e outros brasileiros são convidados para a Academia organizadora do Oscar",
-        "resumo": "O diretor de elenco de “O agente secreto” Gabriel Domingues no tapete vermelho do Oscar 2026 REUTERS/Caroline Brehman O diretor Marcelo Caetano, de \"Baby\", o diretor de elenco Gabriel Domingues, de \"O agente secreto\", o diretor de fotografia Adolpho Veloso, de \"Sonhos de trem\", e ao menos outros seis brasileiros foram convidados para fazer parte da Academia de Artes e Ciências Cinematográficas de Hollywood. Caso aceitem, eles poderão votar nos indicados e nos vencedores do Oscar. A lista divulgada nesta quinta-feira (26) tem um total de 529 nomes, que são divididos entre os diferentes setores…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/cinema/quem-sao-os-oito-brasileiros-convidados-pela-academia-para-votar-no-oscar/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/06/24/marcelo-caetano-gabriel-domingues-e-adolpho-veloso-sao-convidados-para-a-academia-organizadora-do-oscar.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-25T14:21:06.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/dxQaR7U0bkAMRqxU_7pZ6lp9meA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/Q/u5LBrUQfA2J8JvXWzSdg/2026-03-15t205257z-179216201-hp1em3f1m06br-rtrmadp-3-awards-oscars.jpg"
-      },
-      {
-        "clusterId": "97c9b5cbeb58d9d3",
+        "clusterId": "a8ee6a0578bf2698",
         "slug": "2aac41697b5753ac",
         "titulo": "Bruna Biancardi diz que Neymar já pensa em outro filho para 2027: 'Um menininho'",
         "resumo": "Neymar e Bruna Biancardi anunciam gravidez Reprodução/YouTube Bruna Biancardi revelou que Neymar já pensa em aumentar a família mais uma vez. Grávida da terceira filha do casal, a influenciadora contou que o jogador deseja tentar ter um menino em 2027. A declaração foi feita durante participação no videocast \"Elas que Jogam\", apresentado pela influenciadora Karla Cimed. A entrevista foi gravada quando Bruna já estava grávida. Durante a conversa, ela falou sobre a sequência de gestações nos últimos anos. \"Essa gravidez de agora foi planejada. A Mavie vai fazer três anos, a segunda filha vai…",
@@ -1535,15 +1511,47 @@
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/apos-vitoria-neymar-se-reune-com-biancardi-e-filhos-na-arquibancada"
+            "url": "https://www.metropoles.com/colunas/fabia-oliveira/gravida-pela-3a-vez-bruna-biancardi-diz-que-neymar-quer-outro-filho"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/pop-arte/noticia/2026/06/24/bruna-biancardi-diz-que-neymar-ja-pensa-em-outro-filho-para-2027-um-menininho.ghtml"
           }
         ],
-        "updatedAt": "2026-06-25T09:43:10.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/06/neymar-biancardi-familia.jpg"
+        "updatedAt": "2026-06-24T16:58:14.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/bruna-biancardi-lembra-tentativa-termino-neymar.jpg"
+      },
+      {
+        "clusterId": "a136eec8f9a218a3",
+        "slug": "97407c31c247a00e",
+        "titulo": "Ativismo negro de Candeia é debatido em livro que expõe a complexidade da militância do sambista e questiona a fama de policial severo e truculento",
+        "resumo": "Bamba do samba, Candeia (1935 – 1978) é visto em foto de 1974, quatro anos antes de falecer, aos breves 43 anos Divulgação / Editora Malê ♫ CRÍTICA DE LIVRO Título: Candeia – O samba, o Quilombo e o ativismo negro Autor: Stephen Bocskay Cotação: ★ ★ ★ ★ ♬ Na madrugada de 13 de dezembro de 1965, cinco tiros disparados contra Candeia nas proximidades da Marquês de Sapucaí – avenida que se tornaria o palco do Carnaval carioca a partir de 1984 – atingiram o alvo e mudaram o curso da história do sambista e policial carioca, então com 30 anos e recentemente aprovado em concurso público para se…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/06/25/ativismo-negro-de-candeia-e-debatido-em-livro-que-expoe-a-complexidade-da-militancia-do-sambista-e-questiona-a-fama-de-policial-severo-e-truculento.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-25T13:56:56.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/AJrvWWzW0Sqp0qnHgelh3H1CVks=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/7/qJT47wRtWzJBmB27m72A/foto-da-capa-candeia-1974.jpg"
+      },
+      {
+        "clusterId": "7f2e076ae9aa4f27",
+        "slug": "180f4c7b830d410d",
+        "titulo": "20 hits em 20 anos: 'Show das Poderosas', a música que Anitta sabia que mudaria a vida dela",
+        "resumo": "'Show das Poderosas’: a música que Anitta sabia que mudaria sua carreira Até 2013, pouca gente sabia quem era Anitta. Até que veio uma música que já avisava o que a gente tinha que fazer: \"Prepara, que agora é a hora\"... de conhecer uma das maiores artistas pop do Brasil. Esta matéria faz parte da série \"20 hits em 20 anos\", que está no GloboPop, o novo aplicativo de vídeos curtos verticais da Globo, disponível gratuitamente no seu celular. Lá no app, você pode seguir o palco do \"20 hits em 20 anos\" para não perder nenhum episódio. Baixe o GloboPop aqui! No início da carreira, Larissa de…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/06/25/20-hits-em-20-anos-show-das-poderosas-a-musica-que-anitta-sabia-que-mudaria-a-vida-dela.ghtml"
+          }
+        ],
+        "updatedAt": "2026-06-25T13:00:20.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/TWpSDmHCNcLbM0_QHcItx11OKVg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/w/cVg4WHTVGBbHjhHPO0pA/thumb-horizontal-show-das-poderosas.jpg"
       },
       {
         "clusterId": "c472671a707b73f0",
@@ -1560,54 +1568,6 @@
         ],
         "updatedAt": "2026-06-25T12:52:31.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/5m2IApMOH3vPvo-6C7ZzB7mgf3E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/u/l/vBKbiGQdiVHiryOZ5hgQ/2018-07-23t190020z-963873478-rc123d217b00-rtrmadp-3-spicegirls-reunion.jpg"
-      },
-      {
-        "clusterId": "66832a4e0570404b",
-        "slug": "9f1c15b5abd82be0",
-        "titulo": "Andreas Kisser fala de turnê de despedida do Sepultura: 'Tem tirado muita gente de casa'",
-        "resumo": "Andreas Kisser fala de turnê de despedida do Sepultura: ‘Melhor do que imaginava’ Desde 2024, o Sepultura tem rodado o mundo com sua turnê de despedida, a \"Celebrating life through death\". O grupo anunciou seu fim em dezembro de 2023 e que faria 18 meses de shows para dar tchau aos fãs. E neste final de semana, foi a vez de a banda se despedir dos fãs portugueses. O Sepultura esteve no Rock in Rio Lisboa e fechou a segunda noite de apresentações do festival no Palco Music Valley. Antes de subir ao palco, Andreas Kisser falou sobre o andamento da turnê. \"Sensacional. Nós planejamos isso…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/06/25/andreas-kisser-fala-de-turne-de-despedida-do-sepultura-tem-tirado-muita-gente-de-casa.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-25T07:01:38.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/DRIqIxOXnAzYX1CGE7hvYZufHRw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/I/6o4VURTXKfzWJs46ef9g/sepultura-foto-stephanie-veronezzi.jpg"
-      },
-      {
-        "clusterId": "59501713c032bd11",
-        "slug": "da4e8e5ac04048ca",
-        "titulo": "Em 'Supergirl', carisma de Milly Alcock voa alto acima de aventura repetitiva e vilão genérico; g1 já viu",
-        "resumo": "'Supergirl', carisma de Milly Alcock voa alto acima de aventura repetitiva Dá para dizer que a australiana Milly Alcock é o grande sol que dá os poderes para \"Supergirl\", novo filme da DC, sobre a heroína prima do Superman. Mas uma aventura repetitiva – que sofre para lidar com o nível meio absurdo dos poderes da protagonista – e um vilão genérico com capangas sem graça são a grande kryptonita do filme que estreia nesta quinta-feira (25) nos cinemas brasileiros. O triste é que a obra começa muito bem. Com foco na atuação de Milly, conhecida por seu trabalho em \"A Casa do Dragão\", a abertura…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/06/25/supergirl-atriz-milly-alcock-fala-sobre-responsabilidade-de-ser-heroina-dos-quadrinhos-no-cinema.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-25T07:00:32.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/f7YpcI5brUMVFY9n-O1nF3bqMr4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/k/tmLd1wSJ2wGVASwbg9jg/milly-rio.jpg"
-      },
-      {
-        "clusterId": "2a01369fde894631",
-        "slug": "733f1e8a46ddafad",
-        "titulo": "Anna Ratto canta Tribalistas no fecho de ciclo de tributos a Arnaldo Antunes",
-        "resumo": "Capa do single 'Passe em casa', de Anna Ratto Divulgação ♫ NOTÍCIA ♬ Anna Ratto passou os últimos cinco anos às voltas com o cancioneiro de Arnaldo Antunes. Após dois álbuns com músicas do compositor paulista, “Contato imediato – Anna Ratto visita Arnaldo Antunes” (2021) e “Vison negro” (2025), a cantora carioca fecha o ciclo de tributos fonográficos ao artista com o single “Passe em casa”. Programado para 2 de julho, o single “Passe em casa” apresenta duas versões da gravação inédita da canção lançada pelos Tribalistas em 2002, há 24 anos, no primeiro álbum do trio formado por Arnaldo…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/06/24/anna-ratto-canta-tribalistas-no-fecho-de-ciclo-de-tributos-a-arnaldo-antunes.ghtml"
-          }
-        ],
-        "updatedAt": "2026-06-25T01:43:03.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/bIEzduVrqIzzHFYe9jwu5tbOIYk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/B/P7zocVT7CoGtYsjT6HAQ/annarattopasseemcasa.jpg"
       }
     ]
   }
