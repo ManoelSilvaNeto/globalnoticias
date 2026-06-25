@@ -1,8 +1,11 @@
 {
-  "ranAt": "2026-06-25T10:42:40.053Z",
+  "ranAt": "2026-06-25T14:35:23.983Z",
   "editionDate": "2026-06-25",
-  "hourUtc": 10,
-  "outcome": "skipped",
-  "reason": "fora da janela (10h < 11h UTC)",
-  "attempts": []
+  "hourUtc": 14,
+  "outcome": "generated",
+  "reason": "\"Tensões políticas internas, inflação moderada e resposta internacional marcam a edição\" (4 parágrafos)",
+  "attempts": [
+    "erro — sem cota (429)",
+    "ok"
+  ]
 }
