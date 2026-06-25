@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-06-24T14:32:34.801Z",
-  "editionDate": "2026-06-24",
-  "hourUtc": 14,
-  "outcome": "generated",
-  "reason": "\"Brasil em foco: futebol, economia e tensões internacionais marcam a edição\" (3 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok"
-  ]
+  "ranAt": "2026-06-25T03:39:14.893Z",
+  "editionDate": "2026-06-25",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "attempts": []
 }
