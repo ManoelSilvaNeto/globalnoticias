@@ -1,8 +1,11 @@
 {
-  "ranAt": "2026-06-27T10:09:53.067Z",
+  "ranAt": "2026-06-27T13:44:42.272Z",
   "editionDate": "2026-06-27",
-  "hourUtc": 10,
-  "outcome": "skipped",
-  "reason": "fora da janela (10h < 11h UTC)",
-  "attempts": []
+  "hourUtc": 13,
+  "outcome": "generated",
+  "reason": "\"Cenário internacional tenso e foco interno em esportes e assistência humanitária\" (3 parágrafos)",
+  "attempts": [
+    "erro — sem cota (429)",
+    "ok"
+  ]
 }
