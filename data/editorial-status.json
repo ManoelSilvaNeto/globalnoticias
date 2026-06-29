@@ -1,8 +1,11 @@
 {
-  "ranAt": "2026-06-29T04:01:32.649Z",
+  "ranAt": "2026-06-29T12:36:02.186Z",
   "editionDate": "2026-06-29",
-  "hourUtc": 4,
-  "outcome": "skipped",
-  "reason": "fora da janela (4h < 11h UTC)",
-  "attempts": []
+  "hourUtc": 12,
+  "outcome": "generated",
+  "reason": "\"Aprovação estável, tensões internacionais e desafios humanitários marcam a edição\" (4 parágrafos)",
+  "attempts": [
+    "erro — Error: groq 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-20b` in organization `org_01kscvvnpvfp",
+    "ok"
+  ]
 }
