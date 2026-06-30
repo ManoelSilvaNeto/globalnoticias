@@ -1,8 +1,11 @@
 {
-  "ranAt": "2026-06-30T10:57:25.871Z",
+  "ranAt": "2026-06-30T14:20:31.339Z",
   "editionDate": "2026-06-30",
-  "hourUtc": 10,
-  "outcome": "skipped",
-  "reason": "fora da janela (10h < 11h UTC)",
-  "attempts": []
+  "hourUtc": 14,
+  "outcome": "generated",
+  "reason": "\"Brasil avança na Copa enquanto governo enfrenta déficit e reformas fiscais\" (3 parágrafos)",
+  "attempts": [
+    "erro — sem cota (429)",
+    "ok"
+  ]
 }
