@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-07-02T14:02:30.495Z",
-  "editionDate": "2026-07-02",
-  "hourUtc": 14,
-  "outcome": "generated",
-  "reason": "\"Cenário de tensão política e econômica se destaca entre eleições, mercado e conflitos internacionais\" (3 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok (entidades fora do material toleradas: partido, liberal)"
-  ]
+  "ranAt": "2026-07-03T03:20:49.044Z",
+  "editionDate": "2026-07-03",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "attempts": []
 }
