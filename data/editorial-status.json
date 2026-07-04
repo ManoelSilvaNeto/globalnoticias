@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-07-03T14:06:15.532Z",
-  "editionDate": "2026-07-03",
-  "hourUtc": 14,
-  "outcome": "generated",
-  "reason": "\"Operações federais, ajustes econômicos e disputas esportivas marcam a edição\" (4 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok"
-  ]
+  "ranAt": "2026-07-04T03:14:56.298Z",
+  "editionDate": "2026-07-04",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "attempts": []
 }
