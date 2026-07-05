@@ -1,9 +1,45 @@
 {
   "date": "2026-07-05",
-  "generatedAt": "2026-07-05T10:13:21.986Z",
+  "generatedAt": "2026-07-05T13:40:58.904Z",
   "home": [
     {
-      "clusterId": "09c492946df6c077",
+      "clusterId": "b42e9881f2fc3154",
+      "slug": "4196203ac56599c5",
+      "titulo": "Datafolha indica que 44% dos eleitores brasileiros se identificam com a direita e 39% com a esquerda",
+      "resumo": "A pesquisa divulgada pela Datafolha aponta que 44% dos eleitores brasileiros se posicionam à direita, enquanto 39% se posicionam à esquerda, com margem de erro de dois pontos. A classificação foi obtida por meio de escalas de comportamento e pensamento econômico, e não por uma pergunta direta de autoidentificação. A pesquisa não incluiu uma pergunta explícita sobre orientação política, mas utilizou questões sobre valores sociais e políticos para determinar o posicionamento.",
+      "porQueImporta": "Os resultados fornecem uma visão atualizada da distribuição ideológica dos eleitores, informando campanhas e estratégias políticas.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/com-haddad-rejeitado-por-47-tarcisio-abre-16-pontos-no-segundo-turno-diz-datafolha/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes/tarcisio-tem-46-contra-30-de-haddad-em-sp-diz-datafolha/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/o-cenario-da-disputa-pelo-governo-de-sao-paulo-segundo-novo-datafolha/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/pesquisa-datafolha-tarcisio-tem-46-e-haddad-30-na-disputa-pelo-governo-de-sp/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-governo-tarcisio-tem-45-de-avaliacao-positiva-negativa-20/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/05/datafolha-aprovacao-gestao-tarcisio-governo-sp.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-05T13:13:42.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/03/tarcisio-de-freitas-fernando-haddad.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "a981b0aee5fb8c9c",
       "slug": "f8bf000a6b99e745",
       "titulo": "Brasil enfrenta Noruega nas oitavas de final da Copa do Mundo 2026",
       "resumo": "O duelo entre Brasil e Noruega acontece neste domingo, 5 de julho, às 17h (horário de Brasília), no Estádio de Nova Jersey, nos Estados Unidos. A partida decide quem avançará para as quartas de final, onde o vencedor enfrentará o vencedor do jogo México x Inglaterra. O Brasil já eliminou o Japão na fase de grupos, enquanto a Noruega venceu a Costa do Marfim. A transmissão será exibida pela TV Globo, Sportv e canais digitais.",
@@ -11,103 +47,207 @@
       "category": "esportes",
       "sources": [
         {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/esporte/noruega-a-selecao-que-o-brasil-nunca-venceu/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/esporte/quem-o-brasil-pode-enfrentar-se-eliminar-a-noruega-na-copa-do-mundo/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/05/brasil-x-noruega-veja-onde-assistir-ao-jogo-neste-domingo-5-em-manaus.ghtml"
+        },
+        {
           "name": "GE",
           "url": "https://ge.globo.com/blogs/painel-tatico/post/2026/07/05/raio-x-da-noruega-como-joga-o-proximo-adversario-do-brasil-na-copa-do-mundo.ghtml"
         },
         {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/esportes/que-horas-brasil-joga-hoje-veja-quais-jogos-da-copa/"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/copa-2026/copa-2026-saiba-quem-joga-neste-domingo-os-horarios-e-onde-ver/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-brasil-x-noruega-copa-do-mundo-05-07-26"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/07/05/brasil-x-noruega-qual-e-a-selecao-mais-valiosa-da-partida-deste-domingo-veja-o-top-10.ghtml"
-        },
-        {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/brasil-abre-domingo-decisivo-das-oitavas-veja-a-agenda-da-copa-do-mundo/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/esporte/mata-mata-da-copa-do-mundo-veja-quem-entra-em-campo-neste-domingo-5/"
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/brasil-tenta-quebrar-tabu-historico-contra-a-noruega-em-decisao-da-copa/"
         },
         {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/c4gy62dq6mjo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-07-05T10:00:14.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/JfVU1UU_OnOo0Veg9r5BHN2656s=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Z/I/C7iJ2uSfKcmBZgS7EWDw/imagem-1.png"
+      "updatedAt": "2026-07-05T12:22:13.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/GettyImages-640256321.jpg?quality=70&strip=info"
     },
     {
-      "clusterId": "806f7b11d53f3115",
-      "slug": "04e6e41666c828d8",
-      "titulo": "Colômbia e França avançam na Copa",
-      "resumo": "Na fase de grupos, a Colômbia venceu Gana por 2 a 0, com gol de Jhon Arias, e garante vaga nas oitavas de final contra a Suíça. A França derrotou o Paraguai por 1 a 0, com gol de Mbappé, e passa para as quartas de final, onde enfrentará o Marrocos.",
-      "porQueImporta": "Ambas as vitórias definem os próximos confrontos dos times na Copa do Mundo, impactando suas chances de avançar na competição.",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/05/analise-franca-conhece-padrao-libertadores-sofre-mas-ganha-casca-para-reta-final-da-copa.ghtml"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/04/franca-vence-paraguai-e-avanca-na-copa.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/mbappe-dispara-apos-vitoria-contra-paraguai-sabemos-sujar-as-maos/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/paraguai-x-franca-confira-as-escalacoes-para-o-confronto-das-oitavas-de-final/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/esporte/franca-vence-paraguai-por-1-a-0-e-avanca-as-quartas-da-copa/"
-        }
-      ],
-      "updatedAt": "2026-07-05T05:00:11.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/zR0K4wkH-DXlIFw1GtSQLhfzDQM=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/3/U/8GRicDSxmklV3ygjmMUA/2026-07-04t231918z-510926271-up1em741sg65y-rtrmadp-3-soccer-worldcup-pry-fra.jpg"
-    },
-    {
-      "clusterId": "ebcb82f38c48f5c4",
-      "slug": "418b814ebf882eb7",
-      "titulo": "Terremotos duplos na Venezuela causam quase 3 mil mortes e mais de 16 mil feridos",
-      "resumo": "Dois terremotos de 6,7 e 7,2 de magnitude atingiram a região norte da Venezuela em 24 de junho, resultando em 2.954 mortes confirmadas e mais de 16 mil feridos. O desastre deixou mais de 15 mil famílias desabrigadas e causou danos a hospitais, escolas, prédios residenciais e comerciais. A ONU estima que até 6,7 milhões de pessoas foram afetadas pela tragédia. O governo venezuelano ainda não divulgou o número de desaparecidos.",
-      "porQueImporta": "O evento representa o maior desastre sísmico na história recente da Venezuela, com impactos humanitários e estruturais significativos.",
+      "clusterId": "3ceb3142407096b7",
+      "slug": "708090fbe2bec242",
+      "titulo": "Funeral de Ali Khamenei reúne milhares em Teerã",
+      "resumo": "O funeral do líder supremo iraniano Ali Khamenei, morto em bombardeio conjunto de EUA e Israel, começou no sábado (4) e continua no domingo (5). Milhares de fiéis compareceram, incluindo três dos filhos do aiatolá, enquanto o sucessor Mojtaba permanece ausente. Em meio às cerimônias, um orador pediu a morte do presidente dos EUA, Trump. O evento faz parte de uma série de sete dias de luto que devem atrair até 20 milhões de pessoas.",
+      "porQueImporta": "Reflete a reação interna do Irã ao conflito com os EUA e Israel e demonstra a influência política do funeral.",
       "category": "mundo",
       "sources": [
         {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/milhares-acompanham-despedida-a-khamenei-e-pedem-morte-de-trump/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/orador-pede-morte-de-trump-em-funeral-de-khamenei/"
+        },
+        {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/07/05/da-arquitetura-chavista-ao-colapso-economico-por-que-os-terremotos-da-venezuela-foram-tao-devastadores.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/05/tres-filhos-ali-khamenei-vao-a-funeral-milhares-vao-a-2o-dia-despedida.ghtml"
         },
         {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/sobe-para-2-954-o-numero-de-mortos-em-terremotos-na-venezuela/"
+          "url": "https://www.cartacapital.com.br/mundo/ira-transforma-funeral-de-khamenei-em-demonstracao-de-poder/"
+        }
+      ],
+      "updatedAt": "2026-07-05T13:35:37.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-05T131311Z_1028064105_RC2N7MALXYCC_RTRMADP_3_IRAN-CRISIS-KHAMENEI.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "7397c1d41091dad4",
+      "slug": "832ed20c818e78c9",
+      "titulo": "Klopp aceita proposta e será novo treinador da Alemanha",
+      "resumo": "Jürgen Klopp, que deixou o Liverpool em maio de 2024, aceitou a proposta da Federação Alemã de Futebol para comandar a seleção nacional. A decisão foi anunciada pelo jornalista Fabrizio Romano, poucos dias após a saída de Julian Nagelsmann. Klopp já atuou como comentarista durante a Copa do Mundo e será o quinto técnico a liderar a equipe alemã.",
+      "porQueImporta": "A mudança de treinador pode influenciar a preparação da Alemanha para a próxima fase internacional.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/esportes/klopp-sera-o-novo-treinador-da-alemanha-depois-de-eliminacao-na-copa-diz-jornalista/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/apos-vexame-na-copa-do-mundo-alemanha-tera-klopp-como-novo-treinador"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/05/jurgen-klopp-aceita-proposta-e-e-o-novo-treinador-da-alemanha.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-05T13:15:07.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/10/2024-10-09T122134Z_61215010_RC2YP7A8PW2J_RTRMADP_3_SOCCER-KLOPP.jpg?fit=300%2C210&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "4c31b0db46cefe1e",
+      "slug": "8edadcc221736ac3",
+      "titulo": "Mega-Sena acumula e prêmio vai a R$ 38 milhões",
+      "resumo": "No concurso 3027 da Mega‑Sena, realizado em São Paulo no sábado (4/7), nenhuma aposta acertou as seis dezenas. O prêmio acumulou para R$ 38 milhões e será pago no próximo sorteio, marcado para terça-feira (7/7). Os números sorteados foram 06, 15, 16, 24, 34 e 47. A Caixa também sorteou outras loterias, como Lotofácil e Timemania.",
+      "porQueImporta": "O acúmulo do prêmio aumenta a expectativa dos apostadores e destaca a importância do próximo sorteio.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/05/mega-sena-piaui.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/minas-gerais/mega-sena-9-apostas-de-r-6-faturam-r-45-mil-em-mg-veja-as-cidades"
         },
         {
           "name": "Exame",
-          "url": "https://exame.com/mundo/numero-de-mortos-em-terremotos-na-venezuela-sobe-para-quase-3-mil/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cg4w06969zgo?at_medium=RSS&at_campaign=rss"
+          "url": "https://exame.com/invest/minhas-financas/resultado-mega-sena-3-027-veja-numeros-sorteados/"
         }
       ],
-      "updatedAt": "2026-07-05T08:00:08.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/AfU6Y7gomx6padgdiuc9nbDA5H0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/s/izZKcFTGedV01jODiEbQ/2026-07-03t173808z-676359509-rc2g6maxtxd3-rtrmadp-3-venezuela-quake.jpg"
+      "updatedAt": "2026-07-05T12:56:26.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/B5tMIoLpr30pNw8djBYlFmyKyow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/x/pwpJjAR0GtbRJ9XYzKdA/edicao-imagens-g1-17-.png"
     },
     {
-      "clusterId": "82e71dfe070affeb",
+      "clusterId": "c481605d67f0936a",
+      "slug": "f702bb2c410f834c",
+      "titulo": "Previsão do tempo para o jogo Brasil x Noruega",
+      "resumo": "Em São Paulo, a previsão indica dia frio, com temperatura média de 13°C, céu encoberto e poucas aberturas de sol ao longo da tarde. Em Brasília, o Inmet prevê sol e poucas nuvens durante a partida. Ambas as cidades apresentam condições climáticas distintas para o mesmo evento.",
+      "porQueImporta": "O clima pode influenciar o conforto e a experiência dos torcedores que comparecerem ao jogo.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/veja-previsao-do-tempo-em-sp-durante-partida-entre-brasil-x-noruega/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/confira-a-previsao-do-tempo-no-df-para-o-jogo-do-brasil-neste-domingo"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/05/domingo-de-jogo-do-brasil-sera-de-frio-e-muitas-nuvens-em-sp-veja-a-previsao-para-os-proximos-dias.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-05T12:50:58.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/07/foto-jogo-brasil.jpeg"
+    },
+    {
+      "clusterId": "b0bf2a46fb833af5",
+      "slug": "d8837b566e26336b",
+      "titulo": "Real Madrid confirma contratação de Denzel Dumfries",
+      "resumo": "O Real Madrid anunciou a contratação do lateral-direito holandês Denzel Dumfries, que vinha jogando na Inter de Milão. O vínculo terá duração de quatro temporadas, até junho de 2030. Dumfries foi revelado no Sparta Rotterdam e passou por Heerenveen e PSV antes de chegar à Inter. A contratação faz parte da estratégia de renovação do clube sob a presidência de Florentino Pérez.",
+      "porQueImporta": "A aquisição reforça a defesa do Real Madrid e demonstra a continuidade da política de reforços de qualidade do clube.",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/real-madrid-anuncia-contratacao-do-lateral-holandes-denzel-dumfries"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/07/05/real-madrid-anuncia-denzel-dumfries.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/real-madrid-anuncia-contratacao-de-dumfries-por-quatro-temporadas/"
+        }
+      ],
+      "updatedAt": "2026-07-05T12:37:21.000Z",
+      "imageUrl": "https://images.metroimg.com/2021/06/18231757/Dumfries.jpg"
+    },
+    {
+      "clusterId": "08e3ef2461b16c90",
+      "slug": "70f777beb6cef9a0",
+      "titulo": "Comentário de Haaland supera 2 milhões de curtidas com convite para Vini Jr refazer meme de 'As Branquelas'",
+      "resumo": "Haaland brinca com Vini Jr. sobre meme do filme 'As Branquelas' O comentário do atacante norueguês Erling Haaland convidando o brasileiro Vini Jr. para refazer o meme do filme \"As Branquelas\" passou de dois milhões de curtidas no Instagram. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Comentário de Haaland supera 2 milhões de curtidas com convite para Vini Jr refazer meme de 'As Branquelas' Reprodução/Instagram Na noite desta quinta-feira (2), Haaland divertiu os seguidores ao interagir com Vini Jr. na publicação. O post faz piada utilizando a icônica música \"A Thousand…",
+      "porQueImporta": "",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/quem-e-mais-decisivo-veja-os-numeros-de-vini-jr-e-haaland-pelas-selecoes/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/05/cometa-haaland-veja-os-avassaladores-numeros-e-recordes-do-atacante-da-noruega.ghtml"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/economia/noticia/2026/07/04/vini-jr-ou-haaland-qual-o-jogador-mais-valioso-da-partida-entre-brasil-e-noruega.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-05T11:00:53.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/LuadT93yk76BQy3ZwVLJ2pxIOPI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/8/6/UHLSVOQzuxBGzZC5kZkQ/gettyimages-2284061640.jpg"
+    },
+    {
+      "clusterId": "4221a2dc67c574f5",
+      "slug": "6a680c98c1fa18ba",
+      "titulo": "México enfrenta Inglaterra nas oitavas de final da Copa 2026",
+      "resumo": "O duelo entre México e Inglaterra ocorrerá no Estádio Azteca, na Cidade do México, às 21h (horário de Brasília). A partida faz parte das oitavas de final, com o vencedor avançando para enfrentar o Brasil ou a Noruega nas quartas. A Inglaterra tem preocupação na zaga, com Reece James em dúvida, enquanto o México mantém um histórico dominante contra o adversário, com oito vitórias em 10 confrontos. O jogo é importante para a trajetória de ambos os times na competição.",
+      "porQueImporta": "Decisivo para definir quem avançará para as quartas de final e quem enfrentará o Brasil ou a Noruega.",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/esporte/mexico-x-inglaterra-na-copa-onde-assistir-horario-e-escalacoes/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/inglaterra-tem-problema-na-zaga-para-jogo-contra-o-mexico-pela-copa/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/05/por-que-nao-mexico-se-une-com-mantra-musica-historica-e-azteca-lotado-para-buscar-recorde-na-copa.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-05T11:00:52.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/gettyimages-2277317114-594x594-1.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "5aa523b3a6c6c7e7",
       "slug": "c9213b3b00a48ba0",
       "titulo": "Celebrations of 250 years of U.S. independence face heat, cancellations and political speeches",
       "resumo": "O presidente Donald Trump fez um discurso que abordou sua agenda política e homenageou veteranos, enquanto eventos como a Great American State Fair foram cancelados ou adiados devido a uma onda de calor que atingiu temperaturas próximas de 43°C. Milhões de pessoas ficaram em alerta e a rede elétrica foi pressionada. As celebrações, que incluíam fogos de artifício e aviões, ocorreram em meio a divisões políticas e debates sobre o poder presidencial.",
@@ -129,148 +269,12 @@
       ],
       "updatedAt": "2026-07-05T10:09:04.000Z",
       "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aad1/live/17b95ee0-782a-11f1-b883-9b0970c03979.jpg"
-    },
-    {
-      "clusterId": "a080035b40dbc348",
-      "slug": "b26af24b5d131c00",
-      "titulo": "Bruno Guimarães lidera assistências e distâncias na Copa do Mundo",
-      "resumo": "Bruno Guimarães registrou quatro assistências na Copa do Mundo, igualando recordes de Zico, Tostão e Ademir Menezes, e se aproxima da marca de cinco assistências de Zagallo em 1962. Ele também é o jogador que mais correu pela seleção, acumulando 44,5 km em quatro partidas, com média de 11 km por jogo. O desempenho destaca sua importância como distribuidor e motor ofensivo do Brasil.",
-      "porQueImporta": "O jogador demonstra excelência técnica e física, contribuindo decisivamente para o sucesso da seleção.",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/05/bruno-guimaraes-mira-marca-de-assistencias-de-zagallo-em-1962-e-busca-recorde-de-trio-no-brasil.ghtml"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/bruno-guimaraes-revela-como-parar-haaland-em-brasil-x-noruega/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/04/pronto-para-correr-bruno-guimaraes-e-o-jogador-que-mais-correu-na-selecao-ate-agora.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-05T09:00:14.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/MO2DEQzPY1b8mXtLFpn5VQcu2Zw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/S/n/hI8YAnTRaLUQc0vxpYKA/gettyimages-2282319583.jpg"
-    },
-    {
-      "clusterId": "9297134a76709eaf",
-      "slug": "6a680c98c1fa18ba",
-      "titulo": "Palpites e dicas para México x Inglaterra pela Copa do Mundo",
-      "resumo": "Inglaterra 2 x 1 RD do Congo | Melhores momentos | 2ª fase | Copa do Mundo México e Inglaterra se enfrentam às 21h, pelas oitavas de final da Copa do Mundo 2026. O Gato Mestre apresenta em parceria com o economista Bruno Imaizumi o potencial de cada resultado. + Brasil x times escandinavos em Copas: aproveitamento é de 100% em mata-mata + Brasil lidera em gols com pressão alta; veja o ranking + América do Sul sobe, Concacaf iguala recorde, e Ásia zera nas oitavas Palpite para México x Inglaterra Bruno Imaizumi/Gato Mestre Resultado mais provável: México 0 x 1 Inglaterra México 2 X 0 Equador |…",
-      "porQueImporta": "",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/05/por-que-nao-mexico-se-une-com-mantra-musica-historica-e-azteca-lotado-para-buscar-recorde-na-copa.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-mexico-x-inglaterra-copa-do-mundo-05-07-26"
-        },
-        {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/07/05/internet-e-redes-sociais/mexico-x-inglaterra-onde-assistir-horario-e-escalacao-das-oitavas-de-final-da-copa-do-mundo/"
-        }
-      ],
-      "updatedAt": "2026-07-05T09:00:13.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/Gx_J3z5kkkd6cU4-i-remwqd98o=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/h/9/Z48iHgRgyEfLiraJVK8Q/2026-07-01t060148z-446534615-rc2s4mafj2ua-rtrmadp-3-soccer-worldcup-mex-ecu-fans-mexico-city.jpg"
-    },
-    {
-      "clusterId": "bb991a3a7bb5612f",
-      "slug": "ac34fcba14a7d398",
-      "titulo": "Marrocos vence Canadá e avança para quartas de final",
-      "resumo": "Marrocos derrotou o Canadá por 3 a 0 na fase de grupos da Copa do Mundo, garantindo vaga nas quartas de final. O time marcou duas vezes no segundo tempo com Ounahi e uma com Rahimi, mostrando força no contra-ataque. O resultado foi decisivo para a trajetória do Marrocos, que já chegou às semifinais em 2022.",
-      "porQueImporta": "A vitória marca a primeira seleção africana a chegar às quartas de final em um Mundial.",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/04/marrocos-vence-canada-e-vai-para-quartas-de-final.ghtml"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/jogo/04-07-2026/canada-marrocos.ghtml"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/marrocos-faz-tres-no-canada-elimina-primeira-anfitria-e-vai-as-quartas-de-final/"
-        }
-      ],
-      "updatedAt": "2026-07-05T01:20:47.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/U5b5jtWGFwDJQj684xPTixOihfI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/8/8l19JpQwKDIIGKj7MUag/captura-de-tela-2026-07-04-214934.png"
-    },
-    {
-      "clusterId": "59ed24c79abc9993",
-      "slug": "8a84acbddf6e3fa0",
-      "titulo": "Taylor Swift e Travis Kelce casam em cerimônia no Madison Square Garden",
-      "resumo": "A cerimônia de casamento entre a cantora Taylor Swift e o jogador de futebol americano Travis Kelce ocorreu em um jardim intimista dentro do Madison Square Garden, em Nova York, no dia 3 de julho de 2024. O casal usou trajes de Dior, escreveu votos próprios e contou com a presença de celebridades, incluindo Adam Sandler como celebrante e Stevie Nicks como cantora. A entrada foi protegida por segurança reforçada e tendas pretas, e a cerimônia começou às 18h, horário de Brasília.",
-      "porQueImporta": "O evento reúne duas figuras de alto perfil internacional, refletindo a interseção entre música pop e esportes de grande visibilidade.",
-      "category": "entretenimento",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/do-cardapio-aos-votos-convida-vaza-detalhes-do-casamento-de-taylor-swift/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pop-arte/noticia/2026/07/04/os-detalhes-do-casamento-de-taylor-swift-e-travis-kelce-segundo-convidados.ghtml"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cly7pqlv5e2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-07-04T23:02:26.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/gJMWtXZCxTZlV6bz40-U6frj3Xo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/k/DMoZikTPeWXayNPJMHNw/000-72j32g3-3-.jpg"
-    },
-    {
-      "clusterId": "18f0e8defea57426",
-      "slug": "f0ce84b312a4d5d1",
-      "titulo": "Museu do Ipiranga firma acordo com museu chinês e oferece programação de férias",
-      "resumo": "O Museu do Ipiranga assinou um acordo de cooperação com um museu chinês, criando um guarda‑chuva institucional que permitirá a definição de projetos específicos caso a caso. Paralelamente, o museu promoveu uma programação especial de férias, com jogos, visitas mediadas e dinâmicas lúdicas, incluindo acessibilidade em Libras, para crianças e famílias entre 4 e 26 de julho, com entrada gratuita.",
-      "porQueImporta": "A parceria internacional amplia o alcance cultural do museu, enquanto a programação de férias fortalece a inclusão e o engajamento público.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-cultura/museu-do-ipiranga-assina-acordo-de-cooperacao-com-museu-chines/"
-        },
-        {
-          "name": "Jornal da USP",
-          "url": "https://jornal.usp.br/universidade/museu-do-ipiranga-promove-programacao-especial-de-ferias-com-jogos-e-visitas-mediadas/"
-        }
-      ],
-      "updatedAt": "2026-07-05T09:10:21.000Z",
-      "imageUrl": "https://jornal.usp.br/wp-content/uploads/2022/09/20220902_00_museu_do_ipiranga_exposicoes05-1024x538.jpg"
-    },
-    {
-      "clusterId": "49aff20abf302738",
-      "slug": "7a67e8697be82476",
-      "titulo": "Novo plano de energia estabelece R$ 2,8 tri para fósseis",
-      "resumo": "Plano Decenal de Expansão de Energia aprovado pelo governo na 5ª feira (2.jul) estima R$ 3,5 tri em investimentos até 2035, com 80% para petróleo e gás",
-      "porQueImporta": "",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-energia/novo-plano-de-energia-estabelece-r-28-tri-para-fosseis/"
-        },
-        {
-          "name": "Jornal da USP",
-          "url": "https://jornal.usp.br/noticias/serie-energia-quando-a-energia-eletrica-vai-parar-nos-tribunais/"
-        }
-      ],
-      "updatedAt": "2026-07-05T09:02:35.000Z",
-      "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/07/20260702_tribunal-1024x538.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "461496cfe5401b59",
+        "clusterId": "b42e9881f2fc3154",
         "slug": "4196203ac56599c5",
         "titulo": "Datafolha indica que 44% dos eleitores brasileiros se identificam com a direita e 39% com a esquerda",
         "resumo": "A pesquisa divulgada pela Datafolha aponta que 44% dos eleitores brasileiros se posicionam à direita, enquanto 39% se posicionam à esquerda, com margem de erro de dois pontos. A classificação foi obtida por meio de escalas de comportamento e pensamento econômico, e não por uma pergunta direta de autoidentificação. A pesquisa não incluiu uma pergunta explícita sobre orientação política, mas utilizou questões sobre valores sociais e políticos para determinar o posicionamento.",
@@ -278,311 +282,318 @@
         "category": "politica",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/blog-do-noblat/enquetes/centro-direita-ou-esquerda"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/com-haddad-rejeitado-por-47-tarcisio-abre-16-pontos-no-segundo-turno-diz-datafolha/"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/07/03/datafolha-esquerda-direita.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-05T09:00:25.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/07/question-mark-2123967_1920.jpg"
-      },
-      {
-        "clusterId": "0a5d9a3dbbf358c9",
-        "slug": "abc7a272f87a1c28",
-        "titulo": "Pesquisas mostram Flávio como único nome da direita a rivalizar com Lula",
-        "resumo": "Pesquisas indicam que Flávio tem eleitorado cativo, apesar de crises recentes como o caso Dark Horse e o embate com Michelle Bolsonaro. O Tribunal Superior Eleitoral registrou 99 pesquisas sobre a disputa presidencial em junho. Os estudos apontam que Flávio mantém posição de destaque entre candidatos de direita.",
-        "porQueImporta": "Esses dados refletem a dinâmica política e a viabilidade de Flávio na corrida presidencial.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/pesquisas-mostram-flavio-como-unico-nome-da-direita-a-rivalizar-com-lula"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes/tarcisio-tem-46-contra-30-de-haddad-em-sp-diz-datafolha/"
           },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/o-que-disseram-as-pesquisas-sobre-a-disputa-presidencial-em-junho/"
-          }
-        ],
-        "updatedAt": "2026-07-05T07:30:12.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/06/flavio-bolsonaro-participa-do-debate-com-os-candidatos-a-presidente-do-brasil-para-a-eleicao-de-2026-no-evento-da-confederacao-nacional-da-industria-cni-metropoles-3-scaled.jpg"
-      },
-      {
-        "clusterId": "2424a423da9092aa",
-        "slug": "9b00b4dbc0dfefca",
-        "titulo": "Flávio Bolsonaro vai aos EUA discursar em audiência pública sobre tarifaço; veja tópicos e tempo da fala",
-        "resumo": "Flávio Bolsonaro diz que vai aos EUA defender o pix O senador e pré-candidato à Presidência Flávio Bolsonaro (PL) participa na próxima terça-feira (7) de uma audiência pública em Washington, nos Estados Unidos, para tratar das tarifas impostas pelos EUA ao Brasil. A participação de Flávio está confirmada em documento do Escritório do Representante Comercial dos Estados Unidos (USTR), que promove o evento. LEIA TAMBÉM: Análise: Flávio Bolsonaro tem ataque de 'sincericídio' e negocia com os EUA tarifaço para depois das eleições O presidenciável tenta se colocar como interlocutor do presidente…",
-        "porQueImporta": "",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/flavio-bolsonaro-embarca-para-os-eua-para-audiencia-sobre-novo-tarifaco/"
+            "url": "https://www.cartacapital.com.br/politica/o-cenario-da-disputa-pelo-governo-de-sao-paulo-segundo-novo-datafolha/"
           },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/07/03/flavio-bolsonaro-eua-tarifaco.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-05T00:13:15.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/PBGQok76RHy2mVQKemirg2KLlEk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/A/EQvdwcQmSyMKHPkLmx2Q/flaviobolsonaro.jpg"
-      },
-      {
-        "clusterId": "d1250e409e4c689f",
-        "slug": "cbd42c39c3e29e13",
-        "titulo": "Justiça autoriza quebra de sigilo de celular de ex-vereador preso",
-        "resumo": "A Justiça autorizou a quebra de sigilo do celular encontrado na cela de Jairinho, ex-vereador condenado pela morte de Henry Borel. O aparelho foi apreendido na última quarta-feira e será analisado para auxiliar em novas investigações. As autoridades deverão extrair os dados do dispositivo para fins de investigação.",
-        "porQueImporta": "A medida pode revelar informações relevantes sobre o caso de homicídio e possíveis conexões com outras investigações.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/justica-autoriza-quebra-de-sigilo-de-celular-encontrado-na-cela-de-jairinho/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/justica/justica-autoriza-quebra-de-sigilo-do-celular-de-jairinho-apreendido-na-prisao/"
-          }
-        ],
-        "updatedAt": "2026-07-04T23:30:05.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/Jairinho.jpg"
-      },
-      {
-        "clusterId": "c347658f97283253",
-        "slug": "52c3b71417e97c3e",
-        "titulo": "Datafolha aponta 65% dos brasileiros que dependência menor do governo melhora a vida",
-        "resumo": "A pesquisa Datafolha entrevistou 2.004 eleitores em 139 municípios entre 17 e 18 de junho, com margem de erro de 2 pontos percentuais. 65% dos entrevistados concordaram que depender menos do governo melhora a vida, o maior percentual da série histórica do instituto. 31% afirmaram que mais benefícios do governo melhoram a vida, e 4% não souberam responder.",
-        "porQueImporta": "Reflete a percepção pública sobre o papel do Estado na qualidade de vida.",
-        "category": "politica",
-        "sources": [
           {
             "name": "Exame",
-            "url": "https://exame.com/brasil/datafolha-mostra-avanco-da-preferencia-por-menos-impostos-e-menor-dependencia-do-governo/"
+            "url": "https://exame.com/brasil/pesquisa-datafolha-tarcisio-tem-46-e-haddad-30-na-disputa-pelo-governo-de-sp/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-governo-tarcisio-tem-45-de-avaliacao-positiva-negativa-20/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/07/04/datafolha-pagar-menos-impostos-a-ter-servicos-publicos.ghtml"
+            "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/05/datafolha-aprovacao-gestao-tarcisio-governo-sp.ghtml"
           }
         ],
-        "updatedAt": "2026-07-04T18:47:51.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/1B53Q8NHUTAkxa13UByQpg5G8Gw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/L/RfyhJGT0AYL3IvIVATyg/escola-cravinhos.jpg"
+        "updatedAt": "2026-07-05T13:13:42.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/03/tarcisio-de-freitas-fernando-haddad.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "e2916fe6e2a58c5a",
-        "slug": "251dcd6eb22657c9",
-        "titulo": "El Niño 2026 pode persistir até 2027",
-        "resumo": "Modelos climáticos indicam mais de 90% de probabilidade de El Niño continuar até pelo menos o início de 2027. O fenômeno pode afetar a precipitação e a temperatura no Brasil, alterando padrões de chuvas e aumentando riscos de secas ou enchentes. As autoridades monitoram a situação para planejar respostas a possíveis impactos climáticos.",
-        "porQueImporta": "O prolongamento de El Niño pode alterar significativamente o clima brasileiro, afetando agricultura, abastecimento de água e risco de desastres naturais.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-sustentavel/el-nino-2026-detalhes-sobre-os-possiveis-impactos-no-brasil/"
-          }
-        ],
-        "updatedAt": "2026-07-05T10:02:15.000Z"
-      },
-      {
-        "clusterId": "6e80b4bdb22b1341",
-        "slug": "9e5a3894519e458e",
-        "titulo": "Novo método barateia produção de peça-chave para hidrogênio verde",
-        "resumo": "Ânodo é feito de titânio e revestido com uma combinação de materiais que garante maior durabilidade e eficiência ao equipamento",
+        "clusterId": "4a2de3b97931f1e7",
+        "slug": "3bb50fc1c287c1e4",
+        "titulo": "Datafolha: Tarcísio é aprovado por 63% e desaprovado por 32% em SP",
+        "resumo": "Levantamento mostra que 45% classificam a administração como \"ótima\" ou \"boa\"; para 20%, ela é \"ruim\" ou \"péssima\"",
         "porQueImporta": "",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-sustentavel/novo-metodo-barateia-producao-de-peca-chave-para-hidrogenio-verde/"
+            "url": "https://www.poder360.com.br/poder-eleicoes/datafolha-tarcisio-e-aprovado-por-63-e-desaprovado-por-32-em-sp/"
           }
         ],
-        "updatedAt": "2026-07-05T09:40:27.000Z"
+        "updatedAt": "2026-07-05T13:22:58.000Z"
       },
       {
-        "clusterId": "1bbe6745c1ec608f",
-        "slug": "ed2952fa6a1bd6a7",
-        "titulo": "Agro do DF mantém patamar histórico e movimenta R$ 5,8 bi em 2025",
-        "resumo": "O setor agrícola do Distrito Federal manteve seu nível histórico de produção, movimentando R$ 5,8 bilhões em 2025. O levantamento aponta um crescimento superior a 150% na riqueza gerada pelo campo desde 2016. A análise confirma a estabilidade e expansão do agronegócio na região.",
-        "porQueImporta": "Demonstrar a robustez e crescimento contínuo do agronegócio no DF, refletindo impacto econômico e segurança alimentar.",
+        "clusterId": "03008217008d69e4",
+        "slug": "0742a801bb4f1540",
+        "titulo": "Matrículas em creches aumentam 11% em quase uma década",
+        "resumo": "Segundo dados do módulo educação da Pesquisa Nacional por Amostra de Domicílios Contínua, as matrículas em creches cresceram 11% em 2023, o maior aumento em quase dez anos. O crescimento, embora positivo, ficou abaixo da meta estabelecida pela Política Nacional de Educação (PNE). O IBGE destaca que a expansão reflete maior acesso à educação infantil, mas ainda há desafios para atingir as metas de cobertura.",
+        "porQueImporta": "O aumento das matrículas indica progresso na inclusão escolar, mas a diferença em relação à meta aponta necessidade de políticas mais eficazes.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-agro/agro-do-df-mantem-patamar-historico-e-movimenta-r-58-bi-em-2025/"
+            "url": "https://www.poder360.com.br/poder-educacao/matriculas-em-creches-avancam-11-em-quase-uma-decada-diz-ibge/"
           }
         ],
-        "updatedAt": "2026-07-05T09:26:22.000Z"
+        "updatedAt": "2026-07-05T13:20:21.000Z"
+      },
+      {
+        "clusterId": "16df59ca8be857da",
+        "slug": "afeb9304336be8ed",
+        "titulo": "Código de ética, Bolsonaro e eleições pautam STF no 2º semestre",
+        "resumo": "Corte precisa decidir temas de impacto direto na política, como as eleições suplementares e ficha limpa",
+        "porQueImporta": "",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-justica/codigo-de-etica-bolsonaro-e-eleicoes-pautam-stf-no-2o-semestre/"
+          }
+        ],
+        "updatedAt": "2026-07-05T13:00:27.000Z"
+      },
+      {
+        "clusterId": "7da97083809659b2",
+        "slug": "a9c3096a31ad86d5",
+        "titulo": "Dependência em apostas desafia RHs a fortalecer estratégias de saúde mental e bem-estar",
+        "resumo": "Um levantamento da Unifesp indica que 10,9 milhões de brasileiros sofrem prejuízos relacionados ao jogo. Empresas estão revisando suas políticas de cuidado com os trabalhadores para lidar com o problema. A dependência em apostas tem impacto direto na saúde mental e no desempenho profissional. Os recursos de RH precisam ser ampliados para oferecer suporte adequado.",
+        "porQueImporta": "O aumento da dependência em apostas gera custos sociais e corporativos que exigem ações preventivas e de apoio.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/do-micro-ao-macro/bets-rh-saude-mental/"
+          }
+        ],
+        "updatedAt": "2026-07-05T13:00:09.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/iStock-1762488615.gif"
+      },
+      {
+        "clusterId": "a7cebdc82289a245",
+        "slug": "4c08648fbdb8e6f5",
+        "titulo": "SP lança Rotas da Cerveja e fortalece cadeia produtiva em municípios",
+        "resumo": "O estado de São Paulo lançou o programa Rotas da Cerveja, que reúne 107 cervejarias locais. A iniciativa visa impulsionar o turismo de experiência e consolidar a liderança do estado na produção e exportação de cerveja. O projeto também busca fortalecer a cadeia produtiva nas cidades participantes.",
+        "porQueImporta": "A medida aumenta a competitividade da indústria cervejeira paulista e estimula o turismo regional.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-economia/sp-lanca-rotas-da-cerveja-e-fortalece-cadeia-produtiva-em-municipios/"
+          }
+        ],
+        "updatedAt": "2026-07-05T12:50:46.000Z"
+      },
+      {
+        "clusterId": "3895519460044a82",
+        "slug": "206468c6e12db970",
+        "titulo": "Violência infantojuvenil cresce 125% em cinco anos",
+        "resumo": "As denúncias de violência contra crianças e adolescentes aumentaram 125% nos últimos cinco anos. O número de vítimas femininas representa 62% do total. O aumento indica piora na proteção infantil e necessidade de reforço de políticas públicas.",
+        "porQueImporta": "O crescimento alarmante da violência infantojuvenil exige atenção urgente das autoridades e da sociedade.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-seguranca-publica/denuncias-de-violencia-infantojuvenil-crescem-125-em-5-anos/"
+          }
+        ],
+        "updatedAt": "2026-07-05T12:40:18.000Z"
+      },
+      {
+        "clusterId": "a114309465a48e35",
+        "slug": "4d6d1718a0c491a3",
+        "titulo": "Vereadora Priscila Costa se posiciona contra conflito entre Flávio e Michelle",
+        "resumo": "Priscila Costa, que foi preterida na disputa pelo Senado no Ceará, afirmou que não quer alimentar o conflito entre a ex-primeira-dama Michelle e o senador Flávio. Ela pediu união e criticou a disputa que surgiu após a decisão de não incluí-la na lista de candidatos. A situação foi considerada o estopim para o desentendimento entre os dois políticos.",
+        "porQueImporta": "O posicionamento de Priscila Costa pode influenciar a dinâmica política local e a percepção pública sobre a disputa pelo Senado.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/vereadora-pivo-de-crise-entre-flavio-e-michelle-minimiza-crise-prega-uniao-e-diz-nao-querer-alimentar-conflito/"
+          }
+        ],
+        "updatedAt": "2026-07-05T12:29:29.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/07/priscila-michelle-flavio.png"
       }
     ],
     "economia": [
       {
-        "clusterId": "a93a52bbfaf96d9f",
-        "slug": "c1d6c521d829cb60",
-        "titulo": "Lotofácil hoje: resultado do concurso 3727 e números sorteados; uma aposta ganha e leva sozinha R$ 4,5 milhões",
-        "resumo": "Resultado da Lotofácil g1 Veja abaixo os números do sorteio do concurso 3727 da Lotofácil realizado neste sábado (4): 1 - 2 - 3 - 4 - 5 - 9 - 10 - 11 - 13 - 14 - 16 - 18 - 19 - 22 - 23 Confira o resultado do sorteio da Lotofácil. Veja quantas apostas foram premiadas no concurso 3727: 15 acertos: 1 aposta ganhadora, que vai receber R$ 4.523.720,84; 14 acertos: 329 apostas ganhadoras, cada uma vai receber R$ 1.737,01; 13 acertos: 12.822 apostas ganhadoras, cada uma vai receber R$ 35; 12 acertos: 156.946 apostas ganhadoras, cada uma vai receber R$ 14; 11 acertos: 856.594 apostas ganhadoras, cada…",
-        "porQueImporta": "",
+        "clusterId": "4c31b0db46cefe1e",
+        "slug": "8edadcc221736ac3",
+        "titulo": "Mega-Sena acumula e prêmio vai a R$ 38 milhões",
+        "resumo": "No concurso 3027 da Mega‑Sena, realizado em São Paulo no sábado (4/7), nenhuma aposta acertou as seis dezenas. O prêmio acumulou para R$ 38 milhões e será pago no próximo sorteio, marcado para terça-feira (7/7). Os números sorteados foram 06, 15, 16, 24, 34 e 47. A Caixa também sorteou outras loterias, como Lotofácil e Timemania.",
+        "porQueImporta": "O acúmulo do prêmio aumenta a expectativa dos apostadores e destaca a importância do próximo sorteio.",
         "category": "economia",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/loterias/timemania/noticia/2026/07/04/timemania-hoje-resultado-do-concurso-2411-e-numeros-sorteados.ghtml"
+            "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/05/mega-sena-piaui.ghtml"
           },
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3727-confira-o-resultado-sorteado-neste-sabado-4/"
-          }
-        ],
-        "updatedAt": "2026-07-05T00:50:16.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/Fx70aJZC4Kthv1W0DpSlhwjFrgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/B/vcc48ARd2wSAg5rxATAw/timemania-2411-qsjpt.jpeg"
-      },
-      {
-        "clusterId": "f3c2c48398222ae0",
-        "slug": "edfc5185dfb79a57",
-        "titulo": "Ancelotti admite que Vinicius Jr e Neymar podem atuar juntos na Seleção",
-        "resumo": "O técnico da Seleção Brasileira, Lúcio Ancelotti, afirmou que Vinícius Júnior e Neymar podem jogar lado a lado nas oitavas de final contra a Noruega. Ele destacou que ambos têm potencial para contribuir no ataque. Ancelotti também mencionou a estratégia de neutralizar Erling Haaland, artilheiro da Noruega.",
-        "porQueImporta": "A decisão sobre a escalação dos principais atacantes influencia diretamente o desempenho do Brasil em um jogo decisivo da Copa do Mundo.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/ancelotti-admite-que-vinicius-jr-e-neymar-podem-atuar-juntos-na-selecao/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/minas-gerais/mega-sena-9-apostas-de-r-6-faturam-r-45-mil-em-mg-veja-as-cidades"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/esporte/ancelotti-sobre-neymar-e-vini-jr-contra-a-noruega-acho-que-vao-jogar-juntos/"
+            "url": "https://exame.com/invest/minhas-financas/resultado-mega-sena-3-027-veja-numeros-sorteados/"
           }
         ],
-        "updatedAt": "2026-07-04T23:00:00.000Z"
+        "updatedAt": "2026-07-05T12:56:26.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/B5tMIoLpr30pNw8djBYlFmyKyow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/x/pwpJjAR0GtbRJ9XYzKdA/edicao-imagens-g1-17-.png"
       },
       {
-        "clusterId": "7c806de947c2d463",
-        "slug": "34d60daaea2536a1",
-        "titulo": "Seleção para médicos oferece salários de até R$ 22,5 mil em hospital do interior do TO",
-        "resumo": "Hospital Regional de Araguaína Divulgação SES-TO O Governo do Estado abriu um processo seletivo para a contratação temporária de médicos especialistas que atuarão no Hospital de Referência de Araguaína, no norte do Tocantins. Os salários variam de R$ 7,5 mil a R$ 22,5 mil, conforme a carga horária. Conforme a portaria publicada no Diário Oficial, a seleção tem como objetivo formar um banco de profissionais para futuras contratações temporárias, de acordo com a demanda da rede pública estadual. O documento não informa o número de vagas. (Veja como se inscrever abaixo). 📱 Clique aqui para…",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/05/selecao-para-medicos-oferece-salarios-de-ate-r-225-mil-em-hospital-do-interior-do-to.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-05T10:00:12.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/lzQjEaIXpl87v_qA7HchsmwdkkU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/y/AAhjIYRLu1XOE2EfsnFw/foto-e-montagem-vertical-19-.png"
-      },
-      {
-        "clusterId": "04dc2fc3cc11ad1c",
-        "slug": "0bca5e4779942651",
-        "titulo": "Setor imobiliário prevê crescimento em 2026, mas adota postura cautelosa para 2027",
-        "resumo": "Representantes da Caixa, CBIC, ABECIP e ABRAMAT projetam um novo ciclo de crescimento no setor imobiliário em 2026, mas já sinalizam cautela para 2027. Os riscos apontados incluem a taxa Selic, o custo de funding, a escassez de mão de obra e a carga tributária. O painel foi realizado no Construsummit.",
-        "porQueImporta": "As projeções influenciam decisões de investimento e planejamento de projetos no mercado imobiliário.",
+        "clusterId": "59d12f755d33b89d",
+        "slug": "1062d157d7d16a07",
+        "titulo": "Falsas vagas e concursos no setor de petróleo atraem golpistas",
+        "resumo": "Aumento de anúncios fraudulentos de empregos e concursos na Petrobras e em outras empresas do setor de petróleo tem sido registrado. Golpistas oferecem salários acima da média e exigem pagamentos ou dados pessoais. A fraude costuma envolver sites e e‑mails falsos que imitam a empresa. Profissionais devem verificar a autenticidade das ofertas antes de responder.",
+        "porQueImporta": "Protege trabalhadores de golpes que exploram a demanda por vagas no setor.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/business/setor-imobiliario-ve-2026-forte-mas-ja-trata-2027-com-mais-cautela/"
+            "url": "https://www.infomoney.com.br/carreira/a-petrobras-quer-contratar-voce-crescem-casos-de-falsas-vagas-no-setor-de-petroleo/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/carreira/golpistas-usam-falsas-vagas-e-concursos-do-setor-de-petroleo-como-isca-saiba-se-proteger/"
           }
         ],
-        "updatedAt": "2026-07-05T08:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2022/10/cury-e1695159465733.jpeg?fit=300%2C186&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-07-05T12:40:42.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/petrobras-agencia-brasil.webp?fit=300%2C180&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "845722897c358acb",
-        "slug": "1e25c53a7c18954a",
-        "titulo": "Medo de bolha em OpenAI, Anthropic e SpaceX? Veja como investir em IA",
-        "resumo": "Para a Eleven, há alternativas de se expor ao tema sem investir nas companhias diretamente envolvidas no setor de IA The post Medo de bolha em OpenAI, Anthropic e SpaceX? Veja como investir em IA appeared first on InfoMoney.",
-        "porQueImporta": "",
+        "clusterId": "8e560b2449383f3d",
+        "slug": "bc6f7729e377f53a",
+        "titulo": "TSE permite propaganda interna de pré-candidatos e PL e MDB lideram pré-candidaturas ao Senado",
+        "resumo": "A Justiça Eleitoral autorizou a partir de 5 de julho a propaganda interna de pré-candidatos dentro de seus partidos, com período de prévias de 20 de julho a 5 de agosto. O Partido Liberal (PL) e o MDB concentram mais pré-candidatos competitivos para o Senado. O PT conta com sete dos 64 pré-candidatos que lideram pesquisas para a Casa Alta.",
+        "porQueImporta": "Essas decisões influenciam a organização e a visibilidade das candidaturas antes das eleições.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/sao-paulo/tse-pre-candidatos-ja-podem-fazer-propaganda-intrapartidaria"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/pl-e-mdb-concentram-mais-pre-candidatos-competitivos-ao-senado/"
+          }
+        ],
+        "updatedAt": "2026-07-05T11:52:14.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/05/alunos-da-rede-publica-de-ensino-fazem-aulao-e-simulacao-de-voto-em-evento-de-30-anos-da-urna-eletronica-na-sede-do-tribunal-superior-eleitoral-tse-metropoles-7-scaled.jpg"
+      },
+      {
+        "clusterId": "5dd13cb2ef27285e",
+        "slug": "0b14fba0caac3d06",
+        "titulo": "Dieta de Haaland inclui fígado de boi e 6 mil calorias diárias",
+        "resumo": "O atacante Erling Haaland consome cerca de 6.000 calorias por dia, incluindo alimentos como fígado de boi. Ele mede 1,95 m e pesa aproximadamente 90 kg, fatores que influenciam sua necessidade calórica elevada. A alimentação é planejada para sustentar seu desempenho e crescimento muscular.",
+        "porQueImporta": "Entender a dieta de um atleta de alto nível ajuda a compreender os requisitos nutricionais para desempenho esportivo extremo.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/grandes-ipos-de-ia-a-conta-que-o-mercado-precisa-fechar/"
+            "url": "https://www.infomoney.com.br/esportes/figado-de-boi-e-mais-entenda-a-dieta-de-haaland-que-come-6-mil-calorias-por-dia/"
           }
         ],
-        "updatedAt": "2026-07-05T08:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/2026-06-12T144303Z_185584248_RC2DSLAD0DRH_RTRMADP_3_SPACEX-IPO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-07-05T13:30:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-09T210238Z_1577903590_RC2KOGAP16OG_RTRMADP_3_SOCCER-WORLDCUP-NOR-MDA-REPORT.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "85c72b977b7fe0db",
-        "slug": "c7316ce63206a9e0",
-        "titulo": "CEO de empresa de US$ 25 bilhões diz que entrevista de uma hora é perda de tempo",
-        "resumo": "Iñaki Ereño, da Bupa, diz que só conhece de fato um candidato após três encontros de duas horas, incluindo uma refeição fora do escritório The post CEO de empresa de US$ 25 bilhões diz que entrevista de uma hora é perda de tempo appeared first on InfoMoney.",
-        "porQueImporta": "",
+        "clusterId": "bb78c1dc12d18cd5",
+        "slug": "ed3d96dfbd48516f",
+        "titulo": "Alf-Inge Haaland, pai de Erling, também atuou como jogador na Noruega",
+        "resumo": "Alf-Inge Haaland, pai do atacante Erling, teve carreira como jogador na Noruega, com passagens por clubes como Leeds e Manchester. Ele participou de uma das rivalidades mais marcantes do futebol inglês. A trajetória de Alf-Inge inclui momentos de destaque e controvérsia em competições nacionais e internacionais.",
+        "porQueImporta": "Ilustra a herança esportiva familiar e a influência de gerações no futebol.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/business/global/ceo-de-empresa-de-us-25-bilhoes-diz-que-entrevista-de-uma-hora-e-perda-de-tempo/"
+            "url": "https://www.infomoney.com.br/esportes/alf-inge-haaland/"
           }
         ],
-        "updatedAt": "2026-07-05T08:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/25-BILLION-CEO-SAYS-ONE-HOUR-INTERVIEWS-ARE-A-WASTE-OF-TIMEHE-PUTS-CANDIDATES-THROUGH-SIX-HOURS-OF-TESTS-AND-WANTS-THEM-TO-ORDER-WINE-AT-LUNCH.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-07-05T13:30:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Alf-Inge-Haaland.jpg?fit=300%2C193&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "9737ca92f990730d",
-        "slug": "d299d3a7a97202b8",
-        "titulo": "Influenciadores viram sócios de empresas em novo modelo de negócios",
-        "resumo": "Estratégia de media for equity substitui parte dos cachês por participação acionária e avança com a creator economy no Brasil The post Influenciadores viram sócios de empresas em novo modelo de negócios appeared first on InfoMoney.",
-        "porQueImporta": "",
+        "clusterId": "e4329dbe46fab898",
+        "slug": "a59981254aba22ff",
+        "titulo": "Micro e pequenas empresas concentram endividamento no país",
+        "resumo": "O levantamento da Assertiva mostra que micro e pequenas empresas e negócios maduros são responsáveis por grande parte do endividamento no Brasil. O cenário evidencia a vulnerabilidade dessas empresas diante de oscilações de custos, queda na demanda e atrasos nos recebíveis. A concentração de dívidas em pequenos negócios pode afetar a estabilidade econômica e a confiança dos investidores.",
+        "porQueImporta": "O endividamento concentrado em micro e pequenas empresas pode sinalizar fragilidade econômica e risco de crises em setores essenciais.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/minhas-financas/influenciadores-viram-socios-de-empresas-em-novo-modelo-de-negocios/"
+            "url": "https://www.infomoney.com.br/business/micro-e-pequenas-empresas-e-negocios-maduros-concentram-endividamento-no-pais/"
           }
         ],
-        "updatedAt": "2026-07-05T08:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/06/pexels-rdne-8293764.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-07-05T13:17:21.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/Avebida-Paulista.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "1edaaae93b93ae0f",
-        "slug": "53017ead27a4f6e9",
-        "titulo": "Metro quadrado dos imóveis novos no Rio dispara quase 70% em um ano; por quê?",
-        "resumo": "Novo Plano Diretor, imóveis compactos e retomada do turismo impulsionam mercado imobiliário no Rio The post Metro quadrado dos imóveis novos no Rio dispara quase 70% em um ano; por quê? appeared first on InfoMoney.",
-        "porQueImporta": "",
+        "clusterId": "82c25774588546d3",
+        "slug": "2a0529bf0b8331fa",
+        "titulo": "Show de fogos de artifício em Washington atrasado por calor extremo",
+        "resumo": "O espetáculo pirotécnico que comemorou o 250º aniversário dos Estados Unidos foi iniciado após as 22h45, horas depois de ser adiado devido a uma tempestade. O evento, anunciado como o maior já realizado no país, contou com luzes e fogos que iluminaram o céu de Washington.",
+        "porQueImporta": "Ilustra como condições climáticas podem afetar grandes celebrações nacionais.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/minhas-financas/metro-quadrado-dos-imoveis-novos-no-rio-dispara-quase-70-em-um-ano-por-que/"
+            "url": "https://www.infomoney.com.br/mundo/assista-luzes-brilham-em-washington-com-show-de-fogos-atrasado-apos-calor-extremo/"
           }
         ],
-        "updatedAt": "2026-07-05T08:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/tijuca-rio.png?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-07-05T13:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-05T062031Z_2128352936_RC2F7MADZQZS_RTRMADP_3_USA-250-WASHINGTONDC-FIREWORKS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "4142161e445fd633",
+        "slug": "37cfbb97e00c00c3",
+        "titulo": "Brasil planeja lançar foguete ainda este ano",
+        "resumo": "O governo brasileiro anunciou planos para lançar um foguete doméstico no mesmo ano, reforçando a entrada do país no mercado espacial global. O setor de satélites, foguetes e bases de apoio movimentou US$ 220 bilhões em 2025, com projeções de crescimento para US$ 315 bilhões até 2034. A iniciativa faz parte de uma estratégia para competir com outras nações que já possuem infraestrutura espacial avançada.",
+        "porQueImporta": "O lançamento demonstra o compromisso do Brasil em desenvolver tecnologia espacial e participar de um mercado em expansão.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/economia/brasil-disputa-mercado-espacial-e-preve-lancamento-de-foguete-ainda-este-ano/"
+          }
+        ],
+        "updatedAt": "2026-07-05T12:30:20.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/11/cla.jpg?fit=300%2C180&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "ebcb82f38c48f5c4",
-        "slug": "418b814ebf882eb7",
-        "titulo": "Terremotos duplos na Venezuela causam quase 3 mil mortes e mais de 16 mil feridos",
-        "resumo": "Dois terremotos de 6,7 e 7,2 de magnitude atingiram a região norte da Venezuela em 24 de junho, resultando em 2.954 mortes confirmadas e mais de 16 mil feridos. O desastre deixou mais de 15 mil famílias desabrigadas e causou danos a hospitais, escolas, prédios residenciais e comerciais. A ONU estima que até 6,7 milhões de pessoas foram afetadas pela tragédia. O governo venezuelano ainda não divulgou o número de desaparecidos.",
-        "porQueImporta": "O evento representa o maior desastre sísmico na história recente da Venezuela, com impactos humanitários e estruturais significativos.",
+        "clusterId": "3ceb3142407096b7",
+        "slug": "708090fbe2bec242",
+        "titulo": "Funeral de Ali Khamenei reúne milhares em Teerã",
+        "resumo": "O funeral do líder supremo iraniano Ali Khamenei, morto em bombardeio conjunto de EUA e Israel, começou no sábado (4) e continua no domingo (5). Milhares de fiéis compareceram, incluindo três dos filhos do aiatolá, enquanto o sucessor Mojtaba permanece ausente. Em meio às cerimônias, um orador pediu a morte do presidente dos EUA, Trump. O evento faz parte de uma série de sete dias de luto que devem atrair até 20 milhões de pessoas.",
+        "porQueImporta": "Reflete a reação interna do Irã ao conflito com os EUA e Israel e demonstra a influência política do funeral.",
         "category": "mundo",
         "sources": [
           {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mundo/milhares-acompanham-despedida-a-khamenei-e-pedem-morte-de-trump/"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-internacional/orador-pede-morte-de-trump-em-funeral-de-khamenei/"
+          },
+          {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/07/05/da-arquitetura-chavista-ao-colapso-economico-por-que-os-terremotos-da-venezuela-foram-tao-devastadores.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/07/05/tres-filhos-ali-khamenei-vao-a-funeral-milhares-vao-a-2o-dia-despedida.ghtml"
           },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/sobe-para-2-954-o-numero-de-mortos-em-terremotos-na-venezuela/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/numero-de-mortos-em-terremotos-na-venezuela-sobe-para-quase-3-mil/"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cg4w06969zgo?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.cartacapital.com.br/mundo/ira-transforma-funeral-de-khamenei-em-demonstracao-de-poder/"
           }
         ],
-        "updatedAt": "2026-07-05T08:00:08.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/AfU6Y7gomx6padgdiuc9nbDA5H0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/s/izZKcFTGedV01jODiEbQ/2026-07-03t173808z-676359509-rc2g6maxtxd3-rtrmadp-3-venezuela-quake.jpg"
+        "updatedAt": "2026-07-05T13:35:37.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-05T131311Z_1028064105_RC2N7MALXYCC_RTRMADP_3_IRAN-CRISIS-KHAMENEI.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "82e71dfe070affeb",
+        "clusterId": "5aa523b3a6c6c7e7",
         "slug": "c9213b3b00a48ba0",
         "titulo": "Celebrations of 250 years of U.S. independence face heat, cancellations and political speeches",
         "resumo": "O presidente Donald Trump fez um discurso que abordou sua agenda política e homenageou veteranos, enquanto eventos como a Great American State Fair foram cancelados ou adiados devido a uma onda de calor que atingiu temperaturas próximas de 43°C. Milhões de pessoas ficaram em alerta e a rede elétrica foi pressionada. As celebrações, que incluíam fogos de artifício e aviões, ocorreram em meio a divisões políticas e debates sobre o poder presidencial.",
@@ -606,24 +617,68 @@
         "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aad1/live/17b95ee0-782a-11f1-b883-9b0970c03979.jpg"
       },
       {
-        "clusterId": "c70c40ef4eac7cf6",
-        "slug": "0bbe88d1dfca3c87",
-        "titulo": "Irã transforma funeral de Ali Khamenei em demonstração de poder",
-        "resumo": "Autoridades iranianas choram em frente a caixão de Ali Khamenei As cerimônias em homenagem ao falecido líder supremo do Irã, aiatolá Ali Khamenei, serão \"a maior reunião da história de Teerã\", disse o prefeito interino da capital, Alireza Zakai, de acordo com a mídia do país. O funeral, originalmente previsto para o início de março, foi adiado devido ao conflito no Oriente Médio. A previsão é que a programação pública comece neste sábado (4). ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Khamenei, que por 37 anos deteve a autoridade máxima sobre as principais questões de Estado,…",
+        "clusterId": "f4c917c9cf532782",
+        "slug": "f600ec9226d79499",
+        "titulo": "Número de mortos em terremotos na Venezuela sobe para 2.954",
+        "resumo": "O governo venezuelano registrou 2.954 mortes e 190 prédios desabaram após os terremotos de 24 de junho na região norte, incluindo Caracas e La Guaira. O número de feridos ultrapassou 4.000, segundo boletins oficiais. O relatório atualiza a cifra anterior, que era de 2.645 mortos. O governo ainda não divulgou o total de desaparecidos.",
+        "porQueImporta": "A alta mortalidade evidencia a gravidade da crise humanitária e a necessidade de assistência internacional.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/07/05/da-arquitetura-chavista-ao-colapso-economico-por-que-os-terremotos-da-venezuela-foram-tao-devastadores.ghtml"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/mundo/sobe-para-2-954-o-numero-de-mortos-em-terremotos-na-venezuela/"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cg4w06969zgo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-07-05T08:00:08.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/AfU6Y7gomx6padgdiuc9nbDA5H0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/s/izZKcFTGedV01jODiEbQ/2026-07-03t173808z-676359509-rc2g6maxtxd3-rtrmadp-3-venezuela-quake.jpg"
+      },
+      {
+        "clusterId": "b14020c86785ec14",
+        "slug": "f8fc576b2c058ea1",
+        "titulo": "O 'American Dream' ainda sobrevive nos EUA?",
+        "resumo": "Pesquisas realizadas pouco antes das comemorações dos 250 anos dos EUA mostram que muitos americanos acreditam que o Sonho Americano está perdendo força Getty Images Há 16 anos, Abdi Nor Iftin era um refugiado somali que vivia em uma das favelas mais pobres do Quênia quando descobriu que havia sido contemplado em um sorteio que mudaria sua vida. Entre quase 8 milhões de candidatos em 2013, ele estava entre os 50 mil selecionados para receber um visto americano por meio do programa de vistos de diversidade, criado pelo governo dos Estados Unidos na década de 1990. Iftin sonhava havia muito…",
         "porQueImporta": "",
         "category": "mundo",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/07/05/tres-filhos-ali-khamenei-vao-a-funeral-milhares-vao-a-2o-dia-despedida.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/07/05/o-american-dream-ainda-sobrevive-nos-eua.ghtml"
           },
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/ira-transforma-funeral-de-khamenei-em-demonstracao-de-poder/"
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c30yrejmzdno?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-07-05T07:26:41.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/shCdjeisfmvo8O1JZRe2z8ueFt4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/V/l4dUAZSmGxUoLtTwiDpw/2026-07-05t072101z-1242938757-rc2g7mawc6q8-rtrmadp-3-iran-crisis-khamenei.jpg"
+        "updatedAt": "2026-07-05T12:35:52.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/-qZN_7U3toxC_MMIOMfukhpCq18=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/H/9F6yWJQL23ERTKMOL4AQ/9dd0d7eb-f931-4ca9-bba8-372fae4fcd9d.png"
+      },
+      {
+        "clusterId": "cec0e78f79918ed7",
+        "slug": "b2535aba0d05b4a2",
+        "titulo": "Arrogância do Brasil no futebol contrasta com imagem de país alegre, diz comentarista inglês",
+        "resumo": "Carlo Ancelotti orienta Martinelli, autor do gol da virada sobre o Japão Getty Images Quando o jornalista Tim Vickery deixou a Inglaterra para morar no Rio de Janeiro, em 1994, a seleção brasileira voltava a ganhar uma Copa do Mundo após um jejum de 24 anos. Mesmo depois de uma nova conquista em 2002, Vickery afirma que brasileiros e estrangeiros admiradores da seleção seguem presos à memória dos times que conquistaram três Copas num intervalo de 12 anos, entre 1958 e 1970. Segundo o jornalista, essa memória alimenta entre os brasileiros um sentimento de superioridade e a ideia de que o…",
+        "porQueImporta": "",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/07/05/arrogancia-do-brasil-no-futebol-contrasta-com-imagem-de-pais-alegre-diz-comentarista-ingles.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/ce954kdp9mdo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-07-05T10:37:17.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/BS9ndWNxfOKzZLg7zG_VvB5O2hw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/z/Jo8KLDTre2WVsRlscfkw/globo-canal-4-20260630-2000-frame-89676.jpeg"
       },
       {
         "clusterId": "836f088ca7e3ef16",
@@ -666,22 +721,6 @@
         "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/01/000_927G7G4.jpg"
       },
       {
-        "clusterId": "b0fd720c081a9cf0",
-        "slug": "b2535aba0d05b4a2",
-        "titulo": "Arrogância do Brasil no futebol contrasta com imagem de país alegre, diz comentarista inglês",
-        "resumo": "Para o especialista em futebol sul-americano Tim Vickery, que mora no Brasil desde 1994, memória das conquistas entre 1958 e 1970 define até hoje o relacionamento dos brasileiros com a seleção, alimentando sentimento de superioridade e gerando frustração e revolta quando a equipe não é campeã.",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/ce954kdp9mdo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-07-05T09:33:43.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a131/live/7973d8d0-7853-11f1-975d-e3c93736afa3.jpg"
-      },
-      {
         "clusterId": "dc68d5c9bc90d091",
         "slug": "08600dabeffac3b1",
         "titulo": "Rússia recruta estudantes para compensar baixas na Ucrânia",
@@ -700,156 +739,151 @@
         ],
         "updatedAt": "2026-07-04T14:41:14.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/dPKk1mXuagN6SFswsSh4uLMBQjM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/0/DfO4vuRNOBGPqRKFMrlg/c1e87527-d17b-4641-8fc6-b0ac44d53f58.png"
-      },
-      {
-        "clusterId": "7667e47207a3131d",
-        "slug": "fd37ec670952446a",
-        "titulo": "Bairro brasileiro em Newark celebra Copa após operações de imigração",
-        "resumo": "O bairro Ironbound, em Newark, Nova Jersey, conhecido por sua comunidade brasileira, viveu a Copa do Mundo com bandeiras e música típica nas ruas. Operações de imigração, lideradas por Trump, afetaram a rotina local, mas o evento trouxe energia e união entre moradores e comerciantes. A presença de bandeiras verde e amarelo nas vitrines e a música variada demonstram a celebração cultural. A comunidade se manteve ativa apesar das mudanças nas políticas de imigração.",
-        "porQueImporta": "Ilustra como eventos esportivos podem fortalecer comunidades diante de políticas migratórias.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/07/04/bairro-brasileiro-respira-na-copa-apos-cerco-de-trump.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c5yz088gv29o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-07-04T13:23:21.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/Cj0eufIJugLs7u2Q37aF9uQVA9I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/o/eXfioxQBS27XgKd6TLDA/25a4c72e-031a-4e29-8092-83c56937007e.png"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "11cf49e5a32c61ea",
-        "slug": "35ceb12043edb59d",
-        "titulo": "E-Motors suspende venda do carro elétrico mais barato do Brasil",
-        "resumo": "A importadora E-Motors Brasil interrompeu a venda do JMEV Emova Easy, modelo anunciado em março como o carro elétrico mais barato do país, com preço de R$ 69.990. A decisão foi motivada pela retomada da cobrança de 35% de imposto de importação sobre veículos elétricos a partir de julho, o que aumentou significativamente os custos de frete e logística. A empresa devolveu integralmente os valores das reservas feitas pelos consumidores.",
-        "porQueImporta": "A suspensão afeta consumidores que esperavam adquirir um veículo elétrico acessível e destaca o impacto das mudanças fiscais sobre o mercado de mobilidade elétrica no Brasil.",
+        "clusterId": "d2867445c2008e77",
+        "slug": "f785577019ea0b8d",
+        "titulo": "Lua hoje: confira a fase da Lua deste domingo 05/07/2026",
+        "resumo": "Em qual fase a Lua está hoje, 5 de julho de 2026? Confira e veja o calendário completo do mês O post Lua hoje: confira a fase da Lua deste domingo 05/07/2026 apareceu primeiro em Olhar Digital.",
+        "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/auto/carro-eletrico-mais-barato-do-brasil-tem-venda-suspensa-saiba-o-motivo/"
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/07/05/ciencia-e-espaco/lua-hoje-confira-a-fase-da-lua-deste-domingo-05-07-2026/"
           },
           {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/carros/saiba-porque-voce-nao-pode-comprar-o-carro-eletrico-mais-barato-do-brasil/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/ciencia/nasa-quer-voluntarios-para-simulacao-de-um-ano-inteiro-na-lua/"
           }
         ],
-        "updatedAt": "2026-07-04T23:26:37.000Z",
-        "imageUrl": "https://t.ctcdn.com.br/R8BWA4FxmN1t2dNFtn0swdZPCy0=/700x394/smart/i1140035.png"
+        "updatedAt": "2026-07-05T11:15:00.000Z"
       },
       {
-        "clusterId": "6923d729d2b2b582",
-        "slug": "ab1579822ff94b86",
-        "titulo": "Missão Juno, da NASA, completa 10 anos em órbita de Júpiter",
-        "resumo": "Há 10 anos, a sonda Juno, da NASA, entrava em órbita de Júpiter, iniciando uma história de desafios e descobertas incríveis O post Missão Juno, da NASA, completa 10 anos em órbita de Júpiter apareceu primeiro em Olhar Digital.",
+        "clusterId": "2ed1897d891f6dd8",
+        "slug": "2f9c8c6f2c53c3dd",
+        "titulo": "Smartphones Xiaomi e Samsung em promoção na Amazon",
+        "resumo": "A Amazon oferece descontos em modelos da linha Redmi da Xiaomi, como o Redmi Note 15 com 8 GB de RAM e 256 GB de armazenamento, e em dispositivos da Samsung Galaxy, incluindo o Galaxy A17. As ofertas destacam boa relação custo‑benefício, com opções que atendem a diferentes perfis de usuários, desde quem busca economia até quem precisa de mais memória e desempenho. Os anúncios foram publicados no site Olhar Digital.",
+        "porQueImporta": "Essas promoções permitem que consumidores obtenham dispositivos com bom desempenho por preços mais acessíveis.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/07/05/reviews/xiaomi-em-promocao-confira-uma-selecao-de-smartphones-com-otimo-custo-beneficio/"
+          }
+        ],
+        "updatedAt": "2026-07-05T13:00:00.000Z"
+      },
+      {
+        "clusterId": "56408d7adb7e2bd4",
+        "slug": "0141b8780a10cce0",
+        "titulo": "Motorola Moto G06 em promoção na Amazon",
+        "resumo": "O smartphone Motorola Moto G06 está em promoção na Amazon, com descontos em três versões que diferem em cor e capacidade de armazenamento. As ofertas incluem modelos de 128GB em laranja, azul e preto. A bateria, a câmera com inteligência artificial e o preço acessível são os principais atrativos. As promoções são temporárias e recomendam-se a compra antes do término das ofertas.",
+        "porQueImporta": "Oferece uma opção de smartphone econômico com recursos modernos, atraindo consumidores que buscam custo-benefício.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/07/05/reviews/moto-g06-em-promocao-confira-uma-selecao-de-ofertas-para-economizar-na-motorola/"
+          }
+        ],
+        "updatedAt": "2026-07-05T12:40:00.000Z"
+      },
+      {
+        "clusterId": "c49fd4a249e2cd5d",
+        "slug": "93a0a8f2a1a78976",
+        "titulo": "Hora de economizar: iPhones Apple em promoção na Amazon",
+        "resumo": "Se você está pensando em trocar de celular ou presentear alguém especial, a Amazon reúne agora uma seleção de iPhones Apple com ótimos preços. Separamos três modelos em oferta — do consagrado iPhone 15 ao mais recente iPhone 16e — para você comparar e escolher o que melhor se encaixa no seu bolso e nas […] O post Hora de economizar: iPhones Apple em promoção na Amazon apareceu primeiro em Olhar Digital.",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/07/05/ciencia-e-espaco/missao-juno-da-nasa-completa-10-anos-em-orbita-de-jupiter/"
+            "url": "https://olhardigital.com.br/2026/07/05/reviews/hora-de-economizar-iphones-apple-em-promocao-na-amazon-9/"
           }
         ],
-        "updatedAt": "2026-07-05T09:30:00.000Z"
+        "updatedAt": "2026-07-05T12:20:00.000Z"
       },
       {
-        "clusterId": "cd8cc13d93f6092d",
-        "slug": "ef803c9462398558",
-        "titulo": "“À la Batman”: carro elétrico é o primeiro do mundo a dirigir de cabeça para baixo",
-        "resumo": "O veículo da McMurtry usa um sistema de ventiladores para gerar pressão aerodinâmica mesmo parado, permitindo que fique \"grudado\" no teto O post “À la Batman”: carro elétrico é o primeiro do mundo a dirigir de cabeça para baixo apareceu primeiro em Olhar Digital.",
+        "clusterId": "6708730710e27264",
+        "slug": "c06f118d10738f5f",
+        "titulo": "Transforme sua TV com os melhores dispositivos de streaming em oferta agora",
+        "resumo": "Se você ainda não atualizou sua televisão para o universo do streaming, este é o momento certo. Reunimos três ótimas opções de dispositivos para você assistir a tudo com qualidade, praticidade e sem complicação — confira as ofertas disponíveis agora. Amazon Fire TV Stick HD (modelo mais recente), Controle Remoto por Voz com Alexa, alimentado […] O post Transforme sua TV com os melhores dispositivos de streaming em oferta agora apareceu primeiro em Olhar Digital.",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/07/05/carros-e-tecnologia/a-la-batman-carro-eletrico-e-o-primeiro-do-mundo-a-dirigir-de-cabeca-para-baixo/"
+            "url": "https://olhardigital.com.br/2026/07/05/reviews/transforme-sua-tv-com-os-melhores-dispositivos-de-streaming-em-oferta-agora-2/"
           }
         ],
-        "updatedAt": "2026-07-05T09:00:00.000Z"
+        "updatedAt": "2026-07-05T11:40:00.000Z"
       },
       {
-        "clusterId": "c4e684210226da0e",
-        "slug": "87e0adb34a14544f",
-        "titulo": "Resultado da Quina 7057",
-        "resumo": "O concurso 7057 da Quina foi realizado em São Paulo e premiou R$ 5 milhões. Os cinco números sorteados foram divulgados, juntamente com a lista de ganhadores. O post também explica os procedimentos para resgatar o prêmio.",
-        "porQueImporta": "Informa aos participantes o resultado e orienta sobre a retirada do prêmio.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/07/04/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7057-sabado-04-07/"
-          }
-        ],
-        "updatedAt": "2026-07-04T23:40:00.000Z"
-      },
-      {
-        "clusterId": "f4149ab484469216",
-        "slug": "8b5de878e29fa57d",
-        "titulo": "Resultado da Lotofácil do concurso 3727",
-        "resumo": "O sorteio da Lotofácil do concurso 3727 foi realizado na noite de sábado, 4 de julho, às 21h. O prêmio estimado para o concurso é de R$ 5 milhões. Os números sorteados e os ganhadores foram divulgados pela Olhar Digital.",
-        "porQueImporta": "A divulgação do resultado permite que apostadores verifiquem se ganharam e acompanhem o valor do prêmio.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/07/04/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3727-sabado-04-07/"
-          }
-        ],
-        "updatedAt": "2026-07-04T23:40:00.000Z"
-      },
-      {
-        "clusterId": "9c878c59566a119e",
-        "slug": "37aaadbfbff3f3cc",
-        "titulo": "Células do sistema imunológico produzem e liberam dopamina e adrenalina em tempo real",
-        "resumo": "Estudos demonstram que as células de defesa do sangue geram, armazenam e liberam neurotransmissores dopamina e adrenalina, semelhante ao funcionamento dos neurônios. A pesquisa revela que o sistema imunológico pode comunicar-se em tempo real com o cérebro. Os resultados sugerem uma interação mais direta entre o sistema nervoso e o imunológico do que se pensava.",
-        "porQueImporta": "Entender essa comunicação pode levar a novas abordagens terapêuticas para doenças autoimunes e neurodegenerativas.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/07/04/medicina-e-saude/cientistas-veem-em-tempo-real-como-o-sistema-imune-fala-como-o-cerebro/"
-          }
-        ],
-        "updatedAt": "2026-07-04T22:47:00.000Z"
-      },
-      {
-        "clusterId": "be06fa5fec98ec59",
-        "slug": "18c4262c1f116a2c",
-        "titulo": "Midjourney processada por estúdios por uso de personagens protegidos",
-        "resumo": "A startup de inteligência artificial Midjourney foi processada pela Disney, Universal e Warner, alegando que a empresa utiliza personagens protegidos por direitos autorais para treinar seus modelos. A Midjourney defende que estúdios também utilizam obras protegidas em seus próprios processos de treinamento. O processo destaca a disputa sobre o uso de conteúdo protegido em IA.",
-        "porQueImporta": "A decisão pode definir precedentes sobre direitos autorais em treinamento de IA.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/07/04/inteligencia-artificial/processada-por-hollywood-midjourney-quer-provar-que-estudios-fazem-o-mesmo-que-ela/"
-          }
-        ],
-        "updatedAt": "2026-07-04T21:19:28.000Z"
-      },
-      {
-        "clusterId": "f91252315cf8204e",
-        "slug": "577e8d3ce9085200",
-        "titulo": "Hora de renovar a sala: Smart TVs 4K em promoção na Amazon",
-        "resumo": "Se você está pensando em trocar a TV da sala ou montar um novo setup, este é um bom momento para pesquisar. Reunimos três opções de Smart TVs 4K disponíveis na Amazon com preços competitivos — modelos de marcas conhecidas, com telas de 43 polegadas e recursos modernos como Google TV, assistente de voz e […] O post Hora de renovar a sala: Smart TVs 4K em promoção na Amazon apareceu primeiro em Olhar Digital.",
+        "clusterId": "34f121be32ee2b80",
+        "slug": "2061705e397f8f14",
+        "titulo": "Samsung NEO QLED com IA: veja uma seleção de TVs Vision AI em promoção na Amazon",
+        "resumo": "Se você está pensando em renovar a TV da sala, este é um bom momento para olhar o que a Samsung trouxe com a linha Vision AI de 2025. São modelos NEO QLED Ultra 4K com inteligência artificial embarcada, e a Amazon está com três opções em destaque — tamanhos diferentes para diferentes necessidades e […] O post Samsung NEO QLED com IA: veja uma seleção de TVs Vision AI em promoção na Amazon apareceu primeiro em Olhar Digital.",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/07/04/reviews/hora-de-renovar-a-sala-smart-tvs-4k-em-promocao-na-amazon-13/"
+            "url": "https://olhardigital.com.br/2026/07/05/reviews/samsung-neo-qled-com-ia-veja-uma-selecao-de-tvs-vision-ai-em-promocao-na-amazon/"
           }
         ],
-        "updatedAt": "2026-07-04T20:50:23.000Z"
+        "updatedAt": "2026-07-05T11:20:00.000Z"
+      },
+      {
+        "clusterId": "7f8acd3dc9b013de",
+        "slug": "0c8f52a6a53616ac",
+        "titulo": "Jogos de hoje (05/07/26): onde assistir futebol ao vivo e horários das partidas",
+        "resumo": "Quer saber quem joga hoje? Confira horários e onde assistir ao vivo aos jogos de hoje (05/07/26) do futebol do Brasil e do mundo na TV e no streaming O post Jogos de hoje (05/07/26): onde assistir futebol ao vivo e horários das partidas apareceu primeiro em Olhar Digital.",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/07/05/internet-e-redes-sociais/jogos-de-hoje-05-07-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/"
+          }
+        ],
+        "updatedAt": "2026-07-05T11:00:00.000Z"
+      },
+      {
+        "clusterId": "b764396f2d158c92",
+        "slug": "7e51384c6ab6d368",
+        "titulo": "Quando as crises não cedem: três novos medicamentos ampliam o tratamento da epilepsia",
+        "resumo": "As manifestações da doença variam, indo de breves episódios de comprometimento da consciência até crises com manifestações motoras intensas O post Quando as crises não cedem: três novos medicamentos ampliam o tratamento da epilepsia apareceu primeiro em Olhar Digital.",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/07/05/medicina-e-saude/quando-as-crises-nao-cedem-tres-novos-medicamentos-ampliam-o-tratamento-da-epilepsia/"
+          }
+        ],
+        "updatedAt": "2026-07-05T10:00:00.000Z"
       }
     ],
     "ciencia": [
+      {
+        "clusterId": "777d0715951c9973",
+        "slug": "c1c4d11556cd52b2",
+        "titulo": "Noronha debaixo d’água: fotos revelam navio naufragado como nunca antes",
+        "resumo": "Um casal de mergulhadores realizou um registro panorâmico inédito da Corveta V-17. Saiba detalhes do projeto.",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/ciencia/noronha-debaixo-dagua-fotos-revelam-navio-naufragado-como-nunca-antes/"
+          }
+        ],
+        "updatedAt": "2026-07-05T11:00:48.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/07/0507-Panoramicas-de-Noronha-layout_site-CAPA.jpg?quality=70&strip=info"
+      },
       {
         "clusterId": "22bea204bdb9949c",
         "slug": "b99bd2904238a073",
@@ -961,22 +995,6 @@
         ],
         "updatedAt": "2026-07-03T20:04:17.000Z",
         "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/07/20260702_capa-1024x538.jpg"
-      },
-      {
-        "clusterId": "ddb6eb104912a01f",
-        "slug": "d38b615f12e75fae",
-        "titulo": "USP busca voluntários para avaliar impactos da nova classificação internacional de doenças no Brasil",
-        "resumo": "A Universidade de São Paulo (USP) está recrutando voluntários, incluindo pacientes e cuidadores de pessoas com 18 anos ou mais, para estudar os efeitos da nova classificação internacional de doenças no país. O objetivo é analisar como a mudança afetará a prática clínica e a gestão de saúde. A participação será voluntária e os dados coletados servirão para orientar políticas públicas e pesquisas futuras.",
-        "porQueImporta": "A pesquisa ajudará a adaptar o sistema de saúde brasileiro à nova classificação, melhorando o diagnóstico e o tratamento.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/usp-precisa-de-voluntarios-para-avaliar-os-impactos-da-nova-classificacao-internacional-de-doencas-no-brasil/"
-          }
-        ],
-        "updatedAt": "2026-07-03T20:04:01.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2025/12/20251209_saude-1024x538.jpg"
       }
     ],
     "saude": [
@@ -998,7 +1016,7 @@
     ],
     "esportes": [
       {
-        "clusterId": "09c492946df6c077",
+        "clusterId": "a981b0aee5fb8c9c",
         "slug": "f8bf000a6b99e745",
         "titulo": "Brasil enfrenta Noruega nas oitavas de final da Copa do Mundo 2026",
         "resumo": "O duelo entre Brasil e Noruega acontece neste domingo, 5 de julho, às 17h (horário de Brasília), no Estádio de Nova Jersey, nos Estados Unidos. A partida decide quem avançará para as quartas de final, onde o vencedor enfrentará o vencedor do jogo México x Inglaterra. O Brasil já eliminou o Japão na fase de grupos, enquanto a Noruega venceu a Costa do Marfim. A transmissão será exibida pela TV Globo, Sportv e canais digitais.",
@@ -1006,147 +1024,131 @@
         "category": "esportes",
         "sources": [
           {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/noruega-a-selecao-que-o-brasil-nunca-venceu/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/esporte/quem-o-brasil-pode-enfrentar-se-eliminar-a-noruega-na-copa-do-mundo/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/05/brasil-x-noruega-veja-onde-assistir-ao-jogo-neste-domingo-5-em-manaus.ghtml"
+          },
+          {
             "name": "GE",
             "url": "https://ge.globo.com/blogs/painel-tatico/post/2026/07/05/raio-x-da-noruega-como-joga-o-proximo-adversario-do-brasil-na-copa-do-mundo.ghtml"
           },
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/esportes/que-horas-brasil-joga-hoje-veja-quais-jogos-da-copa/"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/copa-2026/copa-2026-saiba-quem-joga-neste-domingo-os-horarios-e-onde-ver/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-brasil-x-noruega-copa-do-mundo-05-07-26"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/07/05/brasil-x-noruega-qual-e-a-selecao-mais-valiosa-da-partida-deste-domingo-veja-o-top-10.ghtml"
-          },
-          {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/brasil-abre-domingo-decisivo-das-oitavas-veja-a-agenda-da-copa-do-mundo/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/mata-mata-da-copa-do-mundo-veja-quem-entra-em-campo-neste-domingo-5/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/brasil-tenta-quebrar-tabu-historico-contra-a-noruega-em-decisao-da-copa/"
           },
           {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/c4gy62dq6mjo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-07-05T10:00:14.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/JfVU1UU_OnOo0Veg9r5BHN2656s=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Z/I/C7iJ2uSfKcmBZgS7EWDw/imagem-1.png"
+        "updatedAt": "2026-07-05T12:22:13.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/GettyImages-640256321.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "806f7b11d53f3115",
-        "slug": "04e6e41666c828d8",
-        "titulo": "Colômbia e França avançam na Copa",
-        "resumo": "Na fase de grupos, a Colômbia venceu Gana por 2 a 0, com gol de Jhon Arias, e garante vaga nas oitavas de final contra a Suíça. A França derrotou o Paraguai por 1 a 0, com gol de Mbappé, e passa para as quartas de final, onde enfrentará o Marrocos.",
-        "porQueImporta": "Ambas as vitórias definem os próximos confrontos dos times na Copa do Mundo, impactando suas chances de avançar na competição.",
+        "clusterId": "b0bf2a46fb833af5",
+        "slug": "d8837b566e26336b",
+        "titulo": "Real Madrid confirma contratação de Denzel Dumfries",
+        "resumo": "O Real Madrid anunciou a contratação do lateral-direito holandês Denzel Dumfries, que vinha jogando na Inter de Milão. O vínculo terá duração de quatro temporadas, até junho de 2030. Dumfries foi revelado no Sparta Rotterdam e passou por Heerenveen e PSV antes de chegar à Inter. A contratação faz parte da estratégia de renovação do clube sob a presidência de Florentino Pérez.",
+        "porQueImporta": "A aquisição reforça a defesa do Real Madrid e demonstra a continuidade da política de reforços de qualidade do clube.",
         "category": "esportes",
         "sources": [
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/05/analise-franca-conhece-padrao-libertadores-sofre-mas-ganha-casca-para-reta-final-da-copa.ghtml"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/real-madrid-anuncia-contratacao-do-lateral-holandes-denzel-dumfries"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/04/franca-vence-paraguai-e-avanca-na-copa.ghtml"
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/07/05/real-madrid-anuncia-denzel-dumfries.ghtml"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/mbappe-dispara-apos-vitoria-contra-paraguai-sabemos-sujar-as-maos/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/paraguai-x-franca-confira-as-escalacoes-para-o-confronto-das-oitavas-de-final/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/franca-vence-paraguai-por-1-a-0-e-avanca-as-quartas-da-copa/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/real-madrid-anuncia-contratacao-de-dumfries-por-quatro-temporadas/"
           }
         ],
-        "updatedAt": "2026-07-05T05:00:11.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/zR0K4wkH-DXlIFw1GtSQLhfzDQM=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/3/U/8GRicDSxmklV3ygjmMUA/2026-07-04t231918z-510926271-up1em741sg65y-rtrmadp-3-soccer-worldcup-pry-fra.jpg"
+        "updatedAt": "2026-07-05T12:37:21.000Z",
+        "imageUrl": "https://images.metroimg.com/2021/06/18231757/Dumfries.jpg"
       },
       {
-        "clusterId": "a080035b40dbc348",
-        "slug": "b26af24b5d131c00",
-        "titulo": "Bruno Guimarães lidera assistências e distâncias na Copa do Mundo",
-        "resumo": "Bruno Guimarães registrou quatro assistências na Copa do Mundo, igualando recordes de Zico, Tostão e Ademir Menezes, e se aproxima da marca de cinco assistências de Zagallo em 1962. Ele também é o jogador que mais correu pela seleção, acumulando 44,5 km em quatro partidas, com média de 11 km por jogo. O desempenho destaca sua importância como distribuidor e motor ofensivo do Brasil.",
-        "porQueImporta": "O jogador demonstra excelência técnica e física, contribuindo decisivamente para o sucesso da seleção.",
+        "clusterId": "08e3ef2461b16c90",
+        "slug": "70f777beb6cef9a0",
+        "titulo": "Comentário de Haaland supera 2 milhões de curtidas com convite para Vini Jr refazer meme de 'As Branquelas'",
+        "resumo": "Haaland brinca com Vini Jr. sobre meme do filme 'As Branquelas' O comentário do atacante norueguês Erling Haaland convidando o brasileiro Vini Jr. para refazer o meme do filme \"As Branquelas\" passou de dois milhões de curtidas no Instagram. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Comentário de Haaland supera 2 milhões de curtidas com convite para Vini Jr refazer meme de 'As Branquelas' Reprodução/Instagram Na noite desta quinta-feira (2), Haaland divertiu os seguidores ao interagir com Vini Jr. na publicação. O post faz piada utilizando a icônica música \"A Thousand…",
+        "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/05/bruno-guimaraes-mira-marca-de-assistencias-de-zagallo-em-1962-e-busca-recorde-de-trio-no-brasil.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/quem-e-mais-decisivo-veja-os-numeros-de-vini-jr-e-haaland-pelas-selecoes/"
           },
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/bruno-guimaraes-revela-como-parar-haaland-em-brasil-x-noruega/"
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/05/cometa-haaland-veja-os-avassaladores-numeros-e-recordes-do-atacante-da-noruega.ghtml"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/04/pronto-para-correr-bruno-guimaraes-e-o-jogador-que-mais-correu-na-selecao-ate-agora.ghtml"
+            "url": "https://g1.globo.com/economia/noticia/2026/07/04/vini-jr-ou-haaland-qual-o-jogador-mais-valioso-da-partida-entre-brasil-e-noruega.ghtml"
           }
         ],
-        "updatedAt": "2026-07-05T09:00:14.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/MO2DEQzPY1b8mXtLFpn5VQcu2Zw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/S/n/hI8YAnTRaLUQc0vxpYKA/gettyimages-2282319583.jpg"
+        "updatedAt": "2026-07-05T11:00:53.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/LuadT93yk76BQy3ZwVLJ2pxIOPI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/8/6/UHLSVOQzuxBGzZC5kZkQ/gettyimages-2284061640.jpg"
       },
       {
-        "clusterId": "9297134a76709eaf",
+        "clusterId": "4221a2dc67c574f5",
         "slug": "6a680c98c1fa18ba",
-        "titulo": "Palpites e dicas para México x Inglaterra pela Copa do Mundo",
-        "resumo": "Inglaterra 2 x 1 RD do Congo | Melhores momentos | 2ª fase | Copa do Mundo México e Inglaterra se enfrentam às 21h, pelas oitavas de final da Copa do Mundo 2026. O Gato Mestre apresenta em parceria com o economista Bruno Imaizumi o potencial de cada resultado. + Brasil x times escandinavos em Copas: aproveitamento é de 100% em mata-mata + Brasil lidera em gols com pressão alta; veja o ranking + América do Sul sobe, Concacaf iguala recorde, e Ásia zera nas oitavas Palpite para México x Inglaterra Bruno Imaizumi/Gato Mestre Resultado mais provável: México 0 x 1 Inglaterra México 2 X 0 Equador |…",
+        "titulo": "México enfrenta Inglaterra nas oitavas de final da Copa 2026",
+        "resumo": "O duelo entre México e Inglaterra ocorrerá no Estádio Azteca, na Cidade do México, às 21h (horário de Brasília). A partida faz parte das oitavas de final, com o vencedor avançando para enfrentar o Brasil ou a Noruega nas quartas. A Inglaterra tem preocupação na zaga, com Reece James em dúvida, enquanto o México mantém um histórico dominante contra o adversário, com oito vitórias em 10 confrontos. O jogo é importante para a trajetória de ambos os times na competição.",
+        "porQueImporta": "Decisivo para definir quem avançará para as quartas de final e quem enfrentará o Brasil ou a Noruega.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/mexico-x-inglaterra-na-copa-onde-assistir-horario-e-escalacoes/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/inglaterra-tem-problema-na-zaga-para-jogo-contra-o-mexico-pela-copa/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/05/por-que-nao-mexico-se-une-com-mantra-musica-historica-e-azteca-lotado-para-buscar-recorde-na-copa.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-05T11:00:52.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/gettyimages-2277317114-594x594-1.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "321677c6a910811c",
+        "slug": "429de10f70e02f0e",
+        "titulo": "5 motivos do 'boom' econômico do Paraguai (e seus efeitos para o país)",
+        "resumo": "O Paraguai lidera o crescimento regional na América do Sul, atrás apenas da Guiana Getty Images Na Copa do Mundo da Fifa de Futebol Masculino de 2026, a seleção do Paraguai não está entre as favoritas da América Latina. Mas, em outro setor, o país vem marcando gols sem parar: a economia. Nos últimos três anos, o Paraguai cresceu, em média, 5,5% ao ano, muito acima da média dos seus vizinhos e da América do Sul como um todo. Números do Banco Mundial indicam que cerca de 300 mil paraguaios saíram da pobreza nos últimos dois anos. E 2025 registrou o índice de desemprego mais baixo dos últimos 13…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/05/por-que-nao-mexico-se-une-com-mantra-musica-historica-e-azteca-lotado-para-buscar-recorde-na-copa.ghtml"
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/05/tecnico-do-paraguai-pede-um-tempo-para-decidir-o-futuro-preciso-respirar.ghtml"
           },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-mexico-x-inglaterra-copa-do-mundo-05-07-26"
-          },
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/07/05/internet-e-redes-sociais/mexico-x-inglaterra-onde-assistir-horario-e-escalacao-das-oitavas-de-final-da-copa-do-mundo/"
-          }
-        ],
-        "updatedAt": "2026-07-05T09:00:13.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/Gx_J3z5kkkd6cU4-i-remwqd98o=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/h/9/Z48iHgRgyEfLiraJVK8Q/2026-07-01t060148z-446534615-rc2s4mafj2ua-rtrmadp-3-soccer-worldcup-mex-ecu-fans-mexico-city.jpg"
-      },
-      {
-        "clusterId": "bb991a3a7bb5612f",
-        "slug": "ac34fcba14a7d398",
-        "titulo": "Marrocos vence Canadá e avança para quartas de final",
-        "resumo": "Marrocos derrotou o Canadá por 3 a 0 na fase de grupos da Copa do Mundo, garantindo vaga nas quartas de final. O time marcou duas vezes no segundo tempo com Ounahi e uma com Rahimi, mostrando força no contra-ataque. O resultado foi decisivo para a trajetória do Marrocos, que já chegou às semifinais em 2022.",
-        "porQueImporta": "A vitória marca a primeira seleção africana a chegar às quartas de final em um Mundial.",
-        "category": "esportes",
-        "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/04/marrocos-vence-canada-e-vai-para-quartas-de-final.ghtml"
+            "url": "https://g1.globo.com/economia/noticia/2026/07/04/5-motivos-do-boom-economico-do-paraguai-e-seus-efeitos-para-o-pais.ghtml"
           },
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/jogo/04-07-2026/canada-marrocos.ghtml"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/marrocos-faz-tres-no-canada-elimina-primeira-anfitria-e-vai-as-quartas-de-final/"
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cdxd2pg01d3o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-07-05T01:20:47.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/U5b5jtWGFwDJQj684xPTixOihfI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/8/8l19JpQwKDIIGKj7MUag/captura-de-tela-2026-07-04-214934.png"
+        "updatedAt": "2026-07-05T07:00:09.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/Xfb1xVokXBJX80vKbRecmdhzLX8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/H/q/RhiWk2QMabctm5MkbzbQ/2026-06-29t203230z-555761727-up1em6t1l250q-rtrmadp-3-soccer-worldcup-ger-pry.jpg"
       },
       {
-        "clusterId": "8fdf66a2ed444f7e",
+        "clusterId": "d1a07ffd8aaf55d7",
         "slug": "4e6fd525bb77bda9",
         "titulo": "GP da Grã-Bretanha de F1 2026: horários e onde assistir ao vivo",
         "resumo": "Antonelli conquista a pole position seguido de Leclerc e Hamilton no GP da Grã-Bretanha Depois da classificação de sábado, Kimi Antonelli conseguiu cravar a pole position e vai largar em primeiro no GP da Grã-Bretanha de Fórmula 1 deste domingo (5), com o brasileiro Gabriel Bortoleto, da Audi, em 11º. A tradicional corrida chega à edição de número 77 e será a nona etapa do Mundial deste ano, mais uma vez no circuito de Silverstone. Acesse o canal de automobilismo do ge no WhatsApp 🔍 Adicione o ge nas suas fontes favoritas do Google O GP da Grã-Bretanha será no domingo, a partir das 11h, com…",
@@ -1154,71 +1156,67 @@
         "category": "esportes",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/jogos-de-hoje-domingo-5-de-julho-onde-assistir-futebol-ao-vivo-e-horarios/"
+            "name": "GE",
+            "url": "https://ge.globo.com/motor/formula-1/ao-vivo/gp-da-gra-bretanha-a-9-etapa-da-f1-em-2026.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/esporte/f1-2026-veja-horario-e-onde-assistir-ao-gp-da-gra-bretanha/"
+          }
+        ],
+        "updatedAt": "2026-07-05T13:31:19.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/8jDZEiQ-yu8fRuntVUh94U8z0Pg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/w/M/kAHGjJSkAJLMhFhE8D7w/2026-07-05t131517z-1345784760-up1em7510tfea-rtrmadp-3-motor-f1-britain.jpg"
+      },
+      {
+        "clusterId": "23b292dde397c571",
+        "slug": "9e549b0ebadf1bb7",
+        "titulo": "Torcedores mexicanos levam banda e fazem foguetório em frente ao hotel da Inglaterra; veja",
+        "resumo": "Torcedores mexicanos levam banda e fazem foguetório em frente ao hotel da Inglaterra Dezenas de torcedores do México se reuniram em frente ao hotel onde a Inglaterra está hospedada, em Santa Fé, na Cidade do México, na madrugada deste domingo (5), e fizeram muito barulho na véspera do confronto entre as seleções pelas oitavas de final da Copa do Mundo. Eles soltaram fogos de artifício, tocaram instrumentos musicais e buzinas para tentar atrapalhar o sono dos adversários. + Tuchel comenta possibilidade de foguetório perto do hotel da Inglaterra: \"Esperamos dormir bem\" 🔍 Adicione o ge nas suas…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/mexicanos-levam-fogos-e-musica-alta-ao-hotel-da-selecao-inglesa"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/motor/formula-1/noticia/2026/07/05/gp-da-gra-bretanha-de-f1-2026-horarios-e-onde-assistir-ao-vivo.ghtml"
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/05/torcedores-mexicanos-fazem-foguetorio-em-frente-ao-hotel-da-inglaterra-veja-video.ghtml"
           }
         ],
-        "updatedAt": "2026-07-05T09:00:42.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/GettyImages-2283454698.jpg?quality=70&strip=info"
+        "updatedAt": "2026-07-05T12:17:54.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/07/mexicanos-hotel-inglaterra.jpg"
       },
       {
-        "clusterId": "395b4f2db9ff24e5",
-        "slug": "d9dd7da796947881",
-        "titulo": "Colômbia vence Gana e avança para as oitavas de final da Copa do Mundo",
-        "resumo": "A seleção colombiana venceu Gana por 1 a 0, com gol de Jhon Arias, e se classificou para a próxima fase, onde enfrentará a Suíça. O jogo ocorreu no estádio do Kansas, onde a torcida colombiana predominou com gritos de apoio e a presença de 1,4 milhão de imigrantes colombianos nos Estados Unidos. A vitória foi decisiva nos últimos minutos, mantendo a equipe na competição.",
-        "porQueImporta": "A conquista garante à Colômbia a continuidade na Copa e destaca a influência da comunidade colombiana nos EUA.",
+        "clusterId": "08e18c0abeef5fed",
+        "slug": "74cb7aa32bb23aa9",
+        "titulo": "França e Marrocos entram em campo neste sábado pela Copa do Mundo; veja horários e onde assistir",
+        "resumo": "França entre em campo neste sábado pelas oitavas de final da Copa do Mundo. MAGN IMAGES via Reuters/Vincent Carchietta Após alguns jogos drmáticos e partidas decidias no detalhe, começa neste sábado (4) as oitvas de final da Copa do Mundo de 2026. Para abrir a nova fase, teremos Canadá x Marrocos e Paraguai x França. (Confira mais informações abaixo) 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Acompanhe a Copa do Mundo 2026 no ge: Simulador da Copa do Mundo 2026 Calendário da Copa do Mundo 2026: veja datas e horários de todos os jogos RESULTADOS: confira a tabela da…",
+        "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/05/estadio-amarelo-como-forca-da-imigracao-faz-a-colombia-se-sentir-em-casa-na-copa-do-mundo.ghtml"
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/05/tecnico-da-franca-elogia-otima-equipe-de-marrocos-nao-se-chega-as-quartas-so-por-sorte.ghtml"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/04/colombia-vence-gana-e-avanca-para-a-proxima-fase-na-copa.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/07/04/chaveamento-da-copa-do-mundo-veja-os-confrontos-ja-definidos-nas-quartas-de-final.ghtml"
           }
         ],
-        "updatedAt": "2026-07-05T07:01:03.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/8HKgcsacdLBnJzsXHSk6YF-xZuw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/2/0/biSl41TnaepUgifsrIgQ/2026-07-04t034356z-1444966234-up1em740ad6du-rtrmadp-3-soccer-worldcup-col-gha.jpg"
-      },
-      {
-        "clusterId": "0d4ab71f050f361c",
-        "slug": "d22b0a8921f29c38",
-        "titulo": "Náutico enfrenta Juventude na 16ª rodada da Série B",
-        "resumo": "O Náutico e o Juventude se enfrentarão neste domingo, às 20h30, no Estádio Esportes da Sorte Aflitos, pela 16ª rodada do Campeonato Brasileiro da Série B. A partida será transmitida pelo Premiere e também acompanhada em tempo real pelo GE. O Náutico, sem vencer há cinco rodadas, busca evitar a zona de rebaixamento e se aproximar do G-6, enquanto o Juventude tenta consolidar sua posição no campeonato.",
-        "porQueImporta": "A partida pode influenciar a posição de ambos os times na tabela, impactando suas chances de evitar o rebaixamento ou alcançar a zona de classificação.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/nautico-x-juventude-horario-e-onde-assistir-ao-brasileirao-serie-b/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/pe/futebol/brasileirao-serie-b/noticia/2026/07/05/nautico-x-juventude-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-05T07:00:18.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/SfjtFIV7Fyb69oEqaa4crmGTV-s=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/x/B/IAyMyjTLS6IvBAX3qAaQ/agif26031919371292.jpg"
+        "updatedAt": "2026-07-05T12:00:08.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/QoI-b1YMoI1bwLghjRNAcasoZH4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/m/a/Avg4CbTRuELmGEcvnkFg/2026-07-04t231923z-543883689-up1em741ss97a-rtrmadp-3-soccer-worldcup-pry-fra.jpg"
       }
     ],
     "entretenimento": [
       {
-        "clusterId": "59ed24c79abc9993",
-        "slug": "8a84acbddf6e3fa0",
-        "titulo": "Taylor Swift e Travis Kelce casam em cerimônia no Madison Square Garden",
-        "resumo": "A cerimônia de casamento entre a cantora Taylor Swift e o jogador de futebol americano Travis Kelce ocorreu em um jardim intimista dentro do Madison Square Garden, em Nova York, no dia 3 de julho de 2024. O casal usou trajes de Dior, escreveu votos próprios e contou com a presença de celebridades, incluindo Adam Sandler como celebrante e Stevie Nicks como cantora. A entrada foi protegida por segurança reforçada e tendas pretas, e a cerimônia começou às 18h, horário de Brasília.",
-        "porQueImporta": "O evento reúne duas figuras de alto perfil internacional, refletindo a interseção entre música pop e esportes de grande visibilidade.",
+        "clusterId": "5c8507c3dfbbf825",
+        "slug": "5247e1026050b4f5",
+        "titulo": "Jardim intimista, smoking branco, celular proibido: os detalhes do casamento de Taylor Swift e Travis Kelce, segundo convidados",
+        "resumo": "Travis Kelce, do Kansas City Chiefs, comemora com Taylor Swift em janeiro de 2024 Patrick Smith / AFP O noivo usou um smoking branco, o casal escreveu seus próprios votos e Stevie Nicks cantou, segundo convidados do casamento desta sexta-feira (3) entre a superestrela da música Taylor Swift e o jogador de futebol americano Travis Kelce. A cerimônia ocorreu em um jardim intimista construído especialmente para a ocasião dentro da arena Madison Square Garden, em Nova York. O local normalmente recebe jogos de basquete e hóquei, além de shows e outros eventos. 📱Favorite o g1 no Google e acompanhe…",
+        "porQueImporta": "",
         "category": "entretenimento",
         "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/celebridades/do-cardapio-aos-votos-convida-vaza-detalhes-do-casamento-de-taylor-swift/"
-          },
           {
             "name": "G1",
             "url": "https://g1.globo.com/pop-arte/noticia/2026/07/04/os-detalhes-do-casamento-de-taylor-swift-e-travis-kelce-segundo-convidados.ghtml"
@@ -1228,7 +1226,7 @@
             "url": "https://www.bbc.com/portuguese/articles/cly7pqlv5e2o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-07-04T23:02:26.000Z",
+        "updatedAt": "2026-07-04T20:50:40.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/gJMWtXZCxTZlV6bz40-U6frj3Xo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/k/DMoZikTPeWXayNPJMHNw/000-72j32g3-3-.jpg"
       },
       {
