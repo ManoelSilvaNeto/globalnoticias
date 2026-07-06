@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-07-05T13:40:58.904Z",
-  "editionDate": "2026-07-05",
-  "hourUtc": 13,
-  "outcome": "generated",
-  "reason": "\"Ideologias, esportes e clima marcam a edição enquanto mudanças estratégicas surgem no cenário internacional\" (3 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok"
-  ]
+  "ranAt": "2026-07-06T03:37:38.384Z",
+  "editionDate": "2026-07-06",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "attempts": []
 }
