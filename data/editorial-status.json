@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-07-06T15:35:01.791Z",
-  "editionDate": "2026-07-06",
-  "hourUtc": 15,
-  "outcome": "generated",
-  "reason": "\"Política e economia em foco enquanto esportes globais geram controvérsias\" (3 parágrafos)",
-  "attempts": [
-    "erro — Error: groq 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-20b` in organization `org_01kscvvnpvfp",
-    "ok"
-  ]
+  "ranAt": "2026-07-07T03:28:44.703Z",
+  "editionDate": "2026-07-07",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "attempts": []
 }
