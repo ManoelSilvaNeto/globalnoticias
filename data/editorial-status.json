@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-07-07T14:35:59.695Z",
-  "editionDate": "2026-07-07",
-  "hourUtc": 14,
-  "outcome": "generated",
-  "reason": "\"Política e esportes dominam a edição enquanto tensão internacional se intensifica\" (3 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok (entidades fora do material toleradas: kylian)"
-  ]
+  "ranAt": "2026-07-08T06:28:36.468Z",
+  "editionDate": "2026-07-08",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "attempts": []
 }
