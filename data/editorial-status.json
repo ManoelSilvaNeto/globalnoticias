@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-07-10T14:28:01.155Z",
-  "editionDate": "2026-07-10",
-  "hourUtc": 14,
-  "outcome": "generated",
-  "reason": "\"Europa e mercados globais em foco: esportes, energia e tecnologia marcam a edição\" (4 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok"
-  ]
+  "ranAt": "2026-07-11T06:13:25.707Z",
+  "editionDate": "2026-07-11",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "attempts": []
 }
