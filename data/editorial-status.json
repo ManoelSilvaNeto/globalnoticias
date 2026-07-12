@@ -1,8 +1,11 @@
 {
-  "ranAt": "2026-07-12T09:51:12.115Z",
+  "ranAt": "2026-07-12T13:20:52.324Z",
   "editionDate": "2026-07-12",
-  "hourUtc": 9,
-  "outcome": "skipped",
-  "reason": "fora da janela (9h < 11h UTC)",
-  "attempts": []
+  "hourUtc": 13,
+  "outcome": "generated",
+  "reason": "\"Tensões políticas e militares se entrelaçam enquanto o esporte marca a agenda global\" (4 parágrafos)",
+  "attempts": [
+    "erro — sem cota (429)",
+    "ok (entidades fora do material toleradas: oriente, medio)"
+  ]
 }
