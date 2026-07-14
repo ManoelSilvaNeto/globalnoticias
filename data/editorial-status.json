@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-07-13T11:11:57.263Z",
-  "editionDate": "2026-07-13",
-  "hourUtc": 11,
-  "outcome": "generated",
-  "reason": "\"Corrida presidencial, tensões globais e inovações tecnológicas marcam a edição\" (3 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok (entidades fora do material toleradas: estados, unidos)"
-  ]
+  "ranAt": "2026-07-14T06:11:27.851Z",
+  "editionDate": "2026-07-14",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "attempts": []
 }
