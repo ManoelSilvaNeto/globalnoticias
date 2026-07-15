@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-07-14T13:45:11.408Z",
-  "editionDate": "2026-07-14",
-  "hourUtc": 13,
-  "outcome": "generated",
-  "reason": "\"Brasil equilibra energia, finanças e política enquanto o mundo acompanha tensões e esportes\" (4 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok"
-  ]
+  "ranAt": "2026-07-15T06:15:15.121Z",
+  "editionDate": "2026-07-15",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "attempts": []
 }
