@@ -1,101 +1,137 @@
 {
   "date": "2026-07-15",
-  "generatedAt": "2026-07-15T13:44:49.876Z",
+  "generatedAt": "2026-07-15T17:18:20.636Z",
   "home": [
     {
-      "clusterId": "2f8ded03dc402807",
-      "slug": "4318b16e06f42aef",
-      "titulo": "Pesquisa Quaest mostra Lula à frente de Flávio Bolsonaro no segundo turno",
-      "resumo": "A pesquisa Quaest, realizada entre 10 e 13 de julho com 2.004 eleitores, indica que Lula tem 45% das intenções de voto contra 37% de Flávio Bolsonaro em uma simulação de segundo turno. O levantamento também mostra que 42% dos entrevistados concordam mais com Michelle Bolsonaro após o vídeo de conflito com o senador, enquanto apenas 18% concordam com Flávio. Em relação à rejeição, 57% dos participantes rejeitam a candidatura de Flávio, em comparação com 50% que rejeitam Lula. A margem de erro da pesquisa é de dois pontos percentuais.",
-      "porQueImporta": "Os resultados refletem a fragilidade da candidatura de Flávio Bolsonaro e a vantagem de Lula nas intenções de voto, influenciando a percepção pública e estratégias eleitorais.",
+      "clusterId": "554d5612815ef5c8",
+      "slug": "463dc03b023a6fa8",
+      "titulo": "Argentina enfrenta Inglaterra na semifinal da Copa do Mundo 2026",
+      "resumo": "A partida, marcada para as 16h (horário de Brasília), decidirá quem avançará para a final contra a Espanha. A seleção argentina, que já venceu a competição em 1978, 1986 e 2022, busca seu quarto título, enquanto a Inglaterra, que não chegou à final há 60 anos, tenta quebrar o jejum. O confronto carrega uma história de rivalidade que inclui a Guerra das Malvinas e episódios de tensão entre torcidas.",
+      "porQueImporta": "O resultado determinará o adversário da Espanha na final e pode alterar a trajetória histórica das duas seleções.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/live/cg7m999rjnkt?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/esporte/por-que-para-a-argentina-uma-semifinal-de-copa-contra-a-inglaterra-nao-e-so-sobre-futebol/"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/esportes/policia-de-atlanta-esta-alerta-para-semifinal-da-copa-entre-argentina-e-inglaterra/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/copa-do-mundo/jogo/15-07-2026/inglaterra-argentina.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/argentina-pode-ter-quatro-mudancas-para-semifinal-contra-inglaterra"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argentina-fez-questao-de-jogar-de-azul-contra-a-inglaterra-na-copa-entenda/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/esporte/vice-presidente-da-argentina-chama-ingleses-de-piratas-usurpadores-antes-da-semifinal/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/07/15/forca-mental-e-bola-parada-as-armas-da-argentina-para-a-semifinal-contra-a-inglaterra.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/esporte/inglaterra-x-argentina-wonderwall-e-la-cuarta-estrella-tambem-duelam-nas-arquibancadas/"
+        }
+      ],
+      "updatedAt": "2026-07-15T17:18:22.459Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56d5/live/8bbfb370-8063-11f1-926f-c90d1bcfbc84.jpg"
+    },
+    {
+      "clusterId": "fc673a7b515b62af",
+      "slug": "4e03a4810f34700b",
+      "titulo": "Polícia cumpre mandado na casa de Nelson Wilians, no Jardins, em operação",
+      "resumo": "Advogado é alvo da Operação Distrato, que investiga um suposto esquema de comercialização fraudulenta de créditos de ICMS; agentes do MP-SP e da Polícia Civil permanecem no local",
+      "porQueImporta": "",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/a-reacao-de-nelson-wilians-a-operacao-que-fez-buscas-em-sua-casa-e-escritorios/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-justica/quem-e-nelson-wilians-advogado-investigado-por-fraude-em-icms/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/sociedade/nelson-wilians-entre-o-luxo-e-as-operacoes-policiais/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/policia-cumpre-mandado-na-casa-de-nelson-wilians-no-jardins-em-operacao/"
+        }
+      ],
+      "updatedAt": "2026-07-15T16:47:10.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/10/54795337427_19ef064643_k.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "0b557e3da5896cb4",
+      "slug": "d1786a848a7da9d2",
+      "titulo": "Governo e Câmara fecham acordo para renegociar dívidas rurais via MP",
+      "resumo": "O governo e a Câmara aprovaram uma medida provisória que permite a renegociação de dívidas de produtores rurais com prazo de até dez anos e juros entre 5% e 12%. A proposta inclui carência, inclusão de CPRs, cooperativas e um fundo garantidor de até R$ 2 bilhões. A medida visa aliviar o endividamento de agricultores afetados por eventos climáticos extremos e dificuldades econômicas.",
+      "porQueImporta": "Facilita a recuperação financeira de produtores rurais, contribuindo para a estabilidade do setor agropecuário.",
       "category": "politica",
       "sources": [
         {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/cartaexpressa/leia-a-integra-da-nova-pesquisa-quaest-sobre-a-eleicao-presidencial/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/duelo-de-rejeicoes-a-ma-noticia-para-flavio-bolsonaro-na-nova-pesquisa-genial-quaest/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/15/flavio-bolsonaro-precisa-recuperar-espaco-na-direita-nao-bolsonarista-e-entre-independentes-avaliam-aliados-apos-pesquisa-quaest.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/quaest-42-concordam-mais-com-michelle-e-18-com-flavio-apos-atrito/"
+          "url": "https://www.cartacapital.com.br/politica/governo-lula-e-camara-fecham-acordo-para-renegociar-dividas-rurais-via-mp/"
         },
         {
           "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-eleicoes-2026/michelle-tem-apoio-de-42-em-disputa-com-flavio-bolsonaro-diz-quaest/"
-        }
-      ],
-      "updatedAt": "2026-07-15T13:44:36.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/LF-1.jpg"
-    },
-    {
-      "clusterId": "e58dd2de35c3b5b7",
-      "slug": "4772d13118340ae8",
-      "titulo": "Barra brava x hooligans: arquibancadas pulsantes movimentam Argentina x Inglaterra",
-      "resumo": "Rodrigo Coutinho analisa Inglaterra e Argentina, que se enfrentam pela semifinal da Copa Atlanta, nesta quarta-feira, receberá uma semifinal de Copa do Mundo com dois grupos de torcedores que tremem estádios. De um lado, a cultura de \"barras bravas\" impacta o lado da Argentina com canções e trapos (faixas ou panos). Do outro, o \"hooliganismo\", mesmo que com menor relevância, ainda está inserido em parte da cultura de estádios da Inglaterra. As seleções duelam às 16h (de Brasília) por uma vaga na final com muito apoio da arquibancada. + Argentina x Inglaterra 40 anos depois: Malvinas, Maradona…",
-      "porQueImporta": "",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/com-messi-confira-provaveis-escalacoes-para-inglaterra-x-argentina"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/15/barra-brava-x-hooligans-arquibancadas-pulsantes-movimentam-argentina-x-inglaterra.ghtml"
+          "url": "https://www.poder360.com.br/poder-agro/governo-renegociara-dividas-rurais-com-prazo-de-ate-10-anos/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/hora1/noticia/2026/07/15/semifinal-da-copa-do-mundo-inglaterra-e-a-selecao-que-esta-ha-mais-tempo-sem-disputar-uma-final.ghtml"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/c39y9e8738do?at_medium=RSS&at_campaign=rss"
+          "url": "https://g1.globo.com/economia/noticia/2026/07/15/fazenda-e-camara-anunciam-acordo-sobre-projeto-de-renegociacao-de-dividas-rurais.ghtml"
         },
         {
           "name": "Exame",
-          "url": "https://exame.com/esporte/quantas-copas-do-mundo-a-inglaterra-ganhou-veja-o-historico-da-selecao/"
+          "url": "https://exame.com/brasil/em-acordo-com-o-agronegocio-governo-anuncia-mp-de-repactuacao-de-dividas-do-setor/"
         }
       ],
-      "updatedAt": "2026-07-15T13:18:02.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/07/messi-argentina-copa-do-mundo.jpg"
+      "updatedAt": "2026-07-15T16:12:57.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/07/dario-durigan-e-hugo-motta-foto-reproducao-tv-camara.png"
     },
     {
-      "clusterId": "02d37628732d0063",
-      "slug": "f53799881d72d0ce",
-      "titulo": "Argentina não pode exibir bandeiras das Malvinas em jogo contra Inglaterra",
-      "resumo": "A segurança da Argentina proibiu que jogadores e torcedores levem faixas reivindicando a soberania das Ilhas Malvinas para o estádio de Atlanta, onde ocorrerá a semifinal da Copa do Mundo. A medida visa evitar conflitos em um confronto histórico entre os dois países. O jogo, marcado para quarta-feira, 15, já desperta atenção pela rivalidade que remonta à guerra de 1982.",
-      "porQueImporta": "A proibição reflete a sensibilidade política entre Argentina e Inglaterra, podendo influenciar o clima do evento esportivo.",
-      "category": "esportes",
+      "clusterId": "4450ad59ab49c041",
+      "slug": "6308cee56cfd8818",
+      "titulo": "Fraternidade São Pio X recorre da excomunhão do Vaticano",
+      "resumo": "A Fraternidade São Pio X, grupo católico ultraconservador, apresentou recurso contra a decisão de excomunhão da Santa Sé. O Vaticano declarou a organização em cisma em 2 de julho após a ordenação de quatro bispos sem autorização papal. A excomunhão incluiu a invalidação dos sacramentos celebrados pelos bispos vinculados à SSPX.",
+      "porQueImporta": "A medida reflete tensões internas na Igreja Católica sobre práticas e hierarquia.",
+      "category": "geral",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/07/15/rivalidade-entre-inglaterra-e-argentina-extrapola-futebol-entenda-a-guerra-das-malvinas.ghtml"
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/grupo-ultraconservador-volta-a-afrontar-papa-e-apresenta-recurso-contra-decisao-do-vaticano/"
         },
         {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/esporte/argentina-x-inglaterra-mais-do-que-futebol-um-confronto-de-simbologia-historica-e-geopolitica/"
+          "url": "https://www.cartacapital.com.br/mundo/fraternidade-sao-pio-x-apresenta-recurso-ao-vaticano-contra-a-excomunhao-de-bispos/"
         },
         {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/15/por-que-guerra-das-malvinas-invade-inglaterra-x-argentina-apesar-do-enfatico-apelo-de-scaloni.ghtml"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cgmd3l308k3o?at_medium=RSS&at_campaign=rss"
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/14/grupo-ultraconservador-excomungado-pelo-vaticano-recorre-da-decisao.ghtml"
         }
       ],
-      "updatedAt": "2026-07-15T13:15:02.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/3gKNTSrEp4ZM3FBuDcgyut3-Ku0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/5/6yWR3ZRbeANJMEzoNZkQ/14780748-360p-300k-h264-2ch-128k-44100-aac-1784120681-frame-at-1m13s.jpg"
+      "updatedAt": "2026-07-15T16:55:30.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/1782984390.jpg?quality=70&strip=info"
     },
     {
-      "clusterId": "6e61e088cc87e899",
+      "clusterId": "e831aecd301e9be7",
       "slug": "3db9c8d77e9c1983",
       "titulo": "Ministro Dino exige esclarecimentos de presidentes de partidos sobre destinação de emendas parlamentares",
       "resumo": "O ministro Flávio Dino, do STF, intimou os presidentes de 21 partidos com representação no Congresso a fornecer informações sobre a definição de uso das verbas de emendas parlamentares, concedendo um prazo de 10 dias. Ele ressaltou que os dados solicitados podem contribuir para o aperfeiçoamento dos mecanismos de transparência dos recursos. Em decisão paralela, Dino pediu às comissões de Saúde da Câmara e do Senado que expliquem, em até 30 dias, as medidas adotadas para garantir a transparência na execução das emendas. A medida visa combater a prática de \"emendas de terceiros\", em que ex-parlamentares influenciam a destinação de recursos.",
@@ -103,202 +139,186 @@
       "category": "politica",
       "sources": [
         {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-justica/dino-intima-presidentes-de-partidos-sobre-destinacao-de-emendas/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/dino-cobra-de-presidentes-de-partidos-informacoes-sobre-indicacoes-de-emendas/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/07/15/dino-da-10-dias-para-presidentes-de-partidos-no-congresso-prestarem-esclarecimentos-sobre-emendas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-15T13:44:44.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/02/54992586924_2c3bac18aa_o.jpeg.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "7130818f4b41e36c",
-      "slug": "db2aabc2fc6ea8f7",
-      "titulo": "Pesquisa Quaest mostra maioria dos brasileiros acha que investigação contra Jaques Wagner prejudica campanha de Lula",
-      "resumo": "A pesquisa da Quaest, realizada entre 10 e 13 de julho com 2.004 entrevistados, indica que 62% dos respondentes acreditam que a investigação envolvendo Jaques Wagner e o Banco Master tem impacto negativo na campanha de Lula. Dentre eles, 37% consideram o impacto muito negativo e 25% negativo, ainda que pequeno. Apenas 22% acreditam que não há dano à candidatura. A margem de erro da pesquisa é de 2 pontos percentuais.",
-      "porQueImporta": "O resultado reflete a percepção pública sobre como investigações de alto nível podem influenciar a eleição presidencial.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/quaest-37-acham-que-investigacao-contra-wagner-impacta-negativamente-lula/"
-        },
-        {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-51-acham-que-lula-nao-merece-novo-mandato-45-que-sim/"
+          "url": "https://www.cnnbrasil.com.br/politica/dino-cita-declaracao-de-valdemar-ao-intimar-presidente-de-partidos/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/07/15/quaest-julho-jaques-wagner.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-15T13:40:43.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/jaques-e-Lula.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "6abf0b7ea6a58675",
-      "slug": "88e0d78b4a9e0306",
-      "titulo": "Surto de Ebola na República Democrática do Congo ultrapassa 2 mil casos",
-      "resumo": "A República Democrática do Congo registrou mais de 2.000 casos de Ebola, com 754 mortes, segundo autoridades de saúde. O surto, da cepa Bundibugyo, está se espalhando rapidamente e atingindo novas áreas. Médicos Sem Fronteiras alertou para a velocidade de propagação e pediu reforço na resposta médica. O vírus também chegou a Uganda.",
-      "porQueImporta": "O aumento rápido do número de casos indica risco de expansão regional e necessidade de intervenção internacional.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/saude/noticia/2026/07/15/ebola-avanca-sem-precedentes-na-rdc-e-ja-soma-mais-de-2-mil-casos-oms-alerta-para-transmissao-desconhecida.ghtml"
+          "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/07/15/apos-fala-de-valdemar-dino-manda-presidentes-de-partidos-explicarem-se-possuem-cotas-de-emendas.ghtml"
         },
         {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/ebola-se-alastra-pela-republica-democratica-do-congo/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/ebola-na-africa-surto-no-congo-chega-a-2-mil-casos-e-754-mortes/"
+          "url": "https://www.cartacapital.com.br/politica/apos-declaracao-de-valdemar-dino-manda-presidentes-de-partidos-explicarem-controle-de-emendas/"
         }
       ],
-      "updatedAt": "2026-07-15T13:31:54.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/d9cuKqf_Lzrx36eYz8yVAZdP-rA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/Y/KlOUGASH6lpTJUYzPRIg/afp-20260714-c24f83q-v1-highres-drchealthebola.jpg"
+      "updatedAt": "2026-07-15T15:11:40.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/1CfhP8npq2L-71_mc2LuhL0TcDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/8/Z80B8SQqmM71bwEXiUig/videoframe-2218.png"
     },
     {
-      "clusterId": "50bfbf8b56aca6f4",
-      "slug": "fd260dc1eadd3cd6",
-      "titulo": "Harry Styles realiza turnê Together Together em São Paulo",
-      "resumo": "Harry Styles apresentará quatro shows em São Paulo nos dias 17, 18 e 24 de julho, como parte da turnê Together Together, que segue o álbum Kiss All The Time. A expectativa inclui um setlist que mistura músicas do disco e clássicos de disco, com possíveis variações entre os shows. A artista também planeja looks boho para os concertos no Brasil.",
-      "porQueImporta": "O evento atrai atenção por ser a primeira visita de Styles ao Brasil na temporada, destacando sua influência na cena musical internacional.",
-      "category": "economia",
+      "clusterId": "52323d46143f1a42",
+      "slug": "7f7e69f339bf6073",
+      "titulo": "Irã parabeniza Espanha por vaga na final da Copa",
+      "resumo": "O governo iraniano enviou parabéns à seleção espanhola por alcançar a final da Copa do Mundo. A mensagem destacou que os jogadores espanhóis comeram kebabs preparados por um chef iraniano, sugerindo que estavam \"do lado certo da história\". A Espanha, que já venceu o torneio em 2010, agora busca um segundo título. O comentário faz referência ao histórico de sucesso da equipe e à influência cultural percebida.",
+      "porQueImporta": "Mostra como a diplomacia esportiva pode ser usada para fortalecer laços internacionais.",
+      "category": "mundo",
       "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/cultura/o-que-harry-styles-toca-na-turne-together-together-confira-provavel-setlist/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/lifestyle/do-disco-ao-boho-ideias-de-looks-para-shows-de-harry-styles-no-brasil/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/pop/harry-styles-no-brasil-confira-possivel-setlist-dos-shows-nesta-semana/"
-        }
-      ],
-      "updatedAt": "2026-07-15T13:25:58.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/09/GettyImages-2170907567.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "a19baacf2b1f99ce",
-      "slug": "d60c1a15e02935a2",
-      "titulo": "Anima compra FMU por até R$ 410 milhões",
-      "resumo": "A Anima Educação firmou acordo para adquirir a FMU, instituição em recuperação judicial, por até R$ 410 milhões, valor que pode chegar a esse montante. A compra será realizada pela subsidiária Rede Educacional do Brasil, que já controla a FMU. A operação aumenta a base de alunos da Anima para 391 mil e amplia sua presença em São Paulo.",
-      "porQueImporta": "A aquisição pode alterar o cenário competitivo do setor de educação superior no Brasil.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/anima-anim3-desaba-30-apos-compra-da-fmu-por-que-negocio-desagradou-tanto/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/invest/mercados/anima-compra-fmu-por-r-410-milhoes-btg-ve-aquisicao-cara-e-rebaixa-acao/"
-        },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/economia/negocios/noticia/2026/07/14/anima-educacao-assina-contrato-para-comprar-a-fmu.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/15/ira-parabeniza-selecao-espanha-final-copa-do-mundo-estao-do-lado-certo-da-historia.ghtml"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/15/veja-quantos-anos-tinham-os-jogadores-da-atual-selecao-da-espanha-no-titulo-mundial-de-2010.ghtml"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/clywmyjp38jo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-07-15T13:23:33.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/03/img-anima-educacao.jpg?fit=300%2C220&amp;quality=70&amp;strip=all"
+      "updatedAt": "2026-07-15T13:07:50.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/lTZEkl7YpAnXayfT4qO1bF1vYCo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/x/8g1X7sSWGVkP7lBfnBWA/design-sem-nome-31-.jpg"
     },
     {
-      "clusterId": "e9d0b8c4ea5357f3",
-      "slug": "b4af3ac0d8fa219a",
-      "titulo": "Polícia Federal investiga esquema de lavagem e fraudes em crédito consignado",
-      "resumo": "A Operação Fugazi, conduzida pela Polícia Federal, investigou um esquema que lavou mais de R$ 100 milhões para facções criminosas e envolveu fraudes em crédito consignado contra servidores públicos, aposentados e pensionistas. Foram cumpridos 13 mandados de busca e apreensão em São Paulo e no Rio Grande do Sul, e a investigação aponta possível ligação com a Al‑Qáida. A operação, denominada Hawala, ainda não divulgou nomes das empresas ou investigados.",
-      "porQueImporta": "Revela a extensão de crimes financeiros que afetam servidores públicos e a potencial conexão com organizações terroristas.",
+      "clusterId": "5e2354c5dd988e93",
+      "slug": "ead2c0e0c901b47f",
+      "titulo": "Carolina Dieckmmann comenta documentário sobre Preta Gil",
+      "resumo": "Carolina Dieckmmann expressou críticas ao documentário que retrata a carreira de Preta Gil, alegando que o filme não reflete a realidade da cantora. A artista questionou a escolha de narrativas e a forma de tratamento das entrevistas. Otávio Muller, ex-companheiro de Preta Gil, relembrou o início de seu relacionamento, que durou de 1994 a 1995, e destacou momentos marcantes da época.",
+      "porQueImporta": "A discussão envolve figuras públicas relevantes e destaca a percepção de autenticidade em produções documentais.",
       "category": "geral",
       "sources": [
         {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/brasil/operacao-mira-esquema-que-lavou-mais-de-r-100-mi-para-faccoes/"
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/coluna/veja-gente/o-desabafo-de-carolina-dieckmmann-sobre-documentario-de-preta-gil/"
         },
         {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-justica/operacao-da-pf-mira-esquema-de-fraudes-em-credito-consignado/"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/otavio-muller-relembra-inicio-do-relacionamento-com-preta-gil/"
+        }
+      ],
+      "updatedAt": "2026-07-15T17:16:28.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/08/Design-sem-nome-35.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "6b921943304a16d8",
+      "slug": "77f7c02c3f8dffea",
+      "titulo": "Câmara aprova projeto que assegura a povos indígenas e tradicionais direito de usar cocar e turbante em fotos de documentos",
+      "resumo": "Indígenas protestam em Brasília contra marco temporal Bruna Yamaguti/G1 A Câmara dos Deputados aprovou nesta quarta-feira (15) um projeto que permite o uso de elementos que expressem pertencimento a uma comunidade, cultura ou religião em fotos de documentos oficiais. A proposta vai ao Senado. O texto, de autoria da deputada Célia Xakriabá (PSOL-MG) ressalta, no entanto, que o uso de indumentária e outros elementos só é permitido se não prejudicar a identificação da fisionomia da pessoa. “Assegurar aos povos indígenas, aos afro-brasileiros e demais povos tradicionais o uso, em documentos…",
+      "porQueImporta": "",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/cartaexpressa/camara-aprova-o-uso-de-trajes-tradicionais-em-fotos-de-documentos/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/15/pf-investiga-grupo-suspeito-de-disfarcar-emprestimos-como-cartao-de-credito-consignado-em-mt-sp-e-rs.ghtml"
+          "url": "https://g1.globo.com/politica/noticia/2026/07/15/camara-aprova-projeto-que-assegura-a-indigenas-direito-de-usar-cocar-em-fotos-de-documentos.ghtml"
         }
       ],
-      "updatedAt": "2026-07-15T13:16:23.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/02.avif?resize=300,218"
+      "updatedAt": "2026-07-15T17:14:42.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/02/img20260210225059319.jpg"
     },
     {
-      "clusterId": "dabfeedafc10016d",
-      "slug": "49317546354089a2",
-      "titulo": "Receita Federal paga lote especial de restituição automática do Imposto de Renda",
-      "resumo": "A Receita Federal realizou, em 15 de abril, o pagamento de um lote especial de restituição automática do Imposto de Renda da Pessoa Física, conhecido como \"cashback\". O valor total do lote é de aproximadamente R$ 460 milhões, beneficiando cerca de 3,5 milhões de pessoas que não eram obrigadas a entregar a declaração em 2025. O pagamento será creditado diretamente na conta vinculada à chave PIX do tipo CPF do contribuinte, com limite de até R$ 1.000 por contribuinte.",
-      "porQueImporta": "O pagamento permite que contribuintes que não declararam o imposto recebam de forma rápida e automática um reembolso em suas contas bancárias.",
-      "category": "economia",
+      "clusterId": "a3ec7f2744eaa2d2",
+      "slug": "fc16c0db34d132ed",
+      "titulo": "Maria Rita explica por que não consegue ouvir músicas da mãe",
+      "resumo": "A cantora Maria Rita revelou que não consegue escutar as canções de Elis Regina, sua mãe, devido ao impacto emocional da morte da artista. Ela afirmou que o luto e o estresse intenso impediram que ela ouvisse a voz de Elis, especialmente a faixa \"Como Nossos Pais\". O relato foi divulgado em entrevistas recentes, destacando a dificuldade de lidar com a memória musical da mãe.",
+      "porQueImporta": "Ilustra como a perda de um ente querido pode afetar a relação com a obra artística familiar.",
+      "category": "geral",
       "sources": [
         {
           "name": "Veja",
-          "url": "https://veja.abril.com.br/economia/pix-cashback-imposto-renda-consultar-receita-paga-hoje/"
+          "url": "https://veja.abril.com.br/cultura/filha-de-elis-regina-revela-motivo-de-nao-conseguir-escutar-musicas-da-mae/"
         },
         {
-          "name": "Exame",
-          "url": "https://exame.com/invest/minhas-financas/receita-paga-restituicao-especial-do-imposto-de-renda-veja-quem-tem-direito/"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/maria-rita-explica-por-que-nao-consegue-ouvir-musicas-da-mae-elis-regina/"
+        }
+      ],
+      "updatedAt": "2026-07-15T17:14:34.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/GettyImages-1538573763.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "5b142f474b85c63f",
+      "slug": "e7ccce0e6e5b1c5e",
+      "titulo": "Avião com mais de 300 kg de cocaína faz pouso forçado em fazenda de Itarumã, Goiás",
+      "resumo": "Um avião transportando mais de 300 kg de cocaína pousou de forma forçada em uma fazenda na zona rural de Itarumã, Goiás, causando incêndio. O piloto fugiu do local e ainda não foi localizado. A polícia encontrou a droga escondida em área de mata próxima ao local do pouso. O Batalhão Rodoviário foi acionado para lidar com o incêndio.",
+      "porQueImporta": "O incidente destaca a presença de tráfico de drogas em áreas rurais e a necessidade de vigilância e resposta rápida das autoridades.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/aviao-com-mais-de-300-kg-de-cocaina-faz-pouso-forcado-em-goias"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/07/15/imposto-de-renda-2026-receita-paga-lote-especial-de-restituicao-automatica-nesta-quarta-veja-como-fazer.ghtml"
+          "url": "https://g1.globo.com/go/goias/noticia/2026/07/15/aviao-carregado-de-droga-faz-pouso-forcado-em-goias.ghtml"
         }
       ],
-      "updatedAt": "2026-07-15T13:13:15.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/05/imposto-de-renda-2025-e1767382572863.webp"
+      "updatedAt": "2026-07-15T17:11:59.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/07/aviao-faz-pouso-forcado-com-300-kg-de-cocaina.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "2f8ded03dc402807",
-        "slug": "4318b16e06f42aef",
-        "titulo": "Pesquisa Quaest mostra Lula à frente de Flávio Bolsonaro no segundo turno",
-        "resumo": "A pesquisa Quaest, realizada entre 10 e 13 de julho com 2.004 eleitores, indica que Lula tem 45% das intenções de voto contra 37% de Flávio Bolsonaro em uma simulação de segundo turno. O levantamento também mostra que 42% dos entrevistados concordam mais com Michelle Bolsonaro após o vídeo de conflito com o senador, enquanto apenas 18% concordam com Flávio. Em relação à rejeição, 57% dos participantes rejeitam a candidatura de Flávio, em comparação com 50% que rejeitam Lula. A margem de erro da pesquisa é de dois pontos percentuais.",
-        "porQueImporta": "Os resultados refletem a fragilidade da candidatura de Flávio Bolsonaro e a vantagem de Lula nas intenções de voto, influenciando a percepção pública e estratégias eleitorais.",
+        "clusterId": "fc673a7b515b62af",
+        "slug": "4e03a4810f34700b",
+        "titulo": "Polícia cumpre mandado na casa de Nelson Wilians, no Jardins, em operação",
+        "resumo": "Advogado é alvo da Operação Distrato, que investiga um suposto esquema de comercialização fraudulenta de créditos de ICMS; agentes do MP-SP e da Polícia Civil permanecem no local",
+        "porQueImporta": "",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/a-reacao-de-nelson-wilians-a-operacao-que-fez-buscas-em-sua-casa-e-escritorios/"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-justica/quem-e-nelson-wilians-advogado-investigado-por-fraude-em-icms/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/sociedade/nelson-wilians-entre-o-luxo-e-as-operacoes-policiais/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/policia-cumpre-mandado-na-casa-de-nelson-wilians-no-jardins-em-operacao/"
+          }
+        ],
+        "updatedAt": "2026-07-15T16:47:10.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/10/54795337427_19ef064643_k.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "0b557e3da5896cb4",
+        "slug": "d1786a848a7da9d2",
+        "titulo": "Governo e Câmara fecham acordo para renegociar dívidas rurais via MP",
+        "resumo": "O governo e a Câmara aprovaram uma medida provisória que permite a renegociação de dívidas de produtores rurais com prazo de até dez anos e juros entre 5% e 12%. A proposta inclui carência, inclusão de CPRs, cooperativas e um fundo garantidor de até R$ 2 bilhões. A medida visa aliviar o endividamento de agricultores afetados por eventos climáticos extremos e dificuldades econômicas.",
+        "porQueImporta": "Facilita a recuperação financeira de produtores rurais, contribuindo para a estabilidade do setor agropecuário.",
         "category": "politica",
         "sources": [
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/cartaexpressa/leia-a-integra-da-nova-pesquisa-quaest-sobre-a-eleicao-presidencial/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/duelo-de-rejeicoes-a-ma-noticia-para-flavio-bolsonaro-na-nova-pesquisa-genial-quaest/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/15/flavio-bolsonaro-precisa-recuperar-espaco-na-direita-nao-bolsonarista-e-entre-independentes-avaliam-aliados-apos-pesquisa-quaest.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/quaest-42-concordam-mais-com-michelle-e-18-com-flavio-apos-atrito/"
+            "url": "https://www.cartacapital.com.br/politica/governo-lula-e-camara-fecham-acordo-para-renegociar-dividas-rurais-via-mp/"
           },
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/michelle-tem-apoio-de-42-em-disputa-com-flavio-bolsonaro-diz-quaest/"
+            "url": "https://www.poder360.com.br/poder-agro/governo-renegociara-dividas-rurais-com-prazo-de-ate-10-anos/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/07/15/fazenda-e-camara-anunciam-acordo-sobre-projeto-de-renegociacao-de-dividas-rurais.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/em-acordo-com-o-agronegocio-governo-anuncia-mp-de-repactuacao-de-dividas-do-setor/"
           }
         ],
-        "updatedAt": "2026-07-15T13:44:36.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/LF-1.jpg"
+        "updatedAt": "2026-07-15T16:12:57.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/07/dario-durigan-e-hugo-motta-foto-reproducao-tv-camara.png"
       },
       {
-        "clusterId": "6e61e088cc87e899",
+        "clusterId": "e831aecd301e9be7",
         "slug": "3db9c8d77e9c1983",
         "titulo": "Ministro Dino exige esclarecimentos de presidentes de partidos sobre destinação de emendas parlamentares",
         "resumo": "O ministro Flávio Dino, do STF, intimou os presidentes de 21 partidos com representação no Congresso a fornecer informações sobre a definição de uso das verbas de emendas parlamentares, concedendo um prazo de 10 dias. Ele ressaltou que os dados solicitados podem contribuir para o aperfeiçoamento dos mecanismos de transparência dos recursos. Em decisão paralela, Dino pediu às comissões de Saúde da Câmara e do Senado que expliquem, em até 30 dias, as medidas adotadas para garantir a transparência na execução das emendas. A medida visa combater a prática de \"emendas de terceiros\", em que ex-parlamentares influenciam a destinação de recursos.",
@@ -306,196 +326,145 @@
         "category": "politica",
         "sources": [
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-justica/dino-intima-presidentes-de-partidos-sobre-destinacao-de-emendas/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/dino-cita-declaracao-de-valdemar-ao-intimar-presidente-de-partidos/"
           },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/07/15/apos-fala-de-valdemar-dino-manda-presidentes-de-partidos-explicarem-se-possuem-cotas-de-emendas.ghtml"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/apos-declaracao-de-valdemar-dino-manda-presidentes-de-partidos-explicarem-controle-de-emendas/"
+          }
+        ],
+        "updatedAt": "2026-07-15T15:11:40.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/1CfhP8npq2L-71_mc2LuhL0TcDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/8/Z80B8SQqmM71bwEXiUig/videoframe-2218.png"
+      },
+      {
+        "clusterId": "6b921943304a16d8",
+        "slug": "77f7c02c3f8dffea",
+        "titulo": "Câmara aprova projeto que assegura a povos indígenas e tradicionais direito de usar cocar e turbante em fotos de documentos",
+        "resumo": "Indígenas protestam em Brasília contra marco temporal Bruna Yamaguti/G1 A Câmara dos Deputados aprovou nesta quarta-feira (15) um projeto que permite o uso de elementos que expressem pertencimento a uma comunidade, cultura ou religião em fotos de documentos oficiais. A proposta vai ao Senado. O texto, de autoria da deputada Célia Xakriabá (PSOL-MG) ressalta, no entanto, que o uso de indumentária e outros elementos só é permitido se não prejudicar a identificação da fisionomia da pessoa. “Assegurar aos povos indígenas, aos afro-brasileiros e demais povos tradicionais o uso, em documentos…",
+        "porQueImporta": "",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/cartaexpressa/camara-aprova-o-uso-de-trajes-tradicionais-em-fotos-de-documentos/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/07/15/camara-aprova-projeto-que-assegura-a-indigenas-direito-de-usar-cocar-em-fotos-de-documentos.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-15T17:14:42.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/02/img20260210225059319.jpg"
+      },
+      {
+        "clusterId": "10aaf4d0811fcbb3",
+        "slug": "b02e898b9c25673c",
+        "titulo": "Projeto que criminaliza misoginia recebe apoio de bancada feminina na Câmara",
+        "resumo": "A bancada feminina da Câmara dos Deputados pressionou pela inclusão de um projeto que equipara a misoginia ao crime de racismo na pauta de votações antes do recesso parlamentar. O texto já teve urgência aprovada e o presidente da Câmara, Hugo Motta, se comprometeu a votar a proposta antes do fim do mandato. A iniciativa visa criminalizar atos de misoginia, que já figuram em mais de 2 mil decisões judiciais desde 2015. A comissão de Segurança Pública aprovou uma emenda que limita as punições previstas no projeto.",
+        "porQueImporta": "A medida busca ampliar a proteção contra a violência de gênero no Brasil.",
+        "category": "politica",
+        "sources": [
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/brasil/dino-cobra-de-presidentes-de-partidos-informacoes-sobre-indicacoes-de-emendas/"
+            "url": "https://veja.abril.com.br/politica/a-manobra-da-oposicao-para-esvaziar-pl-da-misoginia-antes-mesmo-de-texto-ser-votado-pela-camara/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/07/15/dino-da-10-dias-para-presidentes-de-partidos-no-congresso-prestarem-esclarecimentos-sobre-emendas.ghtml"
+            "url": "https://g1.globo.com/politica/noticia/2026/07/14/deputadas-cobram-aprovacao-de-projeto-que-criminaliza-misoginia-antes-do-recesso-na-camara.ghtml"
           }
         ],
-        "updatedAt": "2026-07-15T13:44:44.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/02/54992586924_2c3bac18aa_o.jpeg.jpg?quality=70&strip=info"
+        "updatedAt": "2026-07-15T16:30:28.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/Capitao-Alden-.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "28e72ae431232baf",
-        "slug": "514e9daa2110e570",
-        "titulo": "Pesquisa Quaest mostra 48% de aprovação e 47% de desaprovação do governo Lula",
-        "resumo": "A pesquisa de opinião da Quaest, divulgada em 15 de julho, indica que 48% dos entrevistados aprovam o governo de Luiz Inácio Lula da Silva, enquanto 47% desaprovam. Os resultados refletem um empate técnico, em contraste com a diferença de nove pontos em abril, três em maio e apenas um ponto em junho. A pesquisa destaca a mudança na percepção pública em relação ao governo.",
-        "porQueImporta": "Os índices de aprovação e desaprovação são indicadores importantes da estabilidade política e da confiança dos eleitores no presidente.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/07/15/quaest-pesquisa-julho-analise-lula-eleicoes.ghtml"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/a-melhora-na-aprovacao-de-lula-segundo-a-quaest/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/quaest-avaliacao-positiva-do-governo-lula-vai-a-36-e-empata-com-negativa/"
-          }
-        ],
-        "updatedAt": "2026-07-15T13:10:16.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/aPlmcTybn3LGKUqbum-vXDAfdkw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/b/Zhb7DURY6OdthM3EYFVw/55391385114-af618f5502-k.jpg"
-      },
-      {
-        "clusterId": "68cad739645d928a",
-        "slug": "bc97ca85599a5ad5",
-        "titulo": "Ministro Mauro Vieira não comparece à audiência na Câmara",
-        "resumo": "O ministro Mauro Vieira, convocado para falar sobre o risco de uma ação dos Estados Unidos no Brasil, não compareceu à audiência na Câmara. Ele enviou ofício justificando a ausência e solicitou que a sessão seja remarcada para agosto. A ausência se deve a uma reunião agendada com o presidente Lula no mesmo horário.",
-        "porQueImporta": "A falta do ministro pode atrasar discussões sobre segurança e relações internacionais.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-congresso/mesmo-convocado-mauro-vieira-falta-a-comissao-na-camara/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/mauro-vieira-nao-comparece-a-audiencia-na-camara-sobre-pcc-e-cv"
-          }
-        ],
-        "updatedAt": "2026-07-15T13:44:36.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/06/ministro-mauro-vieira-mercosul.jpg"
-      },
-      {
-        "clusterId": "ea8fd5b995857f91",
-        "slug": "d9cad8dfb5fc9179",
-        "titulo": "Advogado de 43 anos encontrado morto em Pinheiros",
-        "resumo": "O corpo de Pedro Ely Cordeiro dos Santos, advogado de 43 anos, foi localizado na madrugada de 10 de maio na Rua Fradique Coutinho, em Pinheiros, São Paulo, após ter desaparecido quatro dias antes. A família identificou o corpo no Instituto Médico Legal Central de São Paulo em 14 de maio. Laudos da Polícia Técnico-Científica deverão indicar a causa da morte em até três semanas.",
-        "porQueImporta": "O caso destaca a necessidade de investigação rápida em mortes inesperadas de profissionais.",
+        "clusterId": "355ccc7df0168090",
+        "slug": "d4fccb54cb71948f",
+        "titulo": "Flávio Bolsonaro perde apoio na direita não bolsonarista e enfrenta críticas de Michelle",
+        "resumo": "Pesquisas da Quaest mostram que Flávio Bolsonaro perdeu apoio entre eleitores de direita que não são bolsonaristas, caindo de 45% em dezembro para níveis mais baixos no primeiro turno. O candidato mantém forte apoio entre os bolsonaristas raízes, mas precisa recuperar espaço entre independentes e eleitores indecisos, especialmente após a revelação de apoio financeiro de Daniel Vorcaro. Além disso, vídeos em que Michelle Bolsonaro afirma ter sido humilhada por Flávio aumentaram a simpatia pelo ex-primeira-dama, com 42% dos entrevistados concordando mais com ela e apenas 18% com o senador.",
+        "porQueImporta": "O declínio do apoio de Flávio na direita não bolsonarista pode afetar sua viabilidade como candidato e refletir tensões internas no movimento de direita.",
         "category": "politica",
         "sources": [
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/sociedade/o-que-se-sabe-sobre-o-caso-de-advogado-encontrado-morto-em-sao-paulo/"
+            "url": "https://www.cartacapital.com.br/cartaexpressa/a-queda-das-intencoes-de-voto-em-flavio-bolsonaro-na-direita-nao-bolsonarista/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/15/laudos-que-vao-apontar-causa-da-morte-de-advogado-carioca-encontrado-no-iml-devem-sair-em-ate-tres-semanas.ghtml"
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/07/15/quaest-flavio-bolsonaro-direita.ghtml"
           }
         ],
-        "updatedAt": "2026-07-15T13:34:38.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/07/pedro_ely.jpg"
+        "updatedAt": "2026-07-15T16:06:47.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/senador-flavio-bolsonaro-foto-carlos-moura-agencia-senado.jpg"
       },
       {
-        "clusterId": "c14b5821b6ee4ab3",
-        "slug": "fe93bdf970713d53",
-        "titulo": "Setor de serviços recua 0,4% em maio",
-        "resumo": "O Índice de Serviços do IBGE registrou queda de 0,4% em maio em relação a abril, contrariando expectativas de alta. Duas das cinco atividades avaliadas apresentaram redução no volume. O resultado reflete a desaceleração do setor de serviços no país.",
-        "porQueImporta": "O desempenho dos serviços influencia diretamente o PIB e a confiança dos investidores.",
+        "clusterId": "75511ad789ae3f6f",
+        "slug": "23b70c3522311f12",
+        "titulo": "EUA decidirão sobre novas tarifas ao Brasil nesta quarta-feira",
+        "resumo": "Na manhã de quarta-feira, representantes dos Estados Unidos informaram o governo brasileiro que a decisão sobre a aplicação de novas tarifas sobre produtos brasileiros será divulgada à tarde. O governo Lula planeja analisar o anúncio e definir sua reação, podendo acionar a Lei da Reciprocidade Econômica ou continuar negociações diplomáticas. A decisão faz parte de uma investigação sob a Seção 301 que acusa o Brasil de práticas comerciais desleais, especialmente em relação ao PIX.",
+        "porQueImporta": "A medida pode afetar significativamente as exportações brasileiras para os EUA e a relação comercial entre os dois países.",
         "category": "politica",
         "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-economia/setor-de-servicos-recua-04-em-maio-apos-alta-em-abril/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/volume-de-servicos-no-brasil-recua-em-maio-e-frustra-expectativas/"
-          }
-        ],
-        "updatedAt": "2026-07-15T12:58:52.000Z"
-      },
-      {
-        "clusterId": "8543f2d299287e45",
-        "slug": "fdc5e3531e7c7f42",
-        "titulo": "MP do Piso do Frete em debate no Congresso",
-        "resumo": "A medida provisória que altera o piso mínimo do frete rodoviário está em discussão no Senado. O líder dos caminhoneiros, Randolfe Rodrigues, defende a aprovação sem mudanças, enquanto o governo propõe retirar o valor de R$5.000 do texto e vetar a anistia a multas. O Senado pretende manter a obrigatoriedade do piso, mas sem definir valor. A votação está prevista para esta semana.",
-        "porQueImporta": "Decisões sobre o piso do frete afetam custos e logística do transporte de mercadorias no país.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/analise-governo-evita-nova-greve-com-aprovacao-da-mp-do-frete-no-senado/"
-          },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/07/14/senado-aprova-mp-frete.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-15T12:12:31.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/XmMqSJNzRxGXNr-dGzUFogfUTPA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/A/TQ0I7sQ8CWHzNqb6wfbA/capas-belly-13-.png"
-      },
-      {
-        "clusterId": "a9821c1b3ec95b49",
-        "slug": "2733b50a81622bec",
-        "titulo": "Lula lidera eleição no Ceará enquanto Elmano e Ciro Gomes ficam empatados",
-        "resumo": "Pesquisa Real Time Big Data mostra Lula com vantagem significativa entre eleitores do Ceará, tanto no primeiro quanto no segundo turno. Em contrapartida, Elmano e Ciro Gomes apresentam resultados tecnicamente iguais, com 44% e 40% respectivamente, dentro da margem de erro. A diferença entre Lula e os demais candidatos destaca sua posição dominante na região.",
-        "porQueImporta": "O resultado reflete a forte preferência por Lula no Ceará, influenciando a dinâmica política estadual e a estratégia de campanha dos demais candidatos.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/a-grande-vantagem-de-lula-entre-os-eleitores-do-ceara-segundo-o-real-time-big-data/"
+            "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/15/governo-e-informado-pelos-eua-que-decisao-sobre-novas-tarifas-sai-na-tarde-desta-quarta.ghtml"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/brasil/real-time-big-data-elmano-tem-44-e-ciro-gomes-40-no-1o-turno-no-ceara/"
+            "url": "https://exame.com/mundo/eua-sinalizam-ao-brasil-que-decisao-sobre-tarifas-sai-hoje-a-tarde/"
           }
         ],
-        "updatedAt": "2026-07-15T11:49:02.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2024/06/Lula2-1.jpg"
+        "updatedAt": "2026-07-15T16:00:48.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/gn_s95bJC5G6dnwGZJRkklXIq3Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/s/yE3HmTTxG1Nq3q6gA4LQ/221e1e7e-d2ca-4212-9cf0-d72c03272c56.png"
+      },
+      {
+        "clusterId": "fe98d73f52ae147b",
+        "slug": "b165195ebf401331",
+        "titulo": "PRTB anuncia pré-candidatura de Leonardo Avalanche à Presidência",
+        "resumo": "O Partido Renovador Trabalhista Brasileiro (PRTB) lançou a pré-candidatura de Leonardo Avalanche, presidente nacional da sigla, para as eleições presidenciais de 2026. Avalanche, também conhecido como Leonardo Alves de Araújo, afirma que sua candidatura oferece uma alternativa genuína aos eleitores. O anúncio coloca o PRTB de volta à disputa presidencial, aumentando o número de nomes em potencial para a corrida. A pré-candidatura foi divulgada em meio a acusações de ligações do partido com o PCC em São Paulo.",
+        "porQueImporta": "A entrada de um novo candidato na corrida presidencial amplia o cenário político e pode influenciar as alianças e estratégias dos demais partidos.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/prtb-lanca-leonardo-avalanche-como-pre-candidato-a-presidencia/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/14/prtb-pre-candidatura-avalanche-presidente.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-15T15:34:12.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/Wx6an7zb2kVXdu1E5uG9uP2QVBc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/4/0/NphAXRSMuYUhtYJ8AGAA/avalanche.jpg"
       }
     ],
     "economia": [
       {
-        "clusterId": "50bfbf8b56aca6f4",
-        "slug": "fd260dc1eadd3cd6",
-        "titulo": "Harry Styles realiza turnê Together Together em São Paulo",
-        "resumo": "Harry Styles apresentará quatro shows em São Paulo nos dias 17, 18 e 24 de julho, como parte da turnê Together Together, que segue o álbum Kiss All The Time. A expectativa inclui um setlist que mistura músicas do disco e clássicos de disco, com possíveis variações entre os shows. A artista também planeja looks boho para os concertos no Brasil.",
-        "porQueImporta": "O evento atrai atenção por ser a primeira visita de Styles ao Brasil na temporada, destacando sua influência na cena musical internacional.",
+        "clusterId": "fcefac4ca03db0d3",
+        "slug": "8f7bbea1b66fec63",
+        "titulo": "Nubank nomeia Livia Chanes como CEO para a América Latina",
+        "resumo": "Na América Latina, cerca de 37 milhões de pessoas entraram no sistema financeiro formal por meio do Nubank",
+        "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/cultura/o-que-harry-styles-toca-na-turne-together-together-confira-provavel-setlist/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/lifestyle/do-disco-ao-boho-ideias-de-looks-para-shows-de-harry-styles-no-brasil/"
+            "url": "https://veja.abril.com.br/economia/nubank-nomeia-livia-chanes-como-ceo-para-a-america-latina/"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/pop/harry-styles-no-brasil-confira-possivel-setlist-dos-shows-nesta-semana/"
+            "url": "https://exame.com/invest/mercados/ceo-do-nubank-no-brasil-vai-assumir-comando-do-roxinho-na-america-latina/"
           }
         ],
-        "updatedAt": "2026-07-15T13:25:58.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/09/GettyImages-2170907567.jpg?quality=70&strip=info"
+        "updatedAt": "2026-07-15T16:40:15.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/05/Livia-Chanes-cortada-1.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "a19baacf2b1f99ce",
-        "slug": "d60c1a15e02935a2",
-        "titulo": "Anima compra FMU por até R$ 410 milhões",
-        "resumo": "A Anima Educação firmou acordo para adquirir a FMU, instituição em recuperação judicial, por até R$ 410 milhões, valor que pode chegar a esse montante. A compra será realizada pela subsidiária Rede Educacional do Brasil, que já controla a FMU. A operação aumenta a base de alunos da Anima para 391 mil e amplia sua presença em São Paulo.",
-        "porQueImporta": "A aquisição pode alterar o cenário competitivo do setor de educação superior no Brasil.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/anima-anim3-desaba-30-apos-compra-da-fmu-por-que-negocio-desagradou-tanto/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/invest/mercados/anima-compra-fmu-por-r-410-milhoes-btg-ve-aquisicao-cara-e-rebaixa-acao/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/negocios/noticia/2026/07/14/anima-educacao-assina-contrato-para-comprar-a-fmu.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-15T13:23:33.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/03/img-anima-educacao.jpg?fit=300%2C220&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "dabfeedafc10016d",
+        "clusterId": "f14f8429435e9820",
         "slug": "49317546354089a2",
         "titulo": "Receita Federal paga lote especial de restituição automática do Imposto de Renda",
         "resumo": "A Receita Federal realizou, em 15 de abril, o pagamento de um lote especial de restituição automática do Imposto de Renda da Pessoa Física, conhecido como \"cashback\". O valor total do lote é de aproximadamente R$ 460 milhões, beneficiando cerca de 3,5 milhões de pessoas que não eram obrigadas a entregar a declaração em 2025. O pagamento será creditado diretamente na conta vinculada à chave PIX do tipo CPF do contribuinte, com limite de até R$ 1.000 por contribuinte.",
@@ -503,120 +472,189 @@
         "category": "economia",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/economia/pix-cashback-imposto-renda-consultar-receita-paga-hoje/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/invest/minhas-financas/receita-paga-restituicao-especial-do-imposto-de-renda-veja-quem-tem-direito/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/financas/cashback-do-imposto-de-renda-e-pago-nesta-quarta-13-veja-quem-recebe/"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/economia/imposto-de-renda/noticia/2026/07/15/imposto-de-renda-2026-receita-paga-lote-especial-de-restituicao-automatica-nesta-quarta-veja-como-fazer.ghtml"
           }
         ],
-        "updatedAt": "2026-07-15T13:13:15.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/05/imposto-de-renda-2025-e1767382572863.webp"
+        "updatedAt": "2026-07-15T16:14:46.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/z2FBTHIMqu4pdOtUD9jY7RQRE2M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/0/d/58xCXuRkuB2NBonBcO6w/3.webp"
       },
       {
-        "clusterId": "fa24aac2867efe9f",
-        "slug": "2f18074c7c37897b",
-        "titulo": "Tarifaço nos EUA gera tensão entre Lula e Flávio antes das eleições",
-        "resumo": "O governo dos Estados Unidos pode decidir sobre a tarifaço de petróleo nesta quarta-feira, o que tem gerado desentendimentos entre Lula e o senador Flávio Bolsonaro. Flávio, que está em audiência no país, defende o adiamento da medida para não favorecer Lula electoralmente, alegando ter negociado com o governo americano. Lula, por sua vez, tem se mostrado crítico à proposta, considerando-a uma ameaça à sua campanha.",
-        "porQueImporta": "A decisão sobre a tarifaço pode influenciar a percepção pública sobre a política externa e a competitividade do Brasil no mercado internacional.",
+        "clusterId": "d46477af0e9938b5",
+        "slug": "cec7f22b6e926bfc",
+        "titulo": "Versão teste do iOS 27 já está disponível; veja as novidades e como acessar",
+        "resumo": "Diversos aprimoramentos nas áreas principais deixam o iPhone ainda mais responsivo The post Versão teste do iOS 27 já está disponível; veja as novidades e como acessar appeared first on InfoMoney.",
+        "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/possibilidade-de-tarifaco-vira-cabo-de-guerra-entre-lula-e-flavio-antes-das-eleicoes/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/na-expectativa-de-tarifaco-flavio-culpa-lula-e-diz-fui-la-negociar"
+            "url": "https://www.infomoney.com.br/consumo/ios-27-teste-disponivel-usuarios-novidades-como-acessar/"
           }
         ],
-        "updatedAt": "2026-07-15T13:23:44.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Design-sem-nome-34.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-07-15T17:04:45.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/ios-27-apple.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "13d3242eeeeffe5a",
-        "slug": "4e032bdc2d37280d",
-        "titulo": "Operação Distrato cumpre mandados contra esquema de créditos falsos de ICMS",
-        "resumo": "A Operação Distrato, conduzida pela CIRA-SP, cumpriu 38 mandados de busca e apreensão em Jundiaí e outras cidades de São Paulo e Paraná. O objetivo é desmantelar um esquema que gerou prejuízo de R$ 3,8 bilhões ao ICMS, envolvendo escritórios de advocacia, consultorias e grandes grupos econômicos que comercializavam créditos tributários falsos. As autoridades buscam apreender documentos e ativos relacionados ao esquema.",
-        "porQueImporta": "A ação visa proteger a arrecadação estadual e impedir fraudes fiscais que comprometem a saúde financeira do Estado.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/15/operacao-em-jundiai.ghtml"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/esquema-de-creditos-falsos-de-icms-causou-prejuizo-de-r-38-bilhoes/"
-          }
-        ],
-        "updatedAt": "2026-07-15T11:52:31.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/GgUQafp5wAC0Kv0QYKeN47DggUc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/H/nNuzOpS7OmRKy578tgyg/deic-.png"
-      },
-      {
-        "clusterId": "55c5c11e78fb3977",
-        "slug": "ebed7dc721d75d39",
-        "titulo": "Nova Zelândia registra primeiro caso de gripe aviária H5N1 em ave marinha",
-        "resumo": "O Ministério da Biossegurança confirmou a detecção de um vírus de alta patogenicidade H5N1 em uma ave marinha migratória em Wellington. O caso representa a primeira ocorrência do vírus no país. Até o momento, não há evidências de transmissão para humanos ou outras espécies. A confirmação segue os primeiros casos na Austrália continental.",
-        "porQueImporta": "A presença do vírus pode indicar risco de propagação para aves e humanos na região.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/agro/nova-zelandia-registra-primeiro-caso-de-gripe-aviaria-h5n1/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/07/15/nova-zelandia-confirma-primeiro-caso-de-gripe-aviaria.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-15T11:47:13.000Z"
-      },
-      {
-        "clusterId": "8b41f35a5a399c7f",
-        "slug": "41cde4bc29244174",
-        "titulo": "Saneamento avança após seis anos do Marco Legal, mas meta de universalização ainda distante",
-        "resumo": "Seis anos após a aprovação do Marco Legal do Saneamento Básico, o Brasil registrou crescimento de 51% nos investimentos e avanços na estruturação de concessões, privatizações e regionalização. O Instituto Trata Brasil aponta que, apesar desses progressos, o ritmo atual não é suficiente para atingir a universalização dos serviços até 2033. O estudo destaca que o investimento médio anual por habitante aumentou, mas ainda fica abaixo do necessário para cumprir a meta estabelecida pela legislação.",
-        "porQueImporta": "O desempenho do setor de saneamento influencia diretamente a saúde pública e o desenvolvimento sustentável do país.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/infra/saneamento-avanca-apos-seis-anos-do-marco-legal-mas-meta-segue-distante/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/07/15/investimento-em-saneamento-cresce-51percent-mas-segue-abaixo-do-necessario-para-cumprir-marco-legal.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-15T11:00:35.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/KYwNbuLpWJNf65tHtK4gsoqGwfE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/q/l1EFIOShikbsObE2BYSA/imagem-principal-01-g1-aegea.jpg"
-      },
-      {
-        "clusterId": "82a654f166309367",
-        "slug": "99203f48a5faafff",
-        "titulo": "Técnico da Inglaterra entende superstição da Argentina sobre uniforme azul-escuro",
-        "resumo": "O técnico da seleção inglesa reconheceu que a Argentina tem uma superstição em relação ao uso do uniforme azul-escuro, que costuma ser evitado em jogos importantes. Ele explicou que a equipe costuma optar por um segundo fardamento para tentar reviver momentos de glória em Copas do Mundo. A escolha do uniforme está ligada a crenças de que a cor pode influenciar o desempenho. O treinador destacou que a decisão é baseada em tradição e não em dados científicos.",
-        "porQueImporta": "A decisão sobre uniformes pode afetar a motivação e a percepção de desempenho das equipes em competições internacionais.",
+        "clusterId": "21e1a8a20e2679ae",
+        "slug": "8bf3b869da2aebdc",
+        "titulo": "O que todo viajante deveria decidir antes mesmo de comprar a passagem",
+        "resumo": "São quatro fatores essenciais para decidir antes de sair fazendo reservas The post O que todo viajante deveria decidir antes mesmo de comprar a passagem appeared first on InfoMoney.",
+        "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/tecnico-da-inglaterra-compreende-supersticao-da-argentina-sobre-uniforme-azul-escuro/"
+            "url": "https://www.infomoney.com.br/minhas-financas/o-que-decidir-antes-comprar-passagem/"
           }
         ],
-        "updatedAt": "2026-07-15T13:44:27.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-15T113610Z_1_LYNXMPEM6E0NS_RTROPTP_4_SOCCER-WORLDCUP-ENG-ARG-PREVIEW_rec_red.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-07-15T17:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/19038.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "b39a252af4684b0d",
+        "slug": "c6fbdb7f4117f636",
+        "titulo": "O que a novela ‘Quem Ama Cuida’ revela sobre herança, seguro de vida e inventário",
+        "resumo": "Especialistas explicam como a proteção securitária, além de testamento, doações e holdings familiares ajudam a preservar o patrimônio e reduzir conflitos como os mostrados no folhetim The post O que a novela ‘Quem Ama Cuida’ revela sobre herança, seguro de vida e inventário appeared first on InfoMoney.",
+        "porQueImporta": "",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/minhas-financas/o-que-a-novela-quem-ama-cuida-revela-sobre-heranca-seguro-de-vida-e-inventario/"
+          }
+        ],
+        "updatedAt": "2026-07-15T16:50:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/quem-ama-cuida-heranca-arthur-brandao.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "f067d1261e9cac11",
+        "slug": "d6e0396e5908ce66",
+        "titulo": "MRV (MRVE3): ação sobe após anúncio de desinvestimento de ativos da Luggo",
+        "resumo": "Os ativos fazem parte da Luggo, plataforma de aluguel por assinatura da MRV The post MRV (MRVE3): ação sobe após anúncio de desinvestimento de ativos da Luggo appeared first on InfoMoney.",
+        "porQueImporta": "",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/mrv-mrve3-acao-sobe-apos-anuncio-de-desinvestimento-de-ativos-da-luggo/"
+          }
+        ],
+        "updatedAt": "2026-07-15T16:49:33.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/08/Captura-de-tela-2024-08-13-191553.png?fit=300%2C198&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "36774cd5059fb146",
+        "slug": "58e8991f2665f2e0",
+        "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai na contramão do exterior e perde os 176 mil pontos",
+        "resumo": "Bolsas dos EUA avançam com ganhos de ações de Big Techs The post Ibovespa Hoje Ao Vivo: Bolsa cai na contramão do exterior e perde os 176 mil pontos appeared first on InfoMoney.",
+        "porQueImporta": "",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15072026/"
+          }
+        ],
+        "updatedAt": "2026-07-15T16:42:14.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Ibovespa-hoje-ao-vivo-10.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "2c15b1cbd6009727",
+        "slug": "709107159d9522a2",
+        "titulo": "Investimentos Temáticos: o que está no radar de gestoras com US$ 5,5 trilhões",
+        "resumo": "Pesquisa com 37 gestoras revela como juros, inteligência artificial, minerais críticos e outras tendências estruturais estão moldando as decisões de investimento The post Investimentos Temáticos: o que está no radar de gestoras com US$ 5,5 trilhões appeared first on InfoMoney.",
+        "porQueImporta": "",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/onde-investir/investimentos-tematicos-o-que-esta-no-radar-de-gestoras-com-us-55-trilhoes/"
+          }
+        ],
+        "updatedAt": "2026-07-15T16:31:54.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/clara-sodre-3.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "d67d6f88b7244877",
+        "clusterId": "554d5612815ef5c8",
+        "slug": "463dc03b023a6fa8",
+        "titulo": "Argentina enfrenta Inglaterra na semifinal da Copa do Mundo 2026",
+        "resumo": "A partida, marcada para as 16h (horário de Brasília), decidirá quem avançará para a final contra a Espanha. A seleção argentina, que já venceu a competição em 1978, 1986 e 2022, busca seu quarto título, enquanto a Inglaterra, que não chegou à final há 60 anos, tenta quebrar o jejum. O confronto carrega uma história de rivalidade que inclui a Guerra das Malvinas e episódios de tensão entre torcidas.",
+        "porQueImporta": "O resultado determinará o adversário da Espanha na final e pode alterar a trajetória histórica das duas seleções.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/live/cg7m999rjnkt?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/por-que-para-a-argentina-uma-semifinal-de-copa-contra-a-inglaterra-nao-e-so-sobre-futebol/"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/esportes/policia-de-atlanta-esta-alerta-para-semifinal-da-copa-entre-argentina-e-inglaterra/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/jogo/15-07-2026/inglaterra-argentina.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/argentina-pode-ter-quatro-mudancas-para-semifinal-contra-inglaterra"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/argentina-fez-questao-de-jogar-de-azul-contra-a-inglaterra-na-copa-entenda/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/esporte/vice-presidente-da-argentina-chama-ingleses-de-piratas-usurpadores-antes-da-semifinal/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/07/15/forca-mental-e-bola-parada-as-armas-da-argentina-para-a-semifinal-contra-a-inglaterra.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/esporte/inglaterra-x-argentina-wonderwall-e-la-cuarta-estrella-tambem-duelam-nas-arquibancadas/"
+          }
+        ],
+        "updatedAt": "2026-07-15T17:18:22.459Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56d5/live/8bbfb370-8063-11f1-926f-c90d1bcfbc84.jpg"
+      },
+      {
+        "clusterId": "52323d46143f1a42",
+        "slug": "7f7e69f339bf6073",
+        "titulo": "Irã parabeniza Espanha por vaga na final da Copa",
+        "resumo": "O governo iraniano enviou parabéns à seleção espanhola por alcançar a final da Copa do Mundo. A mensagem destacou que os jogadores espanhóis comeram kebabs preparados por um chef iraniano, sugerindo que estavam \"do lado certo da história\". A Espanha, que já venceu o torneio em 2010, agora busca um segundo título. O comentário faz referência ao histórico de sucesso da equipe e à influência cultural percebida.",
+        "porQueImporta": "Mostra como a diplomacia esportiva pode ser usada para fortalecer laços internacionais.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/07/15/ira-parabeniza-selecao-espanha-final-copa-do-mundo-estao-do-lado-certo-da-historia.ghtml"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/15/veja-quantos-anos-tinham-os-jogadores-da-atual-selecao-da-espanha-no-titulo-mundial-de-2010.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/clywmyjp38jo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-07-15T13:07:50.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/lTZEkl7YpAnXayfT4qO1bF1vYCo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/x/8g1X7sSWGVkP7lBfnBWA/design-sem-nome-31-.jpg"
+      },
+      {
+        "clusterId": "5fd454e24173c45b",
         "slug": "32d10005ad5d7921",
         "titulo": "EUA lançam ataques e bloqueio naval contra Irã",
         "resumo": "Forças armadas dos EUA realizaram ataques contra alvos militares no litoral sul do Irã, incluindo cidades costeiras e ilhas. Dois petroleiros foram atingidos no Estreito de Ormuz, resultando em mortes e feridos. Em resposta, o Irã relatou bombardeios e retaliou contra alvos militares americanos no Oriente Médio. O bloqueio naval dos EUA entrou em vigor, restringindo o acesso a portos e regiões costeiras iranianas.",
@@ -624,87 +662,43 @@
         "category": "mundo",
         "sources": [
           {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/ataques-dos-eua-mataram-civis-nos-ultimos-dias-diz-ira/"
+          },
+          {
             "name": "G1",
             "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/entenda-o-bloqueio-naval-dos-eua-imposto-aos-portos-do-ira/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/eua-lanca-novos-ataques-contra-ira-e-restabelece-bloqueio-naval/"
           }
         ],
-        "updatedAt": "2026-07-15T11:21:01.000Z",
+        "updatedAt": "2026-07-15T15:48:41.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/Dj8pPQ2gNJH-XuLoddGZX1G17Xc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/r/vxxnADTiy5p82BdJ1veQ/2026-07-12t065638z-1526201117-rc24cmal4xts-rtrmadp-3-iran-crisis.jpg"
       },
       {
-        "clusterId": "b4611d127d760d4a",
-        "slug": "5efbbe1974ecc973",
-        "titulo": "Luis de la Fuente explica como a seleção espanhola se tornou uma máquina de vencer e chegou à final da Copa",
-        "resumo": "O técnico da seleção espanhola, Luis de la Fuente, revelou que o sucesso da equipe se deve a uma estrutura disciplinada e a um foco coletivo. Ele destacou a importância de jogadores como Lamine Yamal para a dinâmica do time. De la Fuente também falou sobre sua própria identidade como treinador e como ela influencia a estratégia da equipe. A entrevista foi feita para a BBC Brasil.",
-        "porQueImporta": "Ilustra os fatores que levaram a Espanha a alcançar a final da Copa, oferecendo insights sobre gestão e desempenho esportivo.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/saiba-por-que-o-tecnico-da-espanha-adoraria-enfrentar-argentina-na-final/"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/clywmyjp38jo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-07-15T12:54:14.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5968/live/5f778b70-7bf5-11f1-9c0e-f72205f34c8c.jpg"
-      },
-      {
-        "clusterId": "a1abc055e435f262",
-        "slug": "d966864f34036998",
-        "titulo": "Ucrânia sofre perdas na exportação de grãos e enfrenta ataques no Mar Negro",
-        "resumo": "A Ucrânia perdeu cerca de um terço da capacidade de exportação de grãos no Mar Negro, com mais de 90% dos produtos agrícolas sendo embarcados por três portos em Odesa. Recentemente, a Marinha ucraniana confirmou ataques a 20 navios russos na região, enquanto a cidade portuária de Odessa foi alvo de bombardeios que resultaram em mortes e feridos.",
-        "porQueImporta": "A redução nas exportações agraria e os ataques marítimos afetam a economia ucraniana e a segurança regional.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/agro/ucrania-perde-um-terco-da-capacidade-de-exportacao-de-graos-no-mar-negro/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/07/15/ucrania-confirma-ataque-a-20-navios-russos-no-mar-negro-apos-ofensiva-da-russia-em-odessa.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-15T12:40:20.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/gGX41AGxwc_OVi_N4PXbDwnW3Rw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/N/pRpypCTBmnKrlJBAOF6Q/2026-07-14t091321z-1727819094-rc2ldma2u8w8-rtrmadp-3-ukraine-crisis-attack-odesa.jpg"
-      },
-      {
-        "clusterId": "e17ff0769206e68f",
-        "slug": "7121a44e4b97b971",
-        "titulo": "Trump usa tarifas para atacar autonomia do Brasil",
-        "resumo": "O jornal britânico The Guardian publicou editorial alegando que o presidente dos Estados Unidos, Donald Trump, emprega acusações comerciais e tarifas contra o Brasil para minar a autonomia do país. A Casa Branca está investigando práticas comerciais brasileiras consideradas injustas e pode anunciar novas tarifas até 15 de julho. A medida faz parte de uma disputa comercial maior entre os dois países.",
-        "porQueImporta": "A decisão pode afetar as relações comerciais e a soberania econômica do Brasil.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/07/15/trump-transforma-autonomia-do-brasil-em-delito-comercial-diz-jornal-britanico-sobre-tarifas.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c5yzyn7d1p9o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-07-15T12:04:48.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/xN71zoTCjYW9HSwZtJixmo8kBtU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/n/G7OqVXTc6IrnJmkULIrQ/06573e50-803c-11f1-ad4e-5b151eaf0c69.jpg"
-      },
-      {
-        "clusterId": "50cc8b8d59eda323",
-        "slug": "3e7f819b4826165f",
-        "titulo": "Trump diz ter desistido de cobrar pedágio de 20% a embarcações no Estreito de Ormuz",
-        "resumo": "Trump anuncia bloqueio naval e pedágio no Estreito de Ormuz; Irã reage com ataques O presidente dos Estados Unidos, Donald Trump, disse nesta terça-feira (14) que desistiu de cobrar uma taxa de 20% sobre produtos de navios que circulem pelo Estreito de Ormuz, como havia anunciado na segunda-feira (13). ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Trump afirmou que vai \"substituir\" a cobrança da taxa por acordos comerciais e de investimento com \"vários países\" do Golfo Pérsico. Mas disse que o bloqueio naval no estreito seguirá de pé (leia mais abaixo). ➡️ Na segunda-feira (13),…",
+        "clusterId": "3de396427b0dda9e",
+        "slug": "e5d85a5b3c6b8be3",
+        "titulo": "Relembre a história por trás da foto de Lamine Yamal no colo de Lionel Messi; craques podem se enfrentar na final da Copa",
+        "resumo": "A história por trás da foto de Lamine Yamal no colo de Lionel Messi Uma imagem que viralizou no passado voltou a ganhar força às vésperas da decisão da Copa do Mundo. Nela, Lionel Messi aparece dando banho em um bebê durante um ensaio fotográfico realizado em 2007. A criança era ninguém menos que Lamine Yamal, hoje principal estrela da nova geração da Espanha. O reencontro entre os dois pode acontecer já neste domingo (19), às 16h, na final da Copa do Mundo de 2026. Para isso, porém, a Argentina precisa primeiro superar a Inglaterra na semifinal, disputada nesta quarta-feira (19). Se avançar,…",
         "porQueImporta": "",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/15/casa-de-lamine-yamal-em-barcelona-sofre-tentativa-de-roubo.ghtml"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/07/15/casa-de-lamine-yamal-em-barcelona-sofre-tentativa-de-roubo.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-15T13:08:36.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/OGuUJ6cGC8Qi3qxT79M5L3hRwQ0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/W/a/aoAeCfShWGxBUML02Brw/2026-07-13t230134z-522315916-up1em7d1ryly8-rtrmadp-3-soccer-worldcup-fra-esp-preview.jpg"
+      },
+      {
+        "clusterId": "e5d61b5a4207b083",
+        "slug": "2c10ef7cd679cf02",
+        "titulo": "EUA retomam bloqueio naval ao Irã e iniciam ataques no litoral",
+        "resumo": "Os Estados Unidos reativaram o bloqueio naval aos portos iranianos, com início oficial na noite de 14 de julho, após o presidente Donald Trump declarar que os EUA seriam os guardiões do Estreito de Ormuz. Na mesma semana, as Forças Armadas dos EUA lançaram uma série de ataques contra alvos militares no sul e nas ilhas costeiras do Irã, marcando o terceiro dia consecutivo de hostilidades. O bloqueio inclui a imposição de um pedágio de 20% sobre cargas que transitam pelo estreito. A medida visa enfraquecer as capacidades militares do Irã e reverter o acordo de paz firmado em junho.",
+        "porQueImporta": "A escalada militar e o bloqueio naval aumentam a tensão no Oriente Médio, afetando o comércio marítimo e a segurança regional.",
         "category": "mundo",
         "sources": [
           {
@@ -720,7 +714,7 @@
         "imageUrl": "https://s2-g1.glbimg.com/t_UuqoBti8CVvBoy4FBec8UxcD4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/b/GrMiTOTAqTVqPBoY3eQg/cb49bc70-7fc8-11f1-82bc-eb96a9eb8087.jpg.webp"
       },
       {
-        "clusterId": "f2719218b21d8aae",
+        "clusterId": "0d57ba9b85be7381",
         "slug": "e63dd16dbe642da3",
         "titulo": "Número de mortos em terremotos na Venezuela sobe para 4.734",
         "resumo": "O balanço oficial do governo venezuelano indica 4.734 mortos, 16.740 feridos e 17.907 desabrigados após os terremotos de 24 de junho. Mais de 800 edifícios foram afetados, com 190 desabando. O relatório também registra 128.324 famílias atendidas e 20.231 pessoas alojadas em 107 acampamentos. A situação permanece em fase de emergência e a reconstrução será um desafio futuro.",
@@ -728,181 +722,282 @@
         "category": "mundo",
         "sources": [
           {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/07/15/venezuela-anuncia-plano-de-fortalecimento-da-democracia.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-15T15:57:26.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/63gL2E0tAcGHGYrGIHECdt0ADWE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/W/ENL8b1SACJcnvrUuDfxA/afp-20260714-c2448g3-v1-midres-filesvenezuelaearthquakeoil.jpg"
+      },
+      {
+        "clusterId": "ea7ca27094caf2c9",
+        "slug": "ba6f2bff354ce2ad",
+        "titulo": "Trump fará pronunciamento à nação para atacar urnas eletrônicas",
+        "resumo": "O presidente dos Estados Unidos, Donald Trump, vai fazer um discurso televisado à nação na noite de quinta-feira (16) para discutir informações de inteligência desclassificadas sobre a eleição de 2020 e alegar vulnerabilidades em urnas eletrônicas. Ele pretende retomar acusações de fraude que o levaram a contestar o resultado das eleições. A Casa Branca afirma que as vulnerabilidades são reais e que o presidente abordará o tema no discurso.",
+        "porQueImporta": "O pronunciamento pode influenciar a percepção pública sobre a integridade das eleições americanas e afetar a confiança nas urnas eletrônicas.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/07/15/piaui-urnas-tre.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-15T15:43:50.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/UKBAYz6wLFpXuzdVjhrLapUspew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/x/FzkaJDRGaZnMi4MVkeew/edicao-imagens-g1-33-.png"
+      },
+      {
+        "clusterId": "2c4aa1d1be0ed028",
+        "slug": "ed5963ae9674aa28",
+        "titulo": "Mulher relata ter segurado marido parcialmente sugado para fora de avião",
+        "resumo": "Durante voo da Ryanair entre Grécia e Alemanha, uma janela se rompeu e parte do corpo de um passageiro foi sugada para fora da aeronave. O marido, com o cinto de segurança afivelado, não foi lançado completamente e foi segurado pela esposa e por outros passageiros. A vítima ficou seriamente ferida e em choque, conforme relatado pela imprensa sérvia.",
+        "porQueImporta": "O incidente destaca riscos de falhas estruturais em aviões comerciais e a importância de procedimentos de segurança em voo.",
+        "category": "mundo",
+        "sources": [
+          {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c33y35rp217o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/articles/cn595k0n65yo?at_medium=RSS&at_campaign=rss"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/07/14/numero-de-mortos-em-terremotos-na-venezuela-sobe-para-4734.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/07/14/sugado-para-fora-de-aviao-mulher-conta-que-segurou-marido-pelas-pernas-se-morrermos-morreremos-juntos.ghtml"
           }
         ],
-        "updatedAt": "2026-07-14T22:19:34.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ddc2/live/4d289d90-7deb-11f1-a5de-97ad6e22e20a.jpg"
-      },
-      {
-        "clusterId": "9f7fd6e1ae50098d",
-        "slug": "70f26b8857a755d1",
-        "titulo": "Alok relata início de carreira como barback em Londres",
-        "resumo": "O DJ Alok contou que, antes de se tornar um dos artistas mais famosos do mundo, trabalhou como barback em boates londrinas, limpando o chão enquanto os DJs tocavam. Ele descreveu a experiência como um ponto de partida para sua trajetória na música eletrônica. A história destaca a trajetória de ascensão de um artista internacional.",
-        "porQueImporta": "Ilustra como carreiras na indústria musical podem começar em funções de apoio, inspirando aspirantes a DJs.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c75yypp30wxo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-07-15T13:12:18.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af31/live/8d3cf670-7985-11f1-9510-1546718f668b.jpg"
-      },
-      {
-        "clusterId": "dd336134754a5bb0",
-        "slug": "5dfa4d7463abd9df",
-        "titulo": "Messi supera Maradona e compete com Pelé em recordes de Copa do Mundo",
-        "resumo": "Na sua sexta Copa do Mundo, Lionel Messi, aos 39 anos, quebra recordes de gols e atuações, colocando-se à frente de Diego Maradona e, em alguns critérios, de Pelé. O desempenho destaca a longevidade e consistência de Messi em competições internacionais. A comparação com ícones históricos reforça o debate sobre o maior jogador de todos os tempos. O caso ilustra como recordes atuais podem redefinir legados esportivos.",
-        "porQueImporta": "O avanço de Messi em recordes globais influencia a percepção histórica do futebol e a valorização de atletas contemporâneos.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cjegeyx981jo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-07-15T12:58:46.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a17/live/42603f40-7f93-11f1-ac71-510b51a60620.jpg"
+        "updatedAt": "2026-07-14T18:45:28.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d5c6/live/0b7687c0-7f73-11f1-926f-c90d1bcfbc84.jpg"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "cdf3dfebb968d75f",
-        "slug": "55b334e9aabf5a33",
-        "titulo": "Starlink lança antena V5 mais compacta e com consumo de energia reduzido",
-        "resumo": "A SpaceX lançou a antena residencial V5, menor e mais leve que a V4, sem aumento de velocidade de internet. O novo modelo consome até metade da energia da geração anterior, podendo reduzir a conta de luz. A V5 está disponível em algumas regiões dos EUA e faz parte do plano residencial mais barato da empresa.",
-        "porQueImporta": "A redução no consumo de energia pode representar economia significativa para usuários domésticos.",
+        "clusterId": "a7c03d9240e9ab52",
+        "slug": "18dc313bcf6ea012",
+        "titulo": "Licença negada no PS5 expõe fragilidade do futuro 100% digital da Sony",
+        "resumo": "Um incidente relatado por um usuário de PlayStation 5 nas redes sociais reacendeu os debates sobre as fragilidades da Sony Interactive Entertainment em um futuro focado apenas em mídias digitais. No Reddit, o internauta “hellraiser29” contou que comprou Ghost of Yotei na PS Store e tentou jogá-lo em seu segundo PS5, mas recebeu a mensagem de que a sua licença não poderia ser verificada. Após a tentativa frustrada de restaurar as verificações, de forma manual, ele desistiu do processo e decidiu comprar o disco para poder aproveitar melhor o game em seus dois videogames. Porém, seu “perrengue”…",
+        "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/telecom/nova-antena-da-starlink-e-menor-e-reduz-a-conta-de-luz-em-50/"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/tecnologia/sony-disponibiliza-recurso-no-ps5-pedido-pela-comunidade-ha-anos/"
           },
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/07/15/internet-e-redes-sociais/a-nova-antena-starlink-chegou-saiba-o-que-muda/"
-          }
-        ],
-        "updatedAt": "2026-07-15T13:09:30.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/uuK7BsA4j7qwhu9-UioEageJLEs=/0x0/filters:format(webp):quality(85)/dca36bd6-61f7-4056-8f08-c9f53b494c13.png"
-      },
-      {
-        "clusterId": "e991be146313189f",
-        "slug": "4d3ff2ec71440715",
-        "titulo": "Acer lança Predator Helios 18 AI com 96 GB de RAM e 2 TB de SSD",
-        "resumo": "A Acer lançou globalmente o modelo topo de linha Predator Helios 18 AI, equipado com 96 GB de memória RAM e 2 TB de armazenamento SSD. O notebook também conta com o processador mobile mais potente da Intel e a GPU de última geração da NVIDIA. Apesar da alta demanda e dos preços elevados de memória, a Acer não reduziu nenhuma especificação. A novidade destaca-se por oferecer desempenho extremo para jogos e aplicações profissionais.",
-        "porQueImporta": "O lançamento demonstra a capacidade da Acer de oferecer configurações de alto desempenho, mesmo em meio a crises de hardware, atendendo a usuários que exigem potência máxima.",
-        "category": "tecnologia",
-        "sources": [
-          {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/notebook/acer-lanca-notebook-predator-helios-com-quase-100-gb-de-memoria-ram/"
+            "url": "https://canaltech.com.br/games/licenca-negada-no-ps-5-expoe-fragilidade-do-futuro-100-digital-da-sony/"
           }
         ],
-        "updatedAt": "2026-07-15T13:40:00.000Z"
+        "updatedAt": "2026-07-15T16:37:42.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/GettyImages-2285443398.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "8d67bf5cb4786108",
-        "slug": "e67a4a3889dcb957",
-        "titulo": "Nove emojis aprovados para Unicode 18.0",
-        "resumo": "O padrão Unicode 18.0 aprovou nove novos emojis que serão lançados em setembro de 2026, com disponibilidade em dispositivos entre fim de 2026 e 2027. A lista inclui ícones como meteoro, picles, borboleta-monarca e rosto em desintegração. A adoção depende de empresas como Apple, Google, Samsung e Microsoft. A prévia foi divulgada antes do Dia Mundial do Emoji em 17 de julho.",
-        "porQueImporta": "Esses emojis ampliarão a expressão digital em dispositivos móveis e computadores.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/apps/meteoro-e-picles-confira-os-9-novos-emojis-que-vao-invadir-seu-celular/"
-          }
-        ],
-        "updatedAt": "2026-07-15T13:30:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/gqLRKfr44KhzQZuDgxQCLohLUAs=/0x0/filters:format(webp):quality(85)/5bab9647-6203-42e6-aae4-8f587c03e96d.jpg"
-      },
-      {
-        "clusterId": "d086a2db75840191",
-        "slug": "64297f960313a947",
-        "titulo": "Apple libera Beta público do iOS 27; conheça 7 recursos para testar",
-        "resumo": "A Apple liberou a primeira versão Beta pública do iOS 27 na última segunda-feira (13). Agora, qualquer pessoa com um iPhone já pode baixar a versão de testes e conferir as principais novidades, com destaque para a nova Siri AI. O iOS 27 traz avanços da Apple na área de IA, com maior integração do Apple Intelligence entre os apps do sistema. Além disso, o update traz melhorias de performance e mais ajustes visuais para controlar a interface no Liquid Design. O Canaltech traz os principais destaques e o caminho para instalar o novo Beta: 7 recursos para testar no iOS 27 Beta Confira as…",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/apps/novo-i-os-vai-avisar-sobre-mensagens-perigosas-no-i-phone/"
-          }
-        ],
-        "updatedAt": "2026-07-15T13:12:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/CG2zFWLcPoQ1EUyUAZs5QFueh-c=/0x0/filters:format(webp):quality(85)/ada181a6-b7af-4b3c-bb3a-288c3b49a80b.png"
-      },
-      {
-        "clusterId": "f92621d7e7e59c1e",
-        "slug": "c4b698805b2fd82a",
-        "titulo": "Capcom planeja DLCs extensos para Resident Evil",
-        "resumo": "A Capcom pretende lançar expansões de maior duração para a franquia Resident Evil, visando preencher o intervalo entre os principais títulos. Segundo insider Dusk Golem, os novos DLCs terão histórias mais longas, semelhantes a Separate Ways e Shadow of Rose, e serão aplicados tanto em Requiem quanto em futuros jogos da série. A estratégia busca manter o interesse dos jogadores entre os lançamentos principais.",
-        "porQueImporta": "Aumentar o conteúdo entre lançamentos pode manter a base de fãs engajada e gerar receita contínua.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/games/capcom-vai-apostar-em-dlcs-longos-para-resident-evil/"
-          }
-        ],
-        "updatedAt": "2026-07-15T13:10:00.000Z"
-      },
-      {
-        "clusterId": "5e862e5102b39d6d",
-        "slug": "e5202efcdc6aab86",
-        "titulo": "Do Twitter ao X: 20 anos desde que a rede social transformou a comunicação online",
-        "resumo": "Memes, protestos, anúncios presidenciais e debates globais ajudaram a consolidar a trajetória da plataforma ao longo de duas décadas O post Do Twitter ao X: 20 anos desde que a rede social transformou a comunicação online apareceu primeiro em Olhar Digital.",
+        "clusterId": "c683bd8a675c307d",
+        "slug": "2f5155a36142b281",
+        "titulo": "China proíbe namorados criados por IA para combater dependência emocional",
+        "resumo": "Mulher se casa com personagem criado no ChatGPT A China aplica, a partir desta quarta-feira (15), uma regulamentação que acaba com os \"namorados\" virtuais criados por inteligência artificial, com o objetivo de combater a dependência emocional de chatbots. A medida foi recebida com tristeza e perplexidade por alguns usuários. 🗒️Tem alguma sugestão de reportagem? Envie para o g1 O fenômeno dos namorados e namoradas virtuais cresce no mundo, ao mesmo tempo em que proliferam avatares com aparência humana capazes de vender produtos ou simular a presença de uma pessoa falecida. No entanto, essas…",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/07/15/internet-e-redes-sociais/do-twitter-ao-x-20-anos-desde-que-a-rede-social-transformou-a-comunicacao-online/"
+            "url": "https://olhardigital.com.br/2026/07/15/inteligencia-artificial/china-desliga-namorados-de-ia-e-transforma-codigos-em-despedidas-reais/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/tecnologia/noticia/2026/07/15/china-proibe-namorados-criados-por-ia-para-evitar-dependencia-emocional.ghtml"
           }
         ],
-        "updatedAt": "2026-07-15T13:02:05.000Z"
+        "updatedAt": "2026-07-15T16:04:56.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/vVZ-QtbR85UAc23tW5vizS-y3eg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/H/5kYNLVTgSY5RBTuKFJdw/alexander-sinn-kgltfcgfc28-unsplash.jpg"
       },
       {
-        "clusterId": "3793ca4fe021cb9d",
-        "slug": "96e18b2c2419bbbe",
-        "titulo": "ROG Xbox Ally disponível em até 10x sem juros",
-        "resumo": "O ROG Xbox Ally, console portátil que combina a potência de um PC gamer com a interface de um console, está à venda por R$ 3.959,00. A KaBuM! oferece a possibilidade de parcelar o valor em até 10 vezes sem juros. O dispositivo permite jogar títulos de Steam, Xbox Game Pass, Epic Games e outros em qualquer lugar.",
-        "porQueImporta": "Facilita o acesso a jogos de PC e console em formato portátil com condições de pagamento atrativas.",
+        "clusterId": "7c064f83fcc3b1ec",
+        "slug": "c8fcd4d1e0290a2d",
+        "titulo": "Samsung revela prévia de novo smartwatch nas redes sociais; assista",
+        "resumo": "A Samsung revelou nas redes sociais uma prévia de um novo smartwatch da linha Galaxy Watch. O vídeo antecipa alguns dos recursos do relógio, que terá foco em saúde e inteligência artificial e deve ser apresentado no próximo Galaxy Unpacked, marcado para 22 de julho. 📱 Veja as melhores promoções de celulares no WhatsApp do CT Ofertas O teaser destaca recursos de monitoramento de frequência cardíaca e apneia do sono. Outra cena mostra uma interface voltada para corrida, mas a Samsung ainda não detalhou quais novidades estarão disponíveis para atividades físicas. Segundo a Samsung, o novo…",
+        "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/07/15/reviews/novos-dobraveis-oculos-de-ia-e-mais-veja-o-que-esperar-do-samsung-galaxy-unpacked-2026/"
+          },
+          {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/hardware/jogos-na-palma-da-mao-rog-xbox-ally-com-ryzen-z2-em-10x-sem-juros-de-r-395-90/"
+            "url": "https://canaltech.com.br/smartphone/mais-resistencia-dobravel-da-samsung-vai-estrear-tela-especial-de-titanio-veja/"
           }
         ],
-        "updatedAt": "2026-07-15T12:57:45.000Z"
+        "updatedAt": "2026-07-15T14:49:13.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/sulN6yKas38t5m0xcfTJNmTr7Bg=/0x0/filters:format(webp):quality(85)/df8a75fd-94c3-446f-bfb2-c74b40466340.png"
       },
       {
-        "clusterId": "a584e82c8d6efa16",
-        "slug": "31fef1665354df13",
-        "titulo": "Motorola lança \"matador de top de linha\": MagSafe, chip poderoso e preço baixo",
-        "resumo": "A Motorola anunciou, nesta quarta-feira (15), o lançamento oficial do aguardado Motorola Edge 70 Max. O modelo com proposta de ser \"matador de tops de linha\" chega oferece suporte a carregamento magnético no estilo \"MagSafe\", processador top de linha e outros recursos premium por um preço mais acessível. O desempenho do novo dispositivo da Motorola fica por conta do chip Snapdragon 8 Gen 5 de 3 nm, da Qualcomm. A fabricante afirma que a combinação do processador com memórias RAM LPDDR5X e armazenamento ultrarrápido UFS 4.1 permite executar recursos de IA, jogos pesados e outras tarefas…",
+        "clusterId": "d5c24a3e1e8aee28",
+        "slug": "10a7b1caa48220f7",
+        "titulo": "Google usou IA para recriar golaço histórico “perdido” de Pelé",
+        "resumo": "Entre os 1.283 gols de Pelé, um deles se destaca pela beleza e pelo mistério: um tento de 1959 contra o Juventus, considerado um dos maiores bonitos do Rei, mas que nunca foi gravado em vídeo. O Google quis dar um fim ao enigma e recriou o lance com ajuda de IA. Com ajuda de historiadora, da família de Pelé e até de um filme (i)live-action, o Google DeepMind (divisão de inteligência artificial da empresa) usou as ferramentas de IA Nano Banana, Veo 3 e Gemini Omni para transformar os relatos do gol em vídeo. No lance, Pelé deu chapéus consecutivos em três defensores e no goleiro antes de…",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/tecnologia/gol-mais-bonito-de-pele-e-reconstruido-por-ia-do-google/"
+          },
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/inteligencia-artificial/google-usou-ia-para-recriar-golaco-historico-perdido-de-pele/"
+          }
+        ],
+        "updatedAt": "2026-07-15T14:42:44.000Z"
+      },
+      {
+        "clusterId": "bd7ccfbe3d16acc0",
+        "slug": "4f26c665f4945789",
+        "titulo": "Sucesso de Assassin's Creed Black Flag não impede demissões em massa",
+        "resumo": "Mesmo com um lançamento bem-sucedido para Assassin’s Creed Black Flag Resynced — que alcançou 2 milhões de unidades vendidas em menos de 24 horas —, a Ubisoft Barcelona “recompensou” seu quadro de funcionários com demissões em massa. O estúdio, responsável pelos elogiados trechos subaquáticos do remake, desligou 51 membros da equipe. O animador de gameplay e técnico da divisão, Manel Cota, afirmou que a ação não soa justa e que desagradou a todos. “A Ubisoft Barcelona fez todos os estágios marinhos. O mesmo time é desligado agora, porque a Ubisoft pensa que é aquilo que merecemos”, declarou o…",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/07/15/games-e-consoles/ubisoft-barcelona-entra-em-greve-apos-demissoes/"
+          },
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/games/sucesso-de-assassins-creed-black-flag-nao-impede-demissoes-em-massa/"
+          }
+        ],
+        "updatedAt": "2026-07-15T14:28:32.000Z"
+      },
+      {
+        "clusterId": "e76734a5a0069868",
+        "slug": "38b669449e422cf4",
+        "titulo": "Absurdo? Loja da Crunchyroll agora será exclusiva para assinantes",
+        "resumo": "A Crunchyroll anunciou oficialmente que mudará a forma como trabalha com a sua loja digital: a partir de agosto, a Crunchyroll Store (indisponível no Brasil) só estará disponível para assinantes dos planos Mega Fan e Ultimate. Deste modo, diversos itens relacionados a animes famosos — muitas vezes exclusivos — estarão restritos para quem paga o serviço. Na prática, se você consome de outro modo ou apenas lê os mangás, não conseguirá determinadas mercadorias. De acordo com a plataforma, a nova experiência permitirá trabalhar de forma mais focada e com diversas ações positivas, como lançamentos…",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/smartphone/motorola-lanca-matador-de-top-de-linha-mag-safe-chip-poderoso-e-preco-baixo/"
+            "url": "https://canaltech.com.br/entretenimento/absurdo-loja-da-crunchyroll-agora-sera-exclusiva-para-assinantes/"
           }
         ],
-        "updatedAt": "2026-07-15T12:38:17.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/_xSLEVzgb1uU0vdupqehAwyZ--A=/0x0/filters:format(webp):quality(85)/b14fef21-d0fa-41b3-8a34-6fdb5caeabed.png"
+        "updatedAt": "2026-07-15T17:10:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/Z-GIAedQ_8zNCO6XxOC4i7ed7BI=/0x0/filters:format(webp):quality(85)/27864664-f3f9-4b7d-8cd0-036cbc85c494.jpg"
+      },
+      {
+        "clusterId": "55aac92d2da5dfc1",
+        "slug": "8dc69aea333ce12a",
+        "titulo": "Telegram ganha novo supereditor e busca privada de GIFs com 350 milhões de opções",
+        "resumo": "O Telegram lançou uma atualização com um novo editor de texto avançado e uma ferramenta de busca de GIFs ampliada. O recurso de GIFs agora acessa um catálogo com 350 milhões de opções e foi desenvolvido com foco em privacidade, e o novo Editor de Texto Formatado chega inicialmente apenas para assinantes do Telegram Premium. Chamado de “supereditor”, o recurso transforma o aplicativo em uma ferramenta para criação de conteúdos mais longos, como artigos, blogs e publicações completas. A novidade está disponível no celular e no desktop e permite adicionar tabelas, imagens e vídeos dentro do…",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/apps/telegram-ganha-novo-supereditor-e-busca-privada-de-gifs-com-350-milhoes-de-opcoes/"
+          }
+        ],
+        "updatedAt": "2026-07-15T17:06:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/W9DOn0vNM8gTfNIfC0HaAkjX0Hg=/0x0/filters:format(webp):quality(85)/6bd68016-6e1e-4923-ab5e-354fcb6b2195.jpeg"
+      },
+      {
+        "clusterId": "e454f3f5f861dc87",
+        "slug": "3ac7714f99713299",
+        "titulo": "Galaxy Tab S11 de 256 GB cai para menos de R$ 4.900 em oferta",
+        "resumo": "O Galaxy Tab S11 de 256 GB apareceu por R$ 4.891,55, com frete grátis. A oferta chama atenção por colocar um dos tablets mais avançados da Samsung abaixo dos R$ 5 mil, com 12 GB de RAM e S Pen inclusa. 📱 Veja as melhores promoções de celulares no WhatsApp do CT Ofertas O modelo também traz uma tela de 11 polegadas com taxa de atualização de 120 Hz, certificação IP68 contra água e poeira e recursos do Galaxy AI. É um pacote indicado para quem busca um tablet potente para estudo, trabalho e consumo de conteúdo. 🥇 Melhor oferta: Galaxy Tab S11, 256 GB e 12 GB de RAM — R$ 4.891,55; 🥈…",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/tablet/galaxy-tab-s11-de-256-gb-cai-para-menos-de-r-4-900-em-oferta/"
+          }
+        ],
+        "updatedAt": "2026-07-15T16:41:01.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/EssgSsBp0IL6ISbHpluc4DmnjCU=/0x0/filters:format(webp):quality(85)/f5908607-405a-4c01-85c7-1d89ebcc1c87.jpg"
       }
     ],
     "ciencia": [
+      {
+        "clusterId": "0f04bc2e74c6e036",
+        "slug": "c4735aa9bb145033",
+        "titulo": "Sesc abre 240 vagas em cursos gratuitos no RN; veja prazos e como se inscrever",
+        "resumo": "Brigadeiros de manjericão com hortelã e de chocolate Priscila Mara/Arquivo pessoal O Serviço Social do Comércio do Rio Grande do Norte (Sesc RN) abre na próxima segunda-feira (20) inscrições para 240 vagas em cursos gratuitos em sete cidades do estado. As vagas são para as turmas de agosto dos Cursos de Valorização Social (CVS), que acontecem por meio do Programa de Comprometimento e Gratuidade. 📳 Clique aqui para seguir o canal do g1 RN no WhatsApp As inscrições acontecem até o dia 24 de julho, e as aulas estão previstar para começar no dia 3 de agosto (veja mais abaixo como se inscrever).…",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/07/15/sesc-vagas-cursos-gratuitos-rn-prazos-como-se-inscrever.ghtml"
+          },
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/universidade/cursos-de-inverno-da-usp-tem-mais-de-7-mil-vagas-na-area-de-humanidades/"
+          }
+        ],
+        "updatedAt": "2026-07-15T15:36:46.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/FcTEguoJkab0YNt48yKK5Pc-HXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/m/u/80M4ksTN6Ez8FW6MwvBw/brigadeiross.jpg"
+      },
+      {
+        "clusterId": "b8d57e90ab41bf3c",
+        "slug": "a4384d3bbd3d215d",
+        "titulo": "Tecnologia nacional de frenagem automática promete aumentar a segurança no trânsito",
+        "resumo": "Sistema combina radar e câmera para identificar obstáculos e acionar os freios automaticamente, reduzindo o risco de colisões causadas por distração do motorista",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/radio-usp/tecnologia-nacional-de-frenagem-automatica-promete-aumentar-a-seguranca-no-transito/"
+          }
+        ],
+        "updatedAt": "2026-07-15T17:03:40.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/08/20230811_transito_saopaulo-1024x538.jpg"
+      },
+      {
+        "clusterId": "9c74c55f714eec09",
+        "slug": "c41bf8db5df43e73",
+        "titulo": "A tecnologia que permitiu que “A Odisseia” fosse 100% filmado em IMAX",
+        "resumo": "O novo filme de Christopher Nolan estreia nesta quinta (16). Entenda a tecnologia que foi desenvolvida especialmente para o diretor.",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/tecnologia/a-tecnologia-que-permitiu-que-a-odisseia-fosse-100-filmado-em-imax/"
+          }
+        ],
+        "updatedAt": "2026-07-15T17:00:25.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/07/SI_489_Playlist_Abre.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "d5382d5260de5b26",
+        "slug": "62b9d381a8d0af94",
+        "titulo": "Informação é comida. Escolha bem o que você consome.",
+        "resumo": "O feed é como um pacote de salgadinhos: viciante e praticamente sem nutrientes. Entenda como a analogia entre conteúdo e alimentação pode ajudar a lidar com a informação.",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/opiniao/informacao-e-comida-escolha-bem-o-que-voce-consome/"
+          }
+        ],
+        "updatedAt": "2026-07-15T15:00:54.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/07/SI_489_Essencial.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "36d524846cab7a71",
+        "slug": "3f95b2ca2aeabcac",
+        "titulo": "Plataforma que simula desequilíbrios quer antecipar risco de quedas em idosos",
+        "resumo": "Com sensores, jogos interativos e realidade virtual, tecnologia brasileira busca tornar mais precisa a avaliação do risco de quedas e orientar tratamentos personalizados",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Pesquisa FAPESP",
+            "url": "https://revistapesquisa.fapesp.br/plataforma-que-simula-desequilibrios-quer-antecipar-risco-de-quedas-em-idosos/?utm_source=rss&utm_medium=rss&utm_campaign=plataforma-que-simula-desequilibrios-quer-antecipar-risco-de-quedas-em-idosos"
+          }
+        ],
+        "updatedAt": "2026-07-15T15:00:06.000Z"
+      },
       {
         "clusterId": "50481ef95c0fb73b",
         "slug": "08dc7cd443317867",
@@ -920,120 +1015,36 @@
         "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/07/SI_asteroide-bennu_site.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "5d6c940f9470a3c0",
-        "slug": "63f34b711426717a",
-        "titulo": "Açúcar detectado pela primeira vez fora do Sistema Solar",
-        "resumo": "Astrônomos identificaram a molécula de eritrulose em uma nuvem de gás e poeira perto do centro da Via Láctea, a cerca de 26 mil anos-luz da Terra. A descoberta foi publicada na revista Nature Astronomy. A detecção demonstra que compostos orgânicos complexos podem existir em regiões distantes da galáxia.",
-        "porQueImporta": "Mostra que os ingredientes básicos da vida podem ser mais comuns no universo do que se pensava.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/ciencia/acucar-e-detectado-no-espaco-pela-1a-vez/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/ciencia/noticia/2026/07/13/acucar-detectado-pela-1a-vez-espaco-interestelar.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-14T19:00:05.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/07/SI_acucar-no-espaco_site.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "f07846957bb819cb",
-        "slug": "04393d31f983c085",
-        "titulo": "Supersalários revelam disparidade entre privilégios e realidade brasileira",
-        "resumo": "Pagamentos superiores ao teto constitucional estão em foco, destacando a desigualdade no funcionalismo público. O debate concentra-se na distribuição de recursos e na concentração de benefícios em poucos servidores. A discussão evidencia a distância entre os privilégios de alguns e a realidade de grande parte da população.",
-        "porQueImporta": "Ilustra a desigualdade salarial e a necessidade de revisão das políticas de remuneração pública.",
+        "clusterId": "568ca2f24350ec13",
+        "slug": "4ce77311657d2c7a",
+        "titulo": "Joelho varo, LCA e artrose: o que o alinhamento das pernas revela sobre as lesões no futebol",
+        "resumo": "Condição que ficou conhecida em atletas como Garrincha não significa necessariamente doença, mas pode influenciar a distribuição de carga no joelho",
+        "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/radio-usp/supersalarios-expoem-a-distancia-entre-privilegios-e-a-realidade-brasileira/"
+            "url": "https://jornal.usp.br/campus-ribeirao-preto/joelho-varo-lca-e-artrose-o-que-o-alinhamento-das-pernas-revela-sobre-as-lesoes-no-futebol/"
           }
         ],
-        "updatedAt": "2026-07-15T12:15:39.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/03/20230313_luciano--1024x1024.jpg"
+        "updatedAt": "2026-07-15T12:30:31.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/07/20260714_pernas-1024x538.jpg"
       },
       {
-        "clusterId": "91f13cbec8dc8cd3",
-        "slug": "d3e702aee3434935",
-        "titulo": "Resultados eleitorais na Colômbia e no Peru favorecem conservadorismo de extrema-direita",
-        "resumo": "As eleições na Colômbia e no Peru resultaram em derrotas de forças de esquerda ou progressistas, beneficiando um novo tipo de conservadorismo de extrema-direita. Esse cenário reflete uma tendência de fortalecimento de políticas conservadoras em toda a América do Sul. As mudanças podem impactar a proteção dos direitos humanos no país.",
-        "porQueImporta": "O fortalecimento de governos de extrema-direita pode restringir direitos humanos e alterar o equilíbrio político regional.",
+        "clusterId": "e9badcd7f16c488b",
+        "slug": "badaf0b17772206b",
+        "titulo": "Menstrual symptoms affect physical performance more than hormonal fluctuations themselves",
+        "resumo": "Although individual responses vary, researchers found that the menstrual cycle itself is not a determining factor in the physical performance of active women; symptoms such as severe menstrual cramps have a greater impact on performance than hormonal fluctuations",
+        "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/radio-usp/resultados-eleitorais-na-colombia-e-no-peru-ameacam-os-direitos-humanos/"
+            "url": "https://jornal.usp.br/uspnews/menstrual-symptoms-affect-physical-performance-more-than-hormonal-fluctuations-themselves/"
           }
         ],
-        "updatedAt": "2026-07-15T12:08:09.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/03/pasta-dos-20230313_dallari--1024x1024.jpg"
-      },
-      {
-        "clusterId": "82f7e836adc654e3",
-        "slug": "8af0a6a865f70124",
-        "titulo": "Baixa maturidade organizacional de clubes de futebol brasileiro limita gestão da informação",
-        "resumo": "Estudo do Jornal da USP aponta que a gestão fragmentada da informação nos clubes de futebol do Brasil impede a transformação do conhecimento em vantagem competitiva sustentável. A pesquisa destaca a necessidade de amadurecimento organizacional para melhorar processos e tomada de decisão. A falta de integração de dados compromete a eficiência e o desempenho das equipes.",
-        "porQueImporta": "Melhorar a gestão da informação pode aumentar a competitividade e a sustentabilidade dos clubes.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/ciencias/futebol-brasileiro-baixa-maturidade-organizacional-de-clubes-inclui-gestao-fragmentada-da-informacao/"
-          }
-        ],
-        "updatedAt": "2026-07-15T12:04:03.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/07/20260707_gestor-1024x538.jpg"
-      },
-      {
-        "clusterId": "e504c5d1d18b3507",
-        "slug": "d69cf1257208076e",
-        "titulo": "Livro de professor da USP aborda estatística, probabilidade e inteligência artificial",
-        "resumo": "O livro, escrito por um professor da USP, cobre desde conceitos básicos de estatística e probabilidade até a construção de inteligências artificiais. Ele combina teoria matemática, simulações e análise de dados, além de contextualização histórica e solucionário completo. A obra serve como recurso didático para estudantes e profissionais que desejam aprofundar o entendimento desses temas.",
-        "porQueImporta": "Contribui para a formação de profissionais capazes de aplicar métodos estatísticos na era da inteligência artificial.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/ciencias/para-entender-estatistica-e-probabilidade-do-basico-a-construcao-das-inteligencias-artificiais/"
-          }
-        ],
-        "updatedAt": "2026-07-15T11:57:35.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/07/20260713_beatles-1024x538.jpg"
-      },
-      {
-        "clusterId": "c68f47145710b14d",
-        "slug": "f9e0b6495ceff237",
-        "titulo": "IBGE estima que 5,5 milhões de pessoas no Rio Grande do Sul foram afetadas por enchentes",
-        "resumo": "O Instituto Brasileiro de Geografia e Estatística divulgou que 5,5 milhões de habitantes do Rio Grande do Sul sofreram impactos decorrentes das enchentes de 2024. A pesquisa especial sobre as enchentes fornece dados que podem orientar a gestão de futuros eventos climáticos extremos no estado. O levantamento inclui informações sobre danos materiais, deslocamentos e perdas humanas.",
-        "porQueImporta": "Esses dados são essenciais para planejar ações de prevenção e resposta a desastres no Rio Grande do Sul.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/atualidades/ibge-aponta-que-55-milhoes-de-pessoas-no-rs-sofreram-impactos-causados-pelas-enchentes/"
-          }
-        ],
-        "updatedAt": "2026-07-15T11:45:10.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2024/11/20241126_pelotas-enchente-1024x538.jpg"
-      },
-      {
-        "clusterId": "dd6615c1fdab7038",
-        "slug": "adca126c1b833dca",
-        "titulo": "Jurisprudência questiona constitucionalidade de PEC e critica teologia dominista",
-        "resumo": "O professor José Eduardo Campos Faria, da USP, argumenta que a PEC em discussão viola princípios constitucionais, especialmente no que tange à separação entre Estado e religião. Ele destaca que a proposta reforça uma teologia do dominismo, favorecendo grupos religiosos em detrimento de outros. A análise aponta que a PEC pode comprometer direitos fundamentais e a pluralidade religiosa no país.",
-        "porQueImporta": "A decisão pode afetar a proteção da liberdade religiosa e a aplicação de princípios constitucionais no Brasil.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/articulistas/jose-eduardo-campos-faria/a-inconstitucionalidade-de-uma-pec-e-a-teologia-do-dominismo/"
-          }
-        ],
-        "updatedAt": "2026-07-14T22:48:03.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/10/perfil_dest_jose-eduardo-c-faria.jpg"
+        "updatedAt": "2026-07-15T12:24:36.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2019/10/20191007_ciclista_mulher.jpg"
       }
     ],
     "saude": [
@@ -1070,147 +1081,135 @@
     ],
     "esportes": [
       {
-        "clusterId": "e58dd2de35c3b5b7",
-        "slug": "4772d13118340ae8",
-        "titulo": "Barra brava x hooligans: arquibancadas pulsantes movimentam Argentina x Inglaterra",
-        "resumo": "Rodrigo Coutinho analisa Inglaterra e Argentina, que se enfrentam pela semifinal da Copa Atlanta, nesta quarta-feira, receberá uma semifinal de Copa do Mundo com dois grupos de torcedores que tremem estádios. De um lado, a cultura de \"barras bravas\" impacta o lado da Argentina com canções e trapos (faixas ou panos). Do outro, o \"hooliganismo\", mesmo que com menor relevância, ainda está inserido em parte da cultura de estádios da Inglaterra. As seleções duelam às 16h (de Brasília) por uma vaga na final com muito apoio da arquibancada. + Argentina x Inglaterra 40 anos depois: Malvinas, Maradona…",
+        "clusterId": "607ff013ef64f495",
+        "slug": "5d2943360cdcb62a",
+        "titulo": "Tuchel nega problema com Bellingham e questiona imprensa: \"Criam mal-entendidos que não existem\"",
+        "resumo": "Bellingham rebate críticas de técnico da Inglaterra Às vésperas do jogo contra a Argentina, na semifinal da Copa do Mundo, Thomas Tuchel negou qualquer tipo de desentendimento com Jude Bellingham. O técnico da Inglaterra, que criticou atuação da equipe na partida anterior, contra a Noruega, e foi contrariado pelo meio-campista, questionou a abordagem da imprensa inglesa. — O que se pode esperar de um jogador que acabou de jogar 120 minutos e deu literalmente tudo de si? Se você cortar os comentários do técnico dele e disser: 'Ah, seu técnico disse que você foi displicente', o que você espera?…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/com-messi-confira-provaveis-escalacoes-para-inglaterra-x-argentina"
+            "url": "https://www.metropoles.com/esportes/tuchel-minimiza-polemica-com-bellingham-apos-criticar-inglaterra"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/15/barra-brava-x-hooligans-arquibancadas-pulsantes-movimentam-argentina-x-inglaterra.ghtml"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/hora1/noticia/2026/07/15/semifinal-da-copa-do-mundo-inglaterra-e-a-selecao-que-esta-ha-mais-tempo-sem-disputar-uma-final.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c39y9e8738do?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/quantas-copas-do-mundo-a-inglaterra-ganhou-veja-o-historico-da-selecao/"
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/15/tuchel-nega-problema-com-bellingham-e-questiona-imprensa-criam-mal-entendidos-que-nao-existem.ghtml"
           }
         ],
-        "updatedAt": "2026-07-15T13:18:02.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/07/messi-argentina-copa-do-mundo.jpg"
+        "updatedAt": "2026-07-15T16:50:32.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/07/tuchel-bellingham-inglaterra-copa-do-mundo.jpg"
       },
       {
-        "clusterId": "02d37628732d0063",
-        "slug": "f53799881d72d0ce",
-        "titulo": "Argentina não pode exibir bandeiras das Malvinas em jogo contra Inglaterra",
-        "resumo": "A segurança da Argentina proibiu que jogadores e torcedores levem faixas reivindicando a soberania das Ilhas Malvinas para o estádio de Atlanta, onde ocorrerá a semifinal da Copa do Mundo. A medida visa evitar conflitos em um confronto histórico entre os dois países. O jogo, marcado para quarta-feira, 15, já desperta atenção pela rivalidade que remonta à guerra de 1982.",
-        "porQueImporta": "A proibição reflete a sensibilidade política entre Argentina e Inglaterra, podendo influenciar o clima do evento esportivo.",
+        "clusterId": "3068e8f788f834d6",
+        "slug": "31d16a881cd141ea",
+        "titulo": "Espanhóis criticam preços dos ingressos para a final da Copa do Mundo; veja valores",
+        "resumo": "França 0 x 2 Espanha | Melhores momentos | Semifinal | Copa do Mundo Fifa 2026 A Espanha está na final da Copa do Mundo de 2026, mas o torcedor espanhol vai precisar desembolsar pelo menos R$ 25 mil para ver do estádio de Nova Jérsey a decisão do domingo, às 16h (de Brasília). O elevado preço dos ingressos foi alvo de indignação dos europeus, inclusive do presidente da Federação Espanhola de Futebol. Rafael Louzán criticou a Fifa. - O ingresso mais barato para a final custa cerca de US$ 4.000 (pouco mais de R$ 20 mil). Os preços são como passagens aéreas, são dinâmicos, sobem e descem. É…",
+        "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/07/15/rivalidade-entre-inglaterra-e-argentina-extrapola-futebol-entenda-a-guerra-das-malvinas.ghtml"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/esporte/argentina-x-inglaterra-mais-do-que-futebol-um-confronto-de-simbologia-historica-e-geopolitica/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/espanha-critica-precos-de-ingressos-para-a-final-da-copa-do-mundo/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/15/por-que-guerra-das-malvinas-invade-inglaterra-x-argentina-apesar-do-enfatico-apelo-de-scaloni.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cgmd3l308k3o?at_medium=RSS&at_campaign=rss"
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/15/espanhois-criticam-precos-dos-ingressos-para-a-final-da-copa-do-mundo-veja-valores.ghtml"
           }
         ],
-        "updatedAt": "2026-07-15T13:15:02.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/3gKNTSrEp4ZM3FBuDcgyut3-Ku0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/5/6yWR3ZRbeANJMEzoNZkQ/14780748-360p-300k-h264-2ch-128k-44100-aac-1784120681-frame-at-1m13s.jpg"
+        "updatedAt": "2026-07-15T16:33:53.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/6skytOzQv-C1kyGfAEoWR6inNXg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/9/B/fbMlgbQCSbhGalnZiowQ/gettyimages-2283081661.jpg"
       },
       {
-        "clusterId": "294e7a92cb81f3b6",
-        "slug": "13c96c109ddc6b3b",
-        "titulo": "Troca de tiros em Volta Redonda resulta em apreensão de drogas e ferimento",
-        "resumo": "Na tarde de terça-feira (14), agentes da Polícia Militar e da Guarda Municipal enfrentaram suspeitos em bairros diferentes de Volta Redonda. Em Nova Primavera, a PM apreendeu drogas após disparos dos suspeitos; em Jardim Ponte Alta, um homem de 39 anos foi baleado durante o confronto com a Guarda Municipal. Em ambos os casos, os suspeitos tentaram fugir e foram detidos ou feridos.",
-        "porQueImporta": "O episódio demonstra a atuação policial contra o tráfico e a violência urbana na cidade.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/07/15/troca-de-tiros-entre-suspeitos-pm-termina-com-drogas-apreendidas-em-volta-redonda.ghtml"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/rj/sul-do-rio-costa-verde/futebol/times/volta-redonda/noticia/2026/07/15/ferj-antecipa-jogo-de-volta-entre-volta-redonda-e-sao-goncalo-pela-copa-rio.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-15T13:34:56.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/2N3sHGN2ruUpfnt3L85KFdurtDA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/W/ajcydAQaawOKviecxZ5Q/whatsapp-image-2026-07-15-at-09.41.40.jpeg"
-      },
-      {
-        "clusterId": "cbac89f68f1d34a8",
-        "slug": "7ff051bdd99aca5c",
-        "titulo": "Eliminação da França na Copa do Mundo e trajetória de Rodri à final",
-        "resumo": "A França foi eliminada na fase de grupos, o que impede o atual vencedor da Bola de Ouro, Ousmane Dembélé, de disputar a final do Mundial. Rodri, capitão da Espanha, superou uma ruptura do ligamento cruzado anterior em 2024 e recebeu a Bola de Ouro no mesmo ano, antes de conduzir a seleção espanhola à final. A partida decisiva terminou com a vitória da Espanha por 2 a 0 sobre a França.",
-        "porQueImporta": "O resultado reflete a mudança de cenário para a seleção francesa e destaca a ascensão de Rodri como líder da Espanha no torneio.",
+        "clusterId": "2b852e4722050cca",
+        "slug": "e98bcca7387d5b25",
+        "titulo": "Espanha vence França por 2 a 0 e avança à final da Copa",
+        "resumo": "A seleção espanhola derrotou a França por 2 a 0 na semifinal da Copa, com gols de Oyarzabal no primeiro tempo e de Pedro Porro no segundo. O resultado garantiu à Espanha um lugar na final, onde enfrentará o vencedor entre Argentina e Inglaterra. O jogo foi marcado por domínio espanhol e controle do ritmo.",
+        "porQueImporta": "A vitória permite que a Espanha retorne à final da Copa após 16 anos, aumentando suas chances de conquistar um segundo título consecutivo.",
         "category": "esportes",
         "sources": [
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/eliminacao-da-franca-renova-maldicao-da-bola-de-ouro-na-copa-entenda/"
+            "url": "https://veja.abril.com.br/esporte/o-cabeludo-da-espanha-que-faz-sucesso-na-copa-mesmo-sem-gols/"
           },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/15/bola-de-ouro-e-cirurgia-no-joelho-rodri-supera-adversidades-para-brilhar-no-caminho-a-final-da-copa.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-15T13:29:33.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/142A5130.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "795c6071d3ebb01c",
-        "slug": "d18d3da7ec354762",
-        "titulo": "Espanha vence França e avança à final da Copa do Mundo",
-        "resumo": "A seleção espanhola venceu a França por 2 a 0 na semifinal, com gols de Mikel Oyarzabal e Pedro Porro. O resultado garante à Espanha um lugar na final contra a Argentina ou a Inglaterra. A partida gerou memes nas redes sociais, com brasileiros brincando que a torcida da França deu azar. Pedro Porro foi destaque, marcando o segundo gol e se tornando o melhor jogador do Cartola no dia 32.",
-        "porQueImporta": "A vitória decide quem enfrentará a Argentina ou Inglaterra na final da Copa do Mundo.",
-        "category": "esportes",
-        "sources": [
           {
             "name": "GE",
             "url": "https://ge.globo.com/futebol/copa-do-mundo/jogo/14-07-2026/franca-espanha.ghtml"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/noticia/2026/07/14/memes-franca-espanha-copa-do-mundo.ghtml"
           }
         ],
-        "updatedAt": "2026-07-15T12:59:54.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/y8wOQjhI9TS1tdS9FpILV-JamRU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/y/N/BXTGGISrOYzkpSkAZOrA/2026-07-14t210818z-1668585769-up1em7e1mps47-rtrmadp-3-soccer-worldcup-fra-esp-fans-madrid.jpg"
+        "updatedAt": "2026-07-15T15:36:03.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/GettyImages-2286160000.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "7dc83fcb5c818478",
-        "slug": "91b3c4d0e96a1c26",
-        "titulo": "Espanha garante vaga na final da Copa do Mundo 2026",
-        "resumo": "A seleção espanhola venceu a França por 2 a 0 na semifinal, assegurando-se a vaga na final do torneio. A partida foi marcada por um controle de bola e espaço eficaz, demonstrando o coletivo da equipe. A final será disputada no domingo, 19 de julho, contra a equipe que vencerá o jogo entre Inglaterra e Argentina. O resultado destaca a superioridade tática da Espanha em relação a outras seleções.",
-        "porQueImporta": "A vitória confirma a posição dominante da Espanha na fase decisiva do Mundial, influenciando o cenário competitivo e as expectativas de desempenho.",
+        "clusterId": "cf96eaa49865e9da",
+        "slug": "4772d13118340ae8",
+        "titulo": "Quer entender como a Espanha anulou a França? Observe quem estava sem a bola no pé",
+        "resumo": "França 0 x 2 Espanha | Melhores momentos | Semifinal | Copa do Mundo Fifa 2026 Artboard 1MENOR DESTAQUEArtboard 1MENOR DESTAQUEArtboard 1MAIOR DESTAQUEHabilitar ViewportPlayA Espanha é a primeira finalista da Copa do Mundo após anular a França e vencer a semifinal da Copa do Mundo por 2 a 0, em Dallas. O time francês passou longe da versão que chegou à semifinal cercada pelo favoritismo. O dado que melhor traduz o domínio espanhol é simples: a primeira finalização no alvo dos franceses saiu apenas aos 81 minutos. Ao todo, foram três. Nenhuma de Mbappé.Lamine Yamal provoca França após vitória…",
+        "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/blogs/blog-do-rodrigo-coutinho/post/2026/07/15/porque-a-espanha-finalista-escancara-a-falta-de-processos-do-brasil.ghtml"
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/15/thierry-henry-analisa-queda-da-franca-para-espanha-na-copa-do-mundo-duro-de-aceitar.ghtml"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/mundo/noticia/2026/07/14/espanha-finalista-quando-sera-a-final-da-copa-do-mundo.ghtml"
           }
         ],
-        "updatedAt": "2026-07-15T08:02:34.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/ySmjhdkx_NlzuFxdYH-vztE2pAE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2021/h/y/kjuJMgTHqvZ8GV9PA77Q/gettyimages-1332115922.jpg"
+        "updatedAt": "2026-07-15T14:06:17.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/VJzRJ7yV_NacFyvd1FHn0_WiCJ0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Q/c/LRHcBAQFaaOvB6AAMtRA/captura-de-tela-2026-07-10-084811.png"
       },
       {
-        "clusterId": "1fd29475acc7d295",
+        "clusterId": "f2ea553cabc0fd85",
+        "slug": "3fa0e9c43a5e07dc",
+        "titulo": "Uberlândia x Portuguesa: venda de ingressos é aberta com entradas a partir de R$ 5",
+        "resumo": "Esporte: veja os gols de Uberlândia 2 x 2 Serra Branca pela Série D do Brasileiro Está aberta a venda de ingressos para o duelo entre Uberlândia e Portuguesa pela Série D do Campeonato Brasileiro. O jogo de ida das oitavas é neste sábado, às 17h, no Estádio Parque do Sabiá, em Uberlândia. As entradas custam a partir de R$ 5, e há gratuidade para alguns públicos. + Veja a tabela da Série D do Campeonato Brasileiro A volta será no dia 25 de julho, às 16h, no Canindé, em São Paulo. Quem passar de fase disputará os jogos que valem o acesso à Série C. Estádio Parque do Sabiá, em Uberlândia Agência…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/mg/triangulo-mineiro/futebol/brasileirao-serie-d/noticia/2026/07/15/uberlandia-x-portuguesa-venda-de-ingressos-e-aberta-com-entradas-a-partir-de-r-5.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-15T17:11:29.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/91Z3thywNVtAddaARThmT5Mkf1s=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/m/G/ZX71ARSOGING2fsddKVA/estadio-parque-do-sabia-em-uberlandia.jpeg"
+      },
+      {
+        "clusterId": "c52549dcb6f3eb43",
+        "slug": "5fd32a3d80ce9c3e",
+        "titulo": "Post Malone fará show de encerramento da Copa do Mundo 2026",
+        "resumo": "Post Malone será a grande atração do show de encerramento da Copa do Mundo 2026. A Fifa anunciou nesta quarta-feira que o cantor vai comandar a cerimônia no estádio de Nova Jersey/Nova York, nos Estados Unidos, para celebrar os 39 dias de competição. 🔍 Adicione o ge nas suas fontes favoritas do Google + Confira a tabela completa da Copa do Mundo Post Malone fará show de encerramento da Copa do Mundo 2026 Fifa",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/copa-do-mundo/noticia/2026/07/15/post-malone-sera-atracao-principal-do-show-de-encerramento-da-copa-do-mundo-2026.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-15T17:06:58.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/-4e1rh36cfE-9WJd3spk17OObIQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/I/c/lFpMA1SsOKXiPUCMVcLg/whatsapp-image-2026-07-15-at-14.13.14.jpeg"
+      },
+      {
+        "clusterId": "cc801be55be4afbb",
+        "slug": "b3d481e2e6fff1df",
+        "titulo": "McLaren prepara atualizações e vai estrear nova asa traseira no GP da Bélgica",
+        "resumo": "Rafael Lopes comenta tudo o que rolou no GP da Grã-Bretanha de Fórmula 1 Buscando reagir na temporada, a atual campeã McLaren trará atualizações nos carros para a sequência do campeonato. A equipe britânica anunciou que contará com um \"pacote significativo de melhorias\" antes da pausa do verão europeu, sendo que vai lançar duas novidades já no GP da Bélgica deste final de semana. Acesse o canal de automobilismo do ge no WhatsApp 🔍 Adicione o ge nas suas fontes favoritas do Google Para a corrida em Spa-Francorchamps, os dois MCL40 terão uma nova asa traseira. A tecnologia vai estrear e ser…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/motor/formula-1/noticia/2026/07/15/mclaren-prepara-novidades-e-vai-estrear-nova-asa-traseira-no-gp-da-belgica.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-15T17:06:20.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/aaTFwlpb5p84yq_cyzMGByGN5lA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/x/r/roUCRvRsACK8KApj4t0g/2026-03-15t120443z-2018044400-up1em3f0xjsfa-rtrmadp-3-motor-f1-china.jpg"
+      },
+      {
+        "clusterId": "427d0d99c5b31240",
         "slug": "8045a113c9efcdb4",
         "titulo": "Vasco x Corinthians e Treze vs São José-RS agendam partidas na Série D 2026",
         "resumo": "O jogo de ida das oitavas de final da Série D do Campeonato Brasileiro 2026 entre Treze e São José-RS está marcado para sábado, 18, às 16h, no estádio Francisco Novelletto, em Porto Alegre. A diretoria do Treze já definiu a logística de treinos e viagem para o confronto. Paralelamente, o Vasco enfrentará o Corinthians no Campeonato Brasileiro sub-17 2026, com escalações e informações sendo divulgadas pelo GloboEsporte.",
@@ -1219,30 +1218,46 @@
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/pi/futebol/brasileirao-sub-17/jogo/15-07-2026/vasco-corinthians.ghtml"
+            "url": "https://ge.globo.com/sc/futebol/brasileirao-sub-20/jogo/15-07-2026/botafogo-santos.ghtml"
           }
         ],
-        "updatedAt": "2026-07-15T13:33:31.000Z",
+        "updatedAt": "2026-07-15T17:01:30.000Z",
         "imageUrl": "https://s2-ge.glbimg.com/RMh8A5gYemYXbpSut0xy2dvkZds=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/N/l/gXFkV0TB6GIkt2QQCwVA/whatsapp-image-2026-07-14-at-20.28.34.jpeg"
-      },
-      {
-        "clusterId": "1de0e5797818d0d7",
-        "slug": "8f41779ef7efe8b7",
-        "titulo": "Kannemann completa dez anos no Grêmio com títulos e lesões",
-        "resumo": "Walter Kannemann, contratado em 2016, completou uma década no Grêmio, acumulando títulos e enfrentando diversas lesões. Durante esse período, o zagueiro participou de conquistas importantes, incluindo a Copa do Brasil e a Libertadores. Sua trajetória foi marcada por momentos de destaque e desafios físicos, refletindo a resiliência do jogador. O clube e os torcedores celebram sua contribuição ao longo dos anos.",
-        "porQueImporta": "O marco de dez anos demonstra a longevidade e impacto de Kannemann na história recente do Grêmio.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2026/07/15/kannemann-completa-uma-decada-no-gremio-com-titulos-dupla-historica-e-lesoes-veja-trajetoria.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-15T13:33:08.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/1XoVR2_gjWU8bhwvSJUmC0BEWwo=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/h/I/zdSdDsQnSK9hBDmCWMrA/55042020441-9a00b6b995-k.jpg"
       }
     ],
     "entretenimento": [
+      {
+        "clusterId": "03d71d48d4841b44",
+        "slug": "62a8dfba48f649d6",
+        "titulo": "Ex-BBB Milena expõe mensagens racistas recebidas nas redes sociais",
+        "resumo": "Ex-BBB Milena expõe mensagens racistas recebidas nas redes sociais Reprodução/Instagram A ex-BBB Milena compartilhou nas redes sociais mensagens racistas que recebeu. A vice-campeã do BBB 26 reuniu diversos comentários ofensivos enviados a ela, incluindo ataques feitos na época em que ainda estava confinada no reality show. Nos stories, Milena publicou prints das mensagens e repudiou o conteúdo. Segundo ela, o caso será encaminhado para análise jurídica. \"Racismo é crime e tudo será tratado com o jurídico\", escreveu ao expor os comentários. A assessoria de imprensa de Milena Moreira foi…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/07/15/ex-bbb-milena-expoe-mensagens-racistas-recebidas-nas-redes-sociais.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-15T13:12:04.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/zANetGnLqCyL3iGOWX3nNllh2s4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/H/ZiRltHQLqylFrkJy2vyg/milena-montagem.png"
+      },
+      {
+        "clusterId": "3c8af53a0c888f44",
+        "slug": "a274870dbff8c064",
+        "titulo": "Tom Holland diz que foi ignorado por Haaland depois de um convite para jantar",
+        "resumo": "O ator Tom Holland e o jogador norueguês Haaland. Reprodução Tom Holland revelou que convidou Erling Haaland para jantar por mensagem direta no Instagram, mas nunca recebeu resposta do atacante do Manchester City. A história foi contada pelo ator durante uma participação no programa \"The Tonight Show\" e, dias depois, o jogador explicou que ignorou o convite porque não sabia quem era o remetente. Acompanhe as notícias da Copa do Mundo de 2026 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Torcedor declarado do Tottenham, Holland contou que encontrou Haaland em áreas de…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/07/15/tom-holland-diz-que-foi-ignorado-por-haaland-depois-de-um-convite-para-jantar.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-15T12:18:39.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/v5tMAPtF-t-7pRpXmvKCtiVysco=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/t/Ic6mRoTO2NSxo6PJKpxg/chatgpt-image-15-de-jul.-de-2026-09-16-46.png"
+      },
       {
         "clusterId": "1a242c83ce4a607c",
         "slug": "0a0beecc9ce3c8d8",
@@ -1324,52 +1339,20 @@
         "imageUrl": "https://s2-g1.glbimg.com/Y7PTP52Go0B1OCYbvmda7x1Q4xk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/y/lPnh1NR26BA5LLukwJgA/claudiasavaget.jpg"
       },
       {
-        "clusterId": "bbf6563b45c921a0",
-        "slug": "3587561e4ea1a487",
-        "titulo": "Adriana Calcanhotto debate poesia na criação de canções no encontro do Clube de Leitura CCBB",
-        "resumo": "A cantora Adriana Calcanhotto participou de um encontro no Rio de Janeiro organizado pelo Clube de Leitura CCBB, onde discutiu a influência da poesia na composição de suas músicas. Ela citou a inspiração de versos de Manuel Bandeira em sua canção “Vambora” e falou sobre a composição de “Motivos reais banais” apresentada em seu show “Olhos de onda”. O evento contou com a presença de leitores e fãs que puderam conhecer mais sobre o processo criativo da artista.",
-        "porQueImporta": "Mostra como a literatura influencia a música contemporânea e fortalece a relação entre leitores e artistas.",
+        "clusterId": "f99e3892d8c76e86",
+        "slug": "20df9ba2f4c432fc",
+        "titulo": "Vizinhas? Virginia compra apartamento no 'prédio do Neymar' meses após atrito com Bruna Biancardi; relembre",
+        "resumo": "Virgínia e Bruna Biancardi Reprodução / Instagram A influenciadora Virginia Fonseca comprou um apartamento no edifício conhecido como \"prédio do Neymar\", em Itapema, no litoral de Santa Catarina. O edifício é popularmente conhecido assim porque a empresa do jogador é proprietária do terreno e sócia da construtora responsável pela obra. A empresa responsável pelo edifício confirmou a compra de Virginia, que terá seu imóvel localizado no andar acima ao do jogador. Previsto para ficar pronto em dezembro de 2028, o Edify One, de 140 metros de altura e 41 apartamentos, fica na frente da Meia…",
+        "porQueImporta": "",
         "category": "entretenimento",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/07/14/adriana-calcanhotto-debate-a-poesia-na-criacao-da-cancao-em-encontro-no-rio.ghtml"
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/07/14/vizinhas-virginia-compra-apartamento-no-predio-do-neymar-meses-apos-atrito-com-bruna-biancardi-relembre.ghtml"
           }
         ],
-        "updatedAt": "2026-07-14T13:40:57.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/7cpbDpHoS71mmOUGDO34O6YPxxQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/D/yML4P2T3q5eidc5yd40Q/adrianacalcanhottofacebook.jpg"
-      },
-      {
-        "clusterId": "716cce808fa584ce",
-        "slug": "1ecf57856bb4010a",
-        "titulo": "Pagodeiros regravam músicas menos conhecidas em projetos lado B",
-        "resumo": "Artistas como Sorriso Maroto e Belo lançaram projetos de regravação de faixas que não tiveram grande destaque no passado, seguindo o conceito de lado B inspirado nos vinis. O movimento tem sido bem recebido pelos fãs, que valorizam a redistribuição de músicas pouco conhecidas. Os artistas gravam novas versões em estúdio, trazendo frescor às composições originais.",
-        "porQueImporta": "Revela a tendência de reviver e valorizar repertórios antigos dentro do pagode, mostrando a importância da nostalgia e da inovação no mercado musical.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/07/14/lado-b-por-que-sorriso-maroto-belo-e-outros-pagodeiros-estao-regravando-musicas-esquecidas.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-14T07:00:11.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/sK2mIBkeYNXpYZIgzh34PsvOoJo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/5/eZ2RNaRSA8hsKHYVx5PQ/fotos-g1-1920-x-1080-px-2026-07-09t190639.381.png"
-      },
-      {
-        "clusterId": "5505629606d14431",
-        "slug": "4848d82bc3b31f02",
-        "titulo": "Liam Gallagher xinga internauta que criticou escolha de \"Wonderwall\" como tema da Inglaterra na Copa",
-        "resumo": "O cantor Liam Gallagher, da banda Oasis, respondeu a um internauta brasileiro no X (antigo Twitter) chamando-o de \"otário\" após a crítica à escolha da música \"Wonderwall\" como tema da Inglaterra na Copa do Mundo. O comentário gerou repercussão nas redes sociais. Gallagher fez a reação durante a apresentação de sua banda em São Paulo. O episódio destaca a sensibilidade de artistas a críticas públicas.",
-        "porQueImporta": "Ilustra como figuras públicas podem reagir de forma agressiva a críticas nas redes sociais.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/07/13/liam-gallagher-xinga-brasileiro-que-reclamou-de-wonderwall-como-tema-da-inglaterra-na-copa.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-13T22:39:33.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/owFBiv_JcIlgy_4d1a3nqh_J1-Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/T/o/sG4XfqRfigAbtFARxCYQ/oasis-liam-gallagher-brazil-joshuahalling-5.jpg"
+        "updatedAt": "2026-07-14T14:15:35.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/yjFBJqSFKImIV1aE-04ZyRYVHDg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/J/Jj7XSnS6aFDfBLK2Zhlw/f8ca22af-2623-4454-888d-4d3e277adbd8.png"
       }
     ]
   }
