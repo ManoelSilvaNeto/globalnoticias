@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-07-16T13:51:50.403Z",
-  "editionDate": "2026-07-16",
-  "hourUtc": 13,
-  "outcome": "generated",
-  "reason": "\"Tarifas, eleições e Copa dominam a agenda brasileira enquanto eventos globais trazem alertas e tragédias\" (4 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok"
-  ]
+  "ranAt": "2026-07-17T06:16:53.394Z",
+  "editionDate": "2026-07-17",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "attempts": []
 }
