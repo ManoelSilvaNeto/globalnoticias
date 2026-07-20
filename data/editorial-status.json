@@ -1,8 +1,11 @@
 {
-  "ranAt": "2026-07-20T10:52:43.273Z",
+  "ranAt": "2026-07-20T14:06:49.386Z",
   "editionDate": "2026-07-20",
-  "hourUtc": 10,
-  "outcome": "skipped",
-  "reason": "fora da janela (10h < 11h UTC)",
-  "attempts": []
+  "hourUtc": 14,
+  "outcome": "generated",
+  "reason": "\"Cenário global se agita entre nova liderança no Reino Unido, tensão no Oriente Médio e celebrações esportivas\" (3 parágrafos)",
+  "attempts": [
+    "erro — sem cota (429)",
+    "ok (entidades fora do material toleradas: oriente, medio)"
+  ]
 }
