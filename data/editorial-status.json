@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-07-19T13:18:44.074Z",
-  "editionDate": "2026-07-19",
-  "hourUtc": 13,
-  "outcome": "generated",
-  "reason": "\"Copa do Mundo domina o cenário enquanto tensões geopolíticas e instabilidades digitais marcam o dia\" (4 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok (entidades fora do material toleradas: kylan)"
-  ]
+  "ranAt": "2026-07-20T03:15:50.130Z",
+  "editionDate": "2026-07-20",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "attempts": []
 }
