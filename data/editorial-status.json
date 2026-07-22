@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-07-21T13:51:38.815Z",
-  "editionDate": "2026-07-21",
-  "hourUtc": 13,
-  "outcome": "generated",
-  "reason": "\"Futebol, política e economia marcam a edição enquanto eventos culturais e científicos surpreendem\" (4 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok"
-  ]
+  "ranAt": "2026-07-22T06:28:39.860Z",
+  "editionDate": "2026-07-22",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "attempts": []
 }
