@@ -1,9 +1,69 @@
 {
   "date": "2026-07-23",
-  "generatedAt": "2026-07-23T14:01:21.119Z",
+  "generatedAt": "2026-07-23T17:23:20.894Z",
   "home": [
     {
-      "clusterId": "bc0c7d470df86f91",
+      "clusterId": "73e903fb039b5af6",
+      "slug": "ed7993054dd767ae",
+      "titulo": "Mendonça autoriza investigação da PF sobre repasses para filme Dark Horse",
+      "resumo": "O ministro André Mendonça, do STF, autorizou a abertura de inquérito para investigar repasses de Daniel Vorcaro destinados à produção da cinebiografia Dark Horse. A decisão atende a pedido da Polícia Federal e segue parecer favorável da Procuradoria‑Geral da República. O inquérito buscará verificar possíveis irregularidades nos pagamentos, inclusive se parte do dinheiro teria sido usada para financiar despesas de aliados de Bolsonaro nos Estados Unidos.",
+      "porQueImporta": "A investigação pode revelar práticas ilícitas envolvendo recursos públicos e a promoção de interesses políticos.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/07/23/dark-horse-entenda-o-que-a-pf-vai-investigar-sobre-a-cinebiografia-de-jair-bolsonaro.ghtml"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-justica/mendonca-autoriza-pf-a-investigar-repasses-para-filme-sobre-bolsonaro/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/justica/dark-horse-mendonca-autoriza-pf-a-investigar-repasses-para-filme-sobre-bolsonaro/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/mendonca-autoriza-inquerito-sobre-repasses-de-vorcaro-para-dark-horse/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/caso-dark-horse-mendonca-autoriza-pf-a-investigar-repasses-de-vorcaro/"
+        }
+      ],
+      "updatedAt": "2026-07-23T16:35:41.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/AbXlGRYNY7LzoGTySAU_WT43Wt4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/A/Btw9z3RWm8Iwo21SvQyA/jim-caviezel-jair-bolsonaro-dark-horse-1-.jpg"
+    },
+    {
+      "clusterId": "9b81cfa74d6136d3",
+      "slug": "a0b56fd59bc7ca82",
+      "titulo": "PL do Ceará oficializa apoio a Ciro Gomes e mantém posição neutra em relação a Flávio Bolsonaro",
+      "resumo": "O Partido Liberal do Ceará anunciou apoio a Ciro Gomes para a eleição presidencial, enquanto a federação PP‑União Brasil decidiu permanecer neutra. A decisão do PL CE gerou tensão entre Michelle Bolsonaro e os enteados, que apoiavam Flávio. Em paralelo, a campanha de Flávio tenta reverter a neutralidade do PP, buscando apoio de outros partidos. Ciro Nogueira informou que o PP e União Brasil manterão a neutralidade no primeiro e possivelmente no segundo turno.",
+      "porQueImporta": "A aliança influencia a dinâmica de apoio a candidatos de direita no cenário presidencial.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/apos-embate-entre-michelle-e-flavio-pl-oficializa-apoio-a-ciro-gomes"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/07/23/aliados-de-flavio-querem-reverter-decisao-do-pp-e-buscar-apoio-do-partido.ghtml"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes/pl-do-ceara-diz-nao-haver-acordo-para-ciro-gomes-apoiar-flavio/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/cartaexpressa/a-situacao-de-flavio-bolsonaro-no-acordo-entre-pl-e-ciro-gomes-no-ceara-segundo-andre-fernandes/"
+        }
+      ],
+      "updatedAt": "2026-07-23T17:19:52.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/07/Ciro-Gomes-3.jpeg"
+    },
+    {
+      "clusterId": "06b31eb53e7e5cf4",
       "slug": "2b1439baafc7dc19",
       "titulo": "EUA e Arábia Saudita firmam acordo nuclear que permite enriquecimento de urânio",
       "resumo": "O presidente Donald Trump aprovou um pacto de 30 anos que autoriza a Arábia Saudita a enriquecer urânio para fins civis, com participação de empresas americanas na construção de infraestrutura nuclear. O acordo, que ainda aguarda análise do Congresso, dispensa inspeções prévias da ONU e abre caminho para reatores norte‑americanos no país. Trump condicionou a assinatura a que a Arábia reconheça Israel, exigindo adesão aos Acordos de Abraão.",
@@ -11,567 +71,526 @@
       "category": "mundo",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/trump-condiciona-acordo-nuclear-com-arabia-saudita-a-normalizacao-de-relacoes-com-israel/"
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/mundo/trump-condiciona-acordo-nuclear-com-a-arabia-saudita-ao-reconhecimento-de-israel/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/analise-acordo-nuclear-entre-eua-e-arabia-saudita-gera-alerta/"
+          "url": "https://www.cnnbrasil.com.br/internacional/netanyahu-apoia-exigencia-de-trump-de-que-arabia-saudita-reconheca-israel/"
         },
         {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/eua-fecham-acordo-de-energia-nuclear-com-arabia-saudita/"
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cp8e2rj47n0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "G1",
           "url": "https://g1.globo.com/mundo/noticia/2026/07/23/trump-defende-acordo-nuclear-com-a-arabia-saudita-e-apenas-para-uso-nao-militar-saiba-por-que-acordo-e-polemico.ghtml"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/eua-anuncia-acordo-nuclear-com-a-arabia-saudita/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cvgl899vqwlo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-07-23T13:09:57.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/11/063_2247337340.jpg?quality=70&strip=info"
+      "updatedAt": "2026-07-23T14:55:21.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/AFP__20260624__B88C6DU__v1__MidRes__UsPoliticsDefenseNato.jpg"
     },
     {
-      "clusterId": "bc5bc31e8befab31",
-      "slug": "fc369f80287ef845",
-      "titulo": "Gabriel Pec sofre fratura na perna esquerda após entrada de Victor Gabriel",
-      "resumo": "O atacante Gabriel Pec, recém‑contratado pelo Cruzeiro, sofreu fratura na perna esquerda durante sua estreia no Brasileirão contra o Internacional. A lesão ocorreu após uma entrada forte de Victor Gabriel, que foi expulso pelo árbitro. Pec deixou o campo sangrando e foi encaminhado ao vestiário para exames detalhados. A fratura foi confirmada em exames posteriores.",
-      "porQueImporta": "A lesão impede o jogador de participar das próximas partidas, afetando a formação do Cruzeiro.",
+      "clusterId": "55d26858b89f2d5b",
+      "slug": "cd2eae13a8bd2b61",
+      "titulo": "Grêmio anuncia contratação de Jovane Cabral",
+      "resumo": "O Grêmio firmou contrato com o meia-atacante Jovane Cabral, de Cabo Verde, que participou da Copa do Mundo de 2026 pela seleção nacional. O vínculo do jogador com o clube gaúcho dura até o final de 2027. Cabral estava sem contrato após deixar o Estrela Amadora, em Portugal, em maio deste ano.",
+      "porQueImporta": "A contratação reforça o elenco do Grêmio com um jogador internacional experiente.",
       "category": "esportes",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/gabriel-pec-do-cruzeiro-tem-fratura-confirmada-na-perna-esquerda"
+          "url": "https://www.metropoles.com/esportes/gremio-anuncia-a-contratacao-de-jovane-cabral-de-cabo-verde"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/gremio-anuncia-contratacao-de-jovane-cabral-atacante-de-cabo-verde-na-copa/"
         },
         {
           "name": "GE",
-          "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/22-07-2026/internacional-cruzeiro.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/atacante-gabriel-pec-passa-por-reavaliacao-e-tem-fratura-confirmada/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/esporte/gabriel-pec-sofre-fratura-na-perna-em-estreia-como-titular-pelo-cruzeiro/"
+          "url": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2026/07/23/gremio-anuncia-contratacao-de-jovane-cabral-da-selecao-de-cabo-verde.ghtml"
         }
       ],
-      "updatedAt": "2026-07-23T13:40:41.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/07/gabriel-pec-cruzeiro-1.jpg"
+      "updatedAt": "2026-07-23T17:15:38.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/07/jovane-cabral-cabo-verde-gremio.jpg"
     },
     {
-      "clusterId": "396517c7fe6198cc",
-      "slug": "8c133b4b3ab9f61e",
-      "titulo": "Depois das críticas às urnas, interlocutores de Flávio Bolsonaro alertam para risco de perda de apoio no eleitorado independente",
-      "resumo": "O discurso de ataque às urnas eletrônicas é muito bem recebido pelo \"bolsonarismo raiz\", mas pode levar a perda de intenções de votos de eleitores independentes. O alerta é de interlocutores do pré-candidato do PL, Flávio Bolsonaro, que lembram ser esse o segmento que costuma decidir uma eleição polarizada. O senador do PL imitou o pai e lançou dúvidas sobre as urnas usadas no Brasil. Segundo esses interlocutores, há risco ainda de queda de intenções de votos de eleitores que se consideram de direita, mas não bolsonaristas. As últimas pesquisas já mostraram um recuo de Flávio Bolsonaro nestes…",
-      "porQueImporta": "",
-      "category": "politica",
+      "clusterId": "56d991ccba19ffd5",
+      "slug": "9fe572872fc950f6",
+      "titulo": "Câmara dos EUA aprova orçamento de US$ 95 bilhões para guerra contra o Irã e pacote de US$ 1 trilhão para defesa",
+      "resumo": "A Câmara aprova, por 216 a 214 votos, um orçamento de US$ 95 bilhões para a operação contra o Irã, enquanto um projeto de lei de defesa de US$ 1 trilhão recebe 216 a 212 votos. O pacote de US$ 480 bilhões, apoiado apenas pelos republicanos, também foi aprovado e agora segue para o Senado. O secretário de Guerra Pete Hegseth informou que os custos da guerra já somam US$ 37,5 bilhões.",
+      "porQueImporta": "O aumento de gastos reflete a intensificação das ações militares dos EUA no Oriente Médio.",
+      "category": "mundo",
       "sources": [
         {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-eleicoes-2026/pt-pc-do-b-e-pv-vao-a-justica-contra-flavio-por-fala-sobre-urnas/"
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/23/camara-dos-eua-aprova-impedimento-a-guerra-contra-o-ira-em-repreensao-simbolica-a-trump.ghtml"
         },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/23/depois-das-criticas-as-urnas-interlocutores-de-flavio-bolsonaro-alertam-para-risco-de-perda-de-apoio-no-eleitorado-independente.ghtml"
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/eua-aprova-mocao-para-impedir-a-guerra-contra-o-ira-em-nova-repreensao-a-trump/"
         },
         {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/cartaexpressa/a-falta-de-conviccao-no-eleitorado-de-flavio-bolsonaro-segundo-pesquisa/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cr49rgx6zv0o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.cartacapital.com.br/mundo/camara-dos-eua-vota-mais-uma-vez-contra-a-guerra-no-ira/"
         }
       ],
-      "updatedAt": "2026-07-23T13:31:10.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/D4Xq7WEykkhwQZItZg099ruvQCU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/D/4QBeMIQmebYJBZobTw2w/novo-projeto-1-.jpg"
+      "updatedAt": "2026-07-23T16:55:04.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/Jtju9p3OTDe_lQ3DR8JAdqEu7no=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/B/lBYwlrQBOZpsejvtW1Xw/2026-04-22t011358z-236832966-rc22vgag3pzm-rtrmadp-3-usa-election-virginia-redistricting.jpg"
     },
     {
-      "clusterId": "4facd54ef4983ddb",
-      "slug": "66a93b17365d4aaa",
-      "titulo": "Escalada no Oriente Médio afeta dólar, petróleo e crescimento global",
-      "resumo": "A intensificação das tensões entre os Estados Unidos e o Irã elevou o dólar e impulsionou os preços do petróleo, que quase atingiram US$ 100 por barril. Os contratos futuros de petróleo subiram em sua quinta sessão consecutiva, refletindo o temor de interrupções nas cadeias de abastecimento. O Banco Mundial prevê que a guerra pode reduzir o crescimento econômico global para 1,3% em 2026, em contraste com 2,9% no ano anterior.",
-      "porQueImporta": "O conflito pode aumentar a inflação, elevar as taxas de juros e frear o crescimento econômico mundial.",
+      "clusterId": "e80edf1ebedb2ba2",
+      "slug": "050f2e51cd636757",
+      "titulo": "Casa Branca diz que governo fará anúncio de novas tarifas nesta quinta",
+      "resumo": "Vista aérea da Casa Branca, em 2 de maio de 2026 REUTERS/Ken Cedeno A secretária de imprensa da Casa Branca, Karoline Leavitt, informou nesta quinta-feira (23) que o representante comercial dos Estados Unidos, Jamieson Greer, fará um anúncio sobre novas tarifas antes do fim da vigência da taxa global de 10%, previsto para sexta-feira (24). A expectativa é que a medida inclua uma sobretaxa de 12,5% sobre produtos de cerca de 60 países, incluindo o Brasil. 🗒️Tem alguma sugestão de reportagem? Envie para o g1 A possível nova tarifa está relacionada a uma investigação conduzida pelo Escritório…",
+      "porQueImporta": "",
       "category": "economia",
       "sources": [
         {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/eua-farao-anuncio-sobre-novas-tarifas-nesta-quinta-feira-diz-casa-branca/"
+        },
+        {
           "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-23072026/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/economia/petroleo-se-aproxima-dos-us-100-por-barril-em-meio-a-guerra-no-oriente-medio/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/mercado/petroleo-23-julho-2026/"
+          "url": "https://www.infomoney.com.br/mundo/representante-comercial-dos-eua-fara-anuncio-sobre-tarifas-nesta-quinta-feira/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/07/22/guerra-no-oriente-medio-crescimento-global-banco-mundial.ghtml"
+          "url": "https://g1.globo.com/economia/noticia/2026/07/23/casa-branca-diz-que-governo-fara-anuncio-de-novas-tarifas-nesta-quinta.ghtml"
         }
       ],
-      "updatedAt": "2026-07-23T13:18:45.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-22T221253Z_1_LYNXNPEL8L0XW_RTROPTP_4_DOLAR-ABRE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "updatedAt": "2026-07-23T16:52:38.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-03-073925.png?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "clusterId": "8232cf2afe71ab27",
-      "slug": "fe3c047ef21860b9",
-      "titulo": "Caraguatatuba lidera ranking com maior taxa de mortes violentas do estado de SP, aponta Anuário de Segurança",
-      "resumo": "Cena de crime - Imagem de arquivo André Nascimento/g1 Dados do Anuário de Segurança Pública, divulgado pelo Fórum Brasileiro de Segurança Pública (FBSP) nesta quinta-feira (23), mostram que Caraguatatuba, no Litoral Norte de São Paulo, tem a maior taxa de mortes violentas a cada 100 mil habitantes em todo o estado. A cidade mais populosa do Litoral Norte paulista, segundo o Anuário, concentra uma taxa de 17,6 mortes violentas a cada 100 mil habitantes. Entre os municípios paulistas com mais de 100 mil moradores, Caraguá lidera junto com Rio Claro. O levantamento das 338 cidades de SP com mais…",
-      "porQueImporta": "",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/23/caraguatatuba-lidera-ranking-com-maior-taxa-de-mortes-violentas-do-estado-de-sp-aponta-anuario-de-seguranca.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/distrito-federal/df-registra-aumento-de-mortes-violentas-e-de-casos-de-feminicidio"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-seguranca-publica/brasil-tem-menor-numero-de-assassinatos-em-13-anos/"
-        }
-      ],
-      "updatedAt": "2026-07-23T13:57:39.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/qL2Gy_jEBuj-FfoQj570Pt_dydI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/3/RDeFvsRLO26kVf4vL9Rg/foto-g1-39-.png"
-    },
-    {
-      "clusterId": "b0837ed9d9291f76",
-      "slug": "7de951cdac3d1da6",
-      "titulo": "Falhas nas linhas 11-Coral, 12-Safira e 13-Jade causam paralisação e explosão em trem",
-      "resumo": "As linhas 11-Coral, 12-Safira e 13-Jade ficaram paralisadas pelo terceiro dia consecutivo, com uma explosão em um trem na estação Safira. Passageiros foram forçados a caminhar sobre trilhos energizados, usando lanternas de celular, e a concessionária Trivia Trens recolheu usuários em composição de apoio. A Prefeitura suspendeu o rodízio de veículos na zona leste e o comércio local foi afetado.",
-      "porQueImporta": "O incidente compromete o transporte diário de milhares de trabalhadores e gera transtornos no trânsito e comércio da cidade.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/ao-vivo/com-falhas-nos-trens-passageiros-se-arriscam-nos-trilhos-e-ate-em-ponte-assista.ghtml"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/linhas-de-trem-em-sp-tem-falha-de-energia-vagao-em-chamas-e-pessoas-nos-trilhos/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/apos-incendio-em-trem-linhas-sao-paralisadas-em-sao-paulo/"
-        }
-      ],
-      "updatedAt": "2026-07-23T13:56:30.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/TpUqT06GlAW9GAgZm9ggNRy95qw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/B/GeAxGWRtCpEIBTzKrggw/captura-de-tela-2026-07-23-095749.jpg"
-    },
-    {
-      "clusterId": "9f70fed1fa5a90d3",
-      "slug": "316219112722aef3",
-      "titulo": "Samsung lança Galaxy Z Fold8, Z Fold8 Ultra e Z Flip8 com novas tecnologias",
-      "resumo": "A Samsung apresentou a nova geração de celulares dobráveis, incluindo o Galaxy Z Fold8, Z Fold8 Ultra e Z Flip8, em evento Galaxy Unpacked. O Z Fold8 destaca-se pelo design quadrado, semelhante ao de um passaporte, e pela introdução da tecnologia Flex Titanium, que utiliza duas camadas de titânio para maior resistência e menor vinco. Os dispositivos também incorporam baterias de silício-carbono, aumentando a autonomia sem ampliar o tamanho. No mercado sul-coreano, os preços são reduzidos em até 48% em comparação a outros mercados.",
-      "porQueImporta": "Essas inovações podem redefinir padrões de design e desempenho em smartphones dobráveis.",
-      "category": "tecnologia",
-      "sources": [
-        {
-          "name": "Canaltech",
-          "url": "https://canaltech.com.br/smartphone/samsung-vende-novo-celular-dobravel-pela-metade-do-preco-em-lugar-especifico/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/guia/guia-de-compras/tecnologia/celulares/galaxy-z-fold8-samsung-celular-dobravel-tela-quadrada.ghtml"
-        }
-      ],
-      "updatedAt": "2026-07-23T13:59:08.000Z",
-      "imageUrl": "https://tl.ctcdn.com.br/7QP65esGqTgH4pVICkF4kSqhuv0=/0x0/filters:format(webp):quality(85)/8ce3e7f3-673d-4ad7-bea9-259bab8045e2.png"
-    },
-    {
-      "clusterId": "37c618554086c61b",
-      "slug": "b5a7f80ec4f60c26",
-      "titulo": "Dono de restaurante sul-coreano pode ser preso por sobremesa com formigas",
-      "resumo": "Investigadores descobriram que os insetos servidos em estabelecimento com duas estrelas Michelin continham níveis de metais pesados ​​até 55 vezes superiores ao limite máximo permitido",
-      "porQueImporta": "",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/vida-e-estilo/sobremesa-com-formigas-restaurante-com-2-estrelas-michelin-e-multado"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/dono-de-restaurante-sul-coreano-pode-ser-preso-por-sobremesa-com-formigas/"
-        }
-      ],
-      "updatedAt": "2026-07-23T13:56:45.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/07/lllll.jpg"
-    },
-    {
-      "clusterId": "d41c4f0fa7ab17c8",
-      "slug": "2109c48c6c2d1969",
-      "titulo": "Inundação no Rio Taquari força mais de 500 pessoas a buscar abrigo em Lajeado",
-      "resumo": "A cheia do Rio Taquari atingiu 24,76 metros, acima da cota de inundação de 19 metros, obrigando 540 moradores a deixar suas casas e se refugiar no abrigo municipal no Parque do Imigrante. O nível da água começou a baixar após horas de tensão, chegando a 23,71 metros às 9h30. A cidade ainda lida com o trauma da enchente de 2024, enquanto o Estado registra mais de mil pessoas deslocadas.",
-      "porQueImporta": "A inundação destaca a vulnerabilidade de Lajeado a eventos climáticos extremos e a necessidade de infraestrutura de emergência adequada.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/23/nao-da-para-perder-tudo-de-novo-diz-moradora-de-lajeado-rs.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/inundacao-no-rs-veja-como-e-abrigo-com-mais-de-500-pessoas-em-lajeado/"
-        }
-      ],
-      "updatedAt": "2026-07-23T13:54:46.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/JGOSIKc1Y6sXIGY-zrxZugzeVwA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/c/Tw2KRcRjG1CBEXdYRXtA/g1-16-.jpg"
-    },
-    {
-      "clusterId": "c9b0d318badeadac",
-      "slug": "031f80e68945a8a6",
-      "titulo": "Cassação do mandato de Arthur do Val permanece inalterada",
-      "resumo": "O ministro do STF manteve a cassação do mandato do ex-deputado estadual Arthur do Val, conhecido como ‘Mamãe Falei’. A decisão foi baseada na alegação de que a reclamação apresentada pelo ex-deputado era manifestamente incabível. Arthur do Val recorreu ao STF na tentativa de anular a cassação, mas o pedido foi negado.",
-      "porQueImporta": "A decisão confirma a aplicação das normas de conduta parlamentar e reforça a responsabilidade dos políticos perante a lei.",
+      "clusterId": "9ece92adc2f94cf7",
+      "slug": "fff9c1215f64a113",
+      "titulo": "Flávio Bolsonaro emitiu e cancelou notas fiscais de R$ 500 mil para empresa ligada ao Banco Master",
+      "resumo": "O escritório de Flávio Bolsonaro emitiu duas notas fiscais de R$ 500 mil para uma empresa que recebeu repasses do Banco Master, mas os documentos foram cancelados. Dois dias depois, uma nova nota no mesmo valor foi emitida para outro CNPJ. O senador nega qualquer irregularidade.",
+      "porQueImporta": "A operação envolve repasses de um banco investigado por fraudes financeiras.",
       "category": "politica",
       "sources": [
         {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/moraes-mantem-a-cassacao-do-mandato-de-arthur-do-val-o-mamae-falei/"
+          "url": "https://www.cartacapital.com.br/politica/lindbergh-aciona-pf-e-pede-investigacao-sobre-notas-fiscais-emitidas-por-escritorio-de-flavio-bolsonaro/"
         },
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/moraes-nega-rever-cassacao-de-mandato-de-arthur-do-val/"
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/notas-fiscais-reacende-temor-de-novos-capitulos-da-relacao-entre-flavio-e-vorcaro/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/07/22/flavio-bolsonaro-emitiu-notas-fiscais-de-r-500-mil-para-empresa-que-tinha-suspeito-no-caso-master-como-diretor.ghtml"
         }
       ],
-      "updatedAt": "2026-07-23T13:50:04.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/10/fg285906.jpg"
+      "updatedAt": "2026-07-23T16:47:23.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/AFP__20260513__B2NM3T2__v1__MidRes__BrazilGovernmentJusticeTse.jpg"
+    },
+    {
+      "clusterId": "2f67749bff844137",
+      "slug": "9ef446e16b6bc0a5",
+      "titulo": "Apple fornece mapas e dados de estrada para Ford em parceria de carros autônomos",
+      "resumo": "Apple retomou o setor automotivo ao disponibilizar mapas e dados de estrada para a Ford, que os integrará ao sistema de direção assistida dos novos veículos elétricos. A parceria, que segue após o cancelamento do projeto de carro da Apple, coloca a tecnologia da Apple no centro da nova geração de automóveis da Ford. A iniciativa reforça a competição no mercado de veículos autônomos e eletrificados.",
+      "porQueImporta": "A colaboração pode acelerar a adoção de tecnologia autônoma em veículos elétricos, influenciando a competitividade das montadoras.",
+      "category": "tecnologia",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/07/23/carros-e-tecnologia/apple-vai-turbinar-carros-autonomos-da-ford-entenda-como/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/tecnologia/carro-da-apple-segue-na-geladeira-mas-empresa-volta-ao-setor-automotivo-com-a-ford/"
+        },
+        {
+          "name": "Canaltech",
+          "url": "https://canaltech.com.br/carros/flagra-mostra-contra-ataque-da-ford-contra-chinesas-no-brasil/"
+        }
+      ],
+      "updatedAt": "2026-07-23T15:22:51.000Z",
+      "imageUrl": "https://tl.ctcdn.com.br/S8V6tGbsMMPUD97ehggSpk3yGlU=/0x0/filters:format(webp):quality(85)/0343c275-8030-4f7c-a67a-af11290be79a.jpg"
+    },
+    {
+      "clusterId": "a4b68566f12d349c",
+      "slug": "0c7be6c0d872bc42",
+      "titulo": "CPTM retoma operação de linhas após incêndio em vagão",
+      "resumo": "O incêndio em um vagão da CPTM, causado por curto‑circuito, paralisou temporariamente as linhas. A empresa retomou a operação de duas das quatro linhas, enquanto a quarta permanece suspensa. A Artesp determinou que a CPTM opere com assistência por 90 dias para garantir segurança.",
+      "porQueImporta": "Garantir o transporte de milhões de passageiros diários em São Paulo.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-brasil/trivia-trens-cptm-volta-a-operar-linhas-depois-de-incendio/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/trens-de-sp-comecam-a-retomar-operacao-apos-incendio-em-vagao/"
+        }
+      ],
+      "updatedAt": "2026-07-23T17:11:56.000Z"
+    },
+    {
+      "clusterId": "32a506d65304f7e0",
+      "slug": "7fecdc6d0650049e",
+      "titulo": "Internacional x Fluminense - Campeonato Brasileiro Feminino 2026 - globoesporte.com",
+      "resumo": "Campeonato Brasileiro Feminino 2026 no globoesporte.com - acompanhe tudo sobre Internacional x Fluminense: escalação, informações sobre o jogo, fotos e muito mais",
+      "porQueImporta": "",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-corinthians-x-remo-brasileirao-23-07-26"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/pi/futebol/futebol-feminino/brasileiro-feminino/jogo/26-07-2026/corinthians-vitoria.ghtml"
+        }
+      ],
+      "updatedAt": "2026-07-23T17:03:47.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/07/palpite-corinthians-x-remo-brasileirao-23-07-26.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "396517c7fe6198cc",
-        "slug": "8c133b4b3ab9f61e",
-        "titulo": "Depois das críticas às urnas, interlocutores de Flávio Bolsonaro alertam para risco de perda de apoio no eleitorado independente",
-        "resumo": "O discurso de ataque às urnas eletrônicas é muito bem recebido pelo \"bolsonarismo raiz\", mas pode levar a perda de intenções de votos de eleitores independentes. O alerta é de interlocutores do pré-candidato do PL, Flávio Bolsonaro, que lembram ser esse o segmento que costuma decidir uma eleição polarizada. O senador do PL imitou o pai e lançou dúvidas sobre as urnas usadas no Brasil. Segundo esses interlocutores, há risco ainda de queda de intenções de votos de eleitores que se consideram de direita, mas não bolsonaristas. As últimas pesquisas já mostraram um recuo de Flávio Bolsonaro nestes…",
-        "porQueImporta": "",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/pt-pc-do-b-e-pv-vao-a-justica-contra-flavio-por-fala-sobre-urnas/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/07/23/depois-das-criticas-as-urnas-interlocutores-de-flavio-bolsonaro-alertam-para-risco-de-perda-de-apoio-no-eleitorado-independente.ghtml"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/cartaexpressa/a-falta-de-conviccao-no-eleitorado-de-flavio-bolsonaro-segundo-pesquisa/"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cr49rgx6zv0o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-07-23T13:31:10.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/D4Xq7WEykkhwQZItZg099ruvQCU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/D/4QBeMIQmebYJBZobTw2w/novo-projeto-1-.jpg"
-      },
-      {
-        "clusterId": "8232cf2afe71ab27",
-        "slug": "fe3c047ef21860b9",
-        "titulo": "Caraguatatuba lidera ranking com maior taxa de mortes violentas do estado de SP, aponta Anuário de Segurança",
-        "resumo": "Cena de crime - Imagem de arquivo André Nascimento/g1 Dados do Anuário de Segurança Pública, divulgado pelo Fórum Brasileiro de Segurança Pública (FBSP) nesta quinta-feira (23), mostram que Caraguatatuba, no Litoral Norte de São Paulo, tem a maior taxa de mortes violentas a cada 100 mil habitantes em todo o estado. A cidade mais populosa do Litoral Norte paulista, segundo o Anuário, concentra uma taxa de 17,6 mortes violentas a cada 100 mil habitantes. Entre os municípios paulistas com mais de 100 mil moradores, Caraguá lidera junto com Rio Claro. O levantamento das 338 cidades de SP com mais…",
-        "porQueImporta": "",
+        "clusterId": "73e903fb039b5af6",
+        "slug": "ed7993054dd767ae",
+        "titulo": "Mendonça autoriza investigação da PF sobre repasses para filme Dark Horse",
+        "resumo": "O ministro André Mendonça, do STF, autorizou a abertura de inquérito para investigar repasses de Daniel Vorcaro destinados à produção da cinebiografia Dark Horse. A decisão atende a pedido da Polícia Federal e segue parecer favorável da Procuradoria‑Geral da República. O inquérito buscará verificar possíveis irregularidades nos pagamentos, inclusive se parte do dinheiro teria sido usada para financiar despesas de aliados de Bolsonaro nos Estados Unidos.",
+        "porQueImporta": "A investigação pode revelar práticas ilícitas envolvendo recursos públicos e a promoção de interesses políticos.",
         "category": "politica",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/23/caraguatatuba-lidera-ranking-com-maior-taxa-de-mortes-violentas-do-estado-de-sp-aponta-anuario-de-seguranca.ghtml"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/distrito-federal/df-registra-aumento-de-mortes-violentas-e-de-casos-de-feminicidio"
+            "url": "https://g1.globo.com/politica/noticia/2026/07/23/dark-horse-entenda-o-que-a-pf-vai-investigar-sobre-a-cinebiografia-de-jair-bolsonaro.ghtml"
           },
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-seguranca-publica/brasil-tem-menor-numero-de-assassinatos-em-13-anos/"
-          }
-        ],
-        "updatedAt": "2026-07-23T13:57:39.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/qL2Gy_jEBuj-FfoQj570Pt_dydI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/3/RDeFvsRLO26kVf4vL9Rg/foto-g1-39-.png"
-      },
-      {
-        "clusterId": "c9b0d318badeadac",
-        "slug": "031f80e68945a8a6",
-        "titulo": "Cassação do mandato de Arthur do Val permanece inalterada",
-        "resumo": "O ministro do STF manteve a cassação do mandato do ex-deputado estadual Arthur do Val, conhecido como ‘Mamãe Falei’. A decisão foi baseada na alegação de que a reclamação apresentada pelo ex-deputado era manifestamente incabível. Arthur do Val recorreu ao STF na tentativa de anular a cassação, mas o pedido foi negado.",
-        "porQueImporta": "A decisão confirma a aplicação das normas de conduta parlamentar e reforça a responsabilidade dos políticos perante a lei.",
-        "category": "politica",
-        "sources": [
+            "url": "https://www.poder360.com.br/poder-justica/mendonca-autoriza-pf-a-investigar-repasses-para-filme-sobre-bolsonaro/"
+          },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/moraes-mantem-a-cassacao-do-mandato-de-arthur-do-val-o-mamae-falei/"
+            "url": "https://www.cartacapital.com.br/justica/dark-horse-mendonca-autoriza-pf-a-investigar-repasses-para-filme-sobre-bolsonaro/"
           },
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/brasil/moraes-nega-rever-cassacao-de-mandato-de-arthur-do-val/"
+            "url": "https://veja.abril.com.br/brasil/mendonca-autoriza-inquerito-sobre-repasses-de-vorcaro-para-dark-horse/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/caso-dark-horse-mendonca-autoriza-pf-a-investigar-repasses-de-vorcaro/"
           }
         ],
-        "updatedAt": "2026-07-23T13:50:04.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/10/fg285906.jpg"
+        "updatedAt": "2026-07-23T16:35:41.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/AbXlGRYNY7LzoGTySAU_WT43Wt4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/A/Btw9z3RWm8Iwo21SvQyA/jim-caviezel-jair-bolsonaro-dark-horse-1-.jpg"
       },
       {
-        "clusterId": "87b7f8c5785a4434",
-        "slug": "73430d3abce657be",
-        "titulo": "Ataques ucranianos causam mortes e feridos na Rússia e provocam condenação da Rússia às vendas de armas dos EUA",
-        "resumo": "Ações militares da Ucrânia resultaram em mortos e feridos em várias regiões russas, além de danos a instalações de energia, segundo autoridades russas. Em resposta, o ministro das Relações Exteriores da Rússia, Sergei Lavrov, descreveu como inaceitável a venda de armas dos Estados Unidos à Ucrânia, durante encontro com o senador Marco Rubio.",
-        "porQueImporta": "O incidente destaca a escalada de tensões militares e a crítica internacional às políticas de armar a Ucrânia.",
+        "clusterId": "9b81cfa74d6136d3",
+        "slug": "a0b56fd59bc7ca82",
+        "titulo": "PL do Ceará oficializa apoio a Ciro Gomes e mantém posição neutra em relação a Flávio Bolsonaro",
+        "resumo": "O Partido Liberal do Ceará anunciou apoio a Ciro Gomes para a eleição presidencial, enquanto a federação PP‑União Brasil decidiu permanecer neutra. A decisão do PL CE gerou tensão entre Michelle Bolsonaro e os enteados, que apoiavam Flávio. Em paralelo, a campanha de Flávio tenta reverter a neutralidade do PP, buscando apoio de outros partidos. Ciro Nogueira informou que o PP e União Brasil manterão a neutralidade no primeiro e possivelmente no segundo turno.",
+        "porQueImporta": "A aliança influencia a dinâmica de apoio a candidatos de direita no cenário presidencial.",
         "category": "politica",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/ataques-da-ucrania-deixam-mortos-e-feridos-em-diferentes-regioes-da-russia/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/apos-embate-entre-michelle-e-flavio-pl-oficializa-apoio-a-ciro-gomes"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/07/23/aliados-de-flavio-querem-reverter-decisao-do-pp-e-buscar-apoio-do-partido.ghtml"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes/pl-do-ceara-diz-nao-haver-acordo-para-ciro-gomes-apoiar-flavio/"
           },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/russia-chama-de-inaceitavel-venda-de-armas-dos-eua-a-ucrania/"
+            "url": "https://www.cartacapital.com.br/cartaexpressa/a-situacao-de-flavio-bolsonaro-no-acordo-entre-pl-e-ciro-gomes-no-ceara-segundo-andre-fernandes/"
           }
         ],
-        "updatedAt": "2026-07-23T13:38:43.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/02/000_96E92KE.jpg"
+        "updatedAt": "2026-07-23T17:19:52.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/07/Ciro-Gomes-3.jpeg"
       },
       {
-        "clusterId": "e7ca93d78a7d51de",
-        "slug": "1287f5cca1b0e1a4",
-        "titulo": "Governo anuncia linha de crédito de R$18,5 bilhões para setores afetados pelo tarifaço dos EUA",
-        "resumo": "O presidente Lula anunciou, no Palácio do Planalto, uma linha de crédito de R$18,5 bilhões para compensar os impactos do tarifaço de 25% dos Estados Unidos sobre produtos brasileiros. O programa, semelhante ao Brasil Soberano, terá custos menores e exigirá a manutenção de parte dos empregos das empresas que aderirem. Os detalhes do pacote ainda serão divulgados e os setores aguardam informações adicionais.",
-        "porQueImporta": "A medida visa mitigar os efeitos da tarifa americana sobre a economia brasileira e proteger empregos em setores afetados.",
+        "clusterId": "9ece92adc2f94cf7",
+        "slug": "fff9c1215f64a113",
+        "titulo": "Flávio Bolsonaro emitiu e cancelou notas fiscais de R$ 500 mil para empresa ligada ao Banco Master",
+        "resumo": "O escritório de Flávio Bolsonaro emitiu duas notas fiscais de R$ 500 mil para uma empresa que recebeu repasses do Banco Master, mas os documentos foram cancelados. Dois dias depois, uma nova nota no mesmo valor foi emitida para outro CNPJ. O senador nega qualquer irregularidade.",
+        "porQueImporta": "A operação envolve repasses de um banco investigado por fraudes financeiras.",
         "category": "politica",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/brasil-soberano-3-setores-aguardam-mais-detalhes-do-pacote-contra-tarifaco/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/lindbergh-aciona-pf-e-pede-investigacao-sobre-notas-fiscais-emitidas-por-escritorio-de-flavio-bolsonaro/"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/notas-fiscais-reacende-temor-de-novos-capitulos-da-relacao-entre-flavio-e-vorcaro/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/07/22/tarifaco-dos-eua-governo-anuncia-nesta-quarta-nova-linha-de-credito-para-setores-afetados-pelo.ghtml"
+            "url": "https://g1.globo.com/politica/noticia/2026/07/22/flavio-bolsonaro-emitiu-notas-fiscais-de-r-500-mil-para-empresa-que-tinha-suspeito-no-caso-master-como-diretor.ghtml"
           }
         ],
-        "updatedAt": "2026-07-23T13:26:35.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/QcGk68FTn8yhlCxrYfeaEYFgqzg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/C/1i1ExDQECwkHQfutmbIQ/globo-canal-4-20260715-2000-frame-76410.jpeg"
+        "updatedAt": "2026-07-23T16:47:23.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/AFP__20260513__B2NM3T2__v1__MidRes__BrazilGovernmentJusticeTse.jpg"
       },
       {
-        "clusterId": "f4332c57d83d143a",
-        "slug": "71f811a7ad88f56a",
-        "titulo": "BCE mantém juros, mas deixa porta aberta para alta em setembro",
-        "resumo": "Investidores apostam em quase mais três aumentos das taxas de juros, com o primeiro já totalmente precificado até outubro e o segundo até fevereiro do ano que vem",
-        "porQueImporta": "",
+        "clusterId": "a4b68566f12d349c",
+        "slug": "0c7be6c0d872bc42",
+        "titulo": "CPTM retoma operação de linhas após incêndio em vagão",
+        "resumo": "O incêndio em um vagão da CPTM, causado por curto‑circuito, paralisou temporariamente as linhas. A empresa retomou a operação de duas das quatro linhas, enquanto a quarta permanece suspensa. A Artesp determinou que a CPTM opere com assistência por 90 dias para garantir segurança.",
+        "porQueImporta": "Garantir o transporte de milhões de passageiros diários em São Paulo.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-internacional/bce-mantem-juros-e-reforca-meta-de-inflacao-em-2/"
+            "url": "https://www.poder360.com.br/poder-brasil/trivia-trens-cptm-volta-a-operar-linhas-depois-de-incendio/"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/bce-mantem-juros-mas-deixa-porta-aberta-para-alta-em-setembro/"
+            "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/trens-de-sp-comecam-a-retomar-operacao-apos-incendio-em-vagao/"
           }
         ],
-        "updatedAt": "2026-07-23T13:16:44.000Z"
+        "updatedAt": "2026-07-23T17:11:56.000Z"
       },
       {
-        "clusterId": "4b53f9c6cb1faae3",
-        "slug": "da43da7bc013b229",
-        "titulo": "Queda de 54% nas medidas socioeducativas e aumento de 67,3% em bullying e cyberbullying entre jovens",
-        "resumo": "Em 2025, o número de adolescentes cumprindo medida socioeducativa em meio fechado caiu 54%, de 26.450 em 2016 para 12.203, segundo o Anuário Brasileiro de Segurança Pública. A taxa nacional ficou em 50,7 adolescentes por 100 mil habitantes entre 12 e 20 anos. Em contraste, registros policiais de bullying e cyberbullying aumentaram 67,3%, passando de 3.161 ocorrências em 2024 para 5.226 em 2025. O crescimento é o maior entre indicadores de violência contra crianças e adolescentes.",
-        "porQueImporta": "Os dados mostram tendências divergentes de violência juvenil, indicando necessidade de políticas específicas.",
+        "clusterId": "721f5617cb86bdb6",
+        "slug": "e42384e4e883b653",
+        "titulo": "Corpo de empresário de 31 anos encontrado na Grande São Paulo",
+        "resumo": "O corpo de Marcelo Magalhães Almeida, empresário de 31 anos, foi localizado na Grande São Paulo. Ele desapareceu na última quinta-feira, 16 de julho, após sair de Carapicuíba. A descoberta ocorreu em rio, conforme relatos das fontes. O caso permanece em investigação.",
+        "porQueImporta": "A ocorrência destaca a necessidade de atenção à segurança e ao acompanhamento de pessoas desaparecidas na região.",
         "category": "politica",
         "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/sociedade/corpo-de-empresario-e-encontrado-na-grande-sao-paulo/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/corpo-encontrado-em-rio-e-de-empresario-desaparecido-em-sp/"
+          }
+        ],
+        "updatedAt": "2026-07-23T16:45:23.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/07/marcelo_magalhaes_carapicuiba.jpg"
+      },
+      {
+        "clusterId": "930040c56742a921",
+        "slug": "7aa6326adc8c643a",
+        "titulo": "Dia 20 concentra quase um terço das transações financeiras do mês",
+        "resumo": "Estudos da Paag e do Instituto Democracia em Xeque apontam que o intervalo entre os dias 16 e 22 do mês concentra quase um terço das transações financeiras dos trabalhadores brasileiros, com o dia 20 sendo o pico de gastos. A análise destaca que esse padrão de consumo coincide com o fechamento de contas e o pagamento de salários, influenciando o fluxo de caixa familiar. Os dados sugerem que a pressão sobre o orçamento doméstico aumenta à medida que o mês avança, especialmente em períodos eleitorais.",
+        "porQueImporta": "Entender quando os trabalhadores gastam mais ajuda a planejar políticas de crédito e a avaliar o impacto de eventos políticos no consumo.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/do-micro-ao-macro/dia-20-bolso-brasileiro/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/brasil/tarifaco-deixa-de-ser-disputa-entre-governos-e-vira-preocupacao-com-o-bolso-aponta-estudo/"
+          }
+        ],
+        "updatedAt": "2026-07-23T16:30:29.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/07/dia20diad.jpg"
+      },
+      {
+        "clusterId": "45a772728d308035",
+        "slug": "7e7d417e059b7157",
+        "titulo": "Flávio Bolsonaro enfrenta dificuldade em fechar chapa presidencial",
+        "resumo": "O candidato Flávio Bolsonaro (PL) ainda não definiu seu vice, buscando apoio de Republicanos e União-PP, mas os partidos mantêm neutralidade e deixam os diretórios estaduais livres para escolher o candidato. A falta de definição levou o coordenador de campanha a estender o prazo para a escolha. O centrão, sem atrair PP, União Brasil e Republicanos, favorece a formação de uma chapa pura do PL.",
+        "porQueImporta": "A composição da chapa pode influenciar a coalizão e a viabilidade de Flávio na eleição presidencial.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/analise-centrao-empurra-flavio-para-chapa-pura/"
+          },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/07/23/medida-socioeducativa-anuario-seguranca-publica.ghtml"
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/07/22/flavio-tem-dificuldade-para-fechar-chapa-e-busca-vice-do-republicanos-ou-uniao-pp-mas-partidos-sinalizam-independencia.ghtml"
           }
         ],
-        "updatedAt": "2026-07-23T13:43:30.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/Og_0G8kzcs0dS-WlMl717M6z3z8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/P/6/1CMICvRSqxuqKSzbDY3g/whatsapp-image-2019-07-26-at-12.45.53-1200x900.jpeg"
+        "updatedAt": "2026-07-23T15:32:26.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/LSkYi4qNZQ5wMGNy46HG-D5CcW0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/3/zZAWOUS5aj1q9vEDDMlg/flavio-bolsonaro-live.jpg"
       },
       {
-        "clusterId": "2a32040b54798899",
-        "slug": "5e01d66a523e29d4",
-        "titulo": "Brasil crescerá 2,4% em 2026 e dívida se aproxima de 100% do PIB",
-        "resumo": "Relatório do FMI estima IPCA de 5,6% neste ano, dívida bruta de 97,8% do PIB e recomenda ajuste fiscal de 3 p.p. do PIB até 2031",
-        "porQueImporta": "",
+        "clusterId": "9050a41df5018d9b",
+        "slug": "cd10e81f56dde916",
+        "titulo": "STJ agenda julgamento de ministro Marco Buzzi para 6 de agosto",
+        "resumo": "O presidente do STJ, Herman Benjamin, marcou julgamento do ministro Marco Buzzi para 6 de agosto, às 9h, em sessão fechada ao público no plenário. Buzzi está afastado e enfrenta Processo Administrativo Disciplinar por acusações de importunação e assédio sexual de duas mulheres. A sessão será realizada presencialmente e tem caráter institucional.",
+        "porQueImporta": "Decisão demonstra a atuação do tribunal em processos disciplinares envolvendo membros da própria Corte.",
         "category": "politica",
         "sources": [
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-economia/brasil-crescera-24-em-2026-e-divida-se-aproxima-de-100-do-pib/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/justica/zanin-autoriza-pf-a-investigar-ministro-do-stj-em-caso-sobre-venda-decisoes/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/07/23/zanin-autoriza-abertura-de-investigacao-contra-ministro-do-stj-apos-suspeita-de-venda-de-sentencas.ghtml"
           }
         ],
-        "updatedAt": "2026-07-23T13:41:05.000Z"
+        "updatedAt": "2026-07-23T15:22:00.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/07/Foto-OABMS.jpg"
       }
     ],
     "economia": [
       {
-        "clusterId": "4facd54ef4983ddb",
-        "slug": "66a93b17365d4aaa",
-        "titulo": "Escalada no Oriente Médio afeta dólar, petróleo e crescimento global",
-        "resumo": "A intensificação das tensões entre os Estados Unidos e o Irã elevou o dólar e impulsionou os preços do petróleo, que quase atingiram US$ 100 por barril. Os contratos futuros de petróleo subiram em sua quinta sessão consecutiva, refletindo o temor de interrupções nas cadeias de abastecimento. O Banco Mundial prevê que a guerra pode reduzir o crescimento econômico global para 1,3% em 2026, em contraste com 2,9% no ano anterior.",
-        "porQueImporta": "O conflito pode aumentar a inflação, elevar as taxas de juros e frear o crescimento econômico mundial.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-23072026/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/economia/petroleo-se-aproxima-dos-us-100-por-barril-em-meio-a-guerra-no-oriente-medio/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/mercado/petroleo-23-julho-2026/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/07/22/guerra-no-oriente-medio-crescimento-global-banco-mundial.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-23T13:18:45.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/09/2025-09-22T221253Z_1_LYNXNPEL8L0XW_RTROPTP_4_DOLAR-ABRE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "8af26638565d1975",
-        "slug": "18ad7c2331ae5772",
-        "titulo": "Dólar opera em alta, após novos ataques entre EUA e Irã e com alta do petróleo no radar; Ibovespa cai",
-        "resumo": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em alta nesta quinta-feira (23), com um avanço de 0,77% perto das 10h30, cotado a R$ 5,0899. Já o Ibovespa, principal índice da bolsa brasileira, tinha queda de 0,61% no mesmo horário, aos 176.470 pontos. 🗒️ Tem alguma sugestão de reportagem? Envie para o g1 ▶️ O avanço do petróleo em meio à escalada do conflito no Oriente Médio segue no centro das atenções. Com a continuidade dos ataques entre na região, a commodity voltou a ficar próxima ao patamar de US$ 100 o barril, mesmo após a afirmação de que o Omã media negociações com a…",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/petrobras-prio-e-petroleiras-lideram-ganhos-do-ibovespa-com-alta-do-petroleo/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/07/23/dolar-ibovespa.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-23T13:35:39.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-21T110457Z_471026743_RC2PFKATW3FZ_RTRMADP_3_RUSSIA-KAZAKHSTAN-GERMANY-DRUZHBA-OIL.jpg?fit=300%2C186&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "bd381e2ba1d68c98",
-        "slug": "cb0e849c2877b898",
-        "titulo": "Prefeitura de SP suspende rodízio de carros após incêndio em trem",
-        "resumo": "Medida vale para a região da zona Leste; decisão ocorreu após duas linhas ficarem paralisadas e uma com circulação parcial",
+        "clusterId": "e80edf1ebedb2ba2",
+        "slug": "050f2e51cd636757",
+        "titulo": "Casa Branca diz que governo fará anúncio de novas tarifas nesta quinta",
+        "resumo": "Vista aérea da Casa Branca, em 2 de maio de 2026 REUTERS/Ken Cedeno A secretária de imprensa da Casa Branca, Karoline Leavitt, informou nesta quinta-feira (23) que o representante comercial dos Estados Unidos, Jamieson Greer, fará um anúncio sobre novas tarifas antes do fim da vigência da taxa global de 10%, previsto para sexta-feira (24). A expectativa é que a medida inclua uma sobretaxa de 12,5% sobre produtos de cerca de 60 países, incluindo o Brasil. 🗒️Tem alguma sugestão de reportagem? Envie para o g1 A possível nova tarifa está relacionada a uma investigação conduzida pelo Escritório…",
         "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/prefeitura-de-sp-suspende-rodizio-de-carros-apos-incendio-em-trem/"
+            "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/eua-farao-anuncio-sobre-novas-tarifas-nesta-quinta-feira-diz-casa-branca/"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/sp-suspende-rodizio-na-zona-leste-apos-incendio-em-trem-da-trivia/"
-          }
-        ],
-        "updatedAt": "2026-07-23T12:28:49.000Z"
-      },
-      {
-        "clusterId": "853a8aca544e2171",
-        "slug": "9fe572872fc950f6",
-        "titulo": "Câmara dos EUA aprova orçamento de US$ 95 bilhões para guerra contra o Irã e pacote de US$ 1 trilhão para defesa",
-        "resumo": "A Câmara aprova, por 216 a 214 votos, um orçamento de US$ 95 bilhões para a operação contra o Irã, enquanto um projeto de lei de defesa de US$ 1 trilhão recebe 216 a 212 votos. O pacote de US$ 480 bilhões, apoiado apenas pelos republicanos, também foi aprovado e agora segue para o Senado. O secretário de Guerra Pete Hegseth informou que os custos da guerra já somam US$ 37,5 bilhões.",
-        "porQueImporta": "O aumento de gastos reflete a intensificação das ações militares dos EUA no Oriente Médio.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Exame",
-            "url": "https://exame.com/invest/mercados/petroleo-bate-us-100-pela-1a-vez-em-mais-de-um-mes-com-tensao-entre-eua-e-ira/"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mundo/representante-comercial-dos-eua-fara-anuncio-sobre-tarifas-nesta-quinta-feira/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/07/23/petroleo-passa-de-us-96-e-amplia-temor-sobre-inflacao-global.ghtml"
+            "url": "https://g1.globo.com/economia/noticia/2026/07/23/casa-branca-diz-que-governo-fara-anuncio-de-novas-tarifas-nesta-quinta.ghtml"
           }
         ],
-        "updatedAt": "2026-07-23T10:41:04.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/BM2MDCT1cnfDu7GvcqVxJFNH0Vw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/u/fRXPwsSMqJ36eADO2MHA/afp-20260722-c2vb3nr-v1-midres-japanmarketsoil.jpg"
+        "updatedAt": "2026-07-23T16:52:38.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/Captura-de-tela-2026-06-03-073925.png?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "6e4ca1a580060560",
-        "slug": "c64323b3b3215194",
-        "titulo": "Renan critica Eduardo após Green Card: Talvez arrume emprego de faxineiro com Trump",
-        "resumo": "Filho do ex-presidente Jair Bolsonaro recebeu nesta semana o visto para viver nos EUA; ele foi condenado pelo STF por atuar pela imposição de sanções às autoridades brasileiras The post Renan critica Eduardo após Green Card: Talvez arrume emprego de faxineiro com Trump appeared first on InfoMoney.",
+        "clusterId": "a8de839e0b061d13",
+        "slug": "25abe5be31ba535f",
+        "titulo": "Dez cidades mais violentas do país estão no Nordeste, aponta estudo",
+        "resumo": "Presença de grupos criminosos explica alto índice de mortes violentas The post Dez cidades mais violentas do país estão no Nordeste, aponta estudo appeared first on InfoMoney.",
         "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/renan-critica-eduardo-apos-green-card-talvez-arrume-emprego-de-faxineiro-com-trump/"
+            "url": "https://www.infomoney.com.br/brasil/dez-cidades-mais-violentas-do-pais-estao-no-nordeste-aponta-estudo/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/nacional/nordeste/oito-das-dez-cidades-mais-violentas-ficam-em-estados-governados-pelo-pt/"
           }
         ],
-        "updatedAt": "2026-07-23T13:41:25.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/renan-santos-politico-partido-missao02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-07-23T16:42:25.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/pint2551.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "3b08373dfb14efef",
-        "slug": "63dfde4f49dd7914",
-        "titulo": "Ibovespa Hoje Ao Vivo: Bolsa cai com exterior em baixa e disparada do petróleo",
-        "resumo": "Bolsas dos EUA recuam com perdas de ações de Alphabet e Tesla após balanços The post Ibovespa Hoje Ao Vivo: Bolsa cai com exterior em baixa e disparada do petróleo appeared first on InfoMoney.",
+        "clusterId": "e2f86b326474d648",
+        "slug": "df30b2e2230dda6d",
+        "titulo": "Vini Jr. encontra Terry Crews no Cristo Redentor após meme de 'As Branquelas' conquistar a Copa",
+        "resumo": "Craque da Seleção e ator se encontraram no amanhecer desta quinta-feira, 23, e celebraram o sucesso da brincadeira que marcou a Copa do Mundo",
+        "porQueImporta": "",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/celebridades/terry-crews-carrega-vini-jr-em-encontro-no-cristo-redentor/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/pop/vini-jr-encontra-terry-crews-no-cristo-redentor-apos-meme-de-as-branquelas-conquistar-a-copa/"
+          }
+        ],
+        "updatedAt": "2026-07-23T16:34:29.000Z"
+      },
+      {
+        "clusterId": "4bfb4f82753b3ddd",
+        "slug": "1985bbec5144dee6",
+        "titulo": "Jão está de volta! Tudo que sabemos sobre o novo álbum 'Memórias Póstumas'",
+        "resumo": "Pop-star brasileiro retorna com nova era da carreira após passar mais de um ano longe dos holofotes",
+        "porQueImporta": "",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/musica/jao-quebra-hiato-e-anuncia-album-memorias-postumas-senti-saudades/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/pop/jao-entenda-o-significado-do-teaser-de-memorias-postumas/"
+          }
+        ],
+        "updatedAt": "2026-07-23T15:25:46.000Z"
+      },
+      {
+        "clusterId": "11f9a3c521ea9cdf",
+        "slug": "099c325e1d8f1fc6",
+        "titulo": "Rival do Grêmio na Sul-Americana fez apenas 16 jogos oficiais no ano e tem \"parça\" de Neymar",
+        "resumo": "Poupa ou não poupa? Grêmio pode preservar titulares na altitude de La Paz O adversário do Grêmio nos playoffs da Copa Sul-Americana vive uma situação inusitada na temporada. O Bolívar, assim como todos os times da elite do futebol boliviano, sofreu com incidentes extracampo e fez pouquíssimas partidas oficiais em 2026. 🔍 Adicione o ge nas suas fontes favoritas do Google Enquanto o Grêmio enfrenta o exaustivo calendário brasileiro e já jogou 38 vezes, o Bolívar teve apenas 16. Menos da metade. O que não significa inatividade da equipe. A explicação está no planejamento da temporada na…",
+        "porQueImporta": "",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Exame",
+            "url": "https://exame.com/esporte/boca-juniors-x-ohiggins-veja-horario-e-onde-assistir-ao-jogo-da-copa-sul-americana-hoje/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/rs/futebol/copa-sul-americana/noticia/2026/07/23/rival-do-gremio-na-sul-americana-fez-apenas-16-jogos-oficiais-no-ano-e-tem-parca-de-neymar.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-23T14:09:49.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/CmIe6bAjT5SuFbZk_cdEONc1S5Q=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/c/u/YkSWskRdC5q4YgzUdkTg/bolivar-fluminense-nonato-pato.jpg"
+      },
+      {
+        "clusterId": "86f8c30e0c5978ca",
+        "slug": "737cc42c33bcafb6",
+        "titulo": "Embraer conquista encomendas em Farnborough e vê espaço para ampliar produção militar",
+        "resumo": "Fabricante anunciou 25 novos pedidos firmes e 30 opções de compra durante o evento The post Embraer conquista encomendas em Farnborough e vê espaço para ampliar produção militar appeared first on InfoMoney.",
         "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-23072026/"
+            "url": "https://www.infomoney.com.br/mercados/embraer-conquista-encomendas-em-farnborough-e-ve-espaco-para-ampliar-producao-militar/"
           }
         ],
-        "updatedAt": "2026-07-23T13:31:37.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Ibovespa-ao-vivo-22.png?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-07-23T17:15:31.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/embraer-aviacao-E195-02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "ec3548b02bb466b6",
-        "slug": "b11cb7816771169a",
-        "titulo": "Parlamentar italiano contrário a Carla Zambelli diz que ex-deputada sumiu",
-        "resumo": "Na Itália, Zambelli aguarda um novo julgamento sobre a sua extradição, ainda não sem data fixada The post Parlamentar italiano contrário a Carla Zambelli diz que ex-deputada sumiu appeared first on InfoMoney.",
+        "clusterId": "3becb76820482c96",
+        "slug": "0f2f8336104b48cf",
+        "titulo": "Maffra, CEO da XP: Próxima fronteira é vender soluções, não só produtos financeiros",
+        "resumo": "Em painel na Expert XP 2026, executivo afirma que próxima etapa passa por planejamento financeiro, tributário e sucessório mais completo para os clientes The post Maffra, CEO da XP: Próxima fronteira é vender soluções, não só produtos financeiros appeared first on InfoMoney.",
         "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/parlamentar-italiano-contrario-a-carla-zambelli-diz-que-ex-deputada-sumiu/"
+            "url": "https://www.infomoney.com.br/mercados/maffra-ceo-da-xp-proxima-fronteira-e-vender-solucoes-nao-produtos-financeiros/"
           }
         ],
-        "updatedAt": "2026-07-23T13:28:34.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/05/02082023-lula7886.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-07-23T17:02:41.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-20260723-frr-4337-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "1a571598337ebb0d",
-        "slug": "e714d40a636e3594",
-        "titulo": "Petróleo brent salta e ultrapassa US$ 100 após ataque a petroleiros da Arábia Saudita",
-        "resumo": "A alta dos preços nesta quinta-feira colocou os contratos futuros de petróleo Brent a caminho de um ganho mensal de 35% The post Petróleo brent salta e ultrapassa US$ 100 após ataque a petroleiros da Arábia Saudita appeared first on InfoMoney.",
+        "clusterId": "07d226a286602758",
+        "slug": "db2678a4f963f6c1",
+        "titulo": "Deborah Evelyn assume espólio do ex-diretor Dennis Carvalho e deve receber “salário”",
+        "resumo": "A atriz é a única ex-esposa do diretor que foi mencionada no testamento The post Deborah Evelyn assume espólio do ex-diretor Dennis Carvalho e deve receber “salário” appeared first on InfoMoney.",
         "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-23072026/"
+            "url": "https://www.infomoney.com.br/minhas-financas/deborah-evelyn-espolio-ex-diretor-dennis-carvalho/"
           }
         ],
-        "updatedAt": "2026-07-23T13:25:09.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/04/Guerra-Petroleo.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-07-23T17:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/deborah-evelyn.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "bc0c7d470df86f91",
+        "clusterId": "06b31eb53e7e5cf4",
         "slug": "2b1439baafc7dc19",
         "titulo": "EUA e Arábia Saudita firmam acordo nuclear que permite enriquecimento de urânio",
         "resumo": "O presidente Donald Trump aprovou um pacto de 30 anos que autoriza a Arábia Saudita a enriquecer urânio para fins civis, com participação de empresas americanas na construção de infraestrutura nuclear. O acordo, que ainda aguarda análise do Congresso, dispensa inspeções prévias da ONU e abre caminho para reatores norte‑americanos no país. Trump condicionou a assinatura a que a Arábia reconheça Israel, exigindo adesão aos Acordos de Abraão.",
@@ -579,32 +598,148 @@
         "category": "mundo",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/trump-condiciona-acordo-nuclear-com-arabia-saudita-a-normalizacao-de-relacoes-com-israel/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/mundo/trump-condiciona-acordo-nuclear-com-a-arabia-saudita-ao-reconhecimento-de-israel/"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/analise-acordo-nuclear-entre-eua-e-arabia-saudita-gera-alerta/"
+            "url": "https://www.cnnbrasil.com.br/internacional/netanyahu-apoia-exigencia-de-trump-de-que-arabia-saudita-reconheca-israel/"
           },
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/eua-fecham-acordo-de-energia-nuclear-com-arabia-saudita/"
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cp8e2rj47n0o?at_medium=RSS&at_campaign=rss"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/mundo/noticia/2026/07/23/trump-defende-acordo-nuclear-com-a-arabia-saudita-e-apenas-para-uso-nao-militar-saiba-por-que-acordo-e-polemico.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-23T14:55:21.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/AFP__20260624__B88C6DU__v1__MidRes__UsPoliticsDefenseNato.jpg"
+      },
+      {
+        "clusterId": "56d991ccba19ffd5",
+        "slug": "9fe572872fc950f6",
+        "titulo": "Câmara dos EUA aprova orçamento de US$ 95 bilhões para guerra contra o Irã e pacote de US$ 1 trilhão para defesa",
+        "resumo": "A Câmara aprova, por 216 a 214 votos, um orçamento de US$ 95 bilhões para a operação contra o Irã, enquanto um projeto de lei de defesa de US$ 1 trilhão recebe 216 a 212 votos. O pacote de US$ 480 bilhões, apoiado apenas pelos republicanos, também foi aprovado e agora segue para o Senado. O secretário de Guerra Pete Hegseth informou que os custos da guerra já somam US$ 37,5 bilhões.",
+        "porQueImporta": "O aumento de gastos reflete a intensificação das ações militares dos EUA no Oriente Médio.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/07/23/camara-dos-eua-aprova-impedimento-a-guerra-contra-o-ira-em-repreensao-simbolica-a-trump.ghtml"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mundo/eua-aprova-mocao-para-impedir-a-guerra-contra-o-ira-em-nova-repreensao-a-trump/"
           },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/eua-anuncia-acordo-nuclear-com-a-arabia-saudita/"
+            "url": "https://www.cartacapital.com.br/mundo/camara-dos-eua-vota-mais-uma-vez-contra-a-guerra-no-ira/"
+          }
+        ],
+        "updatedAt": "2026-07-23T16:55:04.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/Jtju9p3OTDe_lQ3DR8JAdqEu7no=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/B/lBYwlrQBOZpsejvtW1Xw/2026-04-22t011358z-236832966-rc22vgag3pzm-rtrmadp-3-usa-election-virginia-redistricting.jpg"
+      },
+      {
+        "clusterId": "d00c25e6cd1ec431",
+        "slug": "93534665bc30c16c",
+        "titulo": "A advertência de empresa hackeada por modelo 'rebelde' de IA da controladora do ChatGPT: 'É um sinal de alerta'",
+        "resumo": "Nova IA da OpenAI ‘se rebela’, invade sistema e copia dados sem permissão O cofundador da Hugging Face, empresa de tecnologia que foi alvo de um ataque cibernético depois que alguns dos modelos de inteligência artificial (IA) mais avançados da OpenAI saíram do controle, afirmou nesta quinta-feira (23) que o episódio é \"um alerta para toda a indústria\". Em entrevista ao programa de rádio Newsday, da BBC, Thomas Wolf disse que esse \"será um dos tipos de ataque cibernético mais comuns daqui para frente\", mas alertou que a maioria das empresas ainda não se deu conta de que \"o cenário mudou\".…",
+        "porQueImporta": "",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/tecnologia/noticia/2026/07/23/a-advertencia-de-empresa-hackeada-por-modelo-rebelde-de-ia-da-controladora-do-chatgpt-e-um-sinal-de-alerta.ghtml"
           },
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cvgl899vqwlo?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/articles/cx2lpjwnzx1o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-07-23T13:09:57.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/11/063_2247337340.jpg?quality=70&strip=info"
+        "updatedAt": "2026-07-23T17:02:14.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/ccJmyyMfGRYZwWrNFw0Dv4QmnI4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/O/Y26YkiS8q0fQGJAMJS1g/927f2eb0-8645-11f1-bb06-cd4aa2d50a91.jpg.webp"
+      },
+      {
+        "clusterId": "3201e23aff0a49df",
+        "slug": "96f0fec53367b847",
+        "titulo": "Trump avalia ação militar no Mali, diz jornal",
+        "resumo": "EUA renovam ataques ao Irã e ameaçam bombardear instalação nuclear subterrânea O governo do presidente dos Estados Unidos, Donald Trump, avalia realizar uma ação militar no Mali para atacar um grupo extremista ligado à Al-Qaeda, informou o Washington Post nesta quarta-feira (22). ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Segundo o jornal, a proposta ainda é alvo de divergências entre integrantes do governo americano e não foi aprovada. O alvo seria o grupo Jama'at Nusrat al-Islam wal-Muslimin (JNIM). O Mali enfrenta há anos uma escalada da violência provocada por grupos…",
+        "porQueImporta": "",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/entenda-por-que-trump-poderia-fazer-ataques-no-mali/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/07/23/trump-avalia-acao-militar-mali-veja-quais-paises-eua-atacaram.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-23T16:57:23.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/KLlzQuD81GObc8-XWXCfcHQDoMg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/O/9yCQ4tRTqewWBB5LQnhQ/2026-05-01t062748z-1773420057-rc2q9fa55nwf-rtrmadp-3-europe-usa-nato.jpg"
+      },
+      {
+        "clusterId": "82d25785c832dd11",
+        "slug": "afba80eb07bc6ea6",
+        "titulo": "Biquíni, 80 anos: como traje batizado por causa de bomba nuclear se tornou símbolo de brasilidade",
+        "resumo": "Biquíni, 80 anos: como traje batizado por causa de bomba nuclear se tornou símbolo de brasilidade Getty Images Como uma boa história de impacto global, a do biquíni tem ingredientes de várias partes do mundo. Pensando apenas na sua criação e na sua consolidação inicial podemos citar a França, onde nasceu; as Ilhas Marshall, de onde pegou emprestado o nome; os Estados Unidos, cuja cultura pop o disseminou; o Brasil — país que acabou virando o habitat natural para a peça, principalmente graças às praias e à imagem do Rio de Janeiro e a Alemanha, onde nasceu a mulher pioneira na introdução da…",
+        "porQueImporta": "",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/07/23/biquini-80-anos-como-traje-batizado-por-causa-de-bomba-nuclear-se-tornou-simbolo-de-brasilidade.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cwy0zqxzl85o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-07-23T16:19:21.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/VZn0Rn1feLKzGIn4uy0cW0Slvwk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/l/ZVDweUTSSsEVOBljITFA/018da210-7c3b-11f1-9510-1546718f668b.jpg.webp"
+      },
+      {
+        "clusterId": "a6de3267c82bf9d8",
+        "slug": "d72531fcdd183041",
+        "titulo": "As vitórias de João Cândido contra a Marinha na Justiça, mais de 115 anos após a Revolta da Chibata",
+        "resumo": "Justiça aceita denúncia contra Marinha por ataques a João Cândido Uma decisão da Justiça Federal determinou que a Marinha pague uma indenização por danos morais de R$ 300 mil aos familiares de João Cândido Felisberto, conhecido como o \"Almirante Negro\" e líder da Revolta da Chibata, em 1910. A liderança de Cândido no motim que combateu as punições físicas como o uso de chibatas contra marinheiros — em sua maioria, negros — o fez se tornar um ícone das mobilizações antirracistas no Brasil após a abolição da escravidão. A ação foi movida pelo filho de João Cândido, Adalberto Cândido, após a…",
+        "porQueImporta": "",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/23/as-vitorias-de-joao-candido-contra-a-marinha-na-justica-mais-de-115-anos-apos-a-revolta-da-chibata.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cwy2n089q22o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-07-23T15:47:04.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/kcLeHnBn_rk3Jf6EuFJA6OpXZOE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/f/nM7VmSSjGgGBdBLyIV9w/1.webp"
+      },
+      {
+        "clusterId": "84d647104e5a0d4f",
+        "slug": "1b98c580c72f8122",
+        "titulo": "Destroços de avião da Pan Am de 1952 encontrados no mar",
+        "resumo": "Exploradores localizaram os destroços do DC‑4 Clipper Endeavour, que desapareceu em 1952 após perder potência e forçar pouso no oceano. O acidente resultou na morte de 52 pessoas. A descoberta confirma a localização do navio e oferece dados para estudos históricos e de segurança aérea.",
+        "porQueImporta": "A localização dos restos ajuda a compreender melhor o acidente e a evolução das normas de segurança da aviação.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/ceqe990jvvgo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/07/23/como-acidente-de-aviao-que-teve-destrocos-achados-apos-74-anos-mudou-para-sempre-a-seguranca-aerea.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-23T15:01:49.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/54fb/live/2c63c4e0-85ca-11f1-926f-c90d1bcfbc84.png"
       },
       {
         "clusterId": "2ab0038ab62e94dc",
@@ -625,258 +760,222 @@
         ],
         "updatedAt": "2026-07-23T13:42:06.000Z",
         "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5803/live/7ce1c600-85b2-11f1-bee8-53ce494e1abc.jpg"
-      },
-      {
-        "clusterId": "d26e7e3d4598a82c",
-        "slug": "21fb13ff9f1f9afb",
-        "titulo": "Petição pede repetição da final da Copa 2026 e FIFA abre investigação",
-        "resumo": "Uma petição no Change.org, criada pela torcedora Gisela Sánchez, já ultrapassou 61 mil assinaturas pedindo a repetição da decisão da final da Copa do Mundo de 2026, na qual a Espanha venceu a Argentina por 1 a 0 na prorrogação, alegando influência da arbitragem. A FIFA abriu investigação sobre a confusão pós-jogo, envolvendo agressões de jogadores argentinos a espanhóis, e nomeou um procurador disciplinar para avaliar possíveis sanções. A partida também registrou audiência recorde nos EUA, com 60 milhões de espectadores.",
-        "porQueImporta": "O caso destaca controvérsias sobre arbitragem e disciplina em competições internacionais.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/auxiliar-da-argentina-pede-desculpas-por-confusao-na-final-da-copa/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/07/21/fifa-abre-investigacao-sobre-confusao-envolvendo-argentina-apos-final-da-copa-do-mundo.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-23T12:40:59.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/B4LaeEaC-6U3q1gKdVAZmHmY-xQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/A/5Y1FUVR5eGqRzqzWmjsw/foto-1200px.png"
-      },
-      {
-        "clusterId": "6b31c65d924a6718",
-        "slug": "642920ae73b8985d",
-        "titulo": "Trump ameaça atacar infraestrutura iraniana em resposta a ataques no Estreito de Ormuz",
-        "resumo": "O presidente dos Estados Unidos, Donald Trump, anunciou que os EUA atacariam pontes e usinas elétricas do Irã sempre que o país atacasse navios no Estreito de Ormuz. A declaração foi feita em meio a uma escalada de ataques entre os dois países, que já custou mais de US$ 37 bilhões aos EUA. Trump afirmou que a medida seria tomada em resposta a qualquer ofensiva iraniana contra embarcações no estreito. A ameaça reflete a tensão crescente entre os dois lados sobre o controle da via marítima estratégica.",
-        "porQueImporta": "A medida pode intensificar o conflito e afetar a segurança e a economia global no comércio marítimo.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-eua-responsabilizarao-ira-por-ataques-dos-houthis/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/07/22/trump-diz-que-eua-atacarao-ponte-ou-usina-eletrica-do-ira-sempre-que-teera-fizer-ataque-no-estreito-de-ormuz.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-23T12:40:30.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/v93988yvXmONn-bfYxwwg1fXSaA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/x/2fN2PAR0Kkaz79g11OgQ/2026-07-21t154047z-1262125814-rc2bima1j4jy-rtrmadp-3-usa-trump.jpg"
-      },
-      {
-        "clusterId": "1556d9438e554cb7",
-        "slug": "a07d0b9de84d42c6",
-        "titulo": "Controle, ameaças e cirurgia: minha vida na 'seita' de Jeffrey Epstein",
-        "resumo": "Vítima sexual de Jeffrey Epstein conta o que passou com financista BBC Na semana seguinte à morte do financista e criminoso sexual Jeffrey Epstein, \"Anya\" (nome fictício) abriu a porta de seu apartamento em Nova York. Do lado de fora estava Mark Epstein, irmão de Jeffrey, dizendo que ela precisava deixar o imóvel, conta. Anya viveu por anos em um dos vários apartamentos na East 66th Street, em Manhattan, usados por Jeffrey Epstein para abrigar mulheres que ele abusava. Em um instante, ela perdeu sua moradia — mas também escapou de um pesadelo. (Mark Epstein nega ter conhecimento dos crimes…",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/07/23/controle-ameacas-e-cirurgia-minha-vida-na-seita-de-jeffrey-epstein.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cq6d4plz95eo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-07-23T11:22:18.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/LRFj1FZDBd9BFYkJADtR8369JSg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/Z/lHC4GES0uuTHB6lkzoBw/novo-projeto.jpg"
-      },
-      {
-        "clusterId": "b28f64c8c86e4eab",
-        "slug": "412fa17d85e25525",
-        "titulo": "Recrutador de modelos ligado a Jeffrey Epstein encontrado morto na França",
-        "resumo": "Daniel Siad, recrutador de modelos de 69 anos, foi encontrado morto em sua residência em Colombes, nos arredores de Paris, na noite de 20 de julho. Ele estava sob investigação da Justiça francesa por denúncias de estupro e outras acusações de abuso sexual. Siad era conhecido por suas ligações com o criminoso sexual norte-americano Jeffrey Epstein. A morte ocorreu enquanto ele estava sendo investigado por múltiplas denúnções de mulheres.",
-        "porQueImporta": "A morte de Siad destaca a extensão das redes de recrutamento de modelos envolvidas em casos de abuso sexual e a atenção internacional sobre o legado de Epstein.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/07/23/quem-era-daniel-siad-recrutador-de-modelos-de-epstein-encontrado-morto-em-paris.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/ckgd00vj12mo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-07-23T09:07:06.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/3Kr2OuzTohEWc7jXBOcDWykRp8I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/Z/g5QIljSW2hiGBDNvaimQ/b3a6dd80-85dd-11f1-926f-c90d1bcfbc84.jpg.webp"
-      },
-      {
-        "clusterId": "84d647104e5a0d4f",
-        "slug": "1b98c580c72f8122",
-        "titulo": "Destroços de avião da Pan Am de 1952 encontrados no mar",
-        "resumo": "Exploradores localizaram os destroços do DC‑4 Clipper Endeavour, que desapareceu em 1952 após perder potência e forçar pouso no oceano. O acidente resultou na morte de 52 pessoas. A descoberta confirma a localização do navio e oferece dados para estudos históricos e de segurança aérea.",
-        "porQueImporta": "A localização dos restos ajuda a compreender melhor o acidente e a evolução das normas de segurança da aviação.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/07/23/como-acidente-de-aviao-que-teve-destrocos-achados-apos-74-anos-mudou-para-sempre-a-seguranca-aerea.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/ceqe990jvvgo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-07-23T08:00:17.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/ZevYMgGYRMkp-2jxoxuZTLmwnzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/D/JW5kxnRK2ykcYbevYA7g/ap26202833721411.jpg"
-      },
-      {
-        "clusterId": "ad8d9458f0eaaa7c",
-        "slug": "7febda2c3e6ea056",
-        "titulo": "Os milionários que querem pagar mais impostos no Reino Unido",
-        "resumo": "Em uma carta aberta ao novo premiê,120 britânicos abastados disseram que 'podem pagar' mais e que uma mudança seria benéfica para o país.",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cn9n388g4vpo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-07-23T12:52:38.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0a2a/live/73191cf0-8674-11f1-8c77-df97511a6b05.jpg"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "9f70fed1fa5a90d3",
-        "slug": "316219112722aef3",
-        "titulo": "Samsung lança Galaxy Z Fold8, Z Fold8 Ultra e Z Flip8 com novas tecnologias",
-        "resumo": "A Samsung apresentou a nova geração de celulares dobráveis, incluindo o Galaxy Z Fold8, Z Fold8 Ultra e Z Flip8, em evento Galaxy Unpacked. O Z Fold8 destaca-se pelo design quadrado, semelhante ao de um passaporte, e pela introdução da tecnologia Flex Titanium, que utiliza duas camadas de titânio para maior resistência e menor vinco. Os dispositivos também incorporam baterias de silício-carbono, aumentando a autonomia sem ampliar o tamanho. No mercado sul-coreano, os preços são reduzidos em até 48% em comparação a outros mercados.",
-        "porQueImporta": "Essas inovações podem redefinir padrões de design e desempenho em smartphones dobráveis.",
+        "clusterId": "2f67749bff844137",
+        "slug": "9ef446e16b6bc0a5",
+        "titulo": "Apple fornece mapas e dados de estrada para Ford em parceria de carros autônomos",
+        "resumo": "Apple retomou o setor automotivo ao disponibilizar mapas e dados de estrada para a Ford, que os integrará ao sistema de direção assistida dos novos veículos elétricos. A parceria, que segue após o cancelamento do projeto de carro da Apple, coloca a tecnologia da Apple no centro da nova geração de automóveis da Ford. A iniciativa reforça a competição no mercado de veículos autônomos e eletrificados.",
+        "porQueImporta": "A colaboração pode acelerar a adoção de tecnologia autônoma em veículos elétricos, influenciando a competitividade das montadoras.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/smartphone/samsung-vende-novo-celular-dobravel-pela-metade-do-preco-em-lugar-especifico/"
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/07/23/carros-e-tecnologia/apple-vai-turbinar-carros-autonomos-da-ford-entenda-como/"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/guia/guia-de-compras/tecnologia/celulares/galaxy-z-fold8-samsung-celular-dobravel-tela-quadrada.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-23T13:59:08.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/7QP65esGqTgH4pVICkF4kSqhuv0=/0x0/filters:format(webp):quality(85)/8ce3e7f3-673d-4ad7-bea9-259bab8045e2.png"
-      },
-      {
-        "clusterId": "129a1648daddf8c5",
-        "slug": "374681692c79e838",
-        "titulo": "AMD lança nova ofensiva para disputar mercado de IA com a Nvidia",
-        "resumo": "Empresa deve apresentar servidores, processador para data centers e reforçar estratégia voltada ao avanço das aplicações de IA O post AMD lança nova ofensiva para disputar mercado de IA com a Nvidia apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/negocios/amd-deve-lancar-produtos-hardwares-para-ia-desafiando-nvidia/"
+            "name": "Exame",
+            "url": "https://exame.com/tecnologia/carro-da-apple-segue-na-geladeira-mas-empresa-volta-ao-setor-automotivo-com-a-ford/"
           },
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/07/23/inteligencia-artificial/amd-lanca-nova-ofensiva-para-disputar-mercado-de-ia-com-a-nvidia/"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/carros/flagra-mostra-contra-ataque-da-ford-contra-chinesas-no-brasil/"
           }
         ],
-        "updatedAt": "2026-07-23T13:44:36.000Z"
+        "updatedAt": "2026-07-23T15:22:51.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/S8V6tGbsMMPUD97ehggSpk3yGlU=/0x0/filters:format(webp):quality(85)/0343c275-8030-4f7c-a67a-af11290be79a.jpg"
       },
       {
-        "clusterId": "75543b534a00202e",
-        "slug": "a4f759bbf622a08f",
-        "titulo": "Nova Mi Band da Xiaomi vazou: bateria para 14 dias por menos de R$ 250",
-        "resumo": "O lançamento da 11ª geração de pulseiras inteligentes da Xiaomi deve acontecer em breve, e alguns detalhes dos acessórios já circulam na internet. A Smart Band 11 Active deve focar no custo-benefício, tendo como um dos principais destaques uma bateria com autonomia de até 14 dias. As informações foram reveladas por alguns varejistas europeus, que listaram a nova pulseira antes da hora em seus catálogos. 📱 Veja as melhores promoções de smartwatches no WhatsApp do CT Ofertas As especificações apontam que o wearable deve apresentar uma tela LCD de 1,47 polegada com resolução de 320 x 172…",
+        "clusterId": "941b05b8793e2acc",
+        "slug": "0c7fd2b40787d7e8",
+        "titulo": "NVIDIA renova estoque das RTX 5060 no Brasil com preços que cabem no bolso",
+        "resumo": "As placas de vídeo mainstream sempre são as mais procuradas pelos PC gamers por entregarem o melhor desempenho por custo dentro da resolução FullHD. Com isso em mente, a NVIDIA está aumentando o suprimento dessa GPU para o mercado brasileiro, o que ajuda a melhorar os preços no varejo e a dar a chance para mais usuários de adquiri-la. Existem vários modelos em promoção agora nos maiores varejistas do Brasil, derrubando os preços para próximo de R$ 2.000, que é um ótimo patamar considerando a realidade de crise de componentes em que vivemos hoje. E falando nisso, se eu fosse você, não perderia…",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/smartwatch/nova-mi-band-da-xiaomi-vazou-bateria-para-14-dias-por-menos-de-r-250/"
+            "url": "https://canaltech.com.br/hardware/nvidia-renova-estoque-das-rtx-5060-no-brasil-com-precos-que-cabem-no-bolso/"
           }
         ],
-        "updatedAt": "2026-07-23T13:37:05.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/TyVFd6C54QwCEaqiE6xkTCH527s=/0x0/filters:format(webp):quality(85)/aa53a3ef-cc3d-4814-a339-7a7fb291308a.png"
+        "updatedAt": "2026-07-23T17:14:00.000Z"
       },
       {
-        "clusterId": "9fc3da1c9aa8e4b9",
-        "slug": "82b10245cdec79fe",
-        "titulo": "Google leva multa histórica de mais de R$ 5 bilhões por infringir Lei",
-        "resumo": "A Comissão Europeia multou o Google em 890 milhões de euros, o equivalente a mais de R$ 5 bilhões pela cotação atual, por infringir a Lei de Mercados Digitais (DMA) da União Europeia. A decisão, anunciada nesta quinta-feira (23), marca a primeira penalidade aplicada à empresa sob essa legislação. O valor se divide em duas partes. Uma multa de 460 milhões de euros foi aplicada porque o Google favorecia seus próprios serviços, como resultados de compras, hotéis, transporte e esportes, nas buscas do site. Outros 430 milhões de euros se referem a restrições impostas pela Google Play a…",
+        "clusterId": "88ce908ad74797ec",
+        "slug": "77ae18803dd094a3",
+        "titulo": "Samsung manda recado à Apple sobre iPhone dobrável: \"não vão nos alcançar\"",
+        "resumo": "A chegada do primeiro iPhone dobrável não parece preocupar a Samsung. Durante entrevistas concedidas após o Galaxy Unpacked de julho, TM Roh, CEO da Samsung Electronics e chefe da divisão mobile da empresa, afirmou que a experiência acumulada ao longo de sete anos no mercado de dobráveis não poderá ser igualada pela Apple. Segundo o executivo, o conhecimento tecnológico e o entendimento das necessidades dos consumidores construídos pela Samsung desde o lançamento do primeiro Galaxy Fold representam uma vantagem difícil de ser replicada. 📱 Veja as melhores promoções de hoje no WhatsApp do CT…",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/mercado/google-leva-multa-historica-de-mais-de-r-5-bilhoes-por-infringir-lei/"
+            "url": "https://canaltech.com.br/smartphone/samsung-manda-recado-a-apple-sobre-i-phone-dobravel-nao-vao-nos-alcancar/"
           }
         ],
-        "updatedAt": "2026-07-23T13:30:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/5yRbTUMV54yDk7qFBS8eQKJYaek=/0x0/filters:format(webp):quality(85)/4d8fe9de-59e8-436f-baf1-9208a5f14596.png"
+        "updatedAt": "2026-07-23T17:11:29.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/McxGb3iU3305YJX6puPLk8vN6OY=/0x0/filters:format(webp):quality(85)/bd5dd5d5-751b-4e39-aeb0-1370c536a541.png"
       },
       {
-        "clusterId": "77e807a01a241e3a",
-        "slug": "9a9683b893934ec1",
-        "titulo": "Sonda da NASA “acorda” após 321 dias e volta ao espaço profundo",
-        "resumo": "Sonda New Horizons, da NASA, desperta após 321 dias em hibernação e retoma estudos sobre os limites do Sistema Solar O post Sonda da NASA “acorda” após 321 dias e volta ao espaço profundo apareceu primeiro em Olhar Digital.",
+        "clusterId": "9859f4ed1798a880",
+        "slug": "62a1c16b71402a2d",
+        "titulo": "Google Fotos testa botão para resolver problema de privacidade em imagens",
+        "resumo": "O Google está testando uma nova ferramenta para ocultar informações sensíveis em imagens no Google Fotos. Descoberta pelo Android Authority durante uma análise da versão 7.85.0.950510832 do aplicativo para Android, a função ainda está em desenvolvimento e não foi liberada para usuários. Batizado de Redação (Redact), o recurso aparece na seção Marcação do editor de imagens, ao lado das opções de caneta, marca-texto e texto. Hoje, quem deseja esconder informações pessoais precisa usar a ferramenta de caneta para cobrir manualmente os dados. A nova opção deve simplificar esse processo, embora…",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/apps/google-fotos-testa-botao-para-resolver-problema-de-privacidade-em-imagens/"
+          }
+        ],
+        "updatedAt": "2026-07-23T17:04:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/Ww0WaZOVIlK-7qvPluWUFKj8VQ8=/0x0/filters:format(webp):quality(85)/1814eedb-ecab-454f-a67e-5a24e6b982b4.jpg"
+      },
+      {
+        "clusterId": "79080dd91250d352",
+        "slug": "56450420978cc520",
+        "titulo": "Samsung dá R$ 1.909 de desconto em tablet de 11'' com 5G; vem com capa e caneta",
+        "resumo": "Quem procura um tablet para estudar, trabalhar ou consumir conteúdo pode aproveitar uma oferta interessante na loja oficial da Samsung. O Galaxy Tab S10 Lite 5G está saindo por R$ 1.889,10 com o cupom CANALTECH, valor que representa R$ 1.909 de desconto sobre o preço cheio. Além do preço reduzido, a oferta fica ainda mais atrativa porque já inclui a S Pen e a capa Smart Book Cover, dois acessórios que normalmente são vendidos separadamente e aumentam bastante a versatilidade do tablet. 🥇 Melhor oferta: Galaxy Tab S10 Lite 5G (128 GB) + S Pen + Smart Book Cover — R$ 1.889,10; 🥈 Mais…",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/tablet/samsung-da-r-1-909-de-desconto-em-tablet-de-11-com-5-g-vem-com-capa-e-caneta/"
+          }
+        ],
+        "updatedAt": "2026-07-23T16:56:10.000Z"
+      },
+      {
+        "clusterId": "f519b40fca8181c4",
+        "slug": "92c242336130cdad",
+        "titulo": "Via Láctea pode ter “tombado” após colisões com outras galáxias antigas",
+        "resumo": "Simulações revelam pistas sobre movimentos incomuns de estrelas distantes e ajudam a explicar o passado turbulento da nossa galáxia O post Via Láctea pode ter “tombado” após colisões com outras galáxias antigas apareceu primeiro em Olhar Digital.",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/07/23/ciencia-e-espaco/sonda-da-nasa-acorda-apos-321-dias-e-volta-ao-espaco-profundo/"
+            "url": "https://olhardigital.com.br/2026/07/23/ciencia-e-espaco/via-lactea-pode-ter-tombado-apos-colisoes-com-outras-galaxias-antigas/"
           }
         ],
-        "updatedAt": "2026-07-23T13:22:03.000Z"
+        "updatedAt": "2026-07-23T16:47:49.000Z"
       },
       {
-        "clusterId": "dae0d331bc4e6e00",
-        "slug": "55cb23fd06c68cd1",
-        "titulo": "Smartwatches em promoção: veja uma seleção com conectividade, saúde e estilo no pulso",
-        "resumo": "Os smartwatches deixaram de ser gadget de nicho e viraram companheiros do dia a dia — seja para monitorar a saúde, responder mensagens ou simplesmente saber as horas com estilo. Reunimos três opções em oferta na Amazon que valem a atenção, com recursos que vão de chamadas Bluetooth a inteligência artificial. Confira. Haiz My Watch […] O post Smartwatches em promoção: veja uma seleção com conectividade, saúde e estilo no pulso apareceu primeiro em Olhar Digital.",
+        "clusterId": "a725141b22bce46d",
+        "slug": "c7cb9834410a8d93",
+        "titulo": "Quer melhorar o som da sua TV? Confira esta seleção de soundbars em promoção",
+        "resumo": "Assistir filmes, séries e jogar com um som de qualidade faz toda a diferença — e uma boa soundbar é o caminho mais prático para transformar a experiência sem precisar montar um sistema completo de home theater. Separamos três opções em oferta na Amazon para diferentes perfis e necessidades. Confira! JBL Cinema SB180 — Soundbar […] O post Quer melhorar o som da sua TV? Confira esta seleção de soundbars em promoção apareceu primeiro em Olhar Digital.",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/07/23/reviews/smartwatches-em-promocao-veja-uma-selecao-com-conectividade-saude-e-estilo-no-pulso/"
+            "url": "https://olhardigital.com.br/2026/07/23/reviews/quer-melhorar-o-som-da-sua-tv-confira-esta-selecao-de-soundbars-em-promocao/"
           }
         ],
-        "updatedAt": "2026-07-23T13:20:00.000Z"
+        "updatedAt": "2026-07-23T16:40:00.000Z"
       },
       {
-        "clusterId": "698c26ce7c8ac144",
-        "slug": "8ff017279cb93982",
-        "titulo": "Google aponta que IA amplia trabalho humano e não substitui empregos",
-        "resumo": "Levantamento analisou milhões de interações com ferramentas de IA e identificou uso crescente em profissões variadas O post Google aponta que IA amplia trabalho humano e não substitui empregos apareceu primeiro em Olhar Digital.",
+        "clusterId": "44b82e32f5e4bff5",
+        "slug": "eb8cc55a30887673",
+        "titulo": "Música sem fio do jeito certo: selecionamos ótimos fones Bluetooth em promoção",
+        "resumo": "Se você está pensando em renovar o fone de ouvido ou presentear alguém, este é um bom momento para dar uma olhada nas opções disponíveis na Amazon. Reunimos três modelos Bluetooth em oferta — entre TWS compactos e headphones over-ear — para diferentes perfis de uso e preferências. PHILIPS Fone de Ouvido Sem Fio TWS […] O post Música sem fio do jeito certo: selecionamos ótimos fones Bluetooth em promoção apareceu primeiro em Olhar Digital.",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/07/23/inteligencia-artificial/google-aponta-que-ia-amplia-trabalho-humano-e-nao-substitui-empregos/"
+            "url": "https://olhardigital.com.br/2026/07/23/reviews/caixas-de-som-bluetooth-em-promocao-confira-as-melhores-pedidas-do-momento/"
           }
         ],
-        "updatedAt": "2026-07-23T13:02:59.000Z"
-      },
-      {
-        "clusterId": "63e160c7d65fc980",
-        "slug": "35855408b76fc646",
-        "titulo": "Motorola em promoção: veja uma seleção de smartphones com câmera com IA e bateria potente",
-        "resumo": "A Motorola segue firme como uma das marcas mais populares no mercado brasileiro de smartphones, e agora é um ótimo momento para garantir um aparelho da linha Moto g. Reunimos três modelos em oferta na Amazon com boas configurações de memória, câmeras com inteligência artificial e baterias de longa duração. Confira! Motorola Moto g06 — […] O post Motorola em promoção: veja uma seleção de smartphones com câmera com IA e bateria potente apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/07/23/reviews/hora-de-renovar-o-celular-selecao-de-smartphones-xiaomi-em-promocao-na-amazon/"
-          }
-        ],
-        "updatedAt": "2026-07-23T13:00:00.000Z"
+        "updatedAt": "2026-07-23T16:20:00.000Z"
       }
     ],
     "ciencia": [
+      {
+        "clusterId": "72bedc72ce8fa3a0",
+        "slug": "e6464f0fdc725b05",
+        "titulo": "Qual é a língua mais antiga ainda falada no mundo?",
+        "resumo": "Não existe uma resposta exata, mas há alguns bons candidatos.",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/coluna/oraculo/qual-e-a-lingua-mais-antiga-ainda-falada-no-mundo/"
+          }
+        ],
+        "updatedAt": "2026-07-23T17:00:32.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/07/SI_489_Oraculo_lingua_mais_antiga.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "21ff20a79f45b13b",
+        "slug": "7c3033067f716b18",
+        "titulo": "Além dos mamíferos, outros animais também hibernam?",
+        "resumo": "Répteis, anfíbios e até uma espécie de ave também tiram sonecas profundas no inverno.",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/coluna/oraculo/alem-dos-mamiferos-outros-animais-tambem-hibernam/"
+          }
+        ],
+        "updatedAt": "2026-07-23T15:00:10.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/07/SI_489_Oraculo_Hibernacao.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "803d805ee829bfa6",
+        "slug": "04445acff9b0c49c",
+        "titulo": "Monumentos públicos incentivam o pensamento crítico e a revisão da história",
+        "resumo": "Professora Fraya Frehse da USP analisa o potencial crítico e os riscos da privatização do espaço público",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/atualidades/monumentos-publicos-incentivam-o-pensamento-critico-e-a-revisao-da-historia/"
+          }
+        ],
+        "updatedAt": "2026-07-23T14:31:32.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/07/20260723_construcoesmontagem-1024x538.jpg"
+      },
+      {
+        "clusterId": "57fcf2c1b7fcc838",
+        "slug": "109b93628854a98a",
+        "titulo": "USP oferece curso de programação avançada para adolescentes",
+        "resumo": "Curso gratuito de programação, oferecido pela Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, é destinado a adolescentes de 12 a 14 anos",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/campus-ribeirao-preto/usp-oferece-curso-de-programacao-avancada-para-adolescentes/"
+          }
+        ],
+        "updatedAt": "2026-07-23T14:24:23.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/07/20260723_computador-1024x538.jpg"
+      },
+      {
+        "clusterId": "28fbfb2be2c07178",
+        "slug": "dd4bbe84eb71c8fa",
+        "titulo": "Estudo analisa as presença da agricultura familiar no Centro-Oeste brasileiro",
+        "resumo": "Pesquisa da USP mostra que fortalecer os pequenos produtores pode ser decisivo para ampliar a diversidade de alimentos e promover sistemas alimentares mais sustentáveis",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/radio-usp/estudo-analisa-as-presenca-da-agricultura-familiar-no-centro-oeste-brasileiro/"
+          }
+        ],
+        "updatedAt": "2026-07-23T14:10:44.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/08/20230803_agriculturafamiliar_1200x630-1024x538.jpg"
+      },
       {
         "clusterId": "bc354d4033b8f809",
         "slug": "3af8fcddda499f70",
@@ -897,7 +996,7 @@
         "clusterId": "071e17784ef2be00",
         "slug": "5e6b778858f071a7",
         "titulo": "Aumento dos níveis de resistência a antibióticos é ameaça à saúde global, diz OMS",
-        "resumo": "Nilton Lincopan e Silvia Costa detalham o processo de disseminação de bactérias multirresistentes e comentam possibilidades medidas para o enfrentamento",
+        "resumo": "Nilton Lincopan e Silvia Costa detalham o processo de disseminação de bactérias multirresistentes e comentam medidas para o enfrentamento",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
@@ -924,86 +1023,6 @@
         ],
         "updatedAt": "2026-07-23T13:00:42.000Z",
         "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/07/SI_fatores-geneticos-boderline_site.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "ddf1e0b14d4c7af8",
-        "slug": "070bb060df2bbc24",
-        "titulo": "Amamentação tem papel importante na formação bucal do bebê",
-        "resumo": "Acompanhamento odontológico durante a gestação favorece o aleitamento materno e contribui para o desenvolvimento da criança",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/amamentacao-tem-papel-importante-na-formacao-bucal-do-bebe/"
-          }
-        ],
-        "updatedAt": "2026-07-23T12:30:23.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/07/20260722_amamentacao-1024x538.jpg"
-      },
-      {
-        "clusterId": "2ed1124de4c31624",
-        "slug": "0f2c418b6ac9c08b",
-        "titulo": "Pressão por produtividade e falta de treinamento favorecem crescimento do mercado de periódicos predatórios",
-        "resumo": "Levantamento mapeia o avanço no Brasil dos periódicos predatórios, que publicam artigos científicos sem fazer revisão por pares",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/ciencias/pressao-por-produtividade-e-falta-de-treinamento-favorecem-crescimento-do-mercado-de-periodicos-predatorios/"
-          }
-        ],
-        "updatedAt": "2026-07-23T12:13:50.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/07/20260721_teclado-1024x538.jpg"
-      },
-      {
-        "clusterId": "ef681b83f17a599b",
-        "slug": "31e9d0c0d5d15b7f",
-        "titulo": "Sistemas Complexos – O que ocorre no cérebro durante estados alterados de consciência?",
-        "resumo": "Pesquisa une matemática e biologia, abrindo caminho para novas descobertas sobre doenças psiquiátricas; trabalho foi um dos destaques no Brics Neuroscience 2026, na Índia",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/ciencias/sistemas-complexos-o-que-ocorre-no-cerebro-durante-estados-alterados-de-consciencia/"
-          }
-        ],
-        "updatedAt": "2026-07-23T11:49:21.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/07/20260615_ledesesperedegustavecourbet-1024x538.jpg"
-      },
-      {
-        "clusterId": "9e1858864949a3ea",
-        "slug": "bc936b02e093ddaf",
-        "titulo": "O mundo se aproxima do fim da Agenda 2030 sem cumprir metas de desenvolvimento sustentável",
-        "resumo": "José Eli da Veiga comenta o balanço dos Objetivos de Desenvolvimento Sustentável e aponta a necessidade de uma nova estratégia global para enfrentar pobreza, desigualdade e desafios tecnológicos",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/radio-usp/o-mundo-se-aproxima-do-fim-da-agenda-2030-sem-cumprir-metas-de-desenvolvimento-sustentavel/"
-          }
-        ],
-        "updatedAt": "2026-07-23T11:00:59.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/03/pasta-dos-20230313_jose-eli--1024x1024.jpg"
-      },
-      {
-        "clusterId": "23033a738c410847",
-        "slug": "5821ae9caae55b8a",
-        "titulo": "Biólogo brasileiro registra raro leopardo com melanismo. Veja imagens.",
-        "resumo": "Com condição genética presente em menos de 1% dos leopardos africanos, João Paulo Krajewski filmou a fêmea Giza ao lado dos filhotes em um safári no Quênia.",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/ciencia/biologo-brasileiro-registra-raro-leopardo-com-melanismo-veja-imagens/"
-          }
-        ],
-        "updatedAt": "2026-07-23T11:00:42.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/07/SI_Leopardo-Melanico_site1.jpg?quality=70&strip=info"
       }
     ],
     "saude": [
@@ -1101,165 +1120,248 @@
     ],
     "esportes": [
       {
-        "clusterId": "bc5bc31e8befab31",
-        "slug": "fc369f80287ef845",
-        "titulo": "Gabriel Pec sofre fratura na perna esquerda após entrada de Victor Gabriel",
-        "resumo": "O atacante Gabriel Pec, recém‑contratado pelo Cruzeiro, sofreu fratura na perna esquerda durante sua estreia no Brasileirão contra o Internacional. A lesão ocorreu após uma entrada forte de Victor Gabriel, que foi expulso pelo árbitro. Pec deixou o campo sangrando e foi encaminhado ao vestiário para exames detalhados. A fratura foi confirmada em exames posteriores.",
-        "porQueImporta": "A lesão impede o jogador de participar das próximas partidas, afetando a formação do Cruzeiro.",
+        "clusterId": "55d26858b89f2d5b",
+        "slug": "cd2eae13a8bd2b61",
+        "titulo": "Grêmio anuncia contratação de Jovane Cabral",
+        "resumo": "O Grêmio firmou contrato com o meia-atacante Jovane Cabral, de Cabo Verde, que participou da Copa do Mundo de 2026 pela seleção nacional. O vínculo do jogador com o clube gaúcho dura até o final de 2027. Cabral estava sem contrato após deixar o Estrela Amadora, em Portugal, em maio deste ano.",
+        "porQueImporta": "A contratação reforça o elenco do Grêmio com um jogador internacional experiente.",
         "category": "esportes",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/gabriel-pec-do-cruzeiro-tem-fratura-confirmada-na-perna-esquerda"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/22-07-2026/internacional-cruzeiro.ghtml"
+            "url": "https://www.metropoles.com/esportes/gremio-anuncia-a-contratacao-de-jovane-cabral-de-cabo-verde"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/atacante-gabriel-pec-passa-por-reavaliacao-e-tem-fratura-confirmada/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/gremio-anuncia-contratacao-de-jovane-cabral-atacante-de-cabo-verde-na-copa/"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/gabriel-pec-sofre-fratura-na-perna-em-estreia-como-titular-pelo-cruzeiro/"
+            "name": "GE",
+            "url": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2026/07/23/gremio-anuncia-contratacao-de-jovane-cabral-da-selecao-de-cabo-verde.ghtml"
           }
         ],
-        "updatedAt": "2026-07-23T13:40:41.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/07/gabriel-pec-cruzeiro-1.jpg"
+        "updatedAt": "2026-07-23T17:15:38.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/07/jovane-cabral-cabo-verde-gremio.jpg"
       },
       {
-        "clusterId": "5f274c6a3043ac03",
-        "slug": "85f4fb9b3ab167da",
-        "titulo": "Bolívar enfrenta Grêmio na Copa Sul-Americana",
-        "resumo": "O duelo entre Bolívar e Grêmio ocorrerá na quinta-feira, 23, às 19h (horário de Brasília), no Estádio Hernando Siles, em La Paz, Bolívia. A partida é válida pela ida dos playoffs da Sul-Americana 2026. O jogo será transmitido ao vivo e as escalações prováveis já foram divulgadas. Bolívar chegou aos playoffs após terminar terceiro do Grupo C da Conmebol Libertadores.",
-        "porQueImporta": "Decisiva para a classificação dos times na fase de playoffs da Copa Sul-Americana.",
+        "clusterId": "32a506d65304f7e0",
+        "slug": "7fecdc6d0650049e",
+        "titulo": "Internacional x Fluminense - Campeonato Brasileiro Feminino 2026 - globoesporte.com",
+        "resumo": "Campeonato Brasileiro Feminino 2026 no globoesporte.com - acompanhe tudo sobre Internacional x Fluminense: escalação, informações sobre o jogo, fotos e muito mais",
+        "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/gremio-desafia-altitude-de-la-paz-contra-o-bolivar-pela-sul-americana/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/apostas/palpites-e-odds/palpite-corinthians-x-remo-brasileirao-23-07-26"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/rs/futebol/copa-sul-americana/noticia/2026/07/23/rival-do-gremio-na-sul-americana-fez-apenas-16-jogos-oficiais-no-ano-e-tem-parca-de-neymar.ghtml"
+            "url": "https://ge.globo.com/pi/futebol/futebol-feminino/brasileiro-feminino/jogo/26-07-2026/corinthians-vitoria.ghtml"
           }
         ],
-        "updatedAt": "2026-07-23T13:17:47.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/CmIe6bAjT5SuFbZk_cdEONc1S5Q=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/c/u/YkSWskRdC5q4YgzUdkTg/bolivar-fluminense-nonato-pato.jpg"
+        "updatedAt": "2026-07-23T17:03:47.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/07/palpite-corinthians-x-remo-brasileirao-23-07-26.jpg"
       },
       {
-        "clusterId": "b02e270b10b2dcc4",
-        "slug": "922162d257c12275",
-        "titulo": "Corinthians x Remo: onde assistir ao vivo, horário e escalações",
-        "resumo": "Corinthians e Memphis negociam renovação mesmo com novo transfer ban da equipe Corinthians e Remo se enfrentam nesta quinta-feira, às 19h30 (de Brasília), na Neo Química Arena, pela 19ª rodada do Campeonato Brasileiro. O jogo marca a retomada do Brasileirão para as duas equipes depois da pausa para a Copa do Mundo. O ge acompanha os lances em tempo real (clique aqui). + Confira a tabela do Brasileirão + Palpites e dicas para Corinthians x Remo Initial plugin text Com 24 pontos, o Corinthians está na parte de baixo da tabela. O time vem de duas vitórias no Brasileirão, antes da pausa para a…",
+        "clusterId": "bc86ac1b09d962dd",
+        "slug": "b4c5281513252ca1",
+        "titulo": "Entenda a lesão de Gabriel Pec e o prazo de recuperação no Cruzeiro",
+        "resumo": "Cartão vermelho para Victor Gabriel por entrada muito forte em Gabriel Pec Com a confirmação da fratura na tíbia de Gabriel Pec, as perguntas em torno do atacante ficam por conta de como será o processo de recuperação do jogador do Cruzeiro. O ge procurou entender todos os passos e o tempo que deve levar até ele retornar aos gramados. + 🔍 Adicione o ge nas suas fontes favoritas do Google Pec sofreu fratura na tíbia da perna esquerda durante o segundo tempo do jogo contra o Internacional, na quarta-feira, em Porto Alegre, pela 19ª rodada do Campeonato Brasileiro. O zagueiro Victor Gabriel…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/adversario-indigesto-remo-leva-vantagem-em-historico-com-corinthians-veja/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/internacional-futebol/zagueiro-do-inter-lamenta-ter-causado-lesao-em-gabriel-pec-veja/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/noticia/2026/07/23/corinthians-x-remo-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+            "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/noticia/2026/07/23/zagueiro-do-inter-pede-desculpas-por-entrada-que-provocou-fratura-em-gabriel-pec-do-cruzeiro.ghtml"
           }
         ],
-        "updatedAt": "2026-07-23T13:00:19.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/ppwnz-RiOLEmR7jKlb0wuU7nhLI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Q/D/g66hAtQ9AQTAjgggjWCw/53021401-1407-4633-af11-786693e8d413.jpg"
+        "updatedAt": "2026-07-23T17:03:32.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/9fk6uLIiaTSqmedVaHnolfkSy7I=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/4/B/gDQLz5RKm0M48tnGNJ1w/whatsapp-image-2026-07-22-at-23.52.27.jpeg"
       },
       {
-        "clusterId": "6f1aa4a4b129b88f",
-        "slug": "8afec286af784899",
-        "titulo": "Barcelona anuncia a contratação de Adeyemi, ex-Borussia Dortmund",
-        "resumo": "Aos 40 min do 1º tempo - Gol de Adeyemi do Borussia Dortmund contra o Heidenheim O Barcelona terá mais um reforço para o ataque na próxima temporada, além de Anthony Gordon. O clube anunciou nesta quinta-feira a contratação de Karim Adeyemi, de 24 anos. O alemão deixou o Borussia Dortmund depois de quatro anos para assinar o vínculo com o Barça até 2031. + ✅Clique aqui para seguir o canal ge Futebol Internacional no WhatsApp Adeyemi encerrou a temporada passada com o Borussia como vice-campeão da Bundesliga, atrás apenas do Bayern de Munique. Ele participou de 39 jogos, fez dez gols e deu…",
+        "clusterId": "e5916aec221552bf",
+        "slug": "8b464b494b04d17e",
+        "titulo": "Brasil x Itália na semifinal da Liga das Nações Feminina de Vôlei: onde assistir e horário",
+        "resumo": "Brasil 3 x 1 Japão | Melhores momentos | Liga das Nações de Vôlei feminino 2026 Depois de superar o Japão nas quartas de final, o Brasil voltará a jogar pela Liga das Nações Feminina de vôlei (VNL) neste sábado, às 5h (de Brasília), em Macau, na China. A adversária será a Itália, atual bicampeã da VNL, que passou pela Holanda na última quarta-feira. A partida entre brasileiras e italianas terá transmissão do sportv2 e da getv. As vencedoras avançarão à final e enfrentarão Turquia ou China, que duelarão também neste sábado, às 8h30 (de Brasília). + Brasil vira sobre o Japão e vai encarar a…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/barcelona-anuncia-a-contratacao-de-karim-adeyemi-ex-borussia-dortmund/"
+            "url": "https://www.cnnbrasil.com.br/esportes/volei/brasil-x-italia-horario-e-onde-assistir-a-semifinal-da-vnl-feminina-2026/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/07/23/barcelona-anuncia-adeyemi-ex-borussia-dortmund.ghtml"
+            "url": "https://ge.globo.com/volei/noticia/2026/07/23/brasil-x-italia-na-semifinal-da-liga-das-nacoes-feminina-de-volei-onde-assistir-e-horario.ghtml"
           }
         ],
-        "updatedAt": "2026-07-23T11:22:45.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/LD2yQnt2FSbdLq9P-qMv2AGvWiQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/W/S/Gx1dJLQNivrPWh7Q0yYQ/hn5-id5wwaaqck0.jpg"
+        "updatedAt": "2026-07-23T16:38:55.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/pMrkL7Krpd6rLN9BUxMS06luqZg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/X/O/Bl1ApbTNaOPAcQcq9tAg/rosamaria-vnl.jpg"
       },
       {
-        "clusterId": "d6ddb10152397cce",
-        "slug": "70fece18cb15f78f",
-        "titulo": "Palmeiras fecha primeiro turno do Brasileirão com melhor campanha da sua história nos pontos corridos",
-        "resumo": "Voz do Setorista: confira a análise da vitória do Palmeiras sobre o Coritiba O Palmeiras terminou o primeiro turno do Campeonato Brasileiro com mais uma vitória. A vítima da vez foi o Coritiba, que perdeu por 3 a 1 na noite da última quarta-feira, no Couto Pereira. Com o triunfo, o Verdão atingiu sua melhor campanha na história dos pontos corridos. 🔍 adicione o ge nas suas fontes favoritas do Google São 13 vitórias, cinco empates e apenas uma derrota, diante do Vasco, em São Januário, pela quinta rodada. Invicto há 14 jogos, o Palmeiras também tem o segundo melhor ataque do Brasileirão, com…",
+        "clusterId": "9dc9f799fdef9426",
+        "slug": "a8d0607328e709f1",
+        "titulo": "China alcança feito inédito, elimina EUA e vai às semifinais da VNL feminina; veja jogos e horários",
+        "resumo": "EUA 2 x 3 China | Melhores momentos | Quartas de final | Liga das Nações feminina de vôlei Donos da melhor campanha na fase classificatória, com 10 vitórias e duas derrotas, os Estados Unidos foram eliminados nas quartas de final da Liga das Nações Feminina de vôlei (VNL). Nesta quinta-feira (23), a seleção americana caiu diante da China, por 3 sets a 2, com parciais de 15/25, 25/23, 25/20, 17/25 e 15/13. Curiosamente, as chinesas só avançaram às finais por serem do país-sede dos jogos decisivos (que ocorrem em Macau). Elas tinham ficado em nono lugar, uma posição abaixo da zona de…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/07/23/palmeiras-fecha-primeiro-turno-do-brasileirao-com-melhor-campanha-da-sua-historia-nos-pontos-corridos.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/volei/classico-e-surpresas-veja-os-confrontos-das-semifinais-da-vnl-feminina/"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/tabela-do-brasileirao-palmeiras-mantem-vantagem-sobre-o-flamengo-apos-jogos-de-ontem/"
+            "name": "GE",
+            "url": "https://ge.globo.com/volei/noticia/2026/07/23/china-alcanca-feito-inedito-elimina-eua-e-vai-as-semifinais-da-vnl-feminina-veja-confrontos.ghtml"
           }
         ],
-        "updatedAt": "2026-07-23T11:00:21.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/R7hIM6mll5Oo2KFetcvffFbuC8w=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/T/B/fQJlVzQPSfNT33WLp9gw/22072026-cg-palmeiras-5612-76-1.png"
+        "updatedAt": "2026-07-23T15:55:28.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/gBiQ6SPCc9mqIquFB9jH9dn3Kn4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/k/S/CmBVAaTo2R03mtNtawnA/china.jpg"
       },
       {
-        "clusterId": "c5954e7072911d1c",
-        "slug": "9cb9aafde495f348",
-        "titulo": "Cruzeiro-PB aprova formato da 2ª divisão do Paraibano e aposta em jovens atletas para alcançar acesso",
-        "resumo": "Segundona da Paraíba começa em setembro O Cruzeiro-PB chega à 2ª divisão do Campeonato Paraibano 2026 com a expectativa de brigar, mais uma vez, pelo acesso à elite do futebol estadual. Na temporada passada, a Raposa avançou até as semifinais, mas perdeu a vaga na decisão para o Confiança-PB, que sagrou-se campeão. Sobre a edição deste ano, a diretoria celebrou a manutenção da base do regulamento. + CLIQUE AQUI e confira as principais informações do Cruzeiro-PB Em contato com o ge, o presidente do clube, Êzin Sousa, detalhou alguns pontos do planejamento da equipe para a disputa da Segundona.…",
+        "clusterId": "646e1e0312f91852",
+        "slug": "803657f4aab42cad",
+        "titulo": "Aston Villa anuncia a contratação de Garnacho, emprestado pelo Chelsea",
+        "resumo": "Jogadores do Aston Villa cantam \"Ai se eu te pego\" em comemoração de título da Liga Europa O Aston Villa anunciou nesta quinta-feira seu terceiro reforço para 26/27. Depois de contratar João Gomes e Manzambi, o clube assinou com Alejandro Garnacho. O atacante argentino foi emprestado pelo Chelsea até o fim da próxima temporada. Ele usará a camisa 17 no atual campeão da Liga Europa. + ✅Clique aqui para seguir o canal ge Futebol Internacional no WhatsApp Garnacho foi comprado pelo Chelsea em agosto de 2025 e saiu do Manchester United, clube em que fez base e se profissionalizou. O clube time…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/pb/futebol/times/cruzeiro-pb/noticia/2026/07/23/cruzeiro-pb-aprova-formato-da-2a-divisao-do-paraibano-e-aposta-em-jovens-atletas-para-alcancar-acesso.ghtml"
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/07/23/aston-villa-anuncia-emprestimo-de-garnacho-do-chelsea.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/aston-villa-anuncia-contratacao-de-garnacho-por-emprestimo-junto-ao-chelsea/"
           }
         ],
-        "updatedAt": "2026-07-23T13:57:44.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/E_JTxbtPYy9_CToWA7KzsMA5U9I=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/v/F/xU3q7ESNudevywEQp9RA/estadio-zezao.jpg"
+        "updatedAt": "2026-07-23T14:39:25.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/SmmtNRDZgcApShZJpBBHqPrGq_I=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/H/c/U0lBAyQpendo6Yvzca5Q/hn6thvhw8aalhry.jpg"
       },
       {
-        "clusterId": "edc93d1cdf126cf9",
-        "slug": "977a73f33e8b82ad",
-        "titulo": "Noroeste anuncia o atacante Elicley para a sequência da Copa Paulista",
-        "resumo": "Noroeste perde para o Comercial na estreia da Copa Paulista O Noroeste anunciou a contratação do atacante Elicley Soares para a disputa da Copa Paulista. O jogador de 27 anos, iniciou a carreira no São Raimundo-PA e acumula passagens por times como São José, Goianésia e Caldense. Em 2026, Elicley atuou quatro vezes pelo Campinense e em mais 13 jogos na Portuguesa-RJ, onde marcou quatro gols e deu uma assistência. Elicley é anunciado no Noroeste Matheus Sanches Veja também + Noroeste x União São João: ingressos à venda + Noroeste anuncia a demissão do técnico Henrique Barcellos após dez jogos…",
+        "clusterId": "f727c8be7f0df61f",
+        "slug": "47bec5f9f8148287",
+        "titulo": "Veja os destaques do esporte no Diário TV 1ª Edição desta quarta-feira, 22 de julho",
+        "resumo": "Sharlêi lidera nova geração do Goalball brasileiro Santos vence na Sul-Americana Confira os jogos da 19º rodada do Brasileirão + Leia outras notícias do esporte do Alto Tietê",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/sp/tem-esporte/futebol/times/noroeste/noticia/2026/07/23/noroeste-anuncia-o-atacante-elicley-para-a-sequencia-da-copa-paulista.ghtml"
+            "url": "https://ge.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/07/23/veja-os-destaques-do-esporte-no-diario-tv-1a-edicao-desta-quarta-feira-22-de-julho.ghtml"
           }
         ],
-        "updatedAt": "2026-07-23T13:57:19.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/bYm9AVcSOLvomB9eSeYRFgr934Y=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/y/3/h1YH5kRSywA6c9B6dlBQ/snapinsta-1784813640817-1-.jpg"
+        "updatedAt": "2026-07-23T17:16:56.000Z"
       },
       {
-        "clusterId": "f183c072a998424d",
-        "slug": "bbe0fbee98b9af49",
-        "titulo": "Luizinho Lopes exalta meta alcançada pelo Operário-PR e faz apelo à torcida pelo acesso",
-        "resumo": "Operário-PR 3 x 2 Ponte Preta | Melhores momentos | 19ª rodada | Brasileirão Série B 2026 O técnico Luizinho Lopes exaltou a meta interna alcançada pelo Operário-PR ao atingir 35 pontos no primeiro turno da Série B, melhor marca da história do clube na metade inicial da competição. 🗞️ Leia mais notícias do Operário-PR ✅ Clique aqui e siga o canal do ge PR no WhatsApp 🔍 Adicione o ge nas suas fontes favoritas do Google A pontuação expressiva veio na vitória de virada por 3 a 2 sobre a Ponte Preta, na noite de quarta-feira, no Germano Krüger, em confronto válido pela 19ª rodada da Segunda…",
+        "clusterId": "532685393054c4a4",
+        "slug": "6be7aad78337b870",
+        "titulo": "Santos x Chapecoense: veja preços e como comprar ingressos",
+        "resumo": "Santos goleia na Venezuela e encaminha vaga na Sula O Santos iniciou na quarta-feira a venda de ingressos para o jogo contra a Chapecoense, pela 20ª rodada do Campeonato Brasileiro. Os times se enfrentam neste sábado, às 18h30 (de Brasília), na Vila Belmiro. + Siga o canal ge Santos no WhatsApp! A comercialização ocorre por meio do site do Sócio Rei. O torcedor que não é sócio precisará estar cadastrado no plano Santos Mais Popular, que é gratuito. Leia mais sobre o Santos: + Neymar publica fotos em torneio de poker: \"A vida é uma piada\" + Como o Santos pretende amenizar a crise financeira…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/pr/futebol/times/operario-pr/noticia/2026/07/23/luizinho-lopes-exalta-meta-alcancada-pelo-operario-pr-e-faz-apelo-a-torcida-pelo-acesso.ghtml"
+            "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/07/23/santos-x-chapecoense-veja-precos-e-como-comprar-ingressos.ghtml"
           }
         ],
-        "updatedAt": "2026-07-23T13:56:25.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/-kfDj3PxHPknyJvU46Z_CUR3BBI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/o/G/Ta7qnbSqSTOgI0WkpSEw/captura-de-tela-2026-07-23-104133.png"
+        "updatedAt": "2026-07-23T17:15:44.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/nvuTclh00rnPP_2zCAO4mlfJV0A=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/v/u/PfQJOQR3qCLvuWx7MA5g/3x2a9612-evoto-edited.jpg"
       }
     ],
     "entretenimento": [
       {
-        "clusterId": "f0607961e7850d32",
+        "clusterId": "7fa0de96abb8f4d7",
+        "slug": "f4ab0b366200cdc5",
+        "titulo": "Morre Luiz Carlos Barreto, cineasta de 98 anos",
+        "resumo": "O cineasta Luiz Carlos Barreto, conhecido como Barretão, faleceu no Rio de Janeiro aos 98 anos, após uma carreira que incluiu mais de 100 produções e destaque no Cinema Novo. Ele foi crítico de políticas culturais, denunciando cortes no audiovisual e a suspensão da Cota de Tela em 2020. O presidente Lula decretou luto oficial de três dias em sua homenagem. Barreto também era fotógrafo de celebridades e teve atuação em outras áreas do entretenimento.",
+        "porQueImporta": "Sua morte marca o fim de uma era influente na história do cinema brasileiro.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/celebridades/famosos-marcam-presenca-no-velorio-de-luiz-carlos-barreto-no-rio-de-janeiro/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/22/luiz-carlos-barreto-fotografou-marilyn-monroe-foi-jogador-de-futebol-amador-e-quase-defendeu-o-brasil-na-olimpiada.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-23T16:47:01.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/OAdHG3SNExJs02Ua5FSwpqEKNGY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/W/g3FHrWSTyo288zfzNqDQ/marilyn.jpeg"
+      },
+      {
+        "clusterId": "7706da0de926366a",
+        "slug": "9ff3013ec652461d",
+        "titulo": "Rapper Hades66 é atingido por copo de vidro durante show",
+        "resumo": "Rapper Hades66 é atingido por copo de vidro durante show O rapper Hades66 foi atingido por um copo de vidro na terça-feira (21) enquanto se apresentava em uma casa noturna na Espanha. O objeto teria sido lançado por uma pessoa da plateia, fazendo com que o artista porto-riquenho interrompesse a apresentação. Após o incidente, Hades66 deixou o palco visivelmente irritado. Enquanto seguranças tentavam controlar a situação e identificar o responsável pelo arremesso, uma confusão tomou conta do local. O cantor sofreu cortes leves no nariz. Rapper Hades66 é atingido por copo de vidro durante show…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/07/23/rapper-hades66-e-atingido-por-copo-de-vidro-durante-show.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-23T15:00:49.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/P_qfxELNyyC-N5ds9zyMfkwIW-k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/O/pCrWhcQUqzfWazOdyZHg/rapper-montagem.png"
+      },
+      {
+        "clusterId": "61058a3ad9f7cba4",
+        "slug": "892facb61d83306c",
+        "titulo": "Anitta entrega brasilidade no álbum 'Equilibrium II' com mix de Carmen Miranda, Djavan, sambas e forrós",
+        "resumo": "Anitta se veste de Carmen Miranda para promover faixa do álbum 'Equilibrium II' André Nicolau / Divulgação ♫ NOTÍCIA ♬ Até que nem tão internacional assim... Diferentemente do que Anitta vinha sinalizando, o álbum “Equilibrium II” chega às 21h de hoje, 23 de julho, com a mesma carga de brasilidade do primeiro volume. Com 17 músicas, “Equilibrium II” é basicamente cantado em português e a única faixa em espanhol, “Azul”, é uma versão da brasileiríssima canção de Djavan lançada em 1982 na voz de Gal Costa (1945 – 2022). Outra surpresa é a evocação de Carmen Miranda (9 de fevereiro de 1909 – 5…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/07/23/anitta-entrega-brasilidade-no-album-equilibrium-ii-com-mix-de-carmen-miranda-djavan-sambas-e-forros.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-23T14:17:15.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/P9RhvbMG9j0hvlSshKDNrrCLeeo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/1/e7DssiS8KFwkJp5lgtrg/anitta-andrenicolau1.jpg"
+      },
+      {
+        "clusterId": "6c1f12bd9bde345c",
+        "slug": "0e08f2fe2a4a3e4d",
+        "titulo": "‘Retorno a Buenos Aires’ é selecionado para a competição principal do Festival de Cinema de Veneza",
+        "resumo": "Cena de “Retorno a Buenos Aires” Divulgação O Brasil volta a disputar o Leão de Ouro, principal prêmio do Festival de Cinema de Veneza, com a coprodução ítalo-brasileira \"Retorno a Buenos Aires\", novo longa-metragem do diretor Marco Bechis. O filme integra a competição oficial da edição de 2026 do evento, considerado um dos mais prestigiosos do cinema mundial. Dirigido por Bechis, que também assina o roteiro ao lado de Vijaya Bechis Boll, o longa é estrelado pelo ator italiano Adriano Giannini e conta ainda com os brasileiros Paula Cohen e Eduardo Hoy no elenco. As argentinas Ana Celentano,…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/07/23/retorno-a-buenos-aires-e-selecionado-para-a-competicao-principal-do-festival-de-cinema-de-veneza.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-23T14:01:06.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/fQ0ZO9TZKB1kLd9p3bnIRGp_5HM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/N/RjRmM0RBqBBwgmTdjA4Q/olivia-2.jpg"
+      },
+      {
+        "clusterId": "564903834937aa80",
+        "slug": "fdb3587c2f5a2539",
+        "titulo": "20 hits em 20 anos: com flauta de Bach, 'Bum Bum Tam Tam' foi hit internacional e hino de vacina",
+        "resumo": "'Bum Bum Tam Tam’: da flautinha de Bach a um dos maiores funks do Brasil O compositor alemão Johann Sebastian Bach não sabia, mas lá no século XVIII, quando ele compôs a \"Partita em Lá Menor\", deu o pontapé inicial para um dos funks mais irresistíveis da história. Esta matéria faz parte da série \"20 hits em 20 anos\", que está no GloboPop, o novo aplicativo de vídeos curtos verticais da Globo, disponível gratuitamente no seu celular. Lá no app, você pode seguir o palco do \"20 hits em 20 anos\" para não perder nenhum episódio. Baixe o GloboPop aqui! A história do sucesso de 2017 começa com o…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/07/23/20-hits-em-20-anos-com-flauta-de-bach-bum-bum-tam-tam-foi-hit-internacional-e-hino-de-vacina.ghtml"
+          }
+        ],
+        "updatedAt": "2026-07-23T13:00:21.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/NiEaRo2djbG0FBmckTWLToeFf68=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/O/h/wCk9BHRqWKZjGqmTrPUg/mc-fioti-132a6408-fabio-tito-g1.jpg"
+      },
+      {
+        "clusterId": "f97184ba3ab0e0e8",
         "slug": "49f38bf7b481e918",
         "titulo": "Influenciadora chama BTS de 'afeminados', tem dados pessoais vazados e se afasta das redes",
         "resumo": "Influenciadora publicou comentários homofóbicos ao BTS durante a final da Copa. Divulgação A influenciadora digital Pietra Bertolazzi causou polêmica nas redes sociais, nos últimos dias, após publicar críticas a apresentação do grupo sul-coreano BTS. A postagem foi feita durante o show do intervalo da final da Copa do Mundo, no último domingo (19), enquanto a banda se apresentava. Na legenda de um dos vídeos, Bertolazzi escreveu: “De tudo que eu vi hoje na final da Copa, nada me chocou mais do que saber que um grupo de homens totalmente afeminados, vaidosos e cheios de caras e bocas que me…",
@@ -1267,36 +1369,12 @@
         "category": "entretenimento",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/brasil/a-influenciadora-que-teve-dados-vazados-ao-chamar-bts-de-afeminados/"
-          },
-          {
             "name": "G1",
             "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/07/23/influenciadora-pietra-bertolazzi-tem-dados-pessoais-vazados-apos-chamar-bts-de-afeminados.ghtml"
           }
         ],
-        "updatedAt": "2026-07-23T13:07:51.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/Captura-de-tela-2026-07-23-100438.png"
-      },
-      {
-        "clusterId": "6329d3b274f5e0ef",
-        "slug": "4115df33074806ab",
-        "titulo": "Caso de Lito Sousa: é possível descobrir câncer de próstata mesmo fazendo exames regularmente?",
-        "resumo": "Influencer Lito Sousa revela diagnóstico de câncer de próstata O influenciador e especialista em aviação Lito Sousa, de 59 anos, fazia exames de rotina regularmente quando descobriu um câncer de próstata. Alterações no PSA levaram a uma investigação mais detalhada, que confirmou um adenocarcinoma de agressividade intermediária. O tratamento escolhido foi a cirurgia, indicada porque a doença permanece restrita à próstata. Ao compartilhar o diagnóstico nas redes sociais, Lito contou que sempre manteve acompanhamento médico, inclusive com o toque retal. Ainda assim, a confirmação do câncer só…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/saude/lito-sousa-entenda-inflamacao-no-sistema-nervoso-central-do-influenciador/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/saude/noticia/2026/07/21/caso-de-lito-sousa-e-possivel-descobrir-cancer-de-prostata-mesmo-fazendo-exames-regularmente.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-23T12:24:13.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/TljtFK8XYwwMPQh73erDy9bmJ84=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/h/ARj2bvQN6syPDNAJICBA/fotojet-20-.jpg"
+        "updatedAt": "2026-07-23T11:22:26.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/_QCjqyD3icQlgCuXbNolICQ25Xs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/A/iBqGMcRmGQUMmXk4zosA/design-sem-nome-2026-07-23t081951.972.png"
       },
       {
         "clusterId": "41966cc27f5e854f",
@@ -1329,70 +1407,6 @@
         ],
         "updatedAt": "2026-07-23T07:00:36.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/O70L6IoP7UOoVcf-rtCvwQy_GsM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/P/T/1OkoffR8ytrrimVfJIow/jao-lollapalooza-2025-1.jpg"
-      },
-      {
-        "clusterId": "f8c96fadd901685b",
-        "slug": "287bbbe3be8cb22a",
-        "titulo": "Sururu na Roda vai de Noel Rosa a Dudu Nobre na linha do tempo de álbum feito sob direção musical de Rildo Hora",
-        "resumo": "Silvio Carvalho (à esquerda), Ana Costa e Fabiano Salek integram a formação do grupo carioca Sururu na Roda no álbum 'Na linha do tempo' Rogério Von Kruger / Divulgação ♫ NOTÍCIA ♬ Em cena desde 2000, ano em que se formou na familiaridade de encontros nos jardins da Universidade Federal do Estado do Rio de Janeiro (UNIRIO), o grupo Sururu na Roda já teve várias formações ao longo de 26 anos de atuação. E é como um trio – integrado por Ana Costa (voz e violão), Fabiano Salek (voz e percussão) e Silvio Carvalho (voz e percussão) – que o Sururu arredonda a data e festeja 25 anos de carreira com…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/07/23/sururu-na-roda-vai-de-noel-rosa-a-dudu-nobre-na-linha-do-tempo-de-album-feito-sob-direcao-musical-de-rildo-hora.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-23T03:00:50.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/KnNHhHBAFOYzByPh9WkicEEX64c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/t/Q3chdsStqmWMerqswGsA/sururu-na-roda-horz-1-foto-rogerio-von-kruger.jpg"
-      },
-      {
-        "clusterId": "0791504d419215b8",
-        "slug": "f4ab0b366200cdc5",
-        "titulo": "Morre Luiz Carlos Barreto, cineasta de 98 anos",
-        "resumo": "O cineasta Luiz Carlos Barreto, conhecido como Barretão, faleceu no Rio de Janeiro aos 98 anos, após uma carreira que incluiu mais de 100 produções e destaque no Cinema Novo. Ele foi crítico de políticas culturais, denunciando cortes no audiovisual e a suspensão da Cota de Tela em 2020. O presidente Lula decretou luto oficial de três dias em sua homenagem. Barreto também era fotógrafo de celebridades e teve atuação em outras áreas do entretenimento.",
-        "porQueImporta": "Sua morte marca o fim de uma era influente na história do cinema brasileiro.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/22/luiz-carlos-barreto-fotografou-marilyn-monroe-foi-jogador-de-futebol-amador-e-quase-defendeu-o-brasil-na-olimpiada.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-22T16:30:48.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/OAdHG3SNExJs02Ua5FSwpqEKNGY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/W/g3FHrWSTyo288zfzNqDQ/marilyn.jpeg"
-      },
-      {
-        "clusterId": "0a4f97de51e5cd53",
-        "slug": "ee81b61aacba1abe",
-        "titulo": "Rock in Rio 2026 esgota ingressos para os dias de Stray Kids e Elton John",
-        "resumo": "Elton John durante a apresentação no festival Glastonbury, no domingo (25) Oli Scarf/AFP Os ingressos para os shows dos dias 7 e 11 de setembro no Rock in Rio 2026 estão esgotados, informou a organização do festival. A venda geral teve início no dia 8 de junho. O dia 11, que tem Stray Kids como atração principal do Palco Mundo, foi a terceira data a ter ingressos esgotados. Já o dia 7 de setembro, que conta com a apresentação de Elton John, foi a quarta data a esgotar. Os dias de Calvin Harris (6/09) e Maroon 5 (12/09) foi os primeiros a terem ingressos esgotados, logo nas primeiras horas…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/07/22/rock-in-rio-2026-esgota-ingressos-para-os-dias-de-stray-kids-e-elton-john.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-22T16:04:25.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/DFtnK5hcV0Ba4nOHpXU-6xc_kIE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/H/F/REL3UAQpi0iwNdb1oH3w/elton-john-glastonbury-2023-4.jpg"
-      },
-      {
-        "clusterId": "08e5f9f419e5caca",
-        "slug": "c3eda7fc46b655ef",
-        "titulo": "Corpo encontrado no carro do cantor D4vd estava 'irreconhecível', diz testemunha",
-        "resumo": "Cantor David Anthony Burke, conhecido como D4vd, observa durante sua audiência de acusação pelo assassinato de Celeste Rivas Hernandez no Centro de Justiça Criminal Clara Shortridge Foltz em Los Angeles, Califórnia, EUA, em 20 de abril de 2026 Reuters O corpo da adolescente Celeste Rivas Hernández, encontrado no porta-malas do carro do cantor D4vd, estava \"irreconhecível\" devido ao avançado estado de decomposição. A informação foi dada por um detetive da Polícia de Los Angeles durante audiência realizada nesta terça-feira (21), nos Estados Unidos. D4vd, de 21 anos, cujo nome verdadeiro é…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/07/22/corpo-encontrado-no-carro-do-cantor-d4vd-estava-irreconhecivel-diz-testemunha.ghtml"
-          }
-        ],
-        "updatedAt": "2026-07-22T10:55:23.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/AALNj6olvmYxb8AOFgyqrK3KTYs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/W/2pcVkLQO2RL4hphAUHRQ/fotos-g1-1920-x-1080-px-5-.png"
       }
     ]
   }
