@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-07-23T14:01:21.119Z",
-  "editionDate": "2026-07-23",
-  "hourUtc": 14,
-  "outcome": "generated",
-  "reason": "\"Tensões globais e desafios internos moldam cenário econômico e de segurança no Brasil\" (3 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok"
-  ]
+  "ranAt": "2026-07-24T06:26:17.532Z",
+  "editionDate": "2026-07-24",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "attempts": []
 }
