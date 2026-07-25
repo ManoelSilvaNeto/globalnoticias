@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-07-24T13:46:30.707Z",
-  "editionDate": "2026-07-24",
-  "hourUtc": 13,
-  "outcome": "generated",
-  "reason": "\"Brasil enfrenta tensão comercial e interna enquanto destaca avanços esportivos e desafios humanitários\" (4 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok (entidades fora do material toleradas: froda, formula)"
-  ]
+  "ranAt": "2026-07-25T06:18:20.795Z",
+  "editionDate": "2026-07-25",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "attempts": []
 }
