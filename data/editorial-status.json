@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-07-27T11:22:29.493Z",
-  "editionDate": "2026-07-27",
-  "hourUtc": 11,
-  "outcome": "generated",
-  "reason": "\"Eleição, economia e esportes dominam a agenda enquanto tensão no Oriente Médio afeta preços do petróleo\" (4 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok (entidades fora do material toleradas: partido, liberal)"
-  ]
+  "ranAt": "2026-07-28T06:27:17.701Z",
+  "editionDate": "2026-07-28",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "attempts": []
 }
