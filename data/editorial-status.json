@@ -1,8 +1,11 @@
 {
-  "ranAt": "2026-07-31T10:39:38.234Z",
+  "ranAt": "2026-07-31T14:07:55.374Z",
   "editionDate": "2026-07-31",
-  "hourUtc": 10,
-  "outcome": "skipped",
-  "reason": "fora da janela (10h < 11h UTC)",
-  "attempts": []
+  "hourUtc": 14,
+  "outcome": "generated",
+  "reason": "\"Política interna e tensões internacionais marcam a agenda brasileira\" (3 parágrafos)",
+  "attempts": [
+    "erro — sem cota (429)",
+    "ok (entidades fora do material toleradas: oriente, medio)"
+  ]
 }
