@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-07-30T14:02:48.590Z",
-  "editionDate": "2026-07-30",
-  "hourUtc": 14,
-  "outcome": "generated",
-  "reason": "\"Ventania extrema, queda do desemprego e tensão diplomática marcam a edição\" (4 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok"
-  ]
+  "ranAt": "2026-07-31T06:44:04.805Z",
+  "editionDate": "2026-07-31",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "attempts": []
 }
