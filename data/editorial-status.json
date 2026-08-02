@@ -1,8 +1,11 @@
 {
-  "ranAt": "2026-08-02T09:57:27.934Z",
+  "ranAt": "2026-08-02T13:22:00.922Z",
   "editionDate": "2026-08-02",
-  "hourUtc": 9,
-  "outcome": "skipped",
-  "reason": "fora da janela (9h < 11h UTC)",
-  "attempts": []
+  "hourUtc": 13,
+  "outcome": "generated",
+  "reason": "\"Cenário político e econômico se entrelaça com tensões internacionais e movimentação esportiva\" (4 parágrafos)",
+  "attempts": [
+    "erro — sem cota (429)",
+    "ok"
+  ]
 }
