@@ -1,8 +1,11 @@
 {
-  "ranAt": "2026-08-03T07:26:39.397Z",
+  "ranAt": "2026-08-03T11:23:12.509Z",
   "editionDate": "2026-08-03",
-  "hourUtc": 7,
-  "outcome": "skipped",
-  "reason": "fora da janela (7h < 11h UTC)",
-  "attempts": []
+  "hourUtc": 11,
+  "outcome": "generated",
+  "reason": "\"Aprovação presidencial, intervenções cambiais e tensões no esporte marcam a agenda brasileira e internacional\" (3 parágrafos)",
+  "attempts": [
+    "erro — sem cota (429)",
+    "ok"
+  ]
 }
