@@ -1,121 +1,201 @@
 {
   "date": "2026-08-04",
-  "generatedAt": "2026-08-04T06:28:16.056Z",
+  "generatedAt": "2026-08-04T10:39:35.852Z",
   "home": [
     {
-      "clusterId": "abb5d9a0a1acffc2",
-      "slug": "446f1c2a8a42281c",
-      "titulo": "TSE abre e desmonta urna eletrônica ao vivo para demonstrar sua robustez",
-      "resumo": "O presidente do TSE, Kássio Nunes Marques, anunciou a Semana Nacional do Sistema Eletrônico de Votação e realizou a primeira desmontagem ao vivo de uma urna eletrônica, mostrando seu funcionamento interno. Ele afirmou que a urna é patrimônio da democracia brasileira e que o sistema possui qualidade técnica, auditabilidade e segurança. A medida visa reforçar a confiança pública após críticas da família Bolsonaro e de ministros do STF. O evento faz parte de um esforço permanente da Justiça Eleitoral para garantir transparência nas eleições.",
-      "porQueImporta": "A demonstração reforça a legitimidade das urnas eletrônicas e responde a questionamentos sobre sua segurança e confiabilidade.",
-      "category": "politica",
+      "clusterId": "d89fd9d2daf166cc",
+      "slug": "6a2971a56776488e",
+      "titulo": "Greve de ferroviários paralisa linhas 11, 12 e 13 da CPTM em São Paulo",
+      "resumo": "Funcionários das linhas 11-Coral, 12-Safira e 13-Jade da CPTM iniciaram greve para exigir a reestatização das linhas, a garantia de empregos para 4.700 trabalhadores e a aprovação do PL 730/2025. A paralisação afetou o Expresso Aeroporto e a Zona Leste, enquanto as linhas concedidas e o metrô continuam operando. O governo de São Paulo implementou um plano de contingência com reforço de metrô, trens privados e ônibus, além de suspender o rodízio de veículos.",
+      "porQueImporta": "Impacta o transporte público e a mobilidade de milhares de passageiros na capital paulista.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/04/funcionarios-em-greve-pedem-volta-das-linhas-11-12-e-13-para-cptm-ou-garantia-de-emprego-para-4700-empregados-que-passam-por-plano-de-demissao.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/greve-cptm-sindicato-privatizacao"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/greve-na-cptm-comeca-e-linhas-amanhecem-com-operacao-parcial-nesta-terca/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/greve-da-cptm-hoje-veja-o-plano-de-contingencia-e-como-ficam-as-linhas/"
+        }
+      ],
+      "updatedAt": "2026-08-04T10:26:48.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/cQAh9cGH9MrLOKnI76fLnQ3Bzbk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/l/tTOi22RBy3thTlyrVIrg/acervo-bdsp-limpo-20260804-0540-frame-80691.jpeg"
+    },
+    {
+      "clusterId": "b2f816f87b38696d",
+      "slug": "ae960c3e8a7fbede",
+      "titulo": "Apple retira e restaura Telegram da App Store por conteúdo de abuso infantil",
+      "resumo": "A Apple removeu temporariamente o Telegram da App Store após identificar material que violava a proibição de abuso sexual infantil. O aplicativo foi reativado depois que o desenvolvedor excluiu o conteúdo e baniu o usuário responsável. A empresa afirmou que a ação foi tomada para cumprir suas diretrizes de segurança. O Telegram divulgou no X que os relatos sobre sua morte são exagerados.",
+      "porQueImporta": "A medida reforça o compromisso das plataformas com a proteção de crianças e a aplicação de regras de conteúdo.",
+      "category": "tecnologia",
       "sources": [
         {
           "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-eleicoes-2026/urna-eletronica-e-patrimonio-da-democracia-no-brasil-diz-nunes-marques/"
+          "url": "https://www.poder360.com.br/poder-tech/apple-retira-telegram-da-app-store-e-restaura-aplicativo/"
         },
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/a-declaracao-de-nunes-marques-presidente-do-tse-sobre-as-urnas-eletronicas/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/nunes-marques-defende-que-tse-trabalhe-com-qualidade-tecnica-nas-eleicoes/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/08/03/cobrado-por-colegas-do-stf-nunes-marques-diz-que-urna-eletronica-e-patrimonio-da-democracia-brasileira.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-04T05:53:01.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/55353954169_e4e2db299f_c.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "9c8573d03ebb08dd",
-      "slug": "58db9baad3d30858",
-      "titulo": "Greve dos ferroviários paralisa linhas 11, 12 e 13 da CPTM em São Paulo",
-      "resumo": "O sindicato da CPTM decretou greve a partir da meia-noite de terça-feira, paralisando as linhas 11-Coral, 12-Safira e 13-Jade, incluindo o Expresso Aeroporto. A Prefeitura de São Paulo suspendeu o rodízio de veículos na capital para evitar congestionamento. A paralisação afeta principalmente a Zona Leste e municípios como Guarulhos e Ferraz de Vasconcelos. Não há prazo definido para o fim da greve.",
-      "porQueImporta": "A paralisação interrompe o transporte coletivo de milhares de passageiros e impacta a mobilidade urbana da cidade.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/03/prefeitura-de-sp-suspende-rodizio-apos-sindicato-de-funcionarios-da-cptm-decretar-greve-nesta-terca-nas-linhas-11-12-e-13.ghtml"
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/08/04/internet-e-redes-sociais/apple-remove-telegram-da-app-store-por-violacao-de-regras-sobre-abuso-infantil/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/greve-nos-trens-da-cptm-em-sp-capital-tera-rodizio-suspenso-nesta-terca/"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/brasil/ferroviarios-confirmam-greve-e-paralisam-linhas-11-coral-12-safira-e-13-jade-em-sp/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/greve-da-cptm-entenda-por-que-ferroviarios-cruzaram-os-bracos-em-sp-nesta-terca/"
-        }
-      ],
-      "updatedAt": "2026-08-04T01:40:54.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Vzmk6eri7p_nukO7yiGvvTzwrNU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/o/UR7YfpTo6nPD0JTxhmSA/whatsapp-image-2026-07-03-at-06.23.13-2-.jpeg"
-    },
-    {
-      "clusterId": "92f8a37ce52691b9",
-      "slug": "c70f693cd17d3475",
-      "titulo": "Usuários do WhatsApp relatam bloqueio repentino de contas",
-      "resumo": "Vários usuários no Brasil e em outros países tiveram suas contas do WhatsApp bloqueadas sem aviso prévio, exibindo mensagem de suspensão por suposto descumprimento dos termos de serviço. A Meta informou que as contas estão em análise e que o resultado será comunicado em até 24 horas. Usuários alegam não ter violado nenhuma política da plataforma.",
-      "porQueImporta": "O bloqueio indiscriminado pode afetar a comunicação pessoal e comercial de milhares de usuários.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/tecnologia/usuarios-relatam-bloqueio-repentino-de-contas-no-whatsapp-entenda/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/tecnologia/contas-do-whatsapp-sao-bloqueadas-sem-aviso-usuarios-reclamam-nas-redes/"
-        },
-        {
-          "name": "Canaltech",
-          "url": "https://canaltech.com.br/apps/contas-do-whats-app-sao-banidas-sem-motivo-no-brasil-veja-o-que-diz-a-meta/"
+          "url": "https://www.cnnbrasil.com.br/tecnologia/apple-remove-telegram-da-app-store-por-conteudo-de-abuso-infantil/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/tecnologia/noticia/2026/08/03/usuarios-do-whatsapp-relatam-conta-bloqueada-pela-plataforma.ghtml"
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/08/04/apple-tira-telegram-do-ar-por-violacao-de-regras-sobre-abuso-infantil.ghtml"
         }
       ],
-      "updatedAt": "2026-08-03T23:40:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/zclITfIhjnWWqQcAr8RUt1ugZpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/n/r/a3XCHdRxq6hea4GLX4Cw/dimitri-karastelev-ynjawgrwslm-unsplash.jpg"
+      "updatedAt": "2026-08-04T10:12:45.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/cgx4K58kRTrQgmn4aGos3U8qpmk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/W/VR4eEASYqIYuXYi1hkpw/2026-06-16t065334z-954098010-rc2wpga8qor8-rtrmadp-3-india-telegram-education.jpg"
     },
     {
-      "clusterId": "e57a1d7d2969e853",
-      "slug": "3b7f6cc542ae6f57",
-      "titulo": "Homem-Aranha: Um Novo Dia registra a segunda maior estreia mundial e a maior abertura norte-americana",
-      "resumo": "O filme de Tom Holland arrecadou cerca de US$ 360 milhões no primeiro fim de semana nos Estados Unidos, superando Vingadores: Ultimato na abertura doméstica. Globalmente, a estreia atingiu quase US$ 927 milhões, ficando atrás apenas de Ultimato. O lançamento estabeleceu novos recordes para a Sony Pictures e para o Universo Cinematográfico Marvel.",
-      "porQueImporta": "O sucesso demonstra a forte atração do personagem e o potencial de franquias de super-heróis no mercado global.",
+      "clusterId": "6370b54f9dd76e5f",
+      "slug": "6332ecccbbf4005f",
+      "titulo": "Vozinha assina contrato de seis meses com Colo-Colo",
+      "resumo": "O goleiro cabo-verdiano Vozinha, 40 anos, firmou contrato de seis meses com o clube chileno Colo-Colo, com opção de renovação por mais um ano. O acordo foi oficializado na segunda-feira, após a chegada do jogador ao Chile. Vozinha foi destaque na Copa do Mundo e já havia sido anunciado pelo clube em 24 de julho, mas aguardou a viagem e negociou brevemente com o Berkane, do Marrocos, antes de confirmar a transferência.",
+      "porQueImporta": "A contratação reforça o elenco do Colo-Colo com um jogador experiente que teve destaque internacional.",
       "category": "geral",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/cultura/homem-aranha-um-novo-dia-desbanca-vingadores-e-se-torna-maior-estreia-da-historia-dos-eua/"
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/copa-2026/vozinha-assina-com-colo-colo-apos-destaque-na-copa-do-mundo/"
         },
         {
-          "name": "Exame",
-          "url": "https://exame.com/pop/homem-aranha-um-novo-dia-supera-vingadores-e-faz-maior-estreia-da-historia-nos-eua/"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/vozinha-assina-contrato-com-o-colo-colo-facamos-magia-juntos/"
         },
         {
-          "name": "Canaltech",
-          "url": "https://canaltech.com.br/entretenimento/homem-aranha-um-novo-dia-quebra-recorde-no-mcu-e-faz-quase-us-1-bilhao-na-estreia/"
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/08/03/vozinha-assina-contrato-de-seis-meses-com-colo-colo-do-chile.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-04T10:27:09.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/Ibmo_WzowwzQiwCNMzE13ee2hRc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/y/a/9mVbYvQgKCqZgfWZjelg/ho09cwcxgaavdj6.jpeg"
+    },
+    {
+      "clusterId": "ddc229a6cb8be26c",
+      "slug": "20c87fe21e8764b0",
+      "titulo": "Irã busca controle do tráfego marítimo no Estreito de Ormuz e negocia nova rota com Omã",
+      "resumo": "O Irã pretende ter controle sobre a entrada e saída de navios no Estreito de Ormuz, com possibilidade de intervenção quando necessário, em acordo em negociação com Omã. As discussões visam estabelecer uma rota de trânsito que respeite a soberania de ambos os países e garanta os interesses nacionais do Irã. O presidente iraniano afirmou que o país não busca ampliar conflitos, mas defenderá sua integridade territorial.",
+      "porQueImporta": "O Estreito de Ormuz é uma rota estratégica para o comércio global, e seu controle influencia a segurança marítima e as relações geopolíticas na região.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/04/ira-quer-controlar-entrada-navios-ormuz-poder-de-intervencao-diz-agencia.ghtml"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/trump-diz-ao-ira-que-quer-um-acordo-sobre-o-ormuz-em-breve/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/ira-deve-controlar-a-rota-de-ormuz-negociada-com-oma-diz-autoridade/"
+        }
+      ],
+      "updatedAt": "2026-08-04T10:18:02.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/cqNSNIPEkg9r17qe8LP0pv6_qnE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/Y/sEMWewSyOsvWEqzBWiWQ/2026-07-27t110057z-1158583684-rc22mma6cybz-rtrmadp-3-iran-crisis.jpg"
+    },
+    {
+      "clusterId": "1826eaf4b27a4267",
+      "slug": "ebfdbd889948e641",
+      "titulo": "Operação Quimera mira clube e pousada usados pelo Comando Vermelho para lavagem de R$ 11 milhões",
+      "resumo": "A Polícia Civil do Rio de Janeiro, com apoio do Ministério Público, iniciou a Operação Quimera para investigar a lavagem de dinheiro do Comando Vermelho em clubes recreativos e pousadas. Mandados de busca e apreensão foram cumpridos em 10 endereços, incluindo o Várzea Country Clube, em Água Santa. O esquema movimentou mais de R$ 11 milhões, com um dos investigados movimentando R$ 2,4 milhões em seis meses sem atividade empresarial formal. Dirigentes do clube denunciaram ameaças de abandono e entrega de controle à facção.",
+      "porQueImporta": "Revela a extensão da infiltração do tráfico em espaços civis e a eficácia das ações policiais contra lavagem de dinheiro.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/clube-e-pousada-sao-alvos-da-pcerj-por-lavar-r-11-milhoes-do-cv"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/clube-e-pousada-do-comando-vermelho-sao-alvos-de-operacao-no-rj/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/08/02/homem-aranha-um-novo-dia-tem-a-2a-maior-estreia-mundial-na-historia-do-cinema.ghtml"
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/noticia/2026/08/04/policia-civil-do-rj-deflagra-a-operacao-quimera.ghtml"
         }
       ],
-      "updatedAt": "2026-08-03T23:03:33.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/03/V1-0001_bnd_itlrA_t_4k_rec709_full.89513_1.jpg?quality=70&strip=info"
+      "updatedAt": "2026-08-04T10:04:47.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/captura-de-tela-2026-08-04-as-07-01-49-3x2-1.jpg"
     },
     {
-      "clusterId": "0cf639dbad8f044e",
+      "clusterId": "264a53549d9d7411",
+      "slug": "c0adcc56288c0c2e",
+      "titulo": "Copa do Brasil 2026: jogos de volta das oitavas de final",
+      "resumo": "O jogo de volta entre Remo e Santos será realizado na terça-feira, às 21h30, no estádio Mangueirão, em Belém, com transmissão pela Sportv e Premiere. O duelo decide quem avança para as quartas de final, já que o empate na ida deixa a vaga em aberto. O confronto entre Juventude e Atlético-MG ocorrerá na mesma terça, às 19h30, no estádio Alfredo Jaconi, em Caxias do Sul, também com transmissão ao vivo. Em ambos os jogos, um novo empate leva a decisão por pênaltis, e a vitória garante R$ 4 milhões ao clube vencedor.",
+      "porQueImporta": "Esses jogos determinam os oito times que disputarão as quartas de final da Copa do Brasil 2026.",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/08/04/internet-e-redes-sociais/remo-x-santos-onde-assistir-horario-e-escalacoes-do-jogo-da-copa-do-brasil/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/pa/futebol/copa-do-brasil/noticia/2026/08/04/remo-x-santos-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/esporte/remo-x-santos-horario-onde-assistir-e-provaveis-escalacoes/"
+        }
+      ],
+      "updatedAt": "2026-08-04T08:10:00.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/EtGmBRoTW6WeQneR6OyaKauHRqc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/s/4/vtVtfIQkKggVnAUQ2BKw/whatsapp-image-2026-05-12-at-11.28.23.jpeg"
+    },
+    {
+      "clusterId": "5589a3a2b2ee1c4f",
+      "slug": "54524ba53d8f86ab",
+      "titulo": "G1 transmite ao vivo telejornais Bom Dia Cidade para diversas regiões",
+      "resumo": "O portal G1 oferece transmissões ao vivo dos telejornais Bom Dia Cidade, atendendo cidades como Piracicaba, Ribeirão, Franca, Campinas, Amapá, Goiás e Espírito Santo. Cada região tem seu horário específico, com programas como JAP1 e JAP2 em Amapá. Os telejornais são disponibilizados diariamente pela EPTV e podem ser assistidos pela internet.",
+      "porQueImporta": "Permite que moradores de diferentes estados acompanhem notícias locais em tempo real.",
+      "category": "ciencia",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/piracicaba-regiao/ao-vivo/bom-dia-cidade-piracicaba-ao-vivo.ghtml"
+        },
+        {
+          "name": "Jornal da USP",
+          "url": "https://jornal.usp.br/artigos/ha-ruido-bom-util/"
+        }
+      ],
+      "updatedAt": "2026-08-04T10:34:06.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg"
+    },
+    {
+      "clusterId": "8504718f8647147a",
+      "slug": "0d5b981b09fb5f76",
+      "titulo": "Jornal revela quanto Vini Jr. pede para renovar com o Real Madrid; veja valores",
+      "resumo": "Era o gol da Copa! Por vários ângulos, Vini faz jogada brilhante e acerta a trave O impasse entre Vinicius Júnior e o Real Madrid ganhou novos detalhes nesta terça-feira. Segundo o jornal espanhol AS, o atacante brasileiro diminuiu sua pedida salarial durante as negociações pela renovação de contrato, mas ainda assim não houve acordo. A publicação afirma que as conversas chegaram muito perto de um desfecho positivo no ano passado, antes de travarem na reta final. De acordo com o diário, a última reunião presencial entre representantes do jogador e dirigentes do Real Madrid aconteceu logo após…",
+      "porQueImporta": "",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/rodri-nega-o-barcelona-e-deixa-claro-so-sai-do-city-pelo-real-madrid"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/times/real-madrid/noticia/2026/08/04/bernardo-silva-revela-bastidores-da-ida-para-o-real-madrid-nao-pensei-duas-vezes.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-04T10:25:43.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/07/rodri-bola-de-ouro-copa-do-mundo.jpg"
+    },
+    {
+      "clusterId": "ffcd0b2494762d2e",
       "slug": "009efeb57c066273",
       "titulo": "Drone ucraniano atinge praia russa e causa mortes e feridos",
       "resumo": "Um drone militar, identificado pelo governo russo como proveniente da Ucrânia, atingiu a praia de Gelendzhik, no Mar Negro, matando sete pessoas, incluindo três crianças, e ferindo cerca de 40 outras. O ataque ocorreu em uma área de grande fluxo de banhistas durante o verão. Autoridades locais acusam a Ucrânia de ser responsável pelo incidente.",
@@ -124,173 +204,81 @@
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/08/04/tudo-aconteceu-na-frente-dos-meus-filhos-o-ataque-com-drone-que-matou-ao-menos-7-pessoas-em-praia-na-russia.ghtml"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/ataque-de-drones-da-ucrania-em-praia-da-russia-deixa-sete-mortos/"
+          "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/08/04/video-mostra-ucraniano-sendo-perseguido-por-drone-e-fugindo-ate-ser-atingido.ghtml"
         },
         {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/c1e13npvny2o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-08-04T06:00:35.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/RuZy5FYZjSaC2r7fg4IvaV8SHyk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/K/BkoJw8SAufjj1ImE4IMA/russia.jpg"
+      "updatedAt": "2026-08-04T10:24:28.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/OW_o15VhqofQkoez_EPjGON0kFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/A/bi7m4BRXuGvwqQhPL7Ow/ap26216243501704.jpg"
     },
     {
-      "clusterId": "bde29667e6dddf04",
-      "slug": "75602c31bc696e56",
-      "titulo": "Fachin apresenta proposta de regras para evitar conflitos de interesse de juízes",
-      "resumo": "O presidente do STF e do CNJ, Luiz Edson Fachin, entregou ao Conselho Nacional de Justiça uma proposta de política de prevenção a conflitos de interesse no Poder Judiciário. A proposta será discutida no CNJ a partir de terça-feira e, se aprovada, será aplicada a todos os tribunais, exceto ao STF, que está desenvolvendo um código de ética próprio. A proposta inclui orientações sobre participação em atividades que possam gerar conflito e também aborda a aposentadoria compulsória como forma de punição a magistrados.",
-      "porQueImporta": "Estabelece normas que visam garantir a imparcialidade e a confiança no sistema judiciário.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/cnj-comeca-a-analisar-proposta-sobre-conflito-de-interesses-em-tribunais/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/08/04/cnj-analisa-nesta-terca-proposta-de-fachin-sobre-conflitos-de-interesse-no-judiciario-veja-principais-pontos.ghtml"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/fachin-propoe-regras-de-conduta-para-juizes-stf-fica-de-fora/"
-        }
-      ],
-      "updatedAt": "2026-08-04T06:00:32.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/RYWILiIYCkqVIoARmfIoKkQtxmg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/v/p/WnbQvZQvGcY3IoXtUZAg/foto-romulo-serpa-agencia-cnj.jpg"
-    },
-    {
-      "clusterId": "3111f5881dc58e27",
-      "slug": "2cdd7214b74ca68c",
-      "titulo": "Republicanos mostram maioria de diretórios favoráveis à neutralidade nas eleições",
-      "resumo": "O presidente do Republicanos, Marcos Pereira, informou à campanha de Flávio Bolsonaro que 17 dos 27 diretórios estaduais do partido manifestaram apoio à neutralidade nas eleições. Apesar disso, o partido recusa o convite do PL para integrar a chapa de Flávio. A decisão reflete divergência interna sobre a participação política do partido.",
-      "porQueImporta": "A postura do Republicanos pode influenciar a estratégia de alianças políticas na corrida presidencial.",
+      "clusterId": "429e0f20a954e7b8",
+      "slug": "f6781872515f5c87",
+      "titulo": "Gilberto Gil preso em elevador e participa de Rock in Rio com Jon Batiste",
+      "resumo": "O cantor Gilberto Gil ficou preso em um elevador no Rio de Janeiro e foi resgatado por bombeiros, depois posou com militares para o Instagram. Em setembro, ele e o músico americano Jon Batiste se apresentaram no Rock in Rio na mesma data. Batiste revelou que recebeu um convite inesperado de Gil há 20 anos, o que culminou na colaboração no festival.",
+      "porQueImporta": "A ocorrência demonstra a segurança e a colaboração internacional entre artistas em um grande evento cultural.",
       "category": "geral",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/04/presidente-do-republicanos-diz-a-flavio-bolsonaro-que-maioria-do-partido-apoia-neutralidade-na-eleicao-presidencial.ghtml"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/fabia-oliveira/gilberto-gil-fica-preso-em-elevador-e-e-resgatado-por-bombeiros-no-rio"
         },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-eleicoes-2026/republicanos-recusa-convite-do-pl-para-integrar-chapa-de-flavio/"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/presidente-do-republicanos-diz-a-flavio-que-maioria-do-partido-quer-neutralidade/"
-        }
-      ],
-      "updatedAt": "2026-08-04T03:00:09.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/rLgNcRzwwBLgc04Wv4sUYTJjU7k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/L/G/gF5GTgT7uttMNOB3xPvw/marcospereira.png"
-    },
-    {
-      "clusterId": "b4fd08ee64213143",
-      "slug": "c5ce47a3a94cd922",
-      "titulo": "Partidos Democrata e Avante oficializam candidaturas à Presidência da República",
-      "resumo": "O Partido Democrata anunciou Wilson Grassi, médico-veterinário de 56 anos, como candidato à Presidência, defendendo proteção animal, empreendedorismo e soberania nacional. O Avante oficializou Augusto Cury, psiquiatra e autor de 67 anos, como candidato, propondo investimento em educação integral e a criação de um regime semipresidencialista com primeiro‑ministro. Ambos os eventos ocorreram em convenções nacionais, com presença de autoridades estaduais.",
-      "porQueImporta": "Essas candidaturas introduzem novos perfis políticos nas próximas eleições, alterando o cenário partidário e as propostas de governo.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/03/democrata-oficializa-candidatura-de-wilson-grassi-a-presidencia-da-republica.ghtml"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/avante-oficializa-candidatura-de-augusto-cury-a-presidente-em-convencao/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/augusto-cury-confirma-candidatura-a-presidencia-sem-anunciar-vice/"
-        }
-      ],
-      "updatedAt": "2026-08-04T01:55:14.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/SAmuVa4i_62esYCNlVRXGUlcl-8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/A/qESW3CQ2KuHg3VjpGR6A/globo-canal-4-20260803-2000-frame-118865.jpeg"
-    },
-    {
-      "clusterId": "db5765e439c36a65",
-      "slug": "f9543f45cc2be55b",
-      "titulo": "Venezuela retoma voos de repatriação e morte por terremotos ultrapassa 6 mil",
-      "resumo": "A Venezuela retomou os voos de repatriação dos Estados Unidos após os terremotos de 24 de junho, com o primeiro transporte desde junho pousando em Anzoátegui. O número de mortos pelos terremotos de 7,2 e 7,5 na região de La Guaira subiu para 6.125, segundo o Parlamento. O balanço anterior, em julho, registrava 5.546 vítimas. As buscas por desaparecidos continuam na região afetada.",
-      "porQueImporta": "A retomada dos voos indica progresso na assistência humanitária, enquanto o alto número de mortes destaca a gravidade da crise sísmica.",
-      "category": "geral",
-      "sources": [
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/venezuela-retoma-voos-de-repatriacao-dos-eua-apos-terremotos/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/03/numero-de-mortos-por-terremotos-na-venezuela-passa-de-6-mil.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/numero-de-mortos-em-terremotos-na-venezuela-passa-de-6-mil/"
+          "url": "https://www.cnnbrasil.com.br/pop/musica/a-cnn-jon-batiste-revela-convite-inesperado-de-gilberto-gil-ha-20-anos/"
         }
       ],
-      "updatedAt": "2026-08-04T01:27:17.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/uMg5iG_qjgmljNz3DlXVtwqnaI0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/e/HLfqOPSNiYAOQFlHIGNw/2026-07-11t222946z-1951886010-rc2xbma1daqu-rtrmadp-3-venezuela-quake.jpg"
-    },
-    {
-      "clusterId": "9432ff6e9c9c23e3",
-      "slug": "5c02f14019fa25f9",
-      "titulo": "Lutador Allan \"Puro Osso\" Nascimento morre aos 34 anos",
-      "resumo": "Allan \"Puro Osso\" Nascimento, lutador brasileiro de MMA na categoria peso-mosca, faleceu na manhã de segunda-feira (3 de agosto) após supostamente sofrer um ataque cardíaco enquanto dormia. O atleta estava no elenco do UFC desde 2021, com 22 vitórias e 7 derrotas em sua carreira. A notícia foi divulgada pelo UFC Brasil e confirmada por diversas fontes de imprensa.",
-      "porQueImporta": "A morte de um atleta em ascensão do UFC destaca a importância da saúde cardiovascular em esportes de alto desempenho.",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/lutas/quem-foi-allan-puro-osso-brasileiro-do-ufc-que-morreu-aos-34-anos/"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/combate/noticia/2026/08/03/quem-foi-allan-puro-osso-lutador-de-mma-que-morreu-aos-34-anos.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/esporte/allan-puro-osso-lutador-brasileiro-do-ufc-morre-aos-34-anos/"
-        }
-      ],
-      "updatedAt": "2026-08-03T22:42:34.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/ijBuEL4YKdxP9T6hruI-7ulhfZM=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/m/S/XxoAAeQSy7LeC2po2l3w/allan.jpg"
+      "updatedAt": "2026-08-04T10:23:08.000Z",
+      "imageUrl": "https://images.metroimg.com/2025/07/29115958/2-2096.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "abb5d9a0a1acffc2",
-        "slug": "446f1c2a8a42281c",
-        "titulo": "TSE abre e desmonta urna eletrônica ao vivo para demonstrar sua robustez",
-        "resumo": "O presidente do TSE, Kássio Nunes Marques, anunciou a Semana Nacional do Sistema Eletrônico de Votação e realizou a primeira desmontagem ao vivo de uma urna eletrônica, mostrando seu funcionamento interno. Ele afirmou que a urna é patrimônio da democracia brasileira e que o sistema possui qualidade técnica, auditabilidade e segurança. A medida visa reforçar a confiança pública após críticas da família Bolsonaro e de ministros do STF. O evento faz parte de um esforço permanente da Justiça Eleitoral para garantir transparência nas eleições.",
-        "porQueImporta": "A demonstração reforça a legitimidade das urnas eletrônicas e responde a questionamentos sobre sua segurança e confiabilidade.",
+        "clusterId": "c012399d1a1ad6eb",
+        "slug": "d6fbbbd8ccb60d3c",
+        "titulo": "Partidos republicanos e PP adotam neutralidade, deixando Flávio Bolsonaro isolado",
+        "resumo": "Os partidos Republicanos e União Brasil realizaram convenções em Brasília que indicam uma postura de neutralidade nas eleições presidenciais, com 17 dos 27 diretórios estaduais dos Republicanos apoiando essa posição. O presidente do Republicanos, Marcos Pereira, informou ao pré-candidato Flávio Bolsonaro que a maioria do partido permanece neutra. O Partido Progressistas também manteve neutralidade, reduzindo as chances de Tereza Cristina ser vice de Flávio. Assim, Flávio Bolsonaro fica sem apoio de partidos tradicionais, buscando espaço na mídia e no eleitorado.",
+        "porQueImporta": "A neutralidade de grandes partidos pode alterar a dinâmica de apoio e visibilidade de candidatos nas eleições.",
         "category": "politica",
         "sources": [
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/urna-eletronica-e-patrimonio-da-democracia-no-brasil-diz-nunes-marques/"
-          },
-          {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/a-declaracao-de-nunes-marques-presidente-do-tse-sobre-as-urnas-eletronicas/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/nunes-marques-defende-que-tse-trabalhe-com-qualidade-tecnica-nas-eleicoes/"
+            "url": "https://veja.abril.com.br/politica/uniao-brasil-faz-convencao-nacional-para-testar-neutralidade-do-bloco-firmado-com-o-pp/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/08/03/cobrado-por-colegas-do-stf-nunes-marques-diz-que-urna-eletronica-e-patrimonio-da-democracia-brasileira.ghtml"
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/04/presidente-do-republicanos-diz-a-flavio-bolsonaro-que-maioria-do-partido-apoia-neutralidade-na-eleicao-presidencial.ghtml"
           }
         ],
-        "updatedAt": "2026-08-04T05:53:01.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/55353954169_e4e2db299f_c.jpg?quality=70&strip=info"
+        "updatedAt": "2026-08-04T09:01:28.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/flavio-bolsonaro_agencia-senado-carlos-moura-3-1.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "bde29667e6dddf04",
+        "clusterId": "da546c3f61c0a647",
+        "slug": "4bc8c921b5af9135",
+        "titulo": "Michelle Bolsonaro anuncia candidatura ao Senado Federal pelo Distrito Federal",
+        "resumo": "Michelle Bolsonaro confirmou sua candidatura ao Senado Federal pelo Distrito Federal, com apoio de sua família, especialmente de seus irmãos. Ela será a primeira suplente caso seja eleita. Na noite anterior à convenção do Partido Liberal, Michelle publicou uma foto em sua cama de hospital, agradecendo orações e carinho, após ser internada para exames de enxaquecas recorrentes. A convenção do PL, marcada para o dia seguinte, será o local oficial de lançamento da candidatura.",
+        "porQueImporta": "A candidatura de Michelle Bolsonaro ao Senado pode influenciar a composição do Legislativo e a representação do Distrito Federal.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/michelle-conta-com-rede-de-apoio-de-irmaos-para-candidatura-ao-senado/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/02/michelle-faz-post-em-cama-de-hospital-na-vespera-de-convencao-de-lancamento-de-candidatura-ao-senado.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-04T08:00:36.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/6G7Qc5Y4DWKvkNioMIbPawGzwqw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/0/z2zvMRQOaLQhxBkJil3g/michelle.png"
+      },
+      {
+        "clusterId": "0319bbf2f0d50c95",
         "slug": "75602c31bc696e56",
         "titulo": "Fachin apresenta proposta de regras para evitar conflitos de interesse de juízes",
         "resumo": "O presidente do STF e do CNJ, Luiz Edson Fachin, entregou ao Conselho Nacional de Justiça uma proposta de política de prevenção a conflitos de interesse no Poder Judiciário. A proposta será discutida no CNJ a partir de terça-feira e, se aprovada, será aplicada a todos os tribunais, exceto ao STF, que está desenvolvendo um código de ética próprio. A proposta inclui orientações sobre participação em atividades que possam gerar conflito e também aborda a aposentadoria compulsória como forma de punição a magistrados.",
@@ -304,293 +292,163 @@
           {
             "name": "G1",
             "url": "https://g1.globo.com/politica/noticia/2026/08/04/cnj-analisa-nesta-terca-proposta-de-fachin-sobre-conflitos-de-interesse-no-judiciario-veja-principais-pontos.ghtml"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/fachin-propoe-regras-de-conduta-para-juizes-stf-fica-de-fora/"
           }
         ],
         "updatedAt": "2026-08-04T06:00:32.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/RYWILiIYCkqVIoARmfIoKkQtxmg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/v/p/WnbQvZQvGcY3IoXtUZAg/foto-romulo-serpa-agencia-cnj.jpg"
       },
       {
-        "clusterId": "b4fd08ee64213143",
-        "slug": "c5ce47a3a94cd922",
-        "titulo": "Partidos Democrata e Avante oficializam candidaturas à Presidência da República",
-        "resumo": "O Partido Democrata anunciou Wilson Grassi, médico-veterinário de 56 anos, como candidato à Presidência, defendendo proteção animal, empreendedorismo e soberania nacional. O Avante oficializou Augusto Cury, psiquiatra e autor de 67 anos, como candidato, propondo investimento em educação integral e a criação de um regime semipresidencialista com primeiro‑ministro. Ambos os eventos ocorreram em convenções nacionais, com presença de autoridades estaduais.",
-        "porQueImporta": "Essas candidaturas introduzem novos perfis políticos nas próximas eleições, alterando o cenário partidário e as propostas de governo.",
+        "clusterId": "99ad2b4a355fff6b",
+        "slug": "446f1c2a8a42281c",
+        "titulo": "TSE abre e desmonta urna eletrônica ao vivo para demonstrar sua robustez",
+        "resumo": "O presidente do TSE, Kássio Nunes Marques, anunciou a Semana Nacional do Sistema Eletrônico de Votação e realizou a primeira desmontagem ao vivo de uma urna eletrônica, mostrando seu funcionamento interno. Ele afirmou que a urna é patrimônio da democracia brasileira e que o sistema possui qualidade técnica, auditabilidade e segurança. A medida visa reforçar a confiança pública após críticas da família Bolsonaro e de ministros do STF. O evento faz parte de um esforço permanente da Justiça Eleitoral para garantir transparência nas eleições.",
+        "porQueImporta": "A demonstração reforça a legitimidade das urnas eletrônicas e responde a questionamentos sobre sua segurança e confiabilidade.",
         "category": "politica",
         "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/03/democrata-oficializa-candidatura-de-wilson-grassi-a-presidencia-da-republica.ghtml"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/avante-oficializa-candidatura-de-augusto-cury-a-presidente-em-convencao/"
-          },
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/augusto-cury-confirma-candidatura-a-presidencia-sem-anunciar-vice/"
-          }
-        ],
-        "updatedAt": "2026-08-04T01:55:14.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/SAmuVa4i_62esYCNlVRXGUlcl-8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/A/qESW3CQ2KuHg3VjpGR6A/globo-canal-4-20260803-2000-frame-118865.jpeg"
-      },
-      {
-        "clusterId": "794ef637399918a1",
-        "slug": "358fb24ba2b16722",
-        "titulo": "Senador Cleitinho anuncia não candidatura a governador de Minas Gerais",
-        "resumo": "O senador Cleitinho Azevedo, do partido Republicanos, confirmou que não concorrerá ao cargo de governador de Minas Gerais. A decisão foi divulgada em vídeo na segunda-feira, 3 de agosto. Antes da sua saída, Cleitinho liderava as intenções de voto em pesquisas de cenário de primeiro e segundo turno. Com a sua ausência, Alexandre Kalil (PDT) aparece numericamente à frente na disputa.",
-        "porQueImporta": "A saída de Cleitinho altera o panorama político e as chances de outros candidatos na eleição de Minas Gerais.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/minas-gerais/como-fica-eleicao-em-mg-com-saida-de-cleitinho-quem-ganha-e-quem-perde"
+            "url": "https://veja.abril.com.br/politica/a-declaracao-de-nunes-marques-presidente-do-tse-sobre-as-urnas-eletronicas/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/03/quaest-em-mg-veja-cenarios-da-pesquisa-para-governador-em-julho-sem-a-presenca-de-cleitinho.ghtml"
+            "url": "https://g1.globo.com/politica/noticia/2026/08/03/cobrado-por-colegas-do-stf-nunes-marques-diz-que-urna-eletronica-e-patrimonio-da-democracia-brasileira.ghtml"
           }
         ],
-        "updatedAt": "2026-08-04T05:00:30.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/08/cleitinho-mg.jpg"
+        "updatedAt": "2026-08-03T23:40:49.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/55353954169_e4e2db299f_c.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "7f4527d907b41159",
-        "slug": "18e6196e5a3f8499",
-        "titulo": "Eleições 2026: íntegra do discurso de Renan Santos na convenção que o lançou candidato à Presidência",
-        "resumo": "Missão lança oficialmente a candidatura de Renan Santos à Presidência da República O partido Missão lançou no último sábado (1º) a candidatura de Renan Santos à Presidência da República. Em discurso, o empresário criticou o presidente Lula (PT) e o senador Flávio Bolsonaro (PL), também candidatos ao cargo, e defendeu \"matar quem roubar\". O candidato, que é um dos fundadores do Movimento Brasil Livre (MBL), disse também rejeitar o rótulo de \"antipetista\": \"Nós não somos como outros ratos que se vestem de verde e amarelo, se apropriando dos símbolos nacionais só para dizerem: 'veja só, eu sou o…",
-        "porQueImporta": "",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/08/04/por-dentro-das-convencoes-de-lula-e-renan-santos-o-assunto-1775.ghtml"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/renan-santos-diz-que-lula-nao-vai-a-debates-por-causa-de-escandalos/"
-          }
-        ],
-        "updatedAt": "2026-08-04T03:47:57.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/VDlQ6rcsShpVZNu4VtDGXLobHak=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/q/kyf1cYQJqnyEZaBhJgug/montagem-horizontal-1200px-11-.jpg"
-      },
-      {
-        "clusterId": "9ac1ecd77d0eb142",
-        "slug": "a8589f5512402e5a",
-        "titulo": "Lulinha espera acesso a investigação para pedir depoimento",
-        "resumo": "O filho do presidente, Lulinha, afirma estar calmo diante de novos inquéritos e deseja ser ouvido formalmente pelos investigadores. Ele espera ter acesso à investigação para apresentar seu depoimento. A apuração sobre ele reacende debates sobre corrupção e pode aumentar o desgaste político. A oposição pode explorar o caso durante a campanha.",
-        "porQueImporta": "O caso pode influenciar a percepção pública sobre corrupção e afetar a campanha política.",
+        "clusterId": "fb6db34ac72619c5",
+        "slug": "cc532a9d6198a264",
+        "titulo": "Presidente da UEFA busca apoio do PSG para boicotar Copa do Mundo de Clubes",
+        "resumo": "O presidente da UEFA, Aleksander Ceferin, pediu o apoio do presidente do PSG, Nasser Al-Khelaifi, para pressionar a FIFA a cancelar a Copa do Mundo de Clubes. Ceferin afirma que a competição está prejudicando os clubes europeus e que a FIFA não está atendendo às demandas dos clubes. Al-Khelaifi respondeu que não tem interesse em participar de ações de boicote e que a FIFA deve resolver a questão de forma pacífica.",
+        "porQueImporta": "A disputa pode afetar a participação de clubes europeus em competições internacionais e refletir tensões entre a UEFA e a FIFA.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-justica/lulinha-espera-acesso-a-investigacao-para-pedir-depoimento-na-pf/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/por-que-investigacao-contra-lulinha-tem-muito-potencial-para-causar-estragos/"
+            "url": "https://www.poder360.com.br/poder-sportsmkt/presidente-da-uefa-quer-apoio-do-psg-para-boicotar-copa-do-mundo-de-clubes/"
           }
         ],
-        "updatedAt": "2026-08-04T02:59:25.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/03/435435234.jpg?quality=70&strip=info"
+        "updatedAt": "2026-08-04T10:34:59.000Z"
       },
       {
-        "clusterId": "67c08c6f6c324ee4",
-        "slug": "ab30903c8a54834e",
-        "titulo": "TSE proíbe propaganda em carros de aplicativo e recebe denúncia de propaganda antecipada",
-        "resumo": "O Tribunal Superior Eleitoral manteve a multa de R$ 2.000 aplicada a um candidato por colocar adesivo com nome e número em veículo de aplicativo, reforçando a proibição de propaganda eleitoral nesses veículos. Em paralelo, o partido Novo apresentou representação contra Lula, o governador da Bahia e outros dirigentes, alegando propaganda antecipada durante a convenção do PT na Bahia. A ação pede a retirada de vídeos do evento das plataformas digitais. O TSE analisará as duas questões em processos distintos.",
-        "porQueImporta": "Essas decisões afetam a forma de divulgação política e a observância das regras eleitorais no Brasil.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/tse-proibe-propaganda-eleitoral-em-carros-de-aplicativo/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/08/02/novo-aciona-tse-contra-lula-e-aliados-por-suposta-propaganda-eleitoral-antecipada-em-convencao-do-pt-na-bahia.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-03T22:30:53.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/YiCK4k9C1aihYMmgcFNUtvD4fSA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/Z/pI7UjWQBiC48bGhSIHcw/captura-de-tela-2026-08-01-150238.png"
-      },
-      {
-        "clusterId": "e74c27276d19596c",
-        "slug": "6aed97275c292e67",
-        "titulo": "Musk abre vagas para construir data centers “na Terra e fora dela”",
-        "resumo": "O CEO da SpaceX anunciou a oferta de trabalho em post no X",
-        "porQueImporta": "",
+        "clusterId": "092373341532e85a",
+        "slug": "b4b6a3c78dce0b65",
+        "titulo": "GSI estabelece regras para emendas em cibersegurança",
+        "resumo": "A GSI publicou uma portaria que regula as emendas de recursos destinados à cibersegurança, válida para os anos de 2026 e 2027. A norma proíbe o uso desses recursos em salários, dívidas e despesas permanentes. Assim, os fundos devem ser aplicados exclusivamente em ações de prevenção e resposta a incidentes digitais.",
+        "porQueImporta": "Garantir que os recursos de cibersegurança sejam usados apenas para fortalecer a defesa digital do país.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-tech/musk-abre-vagas-para-construir-data-centers-na-terra-e-fora-dela/"
+            "url": "https://www.poder360.com.br/poder-congresso/gsi-define-regras-para-emendas-em-ciberseguranca/"
           }
         ],
-        "updatedAt": "2026-08-04T06:07:07.000Z"
+        "updatedAt": "2026-08-04T10:31:24.000Z"
+      },
+      {
+        "clusterId": "fc4fd39179295ffe",
+        "slug": "449d2efaa873b314",
+        "titulo": "PF deflagra nova fase da Sem Desconto em Brasília e no Maranhão",
+        "resumo": "A Polícia Federal iniciou uma nova fase da operação Sem Desconto em Brasília e no Maranhão, com foco em indícios de lavagem de dinheiro. Foram cumpridos 18 mandados de busca e apreensão em diversos estabelecimentos. A ação faz parte de um esforço maior para combater fraudes em programas de descontos e benefícios. Os procedimentos visam identificar e interromper práticas ilícitas que possam comprometer a integridade dos programas públicos.",
+        "porQueImporta": "A operação demonstra o compromisso das autoridades em garantir a lisura e a efetividade dos benefícios concedidos ao público.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-justica/pf-deflagra-nova-fase-da-sem-desconto-em-brasilia-e-no-maranhao/"
+          }
+        ],
+        "updatedAt": "2026-08-04T10:21:23.000Z"
+      },
+      {
+        "clusterId": "69d89dc10df139d1",
+        "slug": "ce6da92fc20c67ae",
+        "titulo": "TSE autoriza divulgação de pesquisas eleitorais em seis estados",
+        "resumo": "O Tribunal Superior Eleitoral (TSE) autorizou a divulgação de pesquisas de intenção de voto em seis estados: Distrito Federal, Goiás, Mato Grosso, Minas Gerais, Pará e Tocantins. A decisão permite que os resultados dessas pesquisas sejam publicados na terça-feira, antes das eleições. A medida visa aumentar a transparência e a informação dos eleitores sobre a dinâmica da campanha.",
+        "porQueImporta": "A divulgação antecipada das pesquisas pode influenciar o comportamento dos eleitores e a percepção pública sobre a competitividade das candidaturas.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-pesquisas/saiba-quais-pesquisas-eleitorais-podem-sair-nesta-3a-feira-2/"
+          }
+        ],
+        "updatedAt": "2026-08-04T10:00:52.000Z"
       }
     ],
     "economia": [
       {
-        "clusterId": "9c8573d03ebb08dd",
-        "slug": "58db9baad3d30858",
-        "titulo": "Greve dos ferroviários paralisa linhas 11, 12 e 13 da CPTM em São Paulo",
-        "resumo": "O sindicato da CPTM decretou greve a partir da meia-noite de terça-feira, paralisando as linhas 11-Coral, 12-Safira e 13-Jade, incluindo o Expresso Aeroporto. A Prefeitura de São Paulo suspendeu o rodízio de veículos na capital para evitar congestionamento. A paralisação afeta principalmente a Zona Leste e municípios como Guarulhos e Ferraz de Vasconcelos. Não há prazo definido para o fim da greve.",
-        "porQueImporta": "A paralisação interrompe o transporte coletivo de milhares de passageiros e impacta a mobilidade urbana da cidade.",
+        "clusterId": "d89fd9d2daf166cc",
+        "slug": "6a2971a56776488e",
+        "titulo": "Greve de ferroviários paralisa linhas 11, 12 e 13 da CPTM em São Paulo",
+        "resumo": "Funcionários das linhas 11-Coral, 12-Safira e 13-Jade da CPTM iniciaram greve para exigir a reestatização das linhas, a garantia de empregos para 4.700 trabalhadores e a aprovação do PL 730/2025. A paralisação afetou o Expresso Aeroporto e a Zona Leste, enquanto as linhas concedidas e o metrô continuam operando. O governo de São Paulo implementou um plano de contingência com reforço de metrô, trens privados e ônibus, além de suspender o rodízio de veículos.",
+        "porQueImporta": "Impacta o transporte público e a mobilidade de milhares de passageiros na capital paulista.",
         "category": "economia",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/03/prefeitura-de-sp-suspende-rodizio-apos-sindicato-de-funcionarios-da-cptm-decretar-greve-nesta-terca-nas-linhas-11-12-e-13.ghtml"
+            "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/04/funcionarios-em-greve-pedem-volta-das-linhas-11-12-e-13-para-cptm-ou-garantia-de-emprego-para-4700-empregados-que-passam-por-plano-de-demissao.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/sao-paulo/greve-cptm-sindicato-privatizacao"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/greve-nos-trens-da-cptm-em-sp-capital-tera-rodizio-suspenso-nesta-terca/"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/brasil/ferroviarios-confirmam-greve-e-paralisam-linhas-11-coral-12-safira-e-13-jade-em-sp/"
+            "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/greve-na-cptm-comeca-e-linhas-amanhecem-com-operacao-parcial-nesta-terca/"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/brasil/greve-da-cptm-entenda-por-que-ferroviarios-cruzaram-os-bracos-em-sp-nesta-terca/"
+            "url": "https://exame.com/brasil/greve-da-cptm-hoje-veja-o-plano-de-contingencia-e-como-ficam-as-linhas/"
           }
         ],
-        "updatedAt": "2026-08-04T01:40:54.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/Vzmk6eri7p_nukO7yiGvvTzwrNU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/o/UR7YfpTo6nPD0JTxhmSA/whatsapp-image-2026-07-03-at-06.23.13-2-.jpeg"
+        "updatedAt": "2026-08-04T10:26:48.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/cQAh9cGH9MrLOKnI76fLnQ3Bzbk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/l/tTOi22RBy3thTlyrVIrg/acervo-bdsp-limpo-20260804-0540-frame-80691.jpeg"
       },
       {
-        "clusterId": "92f8a37ce52691b9",
-        "slug": "c70f693cd17d3475",
-        "titulo": "Usuários do WhatsApp relatam bloqueio repentino de contas",
-        "resumo": "Vários usuários no Brasil e em outros países tiveram suas contas do WhatsApp bloqueadas sem aviso prévio, exibindo mensagem de suspensão por suposto descumprimento dos termos de serviço. A Meta informou que as contas estão em análise e que o resultado será comunicado em até 24 horas. Usuários alegam não ter violado nenhuma política da plataforma.",
-        "porQueImporta": "O bloqueio indiscriminado pode afetar a comunicação pessoal e comercial de milhares de usuários.",
+        "clusterId": "d12a4db3b71f8eff",
+        "slug": "e03179a55c6f960b",
+        "titulo": "Emprego nos EUA, produção industrial no Brasil e balanços de Itaú e outras empresas movimentam os mercados",
+        "resumo": "Os dados de emprego divulgados pelos EUA indicam crescimento na taxa de desemprego, enquanto a produção industrial brasileira registrou queda no último mês. O Itaú revelou resultados financeiros que superaram as expectativas de analistas, e empresas como Prio, Gerdau, Raia Drogasil, Iguatemi e C&A também divulgaram seus balanços. Esses indicadores são monitorados pelos investidores para avaliar a saúde econômica dos mercados norte-americano e brasileiro.",
+        "porQueImporta": "Esses números influenciam decisões de investimento e expectativas de crescimento econômico.",
         "category": "economia",
         "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/emprego-eua-industria-brasil-balanco-itau-agenda-04082026/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/invest/mercados/producao-industrial-jolts-e-balancos-de-spacex-e-itau-o-que-move-os-mercados/"
+          }
+        ],
+        "updatedAt": "2026-08-04T08:57:52.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-16T125554Z_1_LYNXMPEM3F0WE_RTROPTP_4_USA-ECONOMY-JOBS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "ce62aa9a7ff7f599",
+        "slug": "8984c31495a631f6",
+        "titulo": "Partidos médios se afastam de alianças na disputa presidencial",
+        "resumo": "Partidos de centro e centro‑esquerda optaram por permanecer neutros na corrida presidencial, reduzindo a influência das coligações nacionais. Essa postura dificulta a formação de alianças que poderiam fortalecer os candidatos Lula e Flávio. A incerteza sobre a vitória de Flávio impede a escolha de vice e afasta possíveis parcerias, como a do PL.",
+        "porQueImporta": "A ausência de apoio de partidos médios pode limitar a capacidade de governar a partir de 2027.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/centrao-se-afasta-da-disputa-presidencial-e-deixa-lula-e-flavio-sem-ampliar-aliancas/"
+          },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/tecnologia/usuarios-relatam-bloqueio-repentino-de-contas-no-whatsapp-entenda/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/tecnologia/contas-do-whatsapp-sao-bloqueadas-sem-aviso-usuarios-reclamam-nas-redes/"
-          },
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/apps/contas-do-whats-app-sao-banidas-sem-motivo-no-brasil-veja-o-que-diz-a-meta/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/noticia/2026/08/03/usuarios-do-whatsapp-relatam-conta-bloqueada-pela-plataforma.ghtml"
+            "url": "https://www.cnnbrasil.com.br/eleicoes/incerteza-sobre-vitoria-de-flavio-afasta-partidos-aponta-especialista/"
           }
         ],
-        "updatedAt": "2026-08-03T23:40:15.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/zclITfIhjnWWqQcAr8RUt1ugZpM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/n/r/a3XCHdRxq6hea4GLX4Cw/dimitri-karastelev-ynjawgrwslm-unsplash.jpg"
+        "updatedAt": "2026-08-04T08:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/01/Design-sem-nome-1-e1772026849865.png?fit=300%2C225&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "26ec360b62a6e521",
-        "slug": "200a6aaa58c40131",
-        "titulo": "STF amplia isenção de compra de veículos para pessoas com deficiência mental leve e autistas",
-        "resumo": "O Supremo Tribunal Federal considerou inconstitucional a regra da reforma tributária que limitava a isenção de compra de veículos a casos moderados ou graves de deficiência mental e transtorno do espectro autista. A decisão permite que pessoas com deficiência mental leve e autistas nível 1 tenham acesso ao benefício fiscal. A medida foi tomada após a aprovação da reforma tributária em 2023 e a regulamentação prevista para 2025.",
-        "porQueImporta": "A ampliação garante maior acesso a veículos com benefícios fiscais a um grupo mais amplo de pessoas com deficiência.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/08/04/stf-derruba-restricao-da-reforma-tributaria-e-amplia-isencao-na-compra-de-veiculos-para-pessoas-com-deficiencia-e-autistas.ghtml"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/stf-amplia-isencao-para-compra-de-carro-por-autistas-e-pessoas-com-deficiencia-mental/"
-          }
-        ],
-        "updatedAt": "2026-08-04T03:00:12.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/tn02iAqkwRbbfq2GHPhMwn12abk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/m/BBMx9DSwKkTcPnyEKV0Q/globo-canal-4-20260630-2000-frame-78887.jpeg"
-      },
-      {
-        "clusterId": "e98290f9ede02241",
-        "slug": "e343b3a33a5c258d",
-        "titulo": "Justiça determina 80% da frota da CPTM em horário de pico",
-        "resumo": "A Justiça Federal ordenou que a CPTM mantenha 80% de sua frota operando durante o horário de pico, mesmo em meio à greve. O tribunal também fixou multa diária de R$ 400 mil ao sindicato caso a determinação não seja cumprida. A decisão visa garantir o transporte de passageiros em São Paulo, enquanto os trabalhadores continuam protestando contra a concessão de trechos da companhia à empresa Trivia Trens.",
-        "porQueImporta": "A medida assegura o funcionamento mínimo do transporte público em uma das maiores cidades do Brasil, mitigando impactos no deslocamento de milhões de usuários.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/greve-cptm-justica-impoe-80-da-frota-no-horario-de-pico/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/greve-da-cptm-em-sp-justica-determina-80-da-operacao-durante-horario-de-pico/"
-          }
-        ],
-        "updatedAt": "2026-08-04T01:58:46.000Z"
-      },
-      {
-        "clusterId": "464eddd3bc0cb511",
-        "slug": "90ed0e4ab8ed19a3",
-        "titulo": "Lucro da Pague Menos cresce 22,2% no 2º trimestre",
-        "resumo": "A Pague Menos registrou lucro líquido de R$ 73,6 milhões no segundo trimestre, representando aumento de 22,2% em relação ao mesmo período do ano anterior. A companhia encerrou o trimestre com 1.695 lojas no Brasil, superando os 1.657 estabelecimentos do ano passado. O resultado reflete expansão de vendas e eficiência operacional.",
-        "porQueImporta": "O crescimento demonstra a robustez do modelo de negócio da Pague Menos e pode influenciar decisões de investidores e parceiros.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/negocios/pague-menos-tem-crescimento-de-222-no-lucro-do-2o-trimestre/"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/pague-menos-pgmn3-resultados-segundo-trimestre-2026/"
-          }
-        ],
-        "updatedAt": "2026-08-04T00:46:57.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/09/pague-menos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "5b03003f979a931e",
-        "slug": "dc48045f115e7fa6",
-        "titulo": "Resultados dos concursos de loterias do dia 3 de agosto",
-        "resumo": "No concurso 1262 da Dia de Sorte, as dezenas sorteadas foram 3, 6, 13, 15, 18, 24 e 26, com 1 prêmio de 7 acertos e 37 de 6 acertos. O concurso 2958 da Lotomania sorteou os números 3, 4, 7, 11, 12, 21, 26, 33, 38, 71, 73, 74, 78, 80, 84, 88, 89, 92, 94 e 95, sem nenhum 20 acertos, acumulando R$ 7 milhões. O concurso 3752 da Lotofácil teve como números 2, 3, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 21 e 24, sem 15 acertos, acumulando R$ 5 milhões. O concurso 7082 da Quina sorteou 17, 38, 50, 63 e 78, sem 5 acertos, acumulando R$ 3,6 milhões.",
-        "porQueImporta": "Esses resultados informam os jogadores sobre os números sorteados e os prêmios acumulados, influenciando decisões de apostas futuras.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/08/03/dia-de-sorte-hoje-resultado-do-concurso-1262-e-numeros-sorteados.ghtml"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7082-confira-o-resultado-sorteado-nesta-segunda-3/"
-          }
-        ],
-        "updatedAt": "2026-08-04T00:40:40.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/yJNUqM9PH7asOTkARP7wdCe9IZw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/G/wjjqPdSBev6xTOQlgNwA/diadesorte-1262-hnrwl.jpeg"
-      },
-      {
-        "clusterId": "8ddaaccb6855c2b4",
-        "slug": "afe0687615b6fb98",
-        "titulo": "Último episódio de 'A Casa do Dragão' estreia na quarta temporada",
-        "resumo": "O penúltimo episódio da terceira temporada já foi exibido, preparando o cenário para a grande traição contra Rhaenyra Targaryen e a batalha final. O episódio mostra Rhaenyra em estado desesperado, tentando manter seu reinado diante da guerra civil entre Pretos e Verdes. O dragão Sunfyre, considerado morto, reaparece no penúltimo capítulo, explicando seu retorno. A trama culmina na quarta e última temporada, que promete confrontos decisivos.",
-        "porQueImporta": "O desenrolar da série influencia a narrativa de toda a franquia Game of Thrones.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Exame",
-            "url": "https://exame.com/pop/quando-estreia-o-ultimo-episodio-de-a-casa-do-dragao-veja-o-trailer-divulgado-pela-hbo/"
-          },
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/entretenimento/a-casa-do-dragao-prepara-a-maior-traicao-da-3-temporada/"
-          }
-        ],
-        "updatedAt": "2026-08-03T20:00:43.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/xJJkMv3Ekm4h0EjIguvTYklRCFo=/0x0/filters:format(webp):quality(85)/eff373e6-b2f5-4fa8-8fe8-ae3b48a9c27d.png"
-      },
-      {
-        "clusterId": "9000e30559b29450",
+        "clusterId": "5f2935d0bac2de3b",
         "slug": "26470366258dd221",
         "titulo": "Mega-Sena acumula prêmio para R$ 135 milhões",
         "resumo": "O concurso 3.040 da Mega-Sena, que ocorrerá às 21h de terça-feira, pode pagar R$ 135 milhões ao acertar as seis dezenas. O valor acumulou após o concurso 3.039, no qual o prêmio de R$ 97 milhões não foi premiado. No último sorteio, 86 apostas acertaram a quina e 6.332 acertaram quatro dezenas.",
@@ -598,17 +456,109 @@
         "category": "economia",
         "sources": [
           {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/investimentos/mega-sena-quanto-rendem-r-135-milhoes-na-poupanca-tesouro-direto-ou-cdb-2/"
+          },
+          {
             "name": "G1",
             "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/04/mega-sena-pode-pagar-premio-de-r-135-milhoes-nesta-terca-feira-acompanhe-ao-vivo.ghtml"
           }
         ],
-        "updatedAt": "2026-08-04T03:00:43.000Z",
+        "updatedAt": "2026-08-04T07:05:12.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/ta-_PCbXeOCvNKWb9Sx3SZHdMBI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/5/MJd3u6SCGT2G7x4M0U5A/captura-de-tela-2026-07-16-205336.png"
+      },
+      {
+        "clusterId": "5e9023afffc9695d",
+        "slug": "75e603b40553b7fe",
+        "titulo": "IMC vende subsidiária de refeições para companhias aéreas",
+        "resumo": "A IMC concluiu a venda de sua subsidiária de refeições para companhias aéreas, recebendo R$ 20 milhões. A transação faz parte da estratégia da empresa de simplificar seu portfólio. A operação foi anunciada em comunicado oficial da companhia. O valor reflete a importância do negócio no setor de alimentação corporativa.",
+        "porQueImporta": "A venda demonstra a reestruturação da IMC e pode influenciar o mercado de serviços de alimentação para aviação.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/imc-conclui-venda-de-subsidiaria-de-refeicoes-para-companhias-aereas-por-r-20-mi/"
+          }
+        ],
+        "updatedAt": "2026-08-04T10:34:46.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2019/06/refeicao-aviao.jpg?fit=300%2C201&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "6e866b8e566b9908",
+        "slug": "70313a9d385dc8d8",
+        "titulo": "Minidólar (WDOU26) apresenta suportes e resistências para operar",
+        "resumo": "O minidólar (WDOU26) está em análise para a terça-feira, com foco em níveis de suporte e resistência que podem influenciar a operação dos investidores. Os analistas destacam pontos de entrada e saída baseados em movimentos recentes do dólar. A expectativa é que o mercado observe esses níveis para decidir sobre compras ou vendas de minidólar.",
+        "porQueImporta": "Esses níveis ajudam investidores a tomar decisões informadas sobre operações de minidólar.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/minidolar-hoje-futuro-do-dolar-wdou26-04082026/"
+          }
+        ],
+        "updatedAt": "2026-08-04T10:07:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WDOU26-15-MINUTOS-04.08.2026.png?fit=300%2C137&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "0995655ab69ae5e6",
+        "slug": "a08f12b47a04f024",
+        "titulo": "Mini-índice WINQ26 pode retomar alta",
+        "resumo": "A análise técnica do mini-índice WINQ26 indica que o ativo pode voltar a subir, com suporte em níveis próximos a 10.000 pontos. Os traders observam a zona de resistência em torno de 10.200 pontos como possível barreira para a alta. A estratégia sugere operar com cautela, monitorando os indicadores de momentum e volume. O cenário depende de confirmação de rompimento da resistência.",
+        "porQueImporta": "A movimentação do mini-índice afeta diretamente investidores que operam com contratos futuros de índice.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/mini-indice-hoje-futuro-ibovespa-winq26-04082026/"
+          }
+        ],
+        "updatedAt": "2026-08-04T10:05:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WINQ26-15-MINUTOS-04.08.2026.png?fit=300%2C137&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "2a24581736717012",
+        "slug": "7525321a989f9aec",
+        "titulo": "Ibovespa pode romper resistência no day trade",
+        "resumo": "A análise do InfoMoney aponta que o mini-índice pode ultrapassar a resistência de 112,000 pontos, enquanto o minidólar permanece em torno de 5,200. Os traders observam os níveis de suporte e resistência para decidir suas posições. A expectativa de rompimento pode influenciar as negociações diárias.",
+        "porQueImporta": "Um rompimento pode sinalizar mudança de tendência e afetar decisões de investimento no mercado de ações.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-04082026/"
+          }
+        ],
+        "updatedAt": "2026-08-04T10:02:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/12/Daytrade-hoje.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "0cf639dbad8f044e",
+        "clusterId": "ddc229a6cb8be26c",
+        "slug": "20c87fe21e8764b0",
+        "titulo": "Irã busca controle do tráfego marítimo no Estreito de Ormuz e negocia nova rota com Omã",
+        "resumo": "O Irã pretende ter controle sobre a entrada e saída de navios no Estreito de Ormuz, com possibilidade de intervenção quando necessário, em acordo em negociação com Omã. As discussões visam estabelecer uma rota de trânsito que respeite a soberania de ambos os países e garanta os interesses nacionais do Irã. O presidente iraniano afirmou que o país não busca ampliar conflitos, mas defenderá sua integridade territorial.",
+        "porQueImporta": "O Estreito de Ormuz é uma rota estratégica para o comércio global, e seu controle influencia a segurança marítima e as relações geopolíticas na região.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/04/ira-quer-controlar-entrada-navios-ormuz-poder-de-intervencao-diz-agencia.ghtml"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mundo/trump-diz-ao-ira-que-quer-um-acordo-sobre-o-ormuz-em-breve/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/ira-deve-controlar-a-rota-de-ormuz-negociada-com-oma-diz-autoridade/"
+          }
+        ],
+        "updatedAt": "2026-08-04T10:18:02.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/cqNSNIPEkg9r17qe8LP0pv6_qnE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/Y/sEMWewSyOsvWEqzBWiWQ/2026-07-27t110057z-1158583684-rc22mma6cybz-rtrmadp-3-iran-crisis.jpg"
+      },
+      {
+        "clusterId": "ffcd0b2494762d2e",
         "slug": "009efeb57c066273",
         "titulo": "Drone ucraniano atinge praia russa e causa mortes e feridos",
         "resumo": "Um drone militar, identificado pelo governo russo como proveniente da Ucrânia, atingiu a praia de Gelendzhik, no Mar Negro, matando sete pessoas, incluindo três crianças, e ferindo cerca de 40 outras. O ataque ocorreu em uma área de grande fluxo de banhistas durante o verão. Autoridades locais acusam a Ucrânia de ser responsável pelo incidente.",
@@ -617,39 +567,75 @@
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/08/04/tudo-aconteceu-na-frente-dos-meus-filhos-o-ataque-com-drone-que-matou-ao-menos-7-pessoas-em-praia-na-russia.ghtml"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/ataque-de-drones-da-ucrania-em-praia-da-russia-deixa-sete-mortos/"
+            "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/08/04/video-mostra-ucraniano-sendo-perseguido-por-drone-e-fugindo-ate-ser-atingido.ghtml"
           },
           {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/c1e13npvny2o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-08-04T06:00:35.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/RuZy5FYZjSaC2r7fg4IvaV8SHyk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/K/BkoJw8SAufjj1ImE4IMA/russia.jpg"
+        "updatedAt": "2026-08-04T10:24:28.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/OW_o15VhqofQkoez_EPjGON0kFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/A/bi7m4BRXuGvwqQhPL7Ow/ap26216243501704.jpg"
       },
       {
-        "clusterId": "ea5310eab491f21c",
-        "slug": "541560912e0c0bdf",
-        "titulo": "Drone ucraniano atinge praia russa, causando mortes e feridos",
-        "resumo": "Um drone militar, identificado pela Rússia como proveniente da Ucrânia, atingiu a praia de Gelendzhik, no Mar Negro, matando sete pessoas, incluindo três crianças, e ferindo cerca de 40. O ataque ocorreu durante o pico de verão, quando a praia estava lotada de banhistas. Autoridades russas afirmam que o drone fazia parte de um ataque de Kiev à região. O incidente destaca a extensão dos confrontos de drones na fronteira entre os dois países.",
-        "porQueImporta": "O episódio demonstra a escalada de violência com drones na região e o impacto direto em civis, reforçando a urgência de medidas de segurança e diplomáticas.",
+        "clusterId": "040a682786e4547b",
+        "slug": "9c2fad472b68a998",
+        "titulo": "Eleição de Pernambuco se torna guerra digital entre governadora e ex-prefeito",
+        "resumo": "A eleição em Pernambuco tem sido marcada por acusações de milícia digital e fake news entre a governadora Raquel Lyra e o ex-prefeito João Campos. Lyra tem aumentado sua popularidade, revertendo a vantagem de Campos nas pesquisas de intenção de voto. A disputa inclui alegações de manipulação de conteúdo online e uso de máquinas de propaganda digital.",
+        "porQueImporta": "O conflito digital pode influenciar significativamente a percepção pública e os resultados eleitorais.",
         "category": "mundo",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/ataques-ucranianos-deixam-mortos-e-atingem-depositos-na-russia/"
+            "name": "G1",
+            "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/08/04/por-que-eleicao-de-pernambuco-virou-guerra-digital-e-o-que-isso-tem-a-ver-com-virada-da-governadora.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cg4d14kzq15o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-08-04T09:59:35.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/qzkMv55giwP74QfTOV35pfGmKLE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/6/3s5lUBRkOog1P9qFz0nQ/pesquisa.png"
+      },
+      {
+        "clusterId": "a3d66bd107f0fa27",
+        "slug": "f79e63ed769ff042",
+        "titulo": "Israel só retirará tropas de Gaza após desarmamento total do Hamas",
+        "resumo": "O Conselho de Paz criado por Donald Trump afirmou que Israel só retirará suas forças da Faixa de Gaza quando o Hamas se desarmar completamente. O grupo exige que Israel interrompa ataques e retire tropas até a chamada \"linha amarela\" antes de cumprir o acordo de desarmamento. Netanyahu informou aos EUA que continua bombardeando Gaza apesar da proposta de desarmamento. O Conselho de Paz mantém a posição de que a retirada depende da entrega total de armas pelo Hamas.",
+        "porQueImporta": "A decisão influencia a escalada de violência e a possibilidade de um acordo de paz na região.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/roma-libano-e-israel-retomam-negociacoes-de-paz-hezbollah-pressiona"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/02/russia-diz-ter-abatido-635-drones-ucranianos-ataque-deixou-dois-mortos.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/03/conselho-da-paz-de-trump-pressiona-israel-a-interromper-ataques-na-faixa-de-gaza.ghtml"
           }
         ],
-        "updatedAt": "2026-08-04T05:50:36.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/GOzFpABZsmArXgYBJs5K_bcEk5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/u/g6J8Y0QvKd4KiFATjBog/2026-08-02t070350z-190245204-rc2u0mact2lq-rtrmadp-3-ukraine-crisis-russia-drones.jpg"
+        "updatedAt": "2026-08-04T09:56:11.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/04/libano-destruido-1.jpg"
+      },
+      {
+        "clusterId": "c5e58067e3f6ad8b",
+        "slug": "8b0addd79ee83e29",
+        "titulo": "Onda de calor atinge península coreana e autoridades ampliam medidas de emergência",
+        "resumo": "Temperaturas próximas a 40ºC foram registradas na Coreia do Norte, enquanto a Coreia do Sul também enfrenta calor intenso. As autoridades de ambos os países mantêm alertas de calor em vigor durante toda a semana. Moradores buscam alívio em centros de resfriamento, praias e parques aquáticos. A situação destaca a necessidade de medidas de saúde pública em face de extremos climáticos.",
+        "porQueImporta": "A onda de calor pode afetar a saúde e a infraestrutura dos países, exigindo atenção governamental e recursos de emergência.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/onda-de-calor-na-coreia-do-sul-causa-16-mortes"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/03/coreias-do-sul-e-do-norte-enfrentam-onda-de-calor-recorde.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-04T09:46:34.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/08/gettyimages-2288210755.jpg"
       },
       {
         "clusterId": "fb9a611a898b933b",
@@ -672,6 +658,26 @@
         "imageUrl": "https://s2-g1.glbimg.com/GwtWFx-ecFr-j6WtRYjWDhRkGUU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/Y/MzfrYkR7uAbX48k6O4eg/ap26215509615031.jpg"
       },
       {
+        "clusterId": "102b978c2884e223",
+        "slug": "8d44c71ff119dac2",
+        "titulo": "Venezuela retoma voos de repatriação após terremotos",
+        "resumo": "A Venezuela retomou o transporte de imigrantes de Miami, com um avião pousando em Anzoátegui, o primeiro voo de repatriação desde junho. O retorno ocorre depois de terremotos de 7,2 e 7,5 que atingiram a região de La Guaira, causando mais de 190 edifícios colapsados. O balanço oficial do Parlamento indica que o número de mortos ultrapassou 6.125 pessoas. Famílias continuam em busca de desaparecidos na área afetada.",
+        "porQueImporta": "A retomada dos voos de repatriação sinaliza a estabilização da situação humanitária na Venezuela após a devastação causada pelos terremotos.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/venezuela-retoma-voos-de-repatriacao-dos-eua-apos-terremotos/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/03/numero-de-mortos-por-terremotos-na-venezuela-passa-de-6-mil.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-04T01:27:17.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/uMg5iG_qjgmljNz3DlXVtwqnaI0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/e/HLfqOPSNiYAOQFlHIGNw/2026-07-11t222946z-1951886010-rc2xbma1daqu-rtrmadp-3-venezuela-quake.jpg"
+      },
+      {
         "clusterId": "8558d025f749beb9",
         "slug": "aa2e50c01301be94",
         "titulo": "Incêndios em Washington destroem centenas de imóveis e deslocam dezenas de milhares de pessoas",
@@ -690,241 +696,166 @@
         ],
         "updatedAt": "2026-08-04T01:06:32.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/Z4bGvqa5XA0FTlJFb4F4DJCC4wY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/V/h5TGfiToqfsDBKqpJKFA/ap26214685395677.jpg"
-      },
-      {
-        "clusterId": "7751c22664f55dd6",
-        "slug": "191de5d3527ea0e5",
-        "titulo": "Número de mortes em Ceuta sobe para 72",
-        "resumo": "O número de migrantes que morreram ao tentar atravessar a fronteira entre Marrocos e Ceuta aumentou para 72, de 67 no último levantamento. A maioria dos falecidos são jovens marroquinos que atravessaram a fronteira na semana anterior. As autoridades espanholas estão reforçando a escolta de imigrantes e instalando barreira marítima para evitar novas chegadas.",
-        "porQueImporta": "Aumento das mortes destaca a crise migratória e a necessidade de medidas de segurança na fronteira.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/numero-de-mortes-em-ceuta-sobe-para-72-e-amplia-crise-imigratoria-na-espanha/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/02/sobe-para-72-numero-migrantes-mortos-ceuta.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-03T22:32:23.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/AFP__20260802__C3T763M__v1__HighRes__SpainMoroccoMigrationCeuta.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "83222c9d75ec3022",
-        "slug": "e0cb3ae1aeecf13e",
-        "titulo": "PT oficializa candidatura de Lula à Presidência em 2026",
-        "resumo": "O Partido dos Trabalhadores confirmou a candidatura de Luiz Inácio Lula da Silva à reeleição, buscando seu quarto mandato. A chapa mantém Geraldo Alckmin como vice. Lula destaca a necessidade de proteger mulheres e pede que o agressor não vote nele, enquanto minimiza as pesquisas que indicam disputa acirrada com Flávio Bolsonaro. A convenção partidária ocorreu em São Paulo e a candidatura será oficializada até 5 de agosto.",
-        "porQueImporta": "A confirmação de Lula influencia a dinâmica das eleições presidenciais de 2026 e a expectativa de um possível retorno ao poder.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cly8vyqv06jo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/02/pt-lanca-candidatura-lula-1.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-03T19:01:04.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3465/live/4dd07390-8e84-11f1-a7ab-8b30adf0800a.jpg"
-      },
-      {
-        "clusterId": "1c815bd4c238a1a8",
-        "slug": "d9ca93eebdb72add",
-        "titulo": "Milei critica Lula como ladrão e corrupto",
-        "resumo": "O presidente argentino Javier Milei voltou a atacar o presidente brasileiro Luiz Inácio Lula da Silva, chamando-o de ladrão e corrupto em entrevista à LN+. Milei também questionou decisões judiciais que anulavam condenações de Lula na Operação Lava Jato. Lula respondeu descrevendo as declarações como patacoada e se referindo ao argentino como ‘aquela coisa’. A troca de acusações intensifica a tensão diplomática entre os dois países.",
-        "porQueImporta": "A escalada de críticas pode afetar as relações bilaterais e a cooperação regional.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c4gxjqzew80o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/03/video-mostra-momento-em-milei-faz-novos-ataques-a-lula-e-renova-crise-diplomatica.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-03T18:59:53.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0006/live/b8176990-8f4a-11f1-9818-6fa9a4d75fb0.jpg"
-      },
-      {
-        "clusterId": "c1b4356ccebccc54",
-        "slug": "f85f899181e73d84",
-        "titulo": "Parafuso de rosca de 60 graus impulsionou a padronização americana",
-        "resumo": "Na década de 1920, a falta de padronização global dificultava a produção e comércio. Os Estados Unidos adotaram o parafuso de rosca de 60 graus, criando um padrão unificado. Esse padrão facilitou a fabricação em massa e a exportação de produtos americanos, contribuindo para a ascensão econômica e tecnológica do país.",
-        "porQueImporta": "O padrão de parafuso demonstrou como uma norma técnica simples pode impulsionar a competitividade internacional.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/02/como-um-parafuso-ajudou-os-estados-unidos-a-conquistar-o-mundo.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c3v0z1q0zeko?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-08-02T19:26:50.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/4GKoH4qOKPwoV1rkUOC3hm2HWnk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/y/TDTF8CRTazUKkhzwKnzA/bandeira-eua-1200px.png"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "42c658aba9cfe88d",
-        "slug": "d7cbdf67220dce8b",
-        "titulo": "El Niño influencia chuvas e ventanias no Brasil, mas não explica todas as ocorrências",
-        "resumo": "O fenômeno El Niño já está afetando o clima brasileiro, provocando chuvas intensas e ventanias em várias regiões. No entanto, especialistas apontam que as ventanias registradas em São Paulo e no Rio de Janeiro não podem ser atribuídas exclusivamente ao El Niño, indicando a participação de outros fatores climáticos. A meteorologia prevê que o impacto do El Niño continuará a influenciar o clima nos próximos meses, exigindo monitoramento constante.",
-        "porQueImporta": "Entender a contribuição do El Niño ajuda na preparação e mitigação de eventos climáticos extremos no país.",
+        "clusterId": "b2f816f87b38696d",
+        "slug": "ae960c3e8a7fbede",
+        "titulo": "Apple retira e restaura Telegram da App Store por conteúdo de abuso infantil",
+        "resumo": "A Apple removeu temporariamente o Telegram da App Store após identificar material que violava a proibição de abuso sexual infantil. O aplicativo foi reativado depois que o desenvolvedor excluiu o conteúdo e baniu o usuário responsável. A empresa afirmou que a ação foi tomada para cumprir suas diretrizes de segurança. O Telegram divulgou no X que os relatos sobre sua morte são exagerados.",
+        "porQueImporta": "A medida reforça o compromisso das plataformas com a proteção de crianças e a aplicação de regras de conteúdo.",
         "category": "tecnologia",
         "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-tech/apple-retira-telegram-da-app-store-e-restaura-aplicativo/"
+          },
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/04/internet-e-redes-sociais/apple-remove-telegram-da-app-store-por-violacao-de-regras-sobre-abuso-infantil/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/tecnologia/apple-remove-telegram-da-app-store-por-conteudo-de-abuso-infantil/"
+          },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/fantastico/noticia/2026/08/04/super-el-nino-pode-intensificar-chuvas-tempestades-e-enchentes-no-brasil-entenda.ghtml"
-          },
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/03/videos/culpa-do-el-nino-chuvas-ventania-e-ate-tornado-atingem-o-brasil/"
+            "url": "https://g1.globo.com/tecnologia/noticia/2026/08/04/apple-tira-telegram-do-ar-por-violacao-de-regras-sobre-abuso-infantil.ghtml"
           }
         ],
-        "updatedAt": "2026-08-04T04:00:08.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/BzXOlPjqBRghGe980Gi7kJo6uKk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/l/UIEyOZS1GSfikMXiGG1A/design-sem-nome-17-.png"
+        "updatedAt": "2026-08-04T10:12:45.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/cgx4K58kRTrQgmn4aGos3U8qpmk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/W/VR4eEASYqIYuXYi1hkpw/2026-06-16t065334z-954098010-rc2wpga8qor8-rtrmadp-3-india-telegram-education.jpg"
       },
       {
-        "clusterId": "eadd9a51f5b57eb4",
-        "slug": "9b9e943066d568cf",
-        "titulo": "Gemini Spark integra-se ao Chrome e pode usar senhas salvas",
-        "resumo": "O Google anunciou a integração do Gemini Spark com o Chrome, permitindo que o assistente de IA navegue na internet e execute tarefas automaticamente. O recurso Auto Browse permite pesquisar informações, preencher formulários e concluir processos online com autorização do usuário. Para isso, o Gemini Spark pode acessar contas conectadas e senhas salvas no navegador, desde que o usuário conceda permissão. A funcionalidade visa automatizar tarefas repetitivas, como reserva de voos e agendamento de visitas a imóveis.",
-        "porQueImporta": "Facilita a automação de atividades online, reduzindo esforço manual do usuário.",
+        "clusterId": "c0e274e89287dbab",
+        "slug": "e2b27d8e4f776c9d",
+        "titulo": "XBOX Game Pass anuncia novos títulos em agosto",
+        "resumo": "A Microsoft divulgou a primeira lista de jogos que chegarão ao XBOX Game Pass em agosto, incluindo o RPG de ação Beast of Reincarnation, desenvolvido pela Game Freak, criadora de Pokémon. Também está confirmado o lançamento de Resonance: A Plague Tale Legacy, prequel da série A Plague Tale. Ambos os jogos prometem reforçar o catálogo de títulos de qualidade da plataforma de assinatura.",
+        "porQueImporta": "A chegada desses títulos amplia a oferta de jogos exclusivos e de alto perfil no serviço, atraindo mais assinantes.",
         "category": "tecnologia",
         "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/03/internet-e-redes-sociais/gemini-agora-controla-o-chrome-e-pode-usar-suas-senhas-para-navegar/"
-          },
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/inteligencia-artificial/gemini-spark-ganha-integracao-no-chrome-para-navegar-sozinho-por-ai/"
+            "url": "https://canaltech.com.br/games/com-rpg-dos-criadores-de-pokemon-xbox-game-pass-ganha-reforco-de-peso-em-agosto/"
           }
         ],
-        "updatedAt": "2026-08-04T00:14:34.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/lj9BHNa4QbYz-scfxOcEMhDRIS8=/0x0/filters:format(webp):quality(85)/1e4a83a7-a6f1-4763-871b-7de6e3be2069.png"
+        "updatedAt": "2026-08-04T10:35:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/Pydb8MYbRSWnSkj7slBUg2kezwI=/0x0/filters:format(webp):quality(85)/2457327d-b253-4aad-9cdf-b83f5831f011.jpg"
       },
       {
-        "clusterId": "28f6be3e3fe84ada",
-        "slug": "ff12c7859aaf1bb3",
-        "titulo": "CEO da Palantir critica setor de IA como marxista após lucro de R$ 5,6 bi",
-        "resumo": "Alex Karp, CEO da Palantir, descreveu o setor de inteligência artificial como \"marxista\" em carta a investidores, após a empresa registrar lucro de R$ 5,6 bilhões no último trimestre. Ele destacou que o lucro superou em muito a receita total do mesmo período do ano anterior. A declaração foi publicada em Olhar Digital.",
-        "porQueImporta": "A crítica do CEO destaca tensões internas sobre o modelo de negócio de IA e pode influenciar percepções de investidores e reguladores.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/03/pro/ceo-da-palantir-chama-setor-de-ia-de-marxista-apos-lucro-de-r-5-6-bi/"
-          }
-        ],
-        "updatedAt": "2026-08-04T01:56:38.000Z"
-      },
-      {
-        "clusterId": "4da86dbecd5323ed",
-        "slug": "7a60337202c37816",
-        "titulo": "El Niño ganha força e aumenta risco de eventos extremos",
-        "resumo": "O fenômeno El Niño está se intensificando, elevando o risco de eventos climáticos extremos no segundo semestre de 2026. As previsões indicam aumento de temperaturas e precipitações em regiões vulneráveis. Esse cenário pode agravar problemas de abastecimento de água e aumentar a frequência de inundações e secas.",
-        "porQueImporta": "O fortalecimento do El Niño pode impactar diretamente a segurança hídrica e a estabilidade ambiental de várias regiões.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/03/videos/confira-o-olhar-digital-news-na-integra-03-08-2026/"
-          }
-        ],
-        "updatedAt": "2026-08-04T01:48:41.000Z"
-      },
-      {
-        "clusterId": "19cef055c06a4f99",
-        "slug": "39f8018857c2df92",
-        "titulo": "Novo método de criptografia quântica impede cópia de mensagens cifradas",
-        "resumo": "Um novo protocolo de criptografia quântica, baseado no teorema da não-clonagem, torna impossível copiar mensagens cifradas. O método utiliza propriedades da física quântica para garantir que qualquer tentativa de replicar o estado quântico resulte em erro. A técnica foi desenvolvida para aumentar a segurança de comunicações sensíveis.",
-        "porQueImporta": "Ele reforça a proteção de dados contra interceptação e cópia não autorizada.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/03/ciencia-e-espaco/novo-metodo-de-criptografia-quantica-impede-que-mensagens-cifradas-sejam-copiadas/"
-          }
-        ],
-        "updatedAt": "2026-08-04T01:41:09.000Z"
-      },
-      {
-        "clusterId": "93621c44f79c2d51",
-        "slug": "6802d3c1a94d9716",
-        "titulo": "Problemas em Plutão: parte do planeta anão estaria colapsando",
-        "resumo": "Um relatório do Olhar Digital indica que parte de Plutão pode estar passando por um colapso estrutural. O planeta anão, que continua se afastando do Sol até 2114, pode atingir regiões ainda mais frias antes de iniciar o retorno. A situação sugere mudanças significativas na dinâmica interna de Plutão. Ainda não há confirmação de outras fontes sobre o fenômeno.",
-        "porQueImporta": "Entender a evolução de Plutão ajuda a mapear a dinâmica dos corpos menores do Sistema Solar.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/03/ciencia-e-espaco/problemas-em-plutao-parte-do-planeta-anao-estaria-colapsando/"
-          }
-        ],
-        "updatedAt": "2026-08-04T01:22:10.000Z"
-      },
-      {
-        "clusterId": "df6037f8aa24e084",
-        "slug": "0403a0211901df05",
-        "titulo": "Cientistas descobrem cidade de peixes sob gelo da Antártida",
-        "resumo": "Pesquisadores identificaram uma estrutura de peixes em forma de cidade no Mar de Weddell, abaixo do gelo antártico. A descoberta, considerada inédita, pode reforçar a proposta de criar uma área marinha protegida na região. A pesquisa foi publicada no jornal científico Nature Communications. A comunidade científica observa que a área pode ser crucial para a conservação da biodiversidade antártica.",
-        "porQueImporta": "A descoberta pode impulsionar a proteção ambiental na Antártida.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/03/ciencia-e-espaco/cientistas-encontram-cidade-de-peixes-escondida-sob-gelo-da-antartida/"
-          }
-        ],
-        "updatedAt": "2026-08-04T01:00:24.000Z"
-      },
-      {
-        "clusterId": "5af07e5bf51f2814",
-        "slug": "b06dd122f8290457",
-        "titulo": "XBOX vai permitir converter jogos físicos em digitais ainda este mês",
-        "resumo": "O insider conhecido como extas1s vazou um plano do XBOX, compartilhado com desenvolvedoras parceiras da marca, sobre recursos que estão por vir até 2028 nesta segunda-feira (3). O documento foi corroborado por portais de relevância, como o The Verge, e confirma uma funcionalidade que converte jogos em mídia física em títulos digitais ainda para este mês. Conforme revelado em vazamentos anteriores, o plano do XBOX para a conversão de jogos em digitais é que o jogador insira um disco de XBOX One ou XBOX Series X para garantir uma licença digital do título em questão. A cópia segue com o jogador…",
+        "clusterId": "491806036e90dc8c",
+        "slug": "fc2a4f86e4ad3ca0",
+        "titulo": "Óculos da Apple serão \"Apple Watch para o rosto\" em vez de câmera para Instagram",
+        "resumo": "Os futuros óculos inteligentes da Apple podem seguir um caminho bem diferente do adotado por concorrentes como Meta e Snap. Em vez de focar em fotos, vídeos e recursos para redes sociais, a empresa estaria desenvolvendo o acessório com forte ênfase em saúde, bem-estar e monitoramento físico. A informação vem do jornalista Mark Gurman, da Bloomberg, conhecido por antecipar com precisão diversos planos da Apple. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas Segundo ele, a empresa pretende transformar seus futuros óculos em um dispositivo voltado para o público fitness,…",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/games/xbox-vai-permitir-converter-jogos-fisicos-em-digitais-ainda-este-mes/"
+            "url": "https://canaltech.com.br/produtos/oculos-da-apple-serao-apple-watch-para-o-rosto-em-vez-de-camera-para-instagram/"
           }
         ],
-        "updatedAt": "2026-08-04T00:00:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/k2t4eofifsJZJ-qBanrchA9ImU4=/0x0/filters:format(webp):quality(85)/31b65343-7ba6-4d45-8a5f-332e5035c5a5.jpg"
+        "updatedAt": "2026-08-04T10:30:27.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/SN_oqZHbvi8Yz2UZCbgnLgbSTpY=/0x0/filters:format(webp):quality(85)/ebbb317c-5274-4cc0-9816-e3b560c3912e.png"
+      },
+      {
+        "clusterId": "7fc355cff161d380",
+        "slug": "d678282fff877ac9",
+        "titulo": "Newton e Halley: uma amizade que revolucionou a Ciência",
+        "resumo": "Isaac Newton e Edmond Halley, não nos deixaram apenas um legado científico. Mas também uma lição sobre a própria construção da ciência O post Newton e Halley: uma amizade que revolucionou a Ciência apareceu primeiro em Olhar Digital.",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/04/colunistas/newton-e-halley-uma-amizade-que-revolucionou-a-ciencia/"
+          }
+        ],
+        "updatedAt": "2026-08-04T09:53:00.000Z"
+      },
+      {
+        "clusterId": "743aa931399731f8",
+        "slug": "b7056727abee50cb",
+        "titulo": "Confirmado: \"iPhone da Xiaomi\" terá chip mais poderoso da Qualcomm",
+        "resumo": "A Xiaomi confirmou novos detalhes do Redmi K100 Pro Max, que será equipado com o Snapdragon 8 Elite Gen 5, o chipset mais poderoso da Qualcomm para smartphones Android. Além do processador, a fabricante também confirmou especificações da tela e outros recursos de alto desempenho. O lançamento oficial da linha Redmi K100 Pro acontece em 11 de agosto, na China. Em publicações oficiais, a Redmi confirmou que o K100 Pro Max será equipado com o Snapdragon 8 Elite Gen 5, produzido em um processo de fabricação de segunda geração em 3 nanômetros. 📱 Veja as melhores promoções de hoje no WhatsApp do…",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/smartphone/i-phone-da-xiaomi-tem-traseira-que-brilha-e-voce-vai-poder-desenhar-nela-entenda/"
+          }
+        ],
+        "updatedAt": "2026-08-04T09:49:05.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/OzVwUmymEAw_XvnTKbwsCkrK1aY=/0x0/filters:format(webp):quality(85)/a39ffd5d-6071-4ec1-be2f-d19f3dd0851f.jpg"
+      },
+      {
+        "clusterId": "a619931e76dfcbd3",
+        "slug": "449b99c67cb3770a",
+        "titulo": "Mapas indicam onde há mais chances de encontrar água em Marte",
+        "resumo": "O Planetary Science Institute (PSI) publicou dois novos estudos no periódico The Planetary Science Journal com mapas globais do gelo de água no subsolo de O post Mapas indicam onde há mais chances de encontrar água em Marte apareceu primeiro em Olhar Digital.",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/04/ciencia-e-espaco/mapas-indicam-onde-ha-mais-chances-de-encontrar-agua-em-marte/"
+          }
+        ],
+        "updatedAt": "2026-08-04T09:30:00.000Z"
+      },
+      {
+        "clusterId": "5b4885215f722ce3",
+        "slug": "f0e06d55d6dd7909",
+        "titulo": "Brasileira da NASA desenvolve telescópio para buscar vida alienígena",
+        "resumo": "Em entrevista ao Olhar Digital, a astrobióloga Raíssa Estrela detalha o projeto focado em \"Terras 2.0\" e a busca por bioassinaturas no espaço O post Brasileira da NASA desenvolve telescópio para buscar vida alienígena apareceu primeiro em Olhar Digital.",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/04/ciencia-e-espaco/brasileira-da-nasa-desenvolve-telescopio-para-buscar-vida-alienigena/"
+          }
+        ],
+        "updatedAt": "2026-08-04T09:04:00.000Z"
+      },
+      {
+        "clusterId": "5a321796c9f04b23",
+        "slug": "15f5b5a1d24a7810",
+        "titulo": "Por que astronautas da NASA estão treinando debaixo d’água para voltar à Lua?",
+        "resumo": "Piscina de 12 metros de profundidade ajuda a NASA a testar equipamentos e preparar futuras missões do programa Artemis O post Por que astronautas da NASA estão treinando debaixo d’água para voltar à Lua? apareceu primeiro em Olhar Digital.",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/04/ciencia-e-espaco/por-que-astronautas-da-nasa-estao-treinando-debaixo-dagua-para-voltar-a-lua/"
+          }
+        ],
+        "updatedAt": "2026-08-04T08:30:00.000Z"
       }
     ],
     "ciencia": [
       {
-        "clusterId": "cc6e13a4c4febae7",
-        "slug": "a3aae05f4c5ad47b",
-        "titulo": "Foguete Falcon 9 da SpaceX vai atingir a Lua nesta quarta-feira",
-        "resumo": "O Falcon 9, que não completou sua missão, deve colidir com a Lua a cerca de 8.750 km/h por volta das 3h35. A colisão liberará energia equivalente a 11,8 gigajoules e criará uma cratera de 20 a 30 metros de diâmetro, com profundidade estimada de 5 metros. O impacto levantará uma nuvem de detritos de até 20 km de altura, que pode ser visível da Terra.",
-        "porQueImporta": "O evento demonstra os riscos de detritos espaciais e a necessidade de monitoramento de objetos em órbita lunar.",
+        "clusterId": "5589a3a2b2ee1c4f",
+        "slug": "54524ba53d8f86ab",
+        "titulo": "G1 transmite ao vivo telejornais Bom Dia Cidade para diversas regiões",
+        "resumo": "O portal G1 oferece transmissões ao vivo dos telejornais Bom Dia Cidade, atendendo cidades como Piracicaba, Ribeirão, Franca, Campinas, Amapá, Goiás e Espírito Santo. Cada região tem seu horário específico, com programas como JAP1 e JAP2 em Amapá. Os telejornais são disponibilizados diariamente pela EPTV e podem ser assistidos pela internet.",
+        "porQueImporta": "Permite que moradores de diferentes estados acompanhem notícias locais em tempo real.",
         "category": "ciencia",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/ciencia/foguete-da-spacex-deve-atingir-a-lua-a-quase-8-750-km-h-na-quarta-5/"
+            "name": "G1",
+            "url": "https://g1.globo.com/sp/piracicaba-regiao/ao-vivo/bom-dia-cidade-piracicaba-ao-vivo.ghtml"
           },
           {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/coluna/bruno-garattoni/foguete-abandonado-da-spacex-vai-bater-na-lua-nesta-quarta-feira/"
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/artigos/ha-ruido-bom-util/"
           }
         ],
-        "updatedAt": "2026-08-03T22:42:21.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/08/SI_Foguete-Falcon-9-SpaceX_site.jpg?quality=70&strip=info"
+        "updatedAt": "2026-08-04T10:34:06.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg"
       },
       {
         "clusterId": "23c368f679388a65",
@@ -957,22 +888,6 @@
         ],
         "updatedAt": "2026-08-03T22:12:42.000Z",
         "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/03/20260325_ivan-maglio-1024x538.jpg"
-      },
-      {
-        "clusterId": "3688b6c099aa2ff5",
-        "slug": "54524ba53d8f86ab",
-        "titulo": "Há ruído “bom” (útil)?",
-        "resumo": "Por André Fabio Kohn, professor da Escola Politécnica da USP",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/artigos/ha-ruido-bom-util/"
-          }
-        ],
-        "updatedAt": "2026-08-03T22:09:04.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260308_andre-fabio-kohn-destaque-1024x538.jpg"
       },
       {
         "clusterId": "f8a493af8a7f87d2",
@@ -1037,6 +952,22 @@
         ],
         "updatedAt": "2026-08-03T19:47:29.000Z",
         "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260803_gaudencio-torquato-2-1024x538.jpg"
+      },
+      {
+        "clusterId": "e564f0d5d7a00396",
+        "slug": "fd183ace6ce822fb",
+        "titulo": "Tecnologia digital impulsionou a expansão do mercado de apostas",
+        "resumo": "Especialista explica como a tecnologia e as estratégias de comunicação criaram um ambiente favorável à rápida expansão das bets no País",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/radio-usp/tecnologia-digital-impulsionou-a-expansao-do-mercado-de-apostas/"
+          }
+        ],
+        "updatedAt": "2026-08-03T19:28:41.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/04/20260424_bet-1024x538.jpg"
       }
     ],
     "saude": [
@@ -1073,160 +1004,156 @@
     ],
     "esportes": [
       {
-        "clusterId": "9432ff6e9c9c23e3",
-        "slug": "5c02f14019fa25f9",
-        "titulo": "Lutador Allan \"Puro Osso\" Nascimento morre aos 34 anos",
-        "resumo": "Allan \"Puro Osso\" Nascimento, lutador brasileiro de MMA na categoria peso-mosca, faleceu na manhã de segunda-feira (3 de agosto) após supostamente sofrer um ataque cardíaco enquanto dormia. O atleta estava no elenco do UFC desde 2021, com 22 vitórias e 7 derrotas em sua carreira. A notícia foi divulgada pelo UFC Brasil e confirmada por diversas fontes de imprensa.",
-        "porQueImporta": "A morte de um atleta em ascensão do UFC destaca a importância da saúde cardiovascular em esportes de alto desempenho.",
+        "clusterId": "264a53549d9d7411",
+        "slug": "c0adcc56288c0c2e",
+        "titulo": "Copa do Brasil 2026: jogos de volta das oitavas de final",
+        "resumo": "O jogo de volta entre Remo e Santos será realizado na terça-feira, às 21h30, no estádio Mangueirão, em Belém, com transmissão pela Sportv e Premiere. O duelo decide quem avança para as quartas de final, já que o empate na ida deixa a vaga em aberto. O confronto entre Juventude e Atlético-MG ocorrerá na mesma terça, às 19h30, no estádio Alfredo Jaconi, em Caxias do Sul, também com transmissão ao vivo. Em ambos os jogos, um novo empate leva a decisão por pênaltis, e a vitória garante R$ 4 milhões ao clube vencedor.",
+        "porQueImporta": "Esses jogos determinam os oito times que disputarão as quartas de final da Copa do Brasil 2026.",
         "category": "esportes",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/lutas/quem-foi-allan-puro-osso-brasileiro-do-ufc-que-morreu-aos-34-anos/"
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/04/internet-e-redes-sociais/remo-x-santos-onde-assistir-horario-e-escalacoes-do-jogo-da-copa-do-brasil/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/combate/noticia/2026/08/03/quem-foi-allan-puro-osso-lutador-de-mma-que-morreu-aos-34-anos.ghtml"
+            "url": "https://ge.globo.com/pa/futebol/copa-do-brasil/noticia/2026/08/04/remo-x-santos-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/esporte/allan-puro-osso-lutador-brasileiro-do-ufc-morre-aos-34-anos/"
+            "url": "https://exame.com/esporte/remo-x-santos-horario-onde-assistir-e-provaveis-escalacoes/"
           }
         ],
-        "updatedAt": "2026-08-03T22:42:34.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/ijBuEL4YKdxP9T6hruI-7ulhfZM=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2018/m/S/XxoAAeQSy7LeC2po2l3w/allan.jpg"
+        "updatedAt": "2026-08-04T08:10:00.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/EtGmBRoTW6WeQneR6OyaKauHRqc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/s/4/vtVtfIQkKggVnAUQ2BKw/whatsapp-image-2026-05-12-at-11.28.23.jpeg"
       },
       {
-        "clusterId": "220364496905d691",
-        "slug": "7031937b64dffca7",
-        "titulo": "CSA começa venda de ingressos para jogo que vale o acesso; veja os valores",
-        "resumo": "Com gol no último lance, CSA vence o São Luiz e está nas quartas da Série D O CSA iniciou nesta segunda-feira a venda de ingressos para o jogo contra o Uberlândia, marcado para o dia 15 deste mês, às 17h, no Estádio Rei Pelé. Antes, no próximo sábado, dia 8, os azulinos enfrentam os mineiros no Estádio Parque do Sabiá. Quem passar por esse confronto garante vaga na Série C do Brasileiro. Bilheteria Arquibancada baixa: R$ 10 Arquibancada alta: R$ 30 Cadeiras especiais: R$ 150 CSA começa venda de ingressos para jogo contra o Uberlândia Divulgação/CSA Pontos de vendas > Poly Sport (Centro) >…",
+        "clusterId": "8504718f8647147a",
+        "slug": "0d5b981b09fb5f76",
+        "titulo": "Jornal revela quanto Vini Jr. pede para renovar com o Real Madrid; veja valores",
+        "resumo": "Era o gol da Copa! Por vários ângulos, Vini faz jogada brilhante e acerta a trave O impasse entre Vinicius Júnior e o Real Madrid ganhou novos detalhes nesta terça-feira. Segundo o jornal espanhol AS, o atacante brasileiro diminuiu sua pedida salarial durante as negociações pela renovação de contrato, mas ainda assim não houve acordo. A publicação afirma que as conversas chegaram muito perto de um desfecho positivo no ano passado, antes de travarem na reta final. De acordo com o diário, a última reunião presencial entre representantes do jogador e dirigentes do Real Madrid aconteceu logo após…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/serie-d-zeroum-uberlandia-mg-x-csa-al-se-enfrentam-apos-46-anos"
+            "url": "https://www.metropoles.com/esportes/rodri-nega-o-barcelona-e-deixa-claro-so-sai-do-city-pelo-real-madrid"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/al/futebol/times/csa/noticia/2026/08/03/csa-comeca-venda-de-ingressos-para-jogo-que-vale-o-acesso-veja-os-valores.ghtml"
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/times/real-madrid/noticia/2026/08/04/bernardo-silva-revela-bastidores-da-ida-para-o-real-madrid-nao-pensei-duas-vezes.ghtml"
           }
         ],
-        "updatedAt": "2026-08-04T05:00:53.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/07/uberlandia-mg-serra-branca-serie-d.jpg"
+        "updatedAt": "2026-08-04T10:25:43.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/07/rodri-bola-de-ouro-copa-do-mundo.jpg"
       },
       {
-        "clusterId": "1fa3dc90c0b9d550",
-        "slug": "05614d895aae611e",
-        "titulo": "Copa do Brasil: onde assistir ao vivo aos jogos de volta das oitavas de final",
-        "resumo": "Internacional 2 x 0 Corinthians | Melhores momentos | Oitavas | Copa do Brasil 2026 A Copa do Brasil 2026 vai definir os oito times classificados às quartas de final neste meio de semana. Os jogos de volta das oitavas serão disputados entre terça e quinta-feira. Quatro confrontos da ida terminaram empatados em 0 a 0: Vasco x Fluminense, Atlético-MG x Juventude, Santos x Remo e Chapecoense x Cruzeiro. Além disso, Mirassol e Grêmio ficaram no 1 a 1. Portanto, nenhum desses times obteve vantagem para a decisão. + Confira a tabela da Copa do Brasil + Veja valores da premiação por cada fase do…",
+        "clusterId": "72c4fb0aaf51a00f",
+        "slug": "a0a0bf091da81b4f",
+        "titulo": "Mateo Sanabria perde espaço no Bahia e tem apenas cinco minutos em campo no segundo semestre",
+        "resumo": "Aos 27 min do 2º tempo - gol de dentro da área de Mateo Sanabria do Bahia contra o Grêmio Rogério Ceni planejou um novo jeito de jogar para o Bahia e passou a oferecer mais minutos para base no segundo semestre, uma combinação de mudanças que deixou Mateo Sanabria com menos espaço nos jogos do Tricolor. Desde o retorno da Copa do Mundo o argentino teve apenas cinco minutos em campo, na reta final do empate com o Corinthians. Siga o ge Bahia nos Canais do WhatsApp Veja quem chega e quem sai do Bahia em 2026 Sanabria durante treino deste sábado Rafael Rodrigues/EC Bahia Contratado em agosto do…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/copa-do-brasil-definira-dois-classificados-para-as-quartas-nesta-terca"
+            "name": "G1",
+            "url": "https://g1.globo.com/ba/bahia/edicao/2026/08/04/videos-do-g1-e-tv-bahia-terca-feira-4-de-agosto-de-2026.ghtml"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/pr/futebol/copa-do-brasil/noticia/2026/08/04/copa-do-brasil-onde-assistir-ao-vivo-aos-jogos-de-volta-das-oitavas-de-final.ghtml"
+            "url": "https://ge.globo.com/ba/futebol/times/bahia/noticia/2026/08/04/mateo-sanabria-perde-espaco-no-bahia-e-tem-apenas-cinco-minutos-em-campo-no-segundo-semestre.ghtml"
           }
         ],
-        "updatedAt": "2026-08-04T05:00:23.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/08/GettyImages-1434873773.jpg"
+        "updatedAt": "2026-08-04T10:14:15.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/XK-ePvdDbVjiUdah2Ge9CVThU88=/s01.video.glbimg.com/deo/vi/05/72/14837205"
       },
       {
-        "clusterId": "6a8a153cf450405f",
-        "slug": "dcecb73f79b6f1ca",
-        "titulo": "Odair elogia repertório do Athletico contra o Vitória e projeta jogo de volta: \"Manter a intensidade\"",
-        "resumo": "Athletico-PR 2 x 0 Vitória | Melhores momentos | Ida das oitavas | Copa do Brasil 2026 O técnico Odair Hellmann elogiou as movimentações do Athletico em campo no triunfo sobre o Vitória, por 2 a 0, pelo jogo de ida das oitavas de final da Copa do Brasil. O treinador explicou que o Furacão conseguiu colocar em prática jogadas que vêm sendo treinadas pelo time. Ele ainda falou sobre a vantagem no placar para o jogo de volta, na quinta-feira. 🗞️ Mais notícias do Athletico ✅ Clique aqui e siga o canal ge Athletico no WhatsApp O treinador analisou como o Athletico precisou mudar a forma de jogar…",
+        "clusterId": "eddfa03ef61288e8",
+        "slug": "5694a5ecebaa89bc",
+        "titulo": "Santos aguarda Neymar em Belém para decidir a escalação de jogo decisivo contra o Remo",
+        "resumo": "Voz do Setorista: Santos chega a Belém sem Neymar, que se junta ao time na terça Neymar embarca para Belém por volta das 9h desta terça-feira, chega no início da tarde e somente depois da preleção de Cuca saberá se começa como titular a partida contra o Remo, no Mangueirão. Os times decidem, a partir das 21h30 (de Brasília), quem avança para as quartas de final da Copa do Brasil depois de empatarem sem gols na Vila Belmiro. + Siga o canal ge Santos no WhatsApp! Neymar viaja em seu avião particular na companha de dirigentes do Santos, entre eles o presidente Marcelo Teixeira. O principal ponto…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/pr/futebol/copa-do-brasil/jogo/03-08-2026/atletico-pr-vitoria.ghtml"
+            "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/08/04/santos-aguarda-neymar-em-belem-para-decidir-a-escalacao-de-jogo-decisivo-contra-o-remo.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/cuca-esboca-santos-sem-neymar-contra-o-remo-veja-provavel-escalacao/"
+          }
+        ],
+        "updatedAt": "2026-08-04T09:00:20.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/e3jwOUNoNt1EbrKGE6znxRRBCvI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/7/G/AEvUAkSTeDosNp3qqEQA/55265890094-b343807154-3k.jpg"
+      },
+      {
+        "clusterId": "70cddd9a89e242ec",
+        "slug": "e3b723e3ad28ab89",
+        "titulo": "Análise: Vitória insiste em fazer feio fora de casa e tem noite de falhas na Copa do Brasil contra o Athletico",
+        "resumo": "O Vitória não tem se encontrado como visitante na temporada, algo que pode custar caro em torneios de mata-mata como a Copa do Brasil. A partida de ida das oitavas de final disputada contra o Athletico-PR, na última segunda-feira, é um bom exemplo, uma vez que o Rubro-Negro baiano perdeu por 2 a 0, em noite de muitas falhas, e agora só continua vivo se fizer jogo perfeito no Barradão [assista aos melhores momentos do duelo de ida no vídeo acima]. Siga o ge Vitória nos Canais do WhatsApp Dudu - Athletico x Vitória - Oitavas da Copa do Brasil - Arena da Baixada Gabriel Machado/AGIF Sistema não…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/ba/futebol/times/vitoria/noticia/2026/08/04/analise-vitoria-insiste-em-fazer-feio-fora-de-casa-e-tem-noite-de-falhas-na-copa-do-brasil-contra-o-athletico.ghtml"
           },
           {
             "name": "CNN Brasil",
             "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/athletico-pr-vence-vitoria-em-casa-e-abre-boa-vantagem-na-copa-do-brasil/"
           }
         ],
-        "updatedAt": "2026-08-04T04:45:28.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/JEtA1GA-VuPRO5HT0TBl2dfw2C8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/T/B/MZiwcERY6DA4TyBzLmMw/agif26080321424223.jpg"
+        "updatedAt": "2026-08-04T07:00:09.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/_AAiGDkYE4ws_wXAdS5qqBRLbSE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/t/V/zTb3ERTeqPyCB4UNFXng/agif26080322461999.jpg"
       },
       {
-        "clusterId": "df6d61a97d452552",
-        "slug": "5694a5ecebaa89bc",
-        "titulo": "Neymar diz que presença em leilão será menor por causa de jogo do Santos: \"Vou para casa descansar\"",
-        "resumo": "Voz do Setorista: Santos chega a Belém sem Neymar, que se junta ao time na terça Neymar terá uma participação menor no leilão beneficente do seu instituto, na noite desta segunda-feira, em São Paulo. O motivo? O jogo do Santos diante do Remo, nesta terça-feira, às 21h30 (de Brasília), em Belém, pelas oitavas de final da Copa do Brasil. 🔍 adicione o ge nas suas fontes favoritas do Google O santista, diferente das cinco edições anteriores, não permanecerá todo evento, que arrecada fundos para o projeto social do craque na cidade de Praia Grande (SP). – Não vou poder ficar o leilão todo, porque…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/cuca-esboca-santos-sem-neymar-contra-o-remo-veja-provavel-escalacao/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/08/03/neymar-diz-que-presenca-em-leilao-sera-menor-por-causa-de-jogo-do-santos-vou-para-casa-descansar.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-04T02:13:05.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/yutSEeltQyeDPBhkTJUTQji4dF0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/O/q/1BkE7BRxW5FAmWJcYGuQ/agif26080120255535.jpg"
-      },
-      {
-        "clusterId": "d0d67c1e10792774",
-        "slug": "6332ecccbbf4005f",
-        "titulo": "Vozinha assina contrato de seis meses com Colo-Colo, do Chile",
-        "resumo": "Vozinha chega ao Chile para se apresentar ao Colo-Colo Depois de quase duas semanas de idas e vindas, o goleiro Vozinha já é oficialmente jogador do Colo-Colo. Destaque de Cabo Verde na Copa do Mundo, o veterano jogador de 40 anos assinou nesta segunda-feira um contrato de seis meses com a equipe chilena, com possibilidade de extensão por um ano, segundo a imprensa do país. O goleiro havia sido anunciado pelo clube no dia 24, mas demorou a viajar e chegou a negociar com o Berkane, do Marrocos. No fim, ele decidiu manter o acordo com o Colo-Colo e chegou ao país sul-americano neste domingo. Ao…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/vozinha-assina-contrato-com-o-colo-colo-facamos-magia-juntos/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/08/03/vozinha-assina-contrato-de-seis-meses-com-colo-colo-do-chile.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-04T01:34:37.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/Ibmo_WzowwzQiwCNMzE13ee2hRc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/y/a/9mVbYvQgKCqZgfWZjelg/ho09cwcxgaavdj6.jpeg"
-      },
-      {
-        "clusterId": "d453a916fa2ee7e5",
-        "slug": "c0adcc56288c0c2e",
-        "titulo": "Escalação do Atlético-MG: meia retorna para duelo decisivo da Copa do Brasil",
-        "resumo": "Henrique Fernandes analisa o Atlético O Atlético-MG viajou com uma novidade para enfrentar o Juventude na terça-feira, às 19h30, no estádio Alfredo Jaconi, pelo duelo de volta das oitavas de final da Copa do Brasil. A equipe já está em Caxias depois de ter empatado sem gols no confronto de ida, na Arena MRV. + 🔍 Adicione o ge nas suas fontes favoritas do Google A grande novidade é o meia Cissé. Ele ficou fora do primeiro jogo por estar suspenso. Com o retorno, ele cria uma dúvida no setor. Caso comece, Pérez pode perder a vaga. Outra troca que deve ocorrer é a saída de Dudu. O atacante foi a…",
+        "clusterId": "ef7edbb0b462e48c",
+        "slug": "e24a23a004a6513a",
+        "titulo": "Márcio Zanardi não repetiu escalação na Ponte Preta; veja balanço após oito jogos",
+        "resumo": "Em quase dois meses no comando da Ponte Preta, Márcio Zanardi segue sem conseguir repetir uma escalação sequer. Contratado para tentar mudar o rumo da equipe durante a Série B, o treinador utilizou oito formações diferentes nas oito partidas disputadas até aqui, reflexo de um cenário marcado por mudanças constantes no elenco. + ge Ponte Preta tem canal no WhatsApp; clique aqui para seguir! + Veja mais notícias da Macaca no ge O retrospecto também evidencia as dificuldades encontradas desde a chegada ao Moisés Lucarelli: são sete derrotas e um empate, sem vitórias. Márcio Zanardi em Ponte…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/rs/futebol/copa-do-brasil/noticia/2026/08/04/juventude-x-atletico-mg-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+            "url": "https://ge.globo.com/sp/campinas-e-regiao/futebol/times/ponte-preta/noticia/2026/08/04/marcio-zanardi-nao-repetiu-escalacao-na-ponte-preta-veja-balanco-apos-oito-jogos.ghtml"
           }
         ],
-        "updatedAt": "2026-08-04T06:00:19.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/Mn7-nToAifoBUKMy4YsZoCtjBH0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/T/g/AANfS7SnSgFc9W0K4OKA/juventude.jpg"
+        "updatedAt": "2026-08-04T10:30:12.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/i8J_bQzs9Bv7fib2BdD64NiyOaw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/B/P/bl5uy7Sgm4bxMsEbalfQ/55381439272-26b321010e-k.jpg"
       },
       {
-        "clusterId": "ba14cac0d13df949",
-        "slug": "a2d9680e63d13e19",
-        "titulo": "Governo da França suspendeu antidopings na seleção antes da Copa de 98, admite ex-ministra",
-        "resumo": "Seleção Sportv: Zidane é o novo técnico da França Um documentário sobre Zinédine Zidane trouxe uma revelação polêmica sobre a preparação da França para a Copa do Mundo de 1998. Marie-George Buffet, ministra dos esportes do país na época, admitiu que o governo determinou a suspensão de testes antidoping surpresa na seleção às vésperas do Mundial. Tudo começou com as declarações de Alain Garnier, médico que era enviado pelo ministério dos esportes para realizar testes na seleção. Segundo ele, a ordem para suspender os exames chegou meses antes do Mundial. Rádio revela salário de Zidane como…",
+        "clusterId": "ecebec49a8a95669",
+        "slug": "020abc9d4fdb7a34",
+        "titulo": "Goleiro que eliminou o Brasil na Copa assina com o RB Leipzig",
+        "resumo": "Paredão! Relembre as grandes defesas de Nyland, goleiro da Noruega, contra o Brasil Um dos destaques da Noruega na Copa do Mundo de 2026, Orjan Nyland está de volta ao RB Leipzig. O clube alemão anunciou nesta terça-feira a contratação do goleiro de 35 anos, que chega sem custos após o fim de seu contrato com o Sevilla e assinou vínculo válido até junho de 2028. + ✅Clique aqui para seguir o canal ge Futebol Internacional no WhatsApp + Jornal revela quanto Vini Jr. pede para renovar com o Real Madrid; veja valores Nyland foi um dos protagonistas da vitória norueguesa por 2 a 1 sobre a seleção…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/08/04/governo-da-franca-suspendeu-antidopings-na-selecao-as-vesperas-da-copa-de-98-admite-ex-ministra.ghtml"
+            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/08/04/goleiro-que-eliminou-o-brasil-na-copa-assina-com-o-rb-leipzig.ghtml"
           }
         ],
-        "updatedAt": "2026-08-04T05:25:01.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/oi70HPOeFGt3Izk6MwuL6Td7yb0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/a/2/aYPJDFR1Ot3m0k6XKK9Q/gettyimages-989836862.jpg"
+        "updatedAt": "2026-08-04T10:29:28.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/cOh6KoPtDA5AwotVMquXI7ZL6u0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/1/b/mTBY4WTr29hw4udPr7zQ/f4dd47eb-fdb6-496e-b127-eb425f88bced.jpg"
+      },
+      {
+        "clusterId": "bd9b7b7cf3042a76",
+        "slug": "4a2d51a0fcb1e9ec",
+        "titulo": "Ajax anuncia Ter Stegen por empréstimo junto ao Barcelona",
+        "resumo": "Jogo do Ajax é abandonado por causa de \"tempestade\" de fogos de artifício; veja O Ajax anunciou nesta terça-feira a contratação de Marc-André ter Stegen. O goleiro de 34 anos defenderá o clube holandês por empréstimo até o fim da temporada 2026/27, em acordo com o Barcelona. A transferência busca de retomar a sequência de jogos do alemão após um período de sem muito espaço no futebol espanhol. Ter Stegen é o novo jogador do Ajax Reprodução/Ajax + Uefa mantém pressão por saída de Infantino da presidência da Fifa Ter Stegen chega a Amsterdã depois de mais de dez anos defendendo o Barcelona.…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/08/04/ajax-anuncia-ter-stegen-por-emprestimo-junto-ao-barcelona.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-04T10:24:29.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/ka6Clh087stVW24SMTZG65RO8K0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/H/6/QDusyaTwqpqccOgIfinQ/contract-ter-stegen-900-7.jpg"
       }
     ],
     "entretenimento": [
@@ -1247,8 +1174,56 @@
             "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/08/03/por-que-ariana-grande-vai-pausar-sua-carreira-e-evitar-aparicoes-publicas.ghtml"
           }
         ],
-        "updatedAt": "2026-08-03T20:57:37.000Z",
+        "updatedAt": "2026-08-04T10:08:30.000Z",
         "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7080/live/0395c5a0-8ee8-11f1-b2ab-0dd01740f9f6.jpg"
+      },
+      {
+        "clusterId": "dfc6aee37603cfb2",
+        "slug": "6a5cf07fca725b28",
+        "titulo": "Antes da pausa, Ariana Grande falou sobre dor da fama em disco delicado e contido",
+        "resumo": "Antes de anunciar pausa, Ariana Grande cantou sobre relação com holofotes no disco ‘Petal’ Título: \"Petal\" Artista: Ariana Grande Nota: 7/10 Dias antes de anunciar uma pausa na carreira, Ariana Grande deixou pistas de que estava revendo sua relação com os holofotes. No disco \"Petal\", lançado nesta sexta (31), ela se debruça sobre sua relação com a fama, dor e amor — romântico, sim, mas principalmente o amor dos fãs. \"Todas as minhas histórias favoritas / Terminam em algum tipo de catástrofe / Mas eu não preciso que alguém me salve / Porque esta música e eu nunca morreremos\", entoa a cantora…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/08/04/antes-de-pausa-ariana-grande-refletiu-sobre-fama-em-disco-delicado-mas-pouco-marcante.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-04T04:00:15.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/4Xbp9n_EJuMUr2Z52UXu3ZhAtwM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/o/EuA1FyQAyAwPxXYyBpaw/arianagrande1.jpg"
+      },
+      {
+        "clusterId": "efb5fcf897366576",
+        "slug": "476799dabbf24087",
+        "titulo": "'Eu gelei', diz Paolla Oliveira sobre reação após receber vídeo pornográfico falso com seu rosto",
+        "resumo": "Guerra ao deepfake: Paolla Oliveira expõe a violência que atinge mulheres e meninas Acostumada a lidar com montagens feitas com inteligência artificial usando sua imagem, Paolla Oliveira contou que viveu um dos momentos mais difíceis quando recebeu, durante uma gravação, um vídeo pornográfico criado com deepfake usando seu rosto. A atriz relatou a sensação de impotência diante da rapidez com que esse tipo de conteúdo circula na internet. \"Eu recebi um vídeo pornográfico também, bem pesado e com o meu rosto\", afirmou. Segundo Paolla, o impacto foi imediato, mesmo sabendo que as imagens eram…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/fantastico/noticia/2026/08/04/paolla-oliveira-relata-choque-apos-receber-video-pornografico-falso-com-seu-rosto-minha-perna-amoleceu.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-04T03:00:53.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/_uYHLb99qhqoIN9PEfrDCVO0v-g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/e/Iz3DO8TEiJqs88SAaoGQ/paolla-oliveira.jpg"
+      },
+      {
+        "clusterId": "0095783e061bc176",
+        "slug": "8d798b916791605a",
+        "titulo": "Lucas Bezerra faz feats com Zé Ibarra, Rita Benneditto e Geraldo Azevedo em álbum dedicado às músicas de Totonho",
+        "resumo": "Lucas Bezerra lança na sexta-feira, 7 de agosto, o primeiro álbum, 'Eu mandei meu amor pro espaço', dedicado ao cancioneiro do compositor paraibano Totonho Luciano Pedro Jr / Divulgação ♫ NOTÍCIA ♬ Nascido em 1964 em Monteiro (PB), no Cariri paraibano, o cantor e compositor Carlos Antonio Bezerra da Silva já tinha banda desde os nove anos, Os Renegados. Ao migrar para João Pessoa (PB) em 1982, aos 18, o artista atuou como agitador cultural, aglutinando compositores paraibanos. Mais parte, em 1988, Carlos Antonio passou a residir na cidade do Rio de Janeiro (RJ). Mas foi somente em 2001, ano…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/03/lucas-bezerra-faz-feats-com-ze-ibarra-rita-benneditto-e-geraldo-azevedo-em-album-dedicado-as-musicas-de-totonho.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-04T00:52:13.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/WgAcMbReW_zDwsxP7JleXto2SSo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/Y/SEyZPyR8qXE9bAAmJ1WQ/lucasbezerra.jpeg"
       },
       {
         "clusterId": "255683115015d2a1",
@@ -1299,22 +1274,6 @@
         "imageUrl": "https://s2-g1.glbimg.com/KhIyTyYoWW6wQ1zTmtRFmDJ4tOA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/B/BzqAGST4mqKdmQHO5C2Q/anittashow1.jpg"
       },
       {
-        "clusterId": "1ead3f1810a18c3b",
-        "slug": "d550f6863db62862",
-        "titulo": "Lollapalooza 2027: Venda de ingressos do Lolla Pass começa nesta semana",
-        "resumo": "Público no segundo dia de Lollapalooza 2026 Tomzé Fonseca/ Agnews A equipe do Lollapalooza Brasil anunciou os valores do Lolla Pass, ingresso que dá acesso aos três dias da próxima edição do evento, que acontece nos dias 19, 20 e 21 de março de 2026, no Autódromo de Interlagos, em São Paulo. Ainda não foram divulgados nem o line-up, nem o preço do ingresso diário — válido para um único dia e mais barato que o LollaPass. A partir do meio-dia desta terça-feira (4), o público poderá comprar o Lolla Pass por ingressos que custam a partir de R$ 969,00. A venda será feita apenas pelo site da…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/08/03/lollapalooza-2027-venda-de-ingressos-do-lolla-pass-comeca-nesta-semana.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-03T07:01:21.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/Rk8DaPc7k8usx2mwqv03GTWJ3_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/e/SrQeh7QUSihgUotjsLBg/publico-190709804-3.jpg"
-      },
-      {
         "clusterId": "7cea99696ef65fba",
         "slug": "8873fb29f081e1f6",
         "titulo": "Clipagem é o novo jabá? Saiba como influenciadores ganham para viralizar músicas sem você saber",
@@ -1329,38 +1288,6 @@
         ],
         "updatedAt": "2026-08-03T07:00:47.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/V6k_VGCiufzGCDNi61RBO44AqNg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/F/VATz1DQzuz21GcBk7X9Q/20260731-infografico-influenciadores.jpg"
-      },
-      {
-        "clusterId": "061448c046717c22",
-        "slug": "e6811d3fe1ed9dbc",
-        "titulo": "Simone canta Ana Frango Elétrico, Dona Onete, Erasmo Carlos, Marina Lima e Rita Lee no show 'Que mulher é essa?'",
-        "resumo": "Simone canta 22 músicas na estreia nacional do show 'Que mulher é essa?' em São Paulo (SP) na noite de ontem, sábado, 1º de agosto Teca Lamboglia / Divulgação ♫ NOTÍCIA ♬ Música composta por Dona Onete e gravada pela artista paraense há dez anos no álbum “Banzeiro” (2016), “Quando eu te conheci” foi uma das surpresas do roteiro de “Que mulher é essa?”, show estreado por Simone na noite de ontem, sábado, 1º de agosto, no Tokio Marine Hall, casa da cidade de São Paulo (SP). Diretora musical do show orquestrado por Simone sob direção artística do estilista Ronaldo Fraga, Ana Frango Elétrico…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/02/simone-canta-ana-frango-eletrico-dona-onete-erasmo-carlos-marina-lima-e-rita-lee-no-show-que-mulher-e-essa.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-03T01:57:09.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/3D2dBdmCsfYTjFv7N8hfzVRsBik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/T/8JmyJhQaCpCmA38AcFSA/foto-teca-lamboglia-11-.jpg"
-      },
-      {
-        "clusterId": "7be1b9cebcfd97c8",
-        "slug": "26e389fe13a58883",
-        "titulo": "Rosalía pede desculpas na Argentina após polêmica na Copa",
-        "resumo": "Rosalía se apresenta no Lollapalooza 2023 em São Paulo Fábio Tito/g1 A cantora espanhola Rosalía, em turnê em Buenos Aires, pediu desculpas aos fãs argentinos após as críticas que recebeu por uma publicação nas redes sociais sobre a derrota da Argentina na final da Copa do Mundo. Com lágrimas, Rosalía citou no sábado a polêmica provocada por republicar um vídeo no TikTok que celebrava a vitória da Espanha e insinuava uma crítica à rival Argentina. \"Mas, minha nossa, que confusão outro dia. Eu estava 'scrollando', sem prestar muita atenção. E rapidamente dei um 'repost' ali (...) Nunca foi…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/08/02/rosalia-pede-desculpas-na-argentina-apos-polemica-na-copa.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-02T17:00:57.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/Vk4UFMblhssXr8Koe8bbqvYmuYg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/N/6/k1eQMyQOCpDWppTcZWjg/rosalia-lollapalooza-f99a7041-fabio-tito.jpg"
       }
     ]
   }
