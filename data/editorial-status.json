@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-08-04T14:12:44.088Z",
-  "editionDate": "2026-08-04",
-  "hourUtc": 14,
-  "outcome": "generated",
-  "reason": "\"Neutralidade partidária, investigação federal e tensões no transporte marcam a agenda brasileira\" (3 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok (entidades fora do material toleradas: estados, unidos)"
-  ]
+  "ranAt": "2026-08-05T06:28:19.161Z",
+  "editionDate": "2026-08-05",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "attempts": []
 }
