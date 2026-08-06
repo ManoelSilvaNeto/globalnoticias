@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-08-05T14:09:43.825Z",
-  "editionDate": "2026-08-05",
-  "hourUtc": 14,
-  "outcome": "generated",
-  "reason": "\"Tensão diplomática, greves e movimentações esportivas marcam a edição de hoje\" (3 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok"
-  ]
+  "ranAt": "2026-08-06T06:31:09.690Z",
+  "editionDate": "2026-08-06",
+  "hourUtc": 6,
+  "outcome": "skipped",
+  "reason": "fora da janela (6h < 11h UTC)",
+  "attempts": []
 }
