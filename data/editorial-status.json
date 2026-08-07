@@ -1,8 +1,11 @@
 {
-  "ranAt": "2026-08-07T08:59:21.484Z",
+  "ranAt": "2026-08-07T13:04:02.905Z",
   "editionDate": "2026-08-07",
-  "hourUtc": 8,
-  "outcome": "skipped",
-  "reason": "fora da janela (8h < 11h UTC)",
-  "attempts": []
+  "hourUtc": 13,
+  "outcome": "generated",
+  "reason": "\"Brasil enfrenta clima extremo, ajustes econômicos e debates sobre regulação digital\" (4 parágrafos)",
+  "attempts": [
+    "erro — sem cota (429)",
+    "ok (entidades fora do material toleradas: estados, unidos)"
+  ]
 }
