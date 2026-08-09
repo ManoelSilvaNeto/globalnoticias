@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-08-08T12:49:04.986Z",
-  "editionDate": "2026-08-08",
-  "hourUtc": 12,
-  "outcome": "generated",
-  "reason": "\"Campanhas eleitorais, tensões internacionais e disputas esportivas marcam a edição\" (3 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok"
-  ]
+  "ranAt": "2026-08-09T05:04:51.258Z",
+  "editionDate": "2026-08-09",
+  "hourUtc": 5,
+  "outcome": "skipped",
+  "reason": "fora da janela (5h < 11h UTC)",
+  "attempts": []
 }
