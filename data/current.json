@@ -1,9 +1,49 @@
 {
   "date": "2026-08-10",
-  "generatedAt": "2026-08-10T20:42:13.478Z",
+  "generatedAt": "2026-08-11T01:46:37.185Z",
   "home": [
     {
-      "clusterId": "9810cacd6a910a12",
+      "clusterId": "f509028c8c39ef91",
+      "slug": "825e135b5dd1a926",
+      "titulo": "Terremoto de magnitude 7,4 atinge o oeste da Colômbia",
+      "resumo": "Um terremoto de magnitude 7,4 ocorreu no oeste da Colômbia, a 160 km de Bogotá e cerca de 110 km de Medellín, segundo a USGS. O tremor foi sentido em Bogotá e em outras cidades, como Manizales, provocando sirenes de alerta. A sismologia internacional registrou a ocorrência em 10 de agosto de 2026.",
+      "porQueImporta": "O evento demonstra a vulnerabilidade sísmica da região e a necessidade de medidas de prevenção e resposta.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/numero-de-mortos-na-colombia-sobe-para-132-apos-terremoto/"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/crmr1nzz84jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/numero-de-mortos-em-terremoto-sobe-para-132-diz-associacao-na-colombia/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/numero-mortos-colombia-132-feridos-500"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/ao-vivo/ao-vivo-terremoto-colombia-destruicao.ghtml"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/sc/futebol/times/chapecoense/noticia/2026/08/10/chapecoense-se-solidariza-com-terremoto-na-colombia.ghtml"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/espriella-declara-situacao-de-desastre-apos-terremoto-na-colombia/"
+        }
+      ],
+      "updatedAt": "2026-08-11T01:33:01.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2024/08/GettyImages-2289302865-e1786395766111.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "61d883c1e4a61fc3",
       "slug": "54247883f5b9b336",
       "titulo": "EUA aceitam pedido de consultas do Brasil sobre tarifas na OMC",
       "resumo": "O governo dos Estados Unidos respondeu ao pedido de consultas apresentado pelo Brasil à Organização Mundial do Comércio, confirmando estar à disposição para discutir o chamado \"tarifaço\". O Brasil abriu processo contra tarifas americanas que somam 37,5% sobre produtos chineses, e a China pediu participar das consultas. Os EUA indicaram que podem marcar uma data de reunião em momento conveniente.",
@@ -11,44 +51,152 @@
       "category": "economia",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/economia/eua-dizem-estar-a-disposicao-para-discutir-tarifaco-em-resposta-ao-brasil-na-omc/"
+          "name": "G1",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/10/eua-aceitam-discutir-na-omc-o-tarifaco-imposto-ao-brasil.ghtml"
         },
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/tarifaco-china-pede-para-entrar-em-acao-do-brasil-contra-eua-na-omc"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/economia/china-pede-para-ingressar-em-consultas-do-brasil-a-omc-por-tarifas-dos-eua/"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/china-quer-participar-de-consultas-do-brasil-contra-tarifas-dos-eua-na-omc/"
         },
         {
           "name": "Exame",
           "url": "https://exame.com/mundo/tarifaco-eua-respondem-ao-brasil-na-omc-e-dizem-estar-a-disposicao-para-negociar/"
+        }
+      ],
+      "updatedAt": "2026-08-11T01:33:47.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/UPWsNQdrwGDXdgk5MqXEcTGFf6o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/e/rQy9b2Tzme9i0HniBA9g/globo-canal-4-20260810-2000-frame-97648.jpeg"
+    },
+    {
+      "clusterId": "3ed202875b063396",
+      "slug": "c529db545a92f033",
+      "titulo": "Trump assina ordem executiva que reduz vacinas recomendadas para crianças",
+      "resumo": "O presidente dos Estados Unidos, Donald Trump, assinou uma ordem executiva que limita o calendário infantil a 11 vacinas e propõe separar a vacina combinada MMR em três vacinas distintas, com consultas médicas separadas. A medida também prevê ampliar o intervalo entre as doses de algumas vacinas. A Academia Americana de Pediatria considerou a ordem perigosa, pois pode reduzir a cobertura vacinal e aumentar a vulnerabilidade a doenças.",
+      "porQueImporta": "A mudança pode comprometer a imunização infantil e a saúde pública nos EUA.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cy741ygzxndo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/trump-assina-decreto-para-diminuir-lista-de-vacinas-infantis/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/08/10/eua-respondem-ao-brasil-na-omc-e-dizem-que-estao-a-disposicao-para-discutir-tarifaco.ghtml"
+          "url": "https://g1.globo.com/saude/noticia/2026/08/10/trump-assina-ordem-que-reduz-vacinas-recomendadas-para-criancas.ghtml"
         }
       ],
-      "updatedAt": "2026-08-10T20:39:30.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-855125142.jpg?quality=70&strip=info"
+      "updatedAt": "2026-08-11T01:29:47.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aabb/live/99e3e780-9523-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "clusterId": "4ee7aa9b227ca4c1",
+      "clusterId": "517a2710c81743f6",
+      "slug": "7c76ead3553ccf06",
+      "titulo": "Empresas brasileiras registram quedas significativas nos lucros",
+      "resumo": "A JSL (JSLG3) reportou lucro líquido ajustado de R$ 30,2 milhões no segundo trimestre, representando queda anual de 16%, embora haja alta trimestral. A São Martinho registrou lucro líquido de R$ 38,1 milhões no primeiro trimestre da safra 2026/27, com redução de 39% em relação ao período anterior. A Natura apresentou queda de 82% no lucro líquido do segundo trimestre de 2026, apesar de margem EBITDA superar expectativas.",
+      "porQueImporta": "Esses resultados indicam pressões financeiras e mudanças de desempenho em setores distintos da economia brasileira.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/jsl-jslg3-resultados-segundo-trimestre-2026/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/agro/sao-martinho-tem-queda-de-39-no-lucro-no-inicio-da-safra-2026-27/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/invest/mercados/natura-registra-queda-de-82-no-lucro-liquido-do-segundo-trimestre-de-2026/"
+        }
+      ],
+      "updatedAt": "2026-08-11T01:15:27.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/03/5YHWE9dM_552764.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "330958565578ca81",
+      "slug": "b6a38354f025c8b8",
+      "titulo": "Kelly Slater vence Gabriel Medina e Ítalo Ferreira retoma liderança da WSL no Taiti",
+      "resumo": "Na etapa de Teahupoo, Kelly Slater derrotou Gabriel Medina em um duelo de 14 títulos mundiais, avançando para as oitavas de final. Ítalo Ferreira venceu a estreia contra o sul-africano e eliminou Leonardo Fioravanti, retornando ao topo do ranking da WSL apesar de dores nas costas. A competição contou com a presença de surfistas brasileiros em destaque, incluindo Yago Dora e outros participantes.",
+      "porQueImporta": "O resultado reforça a posição de Slater como um dos maiores surfistas da história e destaca a ascensão de Ferreira como líder mundial, impactando a classificação e a dinâmica da World Surf League.",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/surfe/wsl/ao-vivo/wsl-teahupoo-2026-assista-a-etapa-do-taiti-ao-vivo.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/wsl-kelly-slater-tira-maiores-notas-da-etapa-e-elimina-medina-em-taiti/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/esporte/italo-ferreira-domina-no-taiti-e-retoma-lideranca-isolada-do-ranking-da-wsl/"
+        }
+      ],
+      "updatedAt": "2026-08-11T01:15:26.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/TgGFiqEv699hCCMyBMgvmD7HTpw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/2/p/b7yDCYR2GUWJTbAedU3Q/italo-ferreira-26tahiti-han07022-hannah-anderson.jpg"
+    },
+    {
+      "clusterId": "7464559d5897a01c",
+      "slug": "5c29563564d3f433",
+      "titulo": "Debate entre Haddad e Tarcísio em São Paulo destaca diferenças de estratégia",
+      "resumo": "No primeiro debate do 1º turno, Fernando Haddad e Tarcísio de Freitas confrontaram dados e narrativas sobre os governos estadual e federal, sem ataques pessoais. Haddad enfatizou a necessidade de mudar o projeto atual, enquanto Tarcísio defendeu a continuidade da gestão. O debate abordou temas como crime organizado, tarifas e privatizações.",
+      "porQueImporta": "O encontro sinaliza a polarização entre os candidatos e a importância de suas propostas para o futuro de São Paulo.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/a-cnn-haddad-diz-que-tarcisio-recusou-ajuda-federal-na-area-de-seguranca/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/ao-lado-de-haddad-datena-diz-que-tarcisio-prestou-desservico-a-seguranca/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/09/tarcisio-e-haddad-fazem-1o-debate-nacionalizado-com-dados-e-embates-sobre-pcc-tarifaco-de-trump-e-privatizacoes.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-11T00:21:29.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/F6BmWDs_8duLaX6YswSe7VGJI4M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/j/jP3FXMRnGDaplX8mEi5w/debate-band-1.jpg"
+    },
+    {
+      "clusterId": "5e0a93aa1723e865",
+      "slug": "be8352fab3515e4d",
+      "titulo": "Terremotos de magnitude 7,2 e 7,5 atingem Colômbia e Venezuela",
+      "resumo": "Os abalos sísmicos de magnitude 7,2 e 7,5 ocorreram na Colômbia e na Venezuela, causando mais de 6.300 mortes e 73 mil atendimentos hospitalares na Venezuela. Na Colômbia, o presidente Abelardo de la Espriella relatou pelo menos 111 mortos e 87 feridos. O terremoto na Venezuela foi o mais mortal desde 1812 e o pior desastre natural recente do país, com 190 edifícios desabando e quase mil construções danificadas.",
+      "porQueImporta": "O evento destaca a gravidade dos desastres naturais na região e a necessidade de reforçar medidas de prevenção e resposta a emergências.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/08/10/videos/numero-de-terremotos-de-forte-intensidade-esta-aumentando/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ciencia/noticia/2026/08/10/o-numero-de-terremotos-registrados-no-mundo-esta-aumentando.ghtml"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cvg90np1j85o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-08-10T23:51:39.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/c8S6cfI1dn3auMhSO-o4XveSKBs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/c/PX6e3qRVyVRH15dBj9gA/imagem-1200px-20260810-174728-.jpg"
+    },
+    {
+      "clusterId": "ada7782811126b42",
       "slug": "b269e0e450b8faf1",
       "titulo": "Agosto terá dois eclipses, um visível no Brasil",
       "resumo": "Em agosto ocorrerão dois eclipses: um solar total no hemisfério norte e um lunar quase total que pode ser observado a olho nu em países da América, Europa e África, incluindo o Brasil. O eclipse solar total será visível apenas em regiões do hemisfério norte, enquanto o lunar permitirá que o público brasileiro veja a Lua de sangue. Ambos os fenômenos são eventos astronômicos de curta duração e alta visibilidade.",
       "porQueImporta": "Esses eclipses oferecem oportunidades únicas de observação astronômica e de divulgação científica para o público brasileiro.",
-      "category": "tecnologia",
+      "category": "geral",
       "sources": [
         {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/08/10/ciencia-e-espaco/quando-tera-um-eclipse-solar-total-visivel-no-brasil/"
-        },
-        {
-          "name": "Canaltech",
-          "url": "https://canaltech.com.br/ciencia-e-espaco/por-que-nao-vai-dar-para-ver-o-eclipse-solar-de-2026-no-brasil/"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/ciencia/mes-de-agosto-tera-dois-eclipses-visiveis-no-planeta-entenda-fenomeno/"
         },
         {
           "name": "BBC Brasil",
@@ -59,277 +207,118 @@
           "url": "https://g1.globo.com/ciencia/noticia/2026/08/10/agosto-tera-dois-eclipses-mas-so-um-deles-podera-ser-visto-do-brasil.ghtml"
         }
       ],
-      "updatedAt": "2026-08-10T19:15:00.000Z",
-      "imageUrl": "https://tl.ctcdn.com.br/OoqeBy6sG0X307QJIzZuZO1NAYg=/0x0/filters:format(webp):quality(85)/7f6020f9-ea14-4334-baec-571add850279.png"
+      "updatedAt": "2026-08-10T21:39:37.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0a92/live/125a9d90-94a1-11f1-b485-c780285c5cc1.jpg"
     },
     {
-      "clusterId": "8593f6882363e6a0",
-      "slug": "8cea3a7d3608c8c1",
-      "titulo": "Real Madrid decide manter Endrick no elenco para 2026/27",
-      "resumo": "O Real Madrid, sob a direção de José Mourinho, optou por não negociar o atacante Endrick nesta janela de transferências, mantendo-o no clube para a temporada 2026/27. O jogador continuará vestindo a camisa 9. A decisão reflete a intenção do clube em consolidar a formação jovem e garantir estabilidade no ataque.",
-      "porQueImporta": "Mantém a continuidade e o desenvolvimento de um talento emergente no clube.",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/endrick-permanece-no-real-madrid-apesar-do-interesse-de-outros-clubes-europeus/"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/08/10/a-pedido-de-mourinho-real-madrid-deseja-manter-endrick-e-afasta-possivel-transferencia.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/real-madrid-lamenta-vitimas-de-terremoto-na-colombia/"
-        }
-      ],
-      "updatedAt": "2026-08-10T20:30:31.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/GettyImages-2251282811.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "2686548e04f1da9a",
-      "slug": "f982a4261662ce9a",
-      "titulo": "Wesley Batista Filho assume cargo de CEO global da JBS em 2027",
-      "resumo": "Wesley Batista Filho, atual CEO da JBS USA, será o novo CEO global da JBS a partir de janeiro de 2027, substituindo Gilberto Tomazoni. Ele tem 15 anos de experiência na companhia, com passagens por operações no Brasil e nos Estados Unidos, e é filho de Wesley Batista, ex-CEO da empresa. A nomeação marca o retorno de um membro da família Batista ao principal cargo executivo da JBS.",
-      "porQueImporta": "A mudança reforça a continuidade da liderança familiar na maior produtora de carnes do mundo.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/10/quem-e-wesley-batista-filho-que-sera-o-novo-ceo-global-da-jbs.ghtml"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/jbs-anuncia-wesley-batista-filho-como-novo-ceo-global-a-partir-de-2027/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/agro/saiba-quem-e-wesley-batista-filho-novo-ceo-global-da-jbs/"
-        }
-      ],
-      "updatedAt": "2026-08-10T20:22:43.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/i7f6X5xcemVSx86_hQAEqJBo0rw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/I/SYVrO4Rkinb9rmlJnHxg/whatsapp-image-2026-08-10-at-17.22.16.jpg"
-    },
-    {
-      "clusterId": "dfa4d13d4c476b58",
-      "slug": "c9ae14f1f58fb6e5",
-      "titulo": "Haddad apresenta plano de segurança pública para São Paulo",
-      "resumo": "O candidato Fernando Haddad divulgou o SP Protege, programa que visa reduzir a impunidade e o crime organizado. Entre as medidas, destaca-se o uso de inteligência artificial para prevenção e investigação, a criação de um placar de segurança com dados trimestrais e a instalação de câmeras corporais de policiais com gravação contínua. O plano também propõe a criação de uma agência estadual antifacção para integrar órgãos estaduais e federais.",
-      "porQueImporta": "O plano pode alterar significativamente a abordagem de segurança pública na maior cidade do Brasil.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/10/haddad-lanca-proposta-de-seguranca-para-sp-com-aposta-em-ia-datena-bo-no-zap-e-gravacao-ininterrupta-de-pms.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/haddad-cameras-corporais-policiais"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/haddad-lanca-plano-de-seguranca-para-sp-com-agencia-antifaccao-e-ia-no-policiamento/"
-        }
-      ],
-      "updatedAt": "2026-08-10T20:19:33.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/s21WOTwJOhcEffF9qt62giZUWQ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/C/J/dS3WENTTAPoBmvX2KYAw/2025-08-28t143910z-36367313-rc2egga38942-rtrmadp-3-brazil-fuel-crime.jpg"
-    },
-    {
-      "clusterId": "586798bf8669ee92",
-      "slug": "825e135b5dd1a926",
-      "titulo": "Terremoto de magnitude 7,4 atinge o oeste da Colômbia",
-      "resumo": "Um terremoto de magnitude 7,4 ocorreu no oeste da Colômbia, a 160 km de Bogotá e cerca de 110 km de Medellín, segundo a USGS. O tremor foi sentido em Bogotá e em outras cidades, como Manizales, provocando sirenes de alerta. A sismologia internacional registrou a ocorrência em 10 de agosto de 2026.",
-      "porQueImporta": "O evento demonstra a vulnerabilidade sísmica da região e a necessidade de medidas de prevenção e resposta.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/crmr1nzz84jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/ao-vivo/ao-vivo-terremoto-colombia-destruicao.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/sobe-numero-de-mortos-em-terremoto-na-colombia/"
-        }
-      ],
-      "updatedAt": "2026-08-10T20:18:38.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f42/live/425779d0-94d5-11f1-8a9a-13c674e4e5fe.jpg"
-    },
-    {
-      "clusterId": "cdd24679ce5b6d29",
-      "slug": "fa516569372cbddb",
-      "titulo": "Liverpool anuncia Ronald Araújo, do Barcelona, por empréstimo",
-      "resumo": "Liverpool 2 x 3 Mônaco | Amistoso | Futebol Internacional O Liverpool anunciou, nesta segunda-feira, a contratação de Ronald Araújo, do Barcelona, por empréstimo. O zagueiro uruguaio, que foi capitão do Barça até a última temporada, jogará no clube da Premier League em 2026/27. Araújo, de 27 anos, tem contrato até 2031 com o time catalão, mas o Liverpool terá opção de compra em junho do ano que vem. — Acho que foi a jogada ideal para mim nesta fase da minha carreira. Acho que foi um passo que eu precisava dar. Assim que ouvi o interesse do Liverpool, tudo entrou em ação realmente, realmente…",
+      "clusterId": "41a2d1ccbdc8fcdc",
+      "slug": "6e3394bcd703fbbd",
+      "titulo": "Caixa Seguridade tem lucro líquido de R$ 1,14 bi no 2tri26, alta de 9,5% ante 2tri25",
+      "resumo": "As receitas operacionais subiram 8,5% em um ano, para R$ 1,5 bilhão The post Caixa Seguridade tem lucro líquido de R$ 1,14 bi no 2tri26, alta de 9,5% ante 2tri25 appeared first on InfoMoney.",
       "porQueImporta": "",
-      "category": "esportes",
+      "category": "economia",
       "sources": [
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/liverpool-anuncia-a-contratacao-de-ronald-araujo-do-barcelona"
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/caixa-seguridade-tem-lucro-liquido-de-r-114-bi-no-2tri26-alta-de-95-ante-2tri25/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/liverpool-anuncia-ronald-araujo-por-emprestimo-para-reforcar-defesa/"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/08/10/liverpool-anuncia-ronald-araujo-do-barcelona-por-emprestimo.ghtml"
+          "url": "https://www.cnnbrasil.com.br/economia/negocios/caixa-seguridade-tem-lucro-liquido-de-r-114-bi-no-2tri26-alta-de-95-ante-2tri25/"
         }
       ],
-      "updatedAt": "2026-08-10T20:16:29.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/08/ronald-araujo-liverpool.jpg"
+      "updatedAt": "2026-08-11T01:39:28.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2023/04/Seguridades-e1752377148207.jpg?fit=300%2C243&amp;quality=70&amp;strip=all"
     },
     {
-      "clusterId": "1159803ce3f9cc4b",
-      "slug": "be8352fab3515e4d",
-      "titulo": "Terremotos de magnitude 7,2 e 7,5 atingem Colômbia e Venezuela",
-      "resumo": "Os abalos sísmicos de magnitude 7,2 e 7,5 ocorreram na Colômbia e na Venezuela, causando mais de 6.300 mortes e 73 mil atendimentos hospitalares na Venezuela. Na Colômbia, o presidente Abelardo de la Espriella relatou pelo menos 111 mortos e 87 feridos. O terremoto na Venezuela foi o mais mortal desde 1812 e o pior desastre natural recente do país, com 190 edifícios desabando e quase mil construções danificadas.",
-      "porQueImporta": "O evento destaca a gravidade dos desastres naturais na região e a necessidade de reforçar medidas de prevenção e resposta a emergências.",
+      "clusterId": "ef68f84a67d42d1c",
+      "slug": "bc94325b222f1888",
+      "titulo": "Festival de Cinema de Brasília confirmado para setembro",
+      "resumo": "O 59º Festival de Cinema de Brasília, previsto para 11 a 19 de setembro, foi confirmado após a governadora Celina Leão determinar que a Secretaria de Economia providencie os recursos necessários. Anteriormente, havia rumores de cancelamento devido à falta de financiamento público. O Ministério da Cultura considerou a possibilidade de cancelamento um retrocesso para o audiovisual brasileiro.",
+      "porQueImporta": "A realização do festival garante continuidade de um importante evento cultural e de apoio ao cinema nacional.",
       "category": "geral",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/colombia-e-venezuela-entenda-a-diferenca-entre-os-terremotos/"
-        },
-        {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/10/numero-de-mortos-no-terremoto-da-venezuela-chega-a-6301.ghtml"
+          "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/10/festival-de-cinema-de-brasilia-possivel-cancelamento-e-grave-retrocesso-diz-ministerio-da-cultura.ghtml"
         },
         {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cvg90np1j85o?at_medium=RSS&at_campaign=rss"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/grande-angular/celina-leao-afirma-que-festival-de-cinema-de-brasilia-vai-acontecer"
         }
       ],
-      "updatedAt": "2026-08-10T20:14:16.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/uMg5iG_qjgmljNz3DlXVtwqnaI0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/e/HLfqOPSNiYAOQFlHIGNw/2026-07-11t222946z-1951886010-rc2xbma1daqu-rtrmadp-3-venezuela-quake.jpg"
-    },
-    {
-      "clusterId": "d263ea1b74725839",
-      "slug": "85c716b8032c14db",
-      "titulo": "Hugo Motta declara apoio à reeleição de Lula",
-      "resumo": "O presidente da Câmara dos Deputados, Hugo Motta, do partido Republicanos, afirmou apoio à candidatura de Luiz Inácio Lula da Silva à reeleição. Motta justificou a posição citando a aliança entre o governo federal e o estado da Paraíba. A declaração foi feita em entrevista na Paraíba, durante a posse de uma desembargadora do TRE-PB.",
-      "porQueImporta": "O apoio de um líder da Câmara pode influenciar a percepção de legitimidade e apoio político ao candidato Lula.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/hugo-motta-declara-apoio-a-reeleicao-de-lula/"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/hugo-motta-declara-apoio-a-reeleicao-de-lula-o-melhor-para-o-pais/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/10/hugo-motta-declara-apoio-lula-reeleicao.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-10T20:09:34.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/10/toms9048.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "c5d1d0a7cf850a77",
-      "slug": "ae2c26e6656bec16",
-      "titulo": "Terremoto de magnitude 7,4 atinge Colômbia",
-      "resumo": "Um terremoto de magnitude 7,4 ocorreu na Colômbia, causando mais de 100 mortes e danos significativos. O tremor atingiu o Aeroporto Internacional Matecaña em Pereira, onde foi gravado por um influenciador. O evento foi o mais forte da última década no país, que está localizado em uma zona de subducção entre três placas tectônicas.",
-      "porQueImporta": "O terremoto destaca a vulnerabilidade sísmica da Colômbia e a necessidade de medidas de mitigação e preparação.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/entenda-como-e-medida-a-forca-dos-terremotos-2/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/10/video-influenciador-grava-momento-em-que-terremoto-atinge-aeroporto-na-colombia.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/terremoto-de-74-atinge-a-colombia-entenda-por-que-o-pais-e-tao-propenso-a-tremores/"
-        }
-      ],
-      "updatedAt": "2026-08-10T20:04:16.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/19l-PUnw0EKSTHJ12isf6F-UdYY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/y/eLbF4iTLKRMjJg0nETTQ/fotojet-28-.jpg"
+      "updatedAt": "2026-08-11T01:32:09.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/UbeduxsFPvCGLc7ylfpyV3E2rzQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/X/2alnF9QmAV4HLK61rApw/crd-coletiva-cine-00002-frame-31098.jpeg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "8f95f57fb830fb2c",
-        "slug": "b85717949fa42d66",
-        "titulo": "Novo advogado de Vorcaro pede audiência com relator do STF",
-        "resumo": "Daniel Bialski assumiu a defesa de Daniel Vorcaro junto a Sérgio Leonardo e planejam retomar negociações de delação premiada. O pedido de audiência com o ministro André Mendonça, relator do caso, foi feito com expectativa de ocorrer nos próximos dias. Vorcaro já tentou acordos de colaboração, mas as propostas foram recusadas em pelo menos duas ocasiões.",
-        "porQueImporta": "A possibilidade de delação premiada pode influenciar o desenrolar do processo no STF.",
+        "clusterId": "7464559d5897a01c",
+        "slug": "5c29563564d3f433",
+        "titulo": "Debate entre Haddad e Tarcísio em São Paulo destaca diferenças de estratégia",
+        "resumo": "No primeiro debate do 1º turno, Fernando Haddad e Tarcísio de Freitas confrontaram dados e narrativas sobre os governos estadual e federal, sem ataques pessoais. Haddad enfatizou a necessidade de mudar o projeto atual, enquanto Tarcísio defendeu a continuidade da gestão. O debate abordou temas como crime organizado, tarifas e privatizações.",
+        "porQueImporta": "O encontro sinaliza a polarização entre os candidatos e a importância de suas propostas para o futuro de São Paulo.",
         "category": "politica",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/vorcaro-prepara-terceira-proposta-de-delacao-premiada/"
+            "url": "https://www.cnnbrasil.com.br/politica/a-cnn-haddad-diz-que-tarcisio-recusou-ajuda-federal-na-area-de-seguranca/"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/ao-lado-de-haddad-datena-diz-que-tarcisio-prestou-desservico-a-seguranca/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/10/novo-advogado-de-vorcaro-pede-audiencia-com-mendonca-delacao-volta-ao-radar.ghtml"
+            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/09/tarcisio-e-haddad-fazem-1o-debate-nacionalizado-com-dados-e-embates-sobre-pcc-tarifaco-de-trump-e-privatizacoes.ghtml"
           }
         ],
-        "updatedAt": "2026-08-10T20:01:13.000Z"
+        "updatedAt": "2026-08-11T00:21:29.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/F6BmWDs_8duLaX6YswSe7VGJI4M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/j/jP3FXMRnGDaplX8mEi5w/debate-band-1.jpg"
       },
       {
-        "clusterId": "479d965355025a3a",
-        "slug": "559b127e1bc3f60c",
-        "titulo": "Moraes autoriza curso de liderança para ex-ministro da Defesa na prisão",
-        "resumo": "O ministro Alexandre de Moraes, do STF, autorizou que Paulo Sérgio Nogueira, ex-ministro da Defesa condenado a 19 anos por tentativa de golpe, se matricule em curso de Liderança e Gestão de Pessoas na Área de Saúde, oferecido em modalidade EAD por instituição habilitada pela Seape-DF. Nogueira está preso há 255 dias e a formação pode contribuir para a redução do tempo de cumprimento da pena.",
-        "porQueImporta": "Permite que o condenado participe de formação que pode impactar sua pena.",
+        "clusterId": "c68a9ca85eed0244",
+        "slug": "7b85e06840f63ad2",
+        "titulo": "Taxa das blusinhas pode voltar em setembro se medida provisória não for aprovada",
+        "resumo": "A medida provisória de 12 de maio reduziu a alíquota de importação de remessas postais internacionais a zero para valores até US$ 50. Se não for aprovada pelo Congresso, a taxa de 20% voltará em setembro. O presidente do Senado prorrogou a medida em julho, mas a aprovação ainda é necessária. A mudança afeta consumidores que compram roupas e outros itens de baixo valor no exterior.",
+        "porQueImporta": "A decisão impacta diretamente o custo de compras internacionais de consumidores brasileiros.",
         "category": "politica",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/moraes-autoriza-paulo-sergio-nogueira-a-fazer-curso-na-prisao/"
+            "url": "https://www.cnnbrasil.com.br/politica/taxa-das-blusinhas-foi-pedido-do-varejo-nao-tem-a-ver-comigo-diz-haddad/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/08/10/moraes-autoriza-paulo-sergio-nogueira-a-fazer-curso-de-lideranca-e-gestao-na-prisao.ghtml"
+            "url": "https://g1.globo.com/economia/noticia/2026/08/09/taxa-das-blusinhas-se-medida-provisoria-nao-for-aprovada-taxacao-volta-no-comeco-de-setembro.ghtml"
           }
         ],
-        "updatedAt": "2026-08-10T20:00:34.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/RcbsOst-56guNYN1DSQkdXnEu9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/e/T/6JjBFgSwyWAWHMtXFKHg/paulo-sergio.jpg"
+        "updatedAt": "2026-08-11T00:45:51.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/-tqR8_G6URJTZJqLFpYC30fqYYA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/5/p/qxTwE8QzAC2iBF1NC3CA/foto-04-nonato-sousa.jpeg"
       },
       {
-        "clusterId": "71d483a6cbf54669",
-        "slug": "bab1da36ca3795fb",
-        "titulo": "Reunião entre Lula e Alcolumbre pode determinar aprovação de pautas no Senado",
-        "resumo": "A continuidade do esforço concentrado no Senado depende de uma nova reunião entre o presidente Lula e o presidente do Senado, Davi Alcolumbre, para pacificar as relações. Enquanto a Câmara tem alinhamento com o governo, o Senado permanece em avaliação incerta. Alcolumbre também atuou na neutralidade da federação União Brasil-PP em estados-chave, afastando partidos do centrão em colégios eleitorais. O encontro recente reforçou a reaproximação entre os dois líderes.",
-        "porQueImporta": "Decisivo para a aprovação de propostas governamentais no Senado.",
+        "clusterId": "41fa57d7c88ec47c",
+        "slug": "3763b4c8ad34b1e4",
+        "titulo": "Haddad apresenta plano de segurança pública para São Paulo",
+        "resumo": "O candidato Fernando Haddad lançou o programa SP Protege, que tem como foco a redução da impunidade. Entre as medidas, destaca-se o uso de inteligência artificial para prevenção e investigação de crimes, a criação de um placar de segurança divulgado trimestralmente e a criação de uma agência estadual antifacção. O plano também inclui o \"BO no Zap\", permitindo que vítimas registrem ocorrências via WhatsApp, e a gravação ininterrupta de policiais militares.",
+        "porQueImporta": "O plano visa melhorar a segurança pública e a transparência no combate ao crime organizado em São Paulo.",
         "category": "politica",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/10/congresso-faz-esforco-concentrado-de-olho-em-nova-reuniao-de-lula-e-alcolumbre-e-com-previsao-pessimista.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-10T15:13:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/ndTIc2h73-F0JtJQw85RI6B_NVQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/9/ogPArESkOATpzmVZM6lA/54533175426-30e8b03bef-k.jpg"
-      },
-      {
-        "clusterId": "4054097272967d68",
-        "slug": "6a35580cede8750a",
-        "titulo": "Candidato Ronaldo Caiado propõe lei contra terrorismo doméstico e indica Lincoln Gakiya para Ministério da Segurança",
-        "resumo": "O candidato à Presidência pelo PSD, Ronaldo Caiado, apresentou um plano de segurança pública em São Paulo que propõe enquadrar facções criminosas como organizações terroristas domésticas e reduzir a maioridade penal. Ele também anunciou que convidaria Lincoln Gakiya para o Ministério da Segurança caso seja eleito.",
-        "porQueImporta": "A proposta pode alterar a abordagem do combate ao crime organizado no Brasil.",
-        "category": "politica",
-        "sources": [
+            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/10/haddad-lanca-proposta-de-seguranca-para-sp-com-aposta-em-ia-datena-bo-no-zap-e-gravacao-ininterrupta-de-pms.ghtml"
+          },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/10/caiado-plano-seguranca-publica-eleicoes-2026.ghtml"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/haddad-apresenta-plano-de-seguranca-com-agencia-antifaccao/"
           }
         ],
-        "updatedAt": "2026-08-10T13:37:25.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/KfMp7S0Jfj7u1LQR2n1xIfLEQvU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/f/1AXGTpTIuDLMcWgdiclw/fnw20260810015.jpg"
+        "updatedAt": "2026-08-10T20:19:33.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/HG262o1BOSOpeayISN8zMKckXF4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/x/mhlBx7SiaVkQY5sGipYw/screenshot-2026-08-10-at-17-48-46-794-lancamento-do-sp-protege-youtube.png"
       },
       {
-        "clusterId": "15db38ae33be39d9",
+        "clusterId": "c176f54b987fd671",
         "slug": "3c38b729df3a3a70",
         "titulo": "Desenrola Adimplentes inicia operação com novas regras para bancos",
         "resumo": "O programa Desenrola Adimplentes começou a operar na segunda-feira (10) com ajustes que facilitam a participação das instituições financeiras. Ele oferece crédito em condições mais favoráveis a trabalhadores informais que mantêm suas dívidas em dia, bem como a estudantes e empresas adimplentes vinculadas ao Fundo de Financiamento Estudantil (Fies). O governo estima que até 500 mil trabalhadores informais e 100 mil beneficiários do Fies possam recorrer ao programa.",
@@ -337,65 +326,82 @@
         "category": "politica",
         "sources": [
           {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-economia/desenrola-adimplentes-saiba-quem-pode-participar-e-como-contratar/"
+          },
+          {
             "name": "G1",
             "url": "https://g1.globo.com/economia/noticia/2026/08/10/desenrola-adimplentes-quem-pode-participar.ghtml"
           }
         ],
-        "updatedAt": "2026-08-10T12:47:12.000Z",
+        "updatedAt": "2026-08-10T19:49:30.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/DHNb5OaDrG-IvqcIF-pZHHIpX3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/U/Y/jB4AF9QjSVcFM46UBkZA/fta20240520073-1-.jpg"
       },
       {
-        "clusterId": "011b17cd48a5436e",
-        "slug": "75a7129127a92605",
-        "titulo": "Congresso aumenta seu poder nas últimas quatro décadas",
-        "resumo": "A Constituição de 1988 estabelecia o equilíbrio entre os três poderes, com destaque para o Executivo. Nas últimas quatro décadas, o Legislativo ampliou sua influência, especialmente em relação ao orçamento público, e reduziu sua taxa de crescimento. Mudanças regimentais e processos de impeachment contribuíram para essa mudança de equilíbrio. O Congresso agora exerce maior controle sobre decisões políticas e financeiras.",
-        "porQueImporta": "O fortalecimento do Legislativo altera o equilíbrio de poderes e impacta a governança do país.",
+        "clusterId": "769ef7059c0134ed",
+        "slug": "3d0d3bebf0fd4494",
+        "titulo": "Instituto pede suspensão do Discord e multa de R$ 300 mi",
+        "resumo": "O Instituto Nacional de Tecnologia (INCT) entrou com uma ação civil pública contra o Discord, exigindo que a plataforma comprove medidas de segurança para prevenir crimes. A ação foi motivada pela morte de um adolescente que teria sido vítima de violência online. O pedido inclui a suspensão do serviço no Brasil e uma multa de R$ 300 milhões. O governo federal acompanha o caso, que destaca a necessidade de regulação das plataformas digitais.",
+        "porQueImporta": "O caso demonstra a crescente pressão regulatória sobre serviços de comunicação digital no Brasil.",
         "category": "politica",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/08/10/o-congresso-turbinado-como-o-legislativo-ampliou-o-seu-poder-o-assunto-1779.ghtml"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-justica/instituto-pede-suspensao-do-discord-e-multa-de-r-300-mi/"
           }
         ],
-        "updatedAt": "2026-08-10T03:30:09.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/eXDyiYy-oQY_R4Mvo0exY1dY17g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/J/aSmEpOQYAJ8Z0UtBkBJw/palacio-do-congresso-nacional-camara-e-senado.jpg"
+        "updatedAt": "2026-08-10T20:00:40.000Z"
       },
       {
-        "clusterId": "9163f25501ea063a",
-        "slug": "f3a1d984a584f47b",
-        "titulo": "Partidos têm até 19h do dia 15 de agosto de 2026 para registrar candidatos",
-        "resumo": "Os partidos, federações e coligações devem enviar à Justiça Eleitoral os pedidos de registro dos candidatos até 19h do dia 15 de agosto de 2026. Esse prazo é o limite legal para que os candidatos possam concorrer nas eleições gerais de 2026. O registro é obrigatório e ocorre após as convenções partidárias.",
-        "porQueImporta": "Define o último momento em que candidatos podem se formalizar para as eleições.",
+        "clusterId": "3ab066fccc1591f3",
+        "slug": "bf9eec954caa2029",
+        "titulo": "31% dos eleitores apontam dinheiro e obras como principal fator na escolha de senadores",
+        "resumo": "A pesquisa Quaest, divulgada em 10 de agosto, revelou que 31% dos eleitores consideram a capacidade de levar dinheiro e obras ao estado como o principal critério para votar no Senado. Outros fatores citados foram ser indicado de Lula (15%), compromisso com o fim da escala 6x1 (13%), independência da polarização (12%) e apoio ao impeachment de ministros do STF (11%).",
+        "porQueImporta": "O resultado destaca a importância de projetos de infraestrutura e financiamento público na decisão de voto dos brasileiros.",
         "category": "politica",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/10/eleicoes-2026-ate-quando-e-possivel-se-candidatar.ghtml"
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/10/quaest-eleitores-priorizam-candidatos-senado-emendas-obras.ghtml"
           }
         ],
-        "updatedAt": "2026-08-10T03:00:48.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/0bx-gxf2_GxdYnD3eTmFN3JYOxk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/C/2jBi5TTb6nzmoDonGfrA/cabine-de-votacao.jpg"
+        "updatedAt": "2026-08-10T19:53:42.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/soTWzAs0mjPO-Q2L5a7mb9ZqcL8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/g/CTWqApRkqslcnDSCFpiA/55395139487-7dc97fa68d-o.jpg"
       },
       {
-        "clusterId": "ee5155003483f7ca",
-        "slug": "c874abcfeec4af1b",
-        "titulo": "Congresso Nacional volta ao trabalho após recesso prolongado",
-        "resumo": "O Congresso Nacional retomou suas atividades nesta segunda-feira (10) após um recesso que excedeu a data prevista pela Constituição. Tanto a Câmara quanto o Senado tiveram uma semana extra de folga. Para compensar, o presidente da Câmara, Hugo Motta, estabeleceu semanas de esforço concentrado em julho, permitindo que os deputados participem de campanhas eleitorais. O retorno do Congresso ocorre em meio a debates sobre a agenda legislativa e as eleições.",
-        "porQueImporta": "O retorno do Congresso influencia a agenda legislativa e a preparação dos parlamentares para as eleições.",
+        "clusterId": "6d8dc0d0aec13a33",
+        "slug": "d7afca211eb1208d",
+        "titulo": "Patrimônio de Dr. Luizinho cresce R$ 2 milhões em 4 anos",
+        "resumo": "O deputado federal Dr. Luizinho declarou R$ 5,8 milhões de patrimônio ao TSE em 2026, um aumento de R$ 2 milhões em relação ao valor de R$ 3,6 milhões registrado em 2022. O levantamento foi realizado durante a declaração de bens exigida pela legislação eleitoral. O crescimento reflete a valorização de ativos e a aquisição de novos bens ao longo do período.",
+        "porQueImporta": "A variação no patrimônio de um parlamentar pode indicar mudanças em sua situação financeira e impactar a percepção pública sobre sua conduta.",
         "category": "politica",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/08/10/congresso-nacional-retorna-do-recesso-com-pauta-emperrada-por-embates-eleitorais.ghtml"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes/patrimonio-de-dr-luizinho-cresce-r-2-milhoes-em-4-anos/"
           }
         ],
-        "updatedAt": "2026-08-10T03:00:43.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/S4dNqmfMy-VGhhFbPe5EcbDHuUQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/u/3ja7BUQrKLJGTvzs6ryQ/globo-canal-4-20260505-2000-frame-150493.jpeg"
+        "updatedAt": "2026-08-10T19:40:44.000Z"
+      },
+      {
+        "clusterId": "012d5237e57fb03a",
+        "slug": "2fce83782973cb7f",
+        "titulo": "Caiado chama Lula e Flávio de \"fujões\" por possível ausência nos debates",
+        "resumo": "O ex-governador de Goiás, Caiado, criticou Lula e Flávio Bolsonaro, chamando-os de \"fujões\" após a suspeita de que não compareceriam aos debates eleitorais. Ele questionou as chances eleitorais desses candidatos, que apresentam altos índices de rejeição. A crítica reflete a preocupação de alguns eleitores com a participação dos candidatos em eventos públicos. O comentário ocorre em meio à campanha para as eleições de 2024.",
+        "porQueImporta": "A ausência de candidatos em debates pode influenciar a percepção dos eleitores e afetar suas escolhas na eleição.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/caiado-chama-lula-e-flavio-de-fujoes-por-possivel-ausencia-nos-debates/"
+          }
+        ],
+        "updatedAt": "2026-08-10T18:19:07.000Z"
       }
     ],
     "economia": [
       {
-        "clusterId": "9810cacd6a910a12",
+        "clusterId": "61d883c1e4a61fc3",
         "slug": "54247883f5b9b336",
         "titulo": "EUA aceitam pedido de consultas do Brasil sobre tarifas na OMC",
         "resumo": "O governo dos Estados Unidos respondeu ao pedido de consultas apresentado pelo Brasil à Organização Mundial do Comércio, confirmando estar à disposição para discutir o chamado \"tarifaço\". O Brasil abriu processo contra tarifas americanas que somam 37,5% sobre produtos chineses, e a China pediu participar das consultas. Os EUA indicaram que podem marcar uma data de reunião em momento conveniente.",
@@ -403,35 +409,111 @@
         "category": "economia",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/economia/eua-dizem-estar-a-disposicao-para-discutir-tarifaco-em-resposta-ao-brasil-na-omc/"
+            "name": "G1",
+            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/10/eua-aceitam-discutir-na-omc-o-tarifaco-imposto-ao-brasil.ghtml"
           },
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/tarifaco-china-pede-para-entrar-em-acao-do-brasil-contra-eua-na-omc"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/economia/china-pede-para-ingressar-em-consultas-do-brasil-a-omc-por-tarifas-dos-eua/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/china-quer-participar-de-consultas-do-brasil-contra-tarifas-dos-eua-na-omc/"
           },
           {
             "name": "Exame",
             "url": "https://exame.com/mundo/tarifaco-eua-respondem-ao-brasil-na-omc-e-dizem-estar-a-disposicao-para-negociar/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/08/10/eua-respondem-ao-brasil-na-omc-e-dizem-que-estao-a-disposicao-para-discutir-tarifaco.ghtml"
           }
         ],
-        "updatedAt": "2026-08-10T20:39:30.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-855125142.jpg?quality=70&strip=info"
+        "updatedAt": "2026-08-11T01:33:47.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/UPWsNQdrwGDXdgk5MqXEcTGFf6o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/e/rQy9b2Tzme9i0HniBA9g/globo-canal-4-20260810-2000-frame-97648.jpeg"
       },
       {
-        "clusterId": "2686548e04f1da9a",
-        "slug": "f982a4261662ce9a",
-        "titulo": "Wesley Batista Filho assume cargo de CEO global da JBS em 2027",
-        "resumo": "Wesley Batista Filho, atual CEO da JBS USA, será o novo CEO global da JBS a partir de janeiro de 2027, substituindo Gilberto Tomazoni. Ele tem 15 anos de experiência na companhia, com passagens por operações no Brasil e nos Estados Unidos, e é filho de Wesley Batista, ex-CEO da empresa. A nomeação marca o retorno de um membro da família Batista ao principal cargo executivo da JBS.",
-        "porQueImporta": "A mudança reforça a continuidade da liderança familiar na maior produtora de carnes do mundo.",
+        "clusterId": "517a2710c81743f6",
+        "slug": "7c76ead3553ccf06",
+        "titulo": "Empresas brasileiras registram quedas significativas nos lucros",
+        "resumo": "A JSL (JSLG3) reportou lucro líquido ajustado de R$ 30,2 milhões no segundo trimestre, representando queda anual de 16%, embora haja alta trimestral. A São Martinho registrou lucro líquido de R$ 38,1 milhões no primeiro trimestre da safra 2026/27, com redução de 39% em relação ao período anterior. A Natura apresentou queda de 82% no lucro líquido do segundo trimestre de 2026, apesar de margem EBITDA superar expectativas.",
+        "porQueImporta": "Esses resultados indicam pressões financeiras e mudanças de desempenho em setores distintos da economia brasileira.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/jsl-jslg3-resultados-segundo-trimestre-2026/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/agro/sao-martinho-tem-queda-de-39-no-lucro-no-inicio-da-safra-2026-27/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/invest/mercados/natura-registra-queda-de-82-no-lucro-liquido-do-segundo-trimestre-de-2026/"
+          }
+        ],
+        "updatedAt": "2026-08-11T01:15:27.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/03/5YHWE9dM_552764.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "41a2d1ccbdc8fcdc",
+        "slug": "6e3394bcd703fbbd",
+        "titulo": "Caixa Seguridade tem lucro líquido de R$ 1,14 bi no 2tri26, alta de 9,5% ante 2tri25",
+        "resumo": "As receitas operacionais subiram 8,5% em um ano, para R$ 1,5 bilhão The post Caixa Seguridade tem lucro líquido de R$ 1,14 bi no 2tri26, alta de 9,5% ante 2tri25 appeared first on InfoMoney.",
+        "porQueImporta": "",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/caixa-seguridade-tem-lucro-liquido-de-r-114-bi-no-2tri26-alta-de-95-ante-2tri25/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/negocios/caixa-seguridade-tem-lucro-liquido-de-r-114-bi-no-2tri26-alta-de-95-ante-2tri25/"
+          }
+        ],
+        "updatedAt": "2026-08-11T01:39:28.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2023/04/Seguridades-e1752377148207.jpg?fit=300%2C243&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "f9e64348c44bc618",
+        "slug": "286993c1eda943ac",
+        "titulo": "Itaúsa registra lucro de R$ 4,3 bilhões no segundo trimestre",
+        "resumo": "A companhia reportou lucro líquido de R$ 4,3 bilhões no período de abril a junho, refletindo um retorno recorrente sobre o patrimônio líquido médio de 18,7%. O presidente Alfredo Setubal destacou que, apesar da redução gradual da Selic, o cenário permanece com condições financeiras restritivas. Itaúsa mantém investimentos em empresas como Motiva, Aegea, Alpargatas e Dexco.",
+        "porQueImporta": "O resultado demonstra a robustez financeira da holding e sua capacidade de gerar retorno mesmo em ambiente de juros mais altos.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/negocios/itausa-tem-lucro-liquido-recorrente-de-r-43-bilhoes-no-2tri26-de-7-em-um-ano/"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/itausa-itsa4-tem-lucro-de-r-43-bi-no-2o-tri/"
+          }
+        ],
+        "updatedAt": "2026-08-11T00:53:50.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2022/08/shutterstock_1923923951.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "6691e88255e62c50",
+        "slug": "b5cb5c4c2820b842",
+        "titulo": "Resultado dos concursos Lotofácil 3758 e Quina 7088",
+        "resumo": "No concurso 3758 da Lotofácil, o prêmio estimado era de R$ 5 milhões e os números foram sorteados na segunda-feira, 10 de agosto. O concurso 7088 da Quina, também realizado na mesma data, tinha um prêmio estimado de R$ 2,1 milhões. Ambos os sorteios foram divulgados pela Caixa Econômica Federal.",
+        "porQueImporta": "Os resultados informam os valores dos prêmios e permitem aos participantes verificar se ganharam.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3758-confira-o-resultado-sorteado-nesta-segunda-10/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/lotofacil-3758-sorteia-r-5-milhoes-nesta-segunda-10-8-veja-resultado"
+          }
+        ],
+        "updatedAt": "2026-08-11T00:46:11.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/10/loteria_lotofacil_Marcelo-Camargo-Agencia-Brasil-e1751562724210.webp?fit=300%2C191&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "e97518cc891ffeef",
+        "slug": "7f8bdd8877e5fa26",
+        "titulo": "Wesley Batista Filho assumirá cargo de CEO global da JBS em 2027",
+        "resumo": "A JBS, maior produtora de carnes do mundo, anunciou que Wesley Batista Filho, de 34 anos, será o novo CEO global a partir de janeiro de 2027. Ele substituirá Gilberto Tomazoni, que dirigiu a empresa por oito anos. A mudança faz parte de uma sucessão planejada e a transição ocorrerá ao longo de cinco meses.",
+        "porQueImporta": "A nomeação reforça a continuidade da liderança familiar na maior companhia de carnes do planeta.",
         "category": "economia",
         "sources": [
           {
@@ -439,152 +521,49 @@
             "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/10/quem-e-wesley-batista-filho-que-sera-o-novo-ceo-global-da-jbs.ghtml"
           },
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/jbs-anuncia-wesley-batista-filho-como-novo-ceo-global-a-partir-de-2027/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/agro/saiba-quem-e-wesley-batista-filho-novo-ceo-global-da-jbs/"
+            "name": "Exame",
+            "url": "https://exame.com/invest/mercados/jbs-anuncia-wesley-batista-filho-como-novo-ceo-global-a-partir-de-2027/"
           }
         ],
         "updatedAt": "2026-08-10T20:22:43.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/i7f6X5xcemVSx86_hQAEqJBo0rw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/I/SYVrO4Rkinb9rmlJnHxg/whatsapp-image-2026-08-10-at-17.22.16.jpg"
+        "imageUrl": "https://s2-g1.glbimg.com/MPjw7LZ0PhLsGsdvcJ6g5YIiKvk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/m/IfYJYdScizhkgmfVesaQ/shared-image.jpg"
       },
       {
-        "clusterId": "dfa4d13d4c476b58",
-        "slug": "c9ae14f1f58fb6e5",
-        "titulo": "Haddad apresenta plano de segurança pública para São Paulo",
-        "resumo": "O candidato Fernando Haddad divulgou o SP Protege, programa que visa reduzir a impunidade e o crime organizado. Entre as medidas, destaca-se o uso de inteligência artificial para prevenção e investigação, a criação de um placar de segurança com dados trimestrais e a instalação de câmeras corporais de policiais com gravação contínua. O plano também propõe a criação de uma agência estadual antifacção para integrar órgãos estaduais e federais.",
-        "porQueImporta": "O plano pode alterar significativamente a abordagem de segurança pública na maior cidade do Brasil.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/10/haddad-lanca-proposta-de-seguranca-para-sp-com-aposta-em-ia-datena-bo-no-zap-e-gravacao-ininterrupta-de-pms.ghtml"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/sao-paulo/haddad-cameras-corporais-policiais"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/haddad-lanca-plano-de-seguranca-para-sp-com-agencia-antifaccao-e-ia-no-policiamento/"
-          }
-        ],
-        "updatedAt": "2026-08-10T20:19:33.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/s21WOTwJOhcEffF9qt62giZUWQ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/C/J/dS3WENTTAPoBmvX2KYAw/2025-08-28t143910z-36367313-rc2egga38942-rtrmadp-3-brazil-fuel-crime.jpg"
-      },
-      {
-        "clusterId": "d263ea1b74725839",
-        "slug": "85c716b8032c14db",
-        "titulo": "Hugo Motta declara apoio à reeleição de Lula",
-        "resumo": "O presidente da Câmara dos Deputados, Hugo Motta, do partido Republicanos, afirmou apoio à candidatura de Luiz Inácio Lula da Silva à reeleição. Motta justificou a posição citando a aliança entre o governo federal e o estado da Paraíba. A declaração foi feita em entrevista na Paraíba, durante a posse de uma desembargadora do TRE-PB.",
-        "porQueImporta": "O apoio de um líder da Câmara pode influenciar a percepção de legitimidade e apoio político ao candidato Lula.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/hugo-motta-declara-apoio-a-reeleicao-de-lula/"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/hugo-motta-declara-apoio-a-reeleicao-de-lula-o-melhor-para-o-pais/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/08/10/hugo-motta-declara-apoio-lula-reeleicao.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-10T20:09:34.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/10/toms9048.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "c5d1d0a7cf850a77",
-        "slug": "ae2c26e6656bec16",
-        "titulo": "Terremoto de magnitude 7,4 atinge Colômbia",
-        "resumo": "Um terremoto de magnitude 7,4 ocorreu na Colômbia, causando mais de 100 mortes e danos significativos. O tremor atingiu o Aeroporto Internacional Matecaña em Pereira, onde foi gravado por um influenciador. O evento foi o mais forte da última década no país, que está localizado em uma zona de subducção entre três placas tectônicas.",
-        "porQueImporta": "O terremoto destaca a vulnerabilidade sísmica da Colômbia e a necessidade de medidas de mitigação e preparação.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/entenda-como-e-medida-a-forca-dos-terremotos-2/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/10/video-influenciador-grava-momento-em-que-terremoto-atinge-aeroporto-na-colombia.ghtml"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/terremoto-de-74-atinge-a-colombia-entenda-por-que-o-pais-e-tao-propenso-a-tremores/"
-          }
-        ],
-        "updatedAt": "2026-08-10T20:04:16.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/19l-PUnw0EKSTHJ12isf6F-UdYY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/y/eLbF4iTLKRMjJg0nETTQ/fotojet-28-.jpg"
-      },
-      {
-        "clusterId": "2629c672bad31057",
-        "slug": "3fc73129b3e3e4f6",
-        "titulo": "Ministro anuncia assinatura em breve de decreto para abertura de mercado livre de energia",
-        "resumo": "O ministro Silveira informou que o decreto que abrirá o mercado livre de energia será assinado em breve, com previsão de entrada em vigor até a próxima semana. O regulamento definirá o supridor de última instância e preparará o setor para a entrada de consumidores de baixa tensão. O governo estima que a medida pode reduzir a conta de luz em até 22%.",
-        "porQueImporta": "A abertura do mercado livre pode reduzir custos de energia para consumidores e estimular competitividade no setor.",
+        "clusterId": "55acadb9c94cef85",
+        "slug": "5be9dc90f4bcdfcd",
+        "titulo": "Presidente da Voepass afirma desconhecer falhas que antecederam acidente em Vinhedo",
+        "resumo": "O presidente da Voepass declarou que não tinha conhecimento das falhas técnicas que levaram ao acidente ocorrido em Vinhedo. A Polícia Federal, por sua vez, sustenta que o executivo detinha pleno conhecimento dos problemas graves na frota. A divergência entre as versões levanta questionamentos sobre a responsabilidade da companhia.",
+        "porQueImporta": "A questão envolve a segurança aérea e a responsabilidade corporativa em incidentes de aviação.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/economia/decreto-para-abertura-de-mercado-de-energia-sera-assinado-em-breve-diz-ministro/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/infra/decreto-para-abrir-mercado-livre-sai-ate-proxima-semana-diz-silveira/"
+            "url": "https://www.infomoney.com.br/brasil/presidente-da-voepass-diz-que-nao-sabia-de-falhas-que-antecederam-acidente-em-vinhedo/"
           }
         ],
-        "updatedAt": "2026-08-10T20:40:18.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/462597754_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-11T01:37:22.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/03/voepass1.webp?fit=300%2C144&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "76a8dc37ad99c3fc",
-        "slug": "4f14f418ce6b637e",
-        "titulo": "Dólar sobe e Ibovespa aguarda abertura enquanto petróleo permanece estável",
-        "resumo": "O dólar abriu em leve alta, cotado a R$ 5,0857, enquanto o Ibovespa iniciou suas negociações às 10h. Os índices futuros dos EUA recuaram, mas o preço do petróleo manteve-se estável. Investidores acompanham a nova alta do petróleo em meio às incertezas sobre a reabertura do Estreito de Ormuz, que pode afetar o tráfego de navios.",
-        "porQueImporta": "A variação do dólar e a estabilidade do petróleo influenciam diretamente o desempenho do mercado acionário brasileiro.",
+        "clusterId": "52667183cce70fca",
+        "slug": "7661bcf1cd0b47dd",
+        "titulo": "Movida dobra lucro líquido para R$136 milhões no segundo trimestre",
+        "resumo": "A Movida divulgou seu balanço do segundo trimestre, registrando lucro líquido de R$136 milhões, o dobro do resultado do mesmo período do ano anterior. O aumento reflete crescimento nas operações de mobilidade e serviços de locação de veículos. A companhia manteve margens estáveis apesar de custos operacionais em ascensão.",
+        "porQueImporta": "O crescimento do lucro indica fortalecimento financeiro da Movida, impactando investidores e o setor de mobilidade urbana.",
         "category": "economia",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/economia/ibovespa-tem-leve-baixa-e-dolar-sobe-com-tensoes-no-oriente-medio-e-alta-no-petroleo/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/08/10/dolar-ibovespa.ghtml"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/movida-movi3-resultados-segundo-trimestre-2026/"
           }
         ],
-        "updatedAt": "2026-08-10T20:35:50.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/01/b3-ibovespa-alta-acumulada-janeiro-205-tendencia-onde-investir-acoes-renda-variavel-1.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "cebadc0a72e5a738",
-        "slug": "fbefd17277484870",
-        "titulo": "Candidato do PSD cita ex‑presidente do Banco Central como principal conselheiro",
-        "resumo": "O candidato ao cargo de presidente, do PSD, afirmou que Armínio Fraga, ex‑presidente do Banco Central, será seu principal conselheiro na área econômica. Ele também indicou Ana Carla Abrão para a área administrativa e Lincoln Gakiya para a Segurança. Fraga pode ser nomeado ministro da Fazenda, segundo o candidato. A escolha de Fraga demonstra a intenção de basear a agenda de reformas em experiência econômica consolidada.",
-        "porQueImporta": "A indicação de um ex‑presidente do BC sinaliza a prioridade do candidato em reforçar a credibilidade econômica de sua campanha.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/caiado-cita-arminio-fraga-como-principal-conselheiro-na-area-economica/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/caiado-sugere-que-arminio-fraga-pode-ser-seu-ministro-da-fazenda/"
-          }
-        ],
-        "updatedAt": "2026-08-10T20:05:14.000Z"
+        "updatedAt": "2026-08-11T00:27:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/Movida_Moscatelli-2.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "586798bf8669ee92",
+        "clusterId": "f509028c8c39ef91",
         "slug": "825e135b5dd1a926",
         "titulo": "Terremoto de magnitude 7,4 atinge o oeste da Colômbia",
         "resumo": "Um terremoto de magnitude 7,4 ocorreu no oeste da Colômbia, a 160 km de Bogotá e cerca de 110 km de Medellín, segundo a USGS. O tremor foi sentido em Bogotá e em outras cidades, como Manizales, provocando sirenes de alerta. A sismologia internacional registrou a ocorrência em 10 de agosto de 2026.",
@@ -592,87 +571,87 @@
         "category": "mundo",
         "sources": [
           {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/numero-de-mortos-na-colombia-sobe-para-132-apos-terremoto/"
+          },
+          {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/crmr1nzz84jo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/numero-de-mortos-em-terremoto-sobe-para-132-diz-associacao-na-colombia/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/numero-mortos-colombia-132-feridos-500"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/mundo/ao-vivo/ao-vivo-terremoto-colombia-destruicao.ghtml"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/sobe-numero-de-mortos-em-terremoto-na-colombia/"
-          }
-        ],
-        "updatedAt": "2026-08-10T20:18:38.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f42/live/425779d0-94d5-11f1-8a9a-13c674e4e5fe.jpg"
-      },
-      {
-        "clusterId": "7c7d9d9764a116c7",
-        "slug": "855d36f2aa540446",
-        "titulo": "Governo Trump revogou mais de 175 mil vistos",
-        "resumo": "O Departamento de Estado dos EUA informou que, durante o governo de Donald Trump, foram revogados mais de 175 mil vistos de estrangeiros. As revogações foram motivadas por violações de termos de visto, crimes, incitação à violência, fraude e ameaças à segurança nacional. A maioria dos casos resultou de encontros com a polícia. O número reflete a política de imigração mais rigorosa adotada pelo governo.",
-        "porQueImporta": "Ilustra a extensão das medidas de controle de fronteira implementadas durante a administração Trump.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/governo-trump-diz-ter-revogado-mais-de-175-mil-vistos/"
+            "name": "GE",
+            "url": "https://ge.globo.com/sc/futebol/times/chapecoense/noticia/2026/08/10/chapecoense-se-solidariza-com-terremoto-na-colombia.ghtml"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/10/governo-trump-revogou-mais-de-175-mil-vistos-segundo-eua.ghtml"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-internacional/espriella-declara-situacao-de-desastre-apos-terremoto-na-colombia/"
           }
         ],
-        "updatedAt": "2026-08-10T20:40:45.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/AFP__20260810__C4CJ7RZ__v3__HighRes__UsPresidentDonaldTrumpSignsExecutiveOrderOnVacc.jpg?quality=70&strip=info"
+        "updatedAt": "2026-08-11T01:33:01.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2024/08/GettyImages-2289302865-e1786395766111.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "66c33bdf864f9863",
-        "slug": "164474a8aeee4471",
-        "titulo": "Terremoto de magnitude 7,4 na Colômbia causa 111 mortes e 87 feridos",
-        "resumo": "Um terremoto de magnitude 7,4 atingiu a Colômbia, resultando em pelo menos 111 mortes, 87 feridos e 61 prédios desabados. O evento foi listado entre os 10 terremotos mais mortais da América Latina. Líderes mundiais ofereceram ajuda ao país afetado. A ocorrência destaca a vulnerabilidade de regiões próximas a falhas tectônicas.",
-        "porQueImporta": "Ilustra a importância da preparação e resposta a desastres em áreas de risco sísmico.",
+        "clusterId": "3ed202875b063396",
+        "slug": "c529db545a92f033",
+        "titulo": "Trump assina ordem executiva que reduz vacinas recomendadas para crianças",
+        "resumo": "O presidente dos Estados Unidos, Donald Trump, assinou uma ordem executiva que limita o calendário infantil a 11 vacinas e propõe separar a vacina combinada MMR em três vacinas distintas, com consultas médicas separadas. A medida também prevê ampliar o intervalo entre as doses de algumas vacinas. A Academia Americana de Pediatria considerou a ordem perigosa, pois pode reduzir a cobertura vacinal e aumentar a vulnerabilidade a doenças.",
+        "porQueImporta": "A mudança pode comprometer a imunização infantil e a saúde pública nos EUA.",
         "category": "mundo",
         "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/veja-os-10-terremotos-mais-mortais-da-america-latina/"
-          },
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cgjxdy1lnn7o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/articles/cy741ygzxndo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/trump-assina-decreto-para-diminuir-lista-de-vacinas-infantis/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/saude/noticia/2026/08/10/trump-assina-ordem-que-reduz-vacinas-recomendadas-para-criancas.ghtml"
           }
         ],
-        "updatedAt": "2026-08-10T19:30:48.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e9dd/live/6f1af870-94c6-11f1-9730-59a19ad5a9b7.jpg"
+        "updatedAt": "2026-08-11T01:29:47.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aabb/live/99e3e780-9523-11f1-a7ab-8b30adf0800a.jpg"
       },
       {
-        "clusterId": "b258570be932624c",
-        "slug": "2c605edf223b7057",
-        "titulo": "Ataques russos na Ucrânia deixam 2 mortos e dezenas de feridos",
-        "resumo": "Em 9 de agosto de 2026, a Ucrânia registrou ataques russos que atingiram as cidades de Odesa, Kharkiv e Pavlohrad, resultando em duas mortes e dezenas de feridos, segundo o presidente Volodymyr Zelensky. Os ataques também danificaram o porto de Odesa e prédios residenciais na região. Equipes de resgate trabalharam nas áreas afetadas. O incidente reflete a continuidade dos combates e o impacto sobre civis.",
-        "porQueImporta": "Ilustra a persistência dos ataques aéreos e o custo humano na guerra entre Rússia e Ucrânia.",
+        "clusterId": "ed52c35a06902029",
+        "slug": "15c05849021688c7",
+        "titulo": "Terremoto de magnitude 7,4 atinge Colômbia, causando destruição em aeroportos, edifícios militares e catedrais",
+        "resumo": "Um terremoto de magnitude 7,4 atingiu a Colômbia na manhã de segunda-feira, 10, provocando danos em aeroportos, edifícios militares e a Catedral Basílica Metropolitana em Manizales. Vídeos mostram telhado de caserna desabando, parte do teto do Aeroporto Internacional Matecaña caindo e um prédio de quatro andares sendo destruído. O tremor deixou mais de 100 mortos no país.",
+        "porQueImporta": "O evento evidencia a vulnerabilidade de infraestruturas críticas e a necessidade de reforço em normas de construção e planos de emergência.",
         "category": "mundo",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/agro/ucrania-reduz-previsao-de/"
+            "url": "https://www.cnnbrasil.com.br/internacional/video-influenciador-mostra-momento-de-terremoto-em-aeroporto-na-colombia/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/09/ataques-russos-deixam-mortos-e-feridos-na-ucrania-diz-zelensky.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/10/video-mostra-telhado-de-caserna-desabando-com-terremoto-durante-exercicio-militar-na-colombia.ghtml"
           }
         ],
-        "updatedAt": "2026-08-10T19:29:58.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/ejZ9szvDXbgmnazdZ3tUR4fDvig=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/6/aqnYgIR7ydX9AUEvoCHA/2026-08-09t074235z-36483493-rc2vumakcfcv-rtrmadp-3-ukraine-crisis-attack-odesa.jpg"
+        "updatedAt": "2026-08-10T22:31:53.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/wmC9cWiM6uhdDfrKL-Ra6vgJlrs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/O/qIelk4RIuKPTBGGcBxTw/merged.jpg"
       },
       {
         "clusterId": "0dcdecb10fb55f78",
         "slug": "7b84fd99ee35c7ad",
-        "titulo": "O que é o 'turismo de nascimentos' que Trump quer barrar — e o quanto ele é comum?",
-        "resumo": "Mulher grávida anda por aeroporto Getty Images/Via BBC O presidente dos Estados Unidos, Donald Trump, anunciou novas ordens executivas com o objetivo de acabar com o chamado turismo de nascimentos nos EUA e limitar a cidadania por nascimento para certos grupos. Isso faz parte de um esforço do seu governo para restringir o acesso à cidadania americana, após a Suprema Corte ter rejeitado a primeira tentativa de Trump em junho. Turismo de nascimento: veja perguntas e respostas sobre o novo decreto de Trump para barrar cidadania Trump pretende acabar com cidadania automática para filhos de…",
-        "porQueImporta": "",
+        "titulo": "Trump anuncia ordens para impedir turismo de nascimentos",
+        "resumo": "O presidente Donald Trump divulgou novas ordens executivas visando acabar com o turismo de nascimentos nos Estados Unidos e limitar a cidadania automática por nascimento a certos grupos. A medida faz parte de um esforço para restringir o acesso à cidadania americana, após a Suprema Corte ter rejeitado a primeira tentativa de Trump em junho. O governo pretende impedir que estrangeiros tragam filhos para obter cidadania americana. A iniciativa segue o debate sobre políticas migratórias e direitos de cidadania.",
+        "porQueImporta": "A decisão pode alterar significativamente o acesso à cidadania americana para famílias estrangeiras que buscam nascimentos no país.",
         "category": "mundo",
         "sources": [
           {
@@ -688,43 +667,63 @@
         "imageUrl": "https://s2-g1.glbimg.com/Rs1_MseC1XiFhPwS1w9rm9Uuz4o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/B/FylleGT0SDqI8TiIwayw/imagem-1200x800-3-.jpg"
       },
       {
-        "clusterId": "ef8cd7abf706cea3",
-        "slug": "15c05849021688c7",
-        "titulo": "VÍDEO mostra danos a catedral na Colômbia após terremoto",
-        "resumo": "VÍDEO mostra danos a catedral na Colômbia após terremoto Um vídeo feito por moradores e publicado nas redes sociais após um terremoto de magnitude 7,4 atingir o noroeste da Colômbia nesta segunda-feira (10) mostra estragos em uma das torres laterais da Catedral Basílica Metropolitana Nossa Senhora do Rosário, um dos principais cartões-postais da cidade colombiana de Manizales. Acompanhe em TEMPO REAL as notícias sobre o terremoto que atingiu a Colômbia Terremoto na Colômbia: VÍDEOS e FOTOS retratam destruição e desespero no país Destroços ficaram espalhados pelas ruas próximas e a fachada do…",
-        "porQueImporta": "",
+        "clusterId": "2392f53e8acf4017",
+        "slug": "5251de46382b2fc6",
+        "titulo": "Cientistas alertam sobre efeitos graves do 'Super El Niño' na América Latina",
+        "resumo": "O fenômeno El Niño previsto para 2026 pode ser um dos mais intensos das últimas décadas, gerando ondas de calor, secas e chuvas torrenciais em grandes partes da região. A presidente do Peru, Keiko Fujimori, já incluiu o El Niño como prioridade nas emergências nacionais. A previsão de extremos climáticos pode afetar a segurança, a agricultura e a infraestrutura em vários países latino‑americanos.",
+        "porQueImporta": "O aumento de eventos climáticos extremos pode comprometer a segurança alimentar, a saúde pública e a estabilidade econômica na região.",
         "category": "mundo",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/10/video-mostra-telhado-de-caserna-desabando-com-terremoto-durante-exercicio-militar-na-colombia.ghtml"
+            "url": "https://g1.globo.com/meio-ambiente/noticia/2026/08/09/os-graves-efeitos-do-super-el-nino-na-america-latina-previstos-pelos-cientistas.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c3v01yx9574o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-08-10T19:37:37.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/wmC9cWiM6uhdDfrKL-Ra6vgJlrs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/O/qIelk4RIuKPTBGGcBxTw/merged.jpg"
+        "updatedAt": "2026-08-09T10:01:42.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/PgGoXDNNnTLbnIh3oSJXRKtNzck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/8/QljwUHSymkVymsFKV6bA/image-11-.png"
       },
       {
-        "clusterId": "462650ed7f37f74b",
-        "slug": "683cf9d7daced52e",
-        "titulo": "As impactantes imagens do terremoto que abalou a Colômbia",
-        "resumo": "O terremoto causou danos materiais e humanos significativos em cidades como Cali, Pereira e Manizales, resultando na morte de mais de 100 pessoas.",
-        "porQueImporta": "",
+        "clusterId": "d625a9500963b888",
+        "slug": "3396dfdae929d9eb",
+        "titulo": "Voo cancelado no Canadá após criança se recusar a usar cinto de segurança",
+        "resumo": "No Aeroporto Internacional de Victoria, a Porter Airlines cancelou o voo PD444 quando a tripulação percebeu que uma criança estava em pé no assento e sem cinto de segurança. O incidente ocorreu antes da decolagem, quando o avião já havia saído do terminal. A recusa da criança em permanecer sentada e usar o cinto levou à decisão de cancelar o voo.",
+        "porQueImporta": "Ilustra a importância das normas de segurança em voos e os impactos de não cumprimento por passageiros, mesmo crianças.",
         "category": "mundo",
         "sources": [
           {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cvg8l12j5pvo?at_medium=RSS&at_campaign=rss"
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/10/voo-e-cancelado-no-canada-apos-crianca-se-recusar-a-ficar-sentada-e-colocar-o-cinto-de-seguranca.ghtml"
           }
         ],
-        "updatedAt": "2026-08-10T19:15:51.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b464/live/69932a70-94e5-11f1-8d2f-451ff8544cca.jpg"
+        "updatedAt": "2026-08-10T21:14:16.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/NCQhC4uG2-Hltlje-5CLcJe52Sk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Q/gAS75wTsa6uZULY6J8eg/ap4111063450416221.jpg"
+      },
+      {
+        "clusterId": "186a93435e125846",
+        "slug": "07747545e2e2e122",
+        "titulo": "Número de mortos nos terremotos da Venezuela chega a 6.301",
+        "resumo": "Os terremotos de 24 de junho, com magnitudes 7,2 e 7,5, causaram o maior número de fatalidades na Venezuela desde 1812, totalizando 6.301 mortes. O governo informou que mais de 73 mil pessoas precisaram de atendimento hospitalar. Aproximadamente 190 edifícios desabaram e quase mil sofreram danos estruturais.",
+        "porQueImporta": "O desastre representa o pior evento natural da história recente do país, destacando a necessidade de reforço em infraestrutura e sistemas de alerta.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/10/numero-de-mortos-no-terremoto-da-venezuela-chega-a-6301.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-10T20:08:10.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/uMg5iG_qjgmljNz3DlXVtwqnaI0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/e/HLfqOPSNiYAOQFlHIGNw/2026-07-11t222946z-1951886010-rc2xbma1daqu-rtrmadp-3-venezuela-quake.jpg"
       },
       {
         "clusterId": "a8ad52bf8c81f520",
         "slug": "7a9db230420af5f9",
-        "titulo": "Rússia proíbe único partido contrário à guerra de disputar eleições parlamentares",
-        "resumo": "Bombardeio ucraniano atinge refinaria no Tartaristão, na Rússia, e deixa mortos e feridos A Suprema Corte da Rússia proibiu, nesta segunda-feira (10), o Yabloko, único partido do país contrário à guerra, de participar das eleições parlamentares de setembro. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O juiz Vyacheslav Kirillov declarou que foram \"aceitos\" os pedidos para anular o registro das candidaturas do Yabloko no pleito. Um partido nacionalista pró-Kremlin havia recorrido à Suprema Corte para impedir a participação do Yabloko nas eleições parlamentares, vencidas desde…",
-        "porQueImporta": "",
+        "titulo": "Rússia proíbe Yabloko de participar das eleições e enfrenta ataque ucraniano no Tartaristão",
+        "resumo": "A Suprema Corte da Rússia proibiu o partido Yabloko, único opositor à guerra, de concorrer nas eleições parlamentares de setembro, após pedido de um partido nacionalista pró-Kremlin. Em paralelo, um ataque aéreo ucraniano atingiu uma refinaria em Nizhnekamsk, no Tartaristão, causando 13 mortes, incluindo uma criança, e 75 feridos. O governo local acusou a Ucrânia de atacar alvos industriais e civis, descrevendo o incidente como um \"ataque em massa\" de drones.",
+        "porQueImporta": "O bloqueio do Yabloko restringe a oposição política na Rússia, enquanto o ataque demonstra a escalada de violência na região e a vulnerabilidade de infraestruturas críticas.",
         "category": "mundo",
         "sources": [
           {
@@ -738,162 +737,253 @@
     ],
     "tecnologia": [
       {
-        "clusterId": "4ee7aa9b227ca4c1",
-        "slug": "b269e0e450b8faf1",
-        "titulo": "Agosto terá dois eclipses, um visível no Brasil",
-        "resumo": "Em agosto ocorrerão dois eclipses: um solar total no hemisfério norte e um lunar quase total que pode ser observado a olho nu em países da América, Europa e África, incluindo o Brasil. O eclipse solar total será visível apenas em regiões do hemisfério norte, enquanto o lunar permitirá que o público brasileiro veja a Lua de sangue. Ambos os fenômenos são eventos astronômicos de curta duração e alta visibilidade.",
-        "porQueImporta": "Esses eclipses oferecem oportunidades únicas de observação astronômica e de divulgação científica para o público brasileiro.",
+        "clusterId": "8463551c6035057f",
+        "slug": "f03cafd4dd47704b",
+        "titulo": "Apple Watch pode mudar formato e incluir modelos sem tela",
+        "resumo": "A Apple está estudando alterações significativas no design do Apple Watch, incluindo versões sem tela, modelos mais acessíveis e opções mais sofisticadas. Essas ideias, relatadas por Mark Gurman da Bloomberg, ainda estão em fase inicial e não há previsão de lançamento. A proposta sugere uma possível evolução no posicionamento do smartwatch da empresa.",
+        "porQueImporta": "Mudanças no Apple Watch podem redefinir a experiência e o mercado de wearables.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/10/ciencia-e-espaco/quando-tera-um-eclipse-solar-total-visivel-no-brasil/"
+            "url": "https://olhardigital.com.br/2026/08/10/reviews/apple-watch-pode-deixar-para-tras-o-visual-que-marcou-sua-historia/"
+          },
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/smartwatch/apple-watch-pode-ganhar-formato-inesperado-segundo-vazamento/"
+          }
+        ],
+        "updatedAt": "2026-08-11T01:22:58.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/6C23-LoJSaKLUWo64keJ7smjhTk=/0x0/filters:format(webp):quality(85)/974f7d66-2c4e-441a-a9c5-833a84ec1533.jpeg"
+      },
+      {
+        "clusterId": "d295e99df118d3c2",
+        "slug": "d016abcdae7dd9c0",
+        "titulo": "Eclipse solar de 2026 não será visível no Brasil",
+        "resumo": "O eclipse solar total de 12 de abril de 2026 terá sua faixa de totalidade com apenas 293 km de largura, passando pelo Oceano Ártico, Groenlândia, Islândia e Espanha. No Brasil, a região não ficará dentro dessa faixa, impedindo a observação da totalidade. Observadores no hemisfério norte poderão ver o Sol totalmente oculto pela Lua, enquanto o dia se transforma em crepúsculo temporariamente.",
+        "porQueImporta": "O evento destaca a limitação de cobertura geográfica de eclipses solares, afetando a possibilidade de observação em países fora da faixa de totalidade.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/ciencia/um-fenomeno-misterioso-ocorre-durante-a-totalidade-de-um-eclipse-solar/"
           },
           {
             "name": "Canaltech",
             "url": "https://canaltech.com.br/ciencia-e-espaco/por-que-nao-vai-dar-para-ver-o-eclipse-solar-de-2026-no-brasil/"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cvgx349yzdgo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/ciencia/noticia/2026/08/10/agosto-tera-dois-eclipses-mas-so-um-deles-podera-ser-visto-do-brasil.ghtml"
           }
         ],
-        "updatedAt": "2026-08-10T19:15:00.000Z",
+        "updatedAt": "2026-08-11T00:12:53.000Z",
         "imageUrl": "https://tl.ctcdn.com.br/OoqeBy6sG0X307QJIzZuZO1NAYg=/0x0/filters:format(webp):quality(85)/7f6020f9-ea14-4334-baec-571add850279.png"
       },
       {
-        "clusterId": "10a266d9ffb171a1",
-        "slug": "c21c6946f3df5152",
-        "titulo": "Google TV remove filmes comprados e acende alerta sobre fim da mídia física",
-        "resumo": "Um usuário que comprou a trilogia O Senhor dos Anéis no Google TV (antiga Google Play Filmes) em 2022 alega que a empresa removeu os filmes de sua biblioteca e se recusou a fazer o reembolso. Assim como outros serviços de streaming, o Google TV também conta com catálogo rotativo, embora ofereça serviços de aluguel e compra de filmes e programas de TV. Contudo, o usuário conhecido como ugoindownsaka1 afirmou que os filmes simplesmente desapareceram de sua conta. \"Eu comprei estes em 2022, de repente não estão mais disponíveis e não há possibilidade de reembolso ou gift card. Dificilmente…",
-        "porQueImporta": "",
+        "clusterId": "f27054c8fe55137b",
+        "slug": "6ee99f72564ad9d9",
+        "titulo": "Resultado da Quina 7088 divulgado",
+        "resumo": "O concurso 7088 da Quina foi sorteado em São Paulo na segunda-feira, 10 de agosto, com prêmio de R$ 2,1 milhões. Os cinco números premiados foram divulgados pela Caixa Econômica Federal. Além da Quina, a Caixa também realizou os sorteios de Lotofácil, Lotomania, Dupla Sena, Dia de Sorte e Super Sete.",
+        "porQueImporta": "Informação relevante para apostadores que desejam saber os números sorteados e o valor do prêmio.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/entretenimento/google-tv-remove-filmes-comprados-e-acende-alerta-sobrefim-da-midia-fisica/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/veja-o-resultado-da-quina-7088-sorteada-nesta-segunda-feira-10-8"
+          },
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/10/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7088-segunda-10-08/"
           }
         ],
-        "updatedAt": "2026-08-10T20:15:00.000Z"
+        "updatedAt": "2026-08-11T00:07:03.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/07/quina.jpg"
       },
       {
-        "clusterId": "b54cd83e1f8e53cc",
-        "slug": "ae8ad14ea61258b1",
-        "titulo": "Volkswagen Tera fica no precinho para limpar estoques da linha 2026",
-        "resumo": "A Volkswagen decidiu reduzir os preços da Tera 2026 para limpar os estoques e abrir espaço para a chegada da linha 2027. O SUV compacto, que já foi um sucesso na pré-venda, com 12 mil pedidos em apenas 50 minutos, agora pode ser encontrado com descontos de até R$ 19 mil em algumas concessionárias. A estratégia da marca é clara: oferecer condições atrativas para quem busca um modelo completo, mas com custo-benefício mais competitivo. Com mais de 40 mil unidades vendidas no acumulado do ano, o Tera se consolidou como rival direto de Fiat Pulse, Renault Kardian e Chevrolet Sonic. Os maiores…",
-        "porQueImporta": "",
+        "clusterId": "53eb233c30562221",
+        "slug": "2f8da15eec5252c9",
+        "titulo": "Disney e ESPN testam IA para transformar buscas e recomendações na TV",
+        "resumo": "A Disney e a ESPN estão experimentando recursos de inteligência artificial que permitem consultas por voz ou texto na televisão. O objetivo é ampliar as opções de conteúdo de acordo com o interesse individual de cada usuário. Os testes visam melhorar a experiência de busca e personalizar as recomendações de programas e filmes.",
+        "porQueImporta": "Esses testes podem mudar a forma como os espectadores interagem com a TV, tornando a navegação mais intuitiva e personalizada.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/carros/volkswagen-tera-fica-no-precinho-para-limpar-estoques-da-linha-2026/"
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/10/cinema-e-streaming/disney-e-espn-testam-ia-para-transformar-buscas-e-recomendacoes-na-tv/"
           }
         ],
-        "updatedAt": "2026-08-10T20:05:01.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/mNYOd9C7BhtAimrTOTny_mzooHc=/0x0/filters:format(webp):quality(85)/d161c88f-627a-4513-89c3-8bbbd7321833.jpeg"
+        "updatedAt": "2026-08-11T00:48:20.000Z"
       },
       {
-        "clusterId": "89f65585c658bebf",
-        "slug": "01411dd0e82ae83a",
-        "titulo": "Falha em e-mails \"no-reply\" escancara segredos de grandes empresas",
-        "resumo": "Endereços de e-mail criados para nunca receber respostas, como \"noreply\" e \"deleteduser\", estão se transformando em portas de entrada para dados sigilosos de empresas. Uma investigação da revista WIRED mostrou que pesquisadores de segurança compraram domínios ligados a esses endereços genéricos e passaram a receber, sem qualquer invasão, informações internas de companhias que acreditavam estar enviando mensagens para um destino inexistente. Os pesquisadores Cory Solovewicz e Mike Sheward protagonizam o caso. Eles não precisaram de ataques sofisticados. Bastou registrar os domínios certos para…",
-        "porQueImporta": "",
+        "clusterId": "2be5b4cc994c2034",
+        "slug": "3994a5e8b8f9eb91",
+        "titulo": "Apple pode incluir ferramenta de verificação de autenticidade de imagens no iOS 27",
+        "resumo": "A Apple está considerando adicionar uma função que permita confirmar a autenticidade de fotos tiradas com dispositivos iOS, em resposta ao aumento de imagens geradas por IA. A ferramenta teria como objetivo aumentar a confiança nos registros digitais feitos pelos usuários. Ainda não há confirmação oficial sobre a implementação ou data de lançamento.",
+        "porQueImporta": "Garantir a confiabilidade das imagens digitais é crucial em um contexto de crescente uso de IA para criar conteúdo falso.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/internet-e-redes-sociais/falha-em-e-mails-no-reply-escancara-segredos-de-grandes-empresas/"
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/10/reviews/ios-27-pode-ganhar-ferramenta-para-comprovar-autenticidade-de-imagens/"
           }
         ],
-        "updatedAt": "2026-08-10T20:02:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/-UOZtv4pmPRCxwoqk1KUoDI1mMs=/0x0/filters:format(webp):quality(85)/01808376-d5e3-432b-b438-042e43df8f96.png"
+        "updatedAt": "2026-08-11T00:32:59.000Z"
       },
       {
-        "clusterId": "2d3db7abcbf803d3",
-        "slug": "5757884de30478e5",
-        "titulo": "NASA+ chega ao discovery+ e HBO Max com novos conteúdos sobre exploração espacial",
-        "resumo": "Além da expansão, o serviço seguirá gratuito e sem anúncios, enquanto a tecnologia Dolby Vision promete experiência vívida aos espectadores O post NASA+ chega ao discovery+ e HBO Max com novos conteúdos sobre exploração espacial apareceu primeiro em Olhar Digital.",
+        "clusterId": "ec3ee9a6704bd7ef",
+        "slug": "c669da981ada7037",
+        "titulo": "Confira o Olhar Digital News na íntegra (10/08/2026)",
+        "resumo": "Confira as principais notícias do mundo da tecnologia e da ciência no programa Olhar Digital News de hoje O post Confira o Olhar Digital News na íntegra (10/08/2026) apareceu primeiro em Olhar Digital.",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/10/cinema-e-streaming/nasa-chega-ao-discovery-e-hbo-max-com-novos-conteudos-sobre-exploracao-espacial/"
+            "url": "https://olhardigital.com.br/2026/08/10/videos/confira-o-olhar-digital-news-na-integra-10-08-2026/"
           }
         ],
-        "updatedAt": "2026-08-10T19:48:02.000Z"
+        "updatedAt": "2026-08-11T00:32:22.000Z"
       },
       {
-        "clusterId": "ca244210b8c52f03",
-        "slug": "f0d1391acbe364c9",
-        "titulo": "Samsung, Redmi e mais: smartwatches em promoção que valem a pena conferir",
-        "resumo": "Se você está pensando em monitorar melhor a saúde, complementar o visual ou simplesmente ter mais praticidade no dia a dia, essa seleção de smartwatches em oferta na Amazon pode ser exatamente o que você procurava. Reunimos três opções que combinam tecnologia, design e funcionalidade — dá uma olhada. Smartwatch Samsung Galaxy Fit3 Display 1.6″ […] O post Samsung, Redmi e mais: smartwatches em promoção que valem a pena conferir apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/10/reviews/samsung-redmi-e-mais-smartwatches-em-promocao-que-valem-a-pena-conferir/"
-          }
-        ],
-        "updatedAt": "2026-08-10T19:40:00.000Z"
-      },
-      {
-        "clusterId": "057038b766391f14",
-        "slug": "2db8e48eb42bb821",
-        "titulo": "EUA voltam atrás e querem proibir drones que já tinham sido aprovados",
-        "resumo": "A Comissão Federal de Comunicações dos Estados Unidos (FCC) está preparando uma ampliação da proibição de drones no país e pode incluir modelos que já haviam sido aprovados anteriormente pela própria agência. A medida afetaria equipamentos com recursos considerados de risco à segurança nacional, incluindo sensores LiDAR, câmeras térmicas e dispensadores de aerossol. 📱 Veja as melhores promoções de hoje no WhatsApp do CT Ofertas A proposta pode atingir modelos da DJI, incluindo drones de consumo como o DJI Air 3S, DJI Avata 360 e DJI Mini 5 Pro. Segundo a FCC, a eventual proibição não…",
-        "porQueImporta": "",
+        "clusterId": "30e4bd3712b2f351",
+        "slug": "45b93c5947995af3",
+        "titulo": "Spotify testa botão que permite pular blocos inteiros de podcasts",
+        "resumo": "O Spotify iniciou testes de uma função chamada \"Skip ahead\" que permite avançar por blocos inteiros de episódios com um toque. O recurso pode ser usado para ignorar anúncios, introduções, mensagens de patrocínio ou assinaturas premium. O teste está disponível apenas para assinantes Premium selecionados nos Estados Unidos e no Reino Unido.",
+        "porQueImporta": "O recurso pode afetar a receita de criadores que dependem de publicidade em seus podcasts.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/produtos/eua-voltam-atras-e-querem-proibir-drones-que-ja-tinham-sido-aprovados/"
+            "url": "https://canaltech.com.br/apps/spotify-comeca-a-testar-botao-que-esta-preocupando-criadores-de-podcasts/"
           }
         ],
-        "updatedAt": "2026-08-10T19:35:39.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/dae_WWTxqD_bHPJoBiqNyZAxA8M=/0x0/filters:format(webp):quality(85)/706bf1a0-550c-4cc2-9352-8585f0b4dd18.png"
+        "updatedAt": "2026-08-11T00:01:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/6WA0qQwk88z8L7uK55crV2vxODs=/0x0/filters:format(webp):quality(85)/2c77532a-bee9-452f-b794-4596ecd05aa6.png"
       },
       {
-        "clusterId": "a9fabc53c8ab4c1e",
-        "slug": "a5ae11b8ba4c2404",
-        "titulo": "Halo, LEGO e muito mais: uma seleção de jogos Xbox que vale a pena conferir",
-        "resumo": "Se você é fã de Xbox e está em busca de bons títulos para adicionar à sua coleção, reunimos três opções que passaram pelo nosso radar e merecem atenção. De aventuras épicas de ficção científica a experiências divertidas para toda a família com blocos de LEGO, há algo aqui para diferentes perfis de jogadores. Confira! […] O post Halo, LEGO e muito mais: uma seleção de jogos Xbox que vale a pena conferir apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
+        "clusterId": "49570ccf7a59eaca",
+        "slug": "13209a07a814e88d",
+        "titulo": "Resultado da Lotofácil do concurso 3758",
+        "resumo": "O sorteio da Lotofácil do concurso 3758 foi realizado na noite de segunda-feira, 10 de agosto, às 21h. O prêmio estimado para o concurso era de R$ 5 milhões. Os números sorteados e os ganhadores foram divulgados pela Olhar Digital.",
+        "porQueImporta": "Informação relevante para quem participa ou acompanha a Lotofácil.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/10/reviews/halo-lego-e-muito-mais-uma-selecao-de-jogos-xbox-que-vale-a-pena-conferir-3/"
+            "url": "https://olhardigital.com.br/2026/08/10/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3758-segunda-10-08/"
           }
         ],
-        "updatedAt": "2026-08-10T19:20:00.000Z"
+        "updatedAt": "2026-08-10T23:40:00.000Z"
       }
     ],
     "ciencia": [
       {
-        "clusterId": "3818712403c917f8",
-        "slug": "cced1567a525b722",
-        "titulo": "Gene neandertal aumenta altura e massa muscular em humanos",
-        "resumo": "Um estudo identificou que uma variante genética de DNA neandertal aumenta a altura e a massa muscular em humanos. A variante é mais frequente em pessoas do sul e leste da Ásia. Os pesquisadores analisaram dados genômicos de milhares de indivíduos para chegar à conclusão.",
-        "porQueImporta": "A descoberta ajuda a entender como genes antigos influenciam características físicas modernas.",
+        "clusterId": "c7d97e8d42b6e9b7",
+        "slug": "87f61db53480e51d",
+        "titulo": "Estudo mostra que canto de pássaros segue padrão estatístico da linguagem humana",
+        "resumo": "Pesquisadores descobriram que os padrões de frequência das notas no canto de aves podem ser descritos pela Lei de Zipf, a mesma que rege a distribuição de palavras em textos humanos. O estudo sugere que esse padrão facilita a transmissão de repertórios vocais entre gerações de aves. A análise comparou gravações de diferentes espécies e identificou a regularidade estatística nas sequências de notas. Os resultados apontam para uma possível convergência evolutiva entre comunicação animal e humana.",
+        "porQueImporta": "Indica que mecanismos de aprendizado e transmissão de informação podem ser universais entre espécies.",
         "category": "ciencia",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/ciencia/dna-neandertal-entenda-como-gene-primata-nos-deixou-mais-fortes-e-altos/"
-          },
-          {
             "name": "Super Interessante",
-            "url": "https://super.abril.com.br/ciencia/gene-neandertal-faz-alguns-humanos-ficarem-mais-altos-e-musculosos/"
+            "url": "https://super.abril.com.br/ciencia/o-canto-dos-passaros-segue-o-mesmo-padrao-da-linguagem-humana-aponta-estudo/"
           }
         ],
-        "updatedAt": "2026-08-10T18:27:05.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/08/SI_gene-neandertal-_site.jpg?quality=70&strip=info"
+        "updatedAt": "2026-08-10T22:00:27.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/08/SI_passaros_site.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "615602db8b812e01",
+        "slug": "d6ad00449f1002ea",
+        "titulo": "Departamento de Música promove recital na Biblioteca Sinhá Junqueira",
+        "resumo": "Apresentação gratuita e sem necessidade de retirada de ingresso antecipadamente, será nesta quinta-feira, dia 13 de agosto, às 18 horas",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/campus-ribeirao-preto/departamento-de-musica-promove-recital-na-biblioteca-sinha-junqueira/"
+          }
+        ],
+        "updatedAt": "2026-08-10T20:58:58.000Z"
+      },
+      {
+        "clusterId": "b604e9f29d461adb",
+        "slug": "41feab32b5ea4c36",
+        "titulo": "Migração, saúde mental e envelhecimento: os desafios dos nikkeis latino-americanos no Japão",
+        "resumo": "Por Deusivania Vieira da Silva Falcão, professora da Escola de Artes, Ciências e Humanidades (EACH) da USP, Lídia Sadaco Minamizaki Ikuta, doutoranda pela EACH-USP, e Mary Yoko Okamoto, professora da Universidade Estadual Paulista (Unesp)",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/artigos/migracao-saude-mental-e-envelhecimento-os-desafios-dos-nikkeis-latino-americanos-no-japao/"
+          }
+        ],
+        "updatedAt": "2026-08-10T20:31:53.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260810_autoras-1024x538.jpg"
+      },
+      {
+        "clusterId": "a29c66c01c89cf6c",
+        "slug": "48bab269a8e717d8",
+        "titulo": "A morte antes da vida",
+        "resumo": "Por Marcos Buckeridge, professor do Instituto de Biociências da USP",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/articulistas/marcos-buckeridge/a-morte-antes-da-vida/"
+          }
+        ],
+        "updatedAt": "2026-08-10T20:23:18.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/10/perfil_dest_Marcos-Buckeridge.jpg"
+      },
+      {
+        "clusterId": "5b076e00333ac2f3",
+        "slug": "ad5be0be8ee45e8f",
+        "titulo": "Curso gratuito no Centro MariAntonia aborda estudos sobre memória e lutas sociais",
+        "resumo": "O Centro MariAntonia oferece um curso gratuito que explora os estudos da memória no contexto histórico e social. O programa inclui palestras e debates sobre como a memória influencia as lutas sociais. Participantes receberão uma visão abrangente das abordagens internacionais sobre memória. O curso visa ampliar o entendimento sobre a relação entre memória e movimentos sociais.",
+        "porQueImporta": "O evento contribui para a formação de profissionais e estudantes interessados em memória e ativismo social.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/cadernodecultura/curso-memoria-e-lutas-sociais/"
+          }
+        ],
+        "updatedAt": "2026-08-10T19:44:43.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/jornal-da-usp-1200-x-630memoria_luta-1024x538.png"
+      },
+      {
+        "clusterId": "cfcf1b8e3011bbd5",
+        "slug": "abd7cd770d6bd07d",
+        "titulo": "Curso gratuito introduz conceitos de conhecimento na filosofia",
+        "resumo": "Serão apresentadas diferentes abordagens a respeito do conhecimento",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/cadernodecultura/curso-introducao-filosofia/"
+          }
+        ],
+        "updatedAt": "2026-08-10T19:42:00.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/jornal-da-usp-1200-x-630Quatro-Aulas-1024x538.jpg"
+      },
+      {
+        "clusterId": "b2d1021c170bf6ad",
+        "slug": "edfce87feab94953",
+        "titulo": "Mostra “Fazer falar os ossos” apresenta trabalho da antropologia forense sobre a ditadura",
+        "resumo": "A exposição explora o trabalho cotidiano de especialistas forenses que investigam pessoas assassinadas ou desaparecidas durante a ditadura brasileira",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/cadernodecultura/mostra-antropologia-forense-ditadura/"
+          }
+        ],
+        "updatedAt": "2026-08-10T19:26:40.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/07/jornal-da-usp-1200-x-630-ossos-1-1024x538.jpg"
       },
       {
         "clusterId": "4ac737a834277c1f",
@@ -910,105 +1000,24 @@
         ],
         "updatedAt": "2026-08-10T19:11:10.000Z",
         "imageUrl": "https://jornal.usp.br/wp-content/uploads/2024/08/20240805_saude-mental-1024x538.jpg"
-      },
-      {
-        "clusterId": "cecac6f39dfdd111",
-        "slug": "ede522a6e17a865c",
-        "titulo": "Cientistas fabricam os primeiros vírus biológicos criados por IA",
-        "resumo": "Eles matam bactérias e podem ajudar a combater infecções resistentes a antibióticos - mas também levantam receio de vazamentos e bioterrorismo",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/coluna/bruno-garattoni/cientistas-fabricam-os-primeiros-virus-biologicos-criados-por-ia/"
-          }
-        ],
-        "updatedAt": "2026-08-10T19:00:55.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/08/SI_virus-biologico-IA_site02.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "71ecd28b594c5a3b",
-        "slug": "df149996318932f8",
-        "titulo": "São Paulo recicla menos de 3% do lixo 15 anos após Política Nacional de Resíduos Sólidos, mostra estudo",
-        "resumo": "De acordo com as análises, a taxa de coleta seletiva subiu em 2024, mas o volume representa menos de 10% da meta prevista para o período",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/ciencias/sao-paulo-recicla-menos-de-3-do-lixo-15-anos-apos-politica-nacional-de-residuos-solidos-mostra-estudo/"
-          }
-        ],
-        "updatedAt": "2026-08-10T18:41:18.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260805_lixo-1024x538.jpg"
-      },
-      {
-        "clusterId": "4e363dfb9e5f3d3f",
-        "slug": "0e4eb0939e5cf029",
-        "titulo": "USP integra rede internacional para pesquisa e governança responsável da inteligência artificial",
-        "resumo": "Assinado em 16 de julho, no contexto da World Artificial Intelligence Conference (WAIC), memorando reúne instituições da Ásia, da América do Sul e da Europa em torno de pesquisa, formação e governança da inteligência artificial",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/universidade/usp-integra-rede-internacional-para-pesquisa-e-governanca-responsavel-da-inteligencia-artificial/"
-          }
-        ],
-        "updatedAt": "2026-08-10T18:40:15.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260810_00_ciaam_usp-1024x538.jpg"
-      },
-      {
-        "clusterId": "0a8208f95c2e2a12",
-        "slug": "717ef5d3ebde4a99",
-        "titulo": "Iniciativa coletiva traduz diário de paramédico palestino sobre a guerra em Gaza",
-        "resumo": "Projeto desenvolvido por estudantes traz ao público brasileiro o testemunho de Ali Maali Al-Turk sobre o cotidiano nos hospitais palestinos",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/diversidade/iniciativa-coletiva-traduz-diario-de-paramedico-palestino-sobre-a-guerra-em-gaza/"
-          }
-        ],
-        "updatedAt": "2026-08-10T18:34:34.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260810_ruinasemgaza-1024x538.jpg"
-      },
-      {
-        "clusterId": "7ec138dec8ce9a04",
-        "slug": "1b82dd33b48aec0a",
-        "titulo": "Ações de Donald Trump passam a ser cada vez mais contestadas por apoiadores",
-        "resumo": "A guerra contra o Irã, segundo Carlos Eduardo Lins da Silva, é um dos principais motivos para o aumento da dissidência ao presidente norte-americano",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/radio-usp/acoes-de-donald-trump-passam-a-ser-cada-vez-mais-contestadas-por-apoiadores/"
-          }
-        ],
-        "updatedAt": "2026-08-10T17:47:47.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/03/20230313_carlos-eduardo--1024x1024.jpg"
-      },
-      {
-        "clusterId": "6da36257e45efb87",
-        "slug": "1e7a49e5d1a45baf",
-        "titulo": "Hospital das Clínicas de Ribeirão Preto recebe prêmio por ampliação do atendimento em UTI pediátrica",
-        "resumo": "Expansão do CTI Pediátrico do HC Criança elevou em cerca de 60% o número de internações entre 2022 e 2025 e contribuiu para aumentar a realização de cirurgias e reduzir filas de espera",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/hospital-das-clinicas-de-ribeirao-preto-recebe-premio-por-ampliacao-do-atendimento-em-uti-pediatrica/"
-          }
-        ],
-        "updatedAt": "2026-08-10T17:47:29.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260810_00_premio_acesso_hospitalar_hcrp.jpg"
       }
     ],
     "saude": [
+      {
+        "clusterId": "c2526db2fdccc35b",
+        "slug": "619480d9ea23ab82",
+        "titulo": "Leucopenia: o que fazer quando a quantidade de leucócitos no sangue está abaixo do normal?",
+        "resumo": "Glóbulos brancos em quantidades menores do que o limite normal acedem o sinal de alerta. Veja o que pode estar causando a chamada leucopenia. The post Leucopenia: o que fazer quando a quantidade de leucócitos no sangue está abaixo do normal? first appeared on Portal Drauzio Varella.",
+        "porQueImporta": "",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/videos/leucopenia-o-que-fazer-quando-a-quantidade-de-leucocitos-no-sangue-esta-abaixo-do-normal/"
+          }
+        ],
+        "updatedAt": "2026-08-10T21:31:00.000Z"
+      },
       {
         "clusterId": "97a62b84c6b4561d",
         "slug": "f271e1dc2f78bcbe",
@@ -1042,222 +1051,269 @@
     ],
     "esportes": [
       {
-        "clusterId": "8593f6882363e6a0",
-        "slug": "8cea3a7d3608c8c1",
-        "titulo": "Real Madrid decide manter Endrick no elenco para 2026/27",
-        "resumo": "O Real Madrid, sob a direção de José Mourinho, optou por não negociar o atacante Endrick nesta janela de transferências, mantendo-o no clube para a temporada 2026/27. O jogador continuará vestindo a camisa 9. A decisão reflete a intenção do clube em consolidar a formação jovem e garantir estabilidade no ataque.",
-        "porQueImporta": "Mantém a continuidade e o desenvolvimento de um talento emergente no clube.",
+        "clusterId": "330958565578ca81",
+        "slug": "b6a38354f025c8b8",
+        "titulo": "Kelly Slater vence Gabriel Medina e Ítalo Ferreira retoma liderança da WSL no Taiti",
+        "resumo": "Na etapa de Teahupoo, Kelly Slater derrotou Gabriel Medina em um duelo de 14 títulos mundiais, avançando para as oitavas de final. Ítalo Ferreira venceu a estreia contra o sul-africano e eliminou Leonardo Fioravanti, retornando ao topo do ranking da WSL apesar de dores nas costas. A competição contou com a presença de surfistas brasileiros em destaque, incluindo Yago Dora e outros participantes.",
+        "porQueImporta": "O resultado reforça a posição de Slater como um dos maiores surfistas da história e destaca a ascensão de Ferreira como líder mundial, impactando a classificação e a dinâmica da World Surf League.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/surfe/wsl/ao-vivo/wsl-teahupoo-2026-assista-a-etapa-do-taiti-ao-vivo.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/wsl-kelly-slater-tira-maiores-notas-da-etapa-e-elimina-medina-em-taiti/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/italo-ferreira-domina-no-taiti-e-retoma-lideranca-isolada-do-ranking-da-wsl/"
+          }
+        ],
+        "updatedAt": "2026-08-11T01:15:26.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/TgGFiqEv699hCCMyBMgvmD7HTpw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/2/p/b7yDCYR2GUWJTbAedU3Q/italo-ferreira-26tahiti-han07022-hannah-anderson.jpg"
+      },
+      {
+        "clusterId": "c4bdaba887db7024",
+        "slug": "456dd4eb7683ab6e",
+        "titulo": "Conmebol adia jogos de equipes da Colômbia na Libertadores e na Sul-Americana após terremoto",
+        "resumo": "Prédio desaba em Pereira, na Colômbia, durante terremoto de magnitude 7,4 A Conmebol anunciou o adiamento dos jogos de equipes da Colômbia que seriam realizados nesta semana pelas Copas Libertadores e Sul-Americana. A medida foi tomada horas depois de um forte terremoto atingir o país e deixar mais de 100 mortos em diversas cidades. + Veja a tabela da Libertadores Os confrontos entre Deportes Tolima e Independiente Del Valle, pela Libertadores, e Independiente Santa Fé e River Plate, pela Copa Sul-Americana, foram suspensos. Novas datas para os duelos, que seriam realizados em solo…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-e-sul-americana-tem-jogos-suspensos-por-terremotos-na-colombia/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/08/10/conmebol-adia-jogos-de-colombianos-apos-terremoto.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-10T23:05:22.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/fX-blmpXESaLYd2TPs6xgwWNB6w=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/F/c/dgO3w7SnmSTRUux87RpA/afp-20260810-c4cj7hb-v1-midres-colombiaearthquake.jpg"
+      },
+      {
+        "clusterId": "3ca8f4323c3cd9a8",
+        "slug": "82251e84475bfefa",
+        "titulo": "Flamengo apresenta novas regras de arbitragem na Libertadores aos jogadores; veja mudanças",
+        "resumo": "Seleção Sportv: Palmeiras e Flamengo disputam o título do Brasileirão O Flamengo fez na semana passada uma palestra no Ninho do Urubu para explicar as novas regras do futebol que vão ser adotadas pela Conmebol. A medida passa a valer já a partir das oitavas de final da Libertadores. + Conmebol adota novas regras do futebol, mas descarta usar \"Lei Vini Jr\" As regras foram explicadas, traduzidas e houve espaço para os atletas tirarem as dúvidas. Todo o elenco do Fla participou da atividade. As mudanças foram aprovadas em fevereiro pela IFAB, organização que escreve as leis do futebol há mais de…",
+        "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/endrick-permanece-no-real-madrid-apesar-do-interesse-de-outros-clubes-europeus/"
+            "url": "https://veja.abril.com.br/esporte/as-novas-regras-aprovadas-pela-cbf-e-clubes-para-o-futebol-brasileiro/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/08/10/a-pedido-de-mourinho-real-madrid-deseja-manter-endrick-e-afasta-possivel-transferencia.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/real-madrid-lamenta-vitimas-de-terremoto-na-colombia/"
+            "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/10/flamengo-apresenta-novas-regras-de-arbitragem-na-libertadores-aos-jogadores-veja-mudancas.ghtml"
           }
         ],
-        "updatedAt": "2026-08-10T20:30:31.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/GettyImages-2251282811.jpg?quality=70&strip=info"
+        "updatedAt": "2026-08-10T22:58:58.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/GettyImages-2283880073.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "cdd24679ce5b6d29",
-        "slug": "fa516569372cbddb",
-        "titulo": "Liverpool anuncia Ronald Araújo, do Barcelona, por empréstimo",
-        "resumo": "Liverpool 2 x 3 Mônaco | Amistoso | Futebol Internacional O Liverpool anunciou, nesta segunda-feira, a contratação de Ronald Araújo, do Barcelona, por empréstimo. O zagueiro uruguaio, que foi capitão do Barça até a última temporada, jogará no clube da Premier League em 2026/27. Araújo, de 27 anos, tem contrato até 2031 com o time catalão, mas o Liverpool terá opção de compra em junho do ano que vem. — Acho que foi a jogada ideal para mim nesta fase da minha carreira. Acho que foi um passo que eu precisava dar. Assim que ouvi o interesse do Liverpool, tudo entrou em ação realmente, realmente…",
+        "clusterId": "d6eaa5b320b2b94b",
+        "slug": "264cc6655ea8ee1a",
+        "titulo": "Ademir e Juba fazem tratamento, e Erick começa transição em reapresentação do Bahia",
+        "resumo": "Segue o BAba analisa queda de rendimento do Bahia Um dia depois de empatar sem gols com o Vasco na Casa de Apostas Arena Fonte Nova, o Bahia se reapresentou na Cidade Tricolor, nesta segunda-feira, com dois novos jogadores em tratamento médico: Ademir e Luciano Juba, que saíram machucados do jogo do último domingo. Siga o ge Bahia nos Canais do WhatsApp Veja quem chega e quem sai do Bahia O atacante sentiu dores no músculo adutor da coxa esquerda, recebeu terceiro cartão amarelo no banco de reservas e está suspenso para o jogo conta a Chapecoense, marcado para o próximo domingo. Ademir passou…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/liverpool-anuncia-a-contratacao-de-ronald-araujo-do-barcelona"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/liverpool-anuncia-ronald-araujo-por-emprestimo-para-reforcar-defesa/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/08/10/liverpool-anuncia-ronald-araujo-do-barcelona-por-emprestimo.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-10T20:16:29.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/08/ronald-araujo-liverpool.jpg"
-      },
-      {
-        "clusterId": "836cbd8e58e82465",
-        "slug": "37dc91a5f1effd8d",
-        "titulo": "Pela primeira vez, rodada da Série A do Brasileirão terá três árbitras mulheres",
-        "resumo": "PC de Oliveira: próxima rodada do Brasileirão será a primeira a ter três árbitras Antes mesmo de a bola rolar, a 23ª rodada do Brasileirão já é histórica: pela primeira vez, três árbitras mulheres apitarão jogos da Série A em uma mesma rodada. Com o escudo Fifa no peito, Charly Derreti, Daiane Muniz e Edina Batista estão escaladas para os duelos do próximo final de semana. Duas equipes contarão com trio 100% feminino. 🔍 Adicione o ge nas suas fontes favoritas do Google No sábado, às 21h, Charly Deretti comanda o duelo entre São Paulo e Coritiba, no Morumbis. Ela será auxiliada pelas…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/rodada-da-serie-a-do-brasileirao-tera-tres-arbitras-mulheres-pela-1a-vez/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/noticia/2026/08/10/pela-primeira-vez-rodada-da-serie-a-tera-tres-arbitras-mulheres.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-10T20:06:21.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/kAZoEtXlGjamcCuU5_Rcge4M_6M=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/c/1/bSkgz5R5qpAVAB6SrRyg/carrossel-arbitragem-feminina-serie-a-1-.png"
-      },
-      {
-        "clusterId": "21bb3a19b59d8b8d",
-        "slug": "6e5f37084927718e",
-        "titulo": "“Foi um susto muito grande”: atletas do Guarani relatam tensão após terremoto na Colômbia",
-        "resumo": "'Foi um susto muito grande': atleta relata tensão após tremor na Colômbia “Foi um susto muito grande, mas está todo mundo bem.” O relato é da goleira Carolina Santos e resume os momentos de tensão vividos pela equipe de handebol do Guarani em meio ao terremoto que atingiu a Colômbia nesta segunda-feira. O tremor, de magnitude 7,4, foi sentido pelas atletas quando a delegação deixava o hotel em direção ao aeroporto de Medellín. Já no terminal, novos abalos foram percebidos antes do embarque. - A gente estava no aeroporto, teve um terremoto, uma escala considerada forte, mas está tudo bem, está…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/sp/campinas-e-regiao/noticia/2026/08/10/foi-um-susto-muito-grande-atletas-do-guarani-relatam-tensao-apos-terremoto-na-colombia.ghtml"
-          },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/08/10/foi-um-susto-muito-grande-atleta-de-handebol-relata-tensao-apos-terremoto-na-colombia.ghtml"
+            "url": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/ba/futebol/times/bahia/noticia/2026/08/10/ademir-e-juba-fazem-tratamento-e-erick-comeca-transicao-em-reapresentacao-do-bahia.ghtml"
           }
         ],
-        "updatedAt": "2026-08-10T20:04:36.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/Tu556N3avjYMgcl2BrdVehlyGNM=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/a/Z/MLqN8CRNKH88NqLdnshA/1.avif"
+        "updatedAt": "2026-08-10T22:40:33.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/Tqma4QNW-vNeZp5ylV6ag6ocUsg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/H/x/5wTYNqSpeCYLW4tDR3yw/hpymddtwgae686g.jpg"
       },
       {
-        "clusterId": "d39e5b288e1610c2",
-        "slug": "527f73330a7bc68b",
-        "titulo": "Paysandu pode bater seu maior público na Série C 2026 diante do Confiança",
-        "resumo": "Paysandu enfrenta Confiança em busca do retorno ao G-8 Na teoria, não há como escalar mais do que 11 atletas para um jogo de futebol, porém, logo mais, às 20h, o Paysandu contará com o apoio de um 12° jogador, fora das quatro linhas, mas nas arquibancadas do Estádio da Curuzu diante do Confiança, em jogo válido pela 16ª rodada da Série C. Torcida do Paysandu faz a festa após vitória contra o Anápolis na Série C Jorge Luís Totti/Paysandu 📲Clique aqui para seguir o canal do ge PA no WhatsApp Segundo divulgado pelo próprio clube nas redes sociais, mais de 10 mil torcedores estão confirmados…",
+        "clusterId": "fa8d0eb8ca95716f",
+        "slug": "7337e0615e5a369d",
+        "titulo": "Corinthians não assina contrato de Memphis; holandês é dúvida na viagem para jogo da Libertadores",
+        "resumo": "Renovação do Corinthians com Memphis ainda não acabou O Corinthians encerrou a segunda-feira sem assinar o contrato de renovação com o atacante Memphis Depay. + Siga o canal ge Corinthians no WhatsApp Com isso, diminui a expectativa da presença do jogador na lista de relacionados para o primeiro jogo das oitavas de final da Conmebol Libertadores, contra o Rosario Central, na Argentina, nesta quinta-feira, às 21h30 (de Brasília). O elenco viaja na tarde desta terça-feira. O presidente Osmar Stabile esteve nesta segunda na sede do Ministério Público, em São Paulo, para ser ouvido pelos…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/paysandu-x-confianca-onde-assistir-ao-brasileirao-serie-c/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-some-e-memphis-aguarda-contrato-para-assinar-renovacao/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/08/10/paysandu-pode-bater-seu-maior-publico-na-serie-c-2026-diante-do-confianca.ghtml"
+            "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/08/10/corinthians-nao-assina-contrato-de-memphis-holandes-e-duvida-na-viagem-para-jogo-da-libertadores.ghtml"
           }
         ],
-        "updatedAt": "2026-08-10T19:35:12.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/nAVBovLYDiQddl7Of-eaDwZqkCQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Y/d/WY0XwBRlABLg7FBO2bDQ/55259788524-072f5a9cf4-k.jpg"
+        "updatedAt": "2026-08-10T22:37:07.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/DI-N3SvyO7FkEWrYcnwkg_RRojs=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/w/I/2B7KCfSyAGYM8nefD8AA/rib0716.jpg"
       },
       {
-        "clusterId": "38f831671022ab03",
-        "slug": "e524a7ddd85a2c5d",
-        "titulo": "Ação enfrenta Minas Brasília nas quartas do Campeonato Brasileiro Feminino Série A2",
-        "resumo": "O Ação confirmou a sexta colocação na primeira fase do Campeonato Brasileiro Feminino Série A2 ao vencer o Doce Mel por 3 a 2, neste sábado, no estádio Dito Souza. O time chegou aos 25 pontos e já tinha a classificação para as quartas de final garantida antes da última rodada. O Ação abriu três gols de vantagem, mas sofreu dois gols na reta final e precisou segurar a pressão para confirmar a vitória. Com o resultado, o time chegou a quatro partidas sem perder, com duas vitórias e dois empates. + Veja tabela do Campeonato Brasileiro Feminino Série A2 Ação venceu o Doce Mel por 3 a 2 no estádio…",
+        "clusterId": "3976bdcdbbe1be21",
+        "slug": "77102b0f1bfb76fd",
+        "titulo": "Campeonato Colombiano adia todos os jogos da semana por causa de terremoto no país",
+        "resumo": "Os jogos previstos para esta semana pelo Campeonato Colombiano estão adiados indefinidamente por causa do terremoto de magnitude 7,4 que atingiu o país, informou nesta segunda-feira a Liga Dimayor, organizadora da competição. A suspensão envolve as partidas das competições masculina e feminina da primeira divisão, além da segunda divisão masculina. \"A Divisão Maior do Futebol Colombiano se permite informar que, após realizar um monitoramento constante e uma avaliação da situação que atravessam diferentes cidades e regiões do país afetadas pelo terremoto, tomou a decisão de adiar toda a…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/jogos-do-campeonato-colombiano-sao-adiados-apos-terremoto-conmebol-avalia/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/08/10/campeonato-colombiano-adia-todos-os-jogos-da-semana-por-causa-de-terremoto-no-pais.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-10T21:40:31.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/fX-blmpXESaLYd2TPs6xgwWNB6w=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/F/c/dgO3w7SnmSTRUux87RpA/afp-20260810-c4cj7hb-v1-midres-colombiaearthquake.jpg"
+      },
+      {
+        "clusterId": "f1a6a5f9ae05f237",
+        "slug": "a04db539a968411e",
+        "titulo": "América-MG x Flamengo - Campeonato Brasileiro Feminino 2026 - Ao vivo - globoesporte.com",
+        "resumo": "Campeonato Brasileiro Feminino 2026 no globoesporte.com - acompanhe tudo sobre América-MG x Flamengo: escalação, informações sobre o jogo, fotos e muito mais",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/ma/futebol/futebol-feminino/brasileiro-feminino/jogo/10-08-2026/botafogo-fluminense.ghtml"
+            "url": "https://ge.globo.com/mg/triangulo-mineiro/futebol/futebol-feminino/brasileiro-feminino/jogo/10-08-2026/america-mg-flamengo.ghtml"
           }
         ],
-        "updatedAt": "2026-08-10T20:39:03.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/uOhEFe3yXZD5nYNBL5d5J7ccBXk=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Y/E/rjVEvvQUKYMUUdY5PgtQ/whatsapp-image-2026-08-09-at-23.21.32.jpeg"
+        "updatedAt": "2026-08-11T01:39:14.000Z"
       },
       {
-        "clusterId": "abc87ef9fc8bd688",
-        "slug": "29f2f79af0c03c4e",
-        "titulo": "Escalação do São Paulo: Dorival não terá Arthur e relaciona Ryan Francisco para jogo contra o Bolívar",
-        "resumo": "Voz do Setorista: São Paulo traça logística para minimizar efeitos da altitude O São Paulo viaja na tarde desta segunda-feira rumo à Bolívia para o jogo de ida das oitavas de final da Sul-Americana, contra o Bolívar. O técnico Dorival Júnior não terá o atacante Arthur na partida desta terça, em La Paz, às 21h30 (de Brasília), pelas oitavas de final da Sul-Americana. + Siga o canal ge São Paulo no WhatsApp Arthur ainda se recupera de dores no adutor esquerdo que o tiraram do duelo contra o Grêmio, no fim de semana, e não será relacionado mais uma vez. Veja a apresentação do Iago, novo reforço…",
+        "clusterId": "ae5bc9c6bd311172",
+        "slug": "a3f5e42fcd996734",
+        "titulo": "\"Assumo minha parcela de culpa\", diz goleiro Igor Rayan sobre revés, mas foca na classificação",
+        "resumo": "Nacional em desvantagem pelo acesso na Série D Após perder por 2 a 1 no jogo de ida das quartas de final da Série D (confronto do acesso), o Nacional-AM se reapresentou nesta segunda-feira (10), no CT Barbosa Filho, em Manaus. Um dos jogadores que fez questão de falar foi o goleiro Igor Rayan, que admitiu parte da culpa no primeiro gol sofrido, mas reiterou o foco em buscar a classificação. Nacional tem menor público entre clubes do AM em jogos de acesso na Arena da Amazônia — Assumo minha parcela de culpa. Jogo como esse, realmente a gente não pode errar. E eu, principalmente sendo goleiro,…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-sul-americana/jogo/11-08-2026/bolivar-sao-paulo.ghtml"
+            "url": "https://ge.globo.com/am/futebol/times/nacional-am/noticia/2026/08/10/assumo-minha-parcela-de-culpa-diz-goleiro-igor-rayan-sobre-reves-mas-foca-na-classificacao.ghtml"
           }
         ],
-        "updatedAt": "2026-08-10T20:36:54.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/pnkwqXqYyKR4RB6mQaXLKOj9mPw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/E/q/npRQ2RSl69sNLvtp1rOg/55455244918-81201df2b8-k.jpg"
-      },
-      {
-        "clusterId": "6180ed54e09d50d2",
-        "slug": "15f46679a0d33042",
-        "titulo": "River-PI inicia segunda semana de pré-temporada com apresentação oficial de atletas; veja lista",
-        "resumo": "Jogos dos emojis: ge revela como estão os times do Piauiense Série B O River-PI iniciou a sua segunda semana de atividades e apresentou oficialmente o elenco nesta segunda-feira para a disputa do Campeonato Piauiense Série B 2026. Depois de uma semana com as portas fechadas, o dia de treinos no CT Afrânio Nunes contou com a presença de 27 jogadores. A diretoria do Tricolor aguarda a chegada de outros três nomes ao fim da Série C. River-PI inicia segunda semana de pré-temporada com apresentação oficial de atletas Topázio Figueiredo/ge Participaram da apresentação oficial o presidente do clube,…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/pi/futebol/times/river-pi/noticia/2026/08/10/river-pi-planeja-amistosos-para-pre-temporada-em-preparacao-para-o-piauiense-serie-b.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-10T20:36:20.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/AIJsrRRB37a_m9417uBDfSTc3E4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/B/e/0KBAkVSWA8ZQmVF06jXw/snapinsta-ai-3959302891771720646-1443009607.jpg"
+        "updatedAt": "2026-08-11T01:38:34.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/3INecag9LKcBGPFeKqpgqcZF_Fg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/o/l/hh7LHbSYWwXyl44kwAvA/igor-rayan.jpg"
       }
     ],
     "entretenimento": [
       {
-        "clusterId": "79779105121233b8",
-        "slug": "f452234bd0552367",
-        "titulo": "Atriz indiana é beijada à força por fã durante evento",
-        "resumo": "Atriz indiana é beijada à força por fã durante evento A atriz indiana Nikita Rawal participava do evento Bright OTT & Style Awards neste sábado (08), em um hotel de Mumbai, na Índia, quando sofreu assédio de uma fã. Segundo informações do jornal \"El Heraldo de México\", ela posava para os paparazzi quando uma fã se aproximou para tirar fotos e a beijou à força. No vídeo que viralizou nas redes sociais, a atriz tenta se desvencilhar da mulher e aparece visivelmente constrangida após o beijo forçado. Atriz indiana é beijada à força por fã durante evento Reprodução/X De acordo com o jornal, os…",
+        "clusterId": "34ecfdffe93ea830",
+        "slug": "67d8cadb82d7030a",
+        "titulo": "Shakira e outros famosos colombianos prestam solidariedade após terremoto no país",
+        "resumo": "Prédio desaba em Pereira, na Colômbia, durante terremoto de magnitude 7,4 Um terremoto de magnitude 7,4 atingiu a Colômbia nesta segunda-feira (10) e causou destruição em diversas cidades do país. Alguns famosos colombianos usaram suas redes sociais para prestar solidariedade às vítimas das áreas atingidas. Leia também: Terremoto atinge a Colômbia e causa destruição em várias cidades O epicentro do tremor ocorreu em San José del Palmar, no oeste colombiano, a uma profundidade de 110 km, segundo a agência geológica dos Estados Unidos (USGS, na sigla em inglês). A cidade fica a cerca de 230 km…",
         "porQueImporta": "",
         "category": "entretenimento",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/celebridades/atriz-indiana-nikita-rawal-e-beijada-a-forca-e-gera-debate-sobre-assedio/"
+            "url": "https://www.cnnbrasil.com.br/pop/celebridades/shakira-maluma-e-mais-famosos-enviam-mensagens-de-apoio-aos-colombianos/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/08/10/atriz-indiana-e-beijada-a-forca-por-fa-durante-evento.ghtml"
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/08/10/shakira-e-outros-famosos-colombianos-prestam-solidariedade-apos-terremoto-no-pais.ghtml"
           }
         ],
-        "updatedAt": "2026-08-10T20:17:31.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/f0n2wy5syeTqL7jUAazlb0iQ0q8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/t/fFDSJDR7aAaX4vPZy8FQ/nikita.png"
+        "updatedAt": "2026-08-10T22:44:17.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/wuNmoXmt9_K8tVzHbeGAcJJ0HMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/v/kIvyRKStasvz7onALFag/shakira-em-copacabana-foto-panlo-porciuncula-afp.jpg"
       },
       {
-        "clusterId": "2e2ad46495600232",
-        "slug": "e583924340be44cf",
-        "titulo": "Fafá de Belém faz 70 anos",
-        "resumo": "A cantora Fafá de Belém nasceu em 9 de agosto de 1956 e celebra seu 70º aniversário. A artista, conhecida por sua voz marcante na MPB, já lançou vários álbuns e participou de trilhas sonoras de novelas. Em comemoração, um novo álbum está previsto para ser lançado. O marco de 70 anos destaca sua longa carreira e influência na música brasileira.",
-        "porQueImporta": "A celebração marca a longevidade e impacto cultural de uma das vozes mais reconhecidas da música popular brasileira.",
+        "clusterId": "4cefd71a8ecc6c74",
+        "slug": "a162efc50509ebfc",
+        "titulo": "Morre Anita Nobre, mãe de Dudu Nobre e Lucinha Nobre",
+        "resumo": "Dona Anita, Lucinha e Dudu Nobre Reprodução/Redes sociais Initial plugin text Anita Nobre, mãe do cantor e compositor Dudu Nobre e da ex-porta-bandeira Lucinha Nobre, morreu neste domingo (9), aos 78 anos. A informação foi divulgada pelo sambista em uma nota de falecimento publicada nas redes sociais. A causa da morte não foi informada. “É com profunda tristeza que comunicamos o falecimento de Anita Nobre, mãe de Dudu Nobre e Lucinha Nobre, neste domingo, 09 de agosto de 2026”, diz a publicação. Relembre abaixo reportagem de Milton Cunha com Anita Nobre, há 10 anos: Milton Cunha mostra…",
+        "porQueImporta": "",
         "category": "entretenimento",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/musica/fafa-de-belem-e-carimbloco-se-apresentam-no-cine-joia-nesta-sexta-feira/"
+            "url": "https://www.cnnbrasil.com.br/pop/musica/velorio-de-anita-nobre-mae-de-dudu-nobre-e-lucinha-nobre-sera-nesta-terca/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/09/fafa-de-belem-chega-aos-70-anos-como-uma-personalidade-do-brasil-que-vive-e-canta-com-a-intensidade-das-pororocas.ghtml"
+            "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/09/morre-anita-nobre-mae-de-dudu-nobre-descanse-em-paz.ghtml"
           }
         ],
-        "updatedAt": "2026-08-10T19:28:33.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/gHeUqOIOd7foaVfpfOss_-dO-X0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/p/HwfcIpRaOzn5VmjCSsbw/fafaaryannealmeida.jpg"
+        "updatedAt": "2026-08-10T22:00:41.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/ioE7Yr0XBho1qpOwU0OS3OQ6ZWE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/i/B/7RLuNFRF6zy0I8MrwVrw/whatsapp-image-2022-10-18-at-16.47.21.jpeg"
       },
       {
-        "clusterId": "fb20e5c1ed24fc8f",
-        "slug": "94600a1d6682594c",
-        "titulo": "Atriz de Harry Potter afirma ter ganho mais no OnlyFans do que em toda a carreira",
-        "resumo": "Jessie Cave, que interpreta Lilá Brown na série de filmes Harry Potter, revelou que seu perfil no OnlyFans gerou mais receita do que toda a sua trajetória como atriz. Ela ingressou na plataforma em março do ano passado para sustentar seus quatro filhos. A declaração foi feita em entrevista ao The Times.",
-        "porQueImporta": "Ilustra como plataformas de conteúdo por assinatura podem superar ganhos tradicionais na indústria do entretenimento.",
+        "clusterId": "85222a2817ac9562",
+        "slug": "f0968f3af24e863e",
+        "titulo": "Quase 30 anos depois, o assassinato do rapper Tupac Shakur finalmente chega a julgamento; relembre caso",
+        "resumo": "Duane Davis (à esquerda) foi indiciado pela morte de Tupac Shakur (à direita) Reuters/Foto de arquivo O julgamento contra o ex-líder de uma gangue acusado de orquestrar o assassinato do rapper Tupac Shakur começa nesta segunda-feira (10) em Las Vegas, 30 anos depois da morte do astro do hip-hop californiano. É pouco provável que os argumentos expliquem quem atirou contra Shakur na noite de 7 de setembro de 1996, quando ele estava em Las Vegas para assistir a uma luta de boxe de Mike Tyson. Mas o Ministério Público espera demonstrar que Duane \"Keffe D\" Davis, ex-líder dos South Side Compton…",
+        "porQueImporta": "",
         "category": "entretenimento",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/cinema/entenda-como-tumulo-de-dobby-de-harry-potter-desviou-cabo-submarino/"
+            "url": "https://www.cnnbrasil.com.br/pop/celebridades/saiba-quais-as-proximas-etapas-do-julgamento-de-tupac/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/08/09/atriz-de-harry-potter-diz-que-onlyfans-rendeu-mais-dinheiro-que-toda-a-carreira-como-atriz.ghtml"
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/08/10/quase-30-anos-depois-o-assassinato-do-rapper-tupac-shakur-finalmente-chega-a-julgamento-relembre-caso.ghtml"
           }
         ],
-        "updatedAt": "2026-08-10T19:14:05.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/tPdS5DegOygO1d0C_j-hWrKijaQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/F/M/dW1a9CTcWmG5kr7Y4nag/only-harry.jpg"
+        "updatedAt": "2026-08-10T21:49:52.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/pEhdoLkbytRMRqfiqahMM0sa2SA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/L/X/hjazcuS5A3HdLzhfdTzA/xx-2-.jpg"
+      },
+      {
+        "clusterId": "3fd16e6a0c9b22b8",
+        "slug": "673a193c8d60acf5",
+        "titulo": "Xamã anuncia cancelamento de turnê: 'Era um sonho'",
+        "resumo": "Xamã se apresenta no Rock in Rio 2024 Stephanie Rodrigues/g1 O rapper Xamã anunciou nesta segunda-feira (10) o cancelamento da turnê \"Xamã 2026\". Em comunicado publicado nas redes sociais, a equipe do cantor não deu detalhes sobre o motivo da decisão e afirmou que todos os ingressos serão reembolsados. \"Era um sonho realizar esse projeto e compartilhamos a frustração de não poder realizá-lo, mas, diante da necessidade da produção, a decisão tornou-se necessária.\" Initial plugin text Ainda de acordo com a nota divulgada por Xamã, o processo de reembolso foi iniciado nesta segunda-feira e será…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/08/10/xama-anuncia-cancelamento-de-turne-era-um-sonho.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-10T21:57:37.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/ArlAEexprNt-4Wy9DXIE1RjFDZw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/7/c/ppSEmbRuAQ2b7mfQ5IrQ/xama-rock-in-rio-2024-2.jpg"
+      },
+      {
+        "clusterId": "2327470f55053f12",
+        "slug": "3cacb1c0857cf2f4",
+        "titulo": "Quem é o grupo de rap indígena que fez Anitta chorar no palco durante show",
+        "resumo": "Bro MC’s representam os povos Kaiowá e Guarani ao lado de Anitta Anitta se emocionou durante a apresentação do Brô MC’s, primeiro grupo de rap indígena do Brasil, no segundo show da turnê \"EQUILIBRIVM II\", neste domingo (9). Os sul-mato-grossenses cantaram \"OKE\", faixa do novo álbum da cantora em parceria com a rapper indígena Katú Mirim. A apresentação ocorreu no Dia Internacional dos Povos Indígenas e foi comemorada por Anitta nas redes sociais. A cantora disse estar muito feliz por receber o grupo na turnê. ✅ Clique aqui para seguir o canal do g1 MS no WhatsApp Após a apresentação, o Brô…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/10/quem-e-o-grupo-de-rap-indigena-que-fez-anitta-chorar-no-palco-durante-show.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-10T20:54:10.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/NRryfyaBBa8eUMhV6dUX0V7iXVc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/2/tSLouXRFuraPiTMLGh2A/para-o-g1-89-.jpg"
+      },
+      {
+        "clusterId": "b2818c1e63cde020",
+        "slug": "7cabb158eac93ee1",
+        "titulo": "Black Pantera faz feats com Duquesa e com Derrick Green, vocalista da banda Sepultura, no álbum 'Continental'",
+        "resumo": "O trio Black Pantera canta a música 'Obsoleto' com o vocalista da banda Sepultura, Derrick Green Hugo Brito / Divulgação ♫ NOTÍCIA ♬ Além da já notória presença de Sandra Sá na música “Quando canto”, a banda mineira Black Pantera faz feats com a rapper Duquesa e com Derrick Green – cantor norte-americano que assumiu em 1998 o posto de vocalista do grupo mineiro Sepultura, conterrâneo do trio de thrash metal e hardcore punk – no quinto álbum de estúdio, “Continental”, programado para 21 de agosto. A presença de Derrick Green na música “Obsoleto” é especialmente emblemática diante da…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/10/black-pantera-faz-feats-com-duquesa-e-com-derrick-green-vocalista-da-banda-sepultura-no-album-continental.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-10T18:55:19.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/uABdr_aTVQIf4aBbN5Qudi5xQUg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/B/inBD3gS5OIHg94dAtIeg/creditos-hugo-brito-black-pantera-dsc09933.jpg"
       },
       {
         "clusterId": "33ee90831eaccc48",
@@ -1276,68 +1332,20 @@
         "imageUrl": "https://s2-g1.glbimg.com/JdiTKEjtUy-3zN1sxt83nT3zX9Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/B/FpG5TqTOaMkGAN7dD1hA/pedr1704.png"
       },
       {
-        "clusterId": "db58cb07e91ae7dc",
-        "slug": "f0968f3af24e863e",
-        "titulo": "Quase 30 anos depois, o assassinato do rapper Tupac Shakur finalmente chega a julgamento; relembre caso",
-        "resumo": "Duane Davis (à esquerda) foi indiciado pela morte de Tupac Shakur (à direita) Reuters/Foto de arquivo O julgamento contra o ex-líder de uma gangue acusado de orquestrar o assassinato do rapper Tupac Shakur começa nesta segunda-feira (10) em Las Vegas, 30 anos depois da morte do astro do hip-hop californiano. É pouco provável que os argumentos expliquem quem atirou contra Shakur na noite de 7 de setembro de 1996, quando ele estava em Las Vegas para assistir a uma luta de boxe de Mike Tyson. Mas o Ministério Público espera demonstrar que Duane \"Keffe D\" Davis, ex-líder dos South Side Compton…",
+        "clusterId": "ac0cd9ad2b179b3a",
+        "slug": "f452234bd0552367",
+        "titulo": "Atriz indiana é beijada à força por fã durante evento",
+        "resumo": "Atriz indiana é beijada à força por fã durante evento A atriz indiana Nikita Rawal participava do evento Bright OTT & Style Awards neste sábado (08), em um hotel de Mumbai, na Índia, quando sofreu assédio de uma fã. Segundo informações do jornal \"El Heraldo de México\", ela posava para os paparazzi quando uma fã se aproximou para tirar fotos e a beijou à força. No vídeo que viralizou nas redes sociais, a atriz tenta se desvencilhar da mulher e aparece visivelmente constrangida após o beijo forçado. Atriz indiana é beijada à força por fã durante evento Reprodução/X De acordo com o jornal, os…",
         "porQueImporta": "",
         "category": "entretenimento",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/08/10/quase-30-anos-depois-o-assassinato-do-rapper-tupac-shakur-finalmente-chega-a-julgamento-relembre-caso.ghtml"
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/08/10/atriz-indiana-e-beijada-a-forca-por-fa-durante-evento.ghtml"
           }
         ],
-        "updatedAt": "2026-08-10T13:54:27.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/pEhdoLkbytRMRqfiqahMM0sa2SA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/L/X/hjazcuS5A3HdLzhfdTzA/xx-2-.jpg"
-      },
-      {
-        "clusterId": "cdb645cb15ba5811",
-        "slug": "9c22df83f71d8ad5",
-        "titulo": "Teresa Cristina marca posição no bloco de sambas do primeiro álbum autoral da discografia, 'Tudo que eu tenho'",
-        "resumo": "Teresa Cristina lança na sexta-feira, 14 de agosto, o primeiro álbum com repertório inteiramente autoral na discografia iniciada em 2002 Nana Moraes / Divulgação ♫ CRÍTICA DE ÁLBUM Título: Tudo que eu tenho Artista: Teresa Cristina Cotação: ★ ★ ★ ★ ♬ “Sou batuqueira, sim / Sou brasileira, sim / Meu estandarte é negro, é tupiniquim / Sou batuqueira, sim / Sou brasileira, sim / E no meu bloco ele não toca tamborim”, avisa Teresa Cristina, marcando posição nos versos do refrão de “Meu bloco”, parceria da compositora carioca com Raul Di Caprio. “Meu bloco” é um dos dez sambas que compõem o…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/10/teresa-cristina-marca-posicao-no-bloco-de-sambas-do-primeiro-album-autoral-da-discografia-tudo-que-eu-tenho.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-10T12:01:30.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/uloovNWOQkdVHdmXxIkhO9NVJsU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/h/4egvnIROqqoLhybz3xhA/teresa-cristina-foto-nana-moraes-flores.jpg"
-      },
-      {
-        "clusterId": "fa671a2be5981e52",
-        "slug": "e6c7f30272741c1a",
-        "titulo": "Rosalía no Brasil: veja provável setlist e tudo o que você precisa saber sobre os shows",
-        "resumo": "Rosalía se apresenta no Lollapalooza 2023 em São Paulo Fábio Tito/g1 A artista catalã Rosalía se apresenta na Farmasi Arena, no Rio de Janeiro, nesta segunda (10) e terça (11). Essa será a primeira vez que ela canta o disco \"Lux\" no Brasil, meses após promover o álbum com uma audição no Cristo Redentor. Abaixo, o g1 conta tudo o que você precisa saber sobre os shows de Rosalía no Brasil. Qual a fase atual de Rosalía? Rosalía serve a Deus e à música clássica em novo álbum Rosalía está na turnê do disco \"Lux\", lançado em novembro de 2025. A religião é um tema central do trabalho. Ao longo das…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/08/10/rosalia-no-brasil-veja-provavel-setlist-e-tudo-o-que-voce-precisa-saber-sobre-os-shows.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-10T07:01:22.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/7nR8dOd-w6HIN_DVn6d3JzPeIP4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/l/m/FGvAezSuKj0BrLL6qCnw/rosalia-lollapalooza-f99a6918-fabio-tito.jpg"
-      },
-      {
-        "clusterId": "dedaff6beb572294",
-        "slug": "c94f9e21b6e49bcc",
-        "titulo": "'Submissão' ao Grammy Latino: por que artistas estão comemorando etapa burocrática da premiação?",
-        "resumo": "Flay e Eliezer celebraram inscrição no Grammy Latino Reprodução/Instagram Flay e Eliezer viraram assunto nas redes sociais após publicarem vídeos celebrando suas inscrições no Grammy Latino 2026. Autora de “Sertões”, a cantora postou um vídeo emocionado, falando sobre um “sonho realizado” com a inscrição. Já o ex-BBB comemorou pelo trabalho infantil idealizado junto com sua esposa, Viih Tube, ser considerado ao prêmio. As publicações foram alvo de críticas por pessoas que consideraram exagero a celebração do trio por um mero rito burocrático: o ato de inscrever um trabalho na premiação. No…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/08/10/submissao-ao-grammy-latino-por-que-artistas-estao-comemorando-etapa-burocratica-da-premiacao.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-10T07:00:11.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/HsG0oNkoZTUZ1VkmzTPSIR5AuUU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/D/AcK52JRI64CjQGHqKdFg/fotos-g1-1920-x-1080-px-2026-08-08t152547.056.png"
+        "updatedAt": "2026-08-10T14:12:10.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/f0n2wy5syeTqL7jUAazlb0iQ0q8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/t/fFDSJDR7aAaX4vPZy8FQ/nikita.png"
       }
     ]
   }
