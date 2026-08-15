@@ -1,41 +1,129 @@
 {
   "date": "2026-08-15",
-  "generatedAt": "2026-08-15T08:29:15.535Z",
+  "generatedAt": "2026-08-15T12:37:15.550Z",
   "home": [
     {
-      "clusterId": "4d6055fcee140bd2",
-      "slug": "3636beb024d19fae",
-      "titulo": "Petrobras identifica hidrocarbonetos em poço na Foz do Amazonas",
-      "resumo": "A Petrobras perfurou o poço Morpho, localizado a cerca de 175 km da costa do Amapá e em águas de quase 2,9 km de profundidade, e detectou sinais de petróleo ou gás natural. A descoberta foi feita durante a fase de avaliação exploratória do bloco FZA-M-59, na margem equatorial brasileira. O Ibama havia concedido autorização para a perfuração após análise de riscos ambientais. A estatal planeja continuar as avaliações de forma segura e respeitando o meio ambiente.",
-      "porQueImporta": "A descoberta reforça o potencial da margem equatorial para a produção de petróleo no Brasil.",
+      "clusterId": "05156f64dd9f5288",
+      "slug": "d950a3311b5452df",
+      "titulo": "Desabamento de prédio residencial em São Bernardo do Campo deixa cinco vítimas",
+      "resumo": "Um prédio residencial em São Bernardo do Campo desabou na manhã de 15 de agosto, resultando em cinco vítimas. Quatro pessoas foram resgatadas dos escombros: um homem de 37 anos, uma menina de 11 anos e duas mulheres adultas. Uma quinta vítima permanece sob os detritos e ainda não foi localizada.",
+      "porQueImporta": "O incidente destaca a necessidade de fiscalização e manutenção de edificações residenciais na região.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/quatro-pessoas-resgatadas-desabamento-sao-bernardo"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/15/desabamento-em-sao-bernardo-do-campo-vitima-ao-menos-tres-pessoas.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/edificio-desaba-e-deixa-quatro-vitimas-em-sao-bernardo-do-campo-sp/"
+        }
+      ],
+      "updatedAt": "2026-08-15T12:20:37.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/local-desabamento-sao-bernardo.jpg"
+    },
+    {
+      "clusterId": "0a6c5ce3401db84f",
+      "slug": "d6b124f19dba0e9f",
+      "titulo": "Caiado e Kassab divulgam patrimônios e Corinthians registra aumento de dívida no RCE",
+      "resumo": "O ex-governador de Goiás, Ronaldo Caiado, declarou R$ 52,5 milhões em bens, enquanto o presidente do PSD, Gilberto Kassab, informou patrimônio de R$ 21 milhões, ambos registrados no TSE. Paralelamente, o Corinthians pagou R$ 16,4 milhões nos primeiros cinco meses do Regime Centralizado de Execuções, mas a dívida total subiu de R$ 224,9 milhões para R$ 237,4 milhões devido a juros. O maior credor do clube é o empresário Giuliano Bertolucci, com R$ 86,9 milhões a receber.",
+      "porQueImporta": "Esses dados mostram a situação financeira de figuras políticas e de um clube de futebol, refletindo impactos econômicos e de governança.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/caiado-declara-r-52-milhoes-em-bens-ao-tse-kassab-divulga-r-209-milhoes/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/08/15/corinthians-paga-r-164-milhoes-em-cinco-meses-de-rce-mas-divida-chega-a-r-2374-milhoes.ghtml"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/14/ronaldo-caiado-gilberto-kassab-bens-declarados-tse.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-15T12:15:28.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/LWIZIjYz8nzvBoXXnSBEyC3CLPo=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/B/j/xZ0ZMITGeKun7ZFvBI7A/rib7508.jpg"
+    },
+    {
+      "clusterId": "84834ed9b8fe2a62",
+      "slug": "f96d0389374bc885",
+      "titulo": "Petrobras detecta sinais de petróleo na Foz do Amazonas",
+      "resumo": "A Petrobras perfurou o poço Morpho, a cerca de 175 km da costa do Amapá, em águas profundas de 2.886 metros, e encontrou hidrocarbonetos. A descoberta indica a presença de petróleo ou gás natural na bacia da Foz do Amazonas. A exploração continuará para confirmar a viabilidade da produção.",
+      "porQueImporta": "A descoberta pode abrir uma nova fronteira exploratória para a empresa, mas também traz controvérsias ambientais na região.",
       "category": "economia",
       "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/petrobras-encontra-indicios-de-petroleo-na-foz-do-amazonas-entenda-o-que-vem-agora/"
+        },
         {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/cq561131yq0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/14/petrobras-anuncia-descoberta-de-petroleo-na-bacia-da-foz-do-amazonas.ghtml"
-        },
+          "url": "https://g1.globo.com/economia/noticia/2026/08/14/video-mostra-sonda-da-petrobras-em-area-com-sinais-de-petroleo-e-gas-na-foz-do-amazonas.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-15T11:42:11.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Captura-de-tela-2025-10-20-165412.png?fit=300%2C188&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "2c42a1df18990243",
+      "slug": "80e3a53952c5eea5",
+      "titulo": "Bolsonaro pede autorização ao STF para ir ao dentista e indica esposa de Flávio",
+      "resumo": "O ex‑presidente Jair Bolsonaro solicitou ao ministro Alexandre de Moraes a liberação da prisão domiciliar para comparecer a consulta odontológica na próxima sexta-feira. A defesa indicou Fernanda Antunes Figueira Bolsonaro, esposa do senador Flávio, como profissional a atender. O pedido inclui autorização de deslocamento e atendimento na data marcada.",
+      "porQueImporta": "A solicitação demonstra a continuidade de medidas de saúde e segurança do ex‑presidente durante o processo judicial.",
+      "category": "economia",
+      "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/questao-ambiental-permanece-desafio-na-foz-do-amazonas-diz-abespetro/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/economia/petrobras-faz-descoberta-na-bacia-da-foz-do-amazonas-nas-proximidades-do-amapa/"
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/bolsonaro-pede-ao-stf-autorizacao-para-consulta-odontologica-com-mulher-de-flavio/"
         },
         {
           "name": "Exame",
-          "url": "https://exame.com/brasil/petrobras-anuncia-descoberta-de-petroleo-na-bacia-da-foz-do-amazonas/"
+          "url": "https://exame.com/brasil/bolsonaro-pede-ao-stf-para-ser-atendido-pela-nora-que-e-dentista/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/08/14/bolsonaro-pede-para-deixar-prisao-domiciliar-para-consulta-com-dentista.ghtml"
         }
       ],
-      "updatedAt": "2026-08-15T02:37:26.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d8ae/live/c23c2310-9851-11f1-a7ab-8b30adf0800a.jpg"
+      "updatedAt": "2026-08-15T11:17:29.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-27T133645Z_534196090_RC20DKA2MIK9_RTRMADP_3_BRAZIL-BOLSONARO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "clusterId": "d7d6151a739a39e6",
+      "clusterId": "cfaf46b4682d000d",
+      "slug": "f8f2a4c1e559e930",
+      "titulo": "Porta-aviões USS Abraham Lincoln enfrenta crise de saúde mental após 260 dias em missão",
+      "resumo": "O porta-aviões USS Abraham Lincoln, em operação no Oriente Médio, permanece há mais de 260 dias no mar, um recorde de tempo ininterrupto. Relatórios apontam problemas de saúde mental entre membros da tripulação, incluindo tentativas de pular no mar. A situação levou à decisão dos EUA de enviar outro porta-aviões para substituição. O presidente Donald Trump minimizou a crise, afirmando que o tempo em missão não é excessivo.",
+      "porQueImporta": "A crise pode afetar a eficácia operacional e a moral da tripulação em missões críticas.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/entenda-a-crise-que-envolve-marinheiros-pulando-de-porta-avioes-dos-eua/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/uss-lincoln-ha-250-dias-no-mar-porta-avioes-dos-eua-passa-por-crise"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/14/trump-minimiza-crise-em-porta-avioes-e-diz-que-260-dias-no-mar-nao-sao-nem-de-longe-suficientes.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-15T09:30:46.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/03/uss-abraham-lincoln-rehearses-strait-transit-maneuvers.jpg"
+    },
+    {
+      "clusterId": "256f27650e4a9dd6",
       "slug": "2f752b95cca04d08",
       "titulo": "Terremoto de magnitude 7,7 atinge a Indonésia e gera alerta de tsunami",
       "resumo": "Um terremoto de magnitude 7,7 ocorreu na região de Flores, leste da Indonésia, com profundidade entre 10 e 35 km, dependendo da fonte. A Agência de Meteorologia, Climatologia e Geofísica (BMKG) e o Centro Sismológico Euro-Mediterrânico (EMSC) emitiram alerta preliminar de tsunami. O tremor causou estragos, mas ainda não há confirmação de vítimas. O Serviço Geológico dos Estados Unidos (USGS) registrou três sismos secundários, incluindo um de magnitude 6,1.",
@@ -43,246 +131,110 @@
       "category": "geral",
       "sources": [
         {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/terremoto-de-magnitude-77-atinge-indonesia-e-provoca-alerta-de-tsunami/"
+          "name": "Exame",
+          "url": "https://exame.com/mundo/terremoto-de-magnitude-77-deixa-38-mortos-na-indonesia/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-77-deixa-mortos-na-indonesia/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/terremoto-de-magnitude-77-atinge-a-indonesia/"
+          "url": "https://www.cnnbrasil.com.br/noticias/nao-entrem-em-panico-terremoto-assusta-turistas-em-ilha-na-indonesia/"
         },
         {
           "name": "G1",
           "url": "https://g1.globo.com/mundo/noticia/2026/08/14/terremoto-atinge-a-indonesia.ghtml"
         }
       ],
-      "updatedAt": "2026-08-15T02:37:03.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/2042828.regional-e1786751720648.jpg?quality=70&strip=info"
+      "updatedAt": "2026-08-15T09:03:05.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/YdOuqHsKssvO-MlNXLuK9SBP33s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/N/ywhk5ATHC4s8kFAmnlaw/2026-08-15t014457z-1040189082-rc2pyma8kquy-rtrmadp-3-indonesia-quake-1-.jpg"
     },
     {
-      "clusterId": "d09a7f9c97521ef2",
-      "slug": "80e3a53952c5eea5",
-      "titulo": "Bolsonaro pede autorização ao STF para ir ao dentista e indica esposa de Flávio",
-      "resumo": "O ex‑presidente Jair Bolsonaro solicitou ao ministro Alexandre de Moraes a liberação da prisão domiciliar para comparecer a consulta odontológica na próxima sexta-feira. A defesa indicou Fernanda Antunes Figueira Bolsonaro, esposa do senador Flávio, como profissional a atender. O pedido inclui autorização de deslocamento e atendimento na data marcada.",
-      "porQueImporta": "A solicitação demonstra a continuidade de medidas de saúde e segurança do ex‑presidente durante o processo judicial.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-justica/bolsonaro-pede-a-moraes-para-ir-a-dentista-e-indica-mulher-de-flavio/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/bolsonaro-pede-ao-stf-para-ir-a-dentista-e-indica-esposa-de-flavio-para-atendimento/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/bolsonaro-pede-para-ir-ao-dentista-e-sugere-nome-de-esposa-de-flavio/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/08/14/bolsonaro-pede-para-deixar-prisao-domiciliar-para-consulta-com-dentista.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-15T01:37:32.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/Fernanda-Bolsonaro.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "7e10ce9a60efc82a",
-      "slug": "cdcd4224007ef42f",
-      "titulo": "Luigi Mangione deve se declarar culpado nesta sexta-feira",
-      "resumo": "O réu Luigi Mangione, acusado de matar o CEO da UnitedHealthcare, Brian Thompson, comparecerá ao tribunal nesta sexta-feira para se declarar culpado. A audiência foi marcada de última hora, gerando especulações sobre o resultado. Negociações entre advogados e promotores federais continuam em andamento. A decisão será tomada em processo federal nos Estados Unidos.",
-      "porQueImporta": "A declaração pode encerrar o caso de assassinato de um executivo de grande empresa de saúde.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/luigi-mangione-confessa-ter-matado-ceo-de-operadora-de-saude"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/15/o-que-luigi-mangione-confessou-em-audiencia-e-o-que-acontece-a-partir-de-agora.ghtml"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/ckgd8jmmv19o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-08-15T07:09:14.000Z",
-      "imageUrl": "https://images.metroimg.com/2025/09/16150203/Luigi-Mangione-1.jpg"
-    },
-    {
-      "clusterId": "198bb972b18c42a9",
-      "slug": "bb57171a18863525",
-      "titulo": "Pesquisa Quaest mostra Lula com 38% e Flávio Bolsonaro com 31% no 1º turno",
-      "resumo": "A pesquisa da Quaest, divulgada em 14 de agosto, entrevistou 2.004 pessoas entre 10 e 13 de agosto e apontou Lula (PT) com 38% das intenções de voto no primeiro turno, seguido por Flávio Bolsonaro (PL) com 31%. No cenário de segundo turno, Lula teria 43% contra 40% de Bolsonaro, indicando empate técnico dentro da margem de erro de dois pontos percentuais. A pesquisa também revelou que 33% dos entrevistados consideram a violência a maior preocupação e que 48% desaprovam o governo Lula.",
-      "porQueImporta": "Os resultados indicam a posição dos candidatos antes do primeiro turno e refletem a percepção pública sobre questões sociais e governamentais.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/15/quaest-1o-turno-veja-intencao-de-voto-por-regiao-genero-idade-estudo-posicionamento-politico-renda-cor-e-religiao.ghtml"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/os-novos-numeros-da-disputa-entre-lula-e-flavio-bolsonaro-ao-planalto-segundo-a-quaest/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/pesquisa-quaest-vantagem-de-lula-sobre-flavio-bolsonaro-no-2o-turno-cai-para-3-pontos/"
-        }
-      ],
-      "updatedAt": "2026-08-15T03:00:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/m7q4rmS6BA5xpH83vJbYEYUJFMg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/S/nEzG7AQBmn7dcnv5NPng/260814-grafico-intencao-de-voto-para-presidente-no-1-turno-lulista.jpg"
-    },
-    {
-      "clusterId": "a8a75adfb016cc22",
-      "slug": "81a17f6b2bf40ccf",
-      "titulo": "CBV adere à política do COI e exige teste genético negativo para atletas mulheres",
-      "resumo": "A Confederação Brasileira de Voleibol anunciou que, a partir da temporada 2026/2027, as competidoras deverão apresentar teste genético negativo para o gene SRY para participar de competições nacionais de quadra e praia. A medida segue os parâmetros do Comitê Olímpico Internacional e da Federação Internacional de Voleibol. A política visa impedir a participação de mulheres trans em torneios femininos.",
-      "porQueImporta": "A decisão afeta a inclusão e os direitos de atletas trans no voleibol brasileiro.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-sportsmkt/cbv-muda-regras-e-proibe-mulheres-trans-no-volei-feminino/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/volei-brasileiro-passa-a-exigir-teste-genetico-para-atletas-mulheres/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/esporte/cbv-segue-coi-e-impede-participacao-de-mulheres-trans-em-torneios/"
-        }
-      ],
-      "updatedAt": "2026-08-15T02:05:54.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/GettyImages-2286546652.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "7daea578d177db87",
-      "slug": "1e3bda431b807627",
-      "titulo": "Marisa registra prejuízo de R$ 68,4 milhões no 2º trimestre",
-      "resumo": "A companhia reportou prejuízo líquido de R$ 68,4 milhões no segundo trimestre, embora o EBITDA tenha crescido 89,9% em relação ao mesmo período do ano anterior, atingindo R$ 36,1 milhões. O CEO Edson Salles afirmou que a empresa não abrirá novas lojas nem expandirá as existentes, buscando agora rentabilidade. A decisão de reduzir a expansão reflete a necessidade de reestruturar operações para conter perdas. O resultado destaca a pressão sobre o varejo brasileiro em meio a desafios econômicos.",
-      "porQueImporta": "O desempenho financeiro da Marisa ilustra os impactos das mudanças de estratégia no setor varejista e a necessidade de ajustes para garantir sustentabilidade.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/negocios/marisa-tem-prejuizo-de-r-684-milhoes-no-2-trimestre/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/invest/mercados/marisa-melhora-operacao-com-fechamento-de-lojas-mas-tem-prejuizo-de-r-68-milhoes-no-2o-tri/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/08/13/prejuizo-americanas-2o-tri.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-15T00:37:44.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/4IG-veu1XWSrheIAsU7RWbOw2_A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/m/j/Yyd6iURFC27KBmNzNpJw/whatsapp-image-2023-11-24-at-07.30.15.jpeg"
-    },
-    {
-      "clusterId": "f842b4dd901fe263",
-      "slug": "6dd342fe57274f45",
-      "titulo": "Resultados dos concursos de loterias do dia 14/08",
-      "resumo": "No concurso 3762 da Lotofácil, o prêmio estimado era de R$ 5.000.000,00. O concurso 7092 da Quina, realizado em São Paulo, teve um prêmio estimado de R$ 5.594.466,20. Na Mega‑Sena, o concurso 3044, sorteado na noite de 13/08, ofereceu R$ 3.010.600,82 para quem acertasse as seis dezenas, mas nenhuma aposta conseguiu o prêmio máximo.",
-      "porQueImporta": "Esses resultados informam os ganhos potenciais e a participação dos apostadores nas principais loterias do país.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3762-confira-o-resultado-sorteado-nesta-sexta-feira-14/"
-        },
-        {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/08/14/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7092-sexta-14-08/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/13/mega-sena-concurso-3044.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-15T00:07:56.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-4.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "0368859434945388",
-      "slug": "c46799f2e03422e5",
-      "titulo": "Internacional x Ferroviária no Brasileiro Feminino: onde assistir ao vivo e horário",
-      "resumo": "Ferroviária empata sem gols com RB Bragantino pelo Paulista Feminino Internacional e Ferroviária se enfrentam neste sábado, às 19h (de Brasília), no estádio SESC Protásio Alves, em Porto Alegre (RS), pela 16ª rodada do Brasileirão Feminino, a penúltima da primeira fase. O ge faz a cobertura em Tempo Real dos principais lances da partida (clique aqui para acompanhar). O duelo é um confronto direto dentro da zona classificatória. Enquanto o Internacional é o sétimo colocado com 24 pontos, mesma pontuação do primeiro time fora do G-8, a Ferroviária é a quinta e tem 27 pontos. Initial plugin text…",
-      "porQueImporta": "",
+      "clusterId": "13d415f07f8cda84",
+      "slug": "4fc7af6fa9cede8b",
+      "titulo": "Jogos do Brasileirão e Brasileirão Feminino em 15 de agosto",
+      "resumo": "No dia 15 de agosto, vários confrontos do Campeonato Brasileiro e do Brasileirão Feminino foram programados. Entre os jogos masculinos, Bragantino enfrentará Vitória, Athletico-PR vai jogar Bragantino, Fluminense vai encarar Palmeiras e Bahia vai jogar Corinthians. No feminino, Internacional vai jogar Ferroviária e Bahia vai enfrentar Corinthians.",
+      "porQueImporta": "Esses encontros determinam posições importantes na tabela e influenciam a classificação para fases finais.",
       "category": "esportes",
       "sources": [
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/athletico-pr-x-bragantino-horario-e-onde-assistir-ao-jogo-do-brasileirao/"
+          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/bragantino-x-vitoria-horario-e-onde-assistir-ao-brasileirao-feminino/"
+        },
+        {
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/08/15/internet-e-redes-sociais/sao-paulo-x-coritiba-onde-assistir-horario-e-escalacao-do-jogo-do-brasileirao/"
         },
         {
           "name": "GE",
           "url": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/futebol-feminino/brasileiro-feminino/noticia/2026/08/15/internacional-x-ferroviaria-no-brasileiro-feminino-onde-assistir-ao-vivo-e-horario.ghtml"
         }
       ],
-      "updatedAt": "2026-08-15T08:00:46.000Z",
+      "updatedAt": "2026-08-15T09:00:20.000Z",
       "imageUrl": "https://s2-ge.glbimg.com/U040KFYJK_fcZqgokEGB854WCgE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/o/A/1WTjCoQ4GsWFjKT3fDNg/54813638362-757a60c78e-o.jpg"
     },
     {
-      "clusterId": "1c1e8d8eae6828e4",
-      "slug": "e49fc304acd4dd64",
-      "titulo": "Flávio Bolsonaro agenda campanha no Rio no mesmo dia que Lula fará comício",
-      "resumo": "O senador Flávio Bolsonaro planejou uma agenda de campanha no Rio de Janeiro para o dia 16 de agosto, coincidindo com o comício presidencial de Lula na cidade. Ambos os candidatos iniciam suas campanhas oficiais no mesmo dia, concentrando eventos no Sudeste, exceto Ronaldo Caiado que escolheu Goiás. A escolha de locais reflete a estratégia de foco nas regiões mais influentes nas pesquisas.",
-      "porQueImporta": "A simultaneidade dos comícios destaca a competição direta entre os candidatos e a importância do Rio de Janeiro como palco político.",
-      "category": "politica",
+      "clusterId": "115379916e32e04d",
+      "slug": "87de74b72c800dbe",
+      "titulo": "Lucros trimestrais de IRB(Re), Petz Cobasi e Nubank destacam desempenho do setor financeiro e varejista",
+      "resumo": "O banco IRB(Re) registrou lucro líquido de R$ 157,5 milhões no segundo trimestre, com emissão de títulos totalizando R$ 1,15 bilhão, em queda de 14,1% em relação ao ano anterior. A Petz Cobasi encerrou o trimestre com 520 lojas e lucro líquido de R$ 70,3 milhões, enquanto as vendas cresceram 6,6% na Cobasi e 7,4% na Petz. O Nubank, por sua vez, atingiu lucro líquido bilionário de US$ 1,061 bilhão, crescimento de 17% em relação ao mesmo período de 2025, com receita bruta de US$ 5,9 bilhões e carteira de crédito de US$ 39,4 bilhões.",
+      "porQueImporta": "Esses resultados refletem a robustez e diversificação dos setores bancário, de crédito e varejo de animais no Brasil.",
+      "category": "economia",
       "sources": [
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/igor-gadelha/flavio-planeja-agenda-no-rio-no-mesmo-dia-que-lula"
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/boa-safra-tem-lucro-liquido-de-r-27-mi-no-2t-revertendo-prejuizo-do-ano-passado/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/presidenciaveis-inauguram-campanha-eventos-publicos.ghtml"
+          "url": "https://g1.globo.com/economia/noticia/2026/08/13/nubank-tem-lucro-liquido-acima-de-us-1-bilhao-pela-primeira-vez.ghtml"
         }
       ],
-      "updatedAt": "2026-08-15T08:00:38.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/lula-flaviojpg.jpeg"
+      "updatedAt": "2026-08-15T12:31:53.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/04/Boa-Safra-Ribeirao-Cascalheira.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "88d09044616cd052",
+      "slug": "620072c56518df10",
+      "titulo": "Campanhas de vacinação em Natal e em 20 regiões do DF",
+      "resumo": "Na cidade de Natal, a Prefeitura continua a Campanha Antirrábica 2026, com vacinação de cães e gatos em postos fixos e equipes porta a porta, já imunizando mais de 44 mil animais e visando 80% de cobertura. No Distrito Federal, a Secretaria de Saúde realizará um mutirão de vacinação em mais de 50 pontos, abordando doenças como sarampo, coqueluche, covid‑19 e dengue.",
+      "porQueImporta": "Essas ações ampliam a proteção da população e dos animais contra doenças transmissíveis, contribuindo para a saúde pública.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/15/campanha-antirrabica-2026-confira-locais-de-vacinacao-neste-sabado-15-em-natal.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/df-tera-mutirao-de-vacinacao-em-20-regioes-neste-sabado"
+        }
+      ],
+      "updatedAt": "2026-08-15T12:17:22.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/sVkiDSgXFY9muM3jecrRDQ1y1vw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/v/xzppbHRDABcsQSsgrgrw/cachorro.png"
+    },
+    {
+      "clusterId": "9e666f644a553377",
+      "slug": "a8daff55a5b68a0a",
+      "titulo": "Defesa Civil emite alerta severo por chuva forte, raios e ventos em São Paulo",
+      "resumo": "A Defesa Civil de São Paulo emitiu alerta severo para o sábado 15 de agosto, destacando risco de chuva forte, raios, ventos e possibilidade de granizo. Bairros do Jabaquara e Santo Amaro, na zona sul da capital, estão em estado de alerta. A mensagem foi enviada aos moradores por volta das 8h05.",
+      "porQueImporta": "O alerta visa prevenir danos e garantir a segurança dos residentes diante de condições climáticas adversas.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/capital-paulista-esta-toda-em-atencao-para-alagamentos-neste-sabado/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/defesa-civil-alerta-severo-chuva-sp-2"
+        }
+      ],
+      "updatedAt": "2026-08-15T12:03:23.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/chuva-alerta-severo-1.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "d09a7f9c97521ef2",
-        "slug": "80e3a53952c5eea5",
-        "titulo": "Bolsonaro pede autorização ao STF para ir ao dentista e indica esposa de Flávio",
-        "resumo": "O ex‑presidente Jair Bolsonaro solicitou ao ministro Alexandre de Moraes a liberação da prisão domiciliar para comparecer a consulta odontológica na próxima sexta-feira. A defesa indicou Fernanda Antunes Figueira Bolsonaro, esposa do senador Flávio, como profissional a atender. O pedido inclui autorização de deslocamento e atendimento na data marcada.",
-        "porQueImporta": "A solicitação demonstra a continuidade de medidas de saúde e segurança do ex‑presidente durante o processo judicial.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-justica/bolsonaro-pede-a-moraes-para-ir-a-dentista-e-indica-mulher-de-flavio/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/bolsonaro-pede-ao-stf-para-ir-a-dentista-e-indica-esposa-de-flavio-para-atendimento/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/bolsonaro-pede-para-ir-ao-dentista-e-sugere-nome-de-esposa-de-flavio/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/08/14/bolsonaro-pede-para-deixar-prisao-domiciliar-para-consulta-com-dentista.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-15T01:37:32.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/Fernanda-Bolsonaro.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "198bb972b18c42a9",
+        "clusterId": "26d5a50853d068df",
         "slug": "bb57171a18863525",
         "titulo": "Pesquisa Quaest mostra Lula com 38% e Flávio Bolsonaro com 31% no 1º turno",
         "resumo": "A pesquisa da Quaest, divulgada em 14 de agosto, entrevistou 2.004 pessoas entre 10 e 13 de agosto e apontou Lula (PT) com 38% das intenções de voto no primeiro turno, seguido por Flávio Bolsonaro (PL) com 31%. No cenário de segundo turno, Lula teria 43% contra 40% de Bolsonaro, indicando empate técnico dentro da margem de erro de dois pontos percentuais. A pesquisa também revelou que 33% dos entrevistados consideram a violência a maior preocupação e que 48% desaprovam o governo Lula.",
@@ -290,60 +242,56 @@
         "category": "politica",
         "sources": [
           {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-lula-tem-47-entre-os-catolicos-flavio-43-entre-os-evangelicos/"
+          },
+          {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/15/quaest-1o-turno-veja-intencao-de-voto-por-regiao-genero-idade-estudo-posicionamento-politico-renda-cor-e-religiao.ghtml"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/os-novos-numeros-da-disputa-entre-lula-e-flavio-bolsonaro-ao-planalto-segundo-a-quaest/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/pesquisa-quaest-vantagem-de-lula-sobre-flavio-bolsonaro-no-2o-turno-cai-para-3-pontos/"
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/14/quaest-1o-turno-veja-como-esta-a-disputa-entre-catolicos-e-evangelicos.ghtml"
           }
         ],
-        "updatedAt": "2026-08-15T03:00:15.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/m7q4rmS6BA5xpH83vJbYEYUJFMg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/S/nEzG7AQBmn7dcnv5NPng/260814-grafico-intencao-de-voto-para-presidente-no-1-turno-lulista.jpg"
+        "updatedAt": "2026-08-15T11:19:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/nWKVPpXCkJeBNOOTGhAtAuAFS74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/n/PIBARRQBCrBnTSEBePeQ/montagem-horizontal-1280x720px-5-.jpg"
       },
       {
-        "clusterId": "1c1e8d8eae6828e4",
-        "slug": "e49fc304acd4dd64",
-        "titulo": "Flávio Bolsonaro agenda campanha no Rio no mesmo dia que Lula fará comício",
-        "resumo": "O senador Flávio Bolsonaro planejou uma agenda de campanha no Rio de Janeiro para o dia 16 de agosto, coincidindo com o comício presidencial de Lula na cidade. Ambos os candidatos iniciam suas campanhas oficiais no mesmo dia, concentrando eventos no Sudeste, exceto Ronaldo Caiado que escolheu Goiás. A escolha de locais reflete a estratégia de foco nas regiões mais influentes nas pesquisas.",
-        "porQueImporta": "A simultaneidade dos comícios destaca a competição direta entre os candidatos e a importância do Rio de Janeiro como palco político.",
+        "clusterId": "838e62be5022121c",
+        "slug": "75d916559c39ae47",
+        "titulo": "Violência é principal preocupação dos eleitores segundo pesquisa",
+        "resumo": "A pesquisa da Quaest, realizada entre 10 e 13 de agosto, entrevistou 2.004 pessoas e revelou que 33% dos eleitores consideram a violência a maior preocupação. A margem de erro é de dois pontos percentuais, com nível de confiança de 95%. A pesquisa foi encomendada pela Globo em parceria com o jornal O Globo.",
+        "porQueImporta": "Indica a prioridade dos eleitores em relação à segurança pública, influenciando agenda política.",
         "category": "politica",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/igor-gadelha/flavio-planeja-agenda-no-rio-no-mesmo-dia-que-lula"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/quaest-para-33-violencia-e-a-principal-preocupacao-dos-eleitores/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/presidenciaveis-inauguram-campanha-eventos-publicos.ghtml"
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/14/violencia-e-maior-preocupacao-entre-eleitores-mostra-quaest.ghtml"
           }
         ],
-        "updatedAt": "2026-08-15T08:00:38.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/06/lula-flaviojpg.jpeg"
+        "updatedAt": "2026-08-15T11:10:13.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/xj8GHM7Qfk5WhLe2vT3ntsv-LRU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/l/RCfigcR2G30WNMm2SSRA/montagens-1920-x-1080-px-41-.png"
       },
       {
-        "clusterId": "d804349f2cdbac47",
-        "slug": "082a9b34806d1439",
-        "titulo": "Kassab afirma que Centrão apoia Lula e que chance de Flávio Bolsonaro vencer é zero",
-        "resumo": "Gilberto Kassab, presidente do PSD e candidato a vice-presidente, declarou que os partidos do Centrão não estão neutros na eleição presidencial, mas favorecem Lula. Ele afirmou que Flávio Bolsonaro não tem chance de vencer, descrevendo a situação como \"zero\". Kassab observou que Flávio ainda é preservado, mas pode sofrer desgastes quando a campanha oficial começar.",
-        "porQueImporta": "A posição de Kassab pode influenciar a percepção de apoio do Centrão ao PT e afetar a dinâmica da corrida presidencial.",
+        "clusterId": "3af087b43647f947",
+        "slug": "bc93bf64ad76e801",
+        "titulo": "Vendas online de canetas emagrecedoras aumentam 149% no 1º semestre de 2026",
+        "resumo": "O comércio eletrônico de canetas emagrecedoras, medicamentos associados ao GLP‑1, registrou 1.364.354 pedidos entre janeiro e junho de 2026, em comparação com 547.249 no mesmo período de 2025. O volume de vendas subiu 149,3%, representando um aumento de 2,5 vezes. O valor total movimentado foi de R$ 2,348 bilhões, segundo levantamento da Serasa Experian. A pesquisa também indica um crescimento semanal de 6,29% nas buscas por canetas emagrecedoras irregulares de junho de 2025 a janeiro de 2026.",
+        "porQueImporta": "O aumento expressivo nas vendas e buscas reflete a crescente demanda por tratamentos de perda de peso e diabetes no Brasil.",
         "category": "politica",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/blog-do-noblat/kassab-aposta-reputacao-contra-flavio-e-ve-centrao-fechado-com-lula"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-saude/vendas-online-de-canetas-emagrecedoras-saltam-149-no-1o-semestre/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/14/kassab-centrao-lula-flavio-bolsonaro.ghtml"
+            "url": "https://g1.globo.com/economia/noticia/2026/08/13/canetas-emagrecedoras-viram-febre-13-milhao-de-pedidos-movimentam-r-23-bilhoes-em-6-meses.ghtml"
           }
         ],
-        "updatedAt": "2026-08-15T07:30:15.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/03/kassab.jpeg"
+        "updatedAt": "2026-08-15T10:56:48.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/gufuDzudQY1FcWDgusBPEfI1fFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/W/MYwCJTRoGZi7RaVKTBXA/adobestock-1884872299-1-.jpeg"
       },
       {
         "clusterId": "22863c1d8bed9da1",
@@ -366,267 +314,292 @@
         "imageUrl": "https://s2-g1.glbimg.com/Y5OUBctDA60pvQ47Y6qiCNV63BI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/C/yRvQeGSj6mhcurnHfH7g/78090845-1004.webp"
       },
       {
-        "clusterId": "3e02b59eab638080",
-        "slug": "f8357e432779af7d",
-        "titulo": "Lula grava vídeos de campanha para aliados",
-        "resumo": "O presidente Luiz Inácio Lula da Silva iniciou gravações de vídeos de até 30 segundos para apoiar candidatos do PT e de aliados. As primeiras gravações foram feitas com senadores e candidatos a governos estaduais, especialmente nos estados onde os apoiados já exercem mandato. As filmagens ocorreram na sede da campanha à reeleição, localizada no Lago Sul, em Brasília.",
-        "porQueImporta": "Esses vídeos fazem parte da estratégia de comunicação da campanha de Lula, influenciando a divulgação e apoio a candidatos aliados.",
+        "clusterId": "6348378c2f464e3c",
+        "slug": "51687eac47eb570d",
+        "titulo": "TSE avalia proibição de deepfakes e debate uso de IA nas campanhas eleitorais",
+        "resumo": "O Tribunal Superior Eleitoral (TSE) marcou reunião para discutir a possível proibição do uso de deepfakes nas campanhas de 2026 e as sanções correspondentes, embora a data ainda não tenha sido confirmada. A discussão ocorre antes da sessão de julgamentos do plenário e visa delimitar os limites do uso de inteligência artificial nas eleições. Ministros destacam que o Partido Liberal (PL) e seu candidato Flávio Bolsonaro não podem usar vídeos de Jair Bolsonaro em propaganda eleitoral, pois o ex-presidente está proibido de fazer manifestações político‑eleitorais pelo Supremo Tribunal Federal.",
+        "porQueImporta": "Define regras sobre o uso de tecnologia de IA nas campanhas, afetando estratégias políticas e a integridade do processo eleitoral.",
         "category": "politica",
         "sources": [
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-grava-pelo-2o-dia-participacoes-em-campanhas-de-aliados/"
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/ceqed2992ppo?at_medium=RSS&at_campaign=rss"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/08/13/lula-grava-primeiros-videos-para-campanha-eleitoral-nesta-quinta.ghtml"
+            "url": "https://g1.globo.com/politica/noticia/2026/08/14/tse-marca-para-terca-reuniao-para-discutir-proibicao-do-uso-de-deepfakes-na-campanha-eleitoral.ghtml"
           }
         ],
-        "updatedAt": "2026-08-15T03:53:35.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/O3d-n6DUSTlxLaxA8PWcL8bz-1Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/F/YA8OqrR9KQlikqWk4XMA/55450527845-c28450c581-k.jpg"
+        "updatedAt": "2026-08-14T21:26:29.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e978/live/94939f40-97ea-11f1-a76b-f1c27c51f3da.jpg"
       },
       {
-        "clusterId": "81edacbc6f2a64c1",
-        "slug": "0293569008447732",
-        "titulo": "STF investiga se senador Weverton Rocha e ministro do STJ interferiram em investigação de homicídio no Maranhão",
-        "resumo": "O Supremo Tribunal Federal abriu inquérito para apurar se o senador Weverton Rocha (PDT-MA) e o ministro Humberto Martins (STJ) tentaram atrapalhar a investigação de um homicídio ocorrido em 2022 no Maranhão. A Polícia Federal encontrou no celular do senador registros de contatos com o ministro, que era relator do caso. A suspeita envolve a possibilidade de blindagem de um integrante do Tribunal de Contas do Estado do Maranhão.",
-        "porQueImporta": "A investigação pode revelar interferência política em processos judiciais, afetando a confiança nas instituições.",
+        "clusterId": "1f13278285da162c",
+        "slug": "071af76bc74b69ac",
+        "titulo": "FUP apresenta 50 propostas para controle estatal da Petrobras e redução de dividendos",
+        "resumo": "A Federação das Unidades de Produção (FUP) divulgou 50 propostas que incluem a reestatização de refinarias, aumento da capacidade de refino nacional e alterações no regime de exploração do pré-sal. A entidade pede maior controle estatal sobre a companhia e menor distribuição de dividendos aos acionistas. As medidas visam fortalecer a produção interna e reduzir a dependência de importações de petróleo.",
+        "porQueImporta": "As propostas podem alterar significativamente a gestão e a política de dividendos da maior empresa petrolífera do país.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-justica/weverton-nega-tentativa-de-interferencia-em-investigacoes-da-pf/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/08/14/conexao-no-stj-stf-investiga-se-senador-weverton-rocha-articulou-blindagem-em-caso-de-homicidio-no-maranhao.ghtml"
+            "url": "https://www.poder360.com.br/poder-infra/fup-pede-mais-controle-estatal-da-petrobras-e-menos-dividendos/"
           }
         ],
-        "updatedAt": "2026-08-15T03:42:48.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/h5bPyJWBaKwj5lHjsm1QMy07lws=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/h/2/pmZvXsRKu1yqQpH0mD7w/54991215040-0967f2e1fd-o.jpg"
+        "updatedAt": "2026-08-15T12:16:30.000Z"
       },
       {
-        "clusterId": "beabf7bf22c32bc3",
-        "slug": "899485fdacd3a056",
-        "titulo": "Mendonça defende imparcialidade em casos Master e INSS",
-        "resumo": "O ministro André Mendonça, relator dos inquéritos do Banco Master e do INSS, afirmou que o Judiciário deve agir com autocontenção e imparcialidade. Ele ressaltou a importância de evitar erros semelhantes aos da Lava Jato e de manter a confiança da sociedade nas instituições. Mendonça destacou que o caso envolvendo o ex-banqueiro Daniel Vorcaro é emblemático e requer consciência do papel do juiz.",
-        "porQueImporta": "Garantir a credibilidade do Judiciário em processos de grande repercussão.",
+        "clusterId": "8d1918991f81e301",
+        "slug": "88adc5993c01c33c",
+        "titulo": "Nike lidera fornecedoras da La Liga na temporada 2026-2027",
+        "resumo": "A marca norte‑americana é fornecedora de uniformes de quatro dos 20 clubes da primeira divisão espanhola. A temporada 2026‑2027 da La Liga terá início neste sábado, 15 de agosto. Nike mantém a posição de principal patrocinadora de vestuário entre os times da liga.",
+        "porQueImporta": "O domínio da Nike na uniformização dos clubes reflete sua influência no mercado esportivo europeu.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-justica/meu-papel-e-ser-imparcial-diz-mendonca-sobre-casos-master-e-inss/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/08/14/mendonca-promete-conduzir-casos-master-e-inss-com-imparcialidade-e-diz-que-quer-evitar-erros-da-lava-jato.ghtml"
+            "url": "https://www.poder360.com.br/poder-sportsmkt/nike-lidera-fornecedoras-da-la-liga-na-temporada-2026-2027/"
           }
         ],
-        "updatedAt": "2026-08-15T00:22:52.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/BlyT8QfHovrZTWB1zuA1V_lXbUE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/D/ybBeP5SZiXAugbl4D4SA/andre-mendonca-alejandro-zambrana-secom-tse.jpg"
+        "updatedAt": "2026-08-15T12:10:24.000Z"
+      },
+      {
+        "clusterId": "a8192fdda9ff7d6e",
+        "slug": "f8277c6e2fb3a57c",
+        "titulo": "Emissoras cedem espaço para horário eleitoral e recebem isenção fiscal",
+        "resumo": "As emissoras de TV concedem espaço em suas grades para a programação eleitoral, obtendo em troca compensações tributárias. De 2014 a 2025, o governo concedeu R$ 5,2 bilhões em isenção fiscal às emissoras que disponibilizam o horário. O custo do horário não é gratuito, pois envolve renúncia de receita tributária. O acordo beneficia tanto as emissoras quanto o Estado, que garante cobertura ampla do processo eleitoral.",
+        "porQueImporta": "O esquema mostra como a mídia e o Estado negociam recursos públicos para garantir a cobertura eleitoral.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/horario-eleitoral-nao-e-gratuito-e-custa-milhoes-em-renuncia-fiscal/"
+          }
+        ],
+        "updatedAt": "2026-08-15T12:00:18.000Z"
       }
     ],
     "economia": [
       {
-        "clusterId": "4d6055fcee140bd2",
-        "slug": "3636beb024d19fae",
-        "titulo": "Petrobras identifica hidrocarbonetos em poço na Foz do Amazonas",
-        "resumo": "A Petrobras perfurou o poço Morpho, localizado a cerca de 175 km da costa do Amapá e em águas de quase 2,9 km de profundidade, e detectou sinais de petróleo ou gás natural. A descoberta foi feita durante a fase de avaliação exploratória do bloco FZA-M-59, na margem equatorial brasileira. O Ibama havia concedido autorização para a perfuração após análise de riscos ambientais. A estatal planeja continuar as avaliações de forma segura e respeitando o meio ambiente.",
-        "porQueImporta": "A descoberta reforça o potencial da margem equatorial para a produção de petróleo no Brasil.",
+        "clusterId": "84834ed9b8fe2a62",
+        "slug": "f96d0389374bc885",
+        "titulo": "Petrobras detecta sinais de petróleo na Foz do Amazonas",
+        "resumo": "A Petrobras perfurou o poço Morpho, a cerca de 175 km da costa do Amapá, em águas profundas de 2.886 metros, e encontrou hidrocarbonetos. A descoberta indica a presença de petróleo ou gás natural na bacia da Foz do Amazonas. A exploração continuará para confirmar a viabilidade da produção.",
+        "porQueImporta": "A descoberta pode abrir uma nova fronteira exploratória para a empresa, mas também traz controvérsias ambientais na região.",
         "category": "economia",
         "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/petrobras-encontra-indicios-de-petroleo-na-foz-do-amazonas-entenda-o-que-vem-agora/"
+          },
           {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/cq561131yq0o?at_medium=RSS&at_campaign=rss"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/14/petrobras-anuncia-descoberta-de-petroleo-na-bacia-da-foz-do-amazonas.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/questao-ambiental-permanece-desafio-na-foz-do-amazonas-diz-abespetro/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/economia/petrobras-faz-descoberta-na-bacia-da-foz-do-amazonas-nas-proximidades-do-amapa/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/petrobras-anuncia-descoberta-de-petroleo-na-bacia-da-foz-do-amazonas/"
+            "url": "https://g1.globo.com/economia/noticia/2026/08/14/video-mostra-sonda-da-petrobras-em-area-com-sinais-de-petroleo-e-gas-na-foz-do-amazonas.ghtml"
           }
         ],
-        "updatedAt": "2026-08-15T02:37:26.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d8ae/live/c23c2310-9851-11f1-a7ab-8b30adf0800a.jpg"
+        "updatedAt": "2026-08-15T11:42:11.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/10/Captura-de-tela-2025-10-20-165412.png?fit=300%2C188&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "7daea578d177db87",
-        "slug": "1e3bda431b807627",
-        "titulo": "Marisa registra prejuízo de R$ 68,4 milhões no 2º trimestre",
-        "resumo": "A companhia reportou prejuízo líquido de R$ 68,4 milhões no segundo trimestre, embora o EBITDA tenha crescido 89,9% em relação ao mesmo período do ano anterior, atingindo R$ 36,1 milhões. O CEO Edson Salles afirmou que a empresa não abrirá novas lojas nem expandirá as existentes, buscando agora rentabilidade. A decisão de reduzir a expansão reflete a necessidade de reestruturar operações para conter perdas. O resultado destaca a pressão sobre o varejo brasileiro em meio a desafios econômicos.",
-        "porQueImporta": "O desempenho financeiro da Marisa ilustra os impactos das mudanças de estratégia no setor varejista e a necessidade de ajustes para garantir sustentabilidade.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/negocios/marisa-tem-prejuizo-de-r-684-milhoes-no-2-trimestre/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/invest/mercados/marisa-melhora-operacao-com-fechamento-de-lojas-mas-tem-prejuizo-de-r-68-milhoes-no-2o-tri/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/08/13/prejuizo-americanas-2o-tri.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-15T00:37:44.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/4IG-veu1XWSrheIAsU7RWbOw2_A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/m/j/Yyd6iURFC27KBmNzNpJw/whatsapp-image-2023-11-24-at-07.30.15.jpeg"
-      },
-      {
-        "clusterId": "f842b4dd901fe263",
-        "slug": "6dd342fe57274f45",
-        "titulo": "Resultados dos concursos de loterias do dia 14/08",
-        "resumo": "No concurso 3762 da Lotofácil, o prêmio estimado era de R$ 5.000.000,00. O concurso 7092 da Quina, realizado em São Paulo, teve um prêmio estimado de R$ 5.594.466,20. Na Mega‑Sena, o concurso 3044, sorteado na noite de 13/08, ofereceu R$ 3.010.600,82 para quem acertasse as seis dezenas, mas nenhuma aposta conseguiu o prêmio máximo.",
-        "porQueImporta": "Esses resultados informam os ganhos potenciais e a participação dos apostadores nas principais loterias do país.",
+        "clusterId": "2c42a1df18990243",
+        "slug": "80e3a53952c5eea5",
+        "titulo": "Bolsonaro pede autorização ao STF para ir ao dentista e indica esposa de Flávio",
+        "resumo": "O ex‑presidente Jair Bolsonaro solicitou ao ministro Alexandre de Moraes a liberação da prisão domiciliar para comparecer a consulta odontológica na próxima sexta-feira. A defesa indicou Fernanda Antunes Figueira Bolsonaro, esposa do senador Flávio, como profissional a atender. O pedido inclui autorização de deslocamento e atendimento na data marcada.",
+        "porQueImporta": "A solicitação demonstra a continuidade de medidas de saúde e segurança do ex‑presidente durante o processo judicial.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3762-confira-o-resultado-sorteado-nesta-sexta-feira-14/"
+            "url": "https://www.infomoney.com.br/politica/bolsonaro-pede-ao-stf-autorizacao-para-consulta-odontologica-com-mulher-de-flavio/"
           },
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/14/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7092-sexta-14-08/"
+            "name": "Exame",
+            "url": "https://exame.com/brasil/bolsonaro-pede-ao-stf-para-ser-atendido-pela-nora-que-e-dentista/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/08/13/mega-sena-concurso-3044.ghtml"
+            "url": "https://g1.globo.com/politica/noticia/2026/08/14/bolsonaro-pede-para-deixar-prisao-domiciliar-para-consulta-com-dentista.ghtml"
           }
         ],
-        "updatedAt": "2026-08-15T00:07:56.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/11/11-09-2020_loteria-4.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-15T11:17:29.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-27T133645Z_534196090_RC20DKA2MIK9_RTRMADP_3_BRAZIL-BOLSONARO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "4c33fcb508a7c3df",
-        "slug": "809b0fbd7cecb031",
-        "titulo": "Flávio inicia campanha em Copacabana usando símbolos de Bolsonaro",
-        "resumo": "O candidato Flávio Bolsonaro abriu sua campanha na Praia de Copacabana, em Rio de Janeiro, utilizando símbolos associados a Jair Bolsonaro. O evento serviu como teste de mobilização da base bolsonarista nas ruas. A escolha do local, histórico de manifestações de Bolsonaro, destaca a estratégia de atrair simpatizantes. A campanha também contará com motociata em Juiz de Fora e visitas a estados do Sudeste.",
-        "porQueImporta": "A abertura na Praia de Copacabana demonstra a continuidade da estratégia de mobilização da base bolsonarista e a importância de símbolos políticos na campanha eleitoral.",
+        "clusterId": "115379916e32e04d",
+        "slug": "87de74b72c800dbe",
+        "titulo": "Lucros trimestrais de IRB(Re), Petz Cobasi e Nubank destacam desempenho do setor financeiro e varejista",
+        "resumo": "O banco IRB(Re) registrou lucro líquido de R$ 157,5 milhões no segundo trimestre, com emissão de títulos totalizando R$ 1,15 bilhão, em queda de 14,1% em relação ao ano anterior. A Petz Cobasi encerrou o trimestre com 520 lojas e lucro líquido de R$ 70,3 milhões, enquanto as vendas cresceram 6,6% na Cobasi e 7,4% na Petz. O Nubank, por sua vez, atingiu lucro líquido bilionário de US$ 1,061 bilhão, crescimento de 17% em relação ao mesmo período de 2025, com receita bruta de US$ 5,9 bilhões e carteira de crédito de US$ 39,4 bilhões.",
+        "porQueImporta": "Esses resultados refletem a robustez e diversificação dos setores bancário, de crédito e varejo de animais no Brasil.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/flavio-abre-campanha-em-copacabana-palco-de-atos-de-jair-bolsonaro-neste-domingo/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/flavio-recorre-a-simbolos-de-bolsonaro-na-largada-da-campanha"
-          }
-        ],
-        "updatedAt": "2026-08-15T08:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/08/GxcTVWlXoAAF0_g-2-e1765049780465.jpeg?fit=300%2C157&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "6afb39c64fc4efd5",
-        "slug": "1db34e6f497cd875",
-        "titulo": "SpaceX e Anthropic negociam aquisições de startups de IA",
-        "resumo": "A SpaceX concluiu a compra da startup de IA Cursor, enquanto a Anthropic está em negociações para adquirir a Decart AI, startup israelense que desenvolve infra‑estrutura para modelos de IA. A SpaceX já detém quase 90% do mercado de lançamentos comerciais de satélites globais. A Decart AI tem parcerias com empresas como Nvidia e desenvolve tecnologias que tornam modelos de IA mais rápidos e eficientes.",
-        "porQueImporta": "Essas aquisições reforçam a presença de grandes empresas em setores estratégicos de tecnologia e IA.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/negocios/spacex-conclui-compra-da-startup-de-ia-cursor/"
+            "url": "https://www.infomoney.com.br/mercados/boa-safra-tem-lucro-liquido-de-r-27-mi-no-2t-revertendo-prejuizo-do-ano-passado/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/noticia/2026/08/13/anthropic-negocia-compra-de-startup-de-ia-por-us-6-bilhoes-diz-agencia.ghtml"
+            "url": "https://g1.globo.com/economia/noticia/2026/08/13/nubank-tem-lucro-liquido-acima-de-us-1-bilhao-pela-primeira-vez.ghtml"
           }
         ],
-        "updatedAt": "2026-08-15T00:32:40.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/SufUuCqQ51RhejtdmN9uyvz7Qls=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/6/hcOAwFRpCGtPxgONB9Dw/54585378881-aa1132375c-o.jpg"
+        "updatedAt": "2026-08-15T12:31:53.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/04/Boa-Safra-Ribeirao-Cascalheira.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "6f0f6424ec1843fc",
-        "slug": "c0804380582a1125",
-        "titulo": "Dólar sobe e Ibovespa cai enquanto investidores estrangeiros retiram recursos",
-        "resumo": "O dólar fechou em alta, atingindo R$ 5,23, impulsionado por expectativas de dados econômicos dos EUA e pela pesquisa eleitoral brasileira. O Ibovespa registrou queda, caindo quase 1% no mesmo período. Investidores internacionais retiraram cerca de R$ 11,93 bilhões dos mercados brasileiros nos primeiros dias de agosto, refletindo incertezas sobre juros e cenário eleitoral.",
-        "porQueImporta": "A movimentação cambial e a saída de capitais afetam a liquidez e o custo de financiamento no Brasil.",
+        "clusterId": "a0ef412703706642",
+        "slug": "6b06e280bd6b5d1b",
+        "titulo": "James Webb revela detalhes inéditos da Nebulosa do Leão",
+        "resumo": "O telescópio James Webb capturou uma imagem em infravermelho da Nebulosa do Leão (NGC 2392), localizada a cerca de 5 mil anos-luz da Terra. A nova fotografia mostra estruturas de gás e poeira com maior nitidez do que as imagens do Hubble de 2000. A imagem evidencia como os restos de uma estrela moribunda continuam a moldar o material ao redor, revelando um “rosto de leão” esculpido pela anã branca.",
+        "porQueImporta": "A observação oferece insights sobre a evolução de estrelas e a formação de nebulosas planetárias.",
         "category": "economia",
         "sources": [
           {
             "name": "Exame",
-            "url": "https://exame.com/invest/mercados/ibovespa-fecha-9a-sessao-em-queda-e-acumula-perda-de-32-na-semana-dolar-avanca/"
+            "url": "https://exame.com/ciencia/telescopio-james-webb-revela-rosto-de-leao-esculpido-por-estrela-moribunda/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/08/14/dolar-ibovespa.ghtml"
+            "url": "https://g1.globo.com/ciencia/noticia/2026/08/15/james-webb-nebulosa-do-leao.ghtml"
           }
         ],
-        "updatedAt": "2026-08-14T17:48:02.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/WWDRGDMxGNQZCy9ypuF1ackcQ90=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/S/u3TO0vRgyBsplTZYCmeA/2025-02-04t203004z-2-lynxmpel130tf-rtroptp-4-usa-trump-migration-colombia.jpg"
+        "updatedAt": "2026-08-15T08:55:28.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/bTUvYnA4jGz0buZdLe0EKrswwm4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/2/P3ZMniRBio5tCykwcRuA/imagem-cortada.jpg"
       },
       {
-        "clusterId": "12f3b3c3664688f5",
-        "slug": "18b85a7532079f85",
-        "titulo": "Joshua Kushner compra Los Angeles Lakers por US$ 12,5 bilhões",
-        "resumo": "O investidor Joshua Kushner, fundador da Thrive Capital, adquiriu o Los Angeles Lakers em parceria com Bob Iger. A compra foi realizada por US$ 12,5 bilhões, estabelecendo um recorde de valor para a equipe. Kushner já havia investido em empresas como Instagram, Spotify e OpenAI. A transação foi concluída após a rejeição de propostas anteriores.",
-        "porQueImporta": "A aquisição representa o maior investimento em um clube de basquete da NBA, alterando a estrutura de propriedade e potencialmente influenciando o futuro do esporte.",
+        "clusterId": "8520ca429dd5b124",
+        "slug": "2b9d40a7674009ac",
+        "titulo": "Anvisa proíbe chás emagrecedores por falta de registro",
+        "resumo": "A Agência Nacional de Vigilância Sanitária (Anvisa) proibiu a comercialização de chás rotulados como emagrecedores, pois não possuem registro junto à agência. O órgão apontou que esses produtos não foram submetidos a estudos clínicos que comprovem sua eficácia e segurança. Além disso, a ausência de registro impede a fiscalização adequada e pode expor os consumidores a riscos. A medida visa proteger a saúde pública e garantir que apenas produtos regulamentados sejam vendidos.",
+        "porQueImporta": "A proibição assegura que consumidores não sejam enganados por alegações não comprovadas e evita possíveis efeitos adversos.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/business/global/o-bilionario-que-ignorou-os-ceticos-da-openai-agora-fecha-negocio-recorde-pelo-lakers/"
+            "url": "https://www.infomoney.com.br/saude/chas-emagrecedores-proibidos-anvisa/"
           }
         ],
-        "updatedAt": "2026-08-15T08:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/BILLIONAIRE-JOSHUA-KUSHNER-JUST-BOUGHT-THE-LAKERS-FOR-125-BILLIONOPENAIS-SAM-ALTMAN-ONCE-SAID-HE-DOESNT-CARE-WHAT-OTHERS-THINK.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-15T12:30:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/anvisa-fachada.jpg?fit=300%2C179&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "f18a9b86266e7c48",
-        "slug": "9aa0e0a8b21dd071",
-        "titulo": "A ajuda inesperada de Ray Dalio ao McDonald’s que tornou os McNuggets um sucesso",
-        "resumo": "Antes de transformar a Bridgewater em um dos maiores hedge funds do mundo, o investidor ajudou o McDonald’s a reduzir os riscos do mercado de frango e viabilizar o lançamento dos famosos nuggets The post A ajuda inesperada de Ray Dalio ao McDonald’s que tornou os McNuggets um sucesso appeared first on InfoMoney.",
-        "porQueImporta": "",
+        "clusterId": "f341820c51aba45f",
+        "slug": "4d065df367734513",
+        "titulo": "Trump pede aumento de preço da gasolina para impedir que Irã tenha arma nuclear",
+        "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou que os norte-americanos deveriam considerar o custo de impedir que um país considerado maligno adquira armamento nuclear. Ele sugeriu que um pequeno acréscimo no preço da gasolina poderia ser usado como medida de pressão. A proposta visa aumentar a conscientização sobre a necessidade de manter o Irã sem armas nucleares.",
+        "porQueImporta": "A medida reflete a estratégia de segurança dos EUA em relação ao Irã e a discussão sobre financiamento de políticas externas.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/business/global/a-ajuda-inesperada-de-ray-dalio-ao-mcdonalds-que-tornou-os-mcnuggets-um-sucesso/"
+            "url": "https://www.infomoney.com.br/mundo/trump-pede-um-pouquinho-a-mais-pela-gasolina-para-impedir-ira-de-ter-arma-nuclear/"
           }
         ],
-        "updatedAt": "2026-08-15T08:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/RAY-DALIO-SAYS-A-LITTLE-BIT-OF-EVERYTHING-IS-NEEDED-TO-PREVENT-A-DEBT-CRISISBUT-IT-WONT-HAPPEN-ANYWAY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-15T12:10:50.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Donald-Trump.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "ea2dafaa65cd35e5",
+        "slug": "6ddad8cd574834e2",
+        "titulo": "Inteligência artificial reduz a importância do conhecimento técnico como diferencial profissional",
+        "resumo": "Em debate na Expert XP 2026, especialistas destacam que a IA aumenta a demanda por competências de análise crítica, pensamento crítico e aprendizagem contínua. O conhecimento técnico deixa de ser o principal diferencial profissional. A discussão aponta que profissionais precisam desenvolver habilidades cognitivas para se adaptar às mudanças tecnológicas.",
+        "porQueImporta": "Profissionais devem focar em competências cognitivas para manter competitividade no mercado de trabalho.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/carreira/ia-conhecimento-profissional-do-futuro/"
+          }
+        ],
+        "updatedAt": "2026-08-15T12:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2151015316.jpg?fit=300%2C168&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "f4e9e21df62fe481",
+        "slug": "b47ea882d780f7c2",
+        "titulo": "Caio Scotte relata 77 pregões para recuperar perdas no trading",
+        "resumo": "O trader Caio Scotte afirmou que precisou de 77 sessões de negociação para reverter prejuízos acumulados. Ele descreveu essa fase como a mais desafiadora de sua carreira, destacando a importância de conhecer os próprios números. A experiência demonstra como a pressão pode testar a disciplina e a estratégia de um profissional.",
+        "porQueImporta": "Ilustra os riscos e a resiliência exigidos no mercado financeiro.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/caio-scotte-ficou-77-pregoes-em-drawdown-voce-comeca-duvidar-de-tudo/"
+          }
+        ],
+        "updatedAt": "2026-08-15T11:43:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Caio-Scotte-GainDelas-episodio-84-1.jpeg?fit=300%2C175&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "7e10ce9a60efc82a",
-        "slug": "cdcd4224007ef42f",
-        "titulo": "Luigi Mangione deve se declarar culpado nesta sexta-feira",
-        "resumo": "O réu Luigi Mangione, acusado de matar o CEO da UnitedHealthcare, Brian Thompson, comparecerá ao tribunal nesta sexta-feira para se declarar culpado. A audiência foi marcada de última hora, gerando especulações sobre o resultado. Negociações entre advogados e promotores federais continuam em andamento. A decisão será tomada em processo federal nos Estados Unidos.",
-        "porQueImporta": "A declaração pode encerrar o caso de assassinato de um executivo de grande empresa de saúde.",
+        "clusterId": "cfaf46b4682d000d",
+        "slug": "f8f2a4c1e559e930",
+        "titulo": "Porta-aviões USS Abraham Lincoln enfrenta crise de saúde mental após 260 dias em missão",
+        "resumo": "O porta-aviões USS Abraham Lincoln, em operação no Oriente Médio, permanece há mais de 260 dias no mar, um recorde de tempo ininterrupto. Relatórios apontam problemas de saúde mental entre membros da tripulação, incluindo tentativas de pular no mar. A situação levou à decisão dos EUA de enviar outro porta-aviões para substituição. O presidente Donald Trump minimizou a crise, afirmando que o tempo em missão não é excessivo.",
+        "porQueImporta": "A crise pode afetar a eficácia operacional e a moral da tripulação em missões críticas.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/entenda-a-crise-que-envolve-marinheiros-pulando-de-porta-avioes-dos-eua/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/uss-lincoln-ha-250-dias-no-mar-porta-avioes-dos-eua-passa-por-crise"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/14/trump-minimiza-crise-em-porta-avioes-e-diz-que-260-dias-no-mar-nao-sao-nem-de-longe-suficientes.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-15T09:30:46.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/03/uss-abraham-lincoln-rehearses-strait-transit-maneuvers.jpg"
+      },
+      {
+        "clusterId": "6792c6b92da45a85",
+        "slug": "9e321308836ad406",
+        "titulo": "Polônia inaugura estátua de 55 metros da Virgem Maria",
+        "resumo": "Em Konotopie, Polônia, foi inaugurada uma estátua de 55 metros de altura dedicada à Virgem Maria, superando em tamanho a estátua do Cristo Redentor, que mede 38 metros com o pedestal. O monumento está localizado em um cenário rural, rodeado por campos de cereais, prados e um lago. O povoado, com apenas 120 habitantes, ganhou destaque internacional após a construção da estátua.",
+        "porQueImporta": "A obra demonstra a capacidade de projetos monumentais em comunidades pequenas e destaca a importância da arte religiosa na cultura local.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/comportamento/4-curiosidades-sobre-a-estatua-que-desbancou-o-cristo-redentor/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/14/mais-alta-que-o-cristo-redentor-polonia-inaugura-estatua-de-55-metros-da-virgem-maria.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-15T11:00:16.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/GettyImages-2288632614.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "2612b4ae889f02a1",
+        "slug": "6e25d290cd6b5a9b",
+        "titulo": "Incêndio florestal atinge Omis, Croácia",
+        "resumo": "Um incêndio florestal devastou mais de mil hectares na região de Omis, na costa da Croácia, e avançou sobre áreas próximas à cidade turística. Ventos fortes espalharam as chamas, destruindo casas e forçando a evacuação de cerca de mil pessoas. Um corpo foi encontrado na vila de Lokva Rogoznica, onde o fogo começou, e a vítima foi confirmada como falecida. Em total, 36 pessoas ficaram feridas, das quais 14 foram hospitalizadas em Split.",
+        "porQueImporta": "O incêndio causou perdas humanas e materiais significativas, afetando a economia turística local e exigindo recursos de emergência.",
         "category": "mundo",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/luigi-mangione-confessa-ter-matado-ceo-de-operadora-de-saude"
+            "url": "https://www.metropoles.com/mundo/incendios-florestais-na-croacia-deixam-um-morto-e-40-feridos"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/15/o-que-luigi-mangione-confessou-em-audiencia-e-o-que-acontece-a-partir-de-agora.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/ckgd8jmmv19o?at_medium=RSS&at_campaign=rss"
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/14/incendio-florestal-caos-cidade-turistica-croacia-morto-feridos-video.ghtml"
           }
         ],
-        "updatedAt": "2026-08-15T07:09:14.000Z",
-        "imageUrl": "https://images.metroimg.com/2025/09/16150203/Luigi-Mangione-1.jpg"
+        "updatedAt": "2026-08-15T10:50:31.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/08/onda-de-calor-agrava-incendios-e-deixa-40-feridos-na-croacia.jpg"
       },
       {
-        "clusterId": "77811236703a922d",
+        "clusterId": "30122f1cfd5a9480",
         "slug": "677bfe6c760ef79f",
         "titulo": "Talibã retoma controle no Afeganistão e detém funcionários da ONU",
         "resumo": "Cinco anos após a volta do Talibã ao poder, o Afeganistão enfrenta graves violações dos direitos das mulheres e meninas, com o regime impondo restrições severas que geram crises humanitárias. Em Herat, a Direção-Geral de Inteligência do Talibã prendeu dois funcionários afegãos da missão política das Nações Unidas, sem informar a ONU sobre as acusações. A organização solicitou que o regime respeite os privilégios e imunidades das suas delegações, mas ainda não recebeu autorização para visitá-los.",
@@ -635,35 +608,55 @@
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/cinco-anos-apos-volta-do-taliba-afeganistao-enfrenta-apartheid-de-genero/"
+            "url": "https://www.cnnbrasil.com.br/internacional/volta-do-taliba-ao-poder-no-afeganistao-completa-5-anos-veja-o-que-mudou/"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/mundo/noticia/2026/08/13/taliba-prende-dois-funcionarios-de-missao-politica-da-onu-no-afeganistao.ghtml"
           }
         ],
-        "updatedAt": "2026-08-15T07:13:15.000Z",
+        "updatedAt": "2026-08-15T10:00:18.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/alAUTowB27mmO0nEG_Bjqwwu1VQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/K/9Ll4AzRuqKevxVh4LjIg/2026-02-26t174628z-2041115548-rc29cha1b9aw-rtrmadp-3-afghanistan-pakistan.jpg"
       },
       {
-        "clusterId": "032edeca3dbd78d6",
-        "slug": "90f1cdb8d226e788",
-        "titulo": "Trump anuncia intenção de declarar Estreito de Ormuz território americano",
-        "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou que pretende declarar o Estreito de Ormuz como território americano. O Irã respondeu que o estreito continuará sob sua autoridade. A região é uma rota crucial para o transporte de petróleo e tem importância estratégica para o Irã. A declaração aumenta a tensão entre os dois países.",
-        "porQueImporta": "A medida pode intensificar a disputa geopolítica e afetar a segurança do comércio marítimo mundial.",
+        "clusterId": "37d1f9c8b5e86115",
+        "slug": "4743059b1189e9b8",
+        "titulo": "EUA reduzem equipes em embaixadas no Oriente Médio e ameaçam isolamento econômico ao Irã",
+        "resumo": "O Departamento de Estado dos EUA diminuiu o número de funcionários em suas embaixadas no Oriente Médio, indicando que a normalização de pessoal não ocorrerá em breve devido à ameaça de guerra em larga escala. O secretário do Tesouro, Scott Bessent, alertou o Irã sobre um isolamento econômico sem precedentes, sinalizando a disposição de Washington em intensificar a pressão. A medida acompanha a escalada de tensões que começou em fevereiro com a ofensiva de Israel e dos EUA contra o regime iraniano. Ambas as ações refletem a estratégia americana de conter o Irã e evitar um conflito mais amplo.",
+        "porQueImporta": "Essas medidas mostram a crescente tensão entre os EUA e o Irã, com impactos potenciais na estabilidade regional e nas relações internacionais.",
         "category": "mundo",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/ira-responde-trump-estreito-de-ormuz-continuara-sendo-iraniano"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/embaixadas-dos-eua-no-oriente-medio-reduzem-equipes-durante-guerra-com-ira/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/14/trump-diz-que-vai-declarar-estreito-de-ormuz-como-territorio-dos-eua.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/14/eua-ameaca-ira-com-isolamento-economico-como-o-mundo-nunca-viu.ghtml"
           }
         ],
-        "updatedAt": "2026-08-15T05:21:59.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/08/gettyimages-1154966401.jpg"
+        "updatedAt": "2026-08-15T09:00:38.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/EASO1HbajVrf_1QADARMRnM8Ttg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/l/bS9qCBRAu0d7fNA0fyhQ/ap26224043170571.jpg"
+      },
+      {
+        "clusterId": "6528e03a62c01a27",
+        "slug": "9c166d733b8e4dcb",
+        "titulo": "Terremoto de magnitude 7,4 na Colômbia causa 288 mortes",
+        "resumo": "O terremoto de magnitude 7,4 atingiu a Colômbia em 10 de agosto de 2026, resultando em 288 mortes, 3.824 feridos e 379 desaparecidos. O governo relatou que equipes continuam buscando sobreviventes, embora a esperança de encontrar mais pessoas viva seja pequena. Em Pereira, o presidente Abelardo de la Espriella visitou o local e garantiu apoio para aluguel, reconstrução de residências, escolas e hospitais. Alguns sobreviventes reencontraram animais de estimação, trazendo um momento de esperança.",
+        "porQueImporta": "O aumento no número de mortos destaca a gravidade do desastre e a necessidade de apoio contínuo às comunidades afetadas.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/colombia-entra-no-sexto-dia-de-buscas-por-sobreviventes-apos-terremoto/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/14/terremoto-colombia-mortos-esperanca-de-achar-sobreviventes-diminui.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-15T09:00:21.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/OXLPjxSBc_Ts44lO2cuIpBSvxy0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/o/VzBN7XQiS7L81I3cNhwQ/afp-20260812-c4ff89e-v4-highres-topshotcolombiaearthquakeaftermath.jpg"
       },
       {
         "clusterId": "6fec4b7a50db0224",
@@ -686,207 +679,155 @@
         "imageUrl": "https://s2-g1.glbimg.com/-GdMkkDLIrZf_lC1aJwR9mOASdE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/z/XNaBmrR36J0vwScdpahA/novo-projeto-15-.jpg"
       },
       {
-        "clusterId": "0d053c07713cb379",
-        "slug": "9c166d733b8e4dcb",
-        "titulo": "Terremoto de magnitude 7,4 na Colômbia causa 288 mortes",
-        "resumo": "O terremoto de magnitude 7,4 atingiu a Colômbia em 10 de agosto de 2026, resultando em 288 mortes, 3.824 feridos e 379 desaparecidos. O governo relatou que equipes continuam buscando sobreviventes, embora a esperança de encontrar mais pessoas viva seja pequena. Em Pereira, o presidente Abelardo de la Espriella visitou o local e garantiu apoio para aluguel, reconstrução de residências, escolas e hospitais. Alguns sobreviventes reencontraram animais de estimação, trazendo um momento de esperança.",
-        "porQueImporta": "O aumento no número de mortos destaca a gravidade do desastre e a necessidade de apoio contínuo às comunidades afetadas.",
+        "clusterId": "8b55155711d3c5a9",
+        "slug": "cdcd4224007ef42f",
+        "titulo": "Luigi Mangione deve se declarar culpado nesta sexta-feira",
+        "resumo": "O réu Luigi Mangione, acusado de matar o CEO da UnitedHealthcare, Brian Thompson, comparecerá ao tribunal nesta sexta-feira para se declarar culpado. A audiência foi marcada de última hora, gerando especulações sobre o resultado. Negociações entre advogados e promotores federais continuam em andamento. A decisão será tomada em processo federal nos Estados Unidos.",
+        "porQueImporta": "A declaração pode encerrar o caso de assassinato de um executivo de grande empresa de saúde.",
         "category": "mundo",
         "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/sobe-para-288-o-numero-de-mortos-pelo-terremoto-na-colombia/"
-          },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/14/terremoto-colombia-mortos-esperanca-de-achar-sobreviventes-diminui.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-15T00:18:56.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/OXLPjxSBc_Ts44lO2cuIpBSvxy0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/o/VzBN7XQiS7L81I3cNhwQ/afp-20260812-c4ff89e-v4-highres-topshotcolombiaearthquakeaftermath.jpg"
-      },
-      {
-        "clusterId": "8f4dd95c8acc40ca",
-        "slug": "c6269db36b9776cc",
-        "titulo": "Polícia recupera obras de Renoir, Cézanne, Matisse e Matisse roubadas de biblioteca em São Paulo",
-        "resumo": "Pinturas de Renoir, Cézanne e Matisse, avaliadas em mais de 9 milhões de euros, foram encontradas em um apartamento em Parma, após um assalto de três minutos. Em São Paulo, obras de Matisse roubadas de uma biblioteca foram recuperadas, mas cinco peças de Cândido Portinari ainda não foram localizadas. A recuperação das obras demonstra a eficácia das investigações policiais e a importância da proteção do patrimônio cultural.",
-        "porQueImporta": "A recuperação de obras de artistas renomados reforça a segurança e a preservação do patrimônio cultural internacional.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/policia-recupera-obras-de-renoir-cezanne-e-matisse-roubadas-em-assalto-de-tres-minutos/"
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/15/o-que-luigi-mangione-confessou-em-audiencia-e-o-que-acontece-a-partir-de-agora.ghtml"
           },
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c0ejyp5j1j4o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/articles/ckgd8jmmv19o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-08-14T21:08:57.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/afp-20260814-c4nq3kg-v2-midres-italycrimerobberyartmuseumcarabinieri-1.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "0a8f93b0578f5285",
-        "slug": "8468625e1a7e0175",
-        "titulo": "Professor negro mais jovem de Cambridge encontrado morto após acusações de plágio",
-        "resumo": "Jason Arday, sociólogo britânico de 41 anos, tornou-se o professor negro mais jovem da Universidade de Cambridge em 2023. Em dezembro do ano anterior, ele renunciou ao cargo após denúncias de plágio e inconsistências em sua trajetória acadêmica. Em 14 de abril, Arday foi encontrado morto em Londres, pouco tempo depois de sua renúncia. A causa da morte ainda não foi divulgada.",
-        "porQueImporta": "O caso destaca questões de integridade acadêmica em instituições de prestígio e a pressão sobre professores negros no meio acadêmico.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/15/de-estrela-de-cambridge-a-acusado-de-mentir-e-plagiar-entenda-caso-de-professor-ingles-negro-achado-morto.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-15T07:00:18.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/bk2oR6NNkCFhaeOpXpNE97gLN_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/j/HmBJBHQEKAK7JAXUyWOA/ap26218282881622.jpg"
-      },
-      {
-        "clusterId": "35d799d7ac921849",
-        "slug": "b4785d0e097a0444",
-        "titulo": "Colômbia reconhece soberania israelense sobre Colinas de Golã",
-        "resumo": "Em 10 de agosto, a Colômbia reconheceu a soberania de Israel sobre as Colinas de Golã, território ocupado desde 1967. A decisão foi anunciada pela Chancelaria colombiana logo após a posse do presidente Abelardo de la Espriella. Israel mantém controle militar sobre a região, mas a anexação não é reconhecida pela maioria dos países. A medida gerou polêmica internacional, pois apenas os Estados Unidos e a Colômbia reconhecem a soberania israelense nesse território.",
-        "porQueImporta": "O reconhecimento altera a dinâmica diplomática sobre um território estratégico no Oriente Médio.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/14/qual-a-importancia-das-colinas-de-gola-e-por-que-decisao-da-colombia-de-reconhecer-a-soberania-de-israel-e-polemica.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c4g3yle4k0zo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-08-14T10:52:39.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/6-u4IuhyotGgPvXctjUsz6KBGjY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/D/kBDXUJTE2yDYjN2It7nQ/43f88787-1348-4746-b55e-19aa37e45ae3.png"
+        "updatedAt": "2026-08-15T05:00:08.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/c_1uwP-tTkOEQZMk5jpKlbi-DnY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/t/pgwfgmQhWkhlO1UbbpgA/imagem-1200x800-4-.jpg"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "e54ca6dd92adf0d4",
-        "slug": "44f10f2aaf65424f",
-        "titulo": "Anatel autoriza sistema anti-spam da Vivo e avalia expansão para outras redes",
-        "resumo": "A Anatel aprovou o uso do sistema anti-spam da Vivo, que bloqueia chamadas automáticas. A decisão foi tomada após reclamações da TIM e outras empresas que alegaram bloqueio de ligações legítimas. A agência concluiu que não há violação das regras do setor nem prática anticoncorrencial. O órgão ainda estuda aplicar o mesmo sistema em outras operadoras.",
-        "porQueImporta": "Garantir a eficácia do bloqueio de chamadas abusivas pode melhorar a experiência dos usuários e equilibrar a concorrência no mercado de telecomunicações.",
+        "clusterId": "2bdb68e7bf02395d",
+        "slug": "25bf99d09ee483bc",
+        "titulo": "Jogos de hoje, sábado 15 de agosto: onde assistir futebol ao vivo e horários",
+        "resumo": "O Brasileirão apresenta partidas entre Fluminense, Palmeiras, Athletico-PR, Bragantino, São Paulo e Coritiba. Os horários e canais de transmissão, incluindo TV e streaming, são divulgados para os fãs acompanharem os jogos ao vivo.",
+        "porQueImporta": "Informa aos torcedores onde e quando assistir às partidas do campeonato nacional.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/noticia/2026/08/15/bloqueio-de-ligacoes-indesejadas-anatel-autoriza-anti-spam-e-estuda-levar-sistema-a-todos-os-clientes.ghtml"
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/15/internet-e-redes-sociais/jogos-de-hoje-15-08-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/"
           },
           {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/jogos-de-hoje-sabado-15-de-agosto-onde-assistir-futebol-ao-vivo-e-horarios/"
+          }
+        ],
+        "updatedAt": "2026-08-15T11:00:00.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2023/11/DMWNB8aWkAAh4hq.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "a22454010ce19c9d",
+        "slug": "fe5fcb4ffc41465b",
+        "titulo": "Carros chineses lideram vendas no Brasil em 2026",
+        "resumo": "Em 2026, três veículos chineses – BYD Dolphin, Geely EX2 e BYD Dolphin Mini – ocupam os três primeiros lugares na lista de carros mais vendidos no Brasil. Todos são 100% elétricos, destacando-se em relação aos modelos de montadoras tradicionais. A presença dominante desses veículos reflete a mudança de percepção sobre a qualidade dos carros produzidos na China.",
+        "porQueImporta": "Mostra a ascensão dos veículos chineses no mercado brasileiro e a crescente adoção de mobilidade elétrica.",
+        "category": "tecnologia",
+        "sources": [
+          {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/telecom/vivo-ganha-aval-da-anatel-para-bloquear-ligacoes-feitas-por-robos-rivais-reclamam/"
+            "url": "https://canaltech.com.br/carros/5-carros-chineses-mais-vendidos-de-2026-no-brasil/"
           }
         ],
-        "updatedAt": "2026-08-15T03:00:11.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/KBwKWS2zjdyxkvaToj_87LKM6fE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/m/f/Oz3powQ6KFwHPnPxJGEQ/robocalls.png"
+        "updatedAt": "2026-08-15T12:04:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/RcY1bwTOlymjoGk0iSySBHlloEE=/0x0/filters:format(webp):quality(85)/710f0f2e-5635-4021-93bc-34ead63c6b47.jpeg"
       },
       {
-        "clusterId": "e47599d361a85e2b",
-        "slug": "2123892dc4533762",
-        "titulo": "Estados dos EUA vão pedir R$ 1,05 trilhão da Meta em julgamento",
-        "resumo": "O processo será conduzido em Oakland, Califórnia, e tem previsão de duração de seis semanas. Os estados demandantes buscam o valor de R$ 1,05 trilhão da Meta. A ação faz parte de uma série de processos contra a empresa por supostos danos à privacidade dos usuários.",
-        "porQueImporta": "A decisão pode definir precedentes sobre responsabilidade de grandes empresas de tecnologia nos Estados Unidos.",
+        "clusterId": "dfdcba05768348fa",
+        "slug": "82d997201ddb8c0a",
+        "titulo": "Amazon oferece Fire TV Stick em promoção",
+        "resumo": "A Amazon disponibiliza três modelos de Fire TV Stick em oferta, atendendo a diferentes perfis de uso, desde opções básicas até modelos com melhor qualidade de imagem. A iniciativa visa facilitar a atualização de dispositivos de streaming e oferecer opções de presente. Os consumidores podem escolher entre os modelos disponíveis para transformar suas TVs em smart TVs.",
+        "porQueImporta": "Permite aos consumidores economizar na aquisição de dispositivos de streaming.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/14/pro/eua-estados-vao-pedir-r-1-05-trilhao-da-meta-em-julgamento/"
+            "url": "https://olhardigital.com.br/2026/08/15/reviews/fire-tv-stick-em-promocao-confira-uma-selecao-para-transformar-sua-tv-em-smart/"
           }
         ],
-        "updatedAt": "2026-08-15T01:12:42.000Z"
+        "updatedAt": "2026-08-15T11:40:00.000Z"
       },
       {
-        "clusterId": "ea817f04c0d43f41",
-        "slug": "afaa8db3c036ef68",
-        "titulo": "Nvidia reduz garantia de financiamento de data center da OpenAI",
-        "resumo": "A Nvidia diminuiu a garantia de financiamento que oferecia para o data center da OpenAI, em resposta a questionamentos de investidores sobre a exposição financeira da empresa. A medida visa reduzir riscos e ajustar a estrutura de capital. A mudança foi anunciada após revisão interna da política de garantias da Nvidia.",
-        "porQueImporta": "A alteração afeta a segurança financeira e a relação de parceria entre as duas empresas.",
+        "clusterId": "e0bf7455d3ef4b28",
+        "slug": "1136e76bf80ef6ad",
+        "titulo": "Automação de processos vai além da tecnologia",
+        "resumo": "O artigo destaca que automação não se resume apenas a softwares, mas envolve pessoas, decisões e processos. Ele enfatiza que a efetividade da automação depende da integração humana e da estrutura organizacional. O texto aponta que, para alcançar resultados, é necessário alinhar tecnologia com cultura e práticas de gestão.",
+        "porQueImporta": "Entender que automação envolve mais que tecnologia ajuda empresas a planejar implementações mais eficazes.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/14/pro/nvidia-reduz-garantia-de-financiamento-de-data-center-da-openai/"
+            "url": "https://olhardigital.com.br/2026/08/15/colunistas/automacao-de-processos-nao-e-so-sobre-tecnologia/"
           }
         ],
-        "updatedAt": "2026-08-15T00:46:15.000Z"
+        "updatedAt": "2026-08-15T11:32:00.000Z"
       },
       {
-        "clusterId": "f000f8345fd65c6f",
-        "slug": "d3a6f5fae1a7505c",
-        "titulo": "Olhar Digital News apresenta cobertura de tecnologia e ciência",
-        "resumo": "O programa Olhar Digital News exibiu em 14 de agosto de 2026 as principais notícias do mundo da tecnologia e da ciência. A transmissão incluiu análises e entrevistas sobre inovações recentes e descobertas científicas. O conteúdo foi disponibilizado na íntegra no site do Olhar Digital.",
-        "porQueImporta": "Mantém o público informado sobre avanços que podem impactar o cotidiano e o desenvolvimento tecnológico.",
+        "clusterId": "dfe648769f4e5c9d",
+        "slug": "010d6c69142d976b",
+        "titulo": "Samsung oferece promoções de TVs OLED e QLED na Amazon",
+        "resumo": "A Amazon disponibiliza três modelos Samsung, incluindo OLED e QLED, com preços atrativos para quem deseja renovar a sala. Os dispositivos apresentam tecnologia 4K, processadores inteligentes e sistemas de som aprimorados. As opções variam em tamanho e faixa de preço, atendendo a diferentes orçamentos e necessidades. As promoções são indicadas para quem busca qualidade de imagem e recursos conectados.",
+        "porQueImporta": "Essas ofertas permitem que consumidores atualizem suas TVs com tecnologia avançada a preços mais acessíveis.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/14/videos/confira-o-olhar-digital-news-na-integra-14-08-2026/"
+            "url": "https://olhardigital.com.br/2026/08/15/reviews/samsung-na-veia-oled-e-qled-em-promocao-para-renovar-a-sua-sala/"
           }
         ],
-        "updatedAt": "2026-08-15T00:17:00.000Z"
+        "updatedAt": "2026-08-15T11:20:00.000Z"
       },
       {
-        "clusterId": "82b0161a846a042f",
-        "slug": "36a65e49c4185806",
-        "titulo": "Eclipses ajudam a contar nossa própria história",
-        "resumo": "Eclipses são estudados para compreender eventos históricos e científicos, pois registram alterações na atmosfera e na luz solar. Pesquisadores analisam registros de eclipses antigos para validar modelos astronômicos e reconstruir dados climáticos. O fenômeno também serve como ferramenta de educação e divulgação científica.",
-        "porQueImporta": "Permite validar teorias astronômicas e reconstruir informações históricas e climáticas.",
+        "clusterId": "438d9904a89eab36",
+        "slug": "cc0daa11030e8367",
+        "titulo": "Apple alerta usuários de iPhone sobre espionagem militar, declara iPhone X obsoleto e pode adiar iPhone 18",
+        "resumo": "A Apple enviou notificações a usuários de iPhone em 110 países alertando sobre ataques de spyware mercenário, destacando que tais ataques são raros e sofisticados. Em paralelo, a empresa adicionou oficialmente o iPhone X à lista de produtos obsoletos, encerrando o suporte oficial de hardware. Além disso, informações de fornecedores indicam que o iPhone 18 convencional pode ser adiado para o primeiro trimestre de 2027 devido à falta de chips e memória, enquanto os modelos Pro e Pro Max estariam previstos para lançamento em setembro.",
+        "porQueImporta": "Essas ações refletem a preocupação da Apple com segurança, manutenção de produtos antigos e desafios de produção que afetam usuários e consumidores.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/14/colunistas/olhar-espacial-eclipses-que-ajudam-a-contar-nossa-propria-historia/"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/apps/apple-alerta-usuarios-de-iphone-sobre-espionagem-militar-em-seus-aparelhos/"
           }
         ],
-        "updatedAt": "2026-08-15T00:12:08.000Z"
+        "updatedAt": "2026-08-14T23:07:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/BhuAwzbjA5gQm7YNY4kscayRYkU=/0x0/filters:format(webp):quality(85)/67d4fdeb-f7b1-4667-8bda-4e8cbb3b07ae.jpeg"
       },
       {
-        "clusterId": "d07e88d96e7912c8",
-        "slug": "7f50c34838a2f78c",
-        "titulo": "Terremotos atingem Indonésia e Espanha nesta sexta-feira",
-        "resumo": "Na sexta-feira (14), terremotos foram registrados na Indonésia, com epicentro próximo à ilha de Flores, na província de Nusa Tenggara Oriental, e na Espanha. Ambos os eventos ocorreram em regiões conhecidas por atividade sísmica. Os sismos não causaram relatos de danos significativos até o momento.",
-        "porQueImporta": "A ocorrência simultânea de terremotos em dois continentes destaca a necessidade de monitoramento sísmico global e preparação para desastres naturais.",
+        "clusterId": "122256806343ef10",
+        "slug": "0cc488e9f6e4b0c0",
+        "titulo": "Lançamentos automotivos no Brasil em agosto",
+        "resumo": "Em agosto, o mercado automotivo brasileiro recebe vários lançamentos, incluindo o Jeep Avenger, Renault Kwid renovado, Ford Ranger cabine simples e a Kia Tasman. Os veículos apresentam preços competitivos e versões variadas, visando atrair consumidores em meio ao Festival Interlagos.",
+        "porQueImporta": "Esses lançamentos podem influenciar as escolhas dos consumidores e a dinâmica de vendas no setor automotivo.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/14/ciencia-e-espaco/terremotos-atingem-indonesia-e-espanha-nesta-sexta-feira-14/"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/carros/10-carros-que-serao-lancados-no-brasil-em-agosto/"
           }
         ],
-        "updatedAt": "2026-08-14T23:54:14.000Z"
+        "updatedAt": "2026-08-14T22:05:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/bQdRwYmjYcn1TuVsMmHTMKNeAdM=/0x0/filters:format(webp):quality(85)/62b9cee9-274e-4818-8f43-2409e7342ba4.jpg"
       },
       {
-        "clusterId": "57bb830c17f3ac78",
-        "slug": "1055e97ab1dfecb8",
-        "titulo": "Resultado da Lotofácil do concurso 3762",
-        "resumo": "O concurso 3762 da Lotofácil foi realizado na noite de sexta-feira, 14 de agosto, às 21h. O prêmio estimado foi de R$ 5 milhões. Os números sorteados e os ganhadores foram divulgados pela lotérica. A divulgação inclui os resultados oficiais e os valores dos prêmios.",
-        "porQueImporta": "Informa aos participantes e interessados sobre os resultados e prêmios da Lotofácil.",
+        "clusterId": "3c635641b1bf526c",
+        "slug": "c011dd474da1c3a0",
+        "titulo": "OpenAI lança recurso de histórico de computador no ChatGPT para macOS",
+        "resumo": "A OpenAI introduziu o Histórico do Computador, uma função opcional do ChatGPT que registra as interações do usuário em aplicativos e sites no macOS, permitindo ao modelo criar memórias e oferecer respostas com mais contexto. O recurso está disponível apenas para assinantes dos planos Pro, Business e Enterprise, e não foi disponibilizado no EEE, Suíça e Reino Unido. Ele permanece desativado por padrão e requer ativação manual pelo usuário; em planos Business e Enterprise, a autorização deve ser concedida por um administrador.",
+        "porQueImporta": "Permite ao ChatGPT fornecer respostas mais contextualizadas, mas levanta preocupações sobre privacidade e segurança dos dados do usuário.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/14/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3762-sexta-14-08/"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/inteligencia-artificial/nova-funcao-do-chatgpt-registra-tudo-que-voce-faz-no-pc-sem-criptografia/"
           }
         ],
-        "updatedAt": "2026-08-14T23:40:00.000Z"
-      },
-      {
-        "clusterId": "7511761446b1b024",
-        "slug": "b19ee024fff02e86",
-        "titulo": "Nvidia possui participação bilionária na SpaceX",
-        "resumo": "A Nvidia detém 122,8 milhões de ações Classe A da SpaceX, equivalentes a cerca de US$ 1,2 bilhão. A informação foi divulgada em documento interno da empresa. A participação coloca a Nvidia como um dos maiores acionistas da SpaceX.",
-        "porQueImporta": "A relação reforça a influência da Nvidia no setor aeroespacial e pode impactar futuras colaborações tecnológicas.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/14/pro/nvidia-tem-participacao-bilionaria-na-spacex/"
-          }
-        ],
-        "updatedAt": "2026-08-14T23:29:06.000Z"
+        "updatedAt": "2026-08-14T22:03:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/cdlPlMjYm4kW5Pa1kMw6ZVGVOLE=/0x0/filters:format(webp):quality(85)/f25244cd-734f-485a-80fb-56254b2f14e7.jpg"
       }
     ],
     "ciencia": [
@@ -909,6 +850,22 @@
         ],
         "updatedAt": "2026-08-15T06:57:37.000Z",
         "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260814_flaviagrande-1024x538.jpg"
+      },
+      {
+        "clusterId": "ccaa405b14144779",
+        "slug": "67c6e0db76f0682b",
+        "titulo": "USP destaca-se em rankings internacionais de produção científica",
+        "resumo": "As edições de 2026 dos rankings de Xangai e de Taiwan mostram que a Universidade de São Paulo mantém posição de destaque, refletindo alto volume e impacto de seus artigos acadêmicos. A presença consistente da USP em tais classificações reforça sua reputação global no cenário científico. Os resultados evidenciam a qualidade e a relevância das pesquisas desenvolvidas na instituição.",
+        "porQueImporta": "O desempenho da USP em rankings internacionais reforça sua influência e atratividade para pesquisadores e investidores.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/institucional/producao-cientifica-garante-posicao-de-destaque-a-usp-em-rankings-internacionais/"
+          }
+        ],
+        "updatedAt": "2026-08-15T10:30:42.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2025/12/20251205Praca-relogio-1024x538.jpg"
       },
       {
         "clusterId": "a3e9928bb7d60b7b",
@@ -1005,22 +962,6 @@
         ],
         "updatedAt": "2026-08-14T20:07:42.000Z",
         "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260813_democraciaeleicao-1-1024x538.jpg"
-      },
-      {
-        "clusterId": "bf22d7df8401a975",
-        "slug": "37a0145c17223c12",
-        "titulo": "Temperatura global do oceano atinge recorde em julho",
-        "resumo": "O oceano registrou a temperatura mais alta já medida no mês de julho, segundo dados da USP. O aquecimento dos mares pode intensificar fenômenos meteorológicos e aumentar a frequência de eventos climáticos extremos.",
-        "porQueImporta": "O aumento da temperatura oceânica influencia diretamente a dinâmica climática global.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/radio-usp/oceano-registra-temperatura-global-recorde-no-mes-de-julho/"
-          }
-        ],
-        "updatedAt": "2026-08-14T20:03:37.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2021/06/20210609_oceano-1024x538.jpg"
       }
     ],
     "saude": [
@@ -1117,31 +1058,135 @@
     ],
     "esportes": [
       {
-        "clusterId": "0368859434945388",
-        "slug": "c46799f2e03422e5",
-        "titulo": "Internacional x Ferroviária no Brasileiro Feminino: onde assistir ao vivo e horário",
-        "resumo": "Ferroviária empata sem gols com RB Bragantino pelo Paulista Feminino Internacional e Ferroviária se enfrentam neste sábado, às 19h (de Brasília), no estádio SESC Protásio Alves, em Porto Alegre (RS), pela 16ª rodada do Brasileirão Feminino, a penúltima da primeira fase. O ge faz a cobertura em Tempo Real dos principais lances da partida (clique aqui para acompanhar). O duelo é um confronto direto dentro da zona classificatória. Enquanto o Internacional é o sétimo colocado com 24 pontos, mesma pontuação do primeiro time fora do G-8, a Ferroviária é a quinta e tem 27 pontos. Initial plugin text…",
-        "porQueImporta": "",
+        "clusterId": "13d415f07f8cda84",
+        "slug": "4fc7af6fa9cede8b",
+        "titulo": "Jogos do Brasileirão e Brasileirão Feminino em 15 de agosto",
+        "resumo": "No dia 15 de agosto, vários confrontos do Campeonato Brasileiro e do Brasileirão Feminino foram programados. Entre os jogos masculinos, Bragantino enfrentará Vitória, Athletico-PR vai jogar Bragantino, Fluminense vai encarar Palmeiras e Bahia vai jogar Corinthians. No feminino, Internacional vai jogar Ferroviária e Bahia vai enfrentar Corinthians.",
+        "porQueImporta": "Esses encontros determinam posições importantes na tabela e influenciam a classificação para fases finais.",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/athletico-pr-x-bragantino-horario-e-onde-assistir-ao-jogo-do-brasileirao/"
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/bragantino-x-vitoria-horario-e-onde-assistir-ao-brasileirao-feminino/"
+          },
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/15/internet-e-redes-sociais/sao-paulo-x-coritiba-onde-assistir-horario-e-escalacao-do-jogo-do-brasileirao/"
           },
           {
             "name": "GE",
             "url": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/futebol-feminino/brasileiro-feminino/noticia/2026/08/15/internacional-x-ferroviaria-no-brasileiro-feminino-onde-assistir-ao-vivo-e-horario.ghtml"
           }
         ],
-        "updatedAt": "2026-08-15T08:00:46.000Z",
+        "updatedAt": "2026-08-15T09:00:20.000Z",
         "imageUrl": "https://s2-ge.glbimg.com/U040KFYJK_fcZqgokEGB854WCgE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/o/A/1WTjCoQ4GsWFjKT3fDNg/54813638362-757a60c78e-o.jpg"
       },
       {
-        "clusterId": "1ea1a69d2715909d",
-        "slug": "c8847dc9d4c9482e",
-        "titulo": "Jogos da 22ª rodada da Série B e 17ª da Série C",
-        "resumo": "Na 22ª rodada da Série B, Juventude enfrenta Fortaleza às 18h30 no Estádio Alfredo Jaconi, em Caxias do Sul, enquanto Ceará encara Cuiabá às 16h na Arena Castelão, ambos buscando melhorar posições na tabela. Na 17ª rodada da Série C, Santa Cruz enfrenta Maranhão às 19h30 na Arena de Pernambuco, tentando reverter sequência de derrotas. Os confrontos são decisivos para a classificação e evitar zonas de rebaixamento.",
-        "porQueImporta": "Os resultados influenciarão diretamente a posição das equipes na tabela e suas chances de promoção ou de evitar o rebaixamento.",
+        "clusterId": "91ca444acb077592",
+        "slug": "57e5faf6b69250f7",
+        "titulo": "Conmebol vai investigar alegações de racismo no jogo da Libertadores entre Corinthians e Rosario Central",
+        "resumo": "O goleiro Hugo Souza do Corinthians relatou insultos racistas durante o jogo de ida das oitavas de final da Copa Libertadores, alegando que foi chamado de \"macaco\" e \"negro de merda\" pelo árbitro uruguaio e pela torcida. O clube argentino Rosario Central respondeu acusando a torcida do Corinthians de atos racistas e contestando os relatos de Souza. A Conmebol anunciou que abrirá investigação sobre o caso.",
+        "porQueImporta": "O episódio destaca a persistência de comportamentos racistas no futebol sul-americano e a necessidade de medidas disciplinares.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/rosario-central-rebate-hugo-souza-e-acusa-torcida-do-corinthians-de-racismo/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/08/14/rosario-central-acusa-torcida-do-corinthians-de-ato-racista-e-rebate-denuncia-de-hugo-souza.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-15T11:33:43.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/Gs_iYzM26tZFRdMyeB0Ght8EDiM=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/F/Z/SS0LBORl2aI2hMcowyXg/hugo-souza-ofensa-racista.jpg"
+      },
+      {
+        "clusterId": "e89a2d4b731ede0b",
+        "slug": "6d3df08bf93ffbf2",
+        "titulo": "São Paulo volta ao Morumbis depois de quase três meses longe de casa; veja números",
+        "resumo": "São Paulo renova com Calleri e volta ao Morumbis: veja as novidades desta sexta O São Paulo volta ao Morumbis neste sábado depois de quase três meses sem jogar em seu estádio. Com expectativa de casa cheia, o time comandado pelo técnico Dorival Júnior encara o Coritiba, às 21h (de Brasília), pela 23ª rodada do Campeonato Brasileiro. + Siga o canal ge São Paulo no WhatsApp O último jogo do São Paulo no Morumbis foi no dia 26 de maio, contra o Boston River, pela fase de grupos da Sul-Americana. A equipe venceu o duelo por 2 a 0 e se despediu do estádio por quase três meses. O período longe de…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/de-volta-ao-morumbis-sao-paulo-tenta-acabar-com-jejum-na-temporada/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2026/08/15/sao-paulo-volta-ao-morumbis-depois-de-quase-tres-meses-longe-de-casa-veja-numeros.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-15T11:00:59.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/-hJ-EOasN3bhLTDgFQUDEOMaMN4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/U/v/O54HFbS9aQSMNIhGPvLg/rib1158.jpg"
+      },
+      {
+        "clusterId": "06939a80e47712cc",
+        "slug": "9d5fb35a024c555a",
+        "titulo": "Caio Alexandre projeta dupla inédita de titular com Acevedo no Bahia: \"Elevar o nível\"",
+        "resumo": "Bahia encara a Chapecoense para encerrar seca de gols Caio Alexandre e Acevedo tiveram minutos no meio de campo do Bahia no empate com o Vasco e podem ganhar nova chance desta maneira no jogo deste domingo, contra a Chapecoense, pela 23ª rodada do Campeonato Brasileiro. Os atletas disputam a mesma vaga de titular desde 2024, mas tiveram poucas chances lado a lado no setor. Siga o ge Bahia nos Canais do WhatsApp Veja quem chega e quem sai do Bahia Caio Alexandre (esquerda) e Nico Acevedo em treino do Bahia Rafael Rodrigues / EC Bahia Rogério Ceni deixou claro em muitos momentos que os dois…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/ba/bahia/edicao/2026/08/15/videos-do-g1-e-tv-bahia-sabado-15-de-agosto-de-2026.ghtml"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/ba/futebol/times/bahia/noticia/2026/08/15/caio-alexandre-projeta-dupla-inedita-de-titular-com-acevedo-no-bahia-elevar-o-nivel.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-15T10:51:52.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/nAmBf_AqMpLlBUMgzyLaz5ny7fY=/s01.video.glbimg.com/deo/vi/27/22/14802227"
+      },
+      {
+        "clusterId": "6b854171800a9528",
+        "slug": "5c115d42c1ffab15",
+        "titulo": "Agenda ge RR: fim de semana tem futebol, desafio de kart e futsal feminino",
+        "resumo": "O fim de semana será de muito esporte em Boa Vista. A programação reúne um desafio de kart entre Roraima e Amazonas, decisões no futebol de base e futsal feminino. Desafio de Kart O fim de semana será de velocidade, ultrapassagens e muita disputa no Kartódromo do Parque Anauá, em Boa Vista. Nos dias 14, 15 e 16 de agosto, pilotos de Roraima e do Amazonas se encontram para mais duas etapas da Copa RRAM de Kart, competição regional que coloca frente a frente representantes dos dois estados. Disputas de kart em Roraima acontecem na pista do Parque Anauá reprodução/@visao.autentica Participam da…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/rr/noticia/2026/08/15/agenda-ge-rr-fim-de-semana-tem-futebol-desafio-de-kart-e-futsal-feminino.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-europeu-de-volta-veja-agenda-de-jogos-do-fim-de-semana/"
+          }
+        ],
+        "updatedAt": "2026-08-15T10:08:31.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/1y6QueYY8hHIsYti2KGO2-EviTU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Z/X/8o1i5ASoOfAlzgRQBICw/corrida-de-kart.jpg"
+      },
+      {
+        "clusterId": "d0e74a0242d545f3",
+        "slug": "142f4cc01f47a0fc",
+        "titulo": "Fluminense x Palmeiras: onde assistir ao vivo, horário e escalações",
+        "resumo": "Fluminense x Palmeiras: informações e palpite para o jogo O Fluminense recebe o Palmeiras, neste sábado, no Maracanã, pela 23ª rodada do Campeonato Brasileiro. A bola rola a partir das 16h30 (de Brasília). A partida será transmitida ao vivo, de forma exclusiva, no Premiere. O ge acompanha todos os lances em tempo real e com vídeos — clique aqui e acompanhe. + Veja a tabela completa do Brasileirão + Palpites e dicas para Fluminense x Palmeiras Initial plugin text O Fluminense chega pressionado e com a cabeça no jogo de volta da Conmebol Libertadores. Após empate em 0 a 0 com o Ind. Rivadavia,…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/contra-o-fluminense-palmeiras-vive-dilema-antes-de-decisao-na-libertadores/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/08/15/palmeiras-mira-reacao-contra-o-fluminense-antes-de-decidir-vaga-nas-quartas-da-libertadores.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-15T10:00:40.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/ngN3yLKuXHHqYB-aopBvigpCgpM=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/F/k/YBiiazSFuRrqBI0kvTiw/rib1886.jpg"
+      },
+      {
+        "clusterId": "155f1f7bce575c32",
+        "slug": "d65edcfd5a7a4553",
+        "titulo": "Ceará x Cuiabá: onde assistir ao vivo, horário e escalações",
+        "resumo": "Ceará busca terceira vitória seguida na Série B do Brasileiro Ceará e Cuiabá se enfrentam neste sábado (15), às 16h (de Brasília), pela 22ª rodada do Campeonato Brasileiro Série B 2026, na Arena Castelão. O ge acompanha todos os lances em tempo real. (Clique aqui). O Ceará chega para o confronto após vencer a Ponte Preta por 2 a 0, em casa, diante do maior público da Série B: 21.838 torcedores. O Vovô soma duas vitórias consecutivas e segue com o objetivo de se distanciar da zona de rebaixamento. Para isso, o Alvinegro precisa manter a sequência positiva e repetir o feito do primeiro turno,…",
+        "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
@@ -1175,105 +1220,29 @@
         ],
         "updatedAt": "2026-08-15T07:02:22.000Z",
         "imageUrl": "https://s2-ge.glbimg.com/nXj0qLc3NQZA71fcClJCV0Tgam0=/s.glbimg.com/es/ge/f/original/2017/08/03/rib9174.jpg"
-      },
-      {
-        "clusterId": "c398a5cfcff94a1f",
-        "slug": "b0e38de3ff726b7c",
-        "titulo": "São Lourenço vence o Pouso e assume a liderança momentânea do Catarinense Série Ouro",
-        "resumo": "O São Lourenço visitou o Pouso nesta sexta-feira e saiu com a vitória de 3 a 2, pela 9ª rodada do Catarinense Série Ouro. Gabriel Rosa, Marcão e Pedrinho marcaram os gols do time visitante. E Tales José e Tocha diminuíram para o mandante. O resultado fez o São Lourenço assumir a liderança momentânea da competição com 14 pontos. Porém, a Chapecoense, com 13 pontos, e o Jaraguá, com 12 pontos, ainda jogam na rodada. Já o Pouso caiu para terceiro colocado, com 13 pontos. Pouso x São Lourenço - Catarinense Série Ouro Reprodução/FCFS + Catarinenses se enfrentam nas oitavas de final da LNF e LNF…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/sc/futebol/brasileirao-serie-b/noticia/2026/08/15/criciuma-x-goias-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/criciuma-x-goias-horario-e-onde-assistir-ao-jogo-da-serie-b-2/"
-          }
-        ],
-        "updatedAt": "2026-08-15T07:01:12.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/0ylWsn4w5BnpI1bxOoYtIqiN_8I=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/P/U/4E3gRQSHqBDcxfhq7Z8w/whatsapp-image-2026-05-14-at-11.55.38.jpeg"
-      },
-      {
-        "clusterId": "07c5f1f0856c04d2",
-        "slug": "eaa4b026faf4acbb",
-        "titulo": "Atlético-GO enfrenta Vila Nova na 22ª rodada da Série B",
-        "resumo": "O clássico goiano entre Atlético-GO e Vila Nova será disputado no estádio Antônio Accioly, em Goiânia, às 16h. O jogo faz parte da 22ª rodada da Série B do Campeonato Brasileiro. Atlético-GO está invicto há cinco partidas e busca se aproximar do G-6, enquanto Vila Nova tenta manter sua posição na tabela.",
-        "porQueImporta": "O resultado pode influenciar a posição de ambos os times na tabela e a possibilidade de acesso ao G-6.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/go/futebol/brasileirao-serie-b/noticia/2026/08/15/atletico-go-x-vila-nova-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-go-x-vila-nova-horario-e-onde-assistir-ao-jogo-da-serie-b/"
-          }
-        ],
-        "updatedAt": "2026-08-15T07:00:48.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/_QSS7aupZ7yqWsUumyuGntsD7AA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/s/F/wXPB5ZTGiZ7iYiH6hAeA/whatsapp-image-2026-05-24-at-15.06.59.jpeg"
-      },
-      {
-        "clusterId": "14c207cfedb1e974",
-        "slug": "432feb08280387b5",
-        "titulo": "Athletico retira Léo Derik do time após condenação por estupro",
-        "resumo": "O lateral-esquerdo Léo Derik, de 21 anos, foi condenado em primeira instância a 13 anos de prisão por dois estupros contra ex-companheira. A sentença determina regime fechado e indenização de R$20 mil à vítima. O atleta permanece em liberdade enquanto recorre da decisão e treinou normalmente. O clube excluiu-o da partida contra o Bragantino na 23ª rodada do Brasileirão.",
-        "porQueImporta": "A decisão reflete a postura do clube frente a crimes graves cometidos por seus atletas.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pr/parana/noticia/2026/08/15/quem-e-leo-derik-jogador-do-athletico-condenado-a-13-anos-de-prisao-por-estupros-contra-ex.ghtml"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/pr/futebol/times/athletico-pr/noticia/2026/08/14/athletico-deixa-leo-derik-fora-do-jogo-contra-o-bragantino-portilla-e-novidade.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-15T03:01:06.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/siqTBdnn00CurRqgAYqRizmmJBk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/8/Acl7xZTuewvCvUDSrX5w/leo-derik-1-.png"
-      },
-      {
-        "clusterId": "7c81f5adeffcb1e1",
-        "slug": "57e5faf6b69250f7",
-        "titulo": "Conmebol vai investigar alegações de racismo no jogo da Libertadores entre Corinthians e Rosario Central",
-        "resumo": "O goleiro Hugo Souza do Corinthians relatou insultos racistas durante o jogo de ida das oitavas de final da Copa Libertadores, alegando que foi chamado de \"macaco\" e \"negro de merda\" pelo árbitro uruguaio e pela torcida. O clube argentino Rosario Central respondeu acusando a torcida do Corinthians de atos racistas e contestando os relatos de Souza. A Conmebol anunciou que abrirá investigação sobre o caso.",
-        "porQueImporta": "O episódio destaca a persistência de comportamentos racistas no futebol sul-americano e a necessidade de medidas disciplinares.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/14/lutar-contra-isso-diz-hugo-souza-goleiro-do-corinthians-sobre-caso-de-racismo-em-jogo-da-copa-libertadores.ghtml"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/08/14/rosario-central-acusa-torcida-do-corinthians-de-ato-racista-e-rebate-denuncia-de-hugo-souza.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-15T00:51:56.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/35Zd-O-WVpGPYJSOQyTPuX28Dfg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/V/6UYvcSQjmDNgJApoJGLw/globo-canal-4-20260814-2000-frame-138073.jpeg"
-      },
-      {
-        "clusterId": "79afc9efa15873a8",
-        "slug": "b355a30031d2fe0e",
-        "titulo": "Volta Redonda enfrenta Ituano na 17ª rodada da Série C",
-        "resumo": "O jogo entre Volta Redonda e Ituano está marcado para sábado, às 17h (horário de Brasília), no Estádio Raulino de Oliveira, em Volta Redonda (RJ). A partida faz parte da 17ª rodada do Campeonato Brasileiro Série C. Volta Redonda vem de uma sequência de seis jogos sem vitória, incluindo quatro na Série C, e perdeu na última partida para Inter de Limeira por 2 a 0.",
-        "porQueImporta": "O resultado pode influenciar a posição de Volta Redonda na tabela da Série C e sua busca por recuperação de formações.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/rj/sul-do-rio-costa-verde/futebol/brasileirao-serie-c/noticia/2026/08/15/volta-redonda-x-ituano-onde-assistir-ao-vivo-horario-e-provaveis-escalacoes.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-15T08:00:58.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/ic9EvGbiUnaH_hBZn2Dsx30U-lc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2024/D/l/LZAWBcTGKQ6AVUwZPiWg/whatsapp-image-2024-06-03-at-10.01.51.jpeg"
       }
     ],
     "entretenimento": [
+      {
+        "clusterId": "cd5c9a6fa78289e1",
+        "slug": "7e48a55e2ef0e897",
+        "titulo": "Prime Video lança \"Corrida dos Bichos\", que adapta o jogo do bicho em competição mortal",
+        "resumo": "O filme \"Corrida dos Bichos\", codirigido por Fernando Meirelles, foi lançado no Prime Video em 7 de agosto e se tornou o filme de língua não inglesa mais visto na plataforma na primeira semana. A obra transforma os animais do jogo do bicho em personagens humanos que competem por um prêmio milionário. A trilha sonora inclui a música \"Bichos Escrotos\" dos Titãs, que gerou debate nas redes sociais após ser regravada por Anitta.",
+        "porQueImporta": "O lançamento destaca a influência cultural do jogo do bicho nas mídias contemporâneas e o impacto das adaptações musicais em discussões públicas.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/coluna/veja-gente/pior-da-semana-grazi-e-anitta-correm-mas-corrida-dos-bichos-se-perde/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/08/14/um-jovem-pode-nao-conhecer-bichos-escrotos-dos-titas-cover-de-anitta-gerou-debate-na-internet.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-15T12:00:25.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/santorograzi.jpg?quality=70&strip=info"
+      },
       {
         "clusterId": "9fd69bf47f426c75",
         "slug": "34dcd01b555d0a6b",
@@ -1289,22 +1258,6 @@
         ],
         "updatedAt": "2026-08-15T07:02:14.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/E8NgCoTG7EiFsYWJlRUDEiajLWA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/I/SYppGIR5em4AHe7HMTgA/tv-globinho.png"
-      },
-      {
-        "clusterId": "ab22030f610deefc",
-        "slug": "7e48a55e2ef0e897",
-        "titulo": "Prime Video lança \"Corrida dos Bichos\", que adapta o jogo do bicho em competição mortal",
-        "resumo": "O filme \"Corrida dos Bichos\", codirigido por Fernando Meirelles, foi lançado no Prime Video em 7 de agosto e se tornou o filme de língua não inglesa mais visto na plataforma na primeira semana. A obra transforma os animais do jogo do bicho em personagens humanos que competem por um prêmio milionário. A trilha sonora inclui a música \"Bichos Escrotos\" dos Titãs, que gerou debate nas redes sociais após ser regravada por Anitta.",
-        "porQueImporta": "O lançamento destaca a influência cultural do jogo do bicho nas mídias contemporâneas e o impacto das adaptações musicais em discussões públicas.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2026/08/15/alem-de-corrida-dos-bichos-veja-20-filmes-novelas-e-series-que-retratam-o-jogo-do-bicho.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-15T07:02:06.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/AMd-J2HHuzH9ugiYbxF2TTTInO0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/8/T8XJJxT8mS9TL9oDgBnA/260326-info-timeline-jogo-do-bicho-no-cinema-2-.jpg"
       },
       {
         "clusterId": "d74e9e505d463fb3",
