@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-08-15T12:37:15.550Z",
-  "editionDate": "2026-08-15",
-  "hourUtc": 12,
-  "outcome": "generated",
-  "reason": "\"Desabamento, descobertas de petróleo e alertas climáticos marcam a agenda brasileira\" (4 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok"
-  ]
+  "ranAt": "2026-08-16T04:35:43.764Z",
+  "editionDate": "2026-08-16",
+  "hourUtc": 4,
+  "outcome": "skipped",
+  "reason": "fora da janela (4h < 11h UTC)",
+  "attempts": []
 }
