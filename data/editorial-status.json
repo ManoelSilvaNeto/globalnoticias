@@ -1,11 +1,8 @@
 {
-  "ranAt": "2026-08-17T12:43:10.834Z",
-  "editionDate": "2026-08-17",
-  "hourUtc": 12,
-  "outcome": "generated",
-  "reason": "\"Brasil e mundo em foco: política eleitoral, desafios econômicos e tensões internacionais\" (3 parágrafos)",
-  "attempts": [
-    "erro — sem cota (429)",
-    "ok"
-  ]
+  "ranAt": "2026-08-18T04:35:23.116Z",
+  "editionDate": "2026-08-18",
+  "hourUtc": 4,
+  "outcome": "skipped",
+  "reason": "fora da janela (4h < 11h UTC)",
+  "attempts": []
 }
