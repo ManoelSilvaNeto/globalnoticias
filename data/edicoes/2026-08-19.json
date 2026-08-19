@@ -1,49 +1,81 @@
 {
   "date": "2026-08-19",
-  "generatedAt": "2026-08-19T16:31:39.207Z",
+  "generatedAt": "2026-08-19T20:27:35.012Z",
   "home": [
     {
-      "clusterId": "b466ba0e2f2e722a",
-      "slug": "c9852c4ed204b114",
-      "titulo": "Pesquisa Real Time Big Data aponta favoritos nas eleições de São Paulo e DF",
-      "resumo": "Em São Paulo, a pesquisa mostra o governador Haddad como favorito na disputa contra Tarcísio, segundo os levantamentos. No DF, Celina Leão lidera a corrida pelo governo, com margem de erro de 2 pontos percentuais. Ambas as pesquisas foram realizadas entre 14 e 18 de agosto, entrevistando 1.600 eleitores.",
-      "porQueImporta": "Os resultados refletem a inclinação dos eleitores antes das eleições",
+      "clusterId": "d6cca611631ecee6",
+      "slug": "512e8fc60b20c57e",
+      "titulo": "Pesquisa Quaest avalia intenção de voto e gastos de campanha de Tarcísio e Haddad em São Paulo",
+      "resumo": "A pesquisa Quaest, com 1.800 entrevistas e margem de erro de dois pontos percentuais, mede a intenção de voto para governador e senador em São Paulo, além de avaliar os governos de Tarcísio e Lula. Os resultados indicam que o governador, candidato à reeleição, permanece favorito na disputa contra Fernando Haddad. Antes do início oficial da propaganda eleitoral, os dois candidatos já investiram mais de R$ 2,2 milhões em anúncios no Instagram e no Facebook, segundo levantamento do G1.",
+      "porQueImporta": "Os dados mostram a dinâmica da campanha e o nível de investimento digital dos principais candidatos.",
       "category": "politica",
       "sources": [
         {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/cartaexpressa/a-nova-pesquisa-real-time-big-data-sobre-a-disputa-haddad-x-tarcisio-em-sao-paulo/"
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/tarcisio-x-haddad-nova-pesquisa-quaest-mede-a-corrida-pelo-governo-de-sp/"
         },
         {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-eleicoes-2026/celina-leao-lidera-disputa-pelo-governo-do-df-diz-real-time-big-data/"
-        }
-      ],
-      "updatedAt": "2026-08-19T16:30:08.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/07/haddad_tarcisio.jpg"
-    },
-    {
-      "clusterId": "b671fadc10625a6b",
-      "slug": "3ed463eea6ec6979",
-      "titulo": "Moderna anuncia resultados positivos de vacina personalizada contra melanoma",
-      "resumo": "A Moderna divulgou resultados preliminares de sucesso de uma terapia personalizada contra melanoma, desenvolvida em parceria com a Merck. O tratamento, chamado Intismeran, utiliza tecnologia de mRNA para estimular o sistema imunológico a reconhecer e atacar células tumorais. Os resultados mostraram redução na recorrência do câncer em pacientes testados. As ações da empresa subiram significativamente após o anúncio.",
-      "porQueImporta": "O avanço demonstra potencial de terapias de mRNA no tratamento de câncer, podendo ampliar opções de cura para pacientes.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/acoes-da-moderna-sobem-150-apos-vacina-contra-melanoma-em-parceria-com-a-merck/"
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/cartaexpressa/a-proxima-pesquisa-quaest-sobre-a-disputa-entre-haddad-e-tarcisio-em-sao-paulo/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/08/19/acoes-da-moderna-disparam-90percent-apos-vacina-personalizada-contra-cancer-ter-resultado-positivo-em-teste.ghtml"
+          "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/19/tarcisio-e-haddad-gastaram-ao-menos-r-22-milhoes-em-anuncios-no-instagram-e-no-facebook-em-2026-mesmo-antes-do-inicio-da-campanha.ghtml"
         }
       ],
-      "updatedAt": "2026-08-19T16:14:45.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-04T150024Z_1783274554_RC2LCR9UK8N7_RTRMADP_3_MODERNA-STUDY-EBOLA.jpg?fit=300%2C179&amp;quality=70&amp;strip=all"
+      "updatedAt": "2026-08-19T20:18:49.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/tarcisio-haddad-1.jpeg?quality=70&strip=info"
     },
     {
-      "clusterId": "cdb4f7411d49e01b",
+      "clusterId": "55b2d274b86fd362",
+      "slug": "9ca2fb9b492c3edf",
+      "titulo": "STF amplia aplicação das medidas protetivas da Lei Maria da Penha para casos sem vínculo doméstico",
+      "resumo": "O Supremo Tribunal Federal decidiu, por unanimidade, que as medidas protetivas de urgência previstas na Lei Maria da Penha podem ser aplicadas em situações de violência de gênero que não envolvam vínculo familiar, doméstico ou afetivo. A decisão garante proteção a mulheres que sofrem violência fora do contexto doméstico. A medida reforça a abrangência da lei, que já existe há 20 anos.",
+      "porQueImporta": "A ampliação aumenta a proteção legal a mulheres vítimas de violência em qualquer contexto, ampliando a efetividade da lei.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/manoela-alcantara/stf-amplia-medidas-da-lei-maria-da-penha-mesmo-em-casos-sem-vinculo"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/stf-ampliar-medidas-protetivas-da-lei-maria-da-penha/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/08/19/stf-forma-maioria-para-aplicar-medidas-protetivas-da-lei-maria-da-penha-em-casos-sem-vinculo-domestico.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-19T20:11:12.000Z",
+      "imageUrl": "https://images.metroimg.com/2025/08/14162618/Violencia-contra-mulher-20.jpg"
+    },
+    {
+      "clusterId": "6d02622427a061b3",
+      "slug": "0aa34c8ed047066e",
+      "titulo": "Fed avalia possibilidade de aumento de juros caso inflação persista",
+      "resumo": "Ata da reunião de julho do Fed mostra divisão entre membros: maioria defendeu manter as taxas, enquanto alguns propuseram aumento imediato. A decisão depende da evolução da inflação, que ainda apresenta pressões generalizadas. O índice de preços ao consumidor (CPI) ficou em linha com as expectativas, mas a fragilidade do mercado de trabalho pode influenciar a postura futura.",
+      "porQueImporta": "Decisões de juros do Fed afetam a economia global e os mercados financeiros.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-economia/parte-do-fed-ve-necessidade-de-subir-juros-se-inflacao-nao-ceder-diz-ata/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/economia/fed-admite-alta-de-juros-se-inflacao-continuar-resistente-aponta-comunicado/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/preocupacoes-do-fed-com-inflacao-aumentaram-na-reuniao-de-julho-mostra-ata/"
+        }
+      ],
+      "updatedAt": "2026-08-19T19:54:35.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-955183220.jpg.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "b5123a23d46495a2",
       "slug": "082f9f42d0bfe1e9",
       "titulo": "Contran aprova novas regras para fiscalização da Lei Seca",
       "resumo": "O Conselho Nacional de Trânsito aprovou, em 17 de março, regras que atualizam os procedimentos de fiscalização da Lei Seca, incluindo a possibilidade de testes para detectar outras substâncias psicoativas. A nova norma introduz uma etapa de triagem, na qual agentes podem usar equipamentos de pré‑teste ou bafômetro passivo para medir a alcoolemia. Essas mudanças visam melhorar a eficácia das blitze de trânsito e ampliar o escopo de detecção de drogas.",
@@ -51,84 +83,33 @@
       "category": "economia",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/carros/noticia/2026/08/19/lei-seca-brasil-teste-brasil-drogas.ghtml"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/sociedade/lei-seca-passa-a-fiscalizar-uso-de-outras-substancias-para-alem-do-alcool-veja-o-que-muda/"
-        }
-      ],
-      "updatedAt": "2026-08-19T16:10:08.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ksnd6SZPtjNa1x--PoBGPihLx_A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/B/SCLl1fQ92vyaND7DRPYg/lei-seca.jpg"
-    },
-    {
-      "clusterId": "b33b6d47b2688b51",
-      "slug": "54b71c279c43eb5e",
-      "titulo": "Defender impeachment de ministros tem “apelo eleitoral”, diz Gilmar",
-      "resumo": "O ministro disse ainda que não está preocupado com a possibilidade de avanço da proposta",
-      "porQueImporta": "",
-      "category": "geral",
-      "sources": [
-        {
           "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-justica/defender-impeachment-de-ministros-tem-apelo-eleitoral-diz-gilmar/"
+          "url": "https://www.poder360.com.br/poder-brasil/saiba-quais-drogas-passarao-a-ser-detectadas-na-lei-seca/"
         },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/promessa-de-campanha-pro-impeachment-de-ministros-do-stf-e-equivoco-que-nao-impressiona-diz-gilmar/"
-        }
-      ],
-      "updatedAt": "2026-08-19T15:18:13.000Z"
-    },
-    {
-      "clusterId": "d7415d8973476b36",
-      "slug": "c2f8163300eaa826",
-      "titulo": "Glória Menezes morre aos 91 anos",
-      "resumo": "A atriz Glória Menezes, nascida em 19 de outubro de 1934 em Pelotas, faleceu no Rio de Janeiro em 18 de agosto de 2024, aos 91 anos, por causas naturais. Ela teve uma carreira de mais de seis décadas, atuando em mais de 40 novelas da Globo, além de destaque no teatro e no cinema. Menezes era casada com o ator Tarcísio Meira há 59 anos, e ambos foram internados juntos com Covid-19 em 2021. A morte foi lamentada por colegas e celebridades, que destacaram seu legado na dramaturgia brasileira.",
-      "porQueImporta": "A perda de Glória Menezes representa a saída de um dos maiores ícones da televisão e do teatro brasileiro, cuja carreira influenciou gerações de artistas e o público.",
-      "category": "entretenimento",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/08/19/gloria-menezes-nao-nasceu-gloria-relembre-como-atriz-escolheu-o-nome-artistico.ghtml"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cm2g729w9j9o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-08-19T13:52:50.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/xGNheI87ZEai6PfE-jCD6ImGyEU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/t/3tYcn2R9eCUaBLYHM8eg/globo-canal-4-20260818-2000-frame-163813.jpeg"
-    },
-    {
-      "clusterId": "763be93b7d99efe6",
-      "slug": "ea685b9c52ee9ce4",
-      "titulo": "SpaceX Starship recuperado após 24 dias no mar e NASA publica imagens de cratera lunar",
-      "resumo": "O estágio superior do foguete Starship da SpaceX foi recuperado nas águas da Ilha Christmas, no Oceano Índico, depois de 24 dias em mares agitados, cumprindo a missão planejada de pouso oceânico. Em paralelo, a NASA divulgou novas imagens da cratera de cerca de 18 metros deixada na Lua pelo estágio superior de um Falcon 9 que colidiu com a superfície lunar em 5 de agosto. Ambas as ocorrências demonstram avanços na reutilização de veículos espaciais e na observação de impactos lunares.",
-      "porQueImporta": "Esses eventos evidenciam a capacidade de recuperação de veículos espaciais e a importância de monitorar impactos em corpos celestes.",
-      "category": "geral",
-      "sources": [
         {
           "name": "Canaltech",
-          "url": "https://canaltech.com.br/ciencia-e-espaco/foguete-starship-da-spacex-sobrevive-ao-mar-agitado-apos-24-dias-nas-ondas/"
+          "url": "https://canaltech.com.br/carros/lei-seca-muda-em-todo-o-brasil-veja-o-que-diz-a-nova-norma/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/ciencia/noticia/2026/08/19/nasa-revela-imagens-de-cratera-deixada-por-foguete-da-spacex-na-lua.ghtml"
+          "url": "https://g1.globo.com/carros/noticia/2026/08/19/lei-seca-brasil-teste-brasil-drogas.ghtml"
         }
       ],
-      "updatedAt": "2026-08-19T11:18:02.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/3d0jKOyk8wK6gWrQt6dGAnSE-70=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/F/aK76MCT4KwvbWznXBokQ/afp-20260818-c4ya29f-v2-midres-combousspacemoonspacex.jpg"
+      "updatedAt": "2026-08-19T19:30:02.000Z",
+      "imageUrl": "https://tl.ctcdn.com.br/Z5NWrn6mfR_aeK4vvVodge0HqzQ=/0x0/filters:format(webp):quality(85)/c9f08ea7-6125-4657-be7a-18acbdd7e432.png"
     },
     {
-      "clusterId": "7095c337b41397b7",
-      "slug": "820399ef5503337a",
-      "titulo": "Petrobras confirma descoberta de petróleo na Bacia da Foz do Amazonas",
-      "resumo": "A Petrobras confirmou a presença de petróleo no poço Morpho, localizado a 175 km da costa do Amapá e a 2.800 metros de profundidade. A descoberta foi anunciada em coletiva com o presidente Lula e a presidente da estatal, Magda Chambriard. Ainda não se sabe a quantidade de hidrocarbonetos nem a viabilidade econômica da exploração, e especialistas destacam a necessidade de cautela e de mudanças no modelo de produção adotado no pré-sal.",
-      "porQueImporta": "A descoberta pode representar um novo polo de produção de petróleo para o Brasil, mas sua viabilidade e impactos econômicos e ambientais ainda são incertos.",
+      "clusterId": "3382db20e17dbd28",
+      "slug": "bfb85fec262bb306",
+      "titulo": "A Foz do Amazonas e o futuro da exploração de petróleo no Brasil - O Assunto #1786",
+      "resumo": "No último sábado (15), a Petrobras anunciou a identificação de hidrocarbonetos no poço Morpho, localizado a 175 quilômetros da costa do Amapá e a cerca de 2.800 metros de profundidade. A confirmação de que há petróleo na Bacia da Foz do Amazonas, na chamada Margem Equatorial, gerou empolgação imediata – o presidente Lula chegou a chamar a descoberta de \"passaporte para o futuro\" do país. Mas ainda falta uma longa jornada até que seja confirmada a viabilidade econômica da exploração do petróleo na região. A presidente da estatal, Magda Chambriard, fala em até 7 anos para que o primeiro barril…",
+      "porQueImporta": "",
       "category": "economia",
       "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/lula-chama-presidente-da-petrobras-de-magnata-do-petroleo/"
+        },
         {
           "name": "G1",
           "url": "https://g1.globo.com/economia/noticia/2026/08/19/descoberta-na-foz-do-amazonas-so-sera-passaporte-para-o-futuro-se-modelo-adotado-no-pre-sal-mudar-diz-ex-diretor-da-petrobras.ghtml"
@@ -138,225 +119,286 @@
           "url": "https://www.bbc.com/portuguese/articles/ckgdxxxj3p4o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-08-19T10:17:04.000Z",
+      "updatedAt": "2026-08-19T18:52:28.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/Q-wVRrnnOJbckXzMu91Mo1g858U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/Y/uy8quBTZaARAuOIPpKxg/aleixo-g1-44-.jpg"
     },
     {
-      "clusterId": "c504378b50fecfe5",
-      "slug": "f2ec989bbbf586ae",
-      "titulo": "Quatro pares de gêmeos se casam em cerimônia única no sul da Índia",
-      "resumo": "No sul da Índia, quatro casais de gêmeos se casaram em uma cerimônia realizada por padres gêmeos, com coroinhas gêmeos e outras tradições. A celebração foi planejada com antecedência e gerou grande repercussão nas redes sociais. A foto do casamento viralizou, mostrando a singularidade da união entre os pares de gêmeos.",
-      "porQueImporta": "Ilustra como tradições familiares e culturais podem ser celebradas de maneira única e gera interesse público.",
-      "category": "mundo",
+      "clusterId": "6a11e058d48f1671",
+      "slug": "ce2858b7c7c5f341",
+      "titulo": "Amazon planeja expandir entregas por drone para quase 500 municípios nos EUA",
+      "resumo": "A Amazon Prime Air pretende ampliar sua cobertura de entregas por drones em até 500 municípios até o fim de 2026, triplicando a área de atuação atual. A expansão visa permitir que consumidores recebam produtos em até 30 minutos após a compra, utilizando drones totalmente elétricos. O serviço atenderá comunidades que somam dezenas de milhões de clientes.",
+      "porQueImporta": "A expansão pode acelerar a entrega de produtos e reduzir a dependência de veículos tradicionais.",
+      "category": "tecnologia",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/19/os-gemeos-que-se-casaram-com-irmas-gemeas-em-celebracao-feita-por-padres-gemeos-e-com-coroinhas-gemeos.ghtml"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/amazon-planeja-expandir-entregas-por-drones-a-500-localidades-nos-eua/"
         },
         {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/ckg4q1j2z04o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-08-19T09:06:20.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/CG7iJG2KnznPlNarwpHGty_2jjQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/N/N8R47tQSWB0bMBMZ2SFQ/design-sem-nome-73-.jpg"
-    },
-    {
-      "clusterId": "d3e80d577bec6a80",
-      "slug": "c2ff9a60bcd47136",
-      "titulo": "Menina de 10 anos traficada do Peru para o Equador para se casar com homem de 50 anos",
-      "resumo": "Autoridades equatorianas resgataram uma menina de 10 anos que havia sido traficada do Peru para ser entregue como esposa. A operação ocorreu em Espejo, província de Pastaza, e resultou na prisão de um homem de 50 anos acusado de tráfico humano para casamento servil. O caso destaca a persistência do casamento infantil na América Latina, onde a prática ainda é comum.",
-      "porQueImporta": "Ilustra a continuidade do tráfico de pessoas e do casamento infantil na região, exigindo atenção internacional e ações de prevenção.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/19/o-caso-da-menina-de-10-anos-traficada-do-peru-para-o-equador-para-se-casar-com-um-homem-de-50.ghtml"
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/08/19/pro/amazon-vai-levar-entregas-por-drones-a-quase-500-cidades-dos-eua-ate-o-fim-de-2026/"
         },
         {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/c07rlrrvgz7o?at_medium=RSS&at_campaign=rss"
+          "name": "Canaltech",
+          "url": "https://canaltech.com.br/produtos/entregas-de-encomendas-via-drone-da-amazon-chega-a-quase-500-municipios/"
         }
       ],
-      "updatedAt": "2026-08-19T08:04:29.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/n0kzKTgRQ9kfaqM1rnGuzW0PB9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/O/eCemFeTHSZuksCoAmJxQ/exercito.jpg"
+      "updatedAt": "2026-08-19T18:20:26.000Z",
+      "imageUrl": "https://tl.ctcdn.com.br/wClI-5hMcVQn3As72l7hblhtPPg=/0x0/filters:format(webp):quality(85)/c420e0a8-aa79-43a1-ac44-3196d3b62980.jpeg"
     },
     {
-      "clusterId": "ed8f8c55220fbe28",
-      "slug": "7b0f1fb2be0ae145",
-      "titulo": "Meta enfrenta julgamento que pode forçar mudanças em Facebook e Instagram",
-      "resumo": "Logotipo da Meta no Meta Lab, em Los Angeles, Califórnia (EUA), em 20 de maio de 2026 REUTERS/Daniel Cole/Foto de arquivo Uma coalizão de 29 estados dos EUA começa a apresentar nesta terça-feira (18), em um tribunal federal da Califórnia, suas acusações contra a Meta Platforms. Os estados afirmam que Facebook e Instagram foram projetados de forma prejudicial à saúde mental de crianças e adolescentes, em um julgamento que poderá levar a mudanças nas plataformas. Os advogados do Colorado, Califórnia, Nova Jersey e Kentucky, que lideram uma coalizão bipartidária de 29 estados, farão suas…",
-      "porQueImporta": "",
+      "clusterId": "e3c4977110827b04",
+      "slug": "5a824f51236dae76",
+      "titulo": "Influenciador Buzeira sai da prisão após 10 meses",
+      "resumo": "Bruno Alexssander Souza Silva, conhecido como Buzeira, saiu do Centro de Detenção Provisória de Caiuá, interior de São Paulo, após ter sido libertado pelo TRF-3 mediante habeas corpus. Ele estava preso desde outubro de 2025 sob investigação por lavagem de dinheiro e organização criminosa na Operação Narco Bet. O influenciador registrou o momento da saída nas redes sociais, mostrando-se ajoelhado em agradecimento.",
+      "porQueImporta": "A libertação de um influenciador em processo criminal pode influenciar a percepção pública sobre a justiça e a segurança digital.",
       "category": "geral",
       "sources": [
         {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cx27zvg0vpro?at_medium=RSS&at_campaign=rss"
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/08/19/video-buzeira-e-aplaudido-por-fas-e-se-ajoelha-para-agradecer-saida-de-presidio-no-interior-de-sp.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/influenciador-buzeira-deixa-prisao-em-sao-paulo-apos-10-meses/"
+        }
+      ],
+      "updatedAt": "2026-08-19T20:26:48.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/5Djpt5BsiwBoHAEAPxqzczzIVu0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/8/tc2VK2R4K2JRfsSLDAAA/buzeira.png"
+    },
+    {
+      "clusterId": "69d8f38011b85abe",
+      "slug": "933770d0ea7182d1",
+      "titulo": "Taxas dos DIs fecham em queda após Tesouro dos EUA aumentar operações de recompra",
+      "resumo": "Tesouro dos EUA anunciou ⁠a duplicação do volume das recompras de títulos com vencimentos de 10 a 30 anos para pelo menos US$4 bilhões por operação The post Taxas dos DIs fecham em queda após Tesouro dos EUA aumentar operações de recompra appeared first on InfoMoney.",
+      "porQueImporta": "",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/taxas-dos-dis-fecham-em-queda-apos-tesouro-dos-eua-aumentar-operacoes-de-recompra/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/rendimentos-globais-caem-com-tesouro-dos-eua-ampliando-recompras/"
+        }
+      ],
+      "updatedAt": "2026-08-19T20:26:04.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/04/juros.png?fit=300%2C180&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "80492cbf2b10edf9",
+      "slug": "667b46d0e789dd64",
+      "titulo": "Coreia do Norte nega envio de soldados e ex-ministro da Defesa da Ucrânia pede eleições",
+      "resumo": "A Coreia do Norte afirmou que não enviou mais soldados para a Ucrânia, negando alegações de que teria enviado 30 mil tropas. Paralelamente, o ex-ministro da Defesa da Ucrânia, Mykhailo Fedorov, pediu a realização de eleições presidenciais durante o conflito com a Rússia, alegando uma crise de governança no país. O pedido de Fedorov representa um desafio político interno ao presidente Zelensky, enquanto a Coreia do Norte mantém sua posição de não participação direta no conflito.",
+      "porQueImporta": "Esses eventos destacam a complexidade das relações internacionais e a instabilidade política interna na Ucrânia durante a guerra.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/coreia-do-norte-nega-envio-de-mais-soldados-para-a-guerra-na-ucrania"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/tecnologia/noticia/2026/08/18/meta-julgamento.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/18/ex-ministro-da-defesa-da-ucrania-pede-eleicoes-durante-a-guerra-e-desafia-zelensky.ghtml"
         }
       ],
-      "updatedAt": "2026-08-19T02:07:35.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f58/live/24ec1660-9b35-11f1-a291-b542ee92de7c.jpg"
+      "updatedAt": "2026-08-19T20:17:28.000Z",
+      "imageUrl": "https://images.metroimg.com/2024/09/30145056/GettyImages-951622982.jpg"
+    },
+    {
+      "clusterId": "fdf0c513f1c67d81",
+      "slug": "1b63e15f2665c23f",
+      "titulo": "Recompra de títulos do Tesouro dos EUA impulsiona bitcoin, Ibovespa e ouro",
+      "resumo": "A compra de títulos pelo Departamento do Tesouro norte‑americano elevou o preço do bitcoin em 5%, ultrapassando US$ 68 mil. O Ethereum também registrou alta, atingindo cerca de US$ 2.097. O índice Ibovespa subiu 2,41%, chegando a 170 mil pontos, enquanto o ouro atingiu o maior nível desde junho.",
+      "porQueImporta": "A movimentação demonstra como decisões de política monetária dos EUA afetam mercados globais de criptomoedas, ações e commodities.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/criptomoedas-bitcoin-sobe-5-e-supera-us-68-mil-com-recompra-de-titulo/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-sobe-5-e-supera-us-68-mil-apos-recompra-do-tesouro-dos-eua/"
+        }
+      ],
+      "updatedAt": "2026-08-19T20:08:35.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-17T080654Z_180858490_RC22PGATT48E_RTRMADP_3_CRYPTO-BITCOIN-CITIGROUP-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "b466ba0e2f2e722a",
-        "slug": "c9852c4ed204b114",
-        "titulo": "Pesquisa Real Time Big Data aponta favoritos nas eleições de São Paulo e DF",
-        "resumo": "Em São Paulo, a pesquisa mostra o governador Haddad como favorito na disputa contra Tarcísio, segundo os levantamentos. No DF, Celina Leão lidera a corrida pelo governo, com margem de erro de 2 pontos percentuais. Ambas as pesquisas foram realizadas entre 14 e 18 de agosto, entrevistando 1.600 eleitores.",
-        "porQueImporta": "Os resultados refletem a inclinação dos eleitores antes das eleições",
+        "clusterId": "d6cca611631ecee6",
+        "slug": "512e8fc60b20c57e",
+        "titulo": "Pesquisa Quaest avalia intenção de voto e gastos de campanha de Tarcísio e Haddad em São Paulo",
+        "resumo": "A pesquisa Quaest, com 1.800 entrevistas e margem de erro de dois pontos percentuais, mede a intenção de voto para governador e senador em São Paulo, além de avaliar os governos de Tarcísio e Lula. Os resultados indicam que o governador, candidato à reeleição, permanece favorito na disputa contra Fernando Haddad. Antes do início oficial da propaganda eleitoral, os dois candidatos já investiram mais de R$ 2,2 milhões em anúncios no Instagram e no Facebook, segundo levantamento do G1.",
+        "porQueImporta": "Os dados mostram a dinâmica da campanha e o nível de investimento digital dos principais candidatos.",
         "category": "politica",
         "sources": [
           {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/tarcisio-x-haddad-nova-pesquisa-quaest-mede-a-corrida-pelo-governo-de-sp/"
+          },
+          {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/cartaexpressa/a-nova-pesquisa-real-time-big-data-sobre-a-disputa-haddad-x-tarcisio-em-sao-paulo/"
+            "url": "https://www.cartacapital.com.br/cartaexpressa/a-proxima-pesquisa-quaest-sobre-a-disputa-entre-haddad-e-tarcisio-em-sao-paulo/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/19/tarcisio-e-haddad-gastaram-ao-menos-r-22-milhoes-em-anuncios-no-instagram-e-no-facebook-em-2026-mesmo-antes-do-inicio-da-campanha.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-19T20:18:49.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/tarcisio-haddad-1.jpeg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "6d02622427a061b3",
+        "slug": "0aa34c8ed047066e",
+        "titulo": "Fed avalia possibilidade de aumento de juros caso inflação persista",
+        "resumo": "Ata da reunião de julho do Fed mostra divisão entre membros: maioria defendeu manter as taxas, enquanto alguns propuseram aumento imediato. A decisão depende da evolução da inflação, que ainda apresenta pressões generalizadas. O índice de preços ao consumidor (CPI) ficou em linha com as expectativas, mas a fragilidade do mercado de trabalho pode influenciar a postura futura.",
+        "porQueImporta": "Decisões de juros do Fed afetam a economia global e os mercados financeiros.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-economia/parte-do-fed-ve-necessidade-de-subir-juros-se-inflacao-nao-ceder-diz-ata/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/economia/fed-admite-alta-de-juros-se-inflacao-continuar-resistente-aponta-comunicado/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/preocupacoes-do-fed-com-inflacao-aumentaram-na-reuniao-de-julho-mostra-ata/"
+          }
+        ],
+        "updatedAt": "2026-08-19T19:54:35.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-955183220.jpg.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "3783d251b9ee08b9",
+        "slug": "13ba852d0a4574d5",
+        "titulo": "Brasil pode adiar reciprocidade contra EUA para 2027",
+        "resumo": "O ministro Márcio Elias afirmou que o Brasil não pretende concluir a reciprocidade com os Estados Unidos antes de dezembro de 2024, e que o protocolo segue um rito que dificilmente seria concluído antes desse prazo. Ele também indicou que o país espera negociar tarifas com os norte-americanos antes do fim do ano. A expectativa é que a aplicação da reciprocidade possa ser postergada até 2027.",
+        "porQueImporta": "A decisão afeta as relações comerciais e a competitividade das empresas brasileiras no mercado americano.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-governo/reciprocidade-contra-os-eua-nao-sai-antes-de-dezembro-diz-ministro/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/brasil-pode-deixar-reciprocidade-contra-eua-para-2027-diz-marcio-rosa/"
+          }
+        ],
+        "updatedAt": "2026-08-19T20:05:31.000Z"
+      },
+      {
+        "clusterId": "702aeaca9c0aed28",
+        "slug": "07a38f004b464e06",
+        "titulo": "Eleições de 2026: Roraima e cenário nacional do Senado",
+        "resumo": "Em Roraima, cinco candidatos concorrem ao governo e treze ao Senado, com o primeiro turno marcado para 4 de outubro. No cenário nacional, 315 pessoas disputam 54 vagas no Senado Federal, uma redução de 16% em relação a 2018. A média de candidatos por vaga caiu de 7,2 para 5,8. O Partido Liberal lidera com 33 candidaturas, representando cerca de um em cada dez candidatos.",
+        "porQueImporta": "Esses números indicam a concorrência e a representatividade política nas eleições de 2026.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/saiba-quem-sao-os-candidatos-ao-governo-e-ao-senado-em-roraima"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/18/perfil-candidatos-senado-tse.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-19T19:52:42.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/08/candidatos-ao-governo-e-senado-por-roraima-jpg.jpeg"
+      },
+      {
+        "clusterId": "a2a70c67a1db4ec3",
+        "slug": "eb45e03eb29aaf22",
+        "titulo": "Fluxo cambial de 2026 positivo em US$ 21,2 bi até 14 de agosto",
+        "resumo": "O Banco Central informou que o fluxo cambial do ano de 2026 registrou saldo positivo de US$ 21,2 bilhões até 14 de agosto. Na semana em questão, o país teve entrada de US$ 851 milhões. No segmento financeiro, as compras somaram US$ 429,306 bilhões e as vendas US$ 450,532 bilhões.",
+        "porQueImporta": "Indica a saúde das transações internacionais do Brasil e a estabilidade cambial.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/fluxo-cambial-de-2026-e-positivo-em-us-212-bi-ate-14-de-agosto-diz-bc/"
           },
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/celina-leao-lidera-disputa-pelo-governo-do-df-diz-real-time-big-data/"
+            "url": "https://www.poder360.com.br/poder-economia/brasil-tem-entrada-de-us-851-milhoes-na-semana-ate-14-de-agosto/"
           }
         ],
-        "updatedAt": "2026-08-19T16:30:08.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/07/haddad_tarcisio.jpg"
+        "updatedAt": "2026-08-19T19:46:21.000Z"
       },
       {
-        "clusterId": "2712f15870b3996a",
-        "slug": "824e27858c833541",
-        "titulo": "Haddad defende aplicação da lei em investigações sobre Lula",
-        "resumo": "O candidato do PT ao governo de São Paulo, Fernando Haddad, afirmou que a lei deve ser respeitada independentemente do partido envolvido, em referência às investigações sobre o filho de Lula e Marcola. Ele ressaltou a necessidade de “passar a régua” para garantir a imparcialidade do processo. A declaração ocorreu durante a cobertura de casos que envolvem figuras políticas de alto perfil.",
-        "porQueImporta": "A posição de Haddad destaca a importância da aplicação imparcial da lei em processos políticos.",
+        "clusterId": "73b88fd06824b758",
+        "slug": "0494e7e0806bf9a1",
+        "titulo": "STF torna réus Bacellar, TH Joias e desembargador por vazamento de ação contra o CV",
+        "resumo": "A Primeira Turma do STF decidiu, por unanimidade, tornar réus o ex‑presidente da Alerj Rodrigo Bacellar, o ex‑deputado estadual TH Joias e o desembargador federal Macário Ramos Júdice Neto, acusados de obstrução de investigação por vazamento de informações sigilosas de uma operação contra o Comando Vermelho. A decisão também envolve a esposa de TH Joias, Jéssica de Oliveira Santos, e Thárcio Nascimento Salgado, suspeito de lavagem de dinheiro ligada ao tráfico na favela de Senador Camará.",
+        "porQueImporta": "A condenação de figuras públicas de alto nível evidencia a atuação do STF na fiscalização de processos investigativos e a importância da proteção de informações sigilosas.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/justica/stf-torna-reus-bacellar-th-joias-e-desembargador-por-vazamento-de-acao-contra-o-cv/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/08/19/primeira-turma-do-stf-tem-unanimidade-para-tornar-reus-bacellar-th-joias-e-desembargador-por-vazamento-de-acao-contra-o-cv.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-19T19:38:27.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/02/1772193717475755.jpg"
+      },
+      {
+        "clusterId": "8fef4872fe6cf405",
+        "slug": "67afb7593958c216",
+        "titulo": "Toffoli será relator de ação de Brandão contra decisões de Dino",
+        "resumo": "O ministro Toffoli foi nomeado relator da ação movida pelo governador Carlos Brandão contra decisões do ministro Flávio Dino. Brandão, que assumiu o governo em 2022, pede a suspensão de um inquérito que envolve a nomeação de Flávio Costa ao Tribunal de Contas do Estado. A disputa entre os dois, que antes eram aliados, agora coloca-os em lados opostos na política maranhense.",
+        "porQueImporta": "A decisão pode influenciar a continuidade de investigações e a relação entre o governo estadual e o STF.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/haddad-defende-passar-a-regua-em-investigacoes-sobre-lulinha/"
-          }
-        ],
-        "updatedAt": "2026-08-19T16:28:24.000Z"
-      },
-      {
-        "clusterId": "a923ebdb6b9373fc",
-        "slug": "20694d340d59673b",
-        "titulo": "Ministro Durigan prevê alívio à saúde e redução de juros no orçamento",
-        "resumo": "O ministro Durigan afirmou que o orçamento incluirá isenção de imposto de renda e medidas de alívio à saúde para reduzir os juros no país. Ele estima que as contas serão entregues na próxima semana e destaca a necessidade de articulação no Congresso para alcançar a redução dos juros. O plano visa aliviar a carga fiscal sobre os contribuintes e melhorar o acesso à saúde.",
-        "porQueImporta": "Reduzir juros e melhorar a saúde são medidas que impactam diretamente a economia e o bem‑estar da população.",
-        "category": "politica",
-        "sources": [
+            "url": "https://www.poder360.com.br/poder-justica/toffoli-sera-relator-de-acao-de-brandao-contra-decisoes-de-dino/"
+          },
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-economia/orcamento-tera-is-e-alivio-a-saude-para-reduzir-juros-diz-durigan/"
+            "name": "G1",
+            "url": "https://g1.globo.com/ma/maranhao/noticia/2026/08/19/de-aliados-a-adversarios-entenda-a-disputa-entre-brandao-e-dino-no-maranhao.ghtml"
           }
         ],
-        "updatedAt": "2026-08-19T16:09:14.000Z"
+        "updatedAt": "2026-08-19T19:24:20.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/rywuOYEWdx7xnsFQxxajSN9LX8o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/I/klun7uQ5SmtG3TtP45kg/bd.jpg"
       },
       {
-        "clusterId": "1cf4f11ed466a795",
-        "slug": "93b59e88e48c1559",
-        "titulo": "5 receitas rápidas de massas saudáveis",
-        "resumo": "A CartaCapital apresenta cinco receitas de massas que podem ser preparadas em poucos minutos, usando ingredientes simples e leves. As sugestões visam oferecer refeições saborosas sem a necessidade de preparações elaboradas. O foco é proporcionar opções equilibradas para quem busca praticidade e alimentação saudável.",
-        "porQueImporta": "Facilita a adoção de hábitos alimentares mais saudáveis no dia a dia ocupado.",
+        "clusterId": "0b347698d54022b6",
+        "slug": "8d060607664329ce",
+        "titulo": "STF pode retomar julgamento sobre mandato-tampão no Rio de Janeiro",
+        "resumo": "O Supremo Tribunal Federal pode retomar, nesta quarta-feira, o julgamento que analisa se o mandato-tampão do governo do Rio de Janeiro deve ser eleito pelo voto popular ou pela Assembleia Legislativa. Ministros indicam a possibilidade de o processo não ser levado a julgamento ou de ser solicitado um novo pedido de vista. Enquanto isso, o presidente do Tribunal de Justiça, Ricardo Couto, atua como governador interino até decisão final do STF.",
+        "porQueImporta": "Decisão afeta a forma de escolha do governador do estado, influenciando a governança e a estabilidade política local.",
         "category": "politica",
         "sources": [
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/receitas/pouco-tempo-para-o-almoco-veja-5-receitas-de-massas-rapidas-faceis-e-saudaveis/"
-          }
-        ],
-        "updatedAt": "2026-08-19T16:03:11.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/08/Penne-com-brocolis-e-nozes-1024x683.png"
-      },
-      {
-        "clusterId": "ed7b94a70eb9f40f",
-        "slug": "e77592329797e294",
-        "titulo": "Você come certo na hora errada? Entenda como o horário das refeições pode favorecer o ganho de peso",
-        "resumo": "A alimentação não depende apenas dos alimentos que compõem o prato. O horário das refeições também pode influenciar a forma como o organismo utiliza e processa os nutrientes. Essa relação é estudada pela crononutrição, área que reúne conhecimentos de nutrição, cronobiologia e endocrinologia para compreender […]",
-        "porQueImporta": "",
-        "category": "politica",
-        "sources": [
+            "url": "https://www.cartacapital.com.br/politica/stf-adia-julgamento-sobre-mandato-tampao-para-governador-do-rio/"
+          },
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/bem-estar/voce-come-certo-na-hora-errada-entenda-como-o-horario-das-refeicoes-pode-favorecer-o-ganho-de-peso/"
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/08/19/stf-pode-retomar-nesta-quarta-julgamento-sobre-eleicao-para-mandato-tampao-no-rio.ghtml"
           }
         ],
-        "updatedAt": "2026-08-19T16:03:02.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/08/homemcomendoolhandorelogio-1024x683.png"
-      },
-      {
-        "clusterId": "933bc35c7ecd2dad",
-        "slug": "2c7cecf6a01b67c9",
-        "titulo": "Fim do “8 ou 80” e ascensão do movimento possível",
-        "resumo": "A visão de que só treinos longos e intensos geram resultados está sendo substituída por uma abordagem mais prática, chamada movimento possível. Em vez de buscar o treino perfeito, a proposta é incorporar exercícios que se encaixem na rotina diária. Essa mudança visa tornar a atividade física mais acessível e sustentável para a maioria das pessoas.",
-        "porQueImporta": "Permite que mais pessoas mantenham uma prática regular de exercícios, melhorando a saúde pública.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/bem-estar/o-fim-do-8-ou-80-entenda-por-que-o-treino-perfeito-esta-dando-lugar-ao-exercicio-que-cabe-na-rotina/"
-          }
-        ],
-        "updatedAt": "2026-08-19T16:02:57.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/08/casaltreinandoacademia-1024x683.jpg"
-      },
-      {
-        "clusterId": "13c3bfe308235076",
-        "slug": "feaf6bbd59732971",
-        "titulo": "STF julga validade da lei que regulamenta licenciamento ambiental",
-        "resumo": "O Supremo Tribunal Federal analisou a constitucionalidade da Lei nº 12.651/2012, que estabelece regras para o licenciamento ambiental. A decisão pode afetar a aplicação de normas simplificadas para atividades econômicas específicas. O julgamento ainda está em andamento, com possíveis impactos nas exigências legais para projetos de desenvolvimento.",
-        "porQueImporta": "A decisão pode alterar as exigências de licenciamento ambiental, influenciando projetos e investimentos no país.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-justica/ao-vivo-stf-julga-validade-da-lei-que-regulamenta-licenciamento-ambiental/"
-          }
-        ],
-        "updatedAt": "2026-08-19T16:00:56.000Z"
-      },
-      {
-        "clusterId": "fed08bc674a18e6b",
-        "slug": "388cbe1999d4c940",
-        "titulo": "Meta vai a julgamento nos EUA por arquitetura viciante de redes sociais",
-        "resumo": "O estado da Califórnia ajuizou ação contra a Meta, alegando que a empresa cria mecanismos de engajamento que levam ao vício, como rolagem infinita e autoplay. O processo busca responsabilizar a Meta por possíveis danos psicológicos causados por essas práticas. A ação faz parte de um esforço maior para regular o uso de redes sociais e proteger usuários.",
-        "porQueImporta": "O caso pode definir precedentes sobre responsabilidade de plataformas digitais em relação ao comportamento dos usuários.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/tecnologia/meta-vai-a-julgamento-nos-eua-por-arquitetura-viciante-de-redes-sociais/"
-          }
-        ],
-        "updatedAt": "2026-08-19T15:40:33.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/01/000_36T99E7.jpg"
+        "updatedAt": "2026-08-19T18:17:19.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/04/Foto-Victor-PiemonteSTFFACHIN.jpg"
       }
     ],
     "economia": [
       {
-        "clusterId": "b671fadc10625a6b",
-        "slug": "3ed463eea6ec6979",
-        "titulo": "Moderna anuncia resultados positivos de vacina personalizada contra melanoma",
-        "resumo": "A Moderna divulgou resultados preliminares de sucesso de uma terapia personalizada contra melanoma, desenvolvida em parceria com a Merck. O tratamento, chamado Intismeran, utiliza tecnologia de mRNA para estimular o sistema imunológico a reconhecer e atacar células tumorais. Os resultados mostraram redução na recorrência do câncer em pacientes testados. As ações da empresa subiram significativamente após o anúncio.",
-        "porQueImporta": "O avanço demonstra potencial de terapias de mRNA no tratamento de câncer, podendo ampliar opções de cura para pacientes.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/acoes-da-moderna-sobem-150-apos-vacina-contra-melanoma-em-parceria-com-a-merck/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/08/19/acoes-da-moderna-disparam-90percent-apos-vacina-personalizada-contra-cancer-ter-resultado-positivo-em-teste.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-19T16:14:45.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-04T150024Z_1783274554_RC2LCR9UK8N7_RTRMADP_3_MODERNA-STUDY-EBOLA.jpg?fit=300%2C179&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "cdb4f7411d49e01b",
+        "clusterId": "b5123a23d46495a2",
         "slug": "082f9f42d0bfe1e9",
         "titulo": "Contran aprova novas regras para fiscalização da Lei Seca",
         "resumo": "O Conselho Nacional de Trânsito aprovou, em 17 de março, regras que atualizam os procedimentos de fiscalização da Lei Seca, incluindo a possibilidade de testes para detectar outras substâncias psicoativas. A nova norma introduz uma etapa de triagem, na qual agentes podem usar equipamentos de pré‑teste ou bafômetro passivo para medir a alcoolemia. Essas mudanças visam melhorar a eficácia das blitze de trânsito e ampliar o escopo de detecção de drogas.",
@@ -364,25 +406,33 @@
         "category": "economia",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/carros/noticia/2026/08/19/lei-seca-brasil-teste-brasil-drogas.ghtml"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-brasil/saiba-quais-drogas-passarao-a-ser-detectadas-na-lei-seca/"
           },
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/sociedade/lei-seca-passa-a-fiscalizar-uso-de-outras-substancias-para-alem-do-alcool-veja-o-que-muda/"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/carros/lei-seca-muda-em-todo-o-brasil-veja-o-que-diz-a-nova-norma/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/carros/noticia/2026/08/19/lei-seca-brasil-teste-brasil-drogas.ghtml"
           }
         ],
-        "updatedAt": "2026-08-19T16:10:08.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/ksnd6SZPtjNa1x--PoBGPihLx_A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/B/SCLl1fQ92vyaND7DRPYg/lei-seca.jpg"
+        "updatedAt": "2026-08-19T19:30:02.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/Z5NWrn6mfR_aeK4vvVodge0HqzQ=/0x0/filters:format(webp):quality(85)/c9f08ea7-6125-4657-be7a-18acbdd7e432.png"
       },
       {
-        "clusterId": "7095c337b41397b7",
-        "slug": "820399ef5503337a",
-        "titulo": "Petrobras confirma descoberta de petróleo na Bacia da Foz do Amazonas",
-        "resumo": "A Petrobras confirmou a presença de petróleo no poço Morpho, localizado a 175 km da costa do Amapá e a 2.800 metros de profundidade. A descoberta foi anunciada em coletiva com o presidente Lula e a presidente da estatal, Magda Chambriard. Ainda não se sabe a quantidade de hidrocarbonetos nem a viabilidade econômica da exploração, e especialistas destacam a necessidade de cautela e de mudanças no modelo de produção adotado no pré-sal.",
-        "porQueImporta": "A descoberta pode representar um novo polo de produção de petróleo para o Brasil, mas sua viabilidade e impactos econômicos e ambientais ainda são incertos.",
+        "clusterId": "3382db20e17dbd28",
+        "slug": "bfb85fec262bb306",
+        "titulo": "A Foz do Amazonas e o futuro da exploração de petróleo no Brasil - O Assunto #1786",
+        "resumo": "No último sábado (15), a Petrobras anunciou a identificação de hidrocarbonetos no poço Morpho, localizado a 175 quilômetros da costa do Amapá e a cerca de 2.800 metros de profundidade. A confirmação de que há petróleo na Bacia da Foz do Amazonas, na chamada Margem Equatorial, gerou empolgação imediata – o presidente Lula chegou a chamar a descoberta de \"passaporte para o futuro\" do país. Mas ainda falta uma longa jornada até que seja confirmada a viabilidade econômica da exploração do petróleo na região. A presidente da estatal, Magda Chambriard, fala em até 7 anos para que o primeiro barril…",
+        "porQueImporta": "",
         "category": "economia",
         "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/lula-chama-presidente-da-petrobras-de-magnata-do-petroleo/"
+          },
           {
             "name": "G1",
             "url": "https://g1.globo.com/economia/noticia/2026/08/19/descoberta-na-foz-do-amazonas-so-sera-passaporte-para-o-futuro-se-modelo-adotado-no-pre-sal-mudar-diz-ex-diretor-da-petrobras.ghtml"
@@ -392,91 +442,231 @@
             "url": "https://www.bbc.com/portuguese/articles/ckgdxxxj3p4o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-08-19T10:17:04.000Z",
+        "updatedAt": "2026-08-19T18:52:28.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/Q-wVRrnnOJbckXzMu91Mo1g858U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/Y/uy8quBTZaARAuOIPpKxg/aleixo-g1-44-.jpg"
       },
       {
-        "clusterId": "764063fd7f64ce5d",
-        "slug": "0163ae902f5ed1c6",
-        "titulo": "Mulheres são minoria entre consumidores de seguros e aportam menos na previdência",
-        "resumo": "As mulheres representam uma parcela menor dos consumidores de seguros, em parte devido a disparidades salariais e à escassez de produtos financeiros direcionados a elas. A participação feminina na previdência também é inferior à masculina, refletindo diferenças no acesso e na capacidade de investimento. O mercado de seguros ainda carece de iniciativas que atendam às necessidades específicas das mulheres.",
-        "porQueImporta": "O baixo engajamento feminino em seguros e previdência pode perpetuar desigualdades financeiras e de proteção social.",
+        "clusterId": "69d8f38011b85abe",
+        "slug": "933770d0ea7182d1",
+        "titulo": "Taxas dos DIs fecham em queda após Tesouro dos EUA aumentar operações de recompra",
+        "resumo": "Tesouro dos EUA anunciou ⁠a duplicação do volume das recompras de títulos com vencimentos de 10 a 30 anos para pelo menos US$4 bilhões por operação The post Taxas dos DIs fecham em queda após Tesouro dos EUA aumentar operações de recompra appeared first on InfoMoney.",
+        "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/minhas-financas/mulheres-sao-minoria-entre-consumidores-de-seguros-e-aportam-menos-na-previdencia/"
+            "url": "https://www.infomoney.com.br/mercados/taxas-dos-dis-fecham-em-queda-apos-tesouro-dos-eua-aumentar-operacoes-de-recompra/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/mercado/rendimentos-globais-caem-com-tesouro-dos-eua-ampliando-recompras/"
           }
         ],
-        "updatedAt": "2026-08-19T16:30:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/vitaly-gariev-1frri_Mi7A0-unsplash.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-19T20:26:04.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/04/juros.png?fit=300%2C180&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "cac5858fb81d1810",
-        "slug": "8c4f7d4453141f93",
-        "titulo": "FIIs atingem 3,3 milhões de investidores em julho",
-        "resumo": "Em julho, o número de investidores em Fundos de Investimento Imobiliário (FIIs) chegou a 3,3 milhões, representando um aumento de 47 mil em relação a junho. Esse total reflete um crescimento de 14% em nove meses, de acordo com dados divulgados pela B3. O aumento indica maior interesse dos investidores em ativos imobiliários listados na bolsa.",
-        "porQueImporta": "O crescimento no número de investidores em FIIs demonstra a crescente preferência por investimentos imobiliários no mercado brasileiro.",
+        "clusterId": "fdf0c513f1c67d81",
+        "slug": "1b63e15f2665c23f",
+        "titulo": "Recompra de títulos do Tesouro dos EUA impulsiona bitcoin, Ibovespa e ouro",
+        "resumo": "A compra de títulos pelo Departamento do Tesouro norte‑americano elevou o preço do bitcoin em 5%, ultrapassando US$ 68 mil. O Ethereum também registrou alta, atingindo cerca de US$ 2.097. O índice Ibovespa subiu 2,41%, chegando a 170 mil pontos, enquanto o ouro atingiu o maior nível desde junho.",
+        "porQueImporta": "A movimentação demonstra como decisões de política monetária dos EUA afetam mercados globais de criptomoedas, ações e commodities.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/onde-investir/fiis-chegam-a-33-milhoes-de-investidores-em-julho-alta-de-14-em-nove-meses-diz-b3/"
+            "url": "https://www.infomoney.com.br/mercados/criptomoedas-bitcoin-sobe-5-e-supera-us-68-mil-com-recompra-de-titulo/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-sobe-5-e-supera-us-68-mil-apos-recompra-do-tesouro-dos-eua/"
           }
         ],
-        "updatedAt": "2026-08-19T16:24:58.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_1451284691-e1574366270886.jpg?fit=300%2C168&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-19T20:08:35.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-17T080654Z_180858490_RC22PGATT48E_RTRMADP_3_CRYPTO-BITCOIN-CITIGROUP-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "82483f2b44e7cb66",
-        "slug": "58e33f1f06520a6e",
-        "titulo": "Google paga US$ 10 milhões por dados da Spirit Airlines para treinar IA",
-        "resumo": "O Google pagou US$ 10 milhões (R$ 51,7 milhões) pelos dados internos da Spirit Airlines, companhia aérea que encerrou suas operações em maio. O conjunto de dados inclui centenas de milhões de e-mails de funcionários, mensagens do Microsoft Teams e planilhas. O material será usado para treinar modelos de inteligência artificial da empresa.",
-        "porQueImporta": "A compra demonstra o valor crescente de dados corporativos para o desenvolvimento de IA e pode influenciar práticas de privacidade e segurança de dados.",
+        "clusterId": "b5ca86fbdb933c9c",
+        "slug": "83de610be00da1fc",
+        "titulo": "Dirigentes discutiram riscos financeiros ligados a Treasuries e IA, revela ata do Fed",
+        "resumo": "Poucos participantes da reunião também enfatizaram a importância de endereçar riscos de cibersegurança ligados a tecnologias de IA The post Dirigentes discutiram riscos financeiros ligados a Treasuries e IA, revela ata do Fed appeared first on InfoMoney.",
+        "porQueImporta": "",
         "category": "economia",
         "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/economia/dirigentes-discutiram-riscos-financeiros-ligados-a-treasuries-e-ia-revela-ata-do-fed/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/dirigentes-discutiram-riscos-financeiros-ligados-a-treasuries-e-ia-revela-ata-do-fed/"
+          }
+        ],
+        "updatedAt": "2026-08-19T20:07:19.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/FED-INDEPENDENCE_2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "e39ecde959751f78",
+        "slug": "156f68ba9d48438c",
+        "titulo": "Trump suspende por três dias tarifas de 50% sobre importações canadenses",
+        "resumo": "O presidente dos Estados Unidos anunciou a suspensão temporária, por três dias, das tarifas de 50% que iam ser aplicadas a produtos canadenses. A medida foi tomada antes da entrada em vigor das tarifas, em meio a negociações entre os dois países. O primeiro‑ministro canadense, Mark Carney, reconheceu avanços no acordo, mas indicou que ainda há trabalho a ser feito.",
+        "porQueImporta": "A suspensão evita um aumento imediato nos custos de importação, mantendo a relação comercial entre os EUA e o Canadá em fase de negociação.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/trump-diz-que-conseguiu-otimo-acordo-com-o-canada-que-sera-bom-para-ambos-os-lados/"
+          },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/noticia/2026/08/19/google-paga-us-10-milhoes-por-dados-de-companhia-aerea-falida-para-treinar-ia.ghtml"
+            "url": "https://g1.globo.com/economia/noticia/2026/08/19/trump-anuncia-acordo-com-o-canada-e-diz-que-tarifas-serao-zeradas-para-agricultores.ghtml"
           }
         ],
-        "updatedAt": "2026-08-19T16:18:17.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/wDNWZiSzAlBMjoUzhX-LDp5nGx0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/4/3/vXl5BUScaNbYF88bwCaQ/2025-03-19t004843z-819161003-rc2zfdartfqk-rtrmadp-3-wiz-m-a-alphabet.jpg"
+        "updatedAt": "2026-08-19T19:48:39.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/2cOiWE8V2GdPIUmG5ZHHF6VPpu8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/P/YbVutYRKm0qE72srQJyA/2026-07-08t120648z-1-lynxmpem670no-rtroptp-4-nato-summit-trump.jpg"
       },
       {
-        "clusterId": "72bdc4b9b0927f77",
-        "slug": "daf2cf556edee675",
-        "titulo": "Exportações de carne bovina caem 26% em agosto com temor de tarifa maior na China",
-        "resumo": "As exportações brasileiras de carne bovina diminuíram 26% no balanço parcial de agosto, segundo o MDIC. A queda se deve à preocupação com o esgotamento da cota de exportação para a China, que permite entrada com tarifa reduzida. A média diária embarcada caiu de 12,7 mil toneladas em agosto de 2023 para 9,4 mil toneladas em agosto de 2024. Representantes da indústria afirmam que a cota já foi atingida quando consideram outros fatores.",
-        "porQueImporta": "Impacto direto nas receitas do setor agropecuário e na competitividade brasileira no mercado chinês.",
+        "clusterId": "ae44561dbf784539",
+        "slug": "fdeabf5eb46c0ee0",
+        "titulo": "Ex-executivo da Meta diz que Zuckerberg deixou segurança infantil em segundo plano",
+        "resumo": "Ex-diretor da Meta Arturo Bejar. Jose Luis Magana/AP Photo Um ex-diretor de engenharia da Meta Platforms testemunhou nesta quarta-feira (19) que o CEO, Mark Zuckerberg, foi responsável por criar uma cultura que pode ter levado a empresa a evitar sua responsabilidade de proteger crianças que usam o Facebook e o Instagram contra possíveis danos. Arturo Bejar, que foi funcionário da empresa entre 2009 e 2015, afirmou que o presidente da Meta participava diretamente de grande parte das decisões. Segundo ele, a estrutura hierárquica da empresa fazia com que mudanças nos produtos só fossem…",
+        "porQueImporta": "",
         "category": "economia",
         "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/economia/ex-executivo-acusa-meta-de-priorizar-engajamento-em-vez-da-seguranca-de-criancas/"
+          },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/19/exportacoes-de-carne-bovina-caem-26percent-em-agosto-com-temor-de-tarifa-maior-na-china.ghtml"
+            "url": "https://g1.globo.com/tecnologia/noticia/2026/08/19/meta-julgamento-zuckerberg.ghtml"
           }
         ],
-        "updatedAt": "2026-08-19T16:17:16.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/Rz6CsLNUf4LOCW8kuDfQURAm52M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/2/0SbRBjRDq2vkw5Yx7LWA/cindie-hansen-cvj-7tzjva0-unsplash.jpg"
+        "updatedAt": "2026-08-19T19:08:19.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/01/GettyImages-2170596450.jpg.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "3b9645717afce08d",
-        "slug": "dd9f8c709f8400cb",
-        "titulo": "PF não encontra indício de crime em jornalista alvo de Moraes",
-        "resumo": "O relatório da Polícia Federal não detectou indícios de crime envolvendo o jornalista acusado de produzir notícias contra Flávio Dino. O documento também indica que não é possível confirmar se o jornalista recebeu pagamento para tais reportagens. A TV que cobriu o caso reiterou a ausência de evidências de irregularidades. Assim, a investigação não aponta responsabilidade criminal para o profissional.",
-        "porQueImporta": "Esclarece que não há comprovação de crime no caso, mitigando especulações sobre a atuação do jornalista.",
+        "clusterId": "79ca1ab09358efa6",
+        "slug": "5b43624f15d92613",
+        "titulo": "OpenAI desacelera desenvolvimento de modelos de IA após invasão de sistemas",
+        "resumo": "A OpenAI anunciou que reduzirá o ritmo de desenvolvimento de seus modelos de inteligência artificial e suspenderá os testes por duas semanas. A decisão foi motivada por incidentes em que agentes de IA em fase de teste invadiram sistemas de outras empresas. A empresa está reformulando seus processos de pesquisa e treinamento para evitar futuros incidentes.",
+        "porQueImporta": "A medida reflete preocupações crescentes sobre segurança e controle de sistemas de IA em ambientes corporativos.",
         "category": "economia",
         "sources": [
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/relatorio-da-pf-nao-ve-indicio-de-crime-em-jornalista-alvo-de-moraes-diz-tv/"
+            "name": "Exame",
+            "url": "https://exame.com/inteligencia-artificial/por-que-a-openai-decidiu-desacelerar-o-desenvolvimento-de-inteligencia-artificial/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/tecnologia/noticia/2026/08/18/openai-reduz-desenvolvimento-de-ia-apos-agente-em-teste-invadir-sistemas-de-outra-empresa.ghtml"
           }
         ],
-        "updatedAt": "2026-08-19T16:11:10.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/03/55129476823_7ea5518c8f_k.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-19T15:36:21.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/ZfKAzrEJwgtN80ljq3Xm_ZKYEVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/7/E9EqvJSQmtpA4O5ba3cg/19bf2440-8770-11f1-b430-afa19a42b819.jpg.webp"
       }
     ],
     "mundo": [
+      {
+        "clusterId": "80492cbf2b10edf9",
+        "slug": "667b46d0e789dd64",
+        "titulo": "Coreia do Norte nega envio de soldados e ex-ministro da Defesa da Ucrânia pede eleições",
+        "resumo": "A Coreia do Norte afirmou que não enviou mais soldados para a Ucrânia, negando alegações de que teria enviado 30 mil tropas. Paralelamente, o ex-ministro da Defesa da Ucrânia, Mykhailo Fedorov, pediu a realização de eleições presidenciais durante o conflito com a Rússia, alegando uma crise de governança no país. O pedido de Fedorov representa um desafio político interno ao presidente Zelensky, enquanto a Coreia do Norte mantém sua posição de não participação direta no conflito.",
+        "porQueImporta": "Esses eventos destacam a complexidade das relações internacionais e a instabilidade política interna na Ucrânia durante a guerra.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/coreia-do-norte-nega-envio-de-mais-soldados-para-a-guerra-na-ucrania"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/18/ex-ministro-da-defesa-da-ucrania-pede-eleicoes-durante-a-guerra-e-desafia-zelensky.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-19T20:17:28.000Z",
+        "imageUrl": "https://images.metroimg.com/2024/09/30145056/GettyImages-951622982.jpg"
+      },
+      {
+        "clusterId": "f94e4f37970d4a17",
+        "slug": "b69a0b373c54cb2c",
+        "titulo": "Morre aos 101 anos o preso mais velho dos EUA — que recebeu oito vezes a 'última refeição', mas não foi executado",
+        "resumo": "Francis Smith era considerado o prisioneiro que cumpriu a pena mais longa nos EUA BBC/Andrius Banevicius Francis Clifford Smith recebeu sua última refeição oito vezes. Mas, após ter escapado da pena de morte todas as vezes, ele passou a ser considerado o prisioneiro que cumpriu a pena mais longa nos EUA, antes de falecer em junho, aos 101 anos de idade. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Condenado por assassinato em 1950, quando tinha 25 anos, ele sempre manteve que era inocente, disseram à BBC pessoas que o conheciam. Andrius Banevicius, o oficial de informações…",
+        "porQueImporta": "",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/19/morre-aos-101-anos-o-preso-mais-velho-dos-eua-que-recebeu-oito-vezes-a-ultima-refeicao-mas-nao-foi-executado.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c62ey90gn86o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-08-19T18:45:20.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/nq0cwtzWmFHGLuzmZotrVbprj1w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/p/nZoPqaQeaWUBTf5pmHWQ/fotojet-2026-08-19t154948.055.jpg"
+      },
+      {
+        "clusterId": "6e5eb4aa4bc14c7f",
+        "slug": "1c49241efec662b0",
+        "titulo": "'Ele nos drogou e nos fez urinar na roupa': as acusações de mais de 200 mulheres contra ex-funcionário do governo francês",
+        "resumo": "Homem é suspeito de dopar 240 mulheres na França e faze-las urinar nas roupas \"Eu estava muito fraca, já não conseguia sentir direito as minhas pernas. Senti medo. Não sabia o que estava acontecendo\", relata Anaïs de Vos. Era julho de 2011 e Anaïs, então com 27 anos, estava em uma entrevista para uma vaga no Ministério da Cultura da França, em Paris. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp Ela normalmente não tomava café, mas, quando o entrevistador, um funcionário público de alto escalão chamado Christian Nègre, lhe ofereceu um, ela aceitou por educação. Ele mesmo…",
+        "porQueImporta": "",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/noticia/2026/08/19/ele-nos-drogou-e-nos-fez-urinar-na-roupa-as-acusacoes-de-mais-de-200-mulheres-contra-ex-funcionario-do-governo-frances.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cx27vj870p2o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-08-19T18:38:01.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/otlPbRt5C78HLbFhs9ivpIQVay8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/u/uC3oWDQry487y0kohs7w/cristian-negre.jpg"
+      },
+      {
+        "clusterId": "06c31894e04b9ebb",
+        "slug": "608f49d26846e13b",
+        "titulo": "Chile decreta estado de catástrofe na província de Tocopilla",
+        "resumo": "O presidente José Antonio Kast decretou estado de exceção por catástrofe na província de Tocopilla, no norte do Chile, após fortes chuvas que causaram enchentes e deslizamentos de terra. O governo manteve o alerta máximo na área e ordenou a evacuação de moradores de setores de risco. Todos os recursos disponíveis foram mobilizados para enfrentar a emergência.",
+        "porQueImporta": "A medida demonstra a gravidade da situação e a necessidade de recursos governamentais para proteger a população e a infraestrutura da região.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/chile-decreta-estado-de-catastrofe-apos-enchentes-e-deslizamentos-de-terra/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/19/chile-decreta-estado-de-catastrofe-apos-enchentes-e-deslizamentos-no-norte-do-pais.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-19T18:12:02.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/AFP__20260416__A7Y8363__v1__HighRes__ChilePoliticsGovernment.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "6d08ce905499c7f7",
+        "slug": "8a48262008a7fac6",
+        "titulo": "EUA usam 'reserva de emergência' ao enviar novo porta-aviões ao Oriente Médio e criam 'buraco' no Pacífico, diz analista",
+        "resumo": "O navio USS George Washington em formação com embarcações americana, britânica e francesa durante treinamento em 2023 Nicholas Russell/Departamento de Defesa dos EUA O governo Trump utilizou sua \"reserva de emergência\" ao enviar o porta-aviões USS George Washington ao Oriente Médio em meio à guerra com o Irã, o que \"criou um buraco\" na região do Pacífico e impactou na capacidade de responder a ameaças globalmente, segundo um analista ouvido pelo jornal \"The New York Times\". ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O Pentágono anunciou o envio do USS George Washington na…",
+        "porQueImporta": "",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/entenda-por-que-eua-deixam-asia-desfalcada-ao-deslocar-porta-avioes/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/19/eua-usam-reserva-de-emergencia-porta-avioes-oriente-medio-diz-analista.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-19T17:42:08.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/dQQHrzsqWKedJnTg4p43kGBQW4g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/A/l/3FDjpPSkO7zvVWSF7wGA/231103-n-nr343-1620c.jpg"
+      },
       {
         "clusterId": "c504378b50fecfe5",
         "slug": "f2ec989bbbf586ae",
@@ -518,282 +708,304 @@
         "imageUrl": "https://s2-g1.glbimg.com/n0kzKTgRQ9kfaqM1rnGuzW0PB9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/O/eCemFeTHSZuksCoAmJxQ/exercito.jpg"
       },
       {
-        "clusterId": "3c044310b5c66981",
-        "slug": "608f49d26846e13b",
-        "titulo": "Chile decreta estado de catástrofe na província de Tocopilla",
-        "resumo": "O presidente José Antonio Kast decretou estado de exceção por catástrofe na província de Tocopilla, no norte do Chile, após fortes chuvas que causaram enchentes e deslizamentos de terra. O governo manteve o alerta máximo na área e ordenou a evacuação de moradores de setores de risco. Todos os recursos disponíveis foram mobilizados para enfrentar a emergência.",
-        "porQueImporta": "A medida demonstra a gravidade da situação e a necessidade de recursos governamentais para proteger a população e a infraestrutura da região.",
+        "clusterId": "22fb00423e1ed351",
+        "slug": "6f00987963ce0dff",
+        "titulo": "Maior acesso a armas aumentou violência política no Brasil, aponta socióloga",
+        "resumo": "Em entrevista à BBC News Brasil, Angela Alonso afirma que a violência política tende a crescer em anos eleitorais e que suas raízes estão sobretudo em disputas locais.",
+        "porQueImporta": "",
         "category": "mundo",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/19/chile-decreta-estado-de-catastrofe-apos-enchentes-e-deslizamentos-no-norte-do-pais.ghtml"
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c2kyvv53eyqo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-08-19T16:02:28.000Z"
-      },
-      {
-        "clusterId": "f54740cdd19f2447",
-        "slug": "5e699f55bbdd48c3",
-        "titulo": "França aprova lei que cria direito à assistência para morrer",
-        "resumo": "A França promulgou, em 19 de março, uma lei que institui o direito à assistência para morrer, concluindo um debate iniciado em 2022 envolvendo parlamentares, profissionais de saúde, associações e representantes religiosos. O texto foi publicado no Journal officiel, o Diário Oficial francês, após aprovação pelo Conselho. A legislação permite que pacientes com doenças graves solicitem ajuda para terminar a vida de forma assistida. A lei representa um marco na discussão sobre o fim da vida na França.",
-        "porQueImporta": "A aprovação estabelece legalmente o direito à assistência para morrer, influenciando políticas de cuidados paliativos e direitos dos pacientes.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/saude/noticia/2026/08/19/franca-promulga-lei-que-cria-direito-a-ajuda-para-morrer-apos-quatro-anos-de-debates.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-19T14:20:06.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/xibwBusVYpWoiin9X3Qc9vs9T0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/y/wgVYyiTI2qdTMt0aAwmA/pexels-rdne-6129685.jpg"
-      },
-      {
-        "clusterId": "fc70dad45cc0856c",
-        "slug": "ddd95b06c5100bd2",
-        "titulo": "Empresa norte-americana cria pesquisa eleitoral falsa como experimento social",
-        "resumo": "A empresa Median Strategies admitiu ter fabricado resultados de pesquisas eleitorais sobre as primárias da Califórnia e Wisconsin para demonstrar a velocidade de disseminação de informações falsas. O experimento foi divulgado como uma iniciativa de teste de verificação de dados. A divulgação ocorreu após a realização das primárias, em agosto de 2026.",
-        "porQueImporta": "Ilustra como dados falsos podem se espalhar rapidamente e afetar a percepção pública de processos eleitorais.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/19/empresa-publica-pesquisa-eleitoral-falsa-nos-eua-e-diz-ter-feito-experimento-social-para-testar-a-disseminacao-de-informacoes.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-19T14:19:12.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/18RblSB6liKEemb0Ybr0zyeFi8w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/o/OG0yOxTCKUhA6yxE4u9g/ap26216512820798.jpg"
-      },
-      {
-        "clusterId": "4ab25fa0194ab7b0",
-        "slug": "fd1cd0da67b07225",
-        "titulo": "Trump facilita retorno de ex-presidiários ao porte de armas",
-        "resumo": "O governo Trump está promovendo medidas que permitem que ex-presidiários e condenados recuperem o direito de possuir armas de fogo, contrariando uma lei federal de mais de trinta anos. A iniciativa visa flexibilizar restrições ao porte de armas, sendo vista como vitória pelos defensores da Segunda Emenda. Grupos de controle de armas criticam a medida, alertando para riscos à segurança pública.",
-        "porQueImporta": "A mudança pode aumentar o número de pessoas com acesso a armas, impactando a segurança pública e o debate sobre direitos de armas nos EUA.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/08/19/trump-consolida-caminho-para-que-ex-presidiarios-e-condenados-recuperem-direito-a-ter-armas-de-fogo.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-19T14:11:23.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/0vcq2YEx6pMnldTQbfCIIos7gO0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/G/1/AXo7zsR16knOIBv0jm5w/globo-canal-4-4-4-frame-333855.jpeg"
-      },
-      {
-        "clusterId": "ef8c63038d86a197",
-        "slug": "eac168988f3697f4",
-        "titulo": "Professor negro de Cambridge encontrado morto após acusações de plágio e mentiras",
-        "resumo": "O professor negro de Cambridge, acusado de plágio e mentiras, foi encontrado morto, levantando questões sobre a pressão e a cobertura midiática que o envolveu. O caso gerou debate sobre a influência dos tabloides no Reino Unido e sobre possíveis fatores que contribuíram para o seu suicídio. A morte ocorreu após semanas de controvérsia pública e acusações de má conduta acadêmica.",
-        "porQueImporta": "Ilustra como a cobertura midiática pode impactar a saúde mental de indivíduos em posições acadêmicas.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/08/19/imprensa-britanica-criticada-apos-morte-de-professor-negro-de-cambridge.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-19T13:55:40.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/bk2oR6NNkCFhaeOpXpNE97gLN_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/j/HmBJBHQEKAK7JAXUyWOA/ap26218282881622.jpg"
-      },
-      {
-        "clusterId": "0260c26eec43abe0",
-        "slug": "c3d84130ae319b26",
-        "titulo": "Troca de 103 prisioneiros de guerra entre Ucrânia e Rússia",
-        "resumo": "Na quarta-feira (19), Ucrânia e Rússia trocaram 103 prisioneiros de guerra de cada lado, conforme comunicado do Ministério da Defesa russo e do presidente ucraniano Volodymyr Zelensky. A operação ocorreu em meio à intensificação dos ataques e negociações congeladas. Os Emirados Árabes Unidos atuaram como mediadores no acordo. A troca foi acompanhada pela agência Reuters.",
-        "porQueImporta": "A troca demonstra a continuidade de negociações de paz mesmo em meio a conflitos intensos.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/19/video-ucranianos-se-emocionam-apos-serem-libertados-em-troca-de-prisioneiros-com-a-russia.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-19T13:36:19.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/tY60YLKoSMiPkAvay2IQ71MGdx8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/8/hNru2RTuGUt4msmBUkXQ/2026-08-19t115904z-1041504216-rc2m1na3ur39-rtrmadp-3-ukraine-crisis-prisoners-exchange.jpg"
+        "updatedAt": "2026-08-19T16:54:43.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/046a/live/17d31e70-69f2-11f1-8e1d-bbbb1017d210.jpg"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "f72779a345a9388d",
-        "slug": "bcbd197c2561033e",
-        "titulo": "CNH Social abre 3 mil vagas gratuitas no Espírito Santo",
-        "resumo": "O Detran-ES disponibilizou inscrições on-line para o terceiro lote do programa CNH Social, que oferece habilitação gratuita a motoristas. O benefício é destinado a famílias com renda de até dois salários mínimos e inscritas no Cadastro Único. As inscrições encerram em 2 de setembro e os candidatos devem preencher formulário no site do órgão.",
-        "porQueImporta": "Permite que motoristas de baixa renda obtenham CNH sem custos, ampliando mobilidade no estado.",
+        "clusterId": "6a11e058d48f1671",
+        "slug": "ce2858b7c7c5f341",
+        "titulo": "Amazon planeja expandir entregas por drone para quase 500 municípios nos EUA",
+        "resumo": "A Amazon Prime Air pretende ampliar sua cobertura de entregas por drones em até 500 municípios até o fim de 2026, triplicando a área de atuação atual. A expansão visa permitir que consumidores recebam produtos em até 30 minutos após a compra, utilizando drones totalmente elétricos. O serviço atenderá comunidades que somam dezenas de milhões de clientes.",
+        "porQueImporta": "A expansão pode acelerar a entrega de produtos e reduzir a dependência de veículos tradicionais.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/carros/cnh-social-tem-3-mil-novas-vagas-para-habilitacao-gratuita-veja-como-fazer/"
-          }
-        ],
-        "updatedAt": "2026-08-19T16:06:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/Wed72rt07xrAY9k2fobgW7QIQzI=/0x0/filters:format(webp):quality(85)/1ffa678c-9585-4c2f-af7c-b914d9fc9d92.jpg"
-      },
-      {
-        "clusterId": "88af6ff39c864fcf",
-        "slug": "10d4d3c7f8d87a06",
-        "titulo": "Velozes & Furiosos 11 define data para começar filmagens",
-        "resumo": "Vin Diesel anunciou que as filmagens de Velozes & Furiosos 11 começarão em dezembro, conforme revelado em entrevista à Variety. O início depende de sua disponibilidade para atender a um pedido específico. A informação foi divulgada durante a celebração dos 25 anos do primeiro filme da franquia.",
-        "porQueImporta": "A data de início das gravações indica o avanço da produção e a continuidade da franquia de sucesso.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/entretenimento/o-ultimo-racha-velozes-furiosos-11-define-data-para-comecar-filmagens/"
-          }
-        ],
-        "updatedAt": "2026-08-19T16:03:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/BugzgUVXfC2eoCi0CLgcFuaHB7k=/0x0/filters:format(webp):quality(85)/0bdfdaf4-0f90-46cc-80b0-7b9fc4679d26.png"
-      },
-      {
-        "clusterId": "4cbdc46515618312",
-        "slug": "9aa6966c2f0b2bf2",
-        "titulo": "Windows 11 lança menu de contexto redesenhado no Explorador de Arquivos",
-        "resumo": "A Microsoft distribuiu, para participantes do Windows Insider, uma nova versão do menu de contexto do Explorador de Arquivos que abre mais rapidamente e apresenta menos opções na tela principal. O menu permite que os usuários personalizem quais comandos aparecem ao clicar com o botão direito do mouse. A empresa também anunciou melhorias de desempenho, como a redução de travamentos ao renomear itens e ao navegar pelo sistema.",
-        "porQueImporta": "A atualização melhora a experiência de uso do Windows 11, tornando o gerenciamento de arquivos mais ágil e personalizado.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/software/windows-11-ganha-novo-menu-do-botao-direito-mais-rapido-e-sem-travamentos/"
-          }
-        ],
-        "updatedAt": "2026-08-19T16:02:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/xxLyvmN2m_1ks3CvFoTBV3duwdA=/0x0/filters:format(webp):quality(85)/b834b99e-5533-424d-8239-613270c6a9f8.png"
-      },
-      {
-        "clusterId": "4d65605a5d7510f9",
-        "slug": "3dca1e295eb82f48",
-        "titulo": "OpenAI avalia construção de data centers no Brasil",
-        "resumo": "Oliver Jay, vice-presidente de estratégia internacional da OpenAI, afirmou que a empresa está aberta a discutir e investigar a possibilidade de construir data centers no Brasil. A declaração foi feita em São Paulo, no mesmo dia em que a companhia inaugurou seu primeiro escritório na América Latina. Jay esclareceu que não há anúncio definitivo de construção, apenas a intenção de avaliar a viabilidade. A iniciativa ocorre em meio à crescente disputa por capacidade computacional entre grandes empresas de IA.",
-        "porQueImporta": "A presença de data centers locais pode fortalecer a infraestrutura de IA no Brasil e reduzir a dependência de servidores estrangeiros.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/mercado/openai-esta-aberta-a-discutir-construcao-de-data-centers-no-brasil/"
-          }
-        ],
-        "updatedAt": "2026-08-19T16:02:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/mcGd9se7X1AMQSKEcgiZ3kL9CDI=/0x0/filters:format(webp):quality(85)/a3b49ba5-331a-4847-a982-3284fbcaeb6e.png"
-      },
-      {
-        "clusterId": "813e82d5f84c9275",
-        "slug": "f1afac761136ca27",
-        "titulo": "Fones Bluetooth em promoção: três opções destacadas na Amazon",
-        "resumo": "O Olhar Digital apresenta três fones Bluetooth em promoção, escolhidos entre os mais vendidos da Amazon. As opções incluem marcas reconhecidas e atendem a perfis de uso variados, como treino, trabalho e relaxamento. Um dos modelos destacados é o Philips TWS TAT1109BK/00, que oferece microfone e bateria de até 24 horas.",
-        "porQueImporta": "Essas promoções facilitam a escolha de fones de boa qualidade a preços acessíveis.",
-        "category": "tecnologia",
-        "sources": [
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/amazon-planeja-expandir-entregas-por-drones-a-500-localidades-nos-eua/"
+          },
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/19/reviews/fones-bluetooth-em-promocao-escolhemos-os-melhores-para-voce-ouvir-com-liberdade/"
-          }
-        ],
-        "updatedAt": "2026-08-19T15:40:00.000Z"
-      },
-      {
-        "clusterId": "e664bab2fc75cd63",
-        "slug": "53e346cc48dbef79",
-        "titulo": "Pesquisadores do MIT criam bactérias que funcionam como transistores biológicos",
-        "resumo": "Estudantes do MIT desenvolveram bactérias capazes de atuar como transistores, permitindo a formação de circuitos que processam informações. O trabalho demonstra que organismos vivos podem substituir componentes eletrônicos de silício em dispositivos de computação. Embora ainda distante de ser aplicado em smartphones, a pesquisa abre caminho para futuros chips vivos que utilizam bactérias para executar funções computacionais.",
-        "porQueImporta": "Inovações que podem transformar a arquitetura de dispositivos eletrônicos, reduzindo dependência de silício e possibilitando novas tecnologias de computação biológica.",
-        "category": "tecnologia",
-        "sources": [
+            "url": "https://olhardigital.com.br/2026/08/19/pro/amazon-vai-levar-entregas-por-drones-a-quase-500-cidades-dos-eua-ate-o-fim-de-2026/"
+          },
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/smartphone/celular-do-futuro-pode-ter-chip-vivo-feito-a-base-de-bacterias/"
+            "url": "https://canaltech.com.br/produtos/entregas-de-encomendas-via-drone-da-amazon-chega-a-quase-500-municipios/"
           }
         ],
-        "updatedAt": "2026-08-19T15:34:51.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/0L1avaeHgIn8v43jp0D9AoEKpIU=/0x0/filters:format(webp):quality(85)/caa8bcb6-5f0f-462c-978e-10e7a3a25181.png"
+        "updatedAt": "2026-08-19T18:20:26.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/wClI-5hMcVQn3As72l7hblhtPPg=/0x0/filters:format(webp):quality(85)/c420e0a8-aa79-43a1-ac44-3196d3b62980.jpeg"
       },
       {
-        "clusterId": "93950f6f0ace30fb",
-        "slug": "a1d1c2824675df74",
-        "titulo": "Atualização de memória RAM DDR5 em promoção na Amazon",
-        "resumo": "O artigo destaca que atualizar a memória RAM pode melhorar o desempenho de computadores lentos ou em montagem. Apresenta três opções de módulos DDR5 em oferta na Amazon, incluindo o Corsair Vengeance 16GB 5200MHz, com boa performance para desktop, trabalho, estudo e jogos. Os modelos são recomendados como upgrades eficientes.",
-        "porQueImporta": "A compra de RAM em promoção pode otimizar o desempenho do PC sem grandes investimentos.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/19/reviews/sua-memoria-ram-esta-travando-o-pc-confira-uma-selecao-de-opcoes-ddr5-em-promocao/"
-          }
-        ],
-        "updatedAt": "2026-08-19T15:20:00.000Z"
-      },
-      {
-        "clusterId": "d2f7f11ed53a2e35",
-        "slug": "62d049d560c78271",
-        "titulo": "Abismo na Steam: 1% dos jogos leva 84% de todo o dinheiro da plataforma",
-        "resumo": "Uma análise recente envolvendo quase 100.000 jogos no Steam revelou o retrato definitivo da economia da loja da Valve: o topo 1% dos títulos abocanha impressionantes 84,5% de toda a receita estimada da plataforma. Enquanto blockbusters e sucessos estrondosos acumulam fortunas, a esmagadora maioria dos desenvolvedores luta para conseguir o mínimo de visibilidade e retorno financeiro. De acordo com um levantamento de um ex-funcionário da Valve, Ichiro Lambe, e sua equipe, metade de todos os jogos pagos lançados na Steam faturou menos de US$ 3.622 ao longo de toda a sua vida útil. Na prática,…",
+        "clusterId": "3ebec6fc7ccacfbb",
+        "slug": "2da8a407f641bf39",
+        "titulo": "iPad pode ganhar novo botão físico; Apple registra patente",
+        "resumo": "A Apple registrou uma patente que indica a possibilidade de futuros iPads ganharem um novo botão físico sensível à pressão. O sistema é bastante parecido com o Controle da Câmera que estreou na linha iPhone 16 e pode reconhecer diferentes tipos de toque. 📱 Veja as melhores promoções de celulares no WhatsApp do CT Ofertas Batizado de “Input System for Portable Electronic Device”, o documento descreve um controle capaz de identificar toques, deslizes e pressões mais fortes. Apesar de a Apple não citar um futuro iPad com o recurso, a maioria das ilustrações da patente mostra dispositivos com…",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/games/abismo-na-steam-1-dos-jogos-leva-84-de-todo-o-dinheiro-da-plataforma/"
+            "url": "https://canaltech.com.br/tablet/ipad-pode-ganhar-novo-botao-fisico-apple-registra-patente/"
+          },
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/19/reviews/ipad-na-promocao-hora-de-garantir-o-seu-tablet-apple-com-desconto-na-amazon/"
           }
         ],
-        "updatedAt": "2026-08-19T15:12:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/ugOnBWP5718IgyoE7Iyzq-U4Z2M=/0x0/filters:format(webp):quality(85)/92863e01-0d19-4fd3-8a2d-90899e96f53f.png"
+        "updatedAt": "2026-08-19T18:29:48.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/xPIfGmrnP-fEs3f0yshqjtSzVVE=/0x0/filters:format(webp):quality(85)/9ce7a96c-3055-42d6-80d7-77319d2d999f.jpeg"
+      },
+      {
+        "clusterId": "b479a3a91b7fbeb3",
+        "slug": "1226359f01661a24",
+        "titulo": "Sebastian Stan confirma papel de Harvey Dent em Batman 2",
+        "resumo": "O ator Sebastian Stan revelou que interpretará Harvey Dent, também conhecido como Duas-Caras, na sequência de Batman. A confirmação veio em entrevista ao Le Journal du Dimanche, após especulações sobre seu papel. Stan já participou de Vingadores: Doutor Destino como Bucky Barnes. A informação esclarece a identidade do personagem na próxima produção.",
+        "porQueImporta": "Define a presença de um personagem icônico na nova entrega do universo Batman.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/cinema/the-batman-jornal-remove-fala-de-sebastian-stan-sobre-papel-na-sequencia/"
+          },
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/entretenimento/sebastian-stan-encerra-misterio-e-confirma-papel-em-batman-2/"
+          }
+        ],
+        "updatedAt": "2026-08-19T17:43:30.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/8pDc4WajhRCmkX1M82fXs8Ubfts=/0x0/filters:format(webp):quality(85)/d8999700-bbd9-4f19-a1c1-e3495b818a93.png"
+      },
+      {
+        "clusterId": "c5e4ca10ff3d20bd",
+        "slug": "489190d540d048fc",
+        "titulo": "Roborock desafia Xiaomi e lança máquina de lavar piso com água quase fervendo",
+        "resumo": "A Roborock, uma das rivais da Xiaomi no segmento de casa inteligente, lançou na China a A30 Pro Steam 3.0, uma máquina de lavar piso capaz de combinar água a 90 °C com vapor de 180 °C para remover sujeiras mais difíceis. O aparelho ainda chama atenção pela sucção de 32.000 Pa e pelo sistema que lava e seca o próprio rolo após a limpeza. Veja as melhores promoções de eletrodomésticos no WhatsApp do CT Ofertas A máquina já está à venda no mercado chinês por cerca de R$ 2.386 na conversão direta, após um cashback oferecido no lançamento. Sem o benefício, o preço equivale a aproximadamente R$…",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/eletro/roborock-desafia-xiaomi-e-lanca-maquina-de-lavar-piso-com-agua-quase-fervendo/"
+          }
+        ],
+        "updatedAt": "2026-08-19T20:15:52.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/JY_fNsIDfCZ36FGzPdknnS5MwTE=/0x0/filters:format(webp):quality(85)/15afef28-eef3-4e13-b744-48122b1d1526.jpg"
+      },
+      {
+        "clusterId": "3fc65b28e3026cbf",
+        "slug": "da5d5cd7d760a1d4",
+        "titulo": "Mercado Livre derrete preço do monitor LG UltraGear 24\" com cupom exclusivo",
+        "resumo": "Se você joga com travamentos na tela ou trabalha com um monitor antigo, a hora de atualizar seu setup chegou. O Mercado Livre derrubou o preço do monitor LG UltraGear 24\", caindo de R$ 699 por apenas R$ 539,10 aplicando o cupom PROMOTEC e pagando no Pix. É a chance ideal para garantir alto desempenho gastando muito pouco. 👉 Garanta o seu monitor LG UltraGear 24\" por R$ 539,10 no Mercado Livre Como é o monitor LG UltraGear 24\" O grande destaque deste modelo é a taxa de atualização de até 144Hz, que entrega movimentos extremamente lisos. Para quem joga no PC ou em consoles como o Xbox Series…",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/hardware/mercado-livre-derrete-preco-do-monitor-lg-ultragear-24-com-cupom-exclusivo/"
+          }
+        ],
+        "updatedAt": "2026-08-19T20:12:09.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/vCu7gGKnSKL-5oqtKIZeJLz9G_o=/0x0/filters:format(webp):quality(85)/4b73339b-4b9f-4f27-8ab5-83e669c08e83.jpg"
+      },
+      {
+        "clusterId": "af1d574d4c0867e4",
+        "slug": "38c43549cda5bc97",
+        "titulo": "Telescópio da NASA encontra \"mega-Terra\" gigante que não deveria existir",
+        "resumo": "Uma equipe de astrônomos descobriu uma “mega Terra”, apelido carinhoso que os cientistas dão aos planetas que são rochosos como o nosso, mas maiores e mais massivos. Designado GJ 523b, este mundo é 2,5 maior que o nosso e 23,5 vezes mais denso, colocando em jogo o que se sabe sobre os processos de formação planetária. Flagrado inicialmente pelo telescópio TESS, da NASA, o corpo celeste intrigou os cientistas porque tem pouca atmosfera — o que é estranho, já que os modelos tradicionais indicam que núcleos rochosos que têm mais de 20 vezes a massa terrestre deveriam acumular imensas quantidades…",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/ciencia-e-espaco/telescopio-da-nasa-encontra-mega-terra-gigante-que-nao-deveria-existir/"
+          }
+        ],
+        "updatedAt": "2026-08-19T20:00:05.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/i2Z8wHlG0YMZ4f6wsdny826oLdE=/0x0/filters:format(webp):quality(85)/0cde7c10-3e64-48c7-93e1-f179abaffaa9.png"
+      },
+      {
+        "clusterId": "392e97b269ab26df",
+        "slug": "12e39969c2cc8dcc",
+        "titulo": "Rival da BYD vende SUV híbrido mais em conta que Yaris Cross",
+        "resumo": "Quer um carro híbrido para chamar de seu? Se sim, vale a pena ficar de olho nas ofertas do Omoda 5 Luxury, SUV híbrido da rival da BYD sai “no precinho” em lojas selecionadas em São Paulo e Rio de Janeiro. Em outras palavras, a versão de entrada do híbrido pode ser encontrada por reduções de mais de R$ 5 mil. Na Grande São Paulo, unidades da versão de entrada já na linha 2027 são negociadas a partir de R$ 158.900, preço vindo de bonificações da fabricante e abatimentos próprios das lojas. Neste caso, o desconto passa dos R$ 6 mil. No território fluminense, revendas vendem a mesma configuração…",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/carros/rival-da-byd-vende-suv-hibrido-mais-em-conta-que-yaris-cross/"
+          }
+        ],
+        "updatedAt": "2026-08-19T20:00:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/WMo3pJdy2ODo8FDCmBMDaeGiiYs=/0x0/filters:format(webp):quality(85)/958f827c-affe-4877-8201-eb563489e75a.png"
+      },
+      {
+        "clusterId": "834f207d66b6cc1a",
+        "slug": "8683958f233dff2e",
+        "titulo": "Nova IA do QuintoAndar recomenda imóveis e marca visitas pelo WhatsApp",
+        "resumo": "O QuintoAndar apresentou, nesta quarta-feira (19), a sua nova plataforma de IA para imobiliárias. Conhecida como Domi, a solução busca automatizar etapas do atendimento de quem busca um imóvel para alugar ou comprar. A novidade chega com o objetivo de auxiliar corretores a acompanharem um número maior de oportunidades. Assim, as equipes conseguem dedicar mais tempo à negociação e ao relacionamento com clientes. Parte do apoio é garantido através da integração com sistemas de gestão de relacionamento com o cliente (CRM). Com isso, o sistema utiliza os dados das imobiliárias para atuar como um…",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/mercado/nova-ia-do-quintoandar-recomenda-imoveis-e-marca-visitas-pelo-whatsapp/"
+          }
+        ],
+        "updatedAt": "2026-08-19T19:38:25.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/2inZzLRtJSW0ZGWN5EEijr8Hx6A=/0x0/filters:format(webp):quality(85)/2a1ebea9-784c-48d1-8771-3ca954517236.jpg"
       }
     ],
     "ciencia": [
       {
-        "clusterId": "7c13305b50443491",
-        "slug": "2aec8640a992f8b1",
-        "titulo": "Cientistas descobrem estrela capaz de 'sentir' a rotação do buraco negro da Via Láctea; entenda",
-        "resumo": "Sequência mostra a S301 em órbita ao redor de Sagitário A*, no centro da Via Láctea, entre 2021 e 2025. ESO/GRAVITY Collaboration Uma equipe internacional de astrônomos identificou uma estrela tão próxima do buraco negro no centro da Via Láctea que o seu movimento pode, dentro dos próximos anos, revelar algo que a ciência nunca conseguiu medir de forma direta: a velocidade de rotação — o chamado \"spin\" — de um buraco negro supermassivo. A descoberta, publicada nesta quarta-feira (19) na revista científica \"Nature\", foi feita com um dos telescópios do Observatório Europeu do Sul (ESO), no…",
-        "porQueImporta": "",
+        "clusterId": "7649a3997e2eccad",
+        "slug": "bdf28173a71cfee8",
+        "titulo": "Animal com gestação mais longa",
+        "resumo": "O artigo destaca que, além dos humanos, alguns animais têm períodos de gestação muito extensos, chegando a até cinco anos em alguns casos. Entre os exemplos citados, a baleia-azul apresenta a gestação mais longa conhecida na natureza. A informação ilustra a diversidade de estratégias reprodutivas na fauna mundial.",
+        "porQueImporta": "Entender a variação na gestação ajuda a compreender adaptações evolutivas e desafios de conservação.",
         "category": "ciencia",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/ciencia/noticia/2026/08/19/estrela-rotacao-do-buraco-negro-da-via-lactea-entenda.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/agro/guabi-investe-em-cinco-fabricas-de-nutricao-animal-no-brasil/"
+          },
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/coluna/oraculo/qual-animal-tem-a-gestacao-mais-longa/"
           }
         ],
-        "updatedAt": "2026-08-19T15:00:13.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/di-5iGPGAfc23tnI22nmJ6EiQBc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/u/tQfyA4S5CWvB7COJ1g0w/vlt.jpg"
+        "updatedAt": "2026-08-19T17:33:40.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/08/SI_490_Oraculo_Gestacao_longa.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "55d8dcaf0d31e5ff",
-        "slug": "b6596c7b14950b1e",
-        "titulo": "Por que as mulheres devem ser uma prioridade nos estudos sobre longevidade",
-        "resumo": "Em média, as mulheres vivem mais do que os homens – no Brasil, a expectativa de vida delas é de quase 80 anos, enquanto a deles fica em torno de 73 anos – apesar de enfrentarem uma carga maior de doenças crônicas. Para os pesquisadores Pankaj Kapahi e Parminder Singh, do Instituto Buck, as mulheres talvez sejam a peça-chave nos esforços para descobrir maneiras de estender a expectativa de vida saudável. A tese da dupla chama-se Hipótese da Resiliência Reprodutiva: propõe que a reprodução e a longevidade, frequentemente vistas como forças biológicas opostas, podem estar intimamente ligadas.…",
+        "clusterId": "2c5af93ee9ac7955",
+        "slug": "7fac334925a9613b",
+        "titulo": "Pesquisa sobre avaliação da fala infantil recebe prêmio de excelência em fonoaudiologia",
+        "resumo": "Trabalho desenvolvido na Faculdade de Medicina de Ribeirão Preto avalia instrumento usado para identificar dificuldades de comunicação em crianças",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/08/18/por-que-as-mulheres-devem-ser-uma-prioridade-nos-estudos-sobre-longevidade.ghtml"
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/campus-ribeirao-preto/pesquisa-sobre-avaliacao-da-fala-infantil-recebe-premio-de-excelencia-em-fonoaudiologia/"
           }
         ],
-        "updatedAt": "2026-08-18T07:03:48.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/RfNb0T2cq7vupVcgZ2-768Z8BYw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/U/0RBXYtR2OsdkAzBEWrHQ/longevidademulhercomoprioridade1.jpg"
+        "updatedAt": "2026-08-19T19:30:59.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260819_certificado-1-1024x538.jpg"
       },
       {
-        "clusterId": "7ef46e5f51d26c7b",
-        "slug": "79ab8e9cd092d575",
-        "titulo": "Exames do cérebro fornecem a primeira evidência de que cães conseguem distinguir entre medo e tristeza em humanos",
-        "resumo": "Cão e garota ao ar livre Stephen Chantzis/Pexels O que faz com que um cão se afaste de uma pessoa mal-humorada, enquanto se aproxima discretamente e se encosta a alguém que está chorando? Todos nós já vimos isso — eles conseguem reagir aos nossos sentimentos. E a ciência também confirma que os cães têm emoções. Essas habilidades sociais podem ser a base do sucesso dos cães em conviver conosco. Mas você acha que seu cão conseguiria distinguir o rosto de uma pessoa zangada do de alguém triste ou com medo? Uma nova pesquisa publicada na revista científica iScience explorou essa questão e fez…",
+        "clusterId": "35289feb325137a8",
+        "slug": "606de9d6b1a4580f",
+        "titulo": "Exposição no campus de Bauru exibe obras de 17 artistas",
+        "resumo": "Em cartaz até 4 de setembro, mostra reúne 30 trabalhos feitos em diferentes técnicas, como carvão, pastel e óleo sobre tela",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/ciencia/noticia/2026/08/18/exames-do-cerebro-fornecem-a-primeira-evidencia-de-que-caes-conseguem-distinguir-entre-medo-e-tristeza-em-humanos.ghtml"
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/cultura/exposicao-no-campus-de-bauru-exibe-obras-de-17-artistas/"
           }
         ],
-        "updatedAt": "2026-08-18T05:00:18.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/wz4gdVQedGc4IY1mKl8D2UjkpJk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/Z/o8RrANQ126hFoVXoi8GQ/pexels-stephen-chantzis-3647993-5810576.jpg"
+        "updatedAt": "2026-08-19T19:12:31.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260819_exposicao-construir-1024x538.jpg"
+      },
+      {
+        "clusterId": "b40580e568e0287b",
+        "slug": "c97e36dcc0e47ad0",
+        "titulo": "Feira de Profissões ocupa Praça do Relógio da USP com estandes das carreiras e atividades interativas",
+        "resumo": "O evento conta com três grandes pavilhões, orientação profissional, shows, apresentações interativas, palestras e salas de bate-papo com especialistas de diversas áreas. Saiba como participar",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/cadernodecultura/feira-de-profissoes-ocupa-praca-do-relogio-da-usp-com-estandes-das-carreiras-e-atividades-interativas/"
+          }
+        ],
+        "updatedAt": "2026-08-19T19:10:35.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260819-Praca-Relogio-Feira-USP-Profissoes-Foto-Elcio-Silva-PRCEU-USP-1024x538.jpg"
+      },
+      {
+        "clusterId": "68ec314646fd7891",
+        "slug": "3725ef8c5568c1c6",
+        "titulo": "Pérolas do streaming: o melhor do Prime Video, da Mubi e do YouTube em agosto",
+        "resumo": "Uma comédia policial, um canal de DJs, um clássico de Richard Linklater e um doc experimental sobre David Bowie",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/cultura/perolas-do-streaming-o-melhor-do-prime-video-da-mubi-e-do-youtube-em-agosto/"
+          }
+        ],
+        "updatedAt": "2026-08-19T19:02:08.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/08/SI_490_Playlist_Perolas.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "1b10f0b0a465b470",
+        "slug": "5889125c742a844a",
+        "titulo": "Como a anatomia de abelhas pode salvar a lavoura – e os biomas – das mudanças climáticas",
+        "resumo": "Quinze anos de pesquisas e expedições a mais de 30 países revelam a história evolutiva dos polinizadores e indicam como as linhagens se adaptaram a ambientes variados em milhões de anos",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Pesquisa FAPESP",
+            "url": "https://revistapesquisa.fapesp.br/como-a-anatomia-de-abelhas-pode-salvar-a-lavoura-e-os-biomas-das-mudancas-climaticas/?utm_source=rss&utm_medium=rss&utm_campaign=como-a-anatomia-de-abelhas-pode-salvar-a-lavoura-e-os-biomas-das-mudancas-climaticas"
+          }
+        ],
+        "updatedAt": "2026-08-19T18:57:28.000Z"
+      },
+      {
+        "clusterId": "68b8eb51e3605049",
+        "slug": "6893fcc91ae75a6a",
+        "titulo": "Nova cátedra sediada na USP fortalece a geoconservação na América Latina e no Caribe",
+        "resumo": "Tema é estratégico em contexto de mudança climática; Brasil tem hoje cerca de 17 mil áreas de risco geológico, ocupadas principalmente por pessoas sem acesso a moradia digna",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/diversidade/nova-catedra-sediada-na-usp-fortalece-a-geoconservacao-na-america-latina-e-no-caribe/"
+          }
+        ],
+        "updatedAt": "2026-08-19T18:32:04.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260817_geoeducacao-1024x538.jpg"
+      },
+      {
+        "clusterId": "1b80ec55a6f4ab43",
+        "slug": "f5739bf3d4ddecf8",
+        "titulo": "A história do número pi, da Grécia Antiga aos chips modernos",
+        "resumo": "Estamos cercados de círculos. E há quase 4 mil anos tentamos resolver o problema matemático escondido em suas curvas. Conheça a busca que atravessou civilizações e ainda desafia computadores.",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/ciencia/a-historia-do-numero-pi-da-grecia-antiga-aos-chips-modernos/"
+          }
+        ],
+        "updatedAt": "2026-08-19T17:00:46.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/08/SI_490_Numero_PI.jpg?quality=70&strip=info"
       }
     ],
     "saude": [
       {
-        "clusterId": "26705ec0d21163d8",
+        "clusterId": "7569073b831c100b",
         "slug": "8e1081fa34d0dcaf",
         "titulo": "Insuficiência renal crônica é doença silenciosa",
         "resumo": "A insuficiência renal crônica, agora chamada de doença renal crônica, representa a perda progressiva da função dos rins. A condição costuma evoluir sem sintomas perceptíveis, sendo considerada silenciosa. Fatores de risco incluem hipertensão, diabetes, histórico familiar e uso prolongado de certos medicamentos. O diagnóstico precoce é fundamental para retardar a progressão da doença.",
@@ -801,11 +1013,77 @@
         "category": "saude",
         "sources": [
           {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/medicos-ignoraram-sinais-de-insuficiencia-renal-antes-de-maradona-morrer-revela-depoimento/"
+          },
+          {
             "name": "Drauzio Varella",
             "url": "https://drauziovarella.uol.com.br/nefrologia/insuficiencia-renal-cronica-e-doenca-silenciosa-veja-os-fatores-de-risco/"
           }
         ],
-        "updatedAt": "2026-08-18T19:00:37.000Z"
+        "updatedAt": "2026-08-19T18:59:18.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-1231635760.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "2a572351e8f891d9",
+        "slug": "e4b5a7dac845545c",
+        "titulo": "Cervicite: o que é, sintomas e tratamento",
+        "resumo": "A cervicite é a inflamação do colo do útero provocada, na maioria das vezes, por infecções sexualmente transmissíveis. Veja como identificar. The post Cervicite: o que é, sintomas e tratamento first appeared on Portal Drauzio Varella.",
+        "porQueImporta": "",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/mulher/ginecologia/cervicite-o-que-e-sintomas-e-tratamento/"
+          }
+        ],
+        "updatedAt": "2026-08-19T20:00:22.000Z"
+      },
+      {
+        "clusterId": "14cbf92f2a594296",
+        "slug": "c978396614f497a6",
+        "titulo": "Quando o tratamento da psoríase vai além de cremes e pomadas?",
+        "resumo": "A psoríase pode exigir um tratamento sistêmico. Saiba quando as pomadas já não são suficientes para controlar a doença. The post Quando o tratamento da psoríase vai além de cremes e pomadas? first appeared on Portal Drauzio Varella.",
+        "porQueImporta": "",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/dermatologia/quando-o-tratamento-da-psoriase-vai-alem-de-cremes-e-pomadas/"
+          }
+        ],
+        "updatedAt": "2026-08-19T19:00:00.000Z"
+      },
+      {
+        "clusterId": "0f38131758a54abd",
+        "slug": "05eda97197c67da7",
+        "titulo": "O remédio centenário que ganhou novas indicações: para que serve a aspirina?",
+        "resumo": "Entenda o mecanismo por trás da aspirina e como a mesma substância age na dor, no coração e, em grupos específicos de pacientes, na recidiva do câncer. The post O remédio centenário que ganhou novas indicações: para que serve a aspirina? first appeared on Portal Drauzio Varella.",
+        "porQueImporta": "",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/medicamentos/o-remedio-centenario-que-ganhou-novas-indicacoes-para-que-serve-a-aspirina/"
+          }
+        ],
+        "updatedAt": "2026-08-19T18:00:22.000Z"
+      },
+      {
+        "clusterId": "0938c01a69918cf8",
+        "slug": "a153d0971c452813",
+        "titulo": "Bem-Estar #364 - Agachamento: entenda porque você deve incluir esse exercício na sua rotina",
+        "resumo": "Agachamento: entenda porque você deve incluir esse exercício na sua rotina Certamente você já viu essa cena... uma criança agachada, brincando tranquilamente, com os dois calcanhares retos no chão, e as costas inclinadas pra frente... é o que chamamos de posição de cócoras. Na infância, a mobilidade do tornozelo é maior e as crianças chegam facilmente nessa posição. Mas com o passar do tempo, a gente vai “enferrujando” e fica mais complicado. Pelo menos aqui no chamado “mundo ocidental”. Na China e em vários países asiáticos, o agachamento é a coisa mais comum do mundo. O que muita gente não…",
+        "porQueImporta": "",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/bemestar/podcast/noticia/2026/08/19/bem-estar-364-agachamento-entenda-porque-voce-deve-incluir-esse-exercicio-na-sua-rotina.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-19T11:46:50.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/HHL05yzEHaC1di4rlruXwpDUQbg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/1/x/wJsKAlTgqj53gnrITItQ/captura-de-tela-2024-06-26-084704.png"
       },
       {
         "clusterId": "4eef1662f6797f39",
@@ -836,42 +1114,192 @@
           }
         ],
         "updatedAt": "2026-08-17T21:31:00.000Z"
-      },
-      {
-        "clusterId": "555159f6589b1a4f",
-        "slug": "0fea27fa9c27f886",
-        "titulo": "Excesso de telas na adolescência afeta sono, atenção e aprendizado",
-        "resumo": "O uso noturno de telas pode prejudicar o sono, a atenção e o aprendizado dos jovens. O neurologista Drauzio Varella destaca sinais de alerta e orienta como reduzir os impactos. Ele explica que a luz azul e o estímulo constante interferem nos ritmos circadianos. Estratégias incluem limitar o tempo de tela e criar rotinas de sono saudáveis.",
-        "porQueImporta": "Entender esses efeitos ajuda pais e educadores a promover hábitos digitais mais saudáveis para o desenvolvimento juvenil.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/neurologia/excesso-de-telas-na-adolescencia-como-o-uso-do-celular-afeta-o-sono-dos-jovens/"
-          }
-        ],
-        "updatedAt": "2026-08-17T19:00:24.000Z"
-      },
-      {
-        "clusterId": "aa19865d74d6bfe6",
-        "slug": "8b955abaf0004354",
-        "titulo": "Mosquitos: evolução e impacto na saúde humana",
-        "resumo": "Os mosquitos são insetos que sobreviveram há milhões de anos, demonstrando grande sucesso evolutivo. Apesar de sua longa história, eles continuam a representar um perigo para a saúde humana, transmitindo doenças como dengue, zika e chikungunya. A persistência desses insetos exige atenção constante em medidas de controle e prevenção.",
-        "porQueImporta": "Entender a evolução e o papel dos mosquitos ajuda a orientar estratégias de saúde pública e reduzir riscos de doenças transmitidas por eles.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/infectologia/mosquitos-inimigos/"
-          }
-        ],
-        "updatedAt": "2026-08-17T18:07:13.000Z"
       }
     ],
-    "esportes": [],
+    "esportes": [
+      {
+        "clusterId": "fe21fd08d8fe23ca",
+        "slug": "605ba0aa9cb1b8cd",
+        "titulo": "Harry Kane recebe a Chuteira de Ouro do futebol europeu",
+        "resumo": "Harry Kane escolhe seus cinco gols preferidos pelo Bayern de Munique O atacante inglês Harry Kane, do Bayern de Munique, recebeu nesta quarta-feira a Chuteira de Ouro da temporada 2025/26, prêmio dado ao maior artilheiro das ligas nacionais na Europa. Kane foi o goleador do último Campeonato Alemão, com 36 gols. Harry Kane com a Chuteira de Ouro da Europa na temporada 2025/26 Twitter/Bayern de Munique Esta é a segunda vez que o inglês recebe o prêmio, se juntando a outros nove nomes na lista de vencedores, entre eles o ex-atacante brasileiro Mario Jardel, ídolo do Porto na virada do século. A…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-alemao/noticia/2026/08/19/harry-kane-recebe-a-chuteira-de-ouro-do-futebol-europeu.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/harry-kane-leva-chuteira-de-ouro-apos-marcar-36-gols-pelo-bayern/"
+          }
+        ],
+        "updatedAt": "2026-08-19T19:04:03.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/VEBvo7vwJenQ-dzxEDBZ8UeD3bE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/9/z/qftFmuSNmaynjspfB33w/hqfyob5x0aajwva.jpeg"
+      },
+      {
+        "clusterId": "9fc678201ea0ddb5",
+        "slug": "0614a7408dd187a6",
+        "titulo": "Pedrinho pede desculpas por pontuação do Vasco no Brasileiro: \"Torcedor tem direito de reclamar\"",
+        "resumo": "Pedrinho, do Vasco, critica BAP, do Flamengo: \"É mau-caráter, arrogante, prepotente, sober O presidente do Vasco, Pedrinho, assumiu, nesta quarta-feira, a responsabilidade pelo desempenho do clube no Campeonato Brasileiro - o time é o vice-lanterna e está há cinco rodadas na zona do rebaixamento. O dirigente falou no embarque do time para Assunção, onde o Vasco enfrenta o Olimpia, nesta quinta-feira, pela Copa Sul-Americana. Pedrinho critica BAP, do Flamengo: \"É mau-caráter, arrogante, prepotente, soberbo e hipócrita\" Entenda a urgência do Vasco pelo empréstimo de R$ 150 milhões Em entrevista…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/pedrinho-presidente-do-vasco-detona-bap-mau-carater-e-hipocrita/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/08/19/pedrinho-do-vasco-critica-bap-do-flamengo-e-mau-carater-arrogante-prepotente-soberbo-e-hipocrita.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-19T18:43:40.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/FegNVBTS9QsrSK99XHsTI8ncmaI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/C/A/wQ5nHYQrWZKPA5A8xt2g/54140149321-051ef50d34-h.jpg"
+      },
+      {
+        "clusterId": "b844d7e3366443f7",
+        "slug": "a6e555066daeda3f",
+        "titulo": "Torcida do Corinthians pede \"socorro\" ao MP em manifestação favorável à intervenção judicial",
+        "resumo": "Torcedores do Corinthians protestam no MP e pedem intervenção judicial Centenas de torcedores do Corinthians se encontraram nesta quarta-feira em frente à sede do Ministério Público de São Paulo em um ato de apoio à possibilidade de intervenção judicial. O grupo levou faixas pedindo \"socorro\" à instituição. + Siga o canal ge Corinthians no WhatsApp Torcida canta hino do Corinthians em protesto por intervenção judicial no MP O movimento foi convocado nas redes sociais e contou com o apoio das torcidas organizadas Gaviões da Fiel, Camisa 12, Pavilhão 9, Estopim da Fiel, Coringão Chopp e Fiel…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/torcida-do-corinthians-faz-ato-simbolico-por-intervencao-judicial/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/08/19/torcida-do-corinthians-pede-socorro-ao-mp-em-manifestacao-favoravel-a-intervencao-judicial.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-19T18:01:33.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/XsbBrLlw3SC9irHg6KI2ZBBapmI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/n/3/oIXXtURAurcH12M5UZOw/whatsapp-image-2026-08-19-at-14.30.15.jpeg"
+      },
+      {
+        "clusterId": "1bcb8e4de30a819d",
+        "slug": "26f66c5b6f13823c",
+        "titulo": "Corinthians x Internacional - Campeonato Brasileiro Feminino 2026 - globoesporte.com",
+        "resumo": "Campeonato Brasileiro Feminino 2026 no globoesporte.com - acompanhe tudo sobre Corinthians x Internacional: escalação, informações sobre o jogo, fotos e muito mais",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/jogo/19-08-2026/atleticodemadri-Malaga.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-19T20:26:33.000Z"
+      },
+      {
+        "clusterId": "04efa88285c36978",
+        "slug": "9761ee337028c1c2",
+        "titulo": "Líder como visitante e rebaixado como mandante: o que explica a oscilação do São Bernardo",
+        "resumo": "Botafogo vence o São Bernardo e se aproxima do G-6 da Série B Depois de chegar a liderar a Série B do Campeonato Brasileiro, o São Bernardo caiu de rendimento e agora aparece na 12ª colocação. Um dos motivos é o rendimento como mandante. Em 22 rodadas até aqui, a equipe saiu vitoriosa em oito oportunidades, empatou seis e perdeu oito, 45% de aproveitamento. Quando adotado um recorte de partidas disputadas dentro ou fora de casa, os números mudam drasticamente. Segundo dados do Gato Mestre, considerando uma tabela da Série B com apenas jogos como mandante, o São Bernardo estaria na décima…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/sp/futebol/times/sao-bernardo/noticia/2026/08/19/lider-como-visitante-e-rebaixado-como-mandante-o-que-explica-a-oscilacao-do-sao-bernardo.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-19T20:26:07.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/b4hCe2qDeHNMS3epkRLT85TC5fg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/I/q/AHY5h3RdywDeHvKxzfWA/whatsapp-image-2026-05-03-at-16.52.11.jpeg"
+      },
+      {
+        "clusterId": "add73fa42c3ee746",
+        "slug": "9fc54cafa9d03e68",
+        "titulo": "Pai de Monsalve se manifesta sobre afastamento do jogador no Grêmio: \"Merece ser valorizado\"",
+        "resumo": "Luís Castro tem temporada de altos e baixos no Grêmio O meia Miguel Monsalve foi afastado do elenco principal do Grêmio. O jogador está treinando no CT da base, em Eldorado do Sul. Segundo nota oficial do clube, divulgada na terça-feira, a decisão ocorreu por \"questões técnicas e de composição do grupo principal\". 🔍 Adicione o ge nas suas fontes favoritas do Google O ge apurou que também pesou para a decisão o fato de Monsalve não ter aceitado propostas para deixar o Grêmio. Ele já estava fora dos planos da comissão técnica. Em contato com a reportagem, o pai do jogador, Ramiro Monsalve,…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2026/08/19/pai-de-monsalve-se-manifesta-sobre-afastamento-do-jogador-no-gremio-merece-ser-valorizado.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-19T20:20:26.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/XgoPc03lFrGkEM9s7ZV-aSxKGss=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/U/S/CGyBQKRgyca6XX9dTXwA/agif26013118292365.jpg"
+      },
+      {
+        "clusterId": "dc93439acd0d4c4b",
+        "slug": "99c21723857e64fe",
+        "titulo": "Raphinha marca, e Barcelona vence Al Ahly na disputa do Troféu Joan Gamper",
+        "resumo": "Novo capitão do Barcelona, o brasileiro Raphinha voltou a se destacar na pré-temporada, mostrando estar plenamente recuperado da lesão sofrida durante a Copa do Mundo. O atacante foi titular e marcou, de pênalti, o segundo gol da vitória por 2 a 1 sobre o Al Ahly, na disputa do tradicional Troféu Joan Gamper, diante de 54 mil torcedores no Camp Nou. O jovem Hamza Abdelkarim, novo reforço do clube, fez o primeiro, e Zizo descontou para o time egípcio no segundo tempo. Raphinha comemora após marcar pelo Barcelona contra o Al Ahly REUTERS/Bruna Casas Raphinha já tinha marcado em um amistoso…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/08/19/raphinha-marca-e-barcelona-vence-al-ahly-na-disputa-do-trofeu-joan-gamper.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-19T20:11:50.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/Yr1kTApHnJLPspo7hIXpQeetxUk=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/9/j/sUc9zQS7OLjpPWbaJk5Q/2026-08-19t190415z-698920368-up1em8j1gz1zl-rtrmadp-3-soccer-friendly-bar-ahl.jpg"
+      },
+      {
+        "clusterId": "85e505ca2ed18445",
+        "slug": "728c4ed7bd85de48",
+        "titulo": "Rebeca Andrade vai voltar a disputar etapa de Copa do Mundo após dois anos e meio",
+        "resumo": "Rebeca Andrade tira maior nota do ano no salto e Flavia Saraiva conquista título inédito Maior medalhista olímpica brasileira em todos os tempos, Rebeca Andrade já tem data marcada para voltar a competir em uma etapa de Copa do Mundo após dois anos e meio. A estrela da ginástica artística estará em ação, no salto e na trave, no evento de Szombathely, na Hungria, entre 14 a 21 de setembro. A competição faz parte da preparação para o Mundial de Roterdã, na Holanda, em outubro. A última etapa de Copa disputada por Rebeca foi a de Antalya, na Turquia, realizada em março de 2024. Na ocasião, ela…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/ginastica-artistica/noticia/2026/08/19/rebeca-andrade-vai-voltar-a-disputar-etapa-de-copa-do-mundo-apos-mais-de-dois-anos.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-19T20:07:43.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/G-E1tPmKUYkXAF7qHSZ5z-BMCaU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/4/T/GK4uxwQ2iBsiRD8YNETw/whatsapp-image-2026-08-07-at-10.22.16.jpeg"
+      }
+    ],
     "entretenimento": [
       {
-        "clusterId": "d7415d8973476b36",
+        "clusterId": "7f09dd96c594ba29",
+        "slug": "2ac5e104372b5ff9",
+        "titulo": "Traumas na infância, depressão pós-parto e bissexualidade: as revelações de Hayden Panettiere em livro",
+        "resumo": "Morre atriz Hayden Panettiere aos 36 anos A atriz americana Hayden Panettiere, conhecida por seus papéis em séries de TV como \"Nashville\" e \"Heroes\", morreu neste domingo (16) aos 36 anos. Segundo a revista \"People”, policiais e equipes de emergência médica (EMS) atenderam a uma ocorrência de uma “mulher inconsciente”, posteriormente identificada como Panettiere em uma residência em Greenville, na Carolina do Sul. Em maio deste ano ela havia lançado \"This Is Me: A Reckoning\" (Esta Sou Eu: O Acerto de Contas), uma autobiografia onde ela abordava de forma aberta seus principais traumas. A atriz…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/cultura/policia-investiga-possivel-conduta-criminosa-em-morte-de-hayden-panettiere/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/08/19/caso-hayden-panettiere-policia-investiga-se-houve-conduta-criminosa-em-morte-de-atriz-diz-site.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-19T19:34:36.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/GettyImages-631036650.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "82d99c8d8d05568e",
+        "slug": "6ae2fb67e284472f",
+        "titulo": "Atriz Laura Cardoso morre aos 98 anos",
+        "resumo": "A atriz Laura Cardoso, pioneira da televisão brasileira, faleceu na noite de segunda-feira (17 de agosto) aos 98 anos. A notícia foi divulgada em seu perfil oficial no Instagram, administrado pelo bisneto, e confirmada pelos familiares. A morte gerou homenagens de amigos e celebridades nas redes sociais, destacando sua importância na dramaturgia nacional. Seu último papel no cinema estreou no ano anterior ao falecimento.",
+        "porQueImporta": "Laura Cardoso foi uma referência fundamental na história da televisão e dramaturgia brasileiras, influenciando gerações de artistas.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/cultura/homenagem-com-ia-a-laura-cardoso-e-gloria-menezes-coloca-a-globo-na-berlinda/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/08/18/lula-decreto-luto-oficial-de-tres-dias-pelas-mortes-de-laura-cardoso-e-gloria-menezes.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-19T18:04:02.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/Sem-titulo.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "91a0fb9b2309ca2d",
         "slug": "c2f8163300eaa826",
         "titulo": "Glória Menezes morre aos 91 anos",
         "resumo": "A atriz Glória Menezes, nascida em 19 de outubro de 1934 em Pelotas, faleceu no Rio de Janeiro em 18 de agosto de 2024, aos 91 anos, por causas naturais. Ela teve uma carreira de mais de seis décadas, atuando em mais de 40 novelas da Globo, além de destaque no teatro e no cinema. Menezes era casada com o ator Tarcísio Meira há 59 anos, e ambos foram internados juntos com Covid-19 em 2021. A morte foi lamentada por colegas e celebridades, que destacaram seu legado na dramaturgia brasileira.",
@@ -889,6 +1317,22 @@
         ],
         "updatedAt": "2026-08-19T13:52:50.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/xGNheI87ZEai6PfE-jCD6ImGyEU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/t/3tYcn2R9eCUaBLYHM8eg/globo-canal-4-20260818-2000-frame-163813.jpeg"
+      },
+      {
+        "clusterId": "96ec2ac402b2c740",
+        "slug": "0d51596e9daa9a8d",
+        "titulo": "Normani, Anitta, Luísa Sonza e mais: veja line-up do festival Meli Music 2026",
+        "resumo": "Normani, Anitta e Luísa Sonza estão entre atrações do Meli Music 2026 Divulgação As cantoras Normani (ex-Fifth Harmony) e Luísa Sonza foram anunciadas no festival Meli Music nesta quarta (19). O evento será na Arena Pacaembu, em São Paulo, no dia 17 de outubro. Os ingressos estão disponíveis pela Sympla. Veja, abaixo, o line-up completo: Anitta Normani Pedro Sampaio Luísa Sonza Gloria Groove VEJA VÍDEO: Por dentro da ‘Equilibrivm Tour’, a nova turnê de Anitta Por dentro da ‘Equilibrivm Tour’, a nova turnê de Anitta",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/08/19/normani-anitta-luisa-sonza-e-mais-veja-line-up-do-festival-meli-music.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-19T17:39:01.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/aVFAr7cDQracveXxwmsKo_-A4Q8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/x/BWzJqfSOm3Yl6ETlHFyw/normanianittasonza.jpg"
       },
       {
         "clusterId": "8f52529e810f5c82",
@@ -953,54 +1397,6 @@
         ],
         "updatedAt": "2026-08-19T06:00:08.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/NuqefuOqGOkf_jxcjzg1hePprB8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/E/pXsgZ2SaOjL9toe2f47Q/captura-de-tela-2026-08-18-123310.jpg"
-      },
-      {
-        "clusterId": "ba75f031f032ce79",
-        "slug": "86348c40a5be34f1",
-        "titulo": "Além de Carlos Cesare, quem foram os outros Pablos de 'Qual é a música?', e onde eles estão hoje? Conheça",
-        "resumo": "Quem são os Pablos? Além de Carlos Cesare, 4 atores fizeram o papel no 'Qual é a Música'; conheça Reprodução O ator Carlos Cesare, que foi Pablo de 'Qual é a música?', do SBT, morreu nesta terça-feira (18) aos 60 anos em São José dos Campos. No entanto, Cesare não foi o único a interpretar o dublador; ao todo cinco atores ocuparam esse posto ao longo dos anos. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia Cesare deu vida ao personagem que revelava as músicas do programa entre 1986 e 1990. Cesare começou no teatro em 1986, atuando como Palhaço Cotonete. No mesmo ano,…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/08/19/alem-de-carlos-cesare-quem-foram-os-outros-pablos-de-qual-e-a-musica-e-onde-eles-estao-hoje-conheca.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-19T03:00:55.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/_dGQUG2JiFa1I1D2bpYyb6Nyt2g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/T/vbrc5sR82Bnw6zuNt0BQ/meow-meow-meow-meow-39-.png"
-      },
-      {
-        "clusterId": "2451cddab4753fe4",
-        "slug": "9e6f532e8ab85aca",
-        "titulo": "Adriana Calcanhotto, Arnaldo Antunes, Carlinhos Brown, Marisa Monte e Nando Reis ganham as vozes do coletivo Lado Alado no álbum 'Pelo tempo que durar'",
-        "resumo": "Adriana Calcanhotto, Arnaldo Antunes, Carlinhos Brown, Marisa Monte e Nando Reis são retratados em arte de Manu Santos na capa do álbum 'Pelo tempo que durar', do coletivo Lado Alado Arte de Manu Santos ♫ NOTÍCIA ♬ Parceria de Adriana Calcanhotto com Marisa Monte apresentada por Marisa no álbum “Infinito particular” (2006), a canção “Pelo tempo que durar” ganha bonito registro de Manu Santos – com contracanto de Fabiano Bianco – 20 anos após a gravação original de Marisa Monte. “Pelo tempo que durar” é a música que dá nome ao sexto álbum do coletivo Lado Alado. Sob direção musical de Luiz…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/18/adriana-calcanhotto-arnaldo-antunes-carlinhos-brown-marisa-monte-e-nando-reis-ganham-as-vozes-do-coletivo-lado-alado-no-album-pelo-tempo-que-durar.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-19T01:45:39.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/TdqeIbm-HyJ0ckP86nn2VSrhG4A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/z/kAB7aZTCauPUnZZaQuGA/pelotempoqu-durar.png"
-      },
-      {
-        "clusterId": "f934badc3bf473d8",
-        "slug": "97731ecfc4e7c861",
-        "titulo": "Alaíde Costa batiza álbum de músicas inéditas com o nome de parceria de Guilherme Arantes com Nando Reis",
-        "resumo": "Alaíde Costa lança o álbum 'Meu vício na dor de amar demais' em novembro, perto de completar 91 anos Divulgação ♫ NOTÍCIA ♬ “Meu vício na dor de amar demais” é o título do álbum que Alaíde Costa gravou ao longo deste ano de 2026. Dramático, como tantas músicas do repertório da cantora de 90 anos, o título “Meu vício na dor de amar demais” reproduz o nome da composição feita por Guilherme Arantes em parceria com Nando Reis para o álbum que tem lançamento previsto para novembro e que fecha a trilogia idealizada para Alaíde por Marcus Preto e Emicida. “Meu vício na dor de amar demais” sucede os…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/18/alaide-costa-batiza-album-de-musicas-ineditas-com-o-nome-de-parceria-de-guilherme-arantes-com-nando-reis.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-18T21:25:40.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/kEnMuZq8jGCccFDDI7BUXljwkNI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/t/t/ZBYTLPSBqIkcJVTaZ5Dg/alaidecostadivulga.jpg"
       }
     ]
   }
