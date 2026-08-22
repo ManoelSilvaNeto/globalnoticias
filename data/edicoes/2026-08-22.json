@@ -1,70 +1,66 @@
 {
   "date": "2026-08-22",
-  "generatedAt": "2026-08-22T04:32:58.722Z",
+  "generatedAt": "2026-08-22T08:30:04.983Z",
   "home": [
     {
-      "clusterId": "0145e1f496c02a8f",
-      "slug": "d0715a6200683232",
-      "titulo": "Datafolha mostra disputas acirradas nas eleições para o Senado em vários estados",
-      "resumo": "Em Pernambuco, quatro candidatos estão tecnicamente empatados na liderança, com 15% a 11% de intenção de voto. Em Minas Gerais, Marília Campos lidera com 11%, seguida por Carlos Viana (8%) e Domingos Sávio (6%). No Distrito Federal, Michelle Bolsonaro e Leila do Vôlei aparecem na frente, com 19% e 16%, enquanto 67% dos eleitores permanecem indecisos. Em São Paulo, Marina Silva, Simone Tebet e André do Prado estão empatados em torno de 12% cada, com 84% dos entrevistados ainda sem decisão.",
-      "porQueImporta": "Os resultados refletem a alta competitividade e a grande parcela de eleitores indecisos nas próximas eleições para o Senado.",
+      "clusterId": "af0a422bece1b77f",
+      "slug": "557bff6e096005e6",
+      "titulo": "Datafolha mostra Lula com 39% no 1º turno e 47% no 2º turno",
+      "resumo": "A pesquisa Datafolha, encomendada pela Globo e Folha de S.Paulo, indica que Lula (PT) lidera o 1º turno com 39% das intenções de voto, seguido por Flávio Bolsonaro (PL) com 33%. No cenário de 2º turno, Lula teria 47% contra 43% de Bolsonaro, com margem de erro de dois pontos percentuais. Cerca de 72% dos eleitores afirmam estar decididos, enquanto 27% ainda podem mudar a escolha.",
+      "porQueImporta": "Os resultados refletem a posição atual dos candidatos e a probabilidade de Lula vencer o 2º turno.",
       "category": "politica",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/pesquisa-datafolha-mostra-como-esta-a-disputa-ao-senado-no-segundo-maior-colegio-eleitoral-do-brasil/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-disputa-para-o-senado-em-pe-tem-empate-entre-4-candidatos/"
+          "name": "G1",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/21/datafolha-lula-39percent-flavio-bolsonaro-33percent-ronaldo-caiado-5percent-renan-santos-4percent-zema-3percent-augusto-cury-2percent.ghtml"
         },
         {
           "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/datafolha-marina-e-tebet-tem-12-e-andre-do-prado-10-na-disputa-ao-senado-por-sp/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/datafolha-saiba-as-intencoes-de-voto-para-o-senado-em-sao-paulo-rio-minas-pernambuco-e-df/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/08/21/datafolha-pe-senado-21-agosto.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-22T01:56:18.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/Design-sem-nome-3.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "e43508c558324f04",
-      "slug": "1ee79da7b2fdf12d",
-      "titulo": "Datafolha mostra Tarcísio de Freitas com alta aprovação e liderança nas intenções de voto",
-      "resumo": "A pesquisa Datafolha, realizada entre 18 e 21 de agosto com 1.610 eleitores paulistas, indica que 60% aprovam o governo de Tarcísio de Freitas, enquanto 42% o avaliam como ótimo ou bom e 23% como ruim ou péssimo. Em relação às intenções de voto, Tarcísio lidera com 45%, seguido por Fernando Haddad com 27%. A margem de erro é de 2 pontos percentuais.",
-      "porQueImporta": "Os resultados refletem a forte posição de Tarcísio na corrida pelo governo de São Paulo e a percepção positiva de sua gestão entre os eleitores.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-60-dos-eleitores-paulistas-aprovam-governo-tarcisio/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/21/datafolha-42percent-aprovam-e-23percent-desaprovam-gestao-tarcisio-em-sp.ghtml"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/tarcisio-lidera-disputa-para-o-governo-de-sao-paulo-com-45-diz-datafolha/"
+          "url": "https://www.infomoney.com.br/politica/datafolha-2o-turno-lula-vence-caiado-por-47-a-40-zema-por-48-a-38/"
         },
         {
           "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/tarcisio-x-haddad-os-numeros-da-ultima-pesquisa-datafolha-para-o-governo-de-sao-paulo/"
+          "url": "https://veja.abril.com.br/politica/os-novos-numeros-do-datafolha-sobre-a-disputa-entre-lula-e-flavio-bolsonaro/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/datafolha-mostra-com-47-no-2o-turno-contra-43-de-flavio-bolsonaro/"
         },
         {
           "name": "Exame",
-          "url": "https://exame.com/brasil/eleicoes-2026-tarcisio-chega-a-45-contra-27-de-haddad-no-1o-turno-em-sp-diz-datafolha/"
+          "url": "https://exame.com/brasil/eleicoes-2026-lula-tem-39-no-1o-turno-e-flavio-marca-33-diz-datafolha/"
         }
       ],
-      "updatedAt": "2026-08-21T23:15:52.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/JViT091CjSkBTJeiGktOkEwi7Og=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/R/kidr1PTZAbGWIi2wdjbA/whatsapp-image-2026-08-20-at-11.09.20.jpeg"
+      "updatedAt": "2026-08-22T01:43:11.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/eT1yJQFADoPVxhOWF3uZi00BkNc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/H/aGg0UGRaKpu8z1OyIdpw/globo-canal-4-20260821-2000-frame-119070.jpeg"
+    },
+    {
+      "clusterId": "abca44116cab8e06",
+      "slug": "c0e6f7d5e296bfef",
+      "titulo": "Trump e Lula conversam sobre eleições e tarifas ao Brasil",
+      "resumo": "O presidente dos EUA, Donald Trump, ligou para Luiz Inácio Lula Silva para questionar sobre as eleições brasileiras, às quais Lula respondeu que o processo é confiável. Em outra ligação, Trump reconheceu que a tarifa sobre produtos brasileiros era incorreta, admitindo que a base de trabalho escravo e desmatamento estava errada. Lula também sugeriu aos EUA que trabalhassem juntos no combate ao crime organizado, enquanto criticava a classificação de grupos criminosos como terroristas. As conversas duraram mais de uma hora e foram consideradas informais.",
+      "porQueImporta": "Essas trocas mostram a interação diplomática entre os dois países sobre temas eleitorais, comerciais e de segurança interna.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/igor-gadelha/trump-diz-a-lula-que-eua-nao-vao-se-envolver-nas-eleicoes-no-brasil"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-governo/lula-diz-que-trump-reconheceu-erro-em-tarifa-ao-brasil/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/trump-reconheceu-que-tarifaco-contra-o-brasil-e-incorreto-diz-lula/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/21/lula-diz-ter-sugerido-a-trump-para-combaterem-juntos-o-crime-organizado-e-que-taxacao-a-produtos-brasileiros-foi-feita-com-base-em-mentira.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-22T08:00:12.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/05/lula-e-trump-em-foto-oficial-na-casa-branca.jpg"
     },
     {
       "clusterId": "6e1692ef0c9cefb3",
@@ -95,60 +91,32 @@
       "imageUrl": "https://s2-g1.glbimg.com/_5imgCjjoD0HsulGyJYPiPHFf8Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/z/vUatkYRte2rWqPsYsydw/fotojet-2026-08-03t073942.252.jpg"
     },
     {
-      "clusterId": "21ad900bff1af0a0",
-      "slug": "4a909b8d3363515f",
-      "titulo": "Datafolha mostra Michelle Bolsonaro liderando corrida ao Senado no DF",
-      "resumo": "A pesquisa espontânea da Datafolha, realizada entre 18 e 21 de agosto, revelou que 67% dos eleitores do Distrito Federal ainda estão indecisos. Na pesquisa estimulada, Michelle Bolsonaro (PL) lidera com 19% dos votos, seguida de Leila do Vôlei (PDT) com 16%, Erika Kokay (PT) com 12% e Bia Kicis (PSOL) com 11%. A margem de erro é de 3 pontos percentuais e o intervalo de confiança é de 95%.",
-      "porQueImporta": "Os resultados indicam a posição inicial dos candidatos e a alta indecisão, fatores críticos para a estratégia de campanha antes das eleições de outubro.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/datafolha-o-desempenho-de-michelle-bolsonaro-na-corrida-pelo-senado-no-df/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-michelle-e-leila-do-volei-lideram-corrida-ao-senado-no-df/"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/datafolha-michelle-bolsonaro-lidera-disputa-e-tem-19-na-disputa-pelo-senado-no-df/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/08/21/datafolha-df-senador-21-agosto.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-22T01:49:32.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/53700847761_c7d0c5e093_c.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "d41d985ca5f98b40",
-      "slug": "be17c55a495b4b80",
-      "titulo": "Flávio Bolsonaro responde a questionamentos sobre Dark Horse e imóvel em Angra",
-      "resumo": "O senador Flávio Bolsonaro afirmou ter prestado contas dos gastos com o documentário Dark Horse, respondendo às solicitações do PT. Ele também foi citado em investigações sobre um imóvel em Angra, onde o senador teria sido mencionado em documentos. O líder do governo Lula acionou a Polícia Federal e a Procuradoria-Geral do Estado para obter informações sobre o caso. A investigação envolve a análise de despesas públicas e possíveis irregularidades.",
-      "porQueImporta": "A situação pode afetar a imagem de Flávio Bolsonaro e levantar questões sobre a transparência de gastos públicos.",
+      "clusterId": "443e8657ab3cedd9",
+      "slug": "ab07671b815a3479",
+      "titulo": "Lula conversa com Trump sobre tarifas e combate ao crime organizado",
+      "resumo": "O presidente Luiz Inácio Lula da Silva ligou para Donald Trump em uma chamada de cerca de 1 hora e 20 minutos, na qual discutiram as tarifas impostas pelos Estados Unidos sobre produtos brasileiros e o combate ao crime organizado. Lula afirmou que as alegações norte-americanas para a imposição das tarifas são infundadas e que o Brasil não precisa de classificação internacional para combater lideranças do crime organizado. Trump sugeriu a retomada das negociações comerciais. A conversa foi descrita pelo Palácio do Planalto como amistosa e cordial.",
+      "porQueImporta": "A discussão pode influenciar a relação comercial entre Brasil e Estados Unidos e a política interna de combate ao crime organizado.",
       "category": "politica",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/o-peso-do-eleitorado-jovem-na-disputa-lula-x-flavio-segundo-pesquisa/"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/telefonema-de-lula-com-trump-esvazia-discurso-de-flavio-avalia-planalto/"
         },
         {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/datafolha-mostra-com-47-no-2o-turno-contra-43-de-flavio-bolsonaro/"
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/c20eql73w4do?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-segundo-turno-21-agosto.ghtml"
+          "url": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/08/21/ministro-brasileiro-e-americano-reabrem-conversas-apos-telefonema-de-lula-e-trump.ghtml"
         },
         {
           "name": "Exame",
-          "url": "https://exame.com/brasil/eleicoes-2026-lula-tem-39-no-1o-turno-e-flavio-marca-33-diz-datafolha/"
+          "url": "https://exame.com/brasil/trump-elogia-lula-e-deixa-portas-abertas-para-conversa-a-qualquer-momento/"
         }
       ],
-      "updatedAt": "2026-08-22T00:53:41.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/lula-flavio-bolsonaro-11.jpg?quality=70&strip=info"
+      "updatedAt": "2026-08-22T01:12:06.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5dfe/live/d8803200-9d84-11f1-a291-b542ee92de7c.png"
     },
     {
       "clusterId": "1b5e9965a54aad29",
@@ -179,6 +147,34 @@
       "imageUrl": "https://s2-g1.glbimg.com/Q-3KihFrJ9-g7sTuWM_6_FtUMYU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/D/3D9xP4SXO9tFR0akI2Gw/raquel.jpeg"
     },
     {
+      "clusterId": "4fedfa1e94bd1241",
+      "slug": "1ee79da7b2fdf12d",
+      "titulo": "Datafolha mostra Tarcísio de Freitas com alta aprovação e liderança nas intenções de voto",
+      "resumo": "A pesquisa Datafolha, realizada entre 18 e 21 de agosto com 1.610 eleitores paulistas, indica que 60% aprovam o governo de Tarcísio de Freitas, enquanto 42% o avaliam como ótimo ou bom e 23% como ruim ou péssimo. Em relação às intenções de voto, Tarcísio lidera com 45%, seguido por Fernando Haddad com 27%. A margem de erro é de 2 pontos percentuais.",
+      "porQueImporta": "Os resultados refletem a forte posição de Tarcísio na corrida pelo governo de São Paulo e a percepção positiva de sua gestão entre os eleitores.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/21/datafolha-42percent-aprovam-e-23percent-desaprovam-gestao-tarcisio-em-sp.ghtml"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/tarcisio-lidera-disputa-para-o-governo-de-sao-paulo-com-45-diz-datafolha/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/tarcisio-x-haddad-os-numeros-da-ultima-pesquisa-datafolha-para-o-governo-de-sao-paulo/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/eleicoes-2026-tarcisio-chega-a-45-contra-27-de-haddad-no-1o-turno-em-sp-diz-datafolha/"
+        }
+      ],
+      "updatedAt": "2026-08-21T22:26:42.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/JViT091CjSkBTJeiGktOkEwi7Og=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/R/kidr1PTZAbGWIi2wdjbA/whatsapp-image-2026-08-20-at-11.09.20.jpeg"
+    },
+    {
       "clusterId": "c4feedeb95ba9615",
       "slug": "7de98a1268501f49",
       "titulo": "Datafolha mostra Cleitinho liderando corrida pelo governo de Minas Gerais",
@@ -207,171 +203,167 @@
       "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/07/cleitinho-foto-ton-molina-agencia-senado.jpg"
     },
     {
-      "clusterId": "a6453a7f7f0e7af8",
-      "slug": "bc4d7ea2d48645ba",
-      "titulo": "Ataque russo a shopping em Kryvyi Rih causa mortes e feridos",
-      "resumo": "Drones russos atacaram um shopping na cidade de Kryvyi Rih, no leste da Ucrânia, resultando em 16 mortes e cerca de 130 feridos, incluindo 13 crianças. O ataque também deixou pessoas desaparecidas. A cidade, natal de Zelensky, tem sido alvo frequente de ataques russos apesar de estar a cerca de 60 km da linha de frente.",
-      "porQueImporta": "O incidente destaca a continuidade dos ataques a civis em áreas próximas à fronteira, evidenciando a escalada de violência na região.",
-      "category": "mundo",
+      "clusterId": "9386a7bf6f04b040",
+      "slug": "37c5ae791841677e",
+      "titulo": "Fluminense enfrenta Remo no Maracanã na 24ª rodada do Brasileirão",
+      "resumo": "O jogo entre Fluminense e Remo está marcado para sábado, 22, no Estádio do Maracanã, com início previsto às 16h30 (horário de Brasília). A partida será transmitida exclusivamente pelo Premiere. O Fluminense, em quarto lugar, chega ao confronto com 38 pontos, enquanto o Remo busca melhorar sua posição na tabela.",
+      "porQueImporta": "O duelo pode influenciar a posição do Fluminense na tabela e definir a trajetória da equipe na temporada.",
+      "category": "esportes",
       "sources": [
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/ucrania-confirma-16-mortos-em-ataque-russo-a-shopping-no-pais"
-        },
-        {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/video-socorristas-vasculham-destrocos-apos-ataque-a-shopping-na-ucrania/"
+          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/fluminense-x-remo-horario-e-onde-assistir-ao-jogo-do-brasileirao/"
         },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/21/drones-da-russia-atacam-shopping-na-ucrania-e-deixam-mortos.ghtml"
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/08/22/internet-e-redes-sociais/fluminense-x-remo-onde-assistir-horario-e-escalacao-do-jogo-do-brasileirao/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/noticia/2026/08/22/brasileirao-2026-veja-onde-assistir-ao-vivo-aos-jogos-da-24a-rodada.ghtml"
         }
       ],
-      "updatedAt": "2026-08-22T03:37:48.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/08/hqquv2rwsaaepyy-3x2-1.jpg"
+      "updatedAt": "2026-08-22T08:00:43.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/6mxDy56CETOBj5EW5tdKU2SWTGc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/f/p/fY2Bi6QZmSBalLmY9u4A/serie-a.jpg"
     },
     {
-      "clusterId": "ebd0e7b567e2fb53",
-      "slug": "3c257b0cdec07a42",
-      "titulo": "Trump reconheceu que tarifaço contra o Brasil é “incorreto”, diz Lula",
-      "resumo": "Presidente brasileiro declarou que o mandatário americano admitiu que basear sobretaxa em trabalho escravo e desmatamento é incorreto",
-      "porQueImporta": "",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-governo/lula-diz-que-trump-reconheceu-erro-em-tarifa-ao-brasil/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/trump-reconheceu-que-tarifaco-contra-o-brasil-e-incorreto-diz-lula/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/minas-gerais/lula-revela-o-que-conversou-com-trump-nao-queremos-interferencia-no-brasil"
-        }
-      ],
-      "updatedAt": "2026-08-22T02:15:44.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/08/lula-bh-4.jpg"
-    },
-    {
-      "clusterId": "809fefb36a74d2f0",
-      "slug": "00b166a7e084bba2",
-      "titulo": "Lula sugere encontro entre Trump, Xi e Putin para discutir conflitos",
-      "resumo": "O presidente Luiz Inácio Lula da Silva afirmou ter sugerido a Donald Trump que convide Xi Jinping e Vladimir Putin para uma reunião em sua mansão na Flórida, com o objetivo de buscar soluções para conflitos internacionais. Lula mencionou que a reunião poderia ocorrer em setembro, durante a reunião da ONU, e que os líderes deveriam se reunir em um ambiente descontraído para discutir questões de guerra. A proposta inclui a ideia de que os líderes tomem um trago juntos para facilitar o diálogo.",
-      "porQueImporta": "A iniciativa pode influenciar a dinâmica de negociações internacionais e a busca por soluções diplomáticas em conflitos globais.",
+      "clusterId": "911048edea0818a0",
+      "slug": "ce44cb26ff893263",
+      "titulo": "Irã autoriza passagem de petroleiros iraquianos pelo Estreito de Ormuz",
+      "resumo": "O Irã concedeu permissão para que petroleiros do Iraque transitem pelo Estreito de Ormuz após repetidos pedidos de Bagdá. Enquanto isso, países produtores de petróleo do Golfo, como Arábia Saudita, Emirados Árabes Unidos, Kuwait e Iraque, estão acelerando projetos de oleodutos, terminais e áreas de armazenamento para reduzir a dependência da rota estreito. Os investimentos em infraestrutura devem custar bilhões de dólares e levar anos para serem concluídos.",
+      "porQueImporta": "A decisão reflete a busca por segurança e autonomia na exportação de petróleo na região.",
       "category": "geral",
       "sources": [
         {
+          "name": "G1",
+          "url": "https://g1.globo.com/economia/noticia/2026/08/22/guerra-no-ira-faz-paises-do-golfo-acelerarem-planos-para-driblar-estreito-de-ormuz.ghtml"
+        },
+        {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/minas-gerais/lula-diz-que-sugeriu-a-trump-tomar-um-trago-com-xi-e-putin"
+          "url": "https://www.metropoles.com/mundo/ira-permite-passagem-de-petroleiros-iraquianos-pelo-estreito-de-ormuz"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/lula-diz-que-aconselhou-trump-a-chamar-xi-jinping-e-putin-para-um-encontro/"
+          "url": "https://www.cnnbrasil.com.br/internacional/ira-autoriza-passagem-de-petroleiros-do-iraque-pelo-estreito-de-ormuz/"
+        }
+      ],
+      "updatedAt": "2026-08-22T08:00:42.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/zsmfODQH5bmwVuFzpBJBlU2RTMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/U/IueoH0RuiQRx5MJuKhcw/2026-08-17t134126z-1571278001-rc2c0naakvh3-rtrmadp-3-iran-crisis-oman-hormuz.jpg"
+    },
+    {
+      "clusterId": "a9717e1aa492f7c0",
+      "slug": "78c8527e78707aab",
+      "titulo": "Roberta Luchsinger, lobista, indica chefe do Porto de Santos e explica modus operandi",
+      "resumo": "Roberta Luchsinger, lobista, afirmou ter indicado o chefe do Porto de Santos e detalhou como abre portas na administração pública. A indicação gerou questionamentos sobre sua relação com o governo e a legitimidade de suas ações. O caso envolve disputas internas no PT e no governo Lula, com foco em quem deve responder pela atuação da lobista. A situação tem repercussão política e pode afetar a campanha de Lula.",
+      "porQueImporta": "O episódio destaca possíveis conflitos de interesse e a influência de lobistas nas decisões governamentais.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/inqueritos-sobre-lulinha-e-master-so-devem-ser-concluidos-apos-eleicoes/"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cqjx5zp427go?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/lula-diz-que-sugeriu-a-trump-reunir-xi-e-putin-em-seu-resort-na-florida-para-buscar-saida-para-conflitos.ghtml"
+          "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/21/mendonca-tende-a-manter-no-stf-inqueritos-sobre-lulinha.ghtml"
         }
       ],
-      "updatedAt": "2026-08-22T01:34:41.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/08/lula-foto-bh.jpg"
+      "updatedAt": "2026-08-22T07:12:40.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0fad/live/c732c380-9ce6-11f1-a291-b542ee92de7c.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "0145e1f496c02a8f",
-        "slug": "d0715a6200683232",
-        "titulo": "Datafolha mostra disputas acirradas nas eleições para o Senado em vários estados",
-        "resumo": "Em Pernambuco, quatro candidatos estão tecnicamente empatados na liderança, com 15% a 11% de intenção de voto. Em Minas Gerais, Marília Campos lidera com 11%, seguida por Carlos Viana (8%) e Domingos Sávio (6%). No Distrito Federal, Michelle Bolsonaro e Leila do Vôlei aparecem na frente, com 19% e 16%, enquanto 67% dos eleitores permanecem indecisos. Em São Paulo, Marina Silva, Simone Tebet e André do Prado estão empatados em torno de 12% cada, com 84% dos entrevistados ainda sem decisão.",
-        "porQueImporta": "Os resultados refletem a alta competitividade e a grande parcela de eleitores indecisos nas próximas eleições para o Senado.",
+        "clusterId": "af0a422bece1b77f",
+        "slug": "557bff6e096005e6",
+        "titulo": "Datafolha mostra Lula com 39% no 1º turno e 47% no 2º turno",
+        "resumo": "A pesquisa Datafolha, encomendada pela Globo e Folha de S.Paulo, indica que Lula (PT) lidera o 1º turno com 39% das intenções de voto, seguido por Flávio Bolsonaro (PL) com 33%. No cenário de 2º turno, Lula teria 47% contra 43% de Bolsonaro, com margem de erro de dois pontos percentuais. Cerca de 72% dos eleitores afirmam estar decididos, enquanto 27% ainda podem mudar a escolha.",
+        "porQueImporta": "Os resultados refletem a posição atual dos candidatos e a probabilidade de Lula vencer o 2º turno.",
         "category": "politica",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/pesquisa-datafolha-mostra-como-esta-a-disputa-ao-senado-no-segundo-maior-colegio-eleitoral-do-brasil/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-disputa-para-o-senado-em-pe-tem-empate-entre-4-candidatos/"
+            "name": "G1",
+            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/21/datafolha-lula-39percent-flavio-bolsonaro-33percent-ronaldo-caiado-5percent-renan-santos-4percent-zema-3percent-augusto-cury-2percent.ghtml"
           },
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/datafolha-marina-e-tebet-tem-12-e-andre-do-prado-10-na-disputa-ao-senado-por-sp/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/datafolha-saiba-as-intencoes-de-voto-para-o-senado-em-sao-paulo-rio-minas-pernambuco-e-df/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/08/21/datafolha-pe-senado-21-agosto.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-22T01:56:18.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/Design-sem-nome-3.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "e43508c558324f04",
-        "slug": "1ee79da7b2fdf12d",
-        "titulo": "Datafolha mostra Tarcísio de Freitas com alta aprovação e liderança nas intenções de voto",
-        "resumo": "A pesquisa Datafolha, realizada entre 18 e 21 de agosto com 1.610 eleitores paulistas, indica que 60% aprovam o governo de Tarcísio de Freitas, enquanto 42% o avaliam como ótimo ou bom e 23% como ruim ou péssimo. Em relação às intenções de voto, Tarcísio lidera com 45%, seguido por Fernando Haddad com 27%. A margem de erro é de 2 pontos percentuais.",
-        "porQueImporta": "Os resultados refletem a forte posição de Tarcísio na corrida pelo governo de São Paulo e a percepção positiva de sua gestão entre os eleitores.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-60-dos-eleitores-paulistas-aprovam-governo-tarcisio/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/21/datafolha-42percent-aprovam-e-23percent-desaprovam-gestao-tarcisio-em-sp.ghtml"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/tarcisio-lidera-disputa-para-o-governo-de-sao-paulo-com-45-diz-datafolha/"
+            "url": "https://www.infomoney.com.br/politica/datafolha-2o-turno-lula-vence-caiado-por-47-a-40-zema-por-48-a-38/"
           },
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/brasil/tarcisio-x-haddad-os-numeros-da-ultima-pesquisa-datafolha-para-o-governo-de-sao-paulo/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/eleicoes-2026-tarcisio-chega-a-45-contra-27-de-haddad-no-1o-turno-em-sp-diz-datafolha/"
-          }
-        ],
-        "updatedAt": "2026-08-21T23:15:52.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/JViT091CjSkBTJeiGktOkEwi7Og=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/R/kidr1PTZAbGWIi2wdjbA/whatsapp-image-2026-08-20-at-11.09.20.jpeg"
-      },
-      {
-        "clusterId": "d41d985ca5f98b40",
-        "slug": "be17c55a495b4b80",
-        "titulo": "Flávio Bolsonaro responde a questionamentos sobre Dark Horse e imóvel em Angra",
-        "resumo": "O senador Flávio Bolsonaro afirmou ter prestado contas dos gastos com o documentário Dark Horse, respondendo às solicitações do PT. Ele também foi citado em investigações sobre um imóvel em Angra, onde o senador teria sido mencionado em documentos. O líder do governo Lula acionou a Polícia Federal e a Procuradoria-Geral do Estado para obter informações sobre o caso. A investigação envolve a análise de despesas públicas e possíveis irregularidades.",
-        "porQueImporta": "A situação pode afetar a imagem de Flávio Bolsonaro e levantar questões sobre a transparência de gastos públicos.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/o-peso-do-eleitorado-jovem-na-disputa-lula-x-flavio-segundo-pesquisa/"
+            "url": "https://veja.abril.com.br/politica/os-novos-numeros-do-datafolha-sobre-a-disputa-entre-lula-e-flavio-bolsonaro/"
           },
           {
             "name": "CartaCapital",
             "url": "https://www.cartacapital.com.br/politica/datafolha-mostra-com-47-no-2o-turno-contra-43-de-flavio-bolsonaro/"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-segundo-turno-21-agosto.ghtml"
-          },
-          {
             "name": "Exame",
             "url": "https://exame.com/brasil/eleicoes-2026-lula-tem-39-no-1o-turno-e-flavio-marca-33-diz-datafolha/"
           }
         ],
-        "updatedAt": "2026-08-22T00:53:41.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/lula-flavio-bolsonaro-11.jpg?quality=70&strip=info"
+        "updatedAt": "2026-08-22T01:43:11.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/eT1yJQFADoPVxhOWF3uZi00BkNc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/H/aGg0UGRaKpu8z1OyIdpw/globo-canal-4-20260821-2000-frame-119070.jpeg"
+      },
+      {
+        "clusterId": "abca44116cab8e06",
+        "slug": "c0e6f7d5e296bfef",
+        "titulo": "Trump e Lula conversam sobre eleições e tarifas ao Brasil",
+        "resumo": "O presidente dos EUA, Donald Trump, ligou para Luiz Inácio Lula Silva para questionar sobre as eleições brasileiras, às quais Lula respondeu que o processo é confiável. Em outra ligação, Trump reconheceu que a tarifa sobre produtos brasileiros era incorreta, admitindo que a base de trabalho escravo e desmatamento estava errada. Lula também sugeriu aos EUA que trabalhassem juntos no combate ao crime organizado, enquanto criticava a classificação de grupos criminosos como terroristas. As conversas duraram mais de uma hora e foram consideradas informais.",
+        "porQueImporta": "Essas trocas mostram a interação diplomática entre os dois países sobre temas eleitorais, comerciais e de segurança interna.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/colunas/igor-gadelha/trump-diz-a-lula-que-eua-nao-vao-se-envolver-nas-eleicoes-no-brasil"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-governo/lula-diz-que-trump-reconheceu-erro-em-tarifa-ao-brasil/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/trump-reconheceu-que-tarifaco-contra-o-brasil-e-incorreto-diz-lula/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/21/lula-diz-ter-sugerido-a-trump-para-combaterem-juntos-o-crime-organizado-e-que-taxacao-a-produtos-brasileiros-foi-feita-com-base-em-mentira.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-22T08:00:12.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/05/lula-e-trump-em-foto-oficial-na-casa-branca.jpg"
+      },
+      {
+        "clusterId": "443e8657ab3cedd9",
+        "slug": "ab07671b815a3479",
+        "titulo": "Lula conversa com Trump sobre tarifas e combate ao crime organizado",
+        "resumo": "O presidente Luiz Inácio Lula da Silva ligou para Donald Trump em uma chamada de cerca de 1 hora e 20 minutos, na qual discutiram as tarifas impostas pelos Estados Unidos sobre produtos brasileiros e o combate ao crime organizado. Lula afirmou que as alegações norte-americanas para a imposição das tarifas são infundadas e que o Brasil não precisa de classificação internacional para combater lideranças do crime organizado. Trump sugeriu a retomada das negociações comerciais. A conversa foi descrita pelo Palácio do Planalto como amistosa e cordial.",
+        "porQueImporta": "A discussão pode influenciar a relação comercial entre Brasil e Estados Unidos e a política interna de combate ao crime organizado.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/telefonema-de-lula-com-trump-esvazia-discurso-de-flavio-avalia-planalto/"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c20eql73w4do?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/08/21/ministro-brasileiro-e-americano-reabrem-conversas-apos-telefonema-de-lula-e-trump.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/trump-elogia-lula-e-deixa-portas-abertas-para-conversa-a-qualquer-momento/"
+          }
+        ],
+        "updatedAt": "2026-08-22T01:12:06.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5dfe/live/d8803200-9d84-11f1-a291-b542ee92de7c.png"
       },
       {
         "clusterId": "1b5e9965a54aad29",
@@ -402,6 +394,34 @@
         "imageUrl": "https://s2-g1.glbimg.com/Q-3KihFrJ9-g7sTuWM_6_FtUMYU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/D/3D9xP4SXO9tFR0akI2Gw/raquel.jpeg"
       },
       {
+        "clusterId": "4fedfa1e94bd1241",
+        "slug": "1ee79da7b2fdf12d",
+        "titulo": "Datafolha mostra Tarcísio de Freitas com alta aprovação e liderança nas intenções de voto",
+        "resumo": "A pesquisa Datafolha, realizada entre 18 e 21 de agosto com 1.610 eleitores paulistas, indica que 60% aprovam o governo de Tarcísio de Freitas, enquanto 42% o avaliam como ótimo ou bom e 23% como ruim ou péssimo. Em relação às intenções de voto, Tarcísio lidera com 45%, seguido por Fernando Haddad com 27%. A margem de erro é de 2 pontos percentuais.",
+        "porQueImporta": "Os resultados refletem a forte posição de Tarcísio na corrida pelo governo de São Paulo e a percepção positiva de sua gestão entre os eleitores.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/21/datafolha-42percent-aprovam-e-23percent-desaprovam-gestao-tarcisio-em-sp.ghtml"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/tarcisio-lidera-disputa-para-o-governo-de-sao-paulo-com-45-diz-datafolha/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/brasil/tarcisio-x-haddad-os-numeros-da-ultima-pesquisa-datafolha-para-o-governo-de-sao-paulo/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/eleicoes-2026-tarcisio-chega-a-45-contra-27-de-haddad-no-1o-turno-em-sp-diz-datafolha/"
+          }
+        ],
+        "updatedAt": "2026-08-21T22:26:42.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/JViT091CjSkBTJeiGktOkEwi7Og=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/R/kidr1PTZAbGWIi2wdjbA/whatsapp-image-2026-08-20-at-11.09.20.jpeg"
+      },
+      {
         "clusterId": "c4feedeb95ba9615",
         "slug": "7de98a1268501f49",
         "titulo": "Datafolha mostra Cleitinho liderando corrida pelo governo de Minas Gerais",
@@ -430,35 +450,35 @@
         "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/07/cleitinho-foto-ton-molina-agencia-senado.jpg"
       },
       {
-        "clusterId": "ebd0e7b567e2fb53",
-        "slug": "3c257b0cdec07a42",
-        "titulo": "Trump reconheceu que tarifaço contra o Brasil é “incorreto”, diz Lula",
-        "resumo": "Presidente brasileiro declarou que o mandatário americano admitiu que basear sobretaxa em trabalho escravo e desmatamento é incorreto",
-        "porQueImporta": "",
+        "clusterId": "a9717e1aa492f7c0",
+        "slug": "78c8527e78707aab",
+        "titulo": "Roberta Luchsinger, lobista, indica chefe do Porto de Santos e explica modus operandi",
+        "resumo": "Roberta Luchsinger, lobista, afirmou ter indicado o chefe do Porto de Santos e detalhou como abre portas na administração pública. A indicação gerou questionamentos sobre sua relação com o governo e a legitimidade de suas ações. O caso envolve disputas internas no PT e no governo Lula, com foco em quem deve responder pela atuação da lobista. A situação tem repercussão política e pode afetar a campanha de Lula.",
+        "porQueImporta": "O episódio destaca possíveis conflitos de interesse e a influência de lobistas nas decisões governamentais.",
         "category": "politica",
         "sources": [
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-governo/lula-diz-que-trump-reconheceu-erro-em-tarifa-ao-brasil/"
-          },
-          {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/trump-reconheceu-que-tarifaco-contra-o-brasil-e-incorreto-diz-lula/"
+            "url": "https://www.cnnbrasil.com.br/politica/inqueritos-sobre-lulinha-e-master-so-devem-ser-concluidos-apos-eleicoes/"
           },
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/minas-gerais/lula-revela-o-que-conversou-com-trump-nao-queremos-interferencia-no-brasil"
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cqjx5zp427go?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/21/mendonca-tende-a-manter-no-stf-inqueritos-sobre-lulinha.ghtml"
           }
         ],
-        "updatedAt": "2026-08-22T02:15:44.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/08/lula-bh-4.jpg"
+        "updatedAt": "2026-08-22T07:12:40.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0fad/live/c732c380-9ce6-11f1-a291-b542ee92de7c.jpg"
       },
       {
-        "clusterId": "005c224cdddc5110",
-        "slug": "5ae0717952a9dc0c",
-        "titulo": "Polícia Federal solicita dados da Ancine sobre filme de Bolsonaro",
-        "resumo": "A Polícia Federal pediu à Agência Nacional do Cinema (Ancine) informações sobre o processo administrativo contra a produtora Go Up Entertainment, responsável pelo filme \"Dark Horse\", cinebiografia de Jair Bolsonaro. A Ancine tem 10 dias para entregar os documentos. O pedido surgiu após denúncia de gravação de obra estrangeira no Brasil sem comunicação prévia à agência. Teresa Leitão também solicitou à PGR e à PF esclarecimentos sobre financiamento do filme.",
-        "porQueImporta": "O caso envolve possível uso irregular de recursos públicos e a legalidade da produção cinematográfica no país.",
+        "clusterId": "0e5fee022e2b820b",
+        "slug": "be17c55a495b4b80",
+        "titulo": "Flávio Bolsonaro responde a questionamentos sobre Dark Horse e imóvel em Angra",
+        "resumo": "O senador Flávio Bolsonaro afirmou ter prestado contas dos gastos com o documentário Dark Horse, respondendo às solicitações do PT. Ele também foi citado em investigações sobre um imóvel em Angra, onde o senador teria sido mencionado em documentos. O líder do governo Lula acionou a Polícia Federal e a Procuradoria-Geral do Estado para obter informações sobre o caso. A investigação envolve a análise de despesas públicas e possíveis irregularidades.",
+        "porQueImporta": "A situação pode afetar a imagem de Flávio Bolsonaro e levantar questões sobre a transparência de gastos públicos.",
         "category": "politica",
         "sources": [
           {
@@ -476,26 +496,6 @@
         ],
         "updatedAt": "2026-08-22T00:08:19.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/pem3MkbWK2sEwtX5Vbslxt5efzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/j/WSTjAkRV2KY1xttT0r7Q/dark-horse-jim-caviezel.jpg"
-      },
-      {
-        "clusterId": "d508615a57ceb040",
-        "slug": "56a2726b4061fd22",
-        "titulo": "Dia D de vacinação acontece hoje em todo o país",
-        "resumo": "No sábado, 22 de agosto, ocorre a Campanha Nacional de Multivacinação, aberta a crianças e adolescentes menores de 15 anos. Os participantes devem levar a caderneta de vacinação para que os profissionais verifiquem as doses já recebidas e indiquem as pendentes. A campanha, que começou em 3 de agosto, vai até 1º de setembro, e oferece 20 vacinas, incluindo a nova Pneumo 20. Em Mato Grosso do Sul, a ação também inclui a vacinação contra a gripe em Campo Grande.",
-        "porQueImporta": "Permite que a população jovem atualize seu esquema vacinal, reforçando a imunização coletiva.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/saude/noticia/2026/08/22/dia-d-de-vacinacao-acontece-hoje-em-todo-o-pais-saiba-mais.ghtml"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-saude/ministro-padilha-chama-responsaveis-de-criancas-campanha-de-vacinacao/"
-          }
-        ],
-        "updatedAt": "2026-08-22T03:01:06.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/xNfErPl1utXd_ogaQUmA9Wx1zE0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/x/F/WNAz0nThuLDVK6MvpSuQ/vacinacao-vacina-infantil-crianca-covid-19-uberaba-16-10-2021.jpg"
       }
     ],
     "economia": [
@@ -524,140 +524,150 @@
         "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/03/Avibras.jpg"
       },
       {
-        "clusterId": "fdd629f32c73cd45",
-        "slug": "5659de454252d2e1",
-        "titulo": "Resultado dos concursos de Dupla Sena e Mega‑Sena",
-        "resumo": "No concurso 2999 da Dupla Sena, os números sorteados foram 1‑10‑12‑37‑39‑44 e 10‑15‑18‑19‑46‑49, com 5 acertos premiados em 9 apostas e 4 acertos em 346 apostas. Na Mega‑Sena, o concurso 3.047 sorteou 04‑18‑22‑26‑31‑58; nenhum jogador acertou as seis dezenas, acumulando o prêmio principal para R$ 58 milhões, enquanto 64 apostas ganharam na faixa de 5 acertos e 4.395 na faixa de 4 acertos.",
-        "porQueImporta": "Os resultados informam os valores dos prêmios e a possibilidade de ganhos para os apostadores.",
+        "clusterId": "a146bb0ef6ae6a12",
+        "slug": "fb6ee23bf8794e87",
+        "titulo": "EUA e Irã encerram prazo de negociações enquanto famílias iranianas enfrentam dificuldades econômicas",
+        "resumo": "O prazo para negociações entre os Estados Unidos e o Irã chegou ao fim, com o presidente Trump afirmando que não há perspectiva de diálogo. Enquanto isso, famílias iranianas relatam dificuldades para adquirir itens básicos, com desemprego em alta e salários reduzidos. A pressão econômica dos EUA tem intensificado a crise interna no Irã, apesar das alegações do governo de Teerã de que não há impacto significativo.",
+        "porQueImporta": "A escalada de tensões pode afetar a estabilidade regional e a economia global.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/fim-do-prazo-para-negociacoes-e-ameaca-economica-a-semana-entre-eua-e-ira/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/21/familias-iranianas-lutam-para-comprar-o-basico-enquanto-eua-intensificam-guerra-economica.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-22T08:00:28.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/Hpaum2O1-F9m5Ho-bRyzQ3cEmmY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/K/JTVQwLQk25iBnmQicfkQ/ap26220552236900.jpg"
+      },
+      {
+        "clusterId": "916b9109e995f436",
+        "slug": "85d7c4057b8146a1",
+        "titulo": "Candidatos ao governo do DF e do Tocantins encerram primeira semana de campanha com passeatas e divulgação de propostas",
+        "resumo": "No Distrito Federal, candidatos à governadoria encerraram a primeira semana de campanha com passeatas, críticas ao governo atual e promessas de novas medidas para pessoas em situação de rua. A governadora Celina Leão defendeu a atuação do DF no acolhimento de vulneráveis e anunciou planos futuros caso seja reeleita. No Tocantins, a lista de candidatos ao governo foi divulgada, apresentando as principais propostas, legendas e o cenário da disputa nas eleições de 2026.",
+        "porQueImporta": "Esses eventos ilustram a dinâmica política e as prioridades dos candidatos em dois estados brasileiros antes das eleições de 2026.",
         "category": "economia",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/loterias/dupla-sena/noticia/2026/08/21/dupla-sena-hoje-resultado-do-concurso-2999-e-numeros-sorteados.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-22T02:15:55.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/X16DuSMAT7XrGYuc_FEdoFmGTAQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/l/duQyg2TNKIAYuSrAQXMQ/duplasena-2999-rrjzp.jpeg"
-      },
-      {
-        "clusterId": "b2e2c029b7f8e613",
-        "slug": "85d7c4057b8146a1",
-        "titulo": "Eleições 2026: quem são os candidatos ao governo do Tocantins?",
-        "resumo": "Confira quem são os candidatos ao governo do Tocantins nas Eleições 2026. Conheça as principais propostas de cada postulante, as legendas e o cenário da disputa no estado.",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
+            "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/08/21/eleicoes-no-df-candidatos-fecham-primeira-semana-de-campanha-com-passeatas-e-criticas-ao-governo.ghtml"
+          },
           {
             "name": "Exame",
             "url": "https://exame.com/brasil/eleicoes-2026-quem-sao-os-candidatos-ao-governo-do-tocantins/"
           }
         ],
-        "updatedAt": "2026-08-22T00:40:31.000Z"
+        "updatedAt": "2026-08-22T01:21:41.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/EZdjasXp6rNWDuFgL7mfuMqsaRA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/q/L/qCUjMGTMqAlF1303hAfg/22.8.-palacio-do-buriti.-fotos-de-lucio-bernardo-jr-2.jpg"
       },
       {
-        "clusterId": "9986a1b743d8c504",
-        "slug": "3488ed2a27a257a7",
-        "titulo": "Resultados da Lotofácil e da Quina no dia 21",
-        "resumo": "No concurso 3768 da Lotofácil, o prêmio estimado era de cerca de R$ 2 milhões. O resultado foi divulgado na sexta-feira, 21. No mesmo dia, o concurso 7098 da Quina teve um prêmio estimado de aproximadamente R$ 16 milhões, cujo resultado também foi publicado. Ambas as loterias são realizadas pela Caixa Econômica Federal e atraem grande público.",
-        "porQueImporta": "Os resultados informam os jogadores sobre a possibilidade de ganhos e a distribuição de prêmios.",
+        "clusterId": "8dd41cbe17a6df96",
+        "slug": "24f0ae1925e9eafa",
+        "titulo": "Shein enfrenta dificuldades de crescimento antes de IPO",
+        "resumo": "A marca de fast fashion chinesa Shein, que já foi considerada a grande aposta do setor, está lutando para encontrar novas formas de expandir seus negócios. A empresa enfrenta pressão nos Estados Unidos e na Europa, o que dificulta a preparação para sua oferta pública inicial de ações. A falta de crescimento sustentável tem gerado incertezas sobre o futuro da companhia.",
+        "porQueImporta": "O desempenho da Shein pode influenciar o mercado de varejo global e o interesse de investidores em empresas de fast fashion.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/consumo/lotofacil-hoje-concurso-3768-confira-o-resultado-sorteado-nesta-sexta-feira-21/"
+            "url": "https://www.infomoney.com.br/business/global/shein-foi-a-grande-aposta-do-fast-fashion-agora-luta-para-escrever-novo-capitulo/"
           }
         ],
-        "updatedAt": "2026-08-22T00:07:33.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/10/loteria_lotofacil_Marcelo-Camargo-Agencia-Brasil-e1751562724210.webp?fit=300%2C191&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-22T08:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/SHEIN-OUTLOOK-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "a67238dca373976c",
-        "slug": "affcd73d969d6f8d",
-        "titulo": "Lula mantém posição nas pesquisas apesar de denúncias sobre Lulinha e Marcola",
-        "resumo": "Pesquisas mostram que o presidente Lula continua com apoio sólido, mesmo após surgirem notícias envolvendo Lulinha e Marcola. Analistas atribuem a resistência à polarização política e ao eleitorado consolidado. A situação indica que as denúncias não alteraram significativamente a percepção pública do líder. O cenário reflete a complexidade das dinâmicas eleitorais no país.",
-        "porQueImporta": "A estabilidade do apoio a Lula pode influenciar estratégias políticas e a percepção de legitimidade do governo.",
+        "clusterId": "3b9adebf8db7fc79",
+        "slug": "5273c0e7dd2af6d5",
+        "titulo": "Sentimento de empresários e investidores cai para patamar de pessimismo extremo",
+        "resumo": "Na conferência da XP no Rio, 106 empresas e cerca de 500 investidores expressaram preocupação com a desaceleração da atividade econômica, aumento do endividamento e avanço da inadimplência. O índice de sentimento dos participantes atingiu o nível mais baixo registrado, indicando pessimismo extremo. A reunião destacou a percepção de risco crescente no ambiente de negócios.",
+        "porQueImporta": "O declínio no sentimento empresarial sinaliza potenciais impactos negativos na confiança e nos investimentos no mercado brasileiro.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/efeito-teflon-lula-resiste-nas-pesquisas-apos-noticias-sobre-lulinha-e-marcola/"
+            "url": "https://www.infomoney.com.br/mercados/sentimento-de-empresarios-e-investidores-vai-ao-fundo-do-poco-aponta-xp/"
           }
         ],
-        "updatedAt": "2026-08-21T23:05:02.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes-2026-lula-pt-campanha-sao-bernardo-03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-22T08:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2020/12/PMC_HOME_Charles-de-Moura-PMSJC.jpg?fit=300%2C166&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "846497859e8fe45a",
-        "slug": "72ef77b59544e4cc",
-        "titulo": "Preço do suíno cai para o 3º menor patamar da história em SP",
-        "resumo": "O preço do porco pronto para abate na capital e interior de São Paulo atingiu o menor nível da série histórica, com média de R$ 5,18 o quilo, segundo levantamento do Cepea, da USP. A queda foi impulsionada por sobreoferta de animais e demanda enfraquecida na segunda quinzena de julho de 2026. O cenário ameaça o mercado paulista independente de suínos.",
-        "porQueImporta": "A desvalorização do preço pode afetar a rentabilidade dos produtores e a oferta de carne suína no estado.",
+        "clusterId": "f752b1c304ac5f3a",
+        "slug": "c0703d85d778e3de",
+        "titulo": "Lotofácil da Independência: prêmio de R$ 300 milhões pode render diferentes valores mensais",
+        "resumo": "A simulação do prêmio estimado de R$ 300 milhões do concurso de 15 de setembro mostra que a diferença entre a melhor e a pior aplicação pode chegar a quase R$ 870 mil por mês. A alocação do dinheiro enfrenta limites do Tesouro Direto e do Fundo Garantidor de Créditos (FGC).",
+        "porQueImporta": "Os resultados ajudam os ganhadores a planejar a melhor estratégia de investimento para maximizar o rendimento mensal.",
         "category": "economia",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/21/preco-do-suino-cai-para-o-3o-menor-patamar-da-historia-em-sp-sobreoferta-e-baixa-demanda-analisa-usp.ghtml"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/onde-investir/lotofacil-da-independencia-quanto-premio-pode-render-por-mes/"
           }
         ],
-        "updatedAt": "2026-08-21T21:37:35.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/vw4qnDURkcZI2-nfML9OiSNAFK4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/M/t/UAJiBpTpKdzAUdJLd7EQ/leitao.png"
+        "updatedAt": "2026-08-22T08:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/08/lotofacil-da-independencia.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "52bbaa956fb0bf6a",
-        "slug": "92ac05444871146d",
-        "titulo": "Após retomar conversas com os EUA, prioridade do Brasil é ampliar lista de exceções ao tarifaço, diz ministro",
-        "resumo": "Ministro do Desenvolvimento, Indústria, Comércio e Serviços, Márcio Elias Rosa, durante o programa “Bom Dia, Ministro”, na EBC Júlio César Silva/MDIC O ministro do Desenvolvimento, Indústria e Comércio, Márcio Elias Rosa, disse nesta sexta-feira (21), após conversa com o representante do Escritório de Comércio dos Estados Unidos (USTR, na sigla em inglês), Jamieson Greer, que a prioridade do Brasil é ampliar a lista de exceções ao tarifaço. O representante do USTR ligou para o ministro brasileiro depois da conversa entre os presidentes Luiz Inácio Lula da Silva (PT) e Donald Trump. Na…",
-        "porQueImporta": "",
+        "clusterId": "23f2fda8336ed542",
+        "slug": "62add8d5e8e6d708",
+        "titulo": "Marçal pode bagunçar eleição, mas não ameaça Lula x Flávio",
+        "resumo": "O analista Paulo Gama afirma que o candidato Marçal tem potencial de mobilização e alcance digital, mas que o voto de oposição permanece mais consolidado em torno de Flávio Bolsonaro. Ele destaca que Marçal pode atrapalhar a dinâmica da eleição, mas não representa uma ameaça direta ao confronto entre Lula e Flávio. O impacto de Marçal seria mais sobre a fragmentação do eleitorado do que sobre a vitória de um dos principais candidatos.",
+        "porQueImporta": "A entrada de Marçal pode alterar a dinâmica da disputa presidencial, influenciando a distribuição de votos entre os candidatos principais.",
         "category": "economia",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/21/apos-retomar-conversas-com-os-eua-prioridade-do-brasil-e-ampliar-lista-de-excecoes-ao-tarifaco-diz-ministro.ghtml"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/marcal-pode-baguncar-eleicao-mas-nao-ameaca-lula-x-flavio-diz-analista/"
           }
         ],
-        "updatedAt": "2026-08-21T21:12:57.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/Gz-Gbu5Mxn8J05kPm80caU-IGWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/k/AXxvTPSRy3iBf4jayOcw/55227748493-7951e3623d-o.jpg"
+        "updatedAt": "2026-08-22T08:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-20-225820-1.png?fit=300%2C168&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "aae103d52223b1bb",
-        "slug": "06438b480f4884ac",
-        "titulo": "Câmara de Comércio França-Brasil cria comissão para impulsionar cooperação em minerais críticos",
-        "resumo": "A Câmara de Comércio França-Brasil estabeleceu uma comissão dedicada a fortalecer a cooperação entre os dois países no setor de minerais críticos. A comissão pretende funcionar como uma plataforma permanente de colaboração e, futuramente, expandir sua atuação para outros países da América Latina. O objetivo é facilitar a troca de conhecimento, tecnologia e investimentos nesse segmento estratégico.",
-        "porQueImporta": "A iniciativa pode aumentar a segurança de abastecimento de minerais críticos e impulsionar a indústria de alta tecnologia na região.",
+        "clusterId": "06ff73a2d05a08f4",
+        "slug": "7b678338c739a196",
+        "titulo": "Modelo de combate ao crime de Bukele inspira direita no Brasil",
+        "resumo": "El Salvador adotou regime de exceção em 2022, com policiamento ostensivo e tolerância zero ao crime, resultando em uma das menores taxas de homicídios do mundo. O governo de Nayib Bukele tem sido alvo de críticas por supostas violações de direitos humanos. A estratégia de segurança tem atraído atenção de políticos de direita no Brasil que buscam alternativas para o combate ao crime.",
+        "porQueImporta": "O caso pode influenciar políticas públicas de segurança no Brasil.",
         "category": "economia",
         "sources": [
           {
-            "name": "Exame",
-            "url": "https://exame.com/esferabrasil/camara-de-comercio-franca-brasil-cria-comissao-para-impulsionar-cooperacao-em-minerais-criticos/"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mundo/como-e-o-modelo-de-combate-ao-crime-de-bukele-que-inspira-a-direta-no-brasil/"
           }
         ],
-        "updatedAt": "2026-08-21T20:56:08.000Z"
+        "updatedAt": "2026-08-22T08:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Presos_El-Salvador_Divulgacao_AssembleiaLegislativa2.jpg?fit=300%2C197&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "a6453a7f7f0e7af8",
-        "slug": "bc4d7ea2d48645ba",
-        "titulo": "Ataque russo a shopping em Kryvyi Rih causa mortes e feridos",
-        "resumo": "Drones russos atacaram um shopping na cidade de Kryvyi Rih, no leste da Ucrânia, resultando em 16 mortes e cerca de 130 feridos, incluindo 13 crianças. O ataque também deixou pessoas desaparecidas. A cidade, natal de Zelensky, tem sido alvo frequente de ataques russos apesar de estar a cerca de 60 km da linha de frente.",
-        "porQueImporta": "O incidente destaca a continuidade dos ataques a civis em áreas próximas à fronteira, evidenciando a escalada de violência na região.",
+        "clusterId": "2d70aeb0b46c7289",
+        "slug": "dbf95eb23098918c",
+        "titulo": "Meghan Markle considera carreira política antes de retorno ao Reino Unido",
+        "resumo": "A atriz Meghan Markle, que deixou a série \"Suits\" em 2017, revelou que pensou em ingressar na política antes de decidir voltar ao Reino Unido. Ela e o Príncipe Harry planejam se mudar para uma residência privada perto de Londres, onde os filhos serão matriculados. A decisão ocorre após quase uma década de afastamento da família real e pode sinalizar nova fase de atuação e engajamento público.",
+        "porQueImporta": "O retorno de Meghan ao Reino Unido pode influenciar sua carreira e a relação do casal com a monarquia britânica.",
         "category": "mundo",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/ucrania-confirma-16-mortos-em-ataque-russo-a-shopping-no-pais"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/video-socorristas-vasculham-destrocos-apos-ataque-a-shopping-na-ucrania/"
-          },
-          {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/21/drones-da-russia-atacam-shopping-na-ucrania-e-deixam-mortos.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/22/meghan-markle-enfrenta-retorno-ao-reino-unido-marcado-por-tensoes-do-passado.ghtml"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/meghan-markle-considerou-politica-antes-de-retorno-ao-reino-unido-diz-site/"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cdj01r1dll3o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-08-22T03:37:48.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/08/hqquv2rwsaaepyy-3x2-1.jpg"
+        "updatedAt": "2026-08-22T06:00:24.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/5klZE9KkF7Z72Usb-mxb22amJBs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/h/9/o1ZgdKQvKiH8dfcJzHWA/ap20330350779199.jpg"
       },
       {
         "clusterId": "4a2a4e892291f1a6",
@@ -684,68 +694,24 @@
         "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/07/Malvinas.jpg"
       },
       {
-        "clusterId": "14d00c211a989583",
-        "slug": "dbf95eb23098918c",
-        "titulo": "Meghan Markle considera carreira política antes de retorno ao Reino Unido",
-        "resumo": "A atriz Meghan Markle, que deixou a série \"Suits\" em 2017, revelou que pensou em ingressar na política antes de decidir voltar ao Reino Unido. Ela e o Príncipe Harry planejam se mudar para uma residência privada perto de Londres, onde os filhos serão matriculados. A decisão ocorre após quase uma década de afastamento da família real e pode sinalizar nova fase de atuação e engajamento público.",
-        "porQueImporta": "O retorno de Meghan ao Reino Unido pode influenciar sua carreira e a relação do casal com a monarquia britânica.",
+        "clusterId": "6e0f526cbdfd26ca",
+        "slug": "bc4d7ea2d48645ba",
+        "titulo": "Ataque russo a shopping em Kryvyi Rih causa mortes e feridos",
+        "resumo": "Drones russos atacaram um shopping na cidade de Kryvyi Rih, no leste da Ucrânia, resultando em 16 mortes e cerca de 130 feridos, incluindo 13 crianças. O ataque também deixou pessoas desaparecidas. A cidade, natal de Zelensky, tem sido alvo frequente de ataques russos apesar de estar a cerca de 60 km da linha de frente.",
+        "porQueImporta": "O incidente destaca a continuidade dos ataques a civis em áreas próximas à fronteira, evidenciando a escalada de violência na região.",
         "category": "mundo",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/meghan-markle-considerou-politica-antes-de-retorno-ao-reino-unido-diz-site/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/video-socorristas-vasculham-destrocos-apos-ataque-a-shopping-na-ucrania/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/08/21/meghan-markle-deve-voltar-a-atuar-apos-quase-uma-decada-diz-revista.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cdj01r1dll3o?at_medium=RSS&at_campaign=rss"
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/21/drones-da-russia-atacam-shopping-na-ucrania-e-deixam-mortos.ghtml"
           }
         ],
-        "updatedAt": "2026-08-21T21:22:03.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/08/GettyImages-2211633215.jpg.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "69c7196e2157a8e7",
-        "slug": "f47c71d2c420d0e5",
-        "titulo": "Lula conversa por telefone com Trump, primeira ligação desde maio",
-        "resumo": "O presidente Lula ligou para o presidente dos Estados Unidos, Donald Trump, em uma conversa que ocorreu após semanas de negociação. A ligação foi a primeira entre os dois líderes desde maio e aconteceu em meio a tensões crescentes entre os países. O Planalto avaliou o conteúdo da conversa, destacando que o discurso de Flávio Bolsonaro foi esvaziado. A ligação também ocorreu após contatos recentes de Lula com os presidentes da China e da Rússia.",
-        "porQueImporta": "A ligação demonstra a tentativa de Lula de gerenciar relações internacionais em meio a tensões políticas internas e externas.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/telefonema-de-lula-com-trump-esvazia-discurso-de-flavio-avalia-planalto/"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c20eql73w4do?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-08-22T01:12:06.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5dfe/live/d8803200-9d84-11f1-a291-b542ee92de7c.png"
-      },
-      {
-        "clusterId": "0bc9efb4599f6ab0",
-        "slug": "88d6f7431680d564",
-        "titulo": "Lula e Flávio Bolsonaro não participarão do debate presidencial",
-        "resumo": "O presidente Lula optou por não comparecer ao debate presidencial programado para o domingo, 23 de agosto, às 20h. Flávio Bolsonaro, candidato da oposição, também não deve participar. O evento, organizado pela Band, contou com a presença de seis dos treze candidatos convidados.",
-        "porQueImporta": "A ausência de dois dos principais candidatos pode influenciar a dinâmica e a cobertura do debate, impactando a percepção pública das eleições.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/lula-decide-nao-ir-a-primeiro-debate-presidencial/"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c89n45wykyeo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-08-22T00:31:39.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2715/live/5025e9f0-9da6-11f1-b109-879e35c24276.jpg"
+        "updatedAt": "2026-08-22T00:49:22.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/TbYw898fdQenMe8dVL7nsrfGhm8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/N/nwQ4oQTvu6YAms79M9mQ/2026-08-21t155218z-1164679702-rc233na0l0ga-rtrmadp-3-ukraine-crisis-attack-kryvyi-rih.jpg"
       },
       {
         "clusterId": "56a61f6d02f3312b",
@@ -766,6 +732,22 @@
         ],
         "updatedAt": "2026-08-20T10:28:41.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/Z7d8R-z-vmV1NUSpGjWFZi-82Kk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/5/XKHZ9iQLeOboTaOjr7YQ/9088e0c0-9bed-11f1-aed2-8d6da8d75094.jpg.webp"
+      },
+      {
+        "clusterId": "396f20e70ce014dd",
+        "slug": "88d6f7431680d564",
+        "titulo": "Lula e Flávio Bolsonaro não participarão do debate presidencial",
+        "resumo": "O presidente Lula optou por não comparecer ao debate presidencial programado para o domingo, 23 de agosto, às 20h. Flávio Bolsonaro, candidato da oposição, também não deve participar. O evento, organizado pela Band, contou com a presença de seis dos treze candidatos convidados.",
+        "porQueImporta": "A ausência de dois dos principais candidatos pode influenciar a dinâmica e a cobertura do debate, impactando a percepção pública das eleições.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c89n45wykyeo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-08-21T23:45:08.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2715/live/5025e9f0-9da6-11f1-b109-879e35c24276.jpg"
       },
       {
         "clusterId": "3ccd1d671aec4a36",
@@ -798,55 +780,51 @@
         ],
         "updatedAt": "2026-08-21T20:50:47.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/TaPOPMuGbBCnYiryj2lHaCblnlY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/X/BsgZS0Rs2q9TtL2D0pJQ/ap26231494061684.jpg"
+      },
+      {
+        "clusterId": "19fa21c9550ad0bd",
+        "slug": "4e52153ac1944334",
+        "titulo": "Definição de autismo gera debate sobre inclusão e diagnóstico",
+        "resumo": "A discussão sobre a definição de autismo tem se intensificado, pois agrupar pessoas com características tão diversas sob um mesmo rótulo pode limitar a compreensão individual. A definição atual influencia políticas de apoio, acesso a serviços e percepção social. Especialistas apontam que critérios mais flexíveis poderiam melhorar a inclusão. O debate reflete a necessidade de equilibrar diagnóstico clínico e respeito à singularidade de cada pessoa.",
+        "porQueImporta": "A forma como o autismo é definido afeta diretamente direitos, recursos e a inclusão social de indivíduos autistas.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c1w1rg95er9o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-08-21T19:55:42.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fad4/live/d93ce660-9d44-11f1-a291-b542ee92de7c.jpg"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "9df923d83d4add1e",
-        "slug": "9fa0d03e39c2739a",
-        "titulo": "Volkswagen revela quando mostrará novas picapes Tukan e Amarok",
-        "resumo": "A Volkswagen escolheu a Festa do Peão de Barretos como palco para apresentar pela primeira vez suas novas picapes, a inédita Tukan, e a segunda geração da Amarok. O espaço da marca no evento exibirá as silhuetas e a assinatura luminosa das picapes, antecipando o design e posicionamento dos modelos. Essa estratégia faz parte de uma ofensiva comercial planejada para 2027, quando os veículos chegarão efetivamente ao mercado brasileiro. A decisão de mostrar a Tukan já em cabine simples reforça o foco no público frotista e produtor rural, tradicional consumidor desse tipo de carroceria. A intenção…",
-        "porQueImporta": "",
+        "clusterId": "9dad51f08c6a705a",
+        "slug": "fb7d080528e4ee70",
+        "titulo": "Dia D da Campanha Nacional de Multivacinação acontece neste sábado em Belo Horizonte e em todo o país",
+        "resumo": "No dia 22 de agosto, a Campanha Nacional de Multivacinação realiza o Dia D em Belo Horizonte, com unidades básicas de saúde e dez pontos extras, incluindo shoppings e praças, para crianças, adolescentes menores de 15 anos e gestantes com caderneta desatualizada. Os profissionais verificarão os documentos e aplicarão as doses pendentes conforme o calendário de vacinação. A ação faz parte de uma campanha que começou em 3 de agosto e vai até 1 de setembro, abrangendo todo o território nacional.",
+        "porQueImporta": "Permite que crianças e adolescentes coloquem suas vacinas em dia, contribuindo para a imunização coletiva.",
         "category": "tecnologia",
         "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/carros/noticia/2026/08/21/nova-volkswagen-amarok.ghtml"
-          },
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/carros/volkswagen-revela-quando-mostrara-novas-picapes-tukan-e-amarok/"
-          }
-        ],
-        "updatedAt": "2026-08-22T01:00:16.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/_0WXn_McwzjAU7bc1WLAcE_OGB8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/B/47JN9aRWG2JAQbcrEjFA/amarok-01.jpg"
-      },
-      {
-        "clusterId": "a39da5e7853a576d",
-        "slug": "09e326667bce7b9f",
-        "titulo": "Resultado da Lotofácil de hoje: veja números e ganhadores do concurso 3768 (sexta, 21/08)",
-        "resumo": "O sorteio do concurso 3768 da Lotofácil acontece na noite desta sexta-feira (21), às 21h. O prêmio está estimado em R$ 2 milhões O post Resultado da Lotofácil de hoje: veja números e ganhadores do concurso 3768 (sexta, 21/08) apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/confira-o-resultado-da-lotofacil-3768-sorteada-hoje-21-8"
-          },
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/21/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3768-sexta-21-08/"
+            "url": "https://olhardigital.com.br/2026/08/22/medicina-e-saude/dia-d-da-campanha-nacional-de-multivacinacao-ocorre-neste-sabado-22/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/08/22/bh-tem-campanha-de-multivacinacao-neste-sabado-veja-quem-pode-se-vacinar-e-os-pontos-extras.ghtml"
           }
         ],
-        "updatedAt": "2026-08-22T00:13:34.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/05/Loterias-Caixa-Lotofacil-1.jpg"
+        "updatedAt": "2026-08-22T07:03:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/JbLYZVZ6sioEYImZhaIrNiplqnQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/Y/9ncaHMSViRhw1mnGesAA/captura-de-tela-2026-08-07-163150.jpg"
       },
       {
         "clusterId": "c4897e367fa8024c",
         "slug": "246ef72def2b0a97",
-        "titulo": "ANPD coloca ChatGPT, Gemini, Instagram e outras plataformas na mira",
-        "resumo": "Agência notificou 22 serviços para avaliar medidas contra conteúdos criminosos e ilícitos e mecanismos de proteção no ambiente digital O post ANPD coloca ChatGPT, Gemini, Instagram e outras plataformas na mira apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
+        "titulo": "ANPD notifica 22 serviços digitais sobre medidas de combate a conteúdos criminosos",
+        "resumo": "A Autoridade Nacional de Proteção de Dados (ANPD) notificou 22 serviços digitais, incluindo ChatGPT, Gemini e Instagram, para avaliar medidas de combate a conteúdos criminosos e ilícitos. A agência também pediu a implementação de mecanismos de proteção no ambiente digital. A notificação visa garantir a conformidade com a legislação de proteção de dados e segurança online.",
+        "porQueImporta": "A ação reforça a fiscalização sobre grandes plataformas digitais, protegendo usuários e assegurando o cumprimento das normas de privacidade.",
         "category": "tecnologia",
         "sources": [
           {
@@ -874,9 +852,9 @@
       {
         "clusterId": "ff4290ac1e983fca",
         "slug": "d42f1cab5b72eb17",
-        "titulo": "Olhar Espacial: como ir à Lua gastando pouco",
-        "resumo": "A Lua voltou a ter destaque na exploração espacial, mas um dos desafios tem sido baratear as viagens até o nosso satélite natural O post Olhar Espacial: como ir à Lua gastando pouco apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
+        "titulo": "Exploração lunar busca reduzir custos de viagem",
+        "resumo": "A Lua voltou a ser foco da exploração espacial, mas o principal desafio é tornar as missões mais econômicas. Pesquisadores estão buscando alternativas de propulsão e logística para diminuir os custos de envio de veículos e equipamentos. A iniciativa visa tornar a presença lunar mais viável para países e empresas com orçamentos limitados.",
+        "porQueImporta": "Reduzir os custos pode ampliar o acesso à exploração lunar e impulsionar avanços científicos e tecnológicos.",
         "category": "tecnologia",
         "sources": [
           {
@@ -889,9 +867,9 @@
       {
         "clusterId": "ce3e162bd49b8ffa",
         "slug": "fb325860aa52a34f",
-        "titulo": "Nova IA da DeepSeek resolve tarefas apenas olhando telas",
-        "resumo": "A DeepSeek lançou, nesta sexta-feira (21), o DeepSeek-V4-Flash-Vision-Exp, novo modelo experimental de inteligência artificial com capacidade de interpretar imagens, documentos e capturas de tela. A ferramenta já está disponível para desenvolvedores por meio da API da empresa. A grande inovação é que este modelo é “multimodal”, ou seja, ele consegue combinar e entender texto e imagem ao mesmo tempo. Com isso, a IA pode analisar o que aparece na tela de um computador e realizar ações automáticas de forma inteligente, sem que o usuário precise dar instruções passo a passo. Segundo a empresa, o…",
-        "porQueImporta": "",
+        "titulo": "DeepSeek lança modelo multimodal que interpreta telas e executa ações",
+        "resumo": "A DeepSeek lançou o DeepSeek‑V4‑Flash‑Vision‑Exp, um modelo experimental de IA que combina texto e imagem para analisar capturas de tela e documentos. O sistema, disponível via API, pode executar ações automáticas sem instruções detalhadas. A novidade destaca a capacidade de interpretar o conteúdo visual de um computador e responder de forma inteligente.",
+        "porQueImporta": "Permite automação mais fluida em interfaces digitais, reduzindo a necessidade de comandos manuais.",
         "category": "tecnologia",
         "sources": [
           {
@@ -905,9 +883,9 @@
       {
         "clusterId": "07430f9749c4d58a",
         "slug": "4887d64b754e689a",
-        "titulo": "Resultado da Quina de hoje: veja números e ganhadores do concurso 7098 (sexta, 21/08)",
-        "resumo": "O sorteio de R$ 16 milhões do concurso 7098 é realizado em São Paulo. Além dos cinco números premiados, confira como resgatar seu prêmio O post Resultado da Quina de hoje: veja números e ganhadores do concurso 7098 (sexta, 21/08) apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
+        "titulo": "Resultado da Quina do concurso 7098",
+        "resumo": "O concurso 7098 da Quina, realizado na sexta-feira, 21 de agosto, premiou cinco números e ofereceu um prêmio de R$ 16 milhões. O sorteio aconteceu em São Paulo. Os ganhadores podem resgatar seus prêmios seguindo as instruções divulgadas pela Caixa Econômica Federal.",
+        "porQueImporta": "O resultado informa quem pode receber um grande prêmio e como proceder para o resgate.",
         "category": "tecnologia",
         "sources": [
           {
@@ -918,11 +896,26 @@
         "updatedAt": "2026-08-21T23:40:00.000Z"
       },
       {
+        "clusterId": "30f14ca8719ae5f6",
+        "slug": "09e326667bce7b9f",
+        "titulo": "Resultado da Lotofácil do concurso 3768",
+        "resumo": "O concurso 3768 da Lotofácil foi realizado na noite de sexta-feira, 21 de agosto, às 21h. O prêmio estimado para o concurso é de R$ 2 milhões. Os números sorteados e os ganhadores foram divulgados pela plataforma Olhar Digital.",
+        "porQueImporta": "Informação relevante para participantes e interessados no jogo de loteria.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/21/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3768-sexta-21-08/"
+          }
+        ],
+        "updatedAt": "2026-08-21T23:40:00.000Z"
+      },
+      {
         "clusterId": "356e5b5d1010cef8",
         "slug": "80059c9af6878b6c",
-        "titulo": "Apple corta mais de 200 empregos em equipes da Siri e do Vision Pro",
-        "resumo": "Demissões atingem áreas de IA e do headset de realidade mista; empresa também reduz equipe de jogos e conteúdo imersivo do Vision Pro O post Apple corta mais de 200 empregos em equipes da Siri e do Vision Pro apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
+        "titulo": "Apple reduz mais de 200 empregos em equipes da Siri e do Vision Pro",
+        "resumo": "A Apple anunciou a demissão de mais de 200 funcionários, afetando principalmente as equipes de inteligência artificial da Siri e do headset Vision Pro. A empresa também está diminuindo a equipe de jogos e conteúdo imersivo do Vision Pro. As reduções refletem ajustes estratégicos em áreas de tecnologia emergentes. A medida ocorre em meio a mudanças no mercado de IA e realidade mista.",
+        "porQueImporta": "A decisão indica a reavaliação da Apple sobre investimentos em IA e realidade mista, impactando o futuro de seus produtos e serviços.",
         "category": "tecnologia",
         "sources": [
           {
@@ -935,11 +928,27 @@
     ],
     "ciencia": [
       {
+        "clusterId": "785f5d9131150210",
+        "slug": "81e0c860d28d1539",
+        "titulo": "NASA publica foto dos Lençóis Maranhenses vista do espaço",
+        "resumo": "A NASA divulgou, em suas redes sociais, uma imagem do Parque Nacional Lençóis Maranhenses capturada pelo satélite Landsat 9, mostrando o contraste entre dunas de quartzo branco e lagoas de água doce. A foto foi publicada na última quinta-feira (20) e gerou repercussão nas redes sociais. O parque, localizado no litoral do Maranhão, recebe cerca de 125 centímetros de chuva por ano, o que o diferencia de um deserto típico.",
+        "porQueImporta": "A divulgação internacional destaca a singularidade e a importância ambiental do parque, atraindo atenção global para a conservação da região.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/ma/maranhao/noticia/2026/08/22/apos-foto-da-nasa-relembre-outros-momentos-em-que-os-lencois-maranhenses-ganharam-destaque-mundial.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-22T07:00:18.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/MQPM5WJre85NUIXBgOTXRD6g8gw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/j/Vx41YgTSA9qwp7THngCg/nasa-.jpg"
+      },
+      {
         "clusterId": "de35b5ba9e2f3440",
         "slug": "081d62944221c3cf",
-        "titulo": "Missão da Nasa para “rebocar” telescópio espacial falha; equipamento será destruído",
-        "resumo": "A nave de resgate apresentou problemas e não conseguiu completar seu objetivo de salvar o Observatório Neil Gehrels Swift.",
-        "porQueImporta": "",
+        "titulo": "Missão da NASA para rebocar telescópio espacial falha",
+        "resumo": "A nave de resgate da NASA enfrentou problemas técnicos e não conseguiu completar sua missão de salvar o Observatório Neil Gehrels Swift. O equipamento foi destruído durante o esforço de recuperação. A falha impede a preservação de dados e a continuidade das observações do telescópio.",
+        "porQueImporta": "A perda do telescópio compromete pesquisas em astrofísica e a capacidade de monitorar eventos cósmicos.",
         "category": "ciencia",
         "sources": [
           {
@@ -953,9 +962,9 @@
       {
         "clusterId": "6e287dead43edf9e",
         "slug": "3a94546d68d41d5d",
-        "titulo": "Em tons menores, a redescoberta do sentido de estar no mundo",
-        "resumo": "Por Clotilde Perez, professora da Escola de Comunicações e Artes da USP",
-        "porQueImporta": "",
+        "titulo": "Redescoberta do sentido de estar no mundo",
+        "resumo": "A professora Clotilde Perez, da Escola de Comunicações e Artes da USP, analisa como a percepção do sentido de estar no mundo pode ser revigorada em contextos contemporâneos. Ela destaca a importância de refletir sobre a relação entre indivíduo e ambiente para compreender a identidade e a existência. O artigo propõe uma abordagem interseccional que integra perspectivas filosóficas e socioculturais.",
+        "porQueImporta": "Entender o sentido de estar no mundo ajuda a repensar a identidade individual e coletiva em tempos de mudanças rápidas.",
         "category": "ciencia",
         "sources": [
           {
@@ -969,9 +978,9 @@
       {
         "clusterId": "627ab1048bcb23e4",
         "slug": "36a689b12b292765",
-        "titulo": "Marc Bloch (1886-1944) no Panthéon",
-        "resumo": "Por Daniel Afonso da Silva, pesquisador do Núcleo de Pesquisas em Relações Internacionais da USP",
-        "porQueImporta": "",
+        "titulo": "Marc Bloch é homenageado com sepultamento no Panthéon",
+        "resumo": "O historiador francês Marc Bloch, que viveu entre 1886 e 1944, foi sepultado no Panthéon, em Paris, em cerimônia que reconheceu sua contribuição para a história e a ciência social. A cerimônia contou com a presença de autoridades acadêmicas e representantes do governo francês. Bloch é lembrado por suas pesquisas pioneiras sobre a Idade Média e por ter fundado a revista Annales. A homenagem reforça o reconhecimento internacional de seu legado acadêmico.",
+        "porQueImporta": "A inclusão de Bloch no Panthéon destaca a importância da pesquisa histórica na construção da identidade cultural e intelectual da França.",
         "category": "ciencia",
         "sources": [
           {
@@ -986,8 +995,8 @@
         "clusterId": "1ceffcac2e9a4480",
         "slug": "7a879885bb2ab6c5",
         "titulo": "Jornada Odontológica de Ribeirão Preto reúne atividades científicas, práticas e projetos sociais",
-        "resumo": "As inscrições já estão abertas e o evento será realizado de 21 a 23 de outubro, na Faculdade de Odontologia de Ribeirão Preto da USP, com palestras, atividades hands-on, cursos de imersão e apresentação de trabalhos científicos",
-        "porQueImporta": "",
+        "resumo": "A Faculdade de Odontologia da USP em Ribeirão Preto vai sediar a Jornada Odontológica de 21 a 23 de outubro. O evento contará com palestras, atividades hands‑on, cursos de imersão e apresentação de trabalhos científicos. As inscrições já estão abertas.",
+        "porQueImporta": "O encontro oferece oportunidades de atualização e networking para profissionais e estudantes de odontologia.",
         "category": "ciencia",
         "sources": [
           {
@@ -1001,9 +1010,9 @@
       {
         "clusterId": "294af24e1f3356db",
         "slug": "4680b52718cd25de",
-        "titulo": "Exposição “Tondi” exibe arte em círculos e pintura em movimento",
-        "resumo": "Em cartaz no Centro MariAntonia da USP, mostra do artista e professor da USP Geraldo Souza Dias recria o tondo italiano sob um novo olhar",
-        "porQueImporta": "",
+        "titulo": "Exposição “Tondi” apresenta arte em círculos e pintura em movimento",
+        "resumo": "No Centro MariAntonia da USP, o artista e professor Geraldo Souza Dias exibe obras que reinterpretam o tondo italiano. A mostra combina formas circulares com técnicas de pintura em movimento, oferecendo uma nova perspectiva sobre o gênero. O evento destaca a criatividade contemporânea dentro da comunidade acadêmica.",
+        "porQueImporta": "A exposição amplia a compreensão do tondo como forma artística, incentivando a inovação no cenário universitário.",
         "category": "ciencia",
         "sources": [
           {
@@ -1045,22 +1054,6 @@
         ],
         "updatedAt": "2026-08-21T18:09:36.000Z",
         "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260821_anapauladuboc-1024x537.jpg"
-      },
-      {
-        "clusterId": "d480bf0fa6d2ad8e",
-        "slug": "085459075465649b",
-        "titulo": "Os caminhos que começam na Esalq",
-        "resumo": "Entre jovens que começam a descobrir o campus e ex-alunos que levaram sua formação para universidades, iniciativa privada e organismos internacionais, a Esalq encontra nas pessoas o elo entre seus 125 anos de história e o futuro que ainda será escrito",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/universidade/os-caminhos-que-comecam-na-esalq/"
-          }
-        ],
-        "updatedAt": "2026-08-21T17:56:50.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260731_00_pessoas_esalq_usp-1024x538.jpg"
       }
     ],
     "saude": [
@@ -1157,7 +1150,131 @@
     ],
     "esportes": [
       {
-        "clusterId": "86a1556de5882fee",
+        "clusterId": "9386a7bf6f04b040",
+        "slug": "37c5ae791841677e",
+        "titulo": "Fluminense enfrenta Remo no Maracanã na 24ª rodada do Brasileirão",
+        "resumo": "O jogo entre Fluminense e Remo está marcado para sábado, 22, no Estádio do Maracanã, com início previsto às 16h30 (horário de Brasília). A partida será transmitida exclusivamente pelo Premiere. O Fluminense, em quarto lugar, chega ao confronto com 38 pontos, enquanto o Remo busca melhorar sua posição na tabela.",
+        "porQueImporta": "O duelo pode influenciar a posição do Fluminense na tabela e definir a trajetória da equipe na temporada.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/fluminense-x-remo-horario-e-onde-assistir-ao-jogo-do-brasileirao/"
+          },
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/22/internet-e-redes-sociais/fluminense-x-remo-onde-assistir-horario-e-escalacao-do-jogo-do-brasileirao/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/noticia/2026/08/22/brasileirao-2026-veja-onde-assistir-ao-vivo-aos-jogos-da-24a-rodada.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-22T08:00:43.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/6mxDy56CETOBj5EW5tdKU2SWTGc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/f/p/fY2Bi6QZmSBalLmY9u4A/serie-a.jpg"
+      },
+      {
+        "clusterId": "427150cd886e4b65",
+        "slug": "0a6ad7ac52478978",
+        "titulo": "Finalistas do Campeonato Acreano Sub-13 serão conhecidos neste sábado, no Tonicão",
+        "resumo": "Os dois finalistas do Campeonato Acreano Sub-13 serão definidos neste sábado (22), com a disputa das semifinais no Estádio Tonicão, em Rio Branco (AC). + 🔍 Adicione o ge nas suas fontes favoritas do Google A primeira vaga na decisão sai do confronto entre Santa Cruz-AC e CT da Baixada, que se enfrentam a partir das 8h. Um dos três times com 100% de aproveitamento na competição, o Santa Cruz-AC chegou às semifinais após golear a Escolinha do Galvez por 5 a 0 nas quartas de final. O CT da Baixada também segue invicto, mas com um empate em sua campanha: 3 a 3 contra o Cruz Azul-AC nas quartas,…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/pe/futebol/times/santa-cruz/noticia/2026/08/22/tecnico-acredita-em-maior-adaptacao-do-santa-cruz-a-arena-de-pe-apos-treinos-na-semana.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/quem-sao-os-candidatos-ao-governo-de-santa-catarina-em-2026/"
+          }
+        ],
+        "updatedAt": "2026-08-22T07:01:38.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/jVsgq6b0hQej_zZnnfrGf8wwEq0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/j/Z/HcTeHKQAW54KbDNiXf0w/agif26081520255318.jpg"
+      },
+      {
+        "clusterId": "4d906b88a1852463",
+        "slug": "bcf39f63f008b4d2",
+        "titulo": "Internacional x Atlético-MG: onde assistir ao vivo, horário e escalações",
+        "resumo": "Internacional x Atlético-MG: informações e palpite para o jogo Internacional e Atlético-MG entram em campo às 18h30 deste sábado, no Beira-Rio, em Porto Alegre. O duelo é válido pela 24ª rodada do Brasileirão e terá acompanhamento em tempo real pelo ge (clique aqui). + Confira a tabela do Brasileirão + Palpites e dicas para Inter x Atlético-MG O Inter busca a primeira vitória pelo Brasileirão no segundo semestre. O time não ganha há sete partidas pela competição, com quatro derrotas e três empates. Na última rodada, contra o Remo, sofreu o empate no último minuto da partida. Os gaúchos ocupam…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/noticia/2026/08/22/internacional-x-atletico-mg-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/internacional-x-atletico-mg-horario-e-onde-assistir-ao-jogo-do-brasileirao-2/"
+          }
+        ],
+        "updatedAt": "2026-08-22T07:01:21.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/ZiqtmQXb9axk2R68Hv4RHAXsfUs=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/s/f/lpu5dLSDARPdDLjAyekw/e86a6b72-4175-47f4-981a-893c740c3fc9.jfif"
+      },
+      {
+        "clusterId": "c34f32b50539ad82",
+        "slug": "7c57114005a67562",
+        "titulo": "Ceará x Londrina: onde assistir ao vivo, horário e escalações",
+        "resumo": "Ceará perde mais uma e pode voltar para o Z-4 Ceará e Londrina se enfrentam neste sábado (22), às 18h (de Brasília), pela 24ª rodada do Campeonato Brasileiro Série B 2026, na Arena Castelão. O ge acompanha todos os lances em tempo real (Clique aqui). O Ceará enfrenta o Londrina em meio a uma crise que já perdura há alguns meses. O Alvinegro atravessa dificuldades dentro e fora de campo e voltou à zona de rebaixamento após perder para o Náutico e ver o Avaí vencer o Sport. Diante desse cenário, o Vovô precisa vencer para deixar o sufoco e se afastar da zona de descenso. A equipe vive um…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/ce/futebol/brasileirao-serie-b/noticia/2026/08/22/ceara-x-londrina-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/ceara-x-londrina-horario-e-onde-assistir-ao-jogo-da-serie-b/"
+          }
+        ],
+        "updatedAt": "2026-08-22T07:01:08.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/LTwJhf3-WrGhTNVy_PYcCDPbX08=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/j/n/qzRYsBSLe1xbdnyQVWug/whatsapp-image-2026-05-17-at-17.13.54.jpeg"
+      },
+      {
+        "clusterId": "03a27eefd35421c2",
+        "slug": "fcb862266f5a4bac",
+        "titulo": "Vini Jr inicia 9ª temporada no Real Madrid como o jogador com mais partidas e mais gols no elenco",
+        "resumo": "Vini Jr. renova com o Real Madrid até 2032 Ao entrar em campo neste sábado contra o Espanyol, Vinicius Junior dará início à sua nona temporada com a camisa do Real Madrid. Apesar de ter apenas 26 anos, o atacante brasileiro é hoje o jogador do atual elenco com mais partidas pelo time espanhol, e também com mais gols. + Confira a tabela do Campeonato Espanhol 2026/27 Vinicius Junior vai começar a sua nona temporada no Real Madrid Reuters Considerado pelo próprio Real como \"um dos jogadores mais importantes de um dos períodos mais bem-sucedidos da história do clube\", Vini Jr chegou a Madrid em…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/espanyol-x-real-madrid-horario-e-onde-assistir-ao-jogo-de-laliga-2/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/times/real-madrid/noticia/2026/08/22/vini-jr-inicia-9a-temporada-no-real-madrid-como-o-jogador-com-mais-partidas-e-mais-gols-no-elenco.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-22T07:00:58.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/Gp_m-vlNZn8F8c4rQFYO0hTzr6w=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/u/z/3hXv8NTiCRoGqBT4KErw/2026-08-08t170452z-930553998-up1em881bg3g7-rtrmadp-3-soccer-friendly-ftc-rma.jpg"
+      },
+      {
+        "clusterId": "bb014adf61c6bb60",
+        "slug": "8a3eaf18ca5fec5c",
+        "titulo": "Cuiabá x Goiás: onde assistir ao vivo, horário e escalações",
+        "resumo": "Cuiabá 1 x 0 Operário-PR | Melhores momentos | 23ª rodada | Série B Cuiabá e Goiás se enfrentam neste sábado, às 17h30 (de Mato Grosso) e às 18h30 (de Brasília), pela 24ª rodada do Campeonato Brasileiro Série B 2026, na Arena Pantanal. O ge mostra todos os lances em tempo real - clique aqui para acompanhar. + Confira a tabela da Série B do Brasileiro Initial plugin text O Cuiabá chega para a partida há quatro jogos sem perder e ocupa a 12ª colocação, com 32 pontos. A equipe tem a terceira melhor defesa e o terceiro pior ataque da competição, com 17 gols sofridos e 20 marcados. Em 12 jogos na…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/cuiaba-x-goias-horario-e-onde-assistir-ao-jogo-da-serie-b-2/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/mt/futebol/brasileirao-serie-b/noticia/2026/08/21/cuiaba-x-goias-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-22T07:00:47.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/Xt-tfjY0Onmqi3p0ZhRLh7r78Ms=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/M/o/qCZoZkRMA7eGrUbBcRtg/whatsapp-image-2026-05-02-at-17.11.39.jpeg"
+      },
+      {
+        "clusterId": "4a2acbaded5e2167",
         "slug": "9b1619e7d26d9601",
         "titulo": "Hull City x Manchester United na Premier League: onde assistir ao vivo e horário",
         "resumo": "Premier League tem número histórico de novos técnicos; entenda O Manchester United começa a sua campanha na Premier League desta temporada fora de casa, com o jogo contra o Hull City, no estádio MKM Stadium. A bola rola às 8h30 (horário de Brasília), e você vai poder acompanhar os principais lances em Tempo Real no ge. + Confira a tabela do Campeonato Inglês 2026/27 Andrey Santos e Matheus Cunha são os brasileiros do Manchester United Divulgação / Manchester United O Manchester United ficou em terceiro lugar no Campeonato Inglês da temporada passada, com 71 pontos, 14 a menos do que o campeão…",
@@ -1166,14 +1283,14 @@
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/nottingham-forest-x-leeds-united-horario-e-onde-assistir-a-premier-league/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/ipswich-x-sunderland-horario-e-onde-assistir-ao-jogo-da-premier-league/"
           },
           {
             "name": "GE",
             "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/08/22/hull-city-x-manchester-united-na-premier-league-onde-assistir-ao-vivo-e-horario.ghtml"
           }
         ],
-        "updatedAt": "2026-08-22T03:30:15.000Z",
+        "updatedAt": "2026-08-22T05:00:17.000Z",
         "imageUrl": "https://s2-ge.glbimg.com/zfB6766Sai-kFwkQr9Hj3rz25jI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/m/a/Hvz9oDRFiXMmBJaJU5Xw/united.webp"
       },
       {
@@ -1195,161 +1312,9 @@
         ],
         "updatedAt": "2026-08-22T01:20:41.000Z",
         "imageUrl": "https://s2-ge.glbimg.com/L4EeWHpWEhSeiXrz2sb6lAzEw9M=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/6/y/FjtXlXSjAiec4cu4388Q/parquesaojorge.jpeg"
-      },
-      {
-        "clusterId": "a2b526bf6475f24c",
-        "slug": "37c5ae791841677e",
-        "titulo": "Escalação do Flamengo: Léo Pereira vira desfalque de última hora para 2º jogo da semana contra Cruzeiro",
-        "resumo": "Voz do Setorista: Torcida do Flamengo faz a festa em hotel antes de jogo contra o Cruzeiro Depois de garantir a classificação às quartas de final da Libertadores, o Flamengo volta a entrar em campo neste sábado, às 20h30 (de Brasília), novamente diante do Cruzeiro, no Mineirão, agora pelo Campeonato Brasileiro. Para esta partida, o técnico Leonardo Jardim deve promover mudanças novamente na equipe titular e ganhou um desfalque de última hora: Léo Pereira. + Veja os relacionados do Flamengo para o jogo contra o Cruzeiro pelo Brasileirão O zagueiro está com um desgaste alto apóster jogado…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/leo-pereira-desfalca-flamengo-contra-o-cruzeiro-pelo-brasileirao/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/21/flamengo-chega-a-belo-horizonte-para-jogo-com-o-cruzeiro-veja-a-provavel-escalacao.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-22T00:47:52.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/k1j54vlUlXtr9D5kpZC5HiIGcR4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/A/N/nOBnT0RESF9NlLKa3utg/706971-treino-no-ninho-20-07-2026-73.jpg"
-      },
-      {
-        "clusterId": "d054d5f726108c9a",
-        "slug": "6b01d17fc76ef178",
-        "titulo": "Copa Paraná: veja a tabela detalhada das três primeiras rodadas",
-        "resumo": "Cianorte desiste da Copa Paraná após mudança na diretoria A Federação Paranaense de Futebol (FPF) divulgou nesta sexta-feira a tabela detalhada das três primeiras rodadas da Copa Paraná. O início da competição foi confirmado para o dia 29 de agosto. ✅ Clique aqui e siga o canal do ge PR no WhatsApp 🔍 Adicione o ge nas suas fontes favoritas do Google O destaque da rodada de abertura fica para clássico entre Athletico e Paraná, na Arena da Baixada. Os outros confrontos são: Cascavel x Foz do Iguaçu, São Joseense x Azuriz e Londrina x Paranavaí. A Copa Paraná precisou passar por adequações…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/quem-sao-os-candidatos-ao-governo-do-parana-nas-eleicoes-de-2026/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/pr/futebol/noticia/2026/08/21/copa-parana-veja-a-tabela-detalhada-das-tres-primeiras-rodadas.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-22T00:14:25.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/HgphSVJjM47_vUDxymrMkW7ibPg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/y/u/HaiFqIShGClkLJQPdazw/paranaense.jpg"
-      },
-      {
-        "clusterId": "a1d6e2e7b38f0462",
-        "slug": "d5e7e216c72c2ba0",
-        "titulo": "Copa do Brasil sub-20 2026: com dobro de clubes, veja os jogos da primeira fase",
-        "resumo": "São Paulo é o atual campeão da Copa do Brasil Sub-20; veja como foi A CBF divulgou nesta sexta-feira, dia 21, a tabela básica da edição da Copa do Brasil Sub-20. Com início programado para a segunda semana de setembro, o torneio passou por uma mudança importante, dobrando o número de participantes: de 32 para 64 clubes. Troféu da Copa do Brasil Sub-20 Staff Images / CBF Os confrontos da primeira fase, disputados em partida única, foram definidos através de critério de proximidade geográfica, segundo a entidade. A segunda etapa também será disputada em jogo único, assim como a grande final. Já…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/eleicoes-2026-quem-sao-os-candidatos-ao-governo-do-amazonas/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/am/noticia/2026/08/21/nacional-e-amazonas-conhecem-adversarios-na-copa-do-brasil-sub-20.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-22T00:10:11.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/0g8gGCuAt964TPAx6_nZgTUprrs=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/e/f/638wPYSYKV899NB9cDuw/whatsapp-image-2025-09-08-at-21.29.25.jpeg"
-      },
-      {
-        "clusterId": "719e0bac11631b4b",
-        "slug": "52b0d9de79c8d408",
-        "titulo": "Palmeiras adia estreia da nova camisa 3 a pedido da CBF; entenda",
-        "resumo": "Palmeiras divulga nova terceira camisa com referências a Itália O Palmeiras não vai mais estrear a nova camisa 3 no jogo contra o Vasco, neste domingo, no Nubank Parque. O lançamento do novo uniforme ocorreu nesta sexta-feira. Predominantemente azul, a camisa é uma homenagem aos 20 anos da conquista da Copa do Mundo pela Itália, em 2006. Em nota, o Palmeiras informou que a Confederação Brasileira de Futebol pediu para que a estreia não ocorresse no fim de semana. De acordo com o clube, o pedido se deu por questões técnicas envolvendo o impedimento semiautomático, sem aprofundar mais. Assim, a…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/palmeiras-e-impedido-pela-cbf-de-estrear-a-terceira-camisa-contra-o-vasco/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/08/21/palmeiras-adia-estreia-da-nova-camisa-3-a-pedido-da-cbf-entenda.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-21T23:16:01.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/P894tYBSbYQFKDZWVo1E31uO2MQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/7/A/ZvynagS1u2C9gGpYKXGA/news.jpg.webp"
-      },
-      {
-        "clusterId": "a5de97a6e497bb2e",
-        "slug": "623b24c7396f657d",
-        "titulo": "Destaque do Sub-20 ganha espaço no profissional do Amazonas e busca repetir trajetória do pai",
-        "resumo": "Artilheiro da série C deixa o Amazonas O meia Carlinhos, destaque na equipe Sub-20, ganhou espaço no elenco profissional do Amazonas e recebeu, na 17ª rodada da Série C, a primeira oportunidade como titular. O jogador começou a partida contra o Botafogo-PB e agora busca uma sequência entre os profissionais. A titularidade é resultado do trabalho feito desde a chegada ao clube. Para Carlinhos, o próximo passo é continuar nos treinamentos para ter novas oportunidades na competição. — Meu próximo sonho é continuar bem nos treinamentos, para que eu possa ter mais oportunidades e mais jogos pela…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/am/futebol/times/amazonas-fc/noticia/2026/08/22/destaque-do-sub-20-ganha-espaco-no-profissional-do-amazonas-e-busca-repetir-trajetoria-do-pai.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-22T04:17:57.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/lewtn1PccOEtk8rggCqVx1LymdM=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/X/q/zOWccGRAKz7uCAuXOA0w/whatsapp-image-2026-08-21-at-17.24.33-2-.jpeg"
-      },
-      {
-        "clusterId": "38ed77e74d5dee14",
-        "slug": "5da098a500a2ad0d",
-        "titulo": "Sesi-Bauru estreia no Paulista de vôlei masculino com vitória sobre o Ilhabela",
-        "resumo": "O Sesi-Bauru estreou no Campeonato Paulista de vôlei masculino com vitória sobre o Ilhabela por 3 sets a 1 (parciais de 25/23, 27/25, 24/26 e 25/16), na noite desta sexta-feira, na Arena Paulo Skaf, em Bauru. Os donos da casa não tiveram facilidade diante da equipe do litoral, que participa da elite estadual pela primeira vez. Os sets - com exceção do último - foram bem disputados e apertados na partida que marcou a reestreia do técnico Marcos Pacheco. O Sesi-Bauru estreou com vitória sobre Ilhabela no Paulista de vôlei Felipe Wiira/Sesi-SP Veja também + Outras notícias do ge.globo/tvtem Com…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/sp/tem-esporte/basquete/noticia/2026/08/22/bauru-recebe-o-paulistano-pela-6a-rodada-do-paulista-de-basquete.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-22T04:00:26.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/IgqmISJj2UIGwKYm37FwiSTf9Tw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/H/S/BhPVfsRTq2HjxA20OSUA/28-bryanassisfotografia-bauru-basket-x-paulistano.jpg"
       }
     ],
     "entretenimento": [
-      {
-        "clusterId": "f4d514496f8c5e75",
-        "slug": "eea43258c35ca1b6",
-        "titulo": "'God of War': Dave Bautista vai substituir Ryan Hurst como Kratos na série do game",
-        "resumo": "Dave Bautista em cena de 'Dupla perigosa' e Kratos em 'Gof of War Ragnarok' Divulgação Dave Bautista, ator conhecido por seu trabalho como Drax nos filmes da Marvel, vai interpretar o protagonista Kratos na série \"God of War\", que adapta a famosa e popular franquia de games. De acordo com a revista \"Variety\", ele assinou para substituir Ryan Hurst (\"Sons of anarchy\"), que foi anunciado em janeiro no papel, mas que teve de se afastar da adaptação após romper o bíceps durante as gravações. Com a escolha por Bautista, a série vai precisar refilmar todas as cenas em que Hurst aparecia. Veja os…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/streaming/dave-bautista-e-escolhido-para-papel-de-kratos-em-novo-god-of-war/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2026/08/20/god-of-war-dave-bautista-vai-substituir-ryan-hurst-como-kratos-na-serie-do-game.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-21T23:45:44.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/tFL1S08feQ4My70sQ2AyUaux4Uk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/s/gc3Bt9RWGhwVgF5cRILg/dave-bautista-kratos-god-of-war.jpg"
-      },
-      {
-        "clusterId": "ef39d0f60fa7af96",
-        "slug": "419273d90a82b17c",
-        "titulo": "Cerimonialistas se revoltam e defendem Viih Tube após polêmica com Jota Quest em casamento",
-        "resumo": "Jota Quest cancela show no casamento de Viih Tube 15 dias antes e influencer se revolta Cerimonialistas de diferentes partes do país se solidarizaram com Viih Tube após a influenciadora afirmar que uma banda \"muito cara e famosa\" cancelou a apresentação que faria em seu casamento, faltando apenas 15 dias para a cerimônia. Viih Tube não citou o nome da banda no vídeo em que contou o episódio, mas o g1 apurou que é o Jota Quest. Procurado pela reportagem, o grupo informou que não irá se manifestar sobre o caso. O caso gerou repercussão entre profissionais do setor. Uma das cerimonialistas, de…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/consumo/viih-tube-show-cancelado-casamento/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/08/21/cerimonialistas-se-revoltam-e-defendem-viih-tube-apos-polemica-com-jota-quest-em-casamento.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-21T22:30:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Viih-Tube.jpg?fit=300%2C207&amp;quality=70&amp;strip=all"
-      },
       {
         "clusterId": "18c4d7bf84cfcce4",
         "slug": "841a8261c5db0618",
@@ -1445,6 +1410,38 @@
         ],
         "updatedAt": "2026-08-21T13:12:04.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/RcBERRWZt3BO4zs27EYG3zD8bws=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/6/QB99hPRw6DBSatUVCiZQ/niu-la.png"
+      },
+      {
+        "clusterId": "7bb08b772d1c006b",
+        "slug": "249d4287d146b8fe",
+        "titulo": "Pabllo Vittar divide com Urias o canto de música do álbum 'Lost in lust'",
+        "resumo": "Urias (à esquerda) participa de 'Body tipe', música do sétimo álbum de estúdio de Pabllo Vittar, 'Lost in lust' Divulgação ♫ NOTÍCIA ♬ Pabllo Vittar revela mais uma música do sétimo álbum de estúdio da artista, “Lost in lust”, previsto para ser lançado em 1º de outubro. Um mês após apresentar em 23 de julho “Rockstar”, faixa gravada com a participação da rapper porto-riquenha Villano Antillano, Pabllo anuncia feat com Urias em “Body type”, música programada para ser lançada na próxima quinta-feira, 27 de agosto. Com 12 faixas, o álbum “Lost in lust” é ambientado em atmosfera eletrônica e…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/21/pabllo-vittar-divide-com-urias-o-canto-de-musica-do-album-lost-in-lust.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-21T12:15:42.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/SmiyvY_XXx6AWYQMVgnLJCSO3NI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/W/Bli4RQT7arWrxBPsNB9g/pabllourias1.jpg"
+      },
+      {
+        "clusterId": "fa1154f649ef1145",
+        "slug": "75465376ae08772b",
+        "titulo": "Gonzaguinha é enfocado como um ser político e libertário em documentário conduzido pela ideologia do artista",
+        "resumo": "Gonzaguinha (1945 – 1991) tem o pensamento retratado no filme da cineasta Susanna Lira Divulgação ♫ CRÍTICA DE DOCUMENTÁRIO MUSICAL Título: Gonzaguinha – Da maior liberdade Direção: Susanna Lira Roteiro: Rodrigo Alzuguir Cotação: ★ ★ ★ ★ ♬ Quando, ao som do samba “É” (1988), rolam os créditos finais de “Gonzaguinha – Da maior liberdade”, documentário de Susanna Lira apresentado na 54ª edição do Festival de Cinema de Gramado na noite de ontem, 20 de agosto, é difícil conter a emoção e a admiração por Luiz Gonzaga do Nascimento Júnior (22 de setembro de 1945 – 29 de abril de 1991), cidadão…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/21/gonzaguinha-e-enfocado-como-um-ser-politico-e-libertario-em-documentario-conduzido-pela-ideologia-do-artista.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-21T11:50:37.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/3aata4LOztNj5zanlhth5S8takM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/y/qHTbtwRt2OVof2UJnKRg/gonzaguinhafotofilme.png"
       }
     ]
   }
