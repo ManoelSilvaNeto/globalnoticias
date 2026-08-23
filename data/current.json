@@ -1,15 +1,91 @@
 {
   "date": "2026-08-22",
-  "generatedAt": "2026-08-22T20:22:32.884Z",
+  "generatedAt": "2026-08-23T01:20:49.550Z",
   "home": [
     {
-      "clusterId": "d1abb330899cc39b",
+      "clusterId": "a2ed93d17fed10b2",
+      "slug": "63474bd912f6a228",
+      "titulo": "Datafolha mostra Flávio Bolsonaro à frente de Lula em alguns estados e vice-versa",
+      "resumo": "A pesquisa Datafolha indica que Flávio Bolsonaro lidera as intenções de voto no Distrito Federal, Rio de Janeiro e São Paulo, com 39%, 49% e 47% respectivamente, enquanto Lula mantém vantagem em Pernambuco, Piauí e Minas Gerais, com 56%, 62% e 37%. Em todos os estados analisados, a margem de erro é de três pontos percentuais, o que mantém os resultados dentro de um intervalo de empate técnico em alguns casos.",
+      "porQueImporta": "Os resultados refletem a polarização regional na corrida presidencial de 2026, influenciando estratégias de campanha e expectativas eleitorais.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/a-vantagem-aberta-por-flavio-bolsonaro-sobre-lula-no-rio-e-no-df-segundo-o-datafolha/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/datafolha-flavio-bolsonaro-lidera-disputa-presidencial-no-df"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/22/eleicoes-2026-veja-como-esta-a-corrida-presidencial-em-sp-rj-df-mg-pe-e-pi-segundo-o-datafolha.ghtml"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/datafolha-veja-os-indices-de-popularidade-de-lula-em-sao-paulo-minas-rio-pernambuco-e-df/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes/lula-tem-62-e-flavio-29-no-2o-turno-em-pe-diz-datafolha/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-lula-tem-46-dos-votos-no-2o-turno-em-minas-flavio-42/"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-08-22T23:35:35.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/lula-flavio-bolsonaro-7.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "8b014ccfdfe70e4c",
+      "slug": "fb6ee23bf8794e87",
+      "titulo": "EUA e Irã encerram prazo de negociações enquanto famílias iranianas enfrentam dificuldades econômicas",
+      "resumo": "O prazo para negociações entre os Estados Unidos e o Irã chegou ao fim, com o presidente Trump afirmando que não há perspectiva de diálogo. Enquanto isso, famílias iranianas relatam dificuldades para adquirir itens básicos, com desemprego em alta e salários reduzidos. A pressão econômica dos EUA tem intensificado a crise interna no Irã, apesar das alegações do governo de Teerã de que não há impacto significativo.",
+      "porQueImporta": "A escalada de tensões pode afetar a estabilidade regional e a economia global.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/paises-que-aderirem-a-guerra-economica-dos-eua-serao-inimigos-diz-ira/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/secretario-do-ira-ameca-retaliar-paises-vizinhos-que-apoiarem-trump"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/mundo/ira-diz-que-considerara-inimigo-qualquer-pais-que-participe-da-guerra-economica-dos-eua/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/paises-que-aderirem-a-guerra-de-trump-serao-alvos-diz-autoridade-do-ira/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/22/chefe-de-seguranca-do-ira-ameaca-retaliar-vizinhos-que-apoiarem-trump-nem-uma-gota-de-petroleo-saira-pelo-estreito-de-ormuz.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-22T23:57:29.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/04/ira-euajpg.jpeg"
+    },
+    {
+      "clusterId": "febc7df31e3a2f80",
       "slug": "071a0e90ce08d586",
       "titulo": "Robô humanoide chinês bate recorde mundial de Usain Bolt nos 100 metros",
       "resumo": "Um robô humanoide desenvolvido pela Honor correu 100 metros em 9,32 segundos, 26 segundos abaixo do recorde mundial de Usain Bolt. O robô, chamado Lightning, atingiu velocidade máxima de 14,5 metros por segundo durante teste preparatório para os Jogos Mundiais de Robôs Humanoides. O resultado demonstra avanços significativos na engenharia de robôs de alta performance.",
       "porQueImporta": "Ilustra o potencial da tecnologia robótica para superar limites humanos em desempenho atlético.",
       "category": "tecnologia",
       "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/robo-chines-bate-recorde-de-usain-bolt-nos-100-metros-rasos/"
+        },
         {
           "name": "CartaCapital",
           "url": "https://www.cartacapital.com.br/tecnologia/robo-chines-bate-recorde-mundial-de-bolt-nos-100-metros/"
@@ -19,137 +95,57 @@
           "url": "https://olhardigital.com.br/2026/08/22/robotica/robo-humanoide-supera-recorde-de-usain-bolt-nos-100-metros-assista/"
         },
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/robo-chines-bate-recorde-de-usain-bolt-nos-100-metros/"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/atletismo/noticia/2026/08/22/usain-bolt-volta-ao-futebol-e-se-junta-a-ex-estrelas-da-premier-league-em-clube-ingles.ghtml"
-        },
-        {
           "name": "G1",
           "url": "https://g1.globo.com/tecnologia/noticia/2026/08/22/robo-chines-bate-o-recorde-mundial-de-usain-bolt-nos-100-metros-em-teste.ghtml"
         }
       ],
-      "updatedAt": "2026-08-22T18:42:51.000Z",
+      "updatedAt": "2026-08-23T00:54:21.000Z",
       "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/08/Robo.jpg"
     },
     {
-      "clusterId": "3054a7551bfdca84",
-      "slug": "d6ad4106ccab08b7",
-      "titulo": "EUA impõem tarifas de 50% sobre importações do Canadá",
-      "resumo": "A partir de 22 de agosto, os Estados Unidos aplicaram tarifas de 50% sobre produtos canadenses, após a falha nas negociações de um acordo comercial. A medida cobre cerca de US$ 20 bilhões em exportações canadenses, representando aproximadamente 5% das exportações anuais do país para os EUA. O primeiro-ministro canadense Mark Carney prometeu retaliação, enquanto o governo dos EUA argumenta que o Canadá se recusou a aceitar condições mais favoráveis de acesso ao mercado americano.",
-      "porQueImporta": "A imposição de tarifas altera significativamente o comércio bilateral e pode desencadear retaliações que afetam a economia dos dois países.",
+      "clusterId": "7c21bd7fe604dc39",
+      "slug": "65d1ab77446edcb4",
+      "titulo": "Influenciador Lito Sousa recebe diagnóstico de doença rara de Creutzfeldt-Jakob",
+      "resumo": "Lito Sousa, influencer de aviação, foi diagnosticado com a doença de Creutzfeldt-Jakob, uma condição neurodegenerativa rara e sem tratamento. O diagnóstico veio após tratamento de câncer de próstata e inflamação cerebral. Ele compartilhou o diagnóstico com familiares e recebeu mensagens de apoio de celebridades. A doença evolui rapidamente e afeta o cérebro.",
+      "porQueImporta": "A condição de Lito Sousa destaca a importância da conscientização sobre doenças neurodegenerativas raras e o impacto que elas têm na vida de indivíduos públicos.",
       "category": "geral",
       "sources": [
         {
           "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/canada-anuncia-tarifas-contra-os-eua-apos-nova-taxacao-de-trump/"
+          "url": "https://www.poder360.com.br/poder-gente/lito-sousa-entra-na-lista-de-espera-de-estudo-de-harvard-sobre-doenca/"
         },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/lito-sousa-aguarda-vaga-em-estudo-de-harvard-para-tratar-creutzfeldt-jakob/"
+        },
+        {
+          "name": "Super Interessante",
+          "url": "https://super.abril.com.br/ciencia/creutzfeldt-jakob-entenda-a-doenca-enfrentada-por-lito-sousa-do-canal-avioes-e-musicas/"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cx2j8ylddrdo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-08-22T23:33:44.000Z",
+      "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/08/SI_doenca-de-lito_site.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "ae81bd3ffa32f169",
+      "slug": "d45cb7bd3152a250",
+      "titulo": "Corinthians aplica multa a Memphis Depay por vídeo com imagens de incêndio no Parque São Jorge",
+      "resumo": "O atacante holandês Memphis Depay publicou um videoclipe em que o Parque São Jorge aparece em chamas, o que gerou protestos da torcida. Em resposta, a diretoria do Corinthians decidiu multar o jogador e anunciou que adotará medidas contratuais e legais cabíveis. Depay já se desculpou pelo incidente. A ação faz parte de um contexto de tensão entre o clube e o atleta após a renovação de contrato.",
+      "porQueImporta": "A medida demonstra a postura do clube em relação a conteúdo ofensivo e a importância de manter a imagem institucional.",
+      "category": "geral",
+      "sources": [
         {
           "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/canada-contra-ataca-trump-e-anuncia-tarifa-retaliatoria-em-diversos-setores-dos-eua/"
+          "url": "https://www.infomoney.com.br/esportes/corinthians-multa-memphis-depay-por-imagens-do-parque-sao-jorge-em-chamas/"
         },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/22/canada-anuncia-tarifas-de-retaliacao-as-novas-taxas-dos-eua-a-partir-de-8-de-setembro.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/dolar-por-dolar-canada-diz-que-vai-retaliar-tarifas-de-trump/"
-        }
-      ],
-      "updatedAt": "2026-08-22T19:59:29.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/04/2026-04-14T115142Z_1_LYNXMPEM3D0P8_RTROPTP_4_CANADA-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "2b689ce5bd4a5e3b",
-      "slug": "00acb5801c462b7b",
-      "titulo": "Ex-campeão mundial de boxe Zolani Tete é morto a tiros na África do Sul",
-      "resumo": "Zolani Tete, bicampeão mundial de boxe, foi baleado e morreu fora de sua casa em 21 de agosto. Dois homens encapuzados atiraram nele enquanto ele chegava em casa, segundo a polícia. Uma mulher de 27 anos que estava com ele também foi ferida e levada ao hospital. A motivação do crime ainda não foi esclarecida pelas autoridades.",
-      "porQueImporta": "A morte de Tete representa uma perda significativa para o esporte sul-africano e destaca questões de segurança na região.",
-      "category": "geral",
-      "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/zolani-tete-ex-campeao-mundial-de-boxe-e-executado-na-africa-do-sul"
+          "url": "https://www.metropoles.com/esportes/corinthians-fala-em-medidas-contratuais-apos-clipe-de-memphis-depay"
         },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/quem-era-o-ex-campeao-mundial-de-boxe-assassinado-na-africa-do-sul/"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/boxe/noticia/2026/08/22/ex-campeao-mundial-de-boxe-e-morto-a-tiros-na-africa-do-sul.ghtml"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/22/zolani-tete-ex-campeao-mundial-de-boxe-e-morto-a-tiros-na-africa-do-sul.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-22T19:10:09.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/08/zolani-tete.jpg"
-    },
-    {
-      "clusterId": "82dcb7b4f02f7ab4",
-      "slug": "58e39cdce7194b0a",
-      "titulo": "Juíza federal dos EUA anula suspensão de vistos de residência permanente imposta por Trump a 75 países",
-      "resumo": "Uma juíza federal norte‑americana anulou a ordem de Donald Trump que havia suspenso o processamento de vistos de residência permanente para cidadãos de 75 países, incluindo o Brasil. A decisão considera a medida ilegal e contrária à lei, excedendo a autoridade do secretário de Estado, Marco Rubio. A suspensão, em vigor desde 21 de janeiro, impedia a emissão de vistos de imigrante para esses países.",
-      "porQueImporta": "A decisão restaura o acesso de brasileiros e de outros cidadãos a vistos de residência nos EUA, impactando mobilidade e relações bilaterais.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/juiza-dos-eua-anula-ordem-de-trump-que-barrava-vistos-para-brasileiros/"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/juiza-dos-eua-anula-ordem-de-trump-que-barrava-vistos-para-brasileiros/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/juiza-anula-suspensao-de-vistos-imposta-por-trump-ao-brasil-e-a-mais-74-paises/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/22/juiza-anula-suspensao-de-vistos-imposta-por-governo-trump-a-75-paises.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-22T19:01:59.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/02/GettyImages-838825674.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "82c603895c34ab5b",
-      "slug": "058bf1c8aeb3f16a",
-      "titulo": "Datafolha mostra Rafael Fonteles com 56% das intenções de voto no Piauí",
-      "resumo": "A pesquisa Datafolha divulgada em 22 de agosto indica que o governador Rafael Fonteles lidera a corrida ao governo do Piauí com 56% das intenções de voto, enquanto Joel Rodrigues ocupa a segunda posição com 21%. Em relação ao Senado, Ciro Nogueira e Marcelo Castro lideram com 16% cada, e Júlio César também aparece como favorito. A avaliação do governo de Fonteles mostra 72% de aprovação e 23% de desaprovação.",
-      "porQueImporta": "Os resultados apontam uma forte vantagem de Fonteles, sugerindo que ele poderia ser reeleito no primeiro turno e influenciar a composição do Senado estadual.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/datafolha-rafael-fonteles-lidera-corrida-ao-governo-do-piaui-com-56"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/datafolha-mostra-empate-triplo-na-disputa-pelo-senado-no-piaui/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/08/22/datafolha-aprovacao-governo-pi-rafael-fonteles.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-22T19:47:52.000Z",
-      "imageUrl": "https://images.metroimg.com/2025/06/10213228/rafael-fonteles.jpeg"
-    },
-    {
-      "clusterId": "0a836b3f7f1f4fa3",
-      "slug": "87eb0407a34b70b6",
-      "titulo": "Corinthians aplica multa a Memphis Depay por clipe com imagens do Parque São Jorge em chamas",
-      "resumo": "O clube multou o atacante Memphis Depay, que divulgou um videoclipe em que a sede social do Corinthians aparece em chamas. A diretoria afirmou que tomará medidas contratuais e legais. Depay pediu que a torcida não interprete mal a mensagem e pediu protesto pacífico. A torcida já protestou no Parque São Jorge em busca de intervenção judicial.",
-      "porQueImporta": "A decisão demonstra a postura do clube frente a conteúdo considerado ofensivo e pode afetar a relação entre jogadores e administração.",
-      "category": "esportes",
-      "sources": [
         {
           "name": "GE",
           "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/08/22/corinthians-multa-memphis-depay-por-divulgacao-de-imagens-do-parque-sao-jorge-em-chamas.ghtml"
@@ -157,14 +153,82 @@
         {
           "name": "CNN Brasil",
           "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-revela-que-adotara-medidas-contratuais-com-memphis-apos-clipe/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/a-nova-declaracao-de-memphis-depay-apos-clipe-com-sede-do-corinthians-em-chamas/"
         }
       ],
-      "updatedAt": "2026-08-22T19:14:37.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/L4EeWHpWEhSeiXrz2sb6lAzEw9M=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/6/y/FjtXlXSjAiec4cu4388Q/parquesaojorge.jpeg"
+      "updatedAt": "2026-08-22T23:06:00.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-22-at-20.03.52.jpeg?fit=300%2C193&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "da23e78e288d027d",
+      "slug": "452e895005612496",
+      "titulo": "Real Madrid vence Espanyol com gol de Bellingham e Carlos Espí",
+      "resumo": "O Real Madrid derrotou o Espanyol por 2 a 1 na primeira partida da temporada na LaLiga. Bellingham marcou o gol da vitória no segundo tempo, enquanto Carlos Espí, em seu primeiro jogo, marcou o gol do Espanyol nos acréscimos. O resultado garante ao Real Madrid um ponto inicial na competição.",
+      "porQueImporta": "O triunfo marca a estreia bem-sucedida do Real Madrid na temporada e demonstra a eficácia de sua nova formação sob o comando de Mourinho.",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/laliga-com-gol-de-bellingham-real-madrid-vence-espanyol-de-virada/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/jogo/22-08-2026/Espanyol-realmadrid.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/espi-marca-no-fim-e-real-madrid-vence-espanyol-em-estreia-na-temporada"
+        }
+      ],
+      "updatedAt": "2026-08-23T00:33:27.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/espanyol-x-real-madrid-carlos-espi.jpg"
+    },
+    {
+      "clusterId": "da789c2139a24bbf",
+      "slug": "d6ad4106ccab08b7",
+      "titulo": "EUA impõem tarifas de 50% sobre importações do Canadá",
+      "resumo": "A partir de 22 de agosto, os Estados Unidos aplicaram tarifas de 50% sobre produtos canadenses, após a falha nas negociações de um acordo comercial. A medida cobre cerca de US$ 20 bilhões em exportações canadenses, representando aproximadamente 5% das exportações anuais do país para os EUA. O primeiro-ministro canadense Mark Carney prometeu retaliação, enquanto o governo dos EUA argumenta que o Canadá se recusou a aceitar condições mais favoráveis de acesso ao mercado americano.",
+      "porQueImporta": "A imposição de tarifas altera significativamente o comércio bilateral e pode desencadear retaliações que afetam a economia dos dois países.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/22/canada-reage-a-trump-e-anuncia-tarifa-de-50percent-sobre-produtos-dos-eua.ghtml"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/mundo/canada-responde-com-tarifas-apos-fracasso-da-negociacao-com-trump/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/mundo/dolar-por-dolar-canada-diz-que-vai-retaliar-tarifas-de-trump/"
+        }
+      ],
+      "updatedAt": "2026-08-23T00:19:54.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/nblTPeDWrAxxwecH43vXiTvi96c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/I/xCH1J5QHi0t8NFXfV9zA/vlcsnap-2026-08-22-21h19m09s211.png"
+    },
+    {
+      "clusterId": "9e0c174e15aca66f",
+      "slug": "b944d37da6f56860",
+      "titulo": "Fluminense efetiva Marcão como técnico até o fim do ano",
+      "resumo": "O presidente Mattheus Montenegro anunciou a efetivação de Marcão como técnico do Fluminense após a vitória de 2 a 1 sobre o Remo no Maracanã. Marcão assumiu o cargo interino há dez dias, sucedendo Luis Zubeldia. A decisão foi confirmada em coletiva de imprensa e reforçada por enquete de torcedores que aprovaram a permanência do treinador. O técnico afirmou que pretende montar um Fluminense alegre, leve e organizado.",
+      "porQueImporta": "A mudança de liderança pode influenciar o desempenho do clube na temporada.",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/fluminense-confirma-marcao-como-tecnico-ate-o-final-do-ano/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/times/fluminense/noticia/2026/08/22/torcedores-do-fluminense-aprovam-efetivacao-de-marcao-em-enquete-do-ge.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/fluminense-oficializa-marcao-como-tecnico-da-equipe-para-a-temporada"
+        }
+      ],
+      "updatedAt": "2026-08-23T00:14:20.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/8XWDFeRxBVIxGINIPh-zLhkAVQU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/g/y/akOJb9RUyq7bI4lnx8Ew/55473345823-b401adaff7-k.jpg"
     },
     {
       "clusterId": "ac1ce373933fbda6",
@@ -191,127 +255,67 @@
       "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/08/Lula-3.jpg"
     },
     {
-      "clusterId": "3b7d4af40d79faa6",
-      "slug": "aa42b59d84631de7",
-      "titulo": "Tarcísio de Freitas apoia Flávio Bolsonaro e quer ver Lula em debate",
-      "resumo": "O governador de São Paulo, Tarcísio de Freitas, confirmou que estará ao lado do senador Flávio Bolsonaro na disputa presidencial, mas ressaltou que seu governo age com pragmatismo e não se baseia em coloração partidária. Ele expressou desejo de ver os candidatos, incluindo Lula, participarem de debates. Tarcísio também afirmou que pretende conquistar eleitores que atualmente votam em Lula.",
-      "porQueImporta": "A posição de um governador de estado importante pode influenciar a dinâmica da campanha presidencial.",
-      "category": "politica",
+      "clusterId": "b06ca69d7d08689d",
+      "slug": "09b947c2bc3aebf2",
+      "titulo": "Inter e Atlético-MG empatam sem gols no Beira-Rio",
+      "resumo": "O Internacional e o Atlético-MG empataram 0 a 0 no Beira-Rio, na 24ª rodada do Brasileirão 2026. O empate deixa o Inter na oitava partida sem vitória, com risco de cair na zona de rebaixamento. O técnico Paulo Pezzolano assumiu a responsabilidade pelo resultado e destacou a necessidade de melhorar a performance. Defesas destacadas incluíram a intervenção de Braian Aguirre, que evitou um gol de Minda.",
+      "porQueImporta": "O resultado coloca o Inter em situação de risco de rebaixamento e aumenta a pressão sobre o técnico antes do clássico Gre‑Nal.",
+      "category": "esportes",
       "sources": [
         {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-eleicoes-2026/tarcisio-diz-gostaria-de-ver-lula-e-flavio-em-debate/"
+          "name": "GE",
+          "url": "https://ge.globo.com/rs/futebol/times/internacional/noticia/2026/08/22/pezzolano-admite-que-tem-que-tirar-mais-do-inter-e-explica-uso-de-zagueiro-como-centroavante.ghtml"
         },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/22/tarcisio-diz-que-estara-com-flavio-bolsonaro-e-lamenta-possiveis-ausencias-em-debates-presidenciais-gostaria-de-ve-los.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/tarcisio-diz-apoiar-flavio-mas-mira-votos-de-eleitores-de-lula/"
-        }
-      ],
-      "updatedAt": "2026-08-22T17:56:09.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/bqFcOZiyhBU6uh2rhKkmTh5qiqc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Q/jnNZZQSPGYPj7jSXuQqA/captura-de-tela-2026-08-22-101851.png"
-    },
-    {
-      "clusterId": "c3557cf41e0f84af",
-      "slug": "65d1ab77446edcb4",
-      "titulo": "Influenciador Lito Sousa recebe diagnóstico de doença rara de Creutzfeldt-Jakob",
-      "resumo": "Lito Sousa, influencer de aviação, foi diagnosticado com a doença de Creutzfeldt-Jakob, uma condição neurodegenerativa rara e sem tratamento. O diagnóstico veio após tratamento de câncer de próstata e inflamação cerebral. Ele compartilhou o diagnóstico com familiares e recebeu mensagens de apoio de celebridades. A doença evolui rapidamente e afeta o cérebro.",
-      "porQueImporta": "A condição de Lito Sousa destaca a importância da conscientização sobre doenças neurodegenerativas raras e o impacto que elas têm na vida de indivíduos públicos.",
-      "category": "geral",
-      "sources": [
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/pop/celebridades/grande-nome-da-moda-teve-creutzfeld-jakob-mesma-doenca-de-lito-sousa/"
-        },
-        {
-          "name": "Super Interessante",
-          "url": "https://super.abril.com.br/ciencia/creutzfeldt-jakob-entenda-a-doenca-enfrentada-por-lito-sousa-do-canal-avioes-e-musicas/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cx2j8ylddrdo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileirao-inter-e-atletico-mg-empatam-sem-gols-no-beira-rio/"
         }
       ],
-      "updatedAt": "2026-08-22T16:48:26.000Z",
-      "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/08/SI_doenca-de-lito_site.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "88d86599e670f62c",
-      "slug": "4624fedf1e075d89",
-      "titulo": "Irã condena planos dos EUA de anunciar novas sanções",
-      "resumo": "Irã condena planos dos EUA de anunciar novas sanções The post Irã condena planos dos EUA de anunciar novas sanções appeared first on InfoMoney.",
-      "porQueImporta": "",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/eua-impoem-sancoes-ao-ira-ha-quase-50-anos/"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/ira-condena-planos-dos-eua-de-anunciar-novas-sancoes/"
-        }
-      ],
-      "updatedAt": "2026-08-22T20:14:04.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-22T153452Z_1_LYNXMPEM7L0A4_RTROPTP_4_IRAN-CRISIS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "updatedAt": "2026-08-23T00:58:59.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/qWZqZOE4kTV904eOElrzAqglhcE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/D/M/Tv2nULQXA3N9e9b7HWFA/whatsapp-image-2026-08-22-at-21.26.10.jpeg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "82dcb7b4f02f7ab4",
-        "slug": "58e39cdce7194b0a",
-        "titulo": "Juíza federal dos EUA anula suspensão de vistos de residência permanente imposta por Trump a 75 países",
-        "resumo": "Uma juíza federal norte‑americana anulou a ordem de Donald Trump que havia suspenso o processamento de vistos de residência permanente para cidadãos de 75 países, incluindo o Brasil. A decisão considera a medida ilegal e contrária à lei, excedendo a autoridade do secretário de Estado, Marco Rubio. A suspensão, em vigor desde 21 de janeiro, impedia a emissão de vistos de imigrante para esses países.",
-        "porQueImporta": "A decisão restaura o acesso de brasileiros e de outros cidadãos a vistos de residência nos EUA, impactando mobilidade e relações bilaterais.",
+        "clusterId": "a2ed93d17fed10b2",
+        "slug": "63474bd912f6a228",
+        "titulo": "Datafolha mostra Flávio Bolsonaro à frente de Lula em alguns estados e vice-versa",
+        "resumo": "A pesquisa Datafolha indica que Flávio Bolsonaro lidera as intenções de voto no Distrito Federal, Rio de Janeiro e São Paulo, com 39%, 49% e 47% respectivamente, enquanto Lula mantém vantagem em Pernambuco, Piauí e Minas Gerais, com 56%, 62% e 37%. Em todos os estados analisados, a margem de erro é de três pontos percentuais, o que mantém os resultados dentro de um intervalo de empate técnico em alguns casos.",
+        "porQueImporta": "Os resultados refletem a polarização regional na corrida presidencial de 2026, influenciando estratégias de campanha e expectativas eleitorais.",
         "category": "politica",
         "sources": [
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/juiza-dos-eua-anula-ordem-de-trump-que-barrava-vistos-para-brasileiros/"
+            "url": "https://veja.abril.com.br/brasil/a-vantagem-aberta-por-flavio-bolsonaro-sobre-lula-no-rio-e-no-df-segundo-o-datafolha/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/distrito-federal/datafolha-flavio-bolsonaro-lidera-disputa-presidencial-no-df"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/22/eleicoes-2026-veja-como-esta-a-corrida-presidencial-em-sp-rj-df-mg-pe-e-pi-segundo-o-datafolha.ghtml"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/datafolha-veja-os-indices-de-popularidade-de-lula-em-sao-paulo-minas-rio-pernambuco-e-df/"
           },
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-internacional/juiza-dos-eua-anula-ordem-de-trump-que-barrava-vistos-para-brasileiros/"
+            "url": "https://www.poder360.com.br/poder-eleicoes/lula-tem-62-e-flavio-29-no-2o-turno-em-pe-diz-datafolha/"
           },
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/juiza-anula-suspensao-de-vistos-imposta-por-trump-ao-brasil-e-a-mais-74-paises/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-lula-tem-46-dos-votos-no-2o-turno-em-minas-flavio-42/"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/22/juiza-anula-suspensao-de-vistos-imposta-por-governo-trump-a-75-paises.ghtml"
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-08-22T19:01:59.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/02/GettyImages-838825674.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "82c603895c34ab5b",
-        "slug": "058bf1c8aeb3f16a",
-        "titulo": "Datafolha mostra Rafael Fonteles com 56% das intenções de voto no Piauí",
-        "resumo": "A pesquisa Datafolha divulgada em 22 de agosto indica que o governador Rafael Fonteles lidera a corrida ao governo do Piauí com 56% das intenções de voto, enquanto Joel Rodrigues ocupa a segunda posição com 21%. Em relação ao Senado, Ciro Nogueira e Marcelo Castro lideram com 16% cada, e Júlio César também aparece como favorito. A avaliação do governo de Fonteles mostra 72% de aprovação e 23% de desaprovação.",
-        "porQueImporta": "Os resultados apontam uma forte vantagem de Fonteles, sugerindo que ele poderia ser reeleito no primeiro turno e influenciar a composição do Senado estadual.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/datafolha-rafael-fonteles-lidera-corrida-ao-governo-do-piaui-com-56"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/datafolha-mostra-empate-triplo-na-disputa-pelo-senado-no-piaui/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/08/22/datafolha-aprovacao-governo-pi-rafael-fonteles.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-22T19:47:52.000Z",
-        "imageUrl": "https://images.metroimg.com/2025/06/10213228/rafael-fonteles.jpeg"
+        "updatedAt": "2026-08-22T23:35:35.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/06/lula-flavio-bolsonaro-7.jpg?quality=70&strip=info"
       },
       {
         "clusterId": "ac1ce373933fbda6",
@@ -338,330 +342,319 @@
         "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/08/Lula-3.jpg"
       },
       {
-        "clusterId": "3b7d4af40d79faa6",
-        "slug": "aa42b59d84631de7",
-        "titulo": "Tarcísio de Freitas apoia Flávio Bolsonaro e quer ver Lula em debate",
-        "resumo": "O governador de São Paulo, Tarcísio de Freitas, confirmou que estará ao lado do senador Flávio Bolsonaro na disputa presidencial, mas ressaltou que seu governo age com pragmatismo e não se baseia em coloração partidária. Ele expressou desejo de ver os candidatos, incluindo Lula, participarem de debates. Tarcísio também afirmou que pretende conquistar eleitores que atualmente votam em Lula.",
-        "porQueImporta": "A posição de um governador de estado importante pode influenciar a dinâmica da campanha presidencial.",
+        "clusterId": "d0027b590feaca63",
+        "slug": "1279c44003413f54",
+        "titulo": "Renan Santos, candidato à Presidência pelo Missão, faz campanha na Zona Sul de SP",
+        "resumo": "Renan Santos, candidato à Presidência pelo Missão, fez campanha em São Paulo Vamos ver como foi o sábado (22) dos candidatos à presidência da República. Renan Santos, do Missão, fez campanha em São Paulo (SP). Renan Santos esteve pela manhã no Jardim Panorama, na Zona Sul de São Paulo. O candidato caminhou e conversou com moradores. Renan disse que, se eleito, pretende reurbanizar as favelas. O projeto, segundo ele, vai demandar investimentos de mais de R$ 1 trilhão por um período de 10 a 15 anos e será financiado pelo governo, em parceria com a iniciativa privada. 📱Favorite o g1 no Google e…",
+        "porQueImporta": "",
         "category": "politica",
         "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/tarcisio-diz-gostaria-de-ver-lula-e-flavio-em-debate/"
-          },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/22/tarcisio-diz-que-estara-com-flavio-bolsonaro-e-lamenta-possiveis-ausencias-em-debates-presidenciais-gostaria-de-ve-los.ghtml"
+            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/22/presidente-lula-candidato-a-reeleicao-pelo-pt-faz-campanha-na-zona-oeste-do-rio.ghtml"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/tarcisio-diz-apoiar-flavio-mas-mira-votos-de-eleitores-de-lula/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-o-escritor-augusto-cury-candidato-do-avante-a-presidencia/"
           }
         ],
-        "updatedAt": "2026-08-22T17:56:09.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/bqFcOZiyhBU6uh2rhKkmTh5qiqc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/Q/jnNZZQSPGYPj7jSXuQqA/captura-de-tela-2026-08-22-101851.png"
+        "updatedAt": "2026-08-23T00:06:11.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/CFHUsW0HeEtNWZwM-zFQZOwDMys=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/O/D97nUxTHStWbCefLs04w/videoframe-3146242.png"
       },
       {
-        "clusterId": "d4ae199e0186f8c9",
-        "slug": "a40f0f862000a6c0",
-        "titulo": "Homem é preso após tentar invadir comitê de Ricardo Coutinho na Paraíba",
-        "resumo": "Um homem foi detido pela Polícia Civil depois de tentar entrar no comitê de Ricardo Coutinho, ex-governador e candidato a deputado federal. O ataque ocorreu na Paraíba, onde Coutinho atua como líder do PT. O partido repudiou a violência e afirmou que divergências devem permanecer no campo das ideias. A polícia está investigando o caso.",
-        "porQueImporta": "O episódio destaca a tensão política e a necessidade de garantir a segurança em eventos partidários.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/cartaexpressa/homem-e-preso-apos-tentar-invadir-o-comite-de-ricardo-coutinho-do-pt-na-paraiba/"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/pt-repudia-violencia-contra-ricardo-coutinho-na-paraiba/"
-          }
-        ],
-        "updatedAt": "2026-08-22T19:44:19.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2019/12/Untitled-55.jpg"
-      },
-      {
-        "clusterId": "ca9c30b23d83d1de",
-        "slug": "4e13626bc4d2ae5f",
-        "titulo": "Polícia Federal solicita informações da Ancine sobre filme 'Dark Horse'",
-        "resumo": "A Polícia Federal pediu à Agência Nacional do Cinema (Ancine) documentos relacionados ao processo administrativo contra a produtora Go Up Entertainment, responsável pelo filme 'Dark Horse', cinebiografia de Jair Bolsonaro. A Ancine tem 10 dias para responder. O processo foi aberto após denúncia de gravação de obra audiovisual estrangeira no Brasil sem comunicação prévia à agência.",
-        "porQueImporta": "O caso destaca a fiscalização de produções estrangeiras no Brasil e a investigação de possíveis irregularidades envolvendo figuras políticas.",
+        "clusterId": "c740ebd3e71fe395",
+        "slug": "e3683bfbe9f17037",
+        "titulo": "Datafolha mostra avaliação do governo Lula em 47% de aprovação e 50% de desaprovação",
+        "resumo": "A pesquisa Datafolha revelou que 47% dos entrevistados aprovam o governo Lula, enquanto 50% desaprovam, com 3% não sabendo. Em avaliações de desempenho, 33% consideram o governo ótimo ou bom, 25% regular e 41% ruim ou péssimo. Os índices variam por estado, com 46% de aprovação em Pernambuco e 27% em São Paulo e Rio de Janeiro.",
+        "porQueImporta": "Os resultados indicam a polarização da opinião pública sobre o governo Lula, relevante para sua campanha de reeleição.",
         "category": "politica",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/lulinha-e-dark-horse-trazem-pf-e-mendonca-para-a-disputa-eleitoral"
+            "url": "https://www.metropoles.com/brasil/datafolha-lula-tem-46-de-avaliacao-positiva-em-pe-e-27-em-sp-e-rj"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/08/21/dark-horse-pf-pede-a-ancine-informacoes-sobre-cinebiografia-de-jair-bolsonaro.ghtml"
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/21/datafolha-aprova-desaprova-governo-21-agosto.ghtml"
           }
         ],
-        "updatedAt": "2026-08-22T19:34:01.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/06/lula-flavio-2jpg.jpeg"
+        "updatedAt": "2026-08-22T23:44:50.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/08/presidente-lula-5.jpg"
       },
       {
-        "clusterId": "4c693074354b6e73",
-        "slug": "cc5deb651cef99f2",
-        "titulo": "Veterinária morre após ser mordida por cachorro do Senado",
-        "resumo": "Vitória Pinha, veterinária terceirizada no Serviço de Cinotecnia da Casa, foi mordida no pescoço por um pastor-belga no canil do Senado em 18 de março. Ela ficou internada por quatro dias e faleceu em 22 de março. O incidente ocorreu enquanto ela realizava suas funções de tratadora de animais.",
-        "porQueImporta": "O caso destaca a necessidade de protocolos de segurança em ambientes de trabalho com animais de grande porte.",
+        "clusterId": "cfd4dc80174bb16b",
+        "slug": "3b6176307c0b6245",
+        "titulo": "Caiado apoia fim da escala 6x1 e relator da PEC é Omar Aziz",
+        "resumo": "O senador Ronaldo Caiado mudou de posição e agora defende a PEC que propõe o fim da escala 6x1, antes criticada por ele como \"eleitoreira\". Na mesma semana, o presidente da CCJ, Otto Alencar, designou Omar Aziz como relator da PEC do fim da escala 6x1, enquanto Rogério Carvalho ficará responsável pela PEC de Segurança Pública. As propostas foram encaminhadas à CCJ e são consideradas estratégicas pela campanha de Lula.",
+        "porQueImporta": "O fim da escala 6x1 pode alterar a dinâmica das eleições e a distribuição de recursos entre os partidos.",
         "category": "politica",
         "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/sao-paulo/caiado-muda-de-posicao-e-diz-ser-a-favor-do-fim-da-escala-6x1"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/21/otto-alencar-acerta-com-alcolumbre-relatores-das-pecs-da-seguranca-e-fim-da-escala-6-x-1.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-22T22:37:49.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/08/design-sem-nome-15-1.jpg"
+      },
+      {
+        "clusterId": "c75b62e77f6dc928",
+        "slug": "6eba272fa851bda2",
+        "titulo": "Suspeito de tentar invadir comitê de Ricardo Coutinho é solto após audiência de custódia",
+        "resumo": "Romero Andrade foi preso em flagrante depois de tentar invadir o comitê de campanha de Ricardo Coutinho, candidato a deputado federal e ex-governador da Paraíba. Após a audiência de custódia, ele foi solto, mas a Justiça impôs medidas cautelares que o proíbem de se aproximar de atos políticos de Coutinho e de frequentar o comitê do PT. A Polícia Civil continua investigando o caso.",
+        "porQueImporta": "O caso destaca a tensão política e a aplicação de medidas cautelares em situações de tentativa de invasão de comitê eleitoral.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pb/paraiba/noticia/2026/08/22/suspeito-de-tentar-invadir-comite-e-fazer-ameacas-a-ricardo-coutinho-em-joao-pessoa-e-solto-apos-audiencia-de-custodia.ghtml"
+          },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/morre-veterinaria-atacada-por-cachorro-no-canil-do-senado/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/veterinaria-atacada-por-cao-do-senado-morte-apos-quatro-dias-internada/"
+            "url": "https://www.cartacapital.com.br/cartaexpressa/homem-e-preso-apos-tentar-invadir-o-comite-de-ricardo-coutinho-do-pt-na-paraiba/"
           }
         ],
-        "updatedAt": "2026-08-22T19:27:47.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/08/Senado-1.jpg"
+        "updatedAt": "2026-08-22T22:02:03.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/Edv4u9fr1hOyeYBwezAZ55RGZFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/9/GTXoxwSYuTygCfySDOMA/prisao-comite-ricardo-coutinho.png"
       },
       {
-        "clusterId": "0f4820c1e2a6f884",
-        "slug": "0882fa6c13c0643a",
-        "titulo": "Lula defende prisão de criminosos e retirada de facções do Rio",
-        "resumo": "No Rio de Janeiro, Lula afirmou que, se reeleito, não vai matar 100 ou 200 pessoas, mas vai prender criminosos e retirar as facções do território, devolvendo-o ao povo. Ele destacou que o objetivo é retirar os bandidos do território e garantir segurança. O discurso foi acompanhado por Flávio Bolsonaro, que também falou em ‘guerra’ ao crime. Ambos apresentaram suas propostas de segurança pública em eventos de campanha na capital fluminense.",
-        "porQueImporta": "A proposta de Lula sobre segurança pública pode influenciar políticas de combate ao crime e a percepção de segurança no Rio de Janeiro.",
+        "clusterId": "6e8c61a81a7a83ba",
+        "slug": "885a23144a8fee9b",
+        "titulo": "Kalil critica Patrus por posição contra venda da Copasa",
+        "resumo": "Alexandre Kalil alfinetou Patrus Ananias após este declarar que votou contra a venda da Copasa e defender a reestatização. A crítica ocorreu durante um comício com Lula em Belo Horizonte. Em pesquisa da Datafolha, Kalil e Patrus têm 12% de intenções de voto cada um, atrás de Cleitinho, que lidera com 32%.",
+        "porQueImporta": "A disputa entre Kalil e Patrus reflete divergências internas no cenário político de Minas Gerais e pode influenciar a dinâmica eleitoral.",
         "category": "politica",
         "sources": [
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-que-governo-nao-vai-matar-100-ou-200-mas-vai-prender/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/minas-gerais/kalil-alfineta-patrus-apos-declaracao-sobre-venda-da-copasa"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/08/22/em-campanha-simultanea-no-rio-lula-defende-prender-criminosos-e-flavio-fala-em-guerra-ao-crime.ghtml"
+            "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/21/datafolha-mg-governador-21-agosto.ghtml"
           }
         ],
-        "updatedAt": "2026-08-22T19:00:31.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/Gorr5W4HqEawffmE4GegBX4EPoE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/Y/S04ZiBT3SnnlugRxhf3Q/imagem-cortada-2026-08-22t150638.314.jpg"
+        "updatedAt": "2026-08-22T22:00:24.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/05/kalil1.jpg"
+      },
+      {
+        "clusterId": "07dffbc0c6e0bb62",
+        "slug": "0431bd17ae8ecab4",
+        "titulo": "Candidaturas a deputado federal caem 28% e redes sociais dominam presença dos candidatos",
+        "resumo": "O número de candidaturas a deputado federal diminuiu de 10,6 mil em 2022 para 7,6 mil em 2026, segundo dados do TSE, refletindo reformas que buscam reduzir partidos e incentivar fusões. Paralelamente, o levantamento do TSE mostra que Instagram e Facebook lideram as redes sociais usadas pelos candidatos, concentrando a maioria dos seguidores. O g1 lançou a ferramenta \"Quem são os candidatos\", que reúne dados do TSE sobre todos os candidatos e permite buscas por nome, partido, gênero, cor, ocupação, grau de instrução e patrimônio declarado.",
+        "porQueImporta": "Esses dados mostram a mudança no panorama político e a importância das redes sociais na campanha eleitoral.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/candidatos-a-deputado-federal-concentram-campanha-no-instagram/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/21/quem-sao-os-candidatos-nova-ferramenta-g1.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-22T20:36:31.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/V9VH2OZ-nLt8UdE_Kux12SDAanI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/g/tQemBNQayD98djCxnQjQ/41f0dcea90a343457df54d34204e67b8.jpg"
       }
     ],
     "economia": [
       {
-        "clusterId": "88d86599e670f62c",
-        "slug": "4624fedf1e075d89",
-        "titulo": "Irã condena planos dos EUA de anunciar novas sanções",
-        "resumo": "Irã condena planos dos EUA de anunciar novas sanções The post Irã condena planos dos EUA de anunciar novas sanções appeared first on InfoMoney.",
-        "porQueImporta": "",
+        "clusterId": "cd31f3d29c114b73",
+        "slug": "197535d5aa2e5efb",
+        "titulo": "Cruzeiro x Flamengo no Brasileirão",
+        "resumo": "O duelo entre Cruzeiro e Flamengo está marcado para a noite de sábado, 22, no Brasileirão. As equipes se enfrentarão após a disputa na Libertadores. As escalações dos dois times foram divulgadas, indicando os titulares e reservas previstos para o jogo. O confronto pode ser acompanhado em canais de televisão e plataformas de streaming que transmitem a competição.",
+        "porQueImporta": "O jogo reúne dois clubes tradicionais e pode influenciar a tabela do campeonato.",
         "category": "economia",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/eua-impoem-sancoes-ao-ira-ha-quase-50-anos/"
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/cruzeiro-x-flamengo-escalacoes-e-onde-assistir-ao-brasileirao/"
           },
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/ira-condena-planos-dos-eua-de-anunciar-novas-sancoes/"
+            "url": "https://www.infomoney.com.br/esportes/cruzeiro-flamengo-onde-assistir-brasileirao/"
           }
         ],
-        "updatedAt": "2026-08-22T20:14:04.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-22T153452Z_1_LYNXMPEM7L0A4_RTROPTP_4_IRAN-CRISIS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-22T22:35:51.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/thumb-cruzeiro-x-flamengo-1.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "78d4a74d0651d47e",
-        "slug": "d55c0b954b4cb315",
-        "titulo": "Ronaldo Caiado declara apoio ao fim da escala 6x1",
-        "resumo": "O candidato à presidência Ronaldo Caiado, do PSD, afirmou em entrevista coletiva em Campinas que é favorável ao fim da escala 6x1. A declaração contrasta com sua posição anterior, quando criticou a proposta como 'eleitoreira'. Caiado não detalhou motivos para a mudança de postura. A declaração foi feita em meio ao debate sobre a Proposta de Emenda à Constituição que prevê a redução da jornada de trabalho.",
-        "porQueImporta": "A mudança de posição de Caiado pode influenciar a percepção dos eleitores sobre suas propostas de reforma trabalhista.",
+        "clusterId": "9ead0e06734bd1ba",
+        "slug": "a82860e50762b7f8",
+        "titulo": "Kimi Antonelli perde pelo menos 10 posições no grid do GP da Itália e Lando Norris conquista pole na Holanda",
+        "resumo": "O piloto italiano Kimi Antonelli, líder do Mundial de Pilotos em 2026, será punido com a perda de pelo menos 10 posições no grid de largada do GP da Itália, entre 4 e 6 de setembro, conforme confirmado por Toto Wolff. Enquanto isso, Lando Norris da McLaren venceu a classificação do GP da Holanda, ficando em pole position no circuito de Zandvoort, com George Russell em segundo e Gabriel Bortoleto na nona posição.",
+        "porQueImporta": "A punição de Antonelli pode alterar a dinâmica da temporada, enquanto a pole de Norris reforça a competitividade da McLaren na F1.",
         "category": "economia",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/sp/campinas-regiao/eleicoes/2026/noticia/2026/08/22/caiado-afirma-ser-a-favor-do-fim-da-escala-6x1-apos-chamar-pec-de-eleitoreira.ghtml"
+            "name": "GE",
+            "url": "https://ge.globo.com/motor/formula-1/noticia/2026/08/22/kimi-antonelli-perdera-ao-menos-10-posicoes-no-grid-de-largada-do-gp-da-italia-de-f1.ghtml"
           },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/ronaldo-caiado-muda-discurso-e-se-diz-ser-a-favor-do-fim-da-escala-6x1/"
-          }
-        ],
-        "updatedAt": "2026-08-22T19:03:22.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/kWiwO9smZ79gCyzZ22ji7f0r0Yk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/H/Y3QHjMSoSu1sXS2OgRNw/captura-de-tela-2026-08-22-155601.png"
-      },
-      {
-        "clusterId": "8d39fbd435166510",
-        "slug": "588596436b0a7d96",
-        "titulo": "Pedro Jobim: Recessão levaria a perdas inéditas em ativos de investidores",
-        "resumo": "Economista-chefe e sócio-fundador da Legacy Capital afirma que o ciclo de endividamento atual se apoiou no mercado de capitais, e não no crédito bancário, o que jogaria eventuais calotes direto na carteira do investidor The post Pedro Jobim: Recessão levaria a perdas inéditas em ativos de investidores appeared first on InfoMoney.",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/onde-investir/pedro-jobim-recessao-perdas-ineditas-investimentos/"
-          }
-        ],
-        "updatedAt": "2026-08-22T19:32:34.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/07/FAB_1991.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "c11c6e44d4fd0544",
-        "slug": "cef2276718a3645f",
-        "titulo": "Dívida dos EUA cresce e risco de crise no mercado de títulos aumenta",
-        "resumo": "O endividamento federal dos Estados Unidos tem se ampliado, atingindo níveis recordes. A expectativa de aumento das taxas de juros, após o fim da era de juros baixos, tem levado alguns economistas a questionar a estabilidade do mercado de títulos. Embora poucos acreditem em uma crise generalizada, a preocupação com o risco de inadimplência ou dificuldades de refinanciamento tem se intensificado.",
-        "porQueImporta": "Um aumento na dívida e o risco de crise podem afetar a economia global e os investidores em títulos.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/business/global/mundo-redescobre-divida-colossal-eua-risco-comeca-a-preocupar/"
-          }
-        ],
-        "updatedAt": "2026-08-22T18:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/HIGHER-RATES-1.jpg?fit=300%2C214&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "49b66ff56516a743",
-        "slug": "63d9563fa4e9a1da",
-        "titulo": "Flávio anuncia que bandido será retirado de circulação em pé ou deitado",
-        "resumo": "Durante o lançamento da campanha de Douglas Ruas, Flávio afirmou que os criminosos serão retirados de circulação em pé ou deitado. Ele destacou a necessidade de medidas mais rigorosas para combater o crime no Rio de Janeiro. A proposta faz parte de um plano mais amplo de segurança pública. O discurso ocorreu no Maracanãzinho.",
-        "porQueImporta": "A medida pode alterar significativamente a abordagem policial e a segurança urbana no estado.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/flavio-sobre-combate-ao-crime-bandido-sera-tirado-de-circulacao-em-pe-ou-deitado/"
-          }
-        ],
-        "updatedAt": "2026-08-22T17:25:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/05/2026-05-27T200245Z_1_LYNXMPEM4Q21M_RTROPTP_4_BRAZIL-ELECTION-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "1105e27c90bb6790",
-        "slug": "8226b7a32c67085a",
-        "titulo": "Jogador de futebol Quévin Castro morre aos 25 anos em Portugal",
-        "resumo": "Quévin Castro, jogador do Real Sport Clube de Massamá, faleceu aos 25 anos após sofrer mal-estar durante um jogo contra o Estrela da Amadora. Ele recebeu atendimento no campo e foi levado ao hospital, onde veio a óbito. A partida foi interrompida pouco depois do incidente. A morte do atleta chocou a comunidade esportiva local.",
-        "porQueImporta": "A morte de um jovem atleta em campo destaca a importância da saúde e segurança em eventos esportivos.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/esportes/jogador-de-futebol-quevin-castro-morre-aos-25-anos-em-portugal/"
-          }
-        ],
-        "updatedAt": "2026-08-22T16:53:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/quevin-castro.png?fit=300%2C228&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "55559c88bd8a42d6",
-        "slug": "845a63c9a6f52a43",
-        "titulo": "Presidente da CONCACAF pede a Infantino que não participe de torneio juvenil",
-        "resumo": "Presidente da CONCACAF pede a Infantino que não participe de torneio juvenil The post Presidente da CONCACAF pede a Infantino que não participe de torneio juvenil appeared first on InfoMoney.",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/esportes/presidente-da-concacaf-pede-a-infantino-que-nao-participe-de-torneio-juvenil/"
-          }
-        ],
-        "updatedAt": "2026-08-22T16:43:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/2026-08-10T141051Z_1_LYNXMPEM790ZP_RTROPTP_4_COLOMBIA-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "a693538dcbc8be54",
-        "slug": "ccbad6abf575d4dc",
-        "titulo": "Animação chinesa de US$200 vira símbolo anti-IA após viralizar",
-        "resumo": "A animação chinesa, produzida com orçamento de US$200, arrecadou US$4 milhões. Foi criada sem o uso de ferramentas de inteligência artificial. O filme ganhou notoriedade nas redes sociais, tornando-se um símbolo de resistência à IA.",
-        "porQueImporta": "Ilustra como produções de baixo custo podem competir com grandes tecnologias e influenciar debates sobre IA.",
-        "category": "economia",
-        "sources": [
           {
             "name": "Exame",
-            "url": "https://exame.com/pop/a-animacao-chinesa-de-us-200-que-faturou-us-4-milhoes-e-virou-simbolo-anti-ia/"
+            "url": "https://exame.com/esporte/formula-1-horario-e-onde-assistir-ao-ultimo-gp-da-holanda/"
           }
         ],
-        "updatedAt": "2026-08-22T16:40:12.000Z"
+        "updatedAt": "2026-08-22T22:00:15.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/H6b0vomd93sx7uX9By4feL_OPCA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/7/a/SaHsEaRKeIBspCRBlT9A/2026-08-22t084942z-1121802884-up1em8m0ois8o-rtrmadp-3-motor-f1-netherlands.jpg"
+      },
+      {
+        "clusterId": "fe942e00d4014612",
+        "slug": "24c2ef8bd92fb3ad",
+        "titulo": "Terremoto de magnitude 5,9/5,8 atinge leste do Japão",
+        "resumo": "Um terremoto de magnitude 5,9 (ou 5,8, conforme fontes) ocorreu no leste do Japão, com profundidade de 78 km. O Centro Alemão de Pesquisa em Geociências relatou o evento. A TV pública NHK mostrou tráfego normal nas estradas próximas, como Mito e Saitama. Não há alerta de tsunami.",
+        "porQueImporta": "O tremor pode afetar a região, mas não representa risco de tsunami.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mundo/terremoto-de-magnitude-59-sacode-leste-do-japao-nao-ha-alerta-de-tsunami/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-58-atinge-o-japao/"
+          }
+        ],
+        "updatedAt": "2026-08-22T20:49:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Mapa-do-tremor-japao-usgs.png?fit=300%2C160&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "61dea9ffcbf2a2a7",
+        "slug": "38854db68647ba9f",
+        "titulo": "Motoristas poderão consultar passagens free flow pelo app CNH do Brasil",
+        "resumo": "A partir de segunda-feira, os motoristas terão acesso ao histórico de pedágios eletrônicos via aplicativo da CNH do Brasil. A funcionalidade foi implementada após testes, adaptação, homologação e integração dos sistemas. O free flow permite cobrança automática sem necessidade de parar ou reduzir a velocidade. A consulta facilita o controle de despesas e a transparência das tarifas.",
+        "porQueImporta": "Permite maior controle e transparência nas despesas de transporte dos motoristas.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/brasil/motorista-podera-consultar-passagem-por-pedagio-free-flow-pelo-app-da-cnh/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/08/21/free-flow-motoristas-poderao-consultar-passagens-pelo-app-cnh-do-brasil-a-partir-de-segunda.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-22T20:24:01.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2024/09/Imagem1-e1777411640712.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "56a139d93987b3d6",
+        "slug": "db69488a26117a99",
+        "titulo": "Primeiro-ministro do Canadá discute suspensão de comércio com EUA",
+        "resumo": "O primeiro-ministro canadense Mark Carney e autoridades locais avaliaram medidas para proteger os interesses do país, incluindo a possibilidade de tarifas retaliatórias proporcionais. A discussão faz parte de uma estratégia mais ampla para lidar com tensões comerciais entre os dois países. Carney destacou que os próximos passos envolveriam negociações e a aplicação de sanções comerciais. A decisão pode afetar setores que dependem de exportações para os EUA.",
+        "porQueImporta": "A medida pode alterar significativamente o comércio e a economia canadense, impactando empresas e consumidores.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mundo/premie-do-canada-e-autoridades-locais-discutem-suspensao-do-comercio-com-os-eua/"
+          }
+        ],
+        "updatedAt": "2026-08-22T22:54:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/01/2026-01-20T155459Z_1083991834_RC235JAMDW7H_RTRMADP_3_DAVOS-MEETING.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "62da1fcc1ce0c5e7",
+        "slug": "9e883cd7e194a29e",
+        "titulo": "Engenharia social responde por 40% das fraudes financeiras no Brasil",
+        "resumo": "Estudo aponta que 40% das fraudes financeiras no Brasil são realizadas por meio de engenharia social. Golpistas criam call centers falsos e simulam operações policiais para enganar vítimas. Tais técnicas exploram a confiança e a urgência dos usuários.",
+        "porQueImporta": "Entender as táticas de engenharia social ajuda a prevenir perdas financeiras e a fortalecer a segurança cibernética no país.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/minhas-financas/engenharia-social-responde-por-40-das-fraudes-financeiras-no-brasil/"
+          }
+        ],
+        "updatedAt": "2026-08-22T22:48:33.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/engenharia-social-Freepik.png?fit=300%2C179&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "f0b337469c1edd9f",
+        "slug": "d30f725fc7c48459",
+        "titulo": "Encerramento da distribuição de sorvetes Häagen-Dazs no Brasil",
+        "resumo": "A empresa anunciou que deixará de distribuir sorvetes da marca Häagen-Dazs no país, em razão da reformulação de portfólio divulgada em março. A decisão segue a venda da operação brasileira da marca para a 3corações. A mudança implica na retirada dos produtos das prateleiras e no fim das vendas diretas a varejistas.",
+        "porQueImporta": "Impacta consumidores que utilizam a marca e pode influenciar a estratégia de portfólio de outras empresas de alimentos no mercado brasileiro.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/business/tchau-haagen-dazs-distribuicao-do-sorvete-e-encerrada-no-brasil/"
+          }
+        ],
+        "updatedAt": "2026-08-22T22:26:23.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/sorvete.png?fit=300%2C112&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "e5b22f7587abbc34",
+        "slug": "db1c75c30e022c19",
+        "titulo": "Sindicato denuncia desconfiança profunda em líderes da Boeing",
+        "resumo": "Funcionários da Boeing afirmam que a desconfiança em relação aos líderes da empresa permanece alta. Os motivos citados incluem a transferência de empregos para outros estados ou terceirização no exterior, a priorização da velocidade em detrimento da qualidade, a desconsideração de decisões de engenharia e salários desatualizados. O sindicato destaca que esses fatores têm impactado negativamente o clima interno da companhia.",
+        "porQueImporta": "A situação pode afetar a produtividade e a segurança dos projetos da Boeing.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/business/profunda-desconfianca-sobre-lideres-da-boeing-continua-diz-sindicato/"
+          }
+        ],
+        "updatedAt": "2026-08-22T21:30:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/07/2024-07-19T180625Z_1_LYNXMPEK6I0S8_RTROPTP_4_BOEING-DELIVERIES.jpg?fit=300%2C176&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "178428ac509a0daf",
-        "slug": "daf4ae80ca3402c9",
-        "titulo": "Avanços em tratamentos de câncer e pesquisas de prevenção",
-        "resumo": "Novos tratamentos têm reduzido a mortalidade por câncer de pulmão nos Estados Unidos, segundo o relatório Cancer Statistics 2026 da American Cancer Society. Estudos indicam que o consumo elevado de frutose em bebidas açucaradas aumenta em 2,45 vezes o risco de câncer gástrico. Pesquisadores estão testando vacinas que poderiam prevenir o câncer colorretal em pessoas com síndrome de Lynch, uma predisposição genética.",
-        "porQueImporta": "Esses desenvolvimentos mostram progresso na redução de mortalidade e na prevenção de cânceres associados a fatores de risco modificáveis e genéticos.",
+        "clusterId": "da789c2139a24bbf",
+        "slug": "d6ad4106ccab08b7",
+        "titulo": "EUA impõem tarifas de 50% sobre importações do Canadá",
+        "resumo": "A partir de 22 de agosto, os Estados Unidos aplicaram tarifas de 50% sobre produtos canadenses, após a falha nas negociações de um acordo comercial. A medida cobre cerca de US$ 20 bilhões em exportações canadenses, representando aproximadamente 5% das exportações anuais do país para os EUA. O primeiro-ministro canadense Mark Carney prometeu retaliação, enquanto o governo dos EUA argumenta que o Canadá se recusou a aceitar condições mais favoráveis de acesso ao mercado americano.",
+        "porQueImporta": "A imposição de tarifas altera significativamente o comércio bilateral e pode desencadear retaliações que afetam a economia dos dois países.",
         "category": "mundo",
         "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/saude/cancer-de-pulmao-deixa-de-ser-sentenca-de-morte-com-novos-tratamentos/"
-          },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/saude/noticia/2026/08/21/cientistas-vacinas-cancer-de-intestino.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-22T20:09:56.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/3x4J9WtmGJZ-Ag4yEkmlAdOSyIo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Z/T/dPOwnbTP2evlBI5uClTQ/pexels-franco30-8488619.jpg"
-      },
-      {
-        "clusterId": "8087e42f10b65700",
-        "slug": "bd411f29671fbe5b",
-        "titulo": "Ataques com drones aumentam em ambos lados da guerra",
-        "resumo": "Drones ucranianos atacaram infraestrutura russa, incluindo refinaria e armazém da Ozon, causando mortes e feridos. Em resposta, Putin acusou a Ucrânia de abrir uma \"caixa de Pandora\" e ameaçou retaliação. Enquanto isso, drones russos atingiram um shopping em Kryvyi Rih, matando 15 pessoas, e outro ataque em Tokarivka matou quatro, incluindo crianças.",
-        "porQueImporta": "Os ataques demonstram a escalada de violência e a crescente vulnerabilidade de civis e infraestrutura em ambos os lados.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/putin-diz-que-ucrania-abriu-caixa-de-pandora-apos-novos-ataques/"
+            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/08/22/canada-reage-a-trump-e-anuncia-tarifa-de-50percent-sobre-produtos-dos-eua.ghtml"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/08/22/russia-acusa-ucrania-pela-morte-de-6-civis-em-ataques-com-drones.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-22T17:30:06.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/YwConPuFz3GvrBZnNPVXHxZvDcY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/q/hIqH1ZSPKZxveS73UFig/ozon.jpg"
-      },
-      {
-        "clusterId": "bfc9d2be1b1d6349",
-        "slug": "9a1c64ae7b885257",
-        "titulo": "Harry e Meghan retornam ao Reino Unido em residência privada",
-        "resumo": "O príncipe Harry e a duquesa Meghan Markle anunciaram que voltarão a viver no Reino Unido, em uma casa particular nos arredores de Londres, sem vínculo com a família real. A decisão foi repentina e ocorre seis anos após a saída do casal dos Estados Unidos, que gerou ruptura com a realeza. Especialistas apontam que o retorno não implica reconciliação imediata com o irmão William, e que o casal ainda enfrentará pressões da imprensa e da família. A mudança reflete a busca por estabilidade e privacidade fora do centro de atenção pública.",
-        "porQueImporta": "O retorno sinaliza uma nova fase na relação do casal com a monarquia e o público britânico.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/streaming/meghan-markle-negocia-retorno-a-atuacao-com-papel-em-serie-da-netflix/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/mundo/canada-responde-com-tarifas-apos-fracasso-da-negociacao-com-trump/"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/22/meghan-markle-enfrenta-retorno-ao-reino-unido-marcado-por-tensoes-do-passado.ghtml"
+            "name": "Exame",
+            "url": "https://exame.com/mundo/dolar-por-dolar-canada-diz-que-vai-retaliar-tarifas-de-trump/"
           }
         ],
-        "updatedAt": "2026-08-22T16:49:36.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/5klZE9KkF7Z72Usb-mxb22amJBs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/h/9/o1ZgdKQvKiH8dfcJzHWA/ap20330350779199.jpg"
+        "updatedAt": "2026-08-23T00:19:54.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/nblTPeDWrAxxwecH43vXiTvi96c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/I/xCH1J5QHi0t8NFXfV9zA/vlcsnap-2026-08-22-21h19m09s211.png"
       },
       {
-        "clusterId": "d9abd4e40e6d4610",
-        "slug": "d2c80db2f51b05b6",
-        "titulo": "Morte de Hayden Panettiere, ex-estrela infantil, gera debate sobre saúde mental e abuso de substâncias",
-        "resumo": "A atriz americana Hayden Panettiere faleceu em 16 de julho, aos 36 anos, em um apartamento na Carolina do Sul. Sua morte, pouco antes de seu aniversário, trouxe à tona relatos de que a pressão da fama na infância pode aumentar o risco de problemas com drogas e saúde mental. Especialistas apontam que o ambiente de estrelato precoce pode contribuir para o vício e outras feridas emocionais. A notícia despertou discussões sobre o apoio necessário a jovens artistas.",
-        "porQueImporta": "Ilustra os perigos da fama precoce e a necessidade de cuidados com a saúde mental de artistas jovens.",
+        "clusterId": "81060a2cf38210fe",
+        "slug": "88d6f7431680d564",
+        "titulo": "Lula e Flávio Bolsonaro não participarão do debate presidencial",
+        "resumo": "O presidente Lula optou por não comparecer ao debate presidencial programado para o domingo, 23 de agosto, às 20h. Flávio Bolsonaro, candidato da oposição, também não deve participar. O evento, organizado pela Band, contou com a presença de seis dos treze candidatos convidados.",
+        "porQueImporta": "A ausência de dois dos principais candidatos pode influenciar a dinâmica e a cobertura do debate, impactando a percepção pública das eleições.",
         "category": "mundo",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/celebridades/analise-morte-de-hayden-panettiere-faz-estrelas-mirins-exporem-feridas/"
+            "url": "https://www.cnnbrasil.com.br/eleicoes/entenda-as-regras-e-os-bastidores-do-primeiro-debate-presidencial-de-2026/"
           },
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cp8x8e5dne5o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/articles/c89n45wykyeo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-08-22T16:40:05.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/21ae/live/441fda80-9a77-11f1-b68f-817a5a696299.jpg"
+        "updatedAt": "2026-08-22T22:46:17.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2715/live/5025e9f0-9da6-11f1-b109-879e35c24276.jpg"
       },
       {
-        "clusterId": "f53f26e8a752dde5",
+        "clusterId": "b8d854b0a6c350a8",
         "slug": "1de26a7674d3c9a5",
         "titulo": "Falta de mulheres na China leva homens a golpes de falsas noivas",
         "resumo": "A escassez de mulheres no país tem impulsionado casamentos relâmpago, que se tornaram um sintoma de uma crise demográfica. Homens que buscam parceiros acabam sendo vítimas de golpes de falsas noivas, perdendo grandes somas de dinheiro. O fenômeno reflete a desigualdade de gênero e as consequências sociais da política de filho único.",
@@ -669,12 +662,88 @@
         "category": "mundo",
         "sources": [
           {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/22/como-a-falta-de-mulheres-na-china-faz-homens-cairem-em-golpes-de-falsas-noivas-e-perderem-milhoes.ghtml"
+          },
+          {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/cp9evj7mdr9o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-08-22T19:33:09.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f246/live/489df330-94d2-11f1-8a9a-13c674e4e5fe.jpg"
+        "updatedAt": "2026-08-22T20:48:41.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/8LYp0cmOK7eqG_RJIMSTTMN7Vo4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/x/n5FxiOTP6FFQILPINIFw/489df330-94d2-11f1-8a9a-13c674e4e5fe.jpg.webp"
+      },
+      {
+        "clusterId": "ad74b5e8c9d2b6c8",
+        "slug": "58e39cdce7194b0a",
+        "titulo": "Juíza federal dos EUA anula suspensão de vistos de residência permanente imposta por Trump a 75 países",
+        "resumo": "Uma juíza federal norte‑americana anulou a ordem de Donald Trump que havia suspenso o processamento de vistos de residência permanente para cidadãos de 75 países, incluindo o Brasil. A decisão considera a medida ilegal e contrária à lei, excedendo a autoridade do secretário de Estado, Marco Rubio. A suspensão, em vigor desde 21 de janeiro, impedia a emissão de vistos de imigrante para esses países.",
+        "porQueImporta": "A decisão restaura o acesso de brasileiros e de outros cidadãos a vistos de residência nos EUA, impactando mobilidade e relações bilaterais.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/juiza-dos-eua-anula-ordem-de-trump-que-barrava-vistos-para-brasileiros/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/22/juiza-anula-suspensao-de-vistos-imposta-por-governo-trump-a-75-paises.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-22T19:01:59.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/02/GettyImages-838825674.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "5441c177a54716ea",
+        "slug": "bd411f29671fbe5b",
+        "titulo": "Ataques com drones aumentam em ambos lados da guerra",
+        "resumo": "Drones ucranianos atacaram infraestrutura russa, incluindo refinaria e armazém da Ozon, causando mortes e feridos. Em resposta, Putin acusou a Ucrânia de abrir uma \"caixa de Pandora\" e ameaçou retaliação. Enquanto isso, drones russos atingiram um shopping em Kryvyi Rih, matando 15 pessoas, e outro ataque em Tokarivka matou quatro, incluindo crianças.",
+        "porQueImporta": "Os ataques demonstram a escalada de violência e a crescente vulnerabilidade de civis e infraestrutura em ambos os lados.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/czjlrylwrj0o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/08/22/russia-acusa-ucrania-pela-morte-de-6-civis-em-ataques-com-drones.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-22T09:43:53.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b0d2/live/96d62b30-9bda-11f1-bb4d-1147ef2e78e5.jpg"
+      },
+      {
+        "clusterId": "dda352a90e396212",
+        "slug": "e170df00bc5c07f6",
+        "titulo": "Gana pede reparações dos EUA e da Europa pela escravidão",
+        "resumo": "Gana, país africano, tornou-se a principal voz na demanda por reparações das nações ocidentais que lucraram com a escravidão. O governo gaúndio solicita compensação financeira e reconhecimento histórico dos Estados Unidos e da União Europeia. A iniciativa visa reparar os danos causados pela escravidão transatlântica e reconhecer a contribuição africana para o desenvolvimento global. A proposta tem gerado discussões sobre responsabilidade histórica e justiça reparatória.",
+        "porQueImporta": "A demanda destaca a busca por justiça histórica e pode influenciar políticas de reparação em nível internacional.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c998917j19vo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-08-22T22:22:42.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b0d/live/bd99be00-9a1b-11f1-aed2-8d6da8d75094.jpg"
+      },
+      {
+        "clusterId": "c0bd3377f3d2bfa0",
+        "slug": "37140ab120aeaf86",
+        "titulo": "Horário de jantar influencia metabolismo e saúde",
+        "resumo": "Estudos mostram que o relógio biológico determina como o corpo processa os alimentos, fazendo com que a mesma refeição tenha efeitos diferentes dependendo da hora do dia. O consumo em horários inadequados pode afetar a digestão, o controle de peso e a saúde metabólica. A pesquisa destaca a importância de alinhar a alimentação ao ritmo circadiano para otimizar a absorção de nutrientes.",
+        "porQueImporta": "Entender o impacto do horário de jantar pode ajudar a melhorar a saúde e prevenir problemas metabólicos.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cly8e30vejno?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-08-22T21:07:58.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d93/live/020e1de0-9c12-11f1-a291-b542ee92de7c.jpg"
       },
       {
         "clusterId": "614a8fd2ec3fcfe8",
@@ -691,49 +760,21 @@
         ],
         "updatedAt": "2026-08-22T18:40:16.000Z",
         "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d3a/live/c7e95f20-9d2f-11f1-aed2-8d6da8d75094.jpg"
-      },
-      {
-        "clusterId": "8f8e45451a619db1",
-        "slug": "b6201d7fdc18016c",
-        "titulo": "A agonia das famílias de milhares de pessoas que permanecem desaparecidas na Faixa de Gaza",
-        "resumo": "A Cruz Vermelha afirma ter recebido mais de 5 mil pedidos de localização de pessoas que podem ter sido detidas por Israel ou cujos corpos podem estar sepultados entre os destroços na Faixa de Gaza.",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c3ekgjg0qp5o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-08-22T17:19:47.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e2bb/live/7dae5760-9cb4-11f1-b109-879e35c24276.jpg"
-      },
-      {
-        "clusterId": "83b61a9c302e03eb",
-        "slug": "2a733ad7f6c3c987",
-        "titulo": "Os navios nazistas naufragados que estão emergindo no rio Danúbio",
-        "resumo": "O calor extremo na Europa faz o nível do rio Danúbio diminuir, revelando restos surpreendentes do passado do continente na Segunda Guerra Mundial.",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c62vp3yejj0o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-08-22T16:29:43.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/574c/live/69c715d0-9cb3-11f1-84cf-fd4cfd9d6c84.jpg"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "d1abb330899cc39b",
+        "clusterId": "febc7df31e3a2f80",
         "slug": "071a0e90ce08d586",
         "titulo": "Robô humanoide chinês bate recorde mundial de Usain Bolt nos 100 metros",
         "resumo": "Um robô humanoide desenvolvido pela Honor correu 100 metros em 9,32 segundos, 26 segundos abaixo do recorde mundial de Usain Bolt. O robô, chamado Lightning, atingiu velocidade máxima de 14,5 metros por segundo durante teste preparatório para os Jogos Mundiais de Robôs Humanoides. O resultado demonstra avanços significativos na engenharia de robôs de alta performance.",
         "porQueImporta": "Ilustra o potencial da tecnologia robótica para superar limites humanos em desempenho atlético.",
         "category": "tecnologia",
         "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/robo-chines-bate-recorde-de-usain-bolt-nos-100-metros-rasos/"
+          },
           {
             "name": "CartaCapital",
             "url": "https://www.cartacapital.com.br/tecnologia/robo-chines-bate-recorde-mundial-de-bolt-nos-100-metros/"
@@ -743,27 +784,19 @@
             "url": "https://olhardigital.com.br/2026/08/22/robotica/robo-humanoide-supera-recorde-de-usain-bolt-nos-100-metros-assista/"
           },
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/robo-chines-bate-recorde-de-usain-bolt-nos-100-metros/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/atletismo/noticia/2026/08/22/usain-bolt-volta-ao-futebol-e-se-junta-a-ex-estrelas-da-premier-league-em-clube-ingles.ghtml"
-          },
-          {
             "name": "G1",
             "url": "https://g1.globo.com/tecnologia/noticia/2026/08/22/robo-chines-bate-o-recorde-mundial-de-usain-bolt-nos-100-metros-em-teste.ghtml"
           }
         ],
-        "updatedAt": "2026-08-22T18:42:51.000Z",
+        "updatedAt": "2026-08-23T00:54:21.000Z",
         "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/08/Robo.jpg"
       },
       {
         "clusterId": "5fc235dbfed3f9d3",
         "slug": "16f0d2a848dbe949",
-        "titulo": "Caneta para iPad de alta precisão custa R$ 150 na Amazon e ainda dá para parcelar",
-        "resumo": "Quem usa o iPad para fazer anotações, estudar ou desenhar pode aproveitar uma oferta interessante na Amazon. A Caneta Pencil WB para iPad está saindo por R$ 150, com possibilidade de pagamento em 5x de R$ 30 sem juros e frete grátis. O acessório tem ponta de alta precisão de 1,0 mm e tecnologia de rejeição da palma da mão, permitindo apoiar a mão sobre a tela enquanto escreve. O anúncio indica compatibilidade com iPads lançados a partir de 2018, e o preço atual representa desconto de aproximadamente 24% sobre os R$ 199 cobrados anteriormente. 🥇 Melhor oferta: Caneta Pencil WB — R$ 150 em 5x…",
-        "porQueImporta": "",
+        "titulo": "Caneta stylus compatível com iPad 2025 e oferta na Amazon",
+        "resumo": "A Amazon oferece iPads 2025 com chip A16 e caneta stylus. A Caneta Pencil WB custa R$150, com frete grátis e parcelamento em 5 vezes. A caneta possui ponta de 1,0 mm e rejeição de palma, compatível com iPads lançados a partir de 2018.",
+        "porQueImporta": "Essas ofertas facilitam a escolha de dispositivos e acessórios para usuários que buscam desempenho e custo-benefício.",
         "category": "tecnologia",
         "sources": [
           {
@@ -779,26 +812,57 @@
         "imageUrl": "https://tl.ctcdn.com.br/EFO896l1arn6nVcluprybDZ7odQ=/0x0/filters:format(webp):quality(85)/f08c5a7f-81b9-4eb2-b6a4-a7c582815c52.jpg"
       },
       {
-        "clusterId": "70a7cf93b895e5a1",
-        "slug": "bc6a804785a5b8b8",
-        "titulo": "Nvidia sobe preços de servidores de IA por alta da memória",
-        "resumo": "Nvidia avisa clientes sobre aumento superior a 15% em servidores de IA, impulsionado pela alta nos preços dos chips de memória O post Nvidia sobe preços de servidores de IA por alta da memória apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
+        "clusterId": "a8704005fc72c466",
+        "slug": "1acae896fc337fa3",
+        "titulo": "Olas de calor causam mais de 30 mil mortes na Europa",
+        "resumo": "Estima-se que entre meados de julho e agosto, mais de 32 mil pessoas morreram em decorrência de ondas de calor, excedendo o número esperado. Dados nacionais já contabilizam 33 mil óbitos em oito países europeus. A cifra reflete o impacto crescente das temperaturas extremas na região.",
+        "porQueImporta": "Ilustra o aumento alarmante de fatalidades por calor, destacando a urgência de medidas climáticas e de saúde pública.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/22/pro/nvidia-sobe-precos-de-servidores-de-ia-por-alta-da-memoria/"
+            "url": "https://olhardigital.com.br/2026/08/22/ciencia-e-espaco/ondas-de-calor-deixam-mais-de-30-mil-mortos-na-europa/"
           }
         ],
-        "updatedAt": "2026-08-22T20:03:42.000Z"
+        "updatedAt": "2026-08-22T22:06:33.000Z"
+      },
+      {
+        "clusterId": "31f3ce7be8dcb684",
+        "slug": "2356147c973f8447",
+        "titulo": "Chevrolet Bolt usado em 2026 tem preço competitivo no mercado de usados",
+        "resumo": "O Chevrolet Bolt EV, lançado em 2019 e 2022, teve preço inicial de cerca de R$ 320 mil. Em 2026, unidades 2020 a 2022 estão à venda por R$ 134 a R$ 138 mil, de acordo com a Tabela Fipe de agosto. A desvalorização coloca o modelo em faixa semelhante a outros carros elétricos. Assim, o Bolt se torna uma opção viável para quem quer entrar no segmento elétrico sem pagar preço de 0km.",
+        "porQueImporta": "Oferece uma alternativa mais acessível para quem deseja adquirir um veículo elétrico.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/carros/quanto-vale-a-pena-pagar-em-um-chevrolet-bolt-usado-em-2026/"
+          }
+        ],
+        "updatedAt": "2026-08-22T22:04:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/wj1hjs86KVkS7amW3hwM3qefMl8=/0x0/filters:format(webp):quality(85)/b193e0b9-bf53-4461-9e6d-269f1481182c.jpg"
+      },
+      {
+        "clusterId": "8fbc9b1644867d02",
+        "slug": "4ee6e96f75910af1",
+        "titulo": "OpenAI pede reforço em lei de segurança de IA na Califórnia",
+        "resumo": "A OpenAI alterou sua posição sobre a legislação de segurança de IA na Califórnia, agora solicitando maior monitoramento e proteção para modelos de fronteira. A empresa argumenta que as regras atuais não são suficientes para garantir a segurança e a responsabilidade dos sistemas de IA. A proposta inclui requisitos mais rigorosos de teste e transparência antes do lançamento de novos modelos.",
+        "porQueImporta": "A mudança reflete a crescente preocupação com a segurança e responsabilidade dos sistemas de IA avançados.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/22/inteligencia-artificial/openai-muda-posicao-e-pede-reforco-em-lei-de-seguranca-de-ia/"
+          }
+        ],
+        "updatedAt": "2026-08-22T20:37:54.000Z"
       },
       {
         "clusterId": "d9f559b54cf30300",
         "slug": "89bd30d7bce3891a",
-        "titulo": "Porsche Taycan ganha transmissão PDK e ronco \"falsos\"; entenda",
-        "resumo": "O Porsche Taycan, primeiro modelo elétrico da marca, recebeu uma atualização curiosa, que pode colocar um ponto final na maior reclamação dos fãs mais puristas da marca alemã. Para aproximar a experiência de condução com a de um carro a combustão, a fabricante adicionou uma simulação da transmissão PDK e sons artificiais de motor. Nenhuma das mudanças fará com que o esportivo elétrico se torne ainda mais potente ou insinuante do que já é atualmente, com versões que chegam aos 100 km/h em pouco mais de dois segundos. A intenção da icônica montadora é claramente colocar um fim ao preconceito…",
-        "porQueImporta": "",
+        "titulo": "Porsche Taycan recebe transmissão PDK simulada e sons de motor",
+        "resumo": "O Porsche Taycan, primeiro modelo elétrico da marca, recebeu uma atualização que inclui uma simulação da transmissão PDK e sons artificiais de motor. A mudança não altera a potência nem a performance, mantendo o veículo com aceleração de 0 a 100 km/h em pouco mais de dois segundos. A intenção é aproximar a experiência de condução de um carro a combustão, atendendo a fãs puristas.",
+        "porQueImporta": "A atualização busca reduzir a percepção de diferença entre veículos elétricos e a tradição da Porsche em transmissões de dupla embreagem.",
         "category": "tecnologia",
         "sources": [
           {
@@ -812,9 +876,9 @@
       {
         "clusterId": "6f27dedddf5bd394",
         "slug": "e3d62b323d288baa",
-        "titulo": "Hora de renovar o home office: selecionamos ótimas impressoras em promoção na Amazon",
-        "resumo": "Seja para uso doméstico, home office ou pequenas empresas, ter uma boa impressora faz toda a diferença no dia a dia. Separamos três opções em promoção na Amazon que valem a atenção — desde modelos básicos até multifuncionais com Wi-Fi e impressão duplex automática. Confira. Impressora multifuncional colorida HP DeskJet Ink Advantage 2975 (AJ4Y4A) A […] O post Hora de renovar o home office: selecionamos ótimas impressoras em promoção na Amazon apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
+        "titulo": "Amazon oferece promoções em smartwatches, impressoras e roteadores Wi‑Fi",
+        "resumo": "A Amazon disponibiliza descontos em três categorias de dispositivos eletrônicos: smartwatches para diferentes perfis de usuários, impressoras multifuncionais coloridas e roteadores Wi‑Fi Mesh. Cada segmento apresenta opções que variam do básico ao avançado, atendendo a necessidades domésticas, de home office e de alta performance. Os consumidores podem escolher modelos que se alinhem ao seu uso e orçamento.",
+        "porQueImporta": "Essas promoções permitem que os consumidores atualizem equipamentos essenciais a preços mais acessíveis.",
         "category": "tecnologia",
         "sources": [
           {
@@ -827,9 +891,9 @@
       {
         "clusterId": "4e323501ea1e8d7c",
         "slug": "ba71b31c06be6214",
-        "titulo": "Salve a galáxia, sobreviva ao apocalipse e explore o continente: uma seleção de jogos Xbox em promoção",
-        "resumo": "Se você tem um Xbox e ainda não aproveitou alguns dos títulos mais aclamados dos últimos anos, esta é a hora certa. Reunimos três jogos em oferta na Amazon que cobrem estilos bem diferentes — de aventura espacial a survival cooperativo e RPG de mundo aberto. Confira cada um deles abaixo e garanta o seu. […] O post Salve a galáxia, sobreviva ao apocalipse e explore o continente: uma seleção de jogos Xbox em promoção apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
+        "titulo": "Jogos Xbox em promoção na Amazon",
+        "resumo": "A Amazon oferece três títulos populares para Xbox em promoção, abrangendo gêneros como aventura espacial, survival cooperativo e RPG de mundo aberto. A seleção inclui jogos aclamados nos últimos anos, permitindo que os usuários aproveitem descontos em títulos de alta qualidade. A oferta é destacada em um artigo do Olhar Digital que lista os jogos e incentiva a compra.",
+        "porQueImporta": "Oferece oportunidades de aquisição de jogos de qualidade a preços reduzidos para proprietários de Xbox.",
         "category": "tecnologia",
         "sources": [
           {
@@ -838,45 +902,31 @@
           }
         ],
         "updatedAt": "2026-08-22T19:20:00.000Z"
-      },
-      {
-        "clusterId": "02531562df274c96",
-        "slug": "19a86ca1ae5fcbea",
-        "titulo": "GTA VI, Spider-Man 2 e mais: selecionamos os melhores jogos de PS5 em promoção agora",
-        "resumo": "Se você tem um PlayStation 5 e quer aproveitar para renovar a biblioteca de jogos, este é o momento certo. Reunimos três títulos em oferta na Amazon que valem muito a atenção — de aventuras com o Homem-Aranha até o aguardado retorno de GTA. Confira a seleção e aproveite. Marvel’s Spider-Man 2 PS5 Um dos […] O post GTA VI, Spider-Man 2 e mais: selecionamos os melhores jogos de PS5 em promoção agora apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/22/reviews/gta-vi-spider-man-2-e-mais-selecionamos-os-melhores-jogos-de-ps5-em-promocao-agora-2/"
-          }
-        ],
-        "updatedAt": "2026-08-22T19:00:00.000Z"
-      },
-      {
-        "clusterId": "fab232af44b576b1",
-        "slug": "aa9fe12cb700f2a1",
-        "titulo": "IA decifra sequência de DNA presente em 60% dos genes humanos",
-        "resumo": "Modelo de aprendizado de máquina decodificou características da região iniciadora, ligada ao começo da transcrição de muitos genes humanos O post IA decifra sequência de DNA presente em 60% dos genes humanos apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/22/ciencia-e-espaco/ia-decifra-sequencia-de-dna-presente-em-60-dos-genes-humanos/"
-          }
-        ],
-        "updatedAt": "2026-08-22T17:46:32.000Z"
       }
     ],
     "ciencia": [
       {
+        "clusterId": "5ce746627eb38e75",
+        "slug": "3a9529ea33ce467f",
+        "titulo": "Síndrome da morte súbita em adultos",
+        "resumo": "A síndrome da morte súbita em adultos ocorre quando há uma parada cardíaca súbita, distinta de um ataque cardíaco, geralmente causada por falhas elétricas no coração. A condição é difícil de diagnosticar e pode acontecer sem sinais prévios. O entendimento dos mecanismos elétricos é essencial para prevenção e tratamento.",
+        "porQueImporta": "Conscientizar sobre a condição pode salvar vidas ao promover diagnósticos precoces e cuidados adequados.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/saude/o-que-e-a-sindrome-da-morte-subita-em-adultos/"
+          }
+        ],
+        "updatedAt": "2026-08-22T21:00:31.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/08/sindrome-morte-subita-adultos-sads.jpg?quality=70&strip=info"
+      },
+      {
         "clusterId": "16afec8b5cc68833",
         "slug": "9a8ff98e4e9ba0bf",
-        "titulo": "Sequenciamento de DNA revela sociedade “matrilocal” na Inglaterra da Idade do Ferro",
-        "resumo": "Elas não saíam de casa para morar com o marido, e algumas delas tinham filhos com mais de um homem.",
-        "porQueImporta": "",
+        "titulo": "Sequenciamento de DNA revela sociedade matrilocal na Inglaterra da Idade do Ferro",
+        "resumo": "Estudos de DNA de restos humanos mostram que mulheres da Idade do Ferro na Inglaterra permaneciam em casa após o casamento, mantendo a residência familiar. Evidências sugerem que algumas mulheres tiveram filhos com mais de um parceiro, indicando práticas de poligamia ou poligamia parcial. A análise aponta para uma estrutura social matrilocal, onde a família feminina detinha o núcleo familiar.",
+        "porQueImporta": "Revela padrões sociais e de mobilidade familiar que diferem das concepções tradicionais de casamento na Idade do Ferro.",
         "category": "ciencia",
         "sources": [
           {
@@ -982,22 +1032,6 @@
         ],
         "updatedAt": "2026-08-21T19:54:51.000Z",
         "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260821_exposicaotondi-destaque-1024x538.jpg"
-      },
-      {
-        "clusterId": "3d3b61b93d75b957",
-        "slug": "dd1ae378afbfbc57",
-        "titulo": "Marxismo e ciência",
-        "resumo": "O artigo de Lincoln Secco e Rosa Rosa Gomes, ambos da Faculdade de Filosofia, Letras e Ciências Humanas da USP, analisa a relação entre marxismo e ciência, destacando como o marxismo influencia a compreensão científica e a prática de pesquisa. Os autores examinam a crítica marxista à ciência tradicional e propõem uma abordagem que integra teoria e prática social. O texto também discute a importância de considerar as condições materiais e históricas na produção do conhecimento científico.",
-        "porQueImporta": "A obra oferece uma perspectiva crítica sobre a interseção entre ideologia e ciência, relevante para acadêmicos e pesquisadores que buscam compreender os fundamentos filosóficos da pesquisa científica.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/artigos/marxismo-e-ciencia-por-olival-freire-junior/"
-          }
-        ],
-        "updatedAt": "2026-08-21T18:37:12.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260821_rosagomeslincon-1024x538.jpg"
       }
     ],
     "saude": [
@@ -1049,48 +1083,152 @@
     ],
     "esportes": [
       {
-        "clusterId": "0a836b3f7f1f4fa3",
-        "slug": "87eb0407a34b70b6",
-        "titulo": "Corinthians aplica multa a Memphis Depay por clipe com imagens do Parque São Jorge em chamas",
-        "resumo": "O clube multou o atacante Memphis Depay, que divulgou um videoclipe em que a sede social do Corinthians aparece em chamas. A diretoria afirmou que tomará medidas contratuais e legais. Depay pediu que a torcida não interprete mal a mensagem e pediu protesto pacífico. A torcida já protestou no Parque São Jorge em busca de intervenção judicial.",
-        "porQueImporta": "A decisão demonstra a postura do clube frente a conteúdo considerado ofensivo e pode afetar a relação entre jogadores e administração.",
+        "clusterId": "da23e78e288d027d",
+        "slug": "452e895005612496",
+        "titulo": "Real Madrid vence Espanyol com gol de Bellingham e Carlos Espí",
+        "resumo": "O Real Madrid derrotou o Espanyol por 2 a 1 na primeira partida da temporada na LaLiga. Bellingham marcou o gol da vitória no segundo tempo, enquanto Carlos Espí, em seu primeiro jogo, marcou o gol do Espanyol nos acréscimos. O resultado garante ao Real Madrid um ponto inicial na competição.",
+        "porQueImporta": "O triunfo marca a estreia bem-sucedida do Real Madrid na temporada e demonstra a eficácia de sua nova formação sob o comando de Mourinho.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/laliga-com-gol-de-bellingham-real-madrid-vence-espanyol-de-virada/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/jogo/22-08-2026/Espanyol-realmadrid.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/espi-marca-no-fim-e-real-madrid-vence-espanyol-em-estreia-na-temporada"
+          }
+        ],
+        "updatedAt": "2026-08-23T00:33:27.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/08/espanyol-x-real-madrid-carlos-espi.jpg"
+      },
+      {
+        "clusterId": "9e0c174e15aca66f",
+        "slug": "b944d37da6f56860",
+        "titulo": "Fluminense efetiva Marcão como técnico até o fim do ano",
+        "resumo": "O presidente Mattheus Montenegro anunciou a efetivação de Marcão como técnico do Fluminense após a vitória de 2 a 1 sobre o Remo no Maracanã. Marcão assumiu o cargo interino há dez dias, sucedendo Luis Zubeldia. A decisão foi confirmada em coletiva de imprensa e reforçada por enquete de torcedores que aprovaram a permanência do treinador. O técnico afirmou que pretende montar um Fluminense alegre, leve e organizado.",
+        "porQueImporta": "A mudança de liderança pode influenciar o desempenho do clube na temporada.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/fluminense-confirma-marcao-como-tecnico-ate-o-final-do-ano/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/fluminense/noticia/2026/08/22/torcedores-do-fluminense-aprovam-efetivacao-de-marcao-em-enquete-do-ge.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/fluminense-oficializa-marcao-como-tecnico-da-equipe-para-a-temporada"
+          }
+        ],
+        "updatedAt": "2026-08-23T00:14:20.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/8XWDFeRxBVIxGINIPh-zLhkAVQU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/g/y/akOJb9RUyq7bI4lnx8Ew/55473345823-b401adaff7-k.jpg"
+      },
+      {
+        "clusterId": "b06ca69d7d08689d",
+        "slug": "09b947c2bc3aebf2",
+        "titulo": "Inter e Atlético-MG empatam sem gols no Beira-Rio",
+        "resumo": "O Internacional e o Atlético-MG empataram 0 a 0 no Beira-Rio, na 24ª rodada do Brasileirão 2026. O empate deixa o Inter na oitava partida sem vitória, com risco de cair na zona de rebaixamento. O técnico Paulo Pezzolano assumiu a responsabilidade pelo resultado e destacou a necessidade de melhorar a performance. Defesas destacadas incluíram a intervenção de Braian Aguirre, que evitou um gol de Minda.",
+        "porQueImporta": "O resultado coloca o Inter em situação de risco de rebaixamento e aumenta a pressão sobre o técnico antes do clássico Gre‑Nal.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/08/22/corinthians-multa-memphis-depay-por-divulgacao-de-imagens-do-parque-sao-jorge-em-chamas.ghtml"
+            "url": "https://ge.globo.com/rs/futebol/times/internacional/noticia/2026/08/22/pezzolano-admite-que-tem-que-tirar-mais-do-inter-e-explica-uso-de-zagueiro-como-centroavante.ghtml"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-revela-que-adotara-medidas-contratuais-com-memphis-apos-clipe/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/a-nova-declaracao-de-memphis-depay-apos-clipe-com-sede-do-corinthians-em-chamas/"
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileirao-inter-e-atletico-mg-empatam-sem-gols-no-beira-rio/"
           }
         ],
-        "updatedAt": "2026-08-22T19:14:37.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/L4EeWHpWEhSeiXrz2sb6lAzEw9M=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/6/y/FjtXlXSjAiec4cu4388Q/parquesaojorge.jpeg"
+        "updatedAt": "2026-08-23T00:58:59.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/qWZqZOE4kTV904eOElrzAqglhcE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/D/M/Tv2nULQXA3N9e9b7HWFA/whatsapp-image-2026-08-22-at-21.26.10.jpeg"
       },
       {
-        "clusterId": "c5b71af553bde565",
-        "slug": "82c0bbab7d5ccb23",
-        "titulo": "Fluminense x Remo: Samuel Xavier deixa partida com lesão no ombro esquerdo",
-        "resumo": "Aos 44 min do 1º tempo - chute dentro da área para fora de Renê do Fluminense contra o Remo O lateral Samuel Xavier deixou o jogo entre Fluminense e Remo ainda no primeiro tempo ao sofrer uma contusão no ombro esquerdo. O jogador sofreu uma luxação, informou o repórter Bruno Halpern na transmissão do Premiere. O lance o ocorreu aos 41 minutos do segundo tempo, quando Xavier entrou em dividida com o atacante Jajá do Remo, levou a pior e ficou com muitas dores. Samuel Xavier sente lesão no ombro esquerdo, em Fluminense x Remo André Durão Em seguida, o lateral foi substituído pelo jovem Julio…",
+        "clusterId": "78b938ebe763ff9f",
+        "slug": "7c9f29bf76bf471e",
+        "titulo": "Vasco vence Taubaté e garante acesso à Série A do Brasileirão Feminino",
+        "resumo": "Bruno Murito explica situação do Vasco após empréstimo de R$ 150 milhões ser travado O Vasco está de volta à elite do futebol feminino brasileiro. A equipe venceu o Taubaté neste sábado, em São Januário, por 2 a 1, pelo jogo de volta das quartas de final do Campeonato Brasileiro Feminino Série A2 e confirmou o acesso à Série A1 em 2027. Os gols foram marcados por Lourdes. O time vascaíno entrou em campo com a vantagem construída no jogo de ida, quando venceu o Taubaté por 2 a 0, em 16 de agosto, no Estádio Joaquinzão. Nayara e Tefah marcaram os gols da vitória em Taubaté. Vasco vence Taubaté…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/fluminense/noticia/2026/08/22/fluminense-x-remo-samuel-xavier-deixa-partida-com-lesao-no-ombro-esquerdo.ghtml"
+            "url": "https://ge.globo.com/to/futebol/futebol-feminino/brasileiro-feminino/jogo/22-08-2026/flamengo-atletico-mg.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/internacional-e-atletico-mg-nao-saem-do-0-x-0-pelo-brasileirao"
+          }
+        ],
+        "updatedAt": "2026-08-23T00:37:06.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/08/inter-galo.jpg"
+      },
+      {
+        "clusterId": "2d2a24c87086d0d7",
+        "slug": "00fd6a850c41356b",
+        "titulo": "Condé explica trocas em derrota do Remo, e pede união de todos para reação no Brasileirão",
+        "resumo": "Fluminense 2 x 1 Remo | Melhores momentos | 24ª rodada | Brasileirão 2026 O Remo fez um primeiro tempo marcado pela eficiência, já que precisou de uma finalização na direção do gol para abrir o placar e garantir vantagem nos primeiros 45 minutos contra o Fluminense, no Estádio do Maracanã, na abertura da 24ª rodada. Porém, na volta do intervalo, o plano traçado pelo técnico Léo Condé sucumbiu à superioridade do adversário. Léo Condé, técnico do Remo Cristino Martins / OLiberal 📲Clique aqui para seguir o canal do ge PA no WhatsApp Com quase o triplo de finalizações em relação aos azulinos ao…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/08/22/conde-explica-trocas-em-derrota-do-remo-e-pede-uniao-de-todos-para-reacao-no-brasileirao.ghtml"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/fluminense-x-remo-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/"
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/fluminense-vira-sobre-o-remo-e-vence-por-2x1-no-maracana/"
           }
         ],
-        "updatedAt": "2026-08-22T20:04:10.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/xMPEgzhFv_wIRVoadc0mxP-WWxA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/D/V/VHHqnsQEuRIdAn56upDw/29.jpg"
+        "updatedAt": "2026-08-22T23:19:02.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/9AXQ6pKimabr7xTpoM-Kym5wpls=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/W/r/6q9EPKTNi1kZBrWhgeZw/1027902791.jpg"
+      },
+      {
+        "clusterId": "8fdfb251193010ce",
+        "slug": "c35effa8b60d1890",
+        "titulo": "Cruzeiro tem garantia de manter jogos no Mineirão apesar de lei; entenda",
+        "resumo": "Cruzeiro reencontra Flamengo antes de clássico na Copa do Brasil O Cruzeiro vai seguir mandando jogos no Mineirão. É o que garante o governador de Minas Gerais e o próprio clube, em comunicado oficial feito neste sábado. Apesar do Decreto nº 49.279/2026, as partidas do time celeste no Gigante da Pampulha não serão afetadas. + 🔍 Adicione o ge nas suas fontes favoritas do Google A preocupação por parte do Cruzeiro surgiu nessa quinta-feira. Isso porque o Decreto havia proibido a veiculação de publicidade de empresas de apostas, as famosas bets, em locais públicos, incluindo o Mineirão. Com…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2026/08/22/cruzeiro-tem-garantia-de-manter-jogos-no-mineirao-apesar-de-lei-entenda.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/governador-nao-descarta-venda-do-mineirao-ao-cruzeiro-nenhum-problema/"
+          }
+        ],
+        "updatedAt": "2026-08-22T21:26:48.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/e2LWu3aP32tLasWOY8JwPUJxkOU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/c/X/TFnFIbRZKVJB0MIXS10w/whatsapp-image-2026-08-09-at-08.57.14.jpeg"
+      },
+      {
+        "clusterId": "1b89b05cc5a1e920",
+        "slug": "bf0da2514811a57a",
+        "titulo": "Com golaço de Olise, Bayern vence o Borussia Dortmund e é campeão da Supercopa da Alemanha; veja",
+        "resumo": "Borussia Dortmund 1 x 2 Bayern de Munique | Gols | Supercopa da Alemanha 2026 O Bayern de Munique iniciou a temporada 2026/27 com troféu. A equipe venceu o Borussia Dortmund por 2 a 1, neste sábado, na Supercopa da Alemanha. Neuer levanta troféu do Bayern de Munique na Supercopa da Alemanha Getty Images O lateral Brown abriu o placar para os bávaros, e Olise ampliou, ainda no primeiro tempo, gom um golaço. Ele conduziu da intermediária até a área, deixou dois marcadores para trás e finalizou rasteiro de pé esquerdo na área. No segundo tempo, Fabio Silva diminuiu para o Borussia, mas não foi…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-alemao/bayern-vence-borussia-dortmund-e-conquista-supercopa-da-alemanha/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-alemao/noticia/2026/08/22/com-golaco-de-olise-bayern-vence-o-borussia-dortmund-e-e-campeao-da-supercopa-da-alemanha.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-22T20:48:55.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/KrG2tEflF5xEPNfN4XCFxFh833I=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/V/6/S7QIMeSpaYYVoeDrXj5w/olise.jfif"
       },
       {
         "clusterId": "34f259a7b777ad53",
@@ -1111,115 +1249,44 @@
         ],
         "updatedAt": "2026-08-22T19:22:19.000Z",
         "imageUrl": "https://s2-ge.glbimg.com/ACN_vuR_5FppQ-40jvIkU7_4wZw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/5/I/1YU1wUSAOkB3j3AvdtVA/gettyimages-2289727392.jpg"
-      },
-      {
-        "clusterId": "9decc8807e5399c2",
-        "slug": "0f970fc2fcab4213",
-        "titulo": "Em busca do bi, Inter de Milão estreia no Italiano com goleada sobre o Monza",
-        "resumo": "Luis Henrique projeta evolução na Inter de Milão e mira seleção brasileira Atual campeã italiana, a Inter de Milão iniciou com goleada a busca pelo bicampeonato. Neste sábado, o time do técnico Christian Chivu fez 4 a 1 no Monza, no San Siro, com gols de Çalhanoglu, Zielinski, Pio Esposito e Yann Bisseck. Gustavo Varela marcou para os visitantes. Na segunda rodada, a Inter vai visitar o Cagliari, domingo. Na véspera, o Monza jogará em casa contra a Udinese. Veja a tabela completa do Campeonato Italiano A Inter abriu o placar logo aos seis minutos, com um golaço de Çalhanoglu, que chutou forte…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/inter-de-milao-goleia-monza-na-estreia-e-inicia-defesa-do-titulo-na-italia/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-italiano/noticia/2026/08/22/em-busca-do-bi-inter-de-milao-estreia-no-italiano-com-goleada-sobre-o-monza.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-22T18:47:56.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/sDBtNiR-ELNgryw16SGsxGLpn_o=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/f/a/vytME1SXSHBFP0B4ZxCw/2026-08-22t175643z-395116482-up1em8m1dui5y-rtrmadp-3-soccer-italy-int-mon.jpg"
-      },
-      {
-        "clusterId": "317a9953525b4371",
-        "slug": "68527f01289079fc",
-        "titulo": "Inter Mogi goleia, e Mogi EC amplia jejum no Paulista Sub-20 de Futsal",
-        "resumo": "A Inter Mogi goleou o Resilience por 8 a 1, na última sexta-feira (21), pelo Campeonato Paulista Sub-20 de Futsal. A partida foi disputada no ginásio José Carlos Miller da Silveira, em Mogi das Cruzes. + Confira o regulamento do Paulista Sub-20 de Futsa Inter Mogi venceu o lanterna do campeonato de goleada Divulgação/Inter Mogi Eduardo, Miguel (2), Felipe Alves (2), Gabriel Feitosa, Henderson e Isaac balançaram as redes pela Inter. Enzo Araújo marcou o gol de honra para o Resilience. O resultado garantiu a sétima vitória para a Inter Mogi, que ocupa o sétimo lugar na classificação, com 23…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/08/22/vigilancia-sanitaria-interdita-padaria-por-irregularidades-em-mogi-das-cruzes.ghtml"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/sp/mogi-das-cruzes-suzano/boxe/noticia/2026/08/22/gustavo-henrique-de-mogi-das-cruzes-conquista-titulo-brasileiro-juvenil.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-22T17:59:08.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/jYPAzbTNDABJIhhJOiEe-DhRmb8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/x/h/Xd2u7sRymWMrdHa7NiNg/whatsapp-image-2026-08-22-at-08.00.02.jpeg"
-      },
-      {
-        "clusterId": "46854ee7d1ea222c",
-        "slug": "c299ef1df8a6366e",
-        "titulo": "Volta Redonda x Floresta - Campeonato Brasileiro Série C 2026 - Ao vivo - globoesporte.com",
-        "resumo": "Campeonato Brasileiro Série C 2026 no globoesporte.com - acompanhe tudo sobre Volta Redonda x Floresta: escalação, informações sobre o jogo, fotos e muito mais",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/22-08-2026/fluminense-remo.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-22T20:17:49.000Z"
-      },
-      {
-        "clusterId": "d2c4defead4e910e",
-        "slug": "43f8164163019b6f",
-        "titulo": "Noroeste vira sobre o Comercial-SP e avança direto para as quartas de final da Copa Paulista",
-        "resumo": "De virada, o Noroeste venceu o Comercial-SP por 4 a 3, na tarde deste sábado, no estádio Alfredo de Castilho, em Bauru, no encerramento da fase de grupos da Copa Paulista. Com o resultado, o Norusca - que iniciou a rodada correndo risco de eliminação - encerrou a primeira fase na liderança do Grupo 2, garantindo a vaga direta para as quartas de final. Já o Bafo, que era o líder da chave, terá de disputar o play-in contra o EC São Bernardo. Os visitantes abriram o placar logo aos cinco minutos, com um golaço de Luis Fernando, que acertou um lindo chute de fora da área no ângulo de Diogo Silva.…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/sp/tem-esporte/futebol/copa-paulista/noticia/2026/08/22/linense-vence-o-bandeirante-sp-e-termina-1a-fase-da-copa-paulista-com-a-melhor-campanha.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-22T20:11:28.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/4gYuESvZcg12eYeilE_UpCzibB8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/v/p/AXRs68SJeVmozC8C0ZSg/whatsapp-image-2026-08-22-at-16.06.06.jpeg"
-      },
-      {
-        "clusterId": "9c28a1241601d2ce",
-        "slug": "d002a6202d44edc4",
-        "titulo": "De olho na Copa do Brasil Sub-20, União realiza peneira gratuita em Araguaína",
-        "resumo": "União e Batalhão disputaram a final do Tocantinense Sub-20 2026 Divulgação/Elenilson Garcia De olho na inédita disputa da Copa do Brasil Sub-20 de 2026, o União Atlético Clube realiza, no próximo sábado (29), a partir das 8h, uma avaliação técnica gratuita para selecionar novos talentos no CT do clube, localizado no Setor Nova Araguaína, em Araguaína (TO). + Representantes do TO conhecem os adversários na Copa do Brasil Sub-20 A seletiva é voltada para jovens atletas nascidos entre os anos de 2006 e 2009, com o objetivo de agregar ao elenco do time araguainense para o torneio nacional. Para…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/to/futebol/copa-do-brasil-sub-20/noticia/2026/08/22/de-olho-na-copa-do-brasil-sub-20-uniao-realiza-peneira-gratuita-em-araguaina.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-22T20:02:08.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/KdHmQ1jaOyIACW3_tzTK1jaPVJA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/a/n/UTDF9qSParL3ZeJ6hi9g/v2-7dad8be5-2409-463e-92d5-20a1604a4122.jpg"
       }
     ],
     "entretenimento": [
       {
-        "clusterId": "189e3c565fbcb0bc",
-        "slug": "7f3fdbf8805796a3",
-        "titulo": "Missa de sétimo dia de Laura Cardoso será aberta ao público neste domingo em SP",
-        "resumo": "O Brasil se despede de Laura Cardoso A missa de sétimo dia da atriz Laura Cardoso, de 98 anos, será realizada neste domingo (23) no Santuário Nossa Senhora do Rosário de Fátima, no bairro Sumaré, Zona Oeste de São Paulo. Laura Cardoso morreu na noite de segunda-feira (17), em sua casa no bairro Sumaré, na Zona Oeste de São Paulo. Segundo Fátima Cardoso, filha da atriz, ela passou mal em sua residência por volta das 23h20. Nas redes sociais, a família informou que a missa será realizada às 11h30 e aberta ao público. \"A missa será aberta à comunidade. Contamos com a sua presença. Com amor,…",
+        "clusterId": "e6a09e0ac185bb39",
+        "slug": "89aba0cbbd1dc018",
+        "titulo": "Michael Wright, ator de 'Oz' e 'O Exército Inútil', morre aos 70 anos",
+        "resumo": "Michael Wright interpretou Omar White em 'Oz' Reprodução/HBO O ator Michael Wright, da série \"Oz\" e de filmes como \"O Exército Inútil\" e \"Inferno Branco\", morreu aos 70 anos. Segundo uma declaração enviada pela família ao TMZ, o ator sofreu insuficiência cardíaca por complicações da doença neurológica degenerativa de Marchiafava-Bignami. Nascido em Nova York, nos Estados Unidos, Wright atuou em mais de 50 filmes e séries ao longo de sua carreira. Ele ficou conhecido por seus papéis em filmes de ação, como \"Um Diretor Contra Todos\" e \"Leão Branco, o Lutador Sem Lei\", e por interpretar Omar…",
         "porQueImporta": "",
         "category": "entretenimento",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/fabia-oliveira/fabiana-karla-exalta-legado-de-laura-cardoso-e-gloria-icones"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/celebridades/morre-o-ator-michael-wright-de-ritmo-blues-aos-70-anos/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/20/missa-de-setimo-dia-de-laura-cardoso-sera-aberta-ao-publico-neste-domingo-em-sp.ghtml"
+            "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/08/22/michael-wright-ator-de-oz-e-o-exercito-inutil-morre-aos-70-anos.ghtml"
           }
         ],
-        "updatedAt": "2026-08-22T19:03:05.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/08/pi7-tool-coluna-fabia-oliveira-fabiana-karla.jpg"
+        "updatedAt": "2026-08-22T21:29:14.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/r9DYjocDA2i17FIJUiQCN_hrh7M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/u/1SqCumRdWBkqep0IATRA/michaelwright.jpg"
+      },
+      {
+        "clusterId": "1784f072c0ce3f73",
+        "slug": "8e377a15e7a0bb22",
+        "titulo": "Cantora country chama atenção após se apresentar em 'bolas brilhantes'; entenda",
+        "resumo": "Kacey Musgraves se apresenta em adereço inusitado no palco Reprodução/X A cantora americana Kacey Musgraves chamou a atenção após se apresentar em grandes \"bolas de discoteca brilhantes\" durante o show da turnê \"Middle of Nowhere\" nesta sexta-feira (21). O adereço do palco é uma sátira das \"truck nuts\", acessórios comumente usados em picapes no sul dos EUA, sobretudo nos anos 2000. Os acessórios simulam um saco escrotal e eram colocados na parte de trás dos veículos, como uma piada e afirmação de masculinidade. Hoje, alguns estados americanos não permitem a utilização das \"truck nuts\" porque…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/08/22/cantora-country-chama-atencao-apos-se-apresentar-em-bolas-brilhantes-entenda.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-22T18:52:18.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/grtL0elVrAliGOH1Hwg78JrAOEk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/d/kqgHa7S9WiiykWN3ACww/discoballs.jpg"
       },
       {
         "clusterId": "0909045f7caa1df8",
@@ -1236,22 +1303,6 @@
         ],
         "updatedAt": "2026-08-22T14:55:19.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/G3M6aiT15KoOPaVbWpWBq_l9DTA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/L/c/kYn7iEQpKZI78AvDjBJw/chicofranciscoproner.jpg"
-      },
-      {
-        "clusterId": "35342aecc895bbf4",
-        "slug": "89aba0cbbd1dc018",
-        "titulo": "Michael Wright, ator de 'Oz' e 'O Exército Inútil', morre aos 70 anos",
-        "resumo": "Michael Wright interpretou Omar White em 'Oz' Reprodução/HBO O ator Michael Wright, da série \"Oz\" e de filmes como \"O Exército Inútil\" e \"Inferno Branco\", morreu aos 70 anos. Segundo uma declaração enviada pela família ao TMZ, o ator sofreu insuficiência cardíaca por complicações da doença neurológica degenerativa de Marchiafava-Bignami. Nascido em Nova York, nos Estados Unidos, Wright atuou em mais de 50 filmes e séries ao longo de sua carreira. Ele ficou conhecido por seus papéis em filmes de ação, como \"Um Diretor Contra Todos\" e \"Leão Branco, o Lutador Sem Lei\", e por interpretar Omar…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/08/22/michael-wright-ator-de-oz-e-o-exercito-inutil-morre-aos-70-anos.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-22T12:54:04.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/r9DYjocDA2i17FIJUiQCN_hrh7M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/u/1SqCumRdWBkqep0IATRA/michaelwright.jpg"
       },
       {
         "clusterId": "4bb7812d46bad5fa",
