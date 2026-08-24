@@ -1,9 +1,33 @@
 {
   "date": "2026-08-24",
-  "generatedAt": "2026-08-24T16:37:54.481Z",
+  "generatedAt": "2026-08-24T20:30:13.272Z",
   "home": [
     {
-      "clusterId": "519463da29918731",
+      "clusterId": "3a45764f4cb9d875",
+      "slug": "6376d4565de820a4",
+      "titulo": "Ancine aprova registro de filme Dark Horse e Polícia Federal recebe dados da ONG ligada à produtora",
+      "resumo": "A Agência Nacional de Cinema (Ancine) aprovou o registro de \"Dark Horse\", filme que retrata a trajetória de Jair Bolsonaro, permitindo sua exibição nos cinemas. A Polícia Federal terá acesso a informações coletadas pela Polícia Civil de São Paulo em busca e apreensão no Instituto Conhecer Brasil, ONG vinculada à produtora do filme. Esses dados serão analisados no inquérito do Supremo Tribunal Federal que investiga o possível uso de emendas parlamentares para financiar o longa. A autorização de compartilhamento foi concedida pelo ministro da Justiça.",
+      "porQueImporta": "A aprovação e a investigação podem afetar a produção cultural e a transparência no uso de recursos públicos.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/ancine-aprova-registro-de-dark-horse-filme-sobre-a-vida-de-jair-bolsonaro/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/08/24/pf-tera-acesso-a-informacoes-de-ong-ligada-a-produtora-do-filme-sobre-jair-bolsonaro.ghtml"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/justica/dino-autoriza-pf-a-acessar-dados-de-operacao-contra-produtora-de-filme-sobre-bolsonaro/"
+        }
+      ],
+      "updatedAt": "2026-08-24T20:27:45.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/Design-sem-nome-35.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "7c3c9a231e9c575f",
       "slug": "ea277ca1fd178a3a",
       "titulo": "Braskem entra com pedido de recuperação extrajudicial",
       "resumo": "A Braskem, petroquímica brasileira, anunciou que vai solicitar recuperação extrajudicial para reestruturar cerca de US$ 10,9 bilhões em dívidas. O pedido foi aprovado pelo Conselho de Administração, mas ainda depende da formalização dos documentos na Justiça. A medida ocorre após o fim do prazo de proteção contra credores e em meio a dificuldades financeiras da empresa. Em consequência, as ações da Braskem caíram cerca de 4% na B3 e a companhia foi excluída de vários índices, como o Ibovespa.",
@@ -11,72 +35,104 @@
       "category": "economia",
       "sources": [
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/economia-br/acoes-da-braskem-caem-na-bolsa-com-pedido-de-recuperacao-extrajudicial"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/b3-anuncia-exclusao-de-braskem-em-indices-apos-pedido-de-recuperacao-extrajudicial/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/acoes-da-braskem-tem-forte-queda-apos-pedido-de-recuperacao-extrajudicial/"
-        },
-        {
           "name": "G1",
-          "url": "https://g1.globo.com/al/alagoas/noticia/2026/08/24/mineracao-da-braskem-entenda-como-solo-afundou-em-maceio-e-obrigou-60-mil-pessoas-a-deixarem-suas-casas.ghtml"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/economia/braskem-recuperacao-extrajudicial/"
-        }
-      ],
-      "updatedAt": "2026-08-24T15:51:29.000Z",
-      "imageUrl": "https://images.metroimg.com/2025/08/07084146/braskem-11.jpg"
-    },
-    {
-      "clusterId": "d944fa98a77d6987",
-      "slug": "72ce012a2709f7a0",
-      "titulo": "João Azevêdo lidera disputa pelo Senado na Paraíba",
-      "resumo": "A pesquisa Real Time Big Data aponta João Azevêdo com 29% dos votos, à frente de Veneziano Vital do Rêgo, que tem 23%. A margem de erro é de dois pontos percentuais. A pesquisa entrevistou 1.600 eleitores entre os dias 19 e 22 de agosto.",
-      "porQueImporta": "O resultado indica a forte posição de Azevêdo na corrida senatorial, influenciando a composição do Senado estadual.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-eleicoes-2026/joao-azevedo-lidera-disputa-pelo-senado-na-pb-diz-real-time-big-data/"
+          "url": "https://g1.globo.com/economia/noticia/2026/08/24/braskem-protocola-pedido-de-recuperacao-extrajudicial-para-reestruturar-divida-de-r-56-bilhoes.ghtml"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-na-paraiba-flavio-e-rejeitado-por-52-lula-por-37/"
+          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/b3-exclui-braskem-de-indices-apos-pedido-de-recuperacao-extrajudicial/"
         },
         {
           "name": "Exame",
-          "url": "https://exame.com/brasil/real-time-big-data-flavio-bolsonaro-lidera-contra-lula-em-sao-paulo/"
+          "url": "https://exame.com/invest/mercados/ibovespa-fecha-em-alta-pelo-4o-pregao-seguido-acao-da-braskem-cai-65/"
+        }
+      ],
+      "updatedAt": "2026-08-24T20:17:58.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/JzUOIaCgXYppjYWW6MFwcFRhJDs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/b/QOwIfmRpK0AEifnLEV7w/captura-de-tela-2026-08-24-083626.png"
+    },
+    {
+      "clusterId": "f6d1ea21ba1ac828",
+      "slug": "8d7217888d580c9f",
+      "titulo": "Netanyahu acusa Irã de tentar assassinar um de seus filhos",
+      "resumo": "O primeiro‑ministro israelense Benjamin Netanyahu afirmou que o Irã tentou assassinar um de seus filhos, sem indicar qual ou quando ocorreu a tentativa. A declaração foi feita em entrevista ao canal Channel 14. Netanyahu não detalhou o plano nem a proximidade da execução.",
+      "porQueImporta": "A acusação pode intensificar tensões entre Israel e Irã e afetar a segurança de figuras públicas israelenses.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/benjamin-netanyahu-acusa-ira-de-tentar-matar-um-dos-seus-filhos"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/netanyahu-diz-que-ira-tentou-assassinar-um-de-seus-filhos/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/24/netanyahu-afirma-que-ira-tentou-matar-um-de-seus-filhos.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-24T20:07:59.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/05/GettyImages-1247987054.jpg"
+    },
+    {
+      "clusterId": "b2990332ec533c1c",
+      "slug": "e8891ae6c48d3b0f",
+      "titulo": "Discord recorre de suspensão de lives e diz que ANPD aplicou punição 'desproporcional' à plataforma",
+      "resumo": "Discord recorre de suspensão de lives e fala em punição desproporcional da ANPD O Discord apresentou nesta segunda-feira (24) um recurso contra a suspensão de lives da plataforma determinada pela Autoridade Nacional de Proteção de Dados (ANPD). A empresa solicita efeito suspensivo imediato com o objetivo de reativar as transmissões e pede a anulação da medida cautelar, alegando falta de competência da agência para aplicar a restrição, vícios formais no processo e punição \"desproporcional\". 🔎 O debate sobre a segurança no ambiente digital ganhou força nas últimas semanas após a primeira-dama,…",
+      "porQueImporta": "",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/08/24/pro/discord-recorre-de-suspensao-de-lives-e-diz-que-punicao-da-anpd-e-desproporcional/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/08/24/discord-recorre-de-suspensao-e-diz-que-anpd-aplicou-punicao-desproporcional-a-plataforma.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/tecnologia/discord-recorre-da-suspensao-de-lives-no-brasil-e-diz-que-anpd-nao-tem-poder-para-bloquear-servicos/"
+        }
+      ],
+      "updatedAt": "2026-08-24T19:34:22.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/m3z7dTqLL8s8eZXmjivv2U2Xlmo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/z/htcRZ1Qr2tPMUV7GVL6g/globo-canal-4-20260817-2000-frame-65549.jpeg"
+    },
+    {
+      "clusterId": "febb800bbb3fef57",
+      "slug": "7a0f3981992e2cf6",
+      "titulo": "Influenciador Lito Sousa busca tratamento experimental para doença de Creutzfeldt‑Jakob",
+      "resumo": "O especialista em aviação e criador de conteúdo Lito Sousa foi diagnosticado com a doença neurodegenerativa rara Creutzfeldt‑Jakob, gerando repercussão nas redes sociais. Ele solicitou participação em estudos experimentais de Harvard e de um consórcio europeu, porém ambos não aceitam novos participantes. Atualmente não há terapia que detenha ou reverta a doença; o cuidado se concentra no suporte e controle dos sintomas.",
+      "porQueImporta": "O caso destaca a falta de tratamentos eficazes para a Creutzfeldt‑Jakob e a busca por alternativas experimentais.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/ciencia/lito-sousa-o-que-diz-a-ciencia-sobre-a-doenca-de-creutzfeldt-jakob/"
         },
         {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/joao-azevedo-lidera-a-disputa-pelo-senado-na-paraiba-mostra-real-time-big-data/"
+          "url": "https://www.cartacapital.com.br/saude/o-que-a-ciencia-realmente-pode-oferecer-hoje-contra-a-doenca-de-creutzfeldt%e2%80%91jakob/"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cy4zlmyxnkgo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-08-24T16:15:01.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/08/772656156_2264179024341085_1050294914257839306_n.jpg"
+      "updatedAt": "2026-08-24T18:36:31.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/08/1651672856021-1.png"
     },
     {
-      "clusterId": "a78d3886dad6be22",
+      "clusterId": "602d1f0726738abd",
       "slug": "561cb63cc1364c49",
       "titulo": "Trump anuncia tarifas de 50% sobre carros e aço canadenses em 2027",
       "resumo": "O presidente dos Estados Unidos, Donald Trump, anunciou que, a partir de 1º de janeiro de 2027, serão aplicadas tarifas de 50% sobre carros, caminhões, autopeças e aço importados do Canadá. A medida segue o fim das negociações comerciais entre os dois países, que não conseguiram chegar a um acordo. A decisão foi divulgada na rede social Truth Social e confirmada por veículos de imprensa.",
       "porQueImporta": "A imposição de tarifas pode intensificar a guerra comercial entre os EUA e o Canadá, afetando setores automotivo e de aço.",
-      "category": "geral",
+      "category": "economia",
       "sources": [
         {
           "name": "CartaCapital",
           "url": "https://www.cartacapital.com.br/economia/trump-anuncia-tarifas-de-50-sobre-carros-e-aco-do-canada-em-2027/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/donald-trump-anuncia-tarifa-de-50-sobre-automoveis-e-aco-para-o-canada/"
         },
         {
           "name": "G1",
@@ -91,7 +147,7 @@
       "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/10/000_79UW2KF.jpg"
     },
     {
-      "clusterId": "6900db924648e55b",
+      "clusterId": "725f3144a2962725",
       "slug": "229e7827b39ddb03",
       "titulo": "Primeiro debate presidencial de 2026 na Band ocorre sem Lula, Flávio e Zema",
       "resumo": "O debate, transmitido pela Band em parceria com o Estadão, contou apenas com os candidatos Ronaldo Caiado (PSD), Renan Santos (Missão) e Augusto Cury (Avante). Os participantes criticaram a ausência dos líderes das pesquisas, Lula e Flávio Bolsonaro, e fizeram ataques que incluíram o uso de fraldas como símbolo de fracasso. Caiado chamou os ausentes de “fujões” e pediu a cassação de suas candidaturas por falta, enquanto Renan exibiu fraldas com os nomes dos dois líderes e Cury convidou Caiado para o Ministério da Segurança.",
@@ -103,142 +159,102 @@
           "url": "https://www.bbc.co.uk/portuguese/live/cmlyqyl0d3z7t?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/opiniao/debate-na-band-aponta-diferentes-caminhos-para-provaveis-fracassos-de-caiado-renan-e-cury/"
-        },
-        {
           "name": "G1",
           "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/primeiro-debate-presidencial.ghtml"
         }
       ],
-      "updatedAt": "2026-08-24T16:37:55.737Z",
+      "updatedAt": "2026-08-24T20:30:14.762Z",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8333/live/8820f500-9f74-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "clusterId": "f01b3718002a0fc7",
-      "slug": "78db6eb06f9f6edd",
-      "titulo": "Caneta emagrecedora semaglutida tem novos descontos e versão genérica mais barata",
-      "resumo": "A Eurofarma anunciou descontos de até 39% na semaglutida biológica, direcionados a participantes do programa de pacientes. A mesma semana, a FDA aprovou um medicamento genérico de semaglutida, que deverá custar cerca de 35% a menos que os produtos originais. Ambos os desenvolvimentos visam tornar a terapia mais acessível aos pacientes que buscam perda de peso.",
-      "porQueImporta": "Reduzir o custo da semaglutida amplia o acesso ao tratamento de obesidade e pode melhorar a saúde pública.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/saude/caneta-emagrecedora-farmaceutica-anuncia-novos-descontos-que-chegam-a-39/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/saude/caneta-emagrecedora-generica-como-vai-funcionar-e-quanto-sera-mais-barata/"
-        }
-      ],
-      "updatedAt": "2026-08-24T16:30:09.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/Poviztra.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "132987a128f35bfb",
-      "slug": "f93c9b7948b10929",
-      "titulo": "Primeiro debate presidencial 2026 sem vencedor claro",
-      "resumo": "O debate inaugural da eleição de 2026 não teve vencedor definido, segundo analistas. O candidato Renan Santos aproveitou a ausência de alguns concorrentes para ampliar sua exposição digital. A falta de presença de outros candidatos reduziu a competitividade do encontro. O debate foi considerado esvaziado por especialistas.",
-      "porQueImporta": "O resultado influencia a percepção pública e a visibilidade dos candidatos antes do primeiro turno.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/quem-ganhou-e-quem-perdeu-o-primeiro-debate-presidencial-segundo-cientista-politico/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cdj0jj12deeo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-08-24T16:25:53.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/55483877343_483979a101_k.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "68920680bdba7eae",
-      "slug": "13b729b1ed7b511b",
-      "titulo": "Robinho Jr. liberado pelo Santos para viagem à Itália e Zé Rafael assina contrato com Alverca",
-      "resumo": "O Santos autorizou a saída de Robinho Jr. para viajar à Itália, onde o jogador resolverá questões de passaporte europeu e domicílio, além de participar de sondagens de clubes europeus. Enquanto isso, o volante Zé Rafael rescindiu contrato com o clube brasileiro e foi anunciado como reforço do Alverca, em Portugal, após ter sido transferido por cerca de 2,5 milhões de euros.",
-      "porQueImporta": "A movimentação demonstra a busca do Santos por oportunidades de transferências internacionais e a saída de jogadores que não fazem parte dos planos atuais.",
+      "clusterId": "aa9c08715bde1e2d",
+      "slug": "90a54edf30ae5eff",
+      "titulo": "João Pedro marca gol de 31 segundos na estreia como camisa 9 do Chelsea",
+      "resumo": "Na partida de estreia do Chelsea na Premier League contra o Fulham, João Pedro marcou um gol em apenas 31 segundos. O atacante entrou como titular na posição de camisa 9. O gol foi decisivo para a vitória do Chelsea no confronto.",
+      "porQueImporta": "O desempenho rápido de João Pedro destaca sua importância na equipe e influencia a classificação inicial da temporada.",
       "category": "esportes",
       "sources": [
         {
           "name": "GE",
-          "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/08/24/robinho-jr-e-liberado-pelo-santos-para-viajar-a-italia-jogador-tem-sondagens-de-clubes-europeus.ghtml"
+          "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/jogo/24-08-2026/Fulham-Chelsea.ghtml"
         },
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-portugues/ex-palmeiras-e-santos-ze-rafael-e-anunciado-por-clube-portugues/"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/joao-pedro-faz-gol-com-31-segundos-em-estreia-com-camisa-9-do-chelsea"
         }
       ],
-      "updatedAt": "2026-08-24T16:18:45.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/73CBcZCwDAmRtFpxENXm3GAUmYA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/0/B/rFZeupTCqPxnZDF2twNg/55252226858-8cd8df76a3-k.jpg"
+      "updatedAt": "2026-08-24T20:25:50.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/joao-pedro-chelsea-scaled.jpg"
     },
     {
-      "clusterId": "91be6d9308c8663a",
-      "slug": "5f6e97d5dcbf8049",
-      "titulo": "Acidente entre dois carros deixa feridos em Três Rios",
-      "resumo": "Um acidente envolvendo dois veículos ocorreu próximo ao trevo do bairro Purys, em Três Rios, no início da tarde de segunda-feira. A colisão foi registrada às 11h55 e mobilizou a equipe do Corpo de Bombeiros, que atendeu ao local. Dois motoristas ficaram feridos e foram encaminhados ao hospital. O incidente foi documentado em vídeo e divulgado pela mídia local.",
-      "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária na região.",
-      "category": "esportes",
+      "clusterId": "115b6b4a9cabaf42",
+      "slug": "c96185816d1b5c2a",
+      "titulo": "Trump compra ações da SpaceX em junho",
+      "resumo": "O presidente dos Estados Unidos, Donald Trump, adquiriu entre US$15.001 e US$50.000 em ações da SpaceX, empresa de Elon Musk, em 23 de junho. A transação foi registrada em uma declaração financeira assinada em 12 de agosto e divulgada em 22 de agosto. A compra faz parte de mais de 1.000 transações de ações na carteira do presidente naquele mês.",
+      "porQueImporta": "Ilustra o envolvimento de Trump em investimentos privados, levantando questões sobre conflitos de interesse e transparência financeira.",
+      "category": "economia",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/24/acidente-entre-dois-carros-deixa-feridos-em-tres-rios.ghtml"
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/trump-comprou-acoes-da-spacex-de-elon-musk-em-junho/"
         },
         {
-          "name": "GE",
-          "url": "https://ge.globo.com/rj/sul-do-rio-costa-verde/copa-rio-sul-de-futsal/noticia/2026/08/24/tres-rios-estreia-com-vitoria-sobre-a-portuguesa-no-estadual-de-futsal.ghtml"
+          "name": "G1",
+          "url": "https://g1.globo.com/economia/noticia/2026/08/24/trump-comprou-acoes-da-spacex-de-elon-musk-em-junho.ghtml"
         }
       ],
-      "updatedAt": "2026-08-24T16:15:54.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/xHrlrRDKlI1IYlIunGkM7858mb8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/D/FOkfIyS5SDIJkdIRu3yQ/whatsapp-image-2026-08-24-at-11.58.29-1-.png"
+      "updatedAt": "2026-08-24T20:23:14.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/02/450610235.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "clusterId": "8ae994569c1f13c1",
-      "slug": "3a15e6904a3a3cc4",
-      "titulo": "Aneel aprova reajuste de mais de 5% na tarifa de energia elétrica no Maranhão",
-      "resumo": "A Agência Nacional de Energia Elétrica (Aneel) aprovou o reajuste tarifário anual da Equatorial Maranhão, que entra em vigor em 28 de agosto. O aumento será de 5,20% para consumidores residenciais da categoria B1, com efeito médio de 5,76%. Para consumidores de baixa tensão, o impacto será de 5,25%. A distribuidora atende cerca de 2,88 milhões de unidades consumidoras.",
-      "porQueImporta": "O reajuste afeta diretamente o custo mensal de energia elétrica dos consumidores maranhenses.",
-      "category": "geral",
+      "clusterId": "f51e2c26e0e05db0",
+      "slug": "081629533ce1c761",
+      "titulo": "CNH do Brasil passa a exibir passagens em pedágios eletrônicos",
+      "resumo": "O Ministério dos Transportes atualizou o aplicativo CNH do Brasil para permitir que os motoristas consultem passagens registradas em pedágios do sistema free flow, tanto federais quanto estaduais. A funcionalidade também mostra a concessionária responsável e indica o canal de pagamento. Todas as passagens de rodovias estarão listadas no aplicativo.",
+      "porQueImporta": "Facilita o controle e pagamento de pedágios eletrônicos pelos motoristas.",
+      "category": "economia",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/ma/maranhao/noticia/2026/08/24/aneel-aprova-reajuste-de-mais-de-5percent-na-tarifa-de-energia-eletrica-no-maranhao.ghtml"
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/minhas-financas/free-flow-aplicativo-cnh-do-brasil-passa-a-exibir-passagens-em-pedagios-eletronicos/"
         },
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/infra/aneel-aprova-aumento-medio-de-576-para-a-equatorial-maranhao/"
-        }
-      ],
-      "updatedAt": "2026-08-24T16:15:36.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/djRpY96a0_z4L09SwHmEif2xE0M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/y/O/yegTFTQz2KGdOcjQD2Pw/conta-luz.jpg"
-    },
-    {
-      "clusterId": "bbea75007ca110b3",
-      "slug": "d962f2abbbee8f6b",
-      "titulo": "Vídeo mostra quinto envolvido em espancamento e morte de ciclista em Copacabana",
-      "resumo": "Um vídeo de câmeras de segurança mostra um quinto homem dando chutes ao ciclista Cláudio Rafael Landeiro, que foi acusado de roubo de bicicleta e acabou morrendo por hemorragia e traumatismo. O vídeo foi gravado horas após o crime e mostra o homem tentando tranquilizar alguém enquanto afirma que não há câmeras no local. Já foram presos quatro homens, incluindo dois entregadores e dois seguranças, e a Polícia Civil continua a investigação para identificar o quinto suspeito.",
-      "porQueImporta": "O caso destaca a violência urbana e a necessidade de investigação eficaz em crimes de agressão.",
-      "category": "geral",
-      "sources": [
-        {
           "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/24/quinto-envolvido-caso-ciclista-copacabana.ghtml"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/ciclista-espancado-ate-a-morte-em-copacabana-levou-63-pauladas-diz-pericia/"
+          "url": "https://g1.globo.com/carros/noticia/2026/08/24/free-flow-cnh-do-brasil.ghtml"
         }
       ],
-      "updatedAt": "2026-08-24T16:08:17.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/5_oFV2-pQqvUJUfm8Fg16fKEHHk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/0/dF4BQUTke13CqbVAAsRg/rj1-limpo-20260824-1115-frame-167698.jpeg"
+      "updatedAt": "2026-08-24T20:15:41.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2023/12/freeflow-portico.jpeg?fit=300%2C169&amp;quality=70&amp;strip=all"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "6900db924648e55b",
+        "clusterId": "3a45764f4cb9d875",
+        "slug": "6376d4565de820a4",
+        "titulo": "Ancine aprova registro de filme Dark Horse e Polícia Federal recebe dados da ONG ligada à produtora",
+        "resumo": "A Agência Nacional de Cinema (Ancine) aprovou o registro de \"Dark Horse\", filme que retrata a trajetória de Jair Bolsonaro, permitindo sua exibição nos cinemas. A Polícia Federal terá acesso a informações coletadas pela Polícia Civil de São Paulo em busca e apreensão no Instituto Conhecer Brasil, ONG vinculada à produtora do filme. Esses dados serão analisados no inquérito do Supremo Tribunal Federal que investiga o possível uso de emendas parlamentares para financiar o longa. A autorização de compartilhamento foi concedida pelo ministro da Justiça.",
+        "porQueImporta": "A aprovação e a investigação podem afetar a produção cultural e a transparência no uso de recursos públicos.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/ancine-aprova-registro-de-dark-horse-filme-sobre-a-vida-de-jair-bolsonaro/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/08/24/pf-tera-acesso-a-informacoes-de-ong-ligada-a-produtora-do-filme-sobre-jair-bolsonaro.ghtml"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/justica/dino-autoriza-pf-a-acessar-dados-de-operacao-contra-produtora-de-filme-sobre-bolsonaro/"
+          }
+        ],
+        "updatedAt": "2026-08-24T20:27:45.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/Design-sem-nome-35.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "725f3144a2962725",
         "slug": "229e7827b39ddb03",
         "titulo": "Primeiro debate presidencial de 2026 na Band ocorre sem Lula, Flávio e Zema",
         "resumo": "O debate, transmitido pela Band em parceria com o Estadão, contou apenas com os candidatos Ronaldo Caiado (PSD), Renan Santos (Missão) e Augusto Cury (Avante). Os participantes criticaram a ausência dos líderes das pesquisas, Lula e Flávio Bolsonaro, e fizeram ataques que incluíram o uso de fraldas como símbolo de fracasso. Caiado chamou os ausentes de “fujões” e pediu a cassação de suas candidaturas por falta, enquanto Renan exibiu fraldas com os nomes dos dois líderes e Cury convidou Caiado para o Ministério da Segurança.",
@@ -250,155 +266,127 @@
             "url": "https://www.bbc.co.uk/portuguese/live/cmlyqyl0d3z7t?at_medium=RSS&at_campaign=rss"
           },
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/opiniao/debate-na-band-aponta-diferentes-caminhos-para-provaveis-fracassos-de-caiado-renan-e-cury/"
-          },
-          {
             "name": "G1",
             "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/primeiro-debate-presidencial.ghtml"
           }
         ],
-        "updatedAt": "2026-08-24T16:37:55.737Z",
+        "updatedAt": "2026-08-24T20:30:14.762Z",
         "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8333/live/8820f500-9f74-11f1-a291-b542ee92de7c.jpg"
       },
       {
-        "clusterId": "6b234174a61aebb1",
-        "slug": "c45b95cb6b529645",
-        "titulo": "Tarcísio cancela participação no Roda Viva",
-        "resumo": "O governador de São Paulo, Tarcísio, retirou-se da participação no programa Roda Viva da TV Cultura, alegando conflito de agenda. A decisão foi anunciada no dia 29 de agosto. O programa continuará com a presença de Fernando Haddad, principal adversário do governador, na próxima edição, marcada para 31 de agosto.",
-        "porQueImporta": "A mudança de agenda do governador pode influenciar a cobertura política do programa e a dinâmica da campanha eleitoral.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/tarcisio-cancela-ida-ao-programa-roda-viva-da-tv-cultura/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/tarcisio-cancela-participacao-no-roda-viva-desta-segunda-feira/"
-          }
-        ],
-        "updatedAt": "2026-08-24T16:06:07.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/10/54773992363_4d0bbd0cf8_k-1.jpg"
-      },
-      {
-        "clusterId": "e7b8c97d8a3de251",
-        "slug": "202108db64c5d68c",
-        "titulo": "Doença de Creutzfeldt‑Jakob: diagnóstico e tratamento limitado",
-        "resumo": "A doença de Creutzfeldt‑Jakob (DCJ) é uma neurodegenerativa rara e fatal, sem terapia que a detenha ou reverta. O tratamento atual concentra-se no suporte e controle dos sintomas para garantir conforto ao paciente. O influenciador Lito Sousa recebeu o diagnóstico em 2023, e especialistas explicam que o prognóstico permanece grave. Pesquisas em Harvard investigam possíveis abordagens experimentais, mas ainda não há resultados clinicamente comprovados.",
-        "porQueImporta": "Entender as limitações terapêuticas da DCJ ajuda a orientar cuidados e pesquisas futuras.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/educacao/aulas/disciplinas/ciencias/o-que-a-ciencia-realmente-pode-oferecer-hoje-contra-a-doenca-de-creutzfeldt%e2%80%91jakob/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/saude/lito-sousa-e-creutzfeldt-jakob-especialista-explica-doenca-degenerativa/"
-          }
-        ],
-        "updatedAt": "2026-08-24T15:52:12.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/08/1651672856021-1.png"
-      },
-      {
-        "clusterId": "1578bfb7f35c6d21",
-        "slug": "0c72eb65dbf6180e",
-        "titulo": "Fachin se reúne com Janja para tratar de pacto contra o feminicídio",
-        "resumo": "O presidente do Supremo Tribunal Federal, Luiz Edson Fachin, encontrou-se com a primeira-dama Janja da Silva para discutir ações de combate ao feminicídio e à violência de gênero. A reunião ocorreu às 14h no gabinete do presidente do STF e faz parte do Pacto Nacional Brasil de Enfrentamento ao Feminicídio, lançado em fevereiro. O pacto envolve o Executivo, Legislativo e Judiciário e busca reduzir a violência letal contra mulheres no país.",
-        "porQueImporta": "A reunião reforça o compromisso institucional de reduzir a violência contra mulheres no Brasil.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/fachin-se-reune-com-janja-para-tratar-de-pacto-contra-o-feminicidio/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/08/24/fachin-recebe-janja-no-stf-para-tratar-de-acoes-de-combate-ao-feminicidio-e-a-violencia-de-genero.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-24T15:38:17.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/D0cVS0G4nlVs5sqLpUqFDu_TmW0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/z/nvyFqpQQiwvgnC7HvA7g/gustavo-moreno.jpg"
-      },
-      {
-        "clusterId": "4ff39eedef97d009",
-        "slug": "36a4a841f6962b47",
-        "titulo": "Público xinga Lula durante show de Gusttavo Lima em Barretos",
-        "resumo": "Durante o megashow de Gusttavo Lima em Barretos, um público manifestou-se contra Lula, gritando e xingando o presidente. A manifestação foi transmitida ao vivo pela TV Globo, mas o cantor não reagiu aos gritos e continuou a apresentação. Gusttavo Lima retornou ao evento após três anos de ausência.",
-        "porQueImporta": "O episódio evidencia a polarização política que permeia eventos culturais no Brasil.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/publico-xinga-lula-durante-show-de-gusttavo-lima-em-barretos/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/celebridades/andressa-suita-revela-rotina-de-gusttavo-lima-apos-megashow-em-barretos/"
-          }
-        ],
-        "updatedAt": "2026-08-24T15:27:29.000Z"
-      },
-      {
-        "clusterId": "dcf2897736cc88bf",
-        "slug": "b8ca8f8d12b2cf55",
-        "titulo": "56% dos eleitores brasileiros afirmam que votariam em 2026 mesmo sem obrigatoriedade",
-        "resumo": "A pesquisa Datafolha, realizada entre 18 e 19 de agosto com 2.058 eleitores, revelou que 56% disseram que iriam votar nas eleições de 2026 se o voto fosse facultativo, enquanto 43% afirmaram que não votariam. A margem de erro da pesquisa é de dois pontos percentuais. A disposição de votar é maior entre homens, pessoas mais velhas, mais instruídas e mais ricas.",
-        "porQueImporta": "O resultado indica a força da motivação interna dos eleitores, relevante para a avaliação da efetividade da obrigatoriedade no voto.",
+        "clusterId": "9f41d546bf02cee5",
+        "slug": "242f22ae88b4686d",
+        "titulo": "Lula pressiona Congresso pelo fim da escala 6×1",
+        "resumo": "O presidente Lula está pressionando o Congresso a concluir a reforma da escala 6×1 antes das eleições de outubro. O relator da proposta deve apresentar parecer na semana, e o governo busca acelerar a aprovação para evitar que o tema seja usado em campanhas políticas. Caso a medida não seja aprovada, o PT pretende usar o episódio para alertar os eleitores sobre a importância de escolher bem os representantes.",
+        "porQueImporta": "A decisão sobre a escala 6×1 pode influenciar a composição do Legislativo e a agenda política antes das eleições.",
         "category": "politica",
         "sources": [
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/pode-votar-sem-titulo-de-eleitor-veja-quais-documentos-sao-aceitos-nas-eleicoes-de-2026/"
+            "url": "https://veja.abril.com.br/politica/eventual-freio-em-pec-do-fim-da-escala-6x1-pode-ser-usada-em-campanha-do-pt/"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/23/datafolha-se-voto-nao-fosse-obrigatorio.ghtml"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-governo/lula-pressiona-congresso-pelo-fim-da-escala-6-x-1/"
           }
         ],
-        "updatedAt": "2026-08-24T15:00:38.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/GettyImages-104689841.jpg?quality=70&strip=info"
+        "updatedAt": "2026-08-24T19:30:02.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/0d7a8575.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "a816dc864b4f9fd5",
-        "slug": "0416973492886f4d",
-        "titulo": "TRE-SP nega recursos de Pablo Marçal e mantém inelegibilidade até 2032",
-        "resumo": "O Tribunal Regional Eleitoral de São Paulo rejeitou os recursos especiais apresentados por Pablo Marçal, candidato do PRTB, contra a decisão que o condenou por uso indevido de meios de comunicação na campanha de 2024. A inelegibilidade de oito anos permanece em vigor, assim como a multa de R$ 420 mil imposta ao candidato. O presidente do TRE-SP, José Antonio Encinas Manfré, confirmou a manutenção da sentença.",
-        "porQueImporta": "A decisão afeta a participação política de um candidato de destaque e reforça a aplicação de normas eleitorais no estado.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/justica/tre-sp-nega-recursos-e-mantem-pablo-marcal-inelegivel-ate-2032/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/24/tre-sp-nega-recurso-de-pablo-marcal-e-o-mantem-inelegivel-ate-2032-por-irregularidade-na-campanha-para-prefeito-de-sp.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-24T14:00:52.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2024/10/Pablo-Marçal-PRTB.jpg"
-      },
-      {
-        "clusterId": "3e49f2c71cf71fa5",
-        "slug": "aa53b48ad8e8c069",
-        "titulo": "Deputado Gaspar e advogado acusam Lula de envolvimento em casos de corrupção",
-        "resumo": "O advogado Marco Aurélio Carvalho afirmou que aliados de Lula acumulam casos de rachadinha, Dark Horse e de emendas. O vice de Flávio Gaspar, por sua vez, alegou que o filho de Lula vive em luxo em Madri ao lado de estrelas do futebol, prejudicando o povo brasileiro. Ambas as declarações foram feitas em entrevistas à Poder360.",
-        "porQueImporta": "As acusações podem influenciar a percepção pública sobre a integridade de Lula e sua família.",
+        "clusterId": "06111012effe04db",
+        "slug": "e99f0dad8a54f6e4",
+        "titulo": "Mauro Mendes lidera intenção de voto para o Senado",
+        "resumo": "Segundo levantamento do Paraná Pesquisas, realizado entre 21 e 23 de agosto, Mauro Mendes detém 52,3% das intenções de voto ao Senado, enquanto Janaina Riva possui 33,7%. O resultado indica uma clara vantagem de Mendes na disputa por uma das vagas senatorial.",
+        "porQueImporta": "Os dados revelam a preferência dos eleitores e a provável configuração das vagas senatorial no próximo pleito.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/estrelas-da-corrupcao-estao-na-chapa-de-gaspar-diz-defesa-de-lulinha/"
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/mendes-tem-523-e-janaina-337-das-intencoes-de-voto-ao-senado-por-mt/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/mauro-mendes-lidera-com-folga-a-disputa-pelo-senado-no-mt/"
           }
         ],
-        "updatedAt": "2026-08-24T16:24:15.000Z"
+        "updatedAt": "2026-08-24T19:22:04.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/12/mauro_mendes_MT.jpg"
+      },
+      {
+        "clusterId": "b7c856cc7a6c417d",
+        "slug": "df09fa52a62f065a",
+        "titulo": "Otaviano Pivetta apresenta plano de governo e mantém liderança em pesquisas",
+        "resumo": "O candidato do Republicanos, Otaviano Pivetta, protocolou na Justiça Eleitoral seu plano de governo para 2027 a 2030, defendendo a continuidade do modelo de gestão adotado desde 2019, baseado em \"fazimento\" e \"lucro social\". O documento, intitulado \"O caminho para Mato Grosso seguir prosperando: Gestão eficiente a serviço do povo\", destaca a continuidade das políticas implementadas com o ex-governador Mauro Mendes. Em pesquisas de opinião, Pivetta mantém a liderança numérica, com Wellington Fagundes do PL logo atrás, resultando em um empate entre os dois partidos.",
+        "porQueImporta": "O plano e a posição nas pesquisas indicam a probabilidade de continuidade de políticas e a competitividade do cenário eleitoral em Mato Grosso.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/08/24/eleicoes-2026-veja-as-propostas-de-otaviano-pivetta-pl-ao-governo-de-mt.ghtml"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/cartaexpressa/pesquisa-mostra-empate-entre-republicanos-e-pl-na-disputa-pelo-governo-de-mato-grosso/"
+          }
+        ],
+        "updatedAt": "2026-08-24T18:45:27.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/3zIMetnLI76QX8olLyno5tCzTAs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/n/SoWwKbSHmtItTMKx1iAg/vice-governador-otaviano-pivetta-1-.jpg"
+      },
+      {
+        "clusterId": "eb1f5e67c983ed79",
+        "slug": "19708d4641041116",
+        "titulo": "Governo aprova aplicação de R$ 13,5 bilhões em linhas de financiamento para empresas afetadas por tarifaço e conflitos",
+        "resumo": "O Conselho Interministerial do Plano Brasil Soberano aprovou, por meio de resolução publicada no DOU, a aplicação de R$ 13,5 bilhões em linhas de financiamento. O montante será destinado a empresas que sofreram com o tarifaço dos Estados Unidos e com conflitos internacionais. A maior parte, R$ 5 bilhões, será direcionada a exportadores e cadeias de fornecimento.",
+        "porQueImporta": "A medida visa mitigar impactos econômicos sobre setores exportadores e cadeias de produção brasileiras.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/conselho-interministerial-define-uso-de-recursos-do-brasil-soberano/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/08/24/brasil-soberano-executivo-define-plano-para-aplicar-r-135-bilhoes-em-linhas-de-credito-para-empresas-afetadas-pelo-tarifaco.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-24T18:38:20.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/alIJprej7Jw3EldDag_APxuhCx4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/D/XHnNZUSAqnBMAsJRF6fA/exporta.jpg"
+      },
+      {
+        "clusterId": "953b7e33c95b616e",
+        "slug": "e2927f49ebe5364b",
+        "titulo": "Bola do gol de Maradona é leiloada por US$ 3,35 mi",
+        "resumo": "A Heritage Auctions vendeu a bola usada por Diego Maradona no gol da Copa do Mundo de 1986 por US$ 3,35 milhões. O valor ficou bem abaixo da estimativa inicial de US$ 9,2 milhões. O leilão atraiu atenção de colecionadores e fãs de futebol. A venda demonstra o interesse contínuo em itens históricos do esporte.",
+        "porQueImporta": "O resultado mostra a diferença entre expectativa de mercado e valor real de objetos esportivos históricos.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-sportsmkt/bola-do-gol-la-mano-de-dios-de-maradona-e-leiloada-por-us-335-mi/"
+          }
+        ],
+        "updatedAt": "2026-08-24T19:48:28.000Z"
+      },
+      {
+        "clusterId": "1592738b7ceda4a3",
+        "slug": "66a981a0ec35231e",
+        "titulo": "Haddad critica contratos de Tarcísio como prejudiciais ao Tesouro",
+        "resumo": "O ex-ministro da Infraestrutura, Tarcísio de Freitas, assinou contratos que o ex-presidente Lula, Lula, considerou prejudiciais ao Tesouro. O partido do ex-presidente, o PT, afirmou que, se eleito, fará um \"pente fino\" nas negociações do atual governador. A crítica se refere à atuação de Tarcísio durante o governo Bolsonaro.",
+        "porQueImporta": "A avaliação dos contratos pode influenciar a confiança dos investidores e a gestão fiscal do país.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/haddad-diz-que-tarcisio-assinou-contratos-prejudiciais-ao-tesouro/"
+          }
+        ],
+        "updatedAt": "2026-08-24T19:31:44.000Z"
       }
     ],
     "economia": [
       {
-        "clusterId": "519463da29918731",
+        "clusterId": "7c3c9a231e9c575f",
         "slug": "ea277ca1fd178a3a",
         "titulo": "Braskem entra com pedido de recuperação extrajudicial",
         "resumo": "A Braskem, petroquímica brasileira, anunciou que vai solicitar recuperação extrajudicial para reestruturar cerca de US$ 10,9 bilhões em dívidas. O pedido foi aprovado pelo Conselho de Administração, mas ainda depende da formalização dos documentos na Justiça. A medida ocorre após o fim do prazo de proteção contra credores e em meio a dificuldades financeiras da empresa. Em consequência, as ações da Braskem caíram cerca de 4% na B3 e a companhia foi excluída de vários índices, como o Ibovespa.",
@@ -406,153 +394,224 @@
         "category": "economia",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/economia-br/acoes-da-braskem-caem-na-bolsa-com-pedido-de-recuperacao-extrajudicial"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/b3-anuncia-exclusao-de-braskem-em-indices-apos-pedido-de-recuperacao-extrajudicial/"
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/08/24/braskem-protocola-pedido-de-recuperacao-extrajudicial-para-reestruturar-divida-de-r-56-bilhoes.ghtml"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/mercado/acoes-da-braskem-tem-forte-queda-apos-pedido-de-recuperacao-extrajudicial/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/al/alagoas/noticia/2026/08/24/mineracao-da-braskem-entenda-como-solo-afundou-em-maceio-e-obrigou-60-mil-pessoas-a-deixarem-suas-casas.ghtml"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/economia/braskem-recuperacao-extrajudicial/"
-          }
-        ],
-        "updatedAt": "2026-08-24T15:51:29.000Z",
-        "imageUrl": "https://images.metroimg.com/2025/08/07084146/braskem-11.jpg"
-      },
-      {
-        "clusterId": "de6fe0d60f20ff7d",
-        "slug": "27d54e4730e15ea7",
-        "titulo": "Yduqs confirma negociações de fusão com Afya e ação sobe 12%",
-        "resumo": "A Yduqs divulgou que está em tratativas para combinar negócios com a Afya, o que levou a um aumento de 12% no preço das ações. A empresa ressaltou que não há garantia de que as negociações resultarão na assinatura de documentos definitivos ou na conclusão da operação. A Afya tem interesse em negócios premium que já representam quase metade do EBITDA do grupo.",
-        "porQueImporta": "A possível fusão pode alterar a estrutura e a rentabilidade da Yduqs, impactando investidores e o mercado de educação.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/yduqs-yduq3-salta-8-apos-confirmar-negociacoes-sobre-possivel-fusao-com-afya/"
+            "url": "https://www.cnnbrasil.com.br/economia/money/mercado/b3-exclui-braskem-de-indices-apos-pedido-de-recuperacao-extrajudicial/"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/exame-in/o-que-atrai-a-afya-na-yduqs-e-as-contas-de-uma-possivel-fusao/"
+            "url": "https://exame.com/invest/mercados/ibovespa-fecha-em-alta-pelo-4o-pregao-seguido-acao-da-braskem-cai-65/"
           }
         ],
-        "updatedAt": "2026-08-24T16:04:19.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2019/06/estacio-01-fachada-.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-24T20:17:58.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/JzUOIaCgXYppjYWW6MFwcFRhJDs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/b/QOwIfmRpK0AEifnLEV7w/captura-de-tela-2026-08-24-083626.png"
       },
       {
-        "clusterId": "6bb4452ab0aa06dd",
-        "slug": "86f91c3867738cea",
-        "titulo": "Recall de milhões de carros na China por falha em maçaneta e sistemas de assistência",
-        "resumo": "A Administração Estatal de Regulação do Mercado (SAMR) anunciou um recall que afetará mais de 4 milhões de veículos de diversos fabricantes, incluindo a Tesla, devido a problemas nos sistemas de abertura de portas e monitoramento de assistência à direção. A Tesla está recolhendo 2,7 milhões de Model 3 e Model Y fabricados na China, pois dispositivos internos nas portas podem impedir a saída segura do veículo. As novas regras chinesas exigirão mecanismos mecânicos de abertura a partir de 2027, reforçando a necessidade de correções imediatas.",
-        "porQueImporta": "O recall destaca riscos de segurança em massa e a necessidade de cumprimento de normas mais rígidas na indústria automotiva chinesa.",
+        "clusterId": "602d1f0726738abd",
+        "slug": "561cb63cc1364c49",
+        "titulo": "Trump anuncia tarifas de 50% sobre carros e aço canadenses em 2027",
+        "resumo": "O presidente dos Estados Unidos, Donald Trump, anunciou que, a partir de 1º de janeiro de 2027, serão aplicadas tarifas de 50% sobre carros, caminhões, autopeças e aço importados do Canadá. A medida segue o fim das negociações comerciais entre os dois países, que não conseguiram chegar a um acordo. A decisão foi divulgada na rede social Truth Social e confirmada por veículos de imprensa.",
+        "porQueImporta": "A imposição de tarifas pode intensificar a guerra comercial entre os EUA e o Canadá, afetando setores automotivo e de aço.",
         "category": "economia",
         "sources": [
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/business/a-macaneta-que-ninguem-acha-e-vai-levar-a-um-recall-de-4-milhoes-de-carros/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/economia/trump-anuncia-tarifas-de-50-sobre-carros-e-aco-do-canada-em-2027/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/carros/noticia/2026/08/24/tesla-faz-recall-de-milhoes-de-carros-na-china-por-motivos-de-seguranca.ghtml"
+            "url": "https://g1.globo.com/economia/noticia/2026/08/24/trump-anuncia-tarifas-de-50percent-sobre-produtos-do-canada-em-2027.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cre4e1w2g2eo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-08-24T15:44:34.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/10/441536563_red.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-24T15:32:04.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/10/000_79UW2KF.jpg"
       },
       {
-        "clusterId": "15896c8a58708a79",
-        "slug": "04278c94a68a119d",
-        "titulo": "Maioria dos brasileiros diz que votaria mesmo sem obrigação",
-        "resumo": "A pesquisa Datafolha revelou que 73% dos brasileiros afirmam que votariam mesmo sem a obrigatoriedade. O estudo, realizado em 2024, mostra um interesse maior na participação eleitoral em comparação com dados de 2015. A maioria dos entrevistados acredita que a obrigatoriedade não é o principal motivador para votar.",
-        "porQueImporta": "Indica que a motivação para votar pode ser mais intrínseca do que a imposição legal.",
+        "clusterId": "115b6b4a9cabaf42",
+        "slug": "c96185816d1b5c2a",
+        "titulo": "Trump compra ações da SpaceX em junho",
+        "resumo": "O presidente dos Estados Unidos, Donald Trump, adquiriu entre US$15.001 e US$50.000 em ações da SpaceX, empresa de Elon Musk, em 23 de junho. A transação foi registrada em uma declaração financeira assinada em 12 de agosto e divulgada em 22 de agosto. A compra faz parte de mais de 1.000 transações de ações na carteira do presidente naquele mês.",
+        "porQueImporta": "Ilustra o envolvimento de Trump em investimentos privados, levantando questões sobre conflitos de interesse e transparência financeira.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/maioria-dos-brasileiros-diz-que-votaria-mesmo-sem-obrigacao-aponta-datafolha/"
+            "url": "https://www.infomoney.com.br/mundo/trump-comprou-acoes-da-spacex-de-elon-musk-em-junho/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/08/24/trump-comprou-acoes-da-spacex-de-elon-musk-em-junho.ghtml"
           }
         ],
-        "updatedAt": "2026-08-24T16:17:03.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/01/lacracao-urnas-eletronicas_mcamgo_abr_210920221818-4.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-24T20:23:14.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/02/450610235.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "695f62d7744cc5fa",
-        "slug": "168e70dfe45d0178",
-        "titulo": "Eduardo Leite e Ratinho Júnior estarão comigo governando o País, diz Caiado",
-        "resumo": "Ex-governador do Goiás afirmou que presença de aliados em um eventual governo é \"questão de bom senso\" The post Eduardo Leite e Ratinho Júnior estarão comigo governando o País, diz Caiado appeared first on InfoMoney.",
-        "porQueImporta": "",
+        "clusterId": "f51e2c26e0e05db0",
+        "slug": "081629533ce1c761",
+        "titulo": "CNH do Brasil passa a exibir passagens em pedágios eletrônicos",
+        "resumo": "O Ministério dos Transportes atualizou o aplicativo CNH do Brasil para permitir que os motoristas consultem passagens registradas em pedágios do sistema free flow, tanto federais quanto estaduais. A funcionalidade também mostra a concessionária responsável e indica o canal de pagamento. Todas as passagens de rodovias estarão listadas no aplicativo.",
+        "porQueImporta": "Facilita o controle e pagamento de pedágios eletrônicos pelos motoristas.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/eduardo-leite-e-ratinho-junior-estarao-comigo-governando-o-pais-diz-caiado/"
+            "url": "https://www.infomoney.com.br/minhas-financas/free-flow-aplicativo-cnh-do-brasil-passa-a-exibir-passagens-em-pedagios-eletronicos/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/carros/noticia/2026/08/24/free-flow-cnh-do-brasil.ghtml"
           }
         ],
-        "updatedAt": "2026-08-24T16:14:01.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/MOF20260726010.jpg?fit=300%2C216&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-24T20:15:41.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2023/12/freeflow-portico.jpeg?fit=300%2C169&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "8883543a97366469",
-        "slug": "6a883621708a7779",
-        "titulo": "Itamaraty passou a ser um braço político partidário, acusa Caiado",
-        "resumo": "Candidato do PSD afirmou que, se eleito, terá de resgatar a chancelaria brasileira The post Itamaraty passou a ser um braço político partidário, acusa Caiado appeared first on InfoMoney.",
-        "porQueImporta": "",
+        "clusterId": "30dccb0dccd52ca4",
+        "slug": "c3ac84c71f805999",
+        "titulo": "Häagen-Dazs deixa de ser distribuída no Brasil após quase 30 anos",
+        "resumo": "A General Mills anunciou que a marca Häagen-Dazs não será mais distribuída no Brasil, encerrando 29 anos de presença no país. A decisão faz parte de um plano de reformulação de portfólio da empresa, divulgado em março de 2026. Consumidores expressaram indignação nas redes sociais, pedindo que a marca permanecesse no mercado brasileiro.",
+        "porQueImporta": "Reflete a retirada de uma marca premium do mercado brasileiro, impactando consumidores e a estratégia de portfólio da General Mills.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/08/24/brasileiros-pedem-nas-redes-socias-que-haagen-dazs-nao-deixe-o-pais-pelo-amor-de-deus.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/negocios/marca-de-sorvetes-haagen-dazs-sai-do-brasil-apos-quase-30-anos/"
+          }
+        ],
+        "updatedAt": "2026-08-24T20:00:34.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/VfxhUVmIjmQqydVTBQO1Ja4MpY0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/o/yQQJt6TJS5AnuBRZnldQ/fotojet-19-.jpg"
+      },
+      {
+        "clusterId": "2ed08a00af2b3005",
+        "slug": "d229ef5b390e18c5",
+        "titulo": "Festa do Peão de Barretos reúne artistas sertanejos, pagode e música eletrônica",
+        "resumo": "O festival, que acontece no interior de São Paulo, apresenta shows ao vivo transmitidos em canais de TV. Desde 2010, o evento seleciona um embaixador do cenário musical para representar o rodeio. A programação inclui nomes de destaque do sertanejo, pagode e música eletrônica.",
+        "porQueImporta": "A transmissão ao vivo amplia o alcance do evento para o público nacional.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/musica/festa-do-peao-de-barretos-relembre-todos-os-embaixadores-do-rodeio/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/pop/onde-assistir-a-festa-do-peao-de-barretos-shows-sao-transmitidos-ao-vivo/"
+          }
+        ],
+        "updatedAt": "2026-08-24T19:44:40.000Z"
+      },
+      {
+        "clusterId": "a096981fc38a123c",
+        "slug": "580eb16d8e23849b",
+        "titulo": "EUA garantem R$1,2 bi para compra da mineradora de terras raras Serra Verde",
+        "resumo": "A empresa americana USA Rare Earth assegurou US$ 1,55 bilhão (aproximadamente R$ 7,7 bi) para concluir a aquisição da Serra Verde, mineradora de terras raras em operação no Brasil. O negócio ainda aguarda aprovação dos acionistas em assembleia marcada para 28 de maio. A compra reforça a presença dos EUA na cadeia de minerais estratégicos e destaca o potencial inexplorado de Goiás para a produção de terras raras.",
+        "porQueImporta": "A transação aumenta a influência americana na produção de minerais críticos e pode impulsionar a indústria de terras raras no Brasil.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/coluna/faria-lima-news/eua-investem-mais-r12-bi-em-mineradora-de-terras-raras-no-brasil/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/08/24/eua-terrasraras-compra.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-24T19:34:33.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/03/SI_485_Terras_raras.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "19dec3f012e96af3",
+        "slug": "9795913797e0c883",
+        "titulo": "Ibovespa reage a queda de futuros dos EUA e queda de ações de tecnologia",
+        "resumo": "O Ibovespa abriu em queda, refletindo a retração dos índices futuros dos Estados Unidos. A desvalorização foi impulsionada principalmente pela queda das ações de tecnologia. O dólar se manteve estável, enquanto os juros internos permanecem em níveis próximos ao histórico. Os investidores monitoram os movimentos globais e a política monetária para avaliar o impacto no mercado brasileiro.",
+        "porQueImporta": "A reação do Ibovespa a indicadores globais influencia decisões de investimento e a percepção de risco no Brasil.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/itamaraty-passou-a-ser-um-braco-politico-partidario-acusa-caiado/"
+            "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-24082026/"
           }
         ],
-        "updatedAt": "2026-08-24T16:11:41.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/ronaldo-caiado-eleicoes-politica-psd-03.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "92770d45a848fcf9",
-        "slug": "b362837dd0017565",
-        "titulo": "Gerdua (GGBR4): Goldman Sachs vê menos espaço para alta e corta recomendação",
-        "resumo": "Banco avalia que espaço para novas revisões positivas nos resultados da siderúrgica está mais limitado após a forte alta dos papéis The post Gerdua (GGBR4): Goldman Sachs vê menos espaço para alta e corta recomendação appeared first on InfoMoney.",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/gerdua-ggbr4-goldman-sachs-ve-menos-espaco-para-alta-e-corta-recomendacao/"
-          }
-        ],
-        "updatedAt": "2026-08-24T16:01:17.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2019/06/gerdau-1.jpg?fit=300%2C208&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "06c10cb0ba3ba005",
-        "slug": "6b54ef006b87c8d4",
-        "titulo": "FII da Capitânia conclui compra de participações no Amazonas Shopping por R$ 51,8 mi",
-        "resumo": "Compra de R$ 51,8 milhões adiciona novo ativo ao portfólio, mas impacto nos rendimentos ainda não foi estimado The post FII da Capitânia conclui compra de participações no Amazonas Shopping por R$ 51,8 mi appeared first on InfoMoney.",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/onde-investir/fii-da-capitania-conclui-compra-de-participacoes-no-amazonas-shopping-por-r-518-mi/"
-          }
-        ],
-        "updatedAt": "2026-08-24T15:51:25.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-Tela-2026-08-24-as-12.46.30.png?fit=300%2C119&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-24T20:30:03.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-8.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "132987a128f35bfb",
+        "clusterId": "86e6db194d5d963d",
+        "slug": "4cc06c306135b0b2",
+        "titulo": "EUA preparam novas sanções ao Irã e países aliados podem ser alvo",
+        "resumo": "O secretário do Tesouro dos EUA, Scott Bessent, deve anunciar novas sanções contra o Irã nesta segunda-feira. O chefe de segurança do Irã, Mohsen Rezaei, declarou que qualquer apoio a essas medidas seria considerado ato de guerra e que o país responderia com força. Em meio à escalada, o Chile encerrou sua embaixada em Teerã, citando a instabilidade no Oriente Médio.",
+        "porQueImporta": "A medida pode intensificar a tensão entre EUA e Irã, afetando a estabilidade regional e as relações diplomáticas de países envolvidos.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/trump-mantem-aprovacao-em-minima-historica-e-apoio-a-guerra-no-ira-cai/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/24/trump-diz-que-ira-esta-completamente-colapsado.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-24T19:50:49.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/ohE12vE5VHhAlpJGOAxKb21TDOk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/N/UlJ65bRHmfZcAysXV3hA/2026-08-10t194644z-936072775-rc2vvma198gq-rtrmadp-3-usa-trump-vaccines.jpg"
+      },
+      {
+        "clusterId": "8c045f230e788a30",
+        "slug": "109be9e5cc781626",
+        "titulo": "EUA impõem sanções ao Irã e exigem que países encerrem relações comerciais",
+        "resumo": "Os Estados Unidos anunciaram uma série de sanções contra o Irã, incluindo bloqueio de cerca de 60 pessoas, entidades e embarcações vinculadas ao regime. O Tesouro norte‑americano alertou que países que mantiverem transações econômicas com Teerã podem sofrer sanções. A medida faz parte de uma campanha para pressionar líderes globais a cortar relações com o Irã.",
+        "porQueImporta": "A ação pode restringir o acesso do Irã a mercados internacionais e aumentar a pressão sobre seu programa nuclear.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/economia/eua-dao-prazo-para-paises-romperem-negocios-com-ira-sob-ameaca-de-sancoes/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/24/eua-anunciam-novas-sancoes-ao-ira.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-24T18:50:33.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/02/gettyimages-2196945345-594x594-1.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "1cafbb1ff35d66f0",
+        "slug": "42cbe5d343030793",
+        "titulo": "Condenação de ex-grande mufti e investigação de chefe de espionagem na Síria",
+        "resumo": "A Justiça síria condenou à prisão perpétua o ex-grande mufti Ahmed Badreddin Hassoun, que atuou como líder religioso durante o governo de Bashar al-Assad. Hassoun, que ocupou o cargo por 16 anos, era conhecido por sua proximidade com o presidente e por aparecer em cerimônias oficiais. Paralelamente, a BBC Brasil relatou sobre a busca pelo chefe de espionagem do ex-ditador, conhecido como 'Aranha', destacando a importância da investigação para a segurança do país. Ambos os casos refletem a continuidade de ações judiciais e de segurança no contexto sírio pós-regime.",
+        "porQueImporta": "Ilustra a persistência de medidas punitivas e de investigação no cenário político e de segurança da Síria.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/ce9eznp87kno?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/24/lider-religioso-de-bashar-al-assad-e-condenado-a-prisao-perpetua-na-siria.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-24T17:35:38.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6b4e/live/63614cc0-91c2-11f1-b2ab-0dd01740f9f6.png"
+      },
+      {
+        "clusterId": "65e0e0e3011b6eaa",
         "slug": "f93c9b7948b10929",
         "titulo": "Primeiro debate presidencial 2026 sem vencedor claro",
         "resumo": "O debate inaugural da eleição de 2026 não teve vencedor definido, segundo analistas. O candidato Renan Santos aproveitou a ausência de alguns concorrentes para ampliar sua exposição digital. A falta de presença de outros candidatos reduziu a competitividade do encontro. O debate foi considerado esvaziado por especialistas.",
@@ -560,119 +619,63 @@
         "category": "mundo",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/quem-ganhou-e-quem-perdeu-o-primeiro-debate-presidencial-segundo-cientista-politico/"
-          },
-          {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/cdj0jj12deeo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-08-24T16:25:53.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/55483877343_483979a101_k.jpg?quality=70&strip=info"
+        "updatedAt": "2026-08-24T20:14:25.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e19a/live/fae7e440-9f74-11f1-8f30-09408bc2783a.jpg"
       },
       {
-        "clusterId": "b5d2b4313f1b9788",
-        "slug": "2e041eefc9be5659",
-        "titulo": "VÍDEO: Brasileiro dá 'voadora' em ladrão e consegue impedir roubo de moto em Londres",
-        "resumo": "Brasileiro impede roubo de moto em Londres Um brasileiro que vive em Londres, no Reino Unido, conseguiu impedir um roubo de motocicleta na capital londrina. Para isso, ele aplicou uma \"voadora\" — como é chamado, nas artes marciais, um chute com salto — em um dos criminosos que tentavam levar a motocicleta. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp O caso foi registrado por câmeras de segurança e divulgado pela conta de Instagram Ride With Gus. De acordo com o administrador da conta, a tentativa de roubo ocorreu na semana passada. Nela, dois homens em uma motocicleta passam…",
-        "porQueImporta": "",
+        "clusterId": "594345c63d0deee1",
+        "slug": "ab47c266dce87d64",
+        "titulo": "Augusto Cury se apresenta como candidato nas eleições de 2026",
+        "resumo": "O escritor Augusto Cury anunciou sua candidatura para as eleições de 2026, criticando Renan Santos, da Missão, por ataques aos eleitores de Lula. Cury afirmou que a agressividade de Santos o assombrava. Ele destacou a necessidade de diálogo e respeito no cenário político atual. A candidatura de Cury representa uma nova opção para eleitores que buscam alternativas ao cenário tradicional.",
+        "porQueImporta": "A entrada de um nome conhecido na política pode influenciar a dinâmica das próximas eleições.",
         "category": "mundo",
         "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/brasileiro-da-voadora-em-ladrao-e-impede-roubo-de-moto-em-londres"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/24/video-brasileiro-consegue-impedir-roubo-de-moto-em-londres-com-voadora-em-ladrao.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-24T15:54:25.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/08/brasileiro-da-voadora-para-impedir-roubo-d-emoto.jpg"
-      },
-      {
-        "clusterId": "b905d0377d17364f",
-        "slug": "f8113d27690c77b2",
-        "titulo": "Rússia quer aumentar produção de mísseis e recrutar 300 mil novos soldados para guerra na Ucrânia, afirma Zelensky",
-        "resumo": "Ataques entre Rússia e Ucrânia deixam mais de 20 mortos A Ucrânia acredita que a Rússia esteja planejando recrutar mais 300 mil soldados para reforçar as tropas que lutam em território ucraniano. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp ➡️ As forças de Moscou vêm realizando em uma ofensiva para capturar o restante da região industrializada de Donbas, no leste ucraniano, onde tropas russas têm avançado após meses de estagnação.A guerra na Ucrânia já dura quase quatro anos e meio. O presidente da Ucrânia, Volodymyr Zelensky, afirmou neste domingo (23) que o plano de Vladimir…",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/a-arma-secreta-que-a-ucrania-pode-ganhar-para-virar-a-guerra-contra-a-russia/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/23/putin-quer-recrutar-300-mil-novos-soldados-afirma-zelensky.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-24T15:46:33.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/GettyImages-2223730875.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "bcfa4fdd55d05f8d",
-        "slug": "c3b21e51b86124e8",
-        "titulo": "Governo Trump prende pai de militar que está há 9 meses em porta-aviões no Oriente Médio",
-        "resumo": "In this photo courtesy of Katherine Delgado shows her step-father Luis Manuel Aviles, left, and her brother Joshua Aviles stand outside their home in Oct. 2025, shortly before Joshua deployed on the USS Lincoln the following month in Key West, Fla. (Katherine Delgado via the AP) Katherine Delgado via AP O pai de um militar americano foi preso pela Patrulha da Fronteira em uma operação contra imigrantes em Key West, na Flórida, no sábado (22), segundo a agência de notícias Associated Press. Luis Manuel Aviles, de 48 anos, que é natural da Nicarágua, mas mora nos Estados Unidos há 19 anos, foi…",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/pai-de-militar-dos-eua-em-missao-no-oriente-medio-e-preso-pelo-ice/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/24/governo-trump-prende-pai-de-militar-que-esta-ha-9-meses-em-porta-avioes-no-oriente-medio.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-24T15:17:47.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/SJmI--MGVkSbd9czYHlH75764Vw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/r/vFM8V7QpenGqZkST5SFw/ap26235012135622.jpg"
-      },
-      {
-        "clusterId": "af0b1ffa017d6ac8",
-        "slug": "23592c12a886dfd5",
-        "titulo": "'Storm Shadow': Reino Unido vai compartilhar arma secreta com a Ucrânia",
-        "resumo": "Míssil de cruzeiro Storm Shadow, fabricado pelo Reino Unido. AP Photo/Lewis Joly, File O Reino Unido deve dar acesso à Ucrânia ao sistema de mísseis Storm Shadow (Sombra da tempestade, em tradução livre), desenvolvidos em parceria com a França. A medida, anunciada nesta segunda-feira (24) pelo primeiro-ministro Andy Burnham, permitirá que os ucranianos produzam as armas no próprio país. 🔎O Storm Shadow, como o míssil é chamado no Reino Unido, e o SCALP, nome usado pela França, são versões da mesma arma, desenvolvida pela fabricante europeia MBDA. ✅ Siga o canal de notícias internacionais do…",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/24/reino-unido-vai-compartilhar-arma-secreta-com-a-ucrania-saiba-o-que-e-o-storm-shadow.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/reino-unido-permite-que-ucrania-acesse-tecnologia-de-misseis-secretos/"
-          }
-        ],
-        "updatedAt": "2026-08-24T14:43:16.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/pGXd8Mi5zUQKnBD3dlmEozTTOFM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/r/W/LFt51mRHmGAmWoVMqCqg/ap24257458588415.jpg"
-      },
-      {
-        "clusterId": "6accf0cc44da0d35",
-        "slug": "7a0f3981992e2cf6",
-        "titulo": "O apelo do influenciador Lito Sousa por tratamento experimental após revelar doença rara",
-        "resumo": "Em vídeo publicado no Instagram no último domingo (23), influenciador do canal Aviões e Músicas pediu inclusão em estudos experimentais de Harvard e de um consórcio europeu; nenhum dos dois está aceitando novos participantes no momento.",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/celebridades/esposa-de-lito-sousa-faz-apelo-por-tratamento-estou-preocupada/"
-          },
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cy4zlmyxnkgo?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/articles/c2kwj59yledo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-08-24T14:04:01.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e01b/live/39429c50-9f9b-11f1-a83c-33ebef033ca4.jpg"
+        "updatedAt": "2026-08-24T20:13:24.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dde3/live/e6293c60-9f9d-11f1-a83c-33ebef033ca4.jpg"
       },
       {
-        "clusterId": "14bcd2541ccd3e32",
+        "clusterId": "13b26f202609ed42",
+        "slug": "503b7182a61c9ef5",
+        "titulo": "Talebã impõe regras estritas no Afeganistão, incluindo proibição de divórcios",
+        "resumo": "O Talebã retomou o controle do Afeganistão há cinco anos e tem implementado normas rigorosas, restringindo direitos civis e sociais. Entre as medidas, a proibição de divórcios impede mulheres de se separarem de maridos, mesmo em casos de agressão. A organização mantém uma cúpula que decide sobre políticas e punições, consolidando seu poder sobre a população.",
+        "porQueImporta": "Essas ações afetam diretamente os direitos humanos e a estabilidade social do país.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cd085jkpermo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-08-24T18:47:27.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9ba8/live/e39b75b0-9d65-11f1-b109-879e35c24276.jpg"
+      },
+      {
+        "clusterId": "64492c1208392ce8",
+        "slug": "92dd20fbeb6841ea",
+        "titulo": "Drone russo com IA mata três civis em Zaporizhzhia",
+        "resumo": "Um drone russo guiado por inteligência artificial atacou a cidade de Zaporizhzhia, na Ucrânia, em 6 de julho, resultando na morte de três civis. O incidente é considerado o primeiro caso confirmado de um armamento que escolheu alvo e momento de forma autônoma sem intervenção humana. Autoridades ucranianas confirmaram o ataque e a origem do drone. O incidente foi coberto pelo jornal americano The New York Times e pelo G1.",
+        "porQueImporta": "Ilustra o avanço de armamentos autônomos e seus riscos à segurança civil.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/08/24/ucranianos-morrem-em-primeiro-ataque-comprovado-de-drone-exterminador-do-futuro-que-escolhe-alvos-por-ia-diz-jornal.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-24T18:05:17.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/rU_itJETjGRHgAK-QpGey7zBHhY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/0/CxTOnJRAy05IdrDM2bwA/2026-07-26t111253z-2088451803-rc2mlma3bt6d-rtrmadp-3-ukraine-crisis-attack-zaporizhzhia.jpg"
+      },
+      {
+        "clusterId": "17ebc07e0f99d390",
         "slug": "4f592a27eb520ae9",
         "titulo": "Ex-ministro da Defesa pede investigação de corrupção e eleições em meio à guerra",
         "resumo": "O ex-ministro da Defesa Mykhailo Fedorov, demitido em abril, afirmou que o presidente Volodymyr Zelensky deve ser questionado sobre suposta corrupção em seu governo, citando uma investigação de lavagem de dinheiro. Fedorov também pediu que eleições sejam realizadas mesmo durante o conflito. Zelensky respondeu que eleições em tempos de guerra poderiam dividir o país e seria um risco. O debate ocorre enquanto a Ucrânia enfrenta a ofensiva russa no Donbas.",
@@ -690,148 +693,249 @@
         ],
         "updatedAt": "2026-08-23T18:21:43.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/d42mr6DVpy-nU70Lc54eTirT-Gw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/S/GtiizGRlavR2zgfNB03Q/2026-08-18t213957z-1489398667-rc2w4maek6wo-rtrmadp-3-ukraine-crisis-fedorov.jpg"
-      },
-      {
-        "clusterId": "f57978c0508dd48c",
-        "slug": "0c9a223b53c447da",
-        "titulo": "VÍDEO: avião capota e é arrastado durante tempestade com ventos de até 120km/h na Itália",
-        "resumo": "Avião capota e é arrastado durante tempestade com ventos de até 120km/h na Itália Imagens de aviões de pequeno porte sofrendo com uma tempestade no norte da Itália viralizaram nas redes sociais. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp A cena foi registrada no aeroporto de Forlì, por volta das 14h da sexta-feira (21). Um avião, além de ser levado pelo vento, foi virado de cabeça para baixo. Avião de cabeça para baixo e mais 2 sendo arrastados no aeroporto de Forlí @Lazzaramo / Instagram De acordo com as autoridades, as rajadas chegaram aos 120 km/h no local. Ninguém ficou…",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/24/video-aviao-capota-e-e-arrastado-durante-tempestade-com-ventos-de-ate-120kmh-na-italia.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-24T13:27:40.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/hljxS6AxuYIiNET2sGHNRcEv6xc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/0/ChAFcYRYqDUzAypzhSXQ/avioes.jpg"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "688a1b84e500046a",
-        "slug": "7ea83ae617c0f110",
-        "titulo": "Suposto torrent de GTA 6 engana jogadores e instala malware no PC",
-        "resumo": "GTA 6 chega em três meses e está sofrendo diferentes vazamentos vindos de um grupo hacker que alega ter até mesmo uma build jogável do game. Como estamos falando do jogo mais aguardado da década, existe uma expectativa estratosférica e suficiente para enganar muita gente. Os PC gamers desavisados estão até mesmo baixando uma suposta cópia do jogo, mas o que recebem é um malware e dor de cabeça. Os golpistas estão distribuindo um arquivo executável de 113 GB como se fosse o jogo completo vazado. Para passar a sensação de autenticidade, os cibercriminosos empacotaram o instalador para que ele…",
+        "clusterId": "008883917e82881b",
+        "slug": "d72aa74d4ce72045",
+        "titulo": "Motorola divulga nomes de celulares antes do lançamento",
+        "resumo": "A Motorola publicou na lista oficial de dispositivos compatíveis com o Android 17 os modelos Edge 70 Neo e Edge 70 Plus, que ainda não foram apresentados pela empresa. A divulgação ocorreu em documento da Lenovo que lista mais de 50 aparelhos que receberão a atualização. A lista chamou atenção por incluir nomes inéditos e por omitir outros dispositivos esperados.",
+        "porQueImporta": "Informa ao público sobre os próximos lançamentos da marca e sobre a disponibilidade futura da atualização do Android.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/smartphone/motorola-vaza-seus-proprios-celulares-antes-do-lancamento/"
+          }
+        ],
+        "updatedAt": "2026-08-24T20:22:45.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/rpUIvpD16tHJ2LO50uF-0SDZaS8=/0x0/filters:format(webp):quality(85)/9e25be2d-14ab-4bc7-9da3-6127612702e1.jpeg"
+      },
+      {
+        "clusterId": "d6e5af7f0a329992",
+        "slug": "2100dd5d9ff7c570",
+        "titulo": "Emulador ARMSX3 adiciona modo online e acelera preservação de jogos",
+        "resumo": "O emulador de PlayStation 3 para Android, ARMSX3, lançou a versão 0.9.3 com suporte a partidas online via RPCN, substituindo a PlayStation Network. Usuários precisam registrar login e senha, que são salvos em texto simples em arquivo YML, sendo recomendado não usar senhas de serviços externos. A atualização também trouxe outras melhorias ao emulador.",
+        "porQueImporta": "Permite que jogadores de PS3 em Android joguem online, aumentando a viabilidade de preservação de jogos.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/games/emulador-de-ps3-no-android-ganha-modo-online-e-acelera-corrida-pela-preservacao/"
+          }
+        ],
+        "updatedAt": "2026-08-24T20:07:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/XWJRfmmuL4QqDPj5phrJo5VLhkE=/0x0/filters:format(webp):quality(85)/da0901e2-b4ea-404e-8df1-bae3cccd8e73.png"
+      },
+      {
+        "clusterId": "c876ab871f0e4412",
+        "slug": "be84ae9c1fc1615b",
+        "titulo": "Interrupção nos serviços da Anthropic afeta vários modelos e plataformas",
+        "resumo": "Na manhã de segunda-feira (24), a Anthropic registrou uma nova queda que impactou modelos como Mythos 5, Fable 5, Opus 5 e Opus 4.8, além de serviços como Claude.ai, API, Claude Code e Claude Cowork. Usuários relataram erros de requisição e a mensagem “529 Overloaded”. A investigação iniciou às 05h06 UTC e a causa foi identificada às 05h27 UTC, com a empresa iniciando a correção.",
+        "porQueImporta": "A falha comprometeu o acesso a ferramentas de IA amplamente utilizadas por desenvolvedores e usuários finais.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/inteligencia-artificial/quarta-queda-no-mes-por-que-o-claude-vive-caindo-e-fora-do-ar/"
+          }
+        ],
+        "updatedAt": "2026-08-24T20:06:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/V_m3L7PCGu1dxxWPI7PkOEJWOA8=/0x0/filters:format(webp):quality(85)/4ef463f1-605c-4ee7-be94-35fafeebbf38.png"
+      },
+      {
+        "clusterId": "d457930c70d48cc9",
+        "slug": "b253d1a70864df0b",
+        "titulo": "BYD derrete preços do King para destronar de vez o Corolla; veja condições",
+        "resumo": "A BYD não quer deixar o King perder o trono, ou melhor, o posto de sedan médio mais vendido do Brasil. Por isso, a marca chinesa anunciou uma condição especial para a versão GL do modelo, válida para todo o mês de agosto (ou enquanto durarem os estoques). A iniciativa derreteu o preço da versão de entrada, GL, que agora está R$ 37 mil mais em conta, deixando de custar R$ 172.990 para sair por apenas R$ 135.990. A redução, vale pontuar, é resultado da isenção de IPI somada ao incentivo oferecido pela fabricante, mas, de acordo com as regras da promoção, válida somente para o público PcD. Com…",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/games/suposto-torrent-de-gta-6-engana-jogadores-e-instala-malware-no-pc/"
+            "url": "https://canaltech.com.br/carros/byd-derrete-precos-do-king-para-destronar-de-vez-o-corolla-veja-condicoes/"
           }
         ],
-        "updatedAt": "2026-08-24T16:14:00.000Z"
+        "updatedAt": "2026-08-24T20:01:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/qN1Gm9185ZzwYfjnYnNOyqZ57i4=/0x0/filters:format(webp):quality(85)/fedcd281-3801-4cc2-9ab3-13ad256fe750.jpg"
       },
       {
-        "clusterId": "65f02553ccaaba70",
-        "slug": "94492b966da5b9c2",
-        "titulo": "Galaxy S25 Ultra deve ganhar recurso “secreto” de câmera do S26 com One UI 9",
-        "resumo": "O recurso Virtual Reflector (“Refletor Virtual”, em tradução livre), usado para controlar manualmente a iluminação e as sombras na câmera, pode chegar à linha Galaxy S25 com a One UI 9.0. Atualmente, o modo está disponível apenas no Galaxy S26 Ultra. De acordo com o tipster Fahad Ali Javed, o Virtual Reflector foi encontrado em versão de testes do S25 Ultra com a One UI mais recente. Assim como acontece no S26, a função estaria “escondida” no aplicativo Expert Raw e não no app padrão de câmera. O recurso atua como um rebatedor dos estúdios profissionais: o objeto é usado na fotografia para…",
+        "clusterId": "4ee73ca7ff388ebb",
+        "slug": "d6b1bdde3c37f204",
+        "titulo": "Chuva de meteoros Perseidas pode virar \"tempestade\" com a ajuda de Júpiter",
+        "resumo": "A chuva de meteoros Perseidas ocorre todos os anos e pode ficar ainda mais espetacular nos próximos anos. O motivo é um dos nossos vizinhos no Sistema Solar, que pode dar um “empurrãozinho” nos meteoros em nossa direção — e, caso isso aconteça, a chuva pode render um belo espetáculo no céu entre 2027 e 2028. É o que explicou Robert Lunsford, especialista da Sociedade Americana de Meteoros (AMS). Segundo ele, existe a possibilidade de Júpiter, o maior planeta do Sistema Solar, afetar a chuva de meteoros nos próximos anos com sua gravidade. Se este for o caso, o fenômeno deve chegar ao seu auge…",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/apps/galaxy-s25-ultra-deve-ganhar-recurso-secreto-de-camera-do-s26-com-one-ui-9/"
+            "url": "https://canaltech.com.br/ciencia-e-espaco/chuva-de-meteoros-perseidas-pode-virar-tempestade-com-a-ajuda-de-jupiter/"
           }
         ],
-        "updatedAt": "2026-08-24T16:12:00.000Z"
+        "updatedAt": "2026-08-24T20:00:01.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/DYfyJ9o1ozvc2FUiN7f61I3lz-o=/0x0/filters:format(webp):quality(85)/435ba3b9-5653-4406-b692-28ccc6430c44.png"
       },
       {
-        "clusterId": "d2dfb61a91ae799a",
-        "slug": "c8bac6c36df95592",
-        "titulo": "Hora de elevar o seu setup: headsets gamer em promoção na Amazon",
-        "resumo": "Se você busca imersão sonora nas partidas, clareza no chat com os amigos ou simplesmente quer substituir aquele fone velho de guerra, separamos três opções de headsets gamer que estão com boas condições na Amazon. Confira a seleção e escolha o que melhor se encaixa no seu perfil. Headset Gamer Redragon Zeus Lite Preto P3 […] O post Hora de elevar o seu setup: headsets gamer em promoção na Amazon apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/24/reviews/hora-de-elevar-o-seu-setup-headsets-gamer-em-promocao-na-amazon/"
-          }
-        ],
-        "updatedAt": "2026-08-24T16:00:00.000Z"
-      },
-      {
-        "clusterId": "79dd36286a60fb12",
-        "slug": "701f44003679ed87",
-        "titulo": "Por que o Jeep Compass vai mudar tanto até 2028? Veja o que vem por aí",
-        "resumo": "O Jeep Compass acaba de ganhar uma versão inédita antes do aguardado lançamento das versões eletrificadas do SUV. Enquanto a nova geração do modelo não estreia, a marca lançou a versão especial com pacote exclusivo de design e acabamento premium enquanto comemora seus 85 anos. Na prática, o Jeep Compass ficou com jeitão mais premium do que nunca: o modelo recebeu detalhes em dourado, acabamentos com maior contraste e toques especiais. Quem quiser ir além pode optar ainda por itens como iluminação ambiente e teto solar. Enquanto o modelo comemorativo traz rodas escurecidas de 18”, a linha…",
+        "clusterId": "4bea55e6cf3639ab",
+        "slug": "a11eb055275eb0b9",
+        "titulo": "Preço do Fire TV Stick despenca 43%; \"TV Box da Amazon\" deixa sua TV mais smart",
+        "resumo": "Quem tem uma TV antiga ou quer uma experiência de streaming mais completa pode aproveitar uma oferta da Amazon. O Fire TV Stick HD, modelo mais recente, está saindo por R$ 239, com possibilidade de pagamento em 6x sem juros, após aplicação do cupom FIREPRIME30. O valor representa uma queda de cerca de 43% em relação ao preço cheio de R$ 479. O dispositivo transforma praticamente qualquer televisão com entrada HDMI em uma smart TV, trazendo aplicativos de streaming, controle remoto por voz com Alexa e suporte a conteúdos em Full HD. 🥇 Melhor oferta: Amazon Fire TV Stick HD — R$ 239; 🥈…",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/carros/por-que-o-jeep-compass-vai-mudar-tanto-ate-2028-veja-o-que-vem-por-ai/"
+            "url": "https://canaltech.com.br/tv/preco-do-fire-tv-stick-despenca-43-tv-box-da-amazon-deixa-sua-tv-mais-smart/"
           }
         ],
-        "updatedAt": "2026-08-24T16:00:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/YeownaiF2t0ZaEHq2XzlnDspBfU=/0x0/filters:format(webp):quality(85)/10642cc4-2b43-4a30-b9c1-5b3a3281434f.png"
+        "updatedAt": "2026-08-24T19:47:01.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/s_QIqKDxmZl_SGQj7SSyVufmMGA=/0x0/filters:format(webp):quality(85)/9dc3efb4-2cea-478d-90df-207df1f4909c.jpg"
       },
       {
-        "clusterId": "34997515442fe088",
-        "slug": "3beb40fc542a712d",
-        "titulo": "Mercosul tem novas regras para o comércio digital entre países",
-        "resumo": "Brasil promulga acordo do Mercosul que reduz barreiras ao comércio digital e proíbe taxas alfandegárias sobre transações eletrônicas O post Mercosul tem novas regras para o comércio digital entre países apareceu primeiro em Olhar Digital.",
+        "clusterId": "abe0435fa1f88c0a",
+        "slug": "e081a6e5e8c635ca",
+        "titulo": "Hora de imprimir sem complicação: selecionamos as melhores impressoras em promoção na Amazon",
+        "resumo": "Se a sua impressora antiga está dando trabalho ou você simplesmente quer investir em um modelo mais econômico e eficiente, este é o momento certo. Reunimos três ótimas opções de impressoras multifuncionais em oferta na Amazon — modelos com Wi-Fi, tanque de tinta e impressão colorida que atendem desde o uso doméstico até pequenos escritórios. […] O post Hora de imprimir sem complicação: selecionamos as melhores impressoras em promoção na Amazon apareceu primeiro em Olhar Digital.",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/24/pro/mercosul-tem-novas-regras-para-o-comercio-digital-entre-paises/"
+            "url": "https://olhardigital.com.br/2026/08/24/reviews/hora-de-colocar-um-smartwatch-no-pulso-veja-as-melhores-opcoes-em-promocao-agora/"
           }
         ],
-        "updatedAt": "2026-08-24T15:49:46.000Z"
+        "updatedAt": "2026-08-24T19:40:00.000Z"
       },
       {
-        "clusterId": "70bf17bd4b870eae",
-        "slug": "57ce5e144ae3b5b5",
-        "titulo": "Fones Bluetooth em promoção: opções para todos os estilos na Amazon",
-        "resumo": "Se você está em busca de um bom fone de ouvido sem fio, este é o momento certo para agir. Reunimos três opções de fones Bluetooth em oferta na Amazon, com modelos que vão desde os compactos intra-auriculares até headphones over-ear com autonomia impressionante. Confira! PHILIPS Fone de Ouvido Sem Fio TWS TAT1109BK/00 True wireless […] O post Fones Bluetooth em promoção: opções para todos os estilos na Amazon apareceu primeiro em Olhar Digital.",
+        "clusterId": "c7c2bda10992610a",
+        "slug": "d7bc1868bde3d1df",
+        "titulo": "COD Next 2026: primeiras impressões do beta e experiência no Nintendo Switch 2",
+        "resumo": "Morri muito mais do que matei e, ainda assim, saí do COD Next 2026 querendo mais uma partida. Essa foi a sensação que levei do evento da Activision para criadores de conteúdo e imprensa, realizado na última sexta-feira (21), onde tivemos acesso antecipado ao beta de Call of Duty: Modern Warfare 4. Tentei entrar no modo campanha e não consegui: não sei se foi erro pontual ou se, propositalmente, só o multiplayer estava liberado para testes O post COD Next 2026: primeiras impressões do beta e experiência no Nintendo Switch 2 apareceu primeiro em Olhar Digital.",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/24/reviews/fones-bluetooth-em-promocao-opcoes-para-todos-os-estilos-na-amazon/"
+            "url": "https://olhardigital.com.br/2026/08/24/games-e-consoles/call-of-duty-modern-warfare-4-no-switch-2/"
           }
         ],
-        "updatedAt": "2026-08-24T15:40:00.000Z"
-      },
-      {
-        "clusterId": "a981ac9a8bd88ed3",
-        "slug": "a2029744a0d8ead6",
-        "titulo": "Amazon derruba preços de nova linha Echo com Alexa+",
-        "resumo": "A Amazon abriu ofertas em toda a nova linha de smart speakers Echo com acesso antecipado à Alexa+ — a nova versão da assistente virtual da Amazon, potencializada por IA generativa avançada. São 4 modelos em oferta com descontos que chegam a 49% OFF: Echo Dot, Echo Spot despertador, Echo Dot Max com hub de […] O post Amazon derruba preços de nova linha Echo com Alexa+ apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/24/reviews/amazon-echo-alexa-plus-ofertas-4-modelos/"
-          }
-        ],
-        "updatedAt": "2026-08-24T15:25:45.000Z"
-      },
-      {
-        "clusterId": "60da63d1d3d80d14",
-        "slug": "344a06f22b0cb06e",
-        "titulo": "Upgrade na memória do seu PC ou notebook? Veja uma seleção de RAMs DDR5 em promoção",
-        "resumo": "Se o seu computador ou notebook anda travando ou já não dá conta das tarefas do dia a dia, talvez seja hora de investir em mais memória RAM. Separamos três opções de módulos DDR5 que estão em oferta na Amazon — confira cada uma delas e escolha a que melhor se encaixa na sua necessidade. […] O post Upgrade na memória do seu PC ou notebook? Veja uma seleção de RAMs DDR5 em promoção apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/24/reviews/upgrade-na-memoria-do-seu-pc-ou-notebook-veja-uma-selecao-de-rams-ddr5-em-promocao-3/"
-          }
-        ],
-        "updatedAt": "2026-08-24T15:20:00.000Z"
+        "updatedAt": "2026-08-24T19:25:38.000Z"
       }
     ],
     "ciencia": [
+      {
+        "clusterId": "54e851461cb4a182",
+        "slug": "53244677d7f0423d",
+        "titulo": "Fábrica de ração para pets alterna robôs e segredos",
+        "resumo": "Complexo da multinacional Purina tem processos automáticos, capacidade para produzir 170 mil toneladas por ano e etapa que lembra a produção de macarrão; confira visita a fábrica da empresa, que não mostrou o setor onde as carnes são processadas",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/coluna/bruno-garattoni/fabrica-de-racao-para-pets-alterna-robos-e-segredos/"
+          }
+        ],
+        "updatedAt": "2026-08-24T19:00:16.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/08/purina_elaboracao.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "f5f8ee0be9950e3b",
+        "slug": "21c096bb8b10118b",
+        "titulo": "Estudantes da USP retornam às escolas públicas que estudaram para incentivar o ingresso na Universidade",
+        "resumo": "A edição 2026 da iniciativa De volta à escola: Eu na USP visita 489 escolas em 101 municípios paulistas. O objetivo é compartilhar experiências acadêmicas e informações sobre a USP",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/cadernodecultura/estudantes-da-usp-retornam-as-escolas-publicas-que-estudaram-para-incentivar-o-ingresso-na-universidade/"
+          }
+        ],
+        "updatedAt": "2026-08-24T18:47:53.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260819_Palestra_Devoltaaescola2025-1024x538.png"
+      },
+      {
+        "clusterId": "8da05f94e2e19eaa",
+        "slug": "aa1097999f8d7570",
+        "titulo": "Avaliação e currículo na educação são tema de colóquio",
+        "resumo": "Evento será realizado nesta quinta-feira, dia 27, das 10hs às 12hs, pela Cátedra Alfredo Bosi de Educação Básica da USP, com transmissão pela internet",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/cultura/avaliacao-e-curriculo-na-educacao-sao-tema-de-coloquio/"
+          }
+        ],
+        "updatedAt": "2026-08-24T18:36:02.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260824_escola-1024x538.jpg"
+      },
+      {
+        "clusterId": "550129eb9a9827a2",
+        "slug": "af6cdd0248260532",
+        "titulo": "Vice-reitora da USP concede entrevista ao programa Alesp Conexão para falar sobre os projetos da gestão",
+        "resumo": "Programa, apresentado pela jornalista Priscilla Doroche, é produzido pela TV Alesp, ligada à Assembleia Legislativa do Estado de São Paulo, e foi veiculado no último dia 22 de agosto",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/comunicados/vice-reitora-da-usp-concede-entrevista-ao-programa-alesp-conexao-para-falar-sobre-projetos-da-gestao/"
+          }
+        ],
+        "updatedAt": "2026-08-24T18:31:59.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/alesp-1024x538.jpg"
+      },
+      {
+        "clusterId": "9fd0d80309fabc5a",
+        "slug": "c6b4b141cd0277d4",
+        "titulo": "“Existe Bicho em SP?” Exposição sobre fauna paulistana leva acervo do Museu de Zoologia a shopping",
+        "resumo": "Até 31 de outubro, mostra no Shopping Center 3, na Avenida Paulista, apresenta espécies da fauna urbana e promove oficinas interativas de observação e fotografia de animais",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/universidade/existe-bicho-em-sp-exposicao-sobre-fauna-paulistana-leva-acervo-do-museu-de-zoologia-a-shopping/"
+          }
+        ],
+        "updatedAt": "2026-08-24T17:57:56.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260820_00_existe-bicho-em-sp_destaque-1024x538.jpg"
+      },
+      {
+        "clusterId": "7b5ee934538bcc01",
+        "slug": "11bf32237cdaa975",
+        "titulo": "Rússia e Europa preparam rivais da Starlink",
+        "resumo": "Novas redes de internet espacial terão menos satélites, mas em maior altitude.",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/sociedade/russia-e-europa-preparam-rivais-da-starlink/"
+          }
+        ],
+        "updatedAt": "2026-08-24T17:00:55.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/08/SI_490_Novas_Starlink_rivais.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "1fbc8ea269acf7ea",
+        "slug": "ca01942cfede792a",
+        "titulo": "O que muda quando os povos indígenas participam da construção dos museus?",
+        "resumo": "Seminário no Museu de Arqueologia e Etnologia (MAE) da USP reúne representantes indígenas e pesquisadores para refletir sobre colaboração, musealização e novos caminhos para a gestão de coleções",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/diversidade/etnico-racial/o-que-muda-quando-os-povos-indigenas-participam-da-construcao-dos-museus/"
+          }
+        ],
+        "updatedAt": "2026-08-24T16:04:29.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260824_exposicao-1024x537.jpg"
+      },
       {
         "clusterId": "fe299027bbc48265",
         "slug": "e76cc9b2329ba527",
@@ -847,300 +951,195 @@
         ],
         "updatedAt": "2026-08-24T15:13:41.000Z",
         "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/05/20230522_ultraprocessados-1024x538.jpg"
-      },
-      {
-        "clusterId": "c3a6db086193d775",
-        "slug": "16af8742e71f8807",
-        "titulo": "Nova ferramenta da USP usa desemprego para detectar recessões",
-        "resumo": "O indicador MADE, desenvolvido por pesquisadores da FEA-USP, acompanha dados de emprego e busca identificar sinais de desaceleração econômica antes dos indicadores tradicionais",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/radio-usp/nova-ferramenta-da-usp-usa-desemprego-para-detectar-recessoes/"
-          }
-        ],
-        "updatedAt": "2026-08-24T15:05:19.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/20170309_00_recessao.jpg"
-      },
-      {
-        "clusterId": "c69c365727fac724",
-        "slug": "1d3349c71e9f565d",
-        "titulo": "3 notícias sobre: a crise da memória",
-        "resumo": "Datacenters compram quase toda a produção – e o resto do mundo sofre.",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/tecnologia/3-noticias-sobre-a-crise-da-memoria/"
-          }
-        ],
-        "updatedAt": "2026-08-24T15:00:17.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/08/SI_490_Novas_Crise_das_memorias.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "110f019aaf8be6b8",
-        "slug": "fc8336f56684111e",
-        "titulo": "Acervo do Instituto de Física da USP ganha espaço renovado e planeja nova biblioteca integrada",
-        "resumo": "Em agosto, o atendimento ao público retorna com nova iluminação, ambientes climatizados, terminais de pesquisa e apoio continuado dos funcionários",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/universidade/acervo-do-instituto-de-fisica-da-usp-ganha-espaco-renovado-e-planeja-nova-biblioteca-integrada/"
-          }
-        ],
-        "updatedAt": "2026-08-24T14:31:26.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260820_00_biblioteca_if_usp-1024x538.jpg"
-      },
-      {
-        "clusterId": "c27b9e4860cb0891",
-        "slug": "bdf7d0303fc4cd75",
-        "titulo": "Vacina contra o HIV é vital em locais com menor acesso a outras formas de prevenção",
-        "resumo": "Os medicamentos antirretrovirais hoje existentes (PrEP e PEP) funcionam como formas preventivas, mas a produção de uma vacina seria muito importante para a queda acentuada de novos casos",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/atualidades/vacina-contra-o-hiv-e-vital-em-locais-com-menor-acesso-a-outras-formas-de-prevencao/"
-          }
-        ],
-        "updatedAt": "2026-08-24T13:50:10.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260820_vacinahiv-1024x538.jpg"
-      },
-      {
-        "clusterId": "9b2c4bf73dabc9a3",
-        "slug": "9ac9c4840a76ea70",
-        "titulo": "Quantos streamings equivalem a um álbum vendido?",
-        "resumo": "Pobre fandom: “1 milhão de álbuns” não significa a mesma coisa em cada país. Entenda.",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/mundo-estranho/quantos-streamings-equivalem-a-um-album-vendido/"
-          }
-        ],
-        "updatedAt": "2026-08-24T13:01:17.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/08/ME_streaming-album-musica_site.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "6cdaba2d596e08f2",
-        "slug": "59fcbf329087085f",
-        "titulo": "Os jornalistas devem se adaptar aos novos tempos gerados pela tecnologia da informação",
-        "resumo": "Carlos Eduardo Lins da Silva comenta decisão da Associação dos Jornalistas Profissionais dos EUA, que propôs revisões em seu código de ética a fim de se adaptar às novas circunstâncias do trabalho jornalístico",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/radio-usp/os-jornalistas-devem-se-adaptar-aos-novos-tempos-gerados-pela-tecnologia-da-informacao/"
-          }
-        ],
-        "updatedAt": "2026-08-24T11:46:53.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/03/20230313_carlos-eduardo--1024x1024.jpg"
-      },
-      {
-        "clusterId": "30446c199753cc3d",
-        "slug": "b555ee2289d2cc19",
-        "titulo": "Scientific output secures USP prominent position in international rankings",
-        "resumo": "The 2026 editions of the Shanghai and Taiwan rankings highlight the impact and high volume of the University's academic papers",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/uspnews/scientific-output-secures-usp-a-prominent-position-in-international-rankings/"
-          }
-        ],
-        "updatedAt": "2026-08-24T11:30:53.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2025/12/20251205Praca-relogio-1024x538.jpg"
       }
     ],
-    "saude": [],
+    "saude": [
+      {
+        "clusterId": "b4d0f1badfbd4926",
+        "slug": "04fb80fda3f613d5",
+        "titulo": "A masturbação interfere na testosterona?",
+        "resumo": "Os níveis de testosterona não são afetados pela prática da masturbação. Entenda de onde vem esse mito. The post A masturbação interfere na testosterona? first appeared on Portal Drauzio Varella.",
+        "porQueImporta": "",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/sexualidade/a-masturbacao-interfere-na-testosterona/"
+          }
+        ],
+        "updatedAt": "2026-08-24T20:00:00.000Z"
+      },
+      {
+        "clusterId": "fe075ce278584d6a",
+        "slug": "57463132c3cafb08",
+        "titulo": "Como são formadas as equipes de saúde indígena?",
+        "resumo": "Quem forma as equipes que cuidam das comunidades indígenas? Conheça os profissionais que estão na linha de frente da saúde dessas populações. The post Como são formadas as equipes de saúde indígena? first appeared on Portal Drauzio Varella.",
+        "porQueImporta": "",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/saude-publica/como-sao-formadas-as-equipes-de-saude-indigena/"
+          }
+        ],
+        "updatedAt": "2026-08-24T19:00:00.000Z"
+      }
+    ],
     "esportes": [
       {
-        "clusterId": "68920680bdba7eae",
-        "slug": "13b729b1ed7b511b",
-        "titulo": "Robinho Jr. liberado pelo Santos para viagem à Itália e Zé Rafael assina contrato com Alverca",
-        "resumo": "O Santos autorizou a saída de Robinho Jr. para viajar à Itália, onde o jogador resolverá questões de passaporte europeu e domicílio, além de participar de sondagens de clubes europeus. Enquanto isso, o volante Zé Rafael rescindiu contrato com o clube brasileiro e foi anunciado como reforço do Alverca, em Portugal, após ter sido transferido por cerca de 2,5 milhões de euros.",
-        "porQueImporta": "A movimentação demonstra a busca do Santos por oportunidades de transferências internacionais e a saída de jogadores que não fazem parte dos planos atuais.",
+        "clusterId": "aa9c08715bde1e2d",
+        "slug": "90a54edf30ae5eff",
+        "titulo": "João Pedro marca gol de 31 segundos na estreia como camisa 9 do Chelsea",
+        "resumo": "Na partida de estreia do Chelsea na Premier League contra o Fulham, João Pedro marcou um gol em apenas 31 segundos. O atacante entrou como titular na posição de camisa 9. O gol foi decisivo para a vitória do Chelsea no confronto.",
+        "porQueImporta": "O desempenho rápido de João Pedro destaca sua importância na equipe e influencia a classificação inicial da temporada.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/08/24/robinho-jr-e-liberado-pelo-santos-para-viajar-a-italia-jogador-tem-sondagens-de-clubes-europeus.ghtml"
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/jogo/24-08-2026/Fulham-Chelsea.ghtml"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-portugues/ex-palmeiras-e-santos-ze-rafael-e-anunciado-por-clube-portugues/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/joao-pedro-faz-gol-com-31-segundos-em-estreia-com-camisa-9-do-chelsea"
           }
         ],
-        "updatedAt": "2026-08-24T16:18:45.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/73CBcZCwDAmRtFpxENXm3GAUmYA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/0/B/rFZeupTCqPxnZDF2twNg/55252226858-8cd8df76a3-k.jpg"
+        "updatedAt": "2026-08-24T20:25:50.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/08/joao-pedro-chelsea-scaled.jpg"
       },
       {
-        "clusterId": "91be6d9308c8663a",
-        "slug": "5f6e97d5dcbf8049",
-        "titulo": "Acidente entre dois carros deixa feridos em Três Rios",
-        "resumo": "Um acidente envolvendo dois veículos ocorreu próximo ao trevo do bairro Purys, em Três Rios, no início da tarde de segunda-feira. A colisão foi registrada às 11h55 e mobilizou a equipe do Corpo de Bombeiros, que atendeu ao local. Dois motoristas ficaram feridos e foram encaminhados ao hospital. O incidente foi documentado em vídeo e divulgado pela mídia local.",
-        "porQueImporta": "O acidente destaca a necessidade de atenção à segurança viária na região.",
+        "clusterId": "30b2ca1e2772e4f5",
+        "slug": "1a0ca766103b0672",
+        "titulo": "Veja os destaques do esporte no Diário TV 1ª Edição desta segunda-feira, 22 de agosto",
+        "resumo": "Mogi bate Corinthians e segue invicto no Paulista de basquete + Leia outras notícias do esporte do Alto Tietê",
+        "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/08/24/acidente-entre-dois-carros-deixa-feridos-em-tres-rios.ghtml"
+            "url": "https://g1.globo.com/go/goias/edicao/2026/08/24/videos-jornal-anhanguera-1-edicao-regioes-de-segunda-feira-dia-24-de-agosto-de-2026.ghtml"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/rj/sul-do-rio-costa-verde/copa-rio-sul-de-futsal/noticia/2026/08/24/tres-rios-estreia-com-vitoria-sobre-a-portuguesa-no-estadual-de-futsal.ghtml"
+            "url": "https://ge.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/08/24/veja-os-destaques-do-esporte-no-diario-tv-1a-edicao-desta-segunda-feira-22-de-agosto.ghtml"
           }
         ],
-        "updatedAt": "2026-08-24T16:15:54.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/xHrlrRDKlI1IYlIunGkM7858mb8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/D/FOkfIyS5SDIJkdIRu3yQ/whatsapp-image-2026-08-24-at-11.58.29-1-.png"
+        "updatedAt": "2026-08-24T20:05:08.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/LCyFpgGwTN1X7RBGaIVNaakvPrM=/s01.video.glbimg.com/deo/vi/33/73/14897333"
       },
       {
-        "clusterId": "246f39417c8c3fc4",
-        "slug": "0f3e43c7ba1191b8",
-        "titulo": "Athletic tem Novorizontino como pedra no sapato e busca vitória inédita",
-        "resumo": "Esporte: veja os gols de Novorizontino 2 x 1 Athletic pela Série B do Brasileiro O Athletic tem um objetivo dupla na noite desta segunda-feira. O primeiro deles é se recuperar da derrota em casa para o CRB e retomar a perseguição ao G-6 da Série B do Campeonato Brasileiro. O segundo é buscar uma vitória inédita diante do Novorizontino. A equipe mineira sequer sabe o que é empatar diante do adversário. O ge resgata este histórico negativo, que o Athleti vai tentar contraria na noite desta segunda-feira, a partir das 19h30. Veja notícias do Athletic Ao todo, foram três enfrentamentos ao longo…",
+        "clusterId": "d394af85a9775bef",
+        "slug": "3ca99ff8d8aa7ac3",
+        "titulo": "Zé Rafael rebate torcedor do Santos: \"Vou passar bem longe desse lugar sem sentir saudade\"",
+        "resumo": "Veja como foi a passagem de Zé Rafael pelo Santos Anunciado nesta segunda-feira como reforço do Alverca (clique aqui e leia), de Portugal, Zé Rafael rebateu as críticas feitas por alguns torcedores do Santos nas redes sociais. O volante rescindiu com o clube brasileiro depois de ficar fora dos planos e acertou com os portugueses. 🔍 adicione o ge nas suas fontes favoritas do Google Entre os comentários no perfil do Alverca, as críticas de torcedores do Santos foram sobre o desempenho dele e o custo. O Santos pagou 2,5 milhões de euros (cerca de R$ 15 milhões) pelo jogador, além de salários.…",
         "porQueImporta": "",
         "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/athletic-club-x-novorizontino-horario-e-onde-assistir-ao-jogo-da-serie-b/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/mg/zona-da-mata-centro-oeste/futebol/times/athletic-club/noticia/2026/08/24/athletic-tem-novorizontino-como-pedra-no-sapato-e-busca-vitoria-inedita.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-24T15:56:08.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/g5qigZorPHbqSb5ZmkzVqIzW4Gk=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/u/G/txY4ODRx2pWcAAb9iOjw/whatsapp-image-2025-05-17-at-22.21.13.jpeg"
-      },
-      {
-        "clusterId": "6be3a7cfeeacdf8d",
-        "slug": "3bd6af03e33a738b",
-        "titulo": "Polícia confirma uma morte e seis prisões ligadas a violência de organizadas no dia do Ba-Vi 508",
-        "resumo": "Confusão com torcida organizada tem correria e tiros em Salvador Subiu para 14 o número de mortes por violência ligadas ao futebol no estado da Bahia. O caso mais recente foi registrado no último domingo, horas antes do Ba-Vi 508, em que o Bahia venceu o Vitória por 2 a 0, no Barradão. Além da vítima fatal, os confrontos entre torcidas organizadas tiveram quatro vítimas de tentativa de homicídio e seis prisões. + Especial: como primeira morte ligada ao futebol na Bahia ainda ressoa em onda de violência no estado De acordo com a Polícia Civil, a vítima fatal foi identificada como José…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/nacional/nordeste/ba/violencia-entre-torcidas-organizadas-deixa-dois-mortos-e-seis-presos-na-ba/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/ba/futebol/noticia/2026/08/24/policia-confirma-uma-morte-e-seis-prisoes-ligadas-a-violencia-de-organizadas-no-dia-do-ba-vi-508.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-24T15:27:49.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/eBZ0CIaUMLoN6n2s7O3U04bs73o=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/c/u/ygZh0lTSOFIrS7I8C2sg/aaaaaaaa.avif"
-      },
-      {
-        "clusterId": "dc74388bb635b035",
-        "slug": "2a7cc02f09a26185",
-        "titulo": "Reinaldo cobra providências sobre cusparada de torcedor do Santos: \"Nojento e vergonhoso\"",
-        "resumo": "Lamentável! Torcedor do Santos cospe em Reinaldo na Vila Belmiro O lateral-esquerdo Reinaldo, do Mirassol, utilizou as redes sociais para criticar a cusparada que tomou de um torcedor do Santos, no empate por 1 a 1, neste domingo, na Vila Belmiro. O jogador classificou o episódio como “nojento, lamentável e vergonhoso” e cobrou providências. Na publicação, Reinaldo ressaltou inicialmente o ponto conquistado pelo Mirassol fora de casa, mas deixou o resultado esportivo em segundo plano ao falar sobre o episódio. O camisa 6 pediu que medidas sejam tomadas para que situações semelhantes não…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/reinaldo-se-manifesta-apos-cusparada-durante-santos-x-mirassol-nojento/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/sp/tem-esporte/futebol/brasileirao-serie-a/noticia/2026/08/24/reinaldo-cobra-providencias-e-diz-que-cusparada-de-torcedor-do-santos-e-nojenta.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-24T15:24:18.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/NZRJCIvjYUQPTdqE0MnQPX0w098=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/H/F/JQ0hBSRDm7b3gjBAjJnw/2.png"
-      },
-      {
-        "clusterId": "3655f347d8416783",
-        "slug": "23c25c44f8af9311",
-        "titulo": "Vasco x Vitória será em São Januário",
-        "resumo": "O jogo entre Vasco e Vitória, na quarta-feira, às 21h30, pelas quartas de final da Copa do Brasil, será em São Januário. O clube carioca desistiu de jogar no Maracanã e anunciou a decisão de mandar a partida em seu estádio na manhã desta segunda. Voz do Setorista: Bruno Murito analisa derrota do Vasco: \"Verdadeira tragédia\" Com a definição do local da partida, o Vasco vai abrir a venda de ingressos a partir de 14h (de Brasília) desta segunda-feira para os sócios. O público geral poderá comprar as entradas a partir de 20h. O Vasco tentou levar a primeira partida das quartas da Copa do Brasil…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/copa-do-brasil-vasco-define-sao-januario-como-palco-do-duelo-com-o-vitoria/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/08/24/vasco-x-vitoria-sera-em-sao-januario.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-24T14:11:12.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/k5nWXJZun6OrV2LsbsVZ4gWj2L0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/8/J/VUbvnGSoCK9KIuAQTf2g/whatsapp-image-2026-05-28-at-01.40.00.jpeg"
-      },
-      {
-        "clusterId": "29cdc4d14915655e",
-        "slug": "5122874a8fb03fc8",
-        "titulo": "Palmeiras anuncia renovação do contrato de Gustavo Gómez",
-        "resumo": "Palmeiras anuncia a renovação de Gustavo Gómez O Palmeiras confirmou a renovação de contrato com Gustavo Gomez na manhã desta segunda-feira. 🔍 adicione o ge nas suas fontes favoritas do Google Em publicação nas redes sociais, o clube agradeceu os serviços do paraguaio, na equipe desde 2018, e projetou a próxima fase da parceria com o ídolo. Initial plugin text O capitão tinha vínculo até o fim do ano que vem, mas, agora, o novo contrato vai até dezembro de 2030. A renovação já estava encaminhada havia algumas semanas e, na última quarta-feira, depois da vitória por 1 a 0 sobre o Cerro…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/palmeiras-renova-com-zagueiro-gustavo-gomez-ate-2030/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/08/24/palmeiras-anuncia-renovacao-do-contrato-de-gustavo-gomez.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-24T13:57:33.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/3wka9y7f8eSAAvXeMveQ_2DVirE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/f/f/66Xs6RRgA19HBoRPeLag/rib0820.jpg"
-      },
-      {
-        "clusterId": "c318a9db4a62e8c2",
-        "slug": "6e619f1e275e9c64",
-        "titulo": "Cícero Vieira Neto perde semifinal nos pênaltis e disputa terceiro lugar da Série Prata nos JEBs Sub-18",
-        "resumo": "O C.E.M. Cícero Vieira Neto, de Pacaraima, foi eliminado nesta segunda-feira (24) na semifinal da Série Prata dos Jogos Escolares Brasileiros (JEBs) Sub-18. A equipe de Roraima empatou em 1 a 1 com o Colégio Militar Dom Pedro II, do Acre, no tempo normal, mas acabou derrotada por 3 a 1 nos pênaltis. No placar agregado, o confronto terminou em 4 a 2 para o time acreano. Equipe de futebol feminino da escola Cícero Vieira Neto, de Pacaraima Divulgação/CONFEDERAÇÃO BRASILEIRA DO DESPORTO ESCOLAR –CBDE Depois de um primeiro tempo sem gols, a partida ficou mais movimentada na etapa final. Aos 14…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/rr/noticia/2026/08/24/cicero-vieira-neto-perde-semifinal-nos-penaltis-e-disputa-terceiro-lugar-da-serie-prata-nos-jebs-sub-18.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-24T16:27:27.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/PU4u-0zNFa9xS_m8RxgiJv0Qlbg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/E/B/D0GrVUSxe5gZ0rbOsgGA/colegio-cicero-vieira-neto-pacaraima-feminino.jpeg"
-      }
-    ],
-    "entretenimento": [
-      {
-        "clusterId": "cb1675d6fb648f14",
-        "slug": "1c27903ba8694af3",
-        "titulo": "Anitta se harmoniza com Larissa na 'Equilibrium tour', show em que põe fé tanto no clima zen quanto no batidão",
-        "resumo": "Anitta faz o público ficar devoto do show da 'Equilibrium tour' em apresentação no Caminho Niemeyer, em Niterói (RJ) Reprodução / X Anitta ♫ CRÍTICA DE SHOW Título: Equilibrium tour Artista: Anitta Data e local: 22 de agosto de 2026 no Caminho Niemeyer (Niterói, RJ) Cotação: ★ ★ ★ ★ 1/2 ♬ O crítico assistiu ao show da Equilibrium tour através da transmissão ao vivo feita pela plataforma Globoplay e pelo canal Multishow. ♬ Não foi à toa que Anitta mencionou o nome de batismo, Larissa, no palco armado no Caminho Niemeyer para a apresentação do show da “Equilibrium tour” em Niterói (RJ) – cidade…",
-        "porQueImporta": "",
-        "category": "entretenimento",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/lucas-pasin/anitta-desabafa-sobre-rejeicao-dos-fas-a-larissa-uma-grande-ofensa"
+            "url": "https://www.metropoles.com/esportes/ze-rafael-rebate-santista-ao-chegar-no-alverca-passar-bem-longe"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/23/anitta-se-harmoniza-com-larissa-na-equilibrium-tour-show-em-que-poe-fe-tanto-no-clima-zen-quanto-no-batidao.ghtml"
+            "name": "GE",
+            "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/08/24/ze-rafael-rebate-torcedor-do-santos-vou-passar-bem-longe-desse-lugar-sem-sentir-saudade.ghtml"
           }
         ],
-        "updatedAt": "2026-08-24T16:06:16.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/08/anitta-desabafa-sobre-fas-larissa.jpg"
+        "updatedAt": "2026-08-24T20:02:35.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/08/ze-rafael-alverca-santos-critic-a.jpg"
       },
+      {
+        "clusterId": "7b8c0aaf494edcf5",
+        "slug": "21a1153d46151eb3",
+        "titulo": "João Fonseca não se recupera e está fora do US Open",
+        "resumo": "João Fonseca anuncia desistência do Masters 1000 de Cincinnati por incômodo no abdômen João Fonseca está fora do US Open. O tenista de 20 anos, número 26 do mundo, não se recuperou a tempo de incômodo no abdômen e desistiu do último Grand Slam da temporada. Ele jogou, semana passada, pelo ATP 1000 de Cincinnati, vencendo o holandês Botic van de Zandschulp na estreia. Um dia depois, sentiu o problema no abdômen num treino, na véspera do jogo contra o australiano Christopher O'Connell, pela terceira rodada. O carioca, então, anunciou a desistência de Cincinnati e voltou para tratamento no…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-desiste-e-esta-fora-do-us-open-veja-o-motivo-e-o-comunicado/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/tenis/noticia/2026/08/24/joao-fonseca-nao-se-recupera-e-esta-fora-do-us-open.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-24T19:47:29.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/Gu1zZXlzw0I-5f4OTjIBTZ-eMmE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/y/Z/jBO9CJQOaG1OyesxNBSA/2026-08-09t235253z-1486218292-mt1usatoday29549535-rtrmadp-3-tennis-national-bank-open.jpg"
+      },
+      {
+        "clusterId": "b09656fcc9ba071f",
+        "slug": "19a7d3f880d35e81",
+        "titulo": "Quem substitui Allan? Palmeiras não deve ir ao mercado e confia na força do elenco; veja opções",
+        "resumo": "Voz do Setorista: detalhes da negociação da venda Allan para o Manchester City O Palmeiras encaminhou a venda de Allan ao Manchester City, mas não deve buscar uma peça de reposição caso a saída se concretize. 🔍 adicione o ge nas suas fontes favoritas do Google A ideia é encontrar soluções no elenco robusto, considerado o melhor desde que Abel Ferreira chegou ao Palmeiras. São cinco opções para exercer a função de Allan: Arias, Felipe Anderson, Giay, Khellven e Mauricio. O meia-atacante paraguaio endossou a estratégia com discurso após a partida. Mauricio aproveitou o momento para elogiar o…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/08/24/quem-substitui-allan-palmeiras-nao-deve-ir-ao-mercado-e-confia-na-forca-do-elenco-veja-opcoes.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/veja-quanto-o-palmeiras-deve-faturar-com-ida-de-allan-ao-manchester-city/"
+          }
+        ],
+        "updatedAt": "2026-08-24T19:15:39.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/VBn0tEMwjl2xJeFp7gtxjEjedrc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/5/Z/wA3dlqTraEPe2rMJR3xA/rib3022.jpg"
+      },
+      {
+        "clusterId": "8663ee6671a83152",
+        "slug": "858d40ea6503cf13",
+        "titulo": "Seabra exalta mentalidade coletiva do Coritiba: \"Não depende de grife\"",
+        "resumo": "Coritiba bate o Corinthians no Couto Pereira Após a importante vitória sobre o Corinthians, o técnico Fernando Seabra definiu a verdadeira essência do elenco do Coritiba. Para o treinador, o bom momento e a sequência positiva da equipe são frutos de uma mentalidade coletiva muito clara: o clube não depende de nomes badalados ou reputações, mas sim de trabalho diário e dedicação extrema de todos os atletas. 🗞️ Leia mais notícias sobre o Coritiba ✅ Clique aqui e siga o canal ge Coritiba no WhatsApp 🔍 Adicione o ge nas suas fontes favoritas do Google Seabra fez questão de destacar o nível de…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/jogo-entre-coritiba-e-corinthians-termina-em-briga-entre-torcidas-veja/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/pr/futebol/times/coritiba/noticia/2026/08/24/seabra-exalta-mentalidade-coletiva-do-coritiba-nao-depende-de-grife.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-24T18:49:51.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/OPcqV9vKK5sNhbKMtynL1_V6LyI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/R/A/v12uEXQxeOClj7JI1Krw/snapinsta-ai-3899425372469777746.jpg"
+      },
+      {
+        "clusterId": "773f35d2c62b36e8",
+        "slug": "6d0f23966495a99d",
+        "titulo": "Quase metade do público em Ituano x Paysandu era bicolor, revela borderô",
+        "resumo": "Paysandu vence o Ituano no fim e encaminha classificação na Série C O Paysandu deu um passo gigante rumo à classificação na Série C ao vencer o Ituano por 1 a 0, no último sábado, dia 22, pela 18ª rodada. E o gol salvador de Ítalo, aos 44 minutos do segundo tempo, foi celebrado diante de uma verdadeira \"invasão\" bicolor no Estádio Novelli Júnior, em Itu: quase metade do público presente no estádio era de torcedores do Papão. Jogadores, comissão técnica e torcedores do Paysandu comemoram juntos vitória do time contra o Ituano em Itu Jorge Luís Totti/Paysandu 📲Clique aqui para seguir o canal…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/08/24/quase-metade-do-publico-em-ituano-x-paysandu-era-bicolor-revela-bordero.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-24T20:25:35.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/HTTXN4Ktlvuk1kerVM73ZIKzdnQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/x/6/I0BRI1TSubCQTMBUwnnA/55481933610-7734387d34-k.jpg"
+      },
+      {
+        "clusterId": "547d72f9154951ea",
+        "slug": "6e7cc5fb7c43a743",
+        "titulo": "VC Escala: qual o Atlético-MG ideal para enfrentar o Cruzeiro?",
+        "resumo": "Eduardo Barba e o diferencial positivo para o Atlético-MG; Ricardo Gonzalez O Atlético-MG entra em campo contra o Cruzeiro, nesta terça-feira, para o primeiro jogo das quartas de final da Copa do Brasil. O ge quer saber qual time o torcedor considera ideal para Eduardo Domínguez mandar a campo no Mineirão. Clique no link abaixo para seguir até a votação. + CLIQUE AQUI E ESCOLHA O TIME IDEAL DO ATLÉTICO-MG Eduardo Domínguez Atlético-MG Maxi Franzoi Mais notícias do Atlético Camisa 7 pesa? Fred reage sobre herdar número Com o Atlético em três competições, o treinador tem optado por rodar o time…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/08/24/escalacao-do-atletico-mg-dominguez-leva-duvidas-no-meio-e-tem-novidade-sobre-scarpa-provavel-time.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-24T20:25:30.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/kc2lR_4s1r3MBvlsHfQmIzbSUDA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/U/g/ZsoDhmTT6mxGCHMm4KqA/55473530220-0ac0ab81fb-o.jpg"
+      }
+    ],
+    "entretenimento": [
       {
         "clusterId": "0efc57391c3a9879",
         "slug": "9d4c2542f69297e5",
@@ -1252,6 +1251,22 @@
         ],
         "updatedAt": "2026-08-24T07:00:26.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/PU8ur-ELY9wZamR1LjJONlx8juc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/m/hi8TEoTCSGvaIpuljk6Q/fotos-g1-1920-x-1080-px-2026-08-18t230619.018.png"
+      },
+      {
+        "clusterId": "1192412b9df3a787",
+        "slug": "f24ee3eda3d328cc",
+        "titulo": "Morre Tomás Improta, virtuoso pianista que transitou entre o jazz e a MPB",
+        "resumo": "O pianista Tomás Improta (1948 – 2026) morre no Rio de Janeiro (RJ), cidade natal do músico, aos 77 anos Reprodução / Facebook Tomás Improta ♫ OBITUÁRIO ♬ Ocorrida neste domingo, 23, em decorrência de complicações relativas a um câncer de garganta, a morte do pianista carioca Tomás Improta França (24 de setembro de 1948 – 23 de agosto de 2026) interrompe a trajetória de um dos músicos mais prestigiados e talentosos da música brasileira. Tomás Improta – como o músico se apresentava no meio artístico – tinha 77 anos e iria fazer 78 anos no próximo mês. O corpo do artista será velado e cremado…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/23/morre-tomas-improta-virtuoso-pianista-que-transitou-entre-o-jazz-e-a-mpb.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-24T00:19:36.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/OvWRXiUX0s9V_x_5ozEZnk3QSQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/I/h4ZExdShydLZMwewsyzw/tomasimprotaface.jpg"
       }
     ]
   }
