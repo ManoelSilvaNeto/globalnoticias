@@ -1,282 +1,422 @@
 {
   "date": "2026-08-25",
-  "generatedAt": "2026-08-25T16:37:19.828Z",
+  "generatedAt": "2026-08-25T20:28:53.546Z",
   "home": [
     {
-      "clusterId": "aa02e992a7495834",
-      "slug": "fc10740c822acc13",
-      "titulo": "Flávio Bolsonaro inicia campanha em Alagoas sem JHC e Arthur Lira",
-      "resumo": "O senador Flávio Bolsonaro chegou a Maceió para começar a campanha presidencial em Alagoas, acompanhado pelo vice Alfredo Gaspar. O encontro contou com apoio de simpatizantes, mas não incluiu os candidatos JHC e Arthur Lira, que permanecem em outras cidades. A visita marca o primeiro estado nordestino visitado pela chapa do PL, com intenção de votos em torno de 29% segundo pesquisa Quaest.",
-      "porQueImporta": "A presença de Flávio em Alagoas demonstra a estratégia do PL de fortalecer apoio no Nordeste antes das eleições de 2026.",
+      "clusterId": "b29d99cb12f5321a",
+      "slug": "45d42e40d07b5b80",
+      "titulo": "Pesquisa Quaest mostra Luciano Zucco e Juliana Brizola empatados no Rio Grande do Sul",
+      "resumo": "A pesquisa estimulada da Quaest, realizada entre 20 e 23 de agosto, indica que Luciano Zucco (PL) tem 26% e Juliana Brizola (PDT) 23% de intenção de voto, estando tecnicamente empatados dentro da margem de erro de 3 pontos percentuais. Outros candidatos, como Gabriel Souza (MDB), aparecem com 9% de intenção. O levantamento foi encomendado pelo Grupo RBS e contou com 900 entrevistados gaúchos.",
+      "porQueImporta": "Os resultados refletem a forte competição entre os candidatos ao governo do estado, influenciando estratégias eleitorais e expectativas de voto.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-pesquisas/tarcisio-tem-40-e-haddad-27-em-sp/"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/quaest-tarcisio-lidera-disputa-pelo-governo-de-sp-com-40-haddad-tem-27/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/pesquisa-quaest-mostra-vantagem-de-tarcisio-para-haddad-no-primeiro-turno-em-sp/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/quaest-tarcisio-lidera-disputa-para-o-governo-de-sp-com-40-haddad-tem-27/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/quaest-em-sp-tarcisio-de-freitas-tem-40-e-fernando-haddad-27-1-turno"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-tarcisio-tem-40-no-1o-turno-em-sp-haddad-27/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/25/quaest-em-sp-tarcisio-40percent-haddad-27percent.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/pesquisa-gerp-tarcisio-tem-50-e-haddad-32-no-1o-turno-em-sao-paulo/"
+        }
+      ],
+      "updatedAt": "2026-08-25T20:26:18.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/debate1.avif?resize=300,200"
+    },
+    {
+      "clusterId": "af20ecbf6d314593",
+      "slug": "d41caa19bb998be0",
+      "titulo": "Dolly Parton morre aos 80 anos",
+      "resumo": "A cantora e atriz Dolly Parton faleceu nesta terça-feira (25), aos 80 anos, conforme comunicado da família em vídeo nas redes sociais. A artista, conhecida por sucessos como “Jolene” e “I Will Always Love You”, teve carreira que abrangeu música country, pop e cinema, além de filantropia. Seu falecimento foi lamentado por celebridades e pelo presidente dos EUA, que decretou o meio-mastro das bandeiras do país. A morte marca o fim de uma das maiores lendas da música country americana.",
+      "porQueImporta": "A perda de Dolly Parton representa um marco na história da música e do entretenimento, refletindo seu impacto cultural global.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/cultura/dolly-parton-relembre-os-principais-filmes-da-estrela-do-country/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/pop/cinema/dolly-parton-veja-filmes-estrelados-pela-cantora-indicada-ao-oscar/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/08/25/dolly-parton-morre-aos-80-anos-artistas-e-famosos-lamentam-veja-repercussao.ghtml"
+        },
+        {
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/08/25/cinema-e-streaming/dolly-parton-atriz-e-icone-da-musica-country-morre-aos-80-anos/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/cultura/morre-aos-80-anos-dolly-parton-lenda-da-musica-country-dos-eua/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/pop/adeus-a-dolly-parton-entenda-por-que-a-cantora-nao-cedeu-i-will-always-love-you-a-elvis-presley/"
+        }
+      ],
+      "updatedAt": "2026-08-25T20:25:44.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/45861bd956f6e95d8e17b39164411e5080e8bb43d16104867645e19b175f9fad._SX1080_FMjpg_.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "a4455de655ce482e",
+      "slug": "2476ce3ad76230d4",
+      "titulo": "Debate presidencial da Band reúne Caiado, Renan e Cury sem Lula e Flávio",
+      "resumo": "No primeiro debate presidencial das eleições de 2026, os candidatos Ronaldo Caiado, Renan Santos e Augusto Cury participaram, enquanto Lula e Flávio Bolsonaro ficaram ausentes. Os participantes atacaram as ausências e criticaram o desempenho de Lula, gerando repercussão nas redes sociais. A primeira-dama respondeu ao ataque de Renan Santos, e a candidata Janja repudiou as críticas feitas pelo candidato. Pesquisas da Quaest mostram Flávio Bolsonaro e Lula como líderes de intenção de voto em vários estados.",
+      "porQueImporta": "O debate destaca as divergências internas e a estratégia de campanha dos candidatos, influenciando a percepção pública antes do primeiro turno.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-flavio-tem-30-dos-votos-cada-um-no-1o-turno-em-sp/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/08/25/quaest-pe-presidente-25-agosto.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/quaest-flavio-bolsonaro-e-lula-empatam-em-sp-com-30-no-1o-turno"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/c1wx7x7vv4lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-08-25T20:25:02.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/07/lula-x-flavio-bolsonaro-metropoles-jpg.jpeg"
+    },
+    {
+      "clusterId": "639354142cbd2295",
+      "slug": "8c5dabb630134684",
+      "titulo": "Pesquisa Quaest mostra Eduardo Braide com 44% e Orleans Brandão com 25% no 1º turno para o governo do Maranhão",
+      "resumo": "A pesquisa estimulada da Quaest, encomendada pela TV Mirante, indica que Eduardo Braide (PSD) lidera a disputa pelo governo do Maranhão com 44% dos votos expressos. Orleans Brandão (MDB) ocupa a segunda posição com 25%. Os demais candidatos não tiveram percentuais relevantes na amostra. A pesquisa reflete a preferência atual dos eleitores para o primeiro turno das eleições estaduais.",
+      "porQueImporta": "Os resultados revelam a vantagem clara de Braide na corrida, influenciando estratégias de campanha e expectativas eleitorais.",
       "category": "politica",
       "sources": [
         {
           "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/flavio-declara-apoio-em-alagoas-a-jhc-que-nao-deve-encontra-lo/"
+          "url": "https://veja.abril.com.br/politica/cleitinho-segue-na-lideranca-para-governo-de-minas-diz-quaest/"
         },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-confira-as-propostas-de-jhc-ao-governo-de-alagoas.ghtml"
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/cleitinho-lidera-disputa-pelo-governo-de-minas-gerais-diz-pesquisa-quaest/"
         },
         {
           "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-bolsonaro-e-recebido-por-apoiadores-em-alagoas-e-faz-carreata/"
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/eduardo-braide-lidera-disputa-pelo-governo-do-maranhao-diz-quaest/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/08/24/quaest-no-ma-eduardo-braide-44percent-orleans-brandao-25percent.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-25T20:20:40.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/Senador-Cleitinho-1.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "f51af9fcd9b51ed7",
+      "slug": "6a74256aba90b5c5",
+      "titulo": "Eduardo Paes lidera pesquisa Quaest para governo do Rio de Janeiro",
+      "resumo": "A pesquisa Quaest divulgada em 25 de agosto mostra Eduardo Paes com 37% dos votos, seguido por Douglas Ruas com 14% e Anthony Garotinho com 7%. Paes mantém uma vantagem de 23 pontos percentuais sobre Ruas. A pesquisa foi encomendada pela Globo e inclui outros candidatos com percentuais menores.",
+      "porQueImporta": "Os resultados indicam a forte preferência dos eleitores por Paes, influenciando a dinâmica da disputa eleitoral no estado.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/quaest-paes-lidera-no-rio-com-37-seguido-por-douglas-ruas-que-tem-14/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/quaest-eduardo-paes-lidera-no-1o-e-2o-turnos-para-governo-do-rj"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/08/25/quaest-rj-governador-25-08.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-25T20:28:28.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/Design-sem-nome-3.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "3741241c5dd63274",
+      "slug": "159b8100af6534f5",
+      "titulo": "Quaest em PE: 68% aprovam e 24% desaprovam governo de Raquel Lyra",
+      "resumo": "Pesquisa Quaest divulgada nesta terça-feira (25) mostra como está a avaliação do governo de Raquel Lyra (PSD) e os índices de aprovação e desaprovação. O levantamento foi encomendado pela Globo. ✅ Receba no WhatsApp as notícias do g1 PE Aprovação do governo Aprova: 68% Desaprova: 24% Não sabe/não respondeu: 8% Avaliação do governo Positivo: 46% Regular: 33% Negativo: 16% Não sabe/não respondeu: 5% Raquel Lyra merece ser reeleita? Sim, merece: 61% Não: 33% Não sabe/não respondeu: 6% A Quaest ouviu 1.302 pessoas de 16 anos ou mais entre os dias 21 e 24 de agosto. A margem de erro é de tês…",
+      "porQueImporta": "",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/quaest-raquel-lyra-tem-44-e-joao-campos-36-na-disputa-em-pernambuco/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/quaest-lyra-tem-44-e-campos-36-no-1o-turno-em-pernambuco"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/08/25/quaest-pe-avaliacao-governo-25-agosto.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-25T20:27:15.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/04/JOAO-CAMPOS-RAQUEL-LYRA.jpg?fit=300%2C193&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "9630119b3d6cfee7",
+      "slug": "f494f1b2da492fe8",
+      "titulo": "Pesquisa Quaest mostra disputa pelo Senado em São Paulo",
+      "resumo": "A pesquisa da Quaest, realizada entre 21 e 24 de agosto com 1.800 eleitores, indica que Derrite e Marina Silva lideram com 12% cada, seguidos por Simone Tebet com 11% e André do Prado com 7%. A margem de erro é de dois pontos percentuais. A pesquisa foi encomendada pela Globo e reflete a competição por duas cadeiras senatorial em 2026.",
+      "porQueImporta": "Os resultados indicam quem tem maior apoio inicial para as eleições senatorial em São Paulo.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/25/quaest-para-o-senado-em-sp-marina-9percent-derrite-8percent-tebet-7percent-e-andre-do-prado-7percent-1.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/quaest-benedita-tem-10-ao-senado-no-rj-jordy-7-e-crivella-6"
         },
         {
           "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/flavio-busca-votos-no-nordeste-mas-inicia-giro-em-alagoas-sem-lira-e-jhc-em-ato/"
+          "url": "https://www.infomoney.com.br/politica/quaest-derrite-e-marina-tem-12-tebet-aparece-com-11-para-o-senado-em-sp/"
         }
       ],
-      "updatedAt": "2026-08-25T16:17:10.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/IMG_4557.jpeg?quality=70&strip=info"
+      "updatedAt": "2026-08-25T20:24:43.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/gCZsPbC0RnITZHZJcdmZ4kQ5-Ik=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/A/mj7uo6Rra0ySn9XU09wg/design-sem-nome.jpg"
     },
     {
-      "clusterId": "d1f383f6067be801",
-      "slug": "45d79f83b848d726",
-      "titulo": "Canadá impõe tarifas retaliatórias de até 50% sobre US$20 bilhões em produtos americanos",
-      "resumo": "O governo canadense anunciou tarifas de 15%, 25% e 50% sobre cerca de 700 produtos importados dos Estados Unidos, totalizando US$20 bilhões. As medidas entram em vigor em 8 de setembro, como resposta às tarifas de 50% impostas pelo presidente Trump sobre produtos canadenses. O valor equivalente em reais é de aproximadamente R$102,8 bilhões. A decisão faz parte de uma disputa comercial entre os dois países.",
-      "porQueImporta": "Impacta diretamente o comércio bilateral e pode influenciar preços e cadeias de suprimentos na região.",
+      "clusterId": "c6238cce83cdd8cc",
+      "slug": "7fcc92ee685c9910",
+      "titulo": "Dolly Parton faleceu aos 80 anos",
+      "resumo": "A cantora country Dolly Parton morreu nesta terça-feira, 25, aos 80 anos. A família confirmou a notícia em vídeo nas redes sociais, sem indicar a causa da morte. Em 12 de agosto, Parton havia postado um vídeo convidando o público para a abertura de sua exposição “Dolly’s Life of Many Colors Museum”, prevista para o outono de 2026 em Nashville. O vídeo destacou sua trajetória, desde a pobreza até o sucesso internacional.",
+      "porQueImporta": "A morte de Dolly Parton encerra a carreira de uma das maiores ícones da música country, e sua exposição promete celebrar sua vida e legado.",
+      "category": "entretenimento",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/cultura/o-que-dolly-parton-falou-no-ultimo-video-que-gravou/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/dolly-parton-revelou-como-queria-morrer-apos-vida-de-pesados-paetes/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/08/25/em-ultimo-video-nas-redes-sociais-dolly-parton-convidou-para-exposicao-sobre-sua-vida-veja.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-25T20:18:32.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2018/06/entretenimento-dolly-parton-20170915-0001-copy.jpg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "bee48b2bac029503",
+      "slug": "17afa74aab305164",
+      "titulo": "De Miley Cyrus a Beyoncé: como Dolly Parton influenciou o pop",
+      "resumo": "A cantora morreu nesta terça-feira, 25, aos 80 anos; a morte foi confirmada pela família da artista por meio de um vídeo publicado nas redes sociais.",
+      "porQueImporta": "",
       "category": "economia",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/canada-retalia-trump-e-anuncia-tarifas-de-50-contra-produtos-dos-eua"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/canada-anuncia-tarifas-retaliatorias-sobre-produtos-dos-eua-no-valor-de-us20-bilhoes/"
+          "url": "https://www.metropoles.com/colunas/claudia-meireles/relembre-marcos-dolly-parton"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/canada-anuncia-tarifas-retaliatorias-de-us-20-bi-em-produtos-americanos/"
+          "url": "https://www.cnnbrasil.com.br/pop/celebridades/relembre-relacao-de-dolly-parton-com-a-cantora-miley-cyrus/"
         },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/08/25/canada-tarifas-eua.ghtml"
+          "name": "Exame",
+          "url": "https://exame.com/pop/de-miley-cyrus-a-beyonce-como-dolly-parton-influenciou-o-pop/"
         }
       ],
-      "updatedAt": "2026-08-25T16:01:51.000Z",
-      "imageUrl": "https://images.metroimg.com/2025/08/25200641/canada-bandeira.jpg"
+      "updatedAt": "2026-08-25T20:11:58.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/dolly-parton-2-1.jpg"
     },
     {
-      "clusterId": "2ed002ceac58f2fb",
-      "slug": "ec91c93f7828b9fa",
-      "titulo": "Discord recorre de suspensão de lives pela ANPD",
-      "resumo": "A plataforma Discord apresentou recurso contra a suspensão de transmissões ao vivo e compartilhamento de tela determinada pela Autoridade Nacional de Proteção de Dados (ANPD). A empresa alega que a medida é desproporcional, que a agência não tem competência para aplicar a restrição e que há vícios formais no processo. O recurso busca efeito suspensivo imediato para reativar as lives.",
-      "porQueImporta": "A decisão pode afetar a disponibilidade de serviços de comunicação em tempo real para usuários e empresas que dependem do Discord.",
+      "clusterId": "8013752c5e2f78d2",
+      "slug": "7c811b5e304116cf",
+      "titulo": "Brasil e EUA marcam reunião para negociar tarifas",
+      "resumo": "O governo brasileiro e os Estados Unidos marcaram uma reunião virtual na próxima segunda-feira para discutir o tema das tarifas. O encontro será conduzido pelo ministro do Desenvolvimento, Indústria, Comércio e Serviços, Márcio Elias Rosa, e pelo representante comercial dos EUA, Jamieson Greer. A reunião faz parte de uma agenda de retomada das negociações sobre o chamado \"tarifaço\" e visa ampliar a lista de produtos livres de tarifas antes de discutir possíveis reversões das medidas.",
+      "porQueImporta": "A negociação pode influenciar o comércio bilateral e a economia dos dois países.",
       "category": "politica",
       "sources": [
         {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/brasil/anpd-multa-tiktok-em-r-1537-mi-por-falhas-no-tratamento-de-dados-de-menores/"
-        },
-        {
-          "name": "Super Interessante",
-          "url": "https://super.abril.com.br/sociedade/entenda-por-que-o-tiktok-foi-multado-em-r-1537-milhoes-pela-anpd/"
-        },
-        {
-          "name": "Canaltech",
-          "url": "https://canaltech.com.br/mercado/tiktok-leva-multa-milionaria-da-anpd-e-tera-que-reforcar-a-seguranca-de-jovens/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/tecnologia/noticia/2026/08/25/por-que-a-anpd-multou-o-tiktok-e-suspendeu-lives-do-discord-entenda-a-diferenca-entre-os-casos.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-25T15:48:33.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/445381923.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "57351d741a6a6a83",
-      "slug": "7a0f3981992e2cf6",
-      "titulo": "Influenciador Lito Sousa busca tratamento experimental para doença de Creutzfeldt‑Jakob",
-      "resumo": "O especialista em aviação e criador de conteúdo Lito Sousa foi diagnosticado com a doença neurodegenerativa rara Creutzfeldt‑Jakob, gerando repercussão nas redes sociais. Ele solicitou participação em estudos experimentais de Harvard e de um consórcio europeu, porém ambos não aceitam novos participantes. Atualmente não há terapia que detenha ou reverta a doença; o cuidado se concentra no suporte e controle dos sintomas.",
-      "porQueImporta": "O caso destaca a falta de tratamentos eficazes para a Creutzfeldt‑Jakob e a busca por alternativas experimentais.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/brasil/piloto-escreve-nome-de-lito-sousa-no-ceu-em-homenagem-a-influenciador-veja/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/saude/noticia/2026/08/25/lito-recusado-em-estudos-por-que-e-tao-dificil-entrar-em-tratamentos-experimentais.ghtml"
-        },
-        {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/agencia/entenda-doenca-de-creutzfeldt-jakob-e-busca-por-tratamento/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cwyzxnvy03qo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-08-25T15:28:44.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/1acmU1tOauQ6rwPetsAGdYgQ1DU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/z/vqhuHDT6mQADKwHC080Q/copia-de-sem-nome-1200-x-900-px-1-.png"
-    },
-    {
-      "clusterId": "cf2dca0f898c2138",
-      "slug": "632fbb3bc7b00ff0",
-      "titulo": "Denúncias de propaganda irregular e tempestades no Centro-Oeste",
-      "resumo": "A capital do Brasil registrou mais denúncias de propaganda eleitoral irregular na plataforma Pardal do que todos os demais estados do Centro-Oeste combinados, segundo dados do Metrópoles. Enquanto isso, a região enfrenta chuvas fortes e trovoadas, com possibilidade de tempestades e granizo, conforme alerta da CartaCapital.",
-      "porQueImporta": "O aumento das denúncias pode indicar práticas eleitorais questionáveis, e as condições climáticas podem afetar a segurança e a infraestrutura local.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/distrito-federal/df-lidera-denuncias-de-propaganda-eleitoral-irregular-no-centro-oeste"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/clima/chuvas-e-trovoadas-atingem-centro-oeste-sudeste-e-sul-do-pais/"
-        }
-      ],
-      "updatedAt": "2026-08-25T16:35:49.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/04/captura-de-tela-2026-04-01-221515.jpg"
-    },
-    {
-      "clusterId": "7ad56b5ef6e587f3",
-      "slug": "34df4efe055e2344",
-      "titulo": "Polícia encontra casa com jacuzzi e academia durante operação no Complexo de Israel",
-      "resumo": "Agentes da 16ª DP (Barra da Tijuca) que atuam na ocupação conjunta do Complexo de Israel, na Zona Norte do Rio, encontraram uma das casas do traficante Álvaro Malaquias Santa Rosa, o Peixão, chefão do Terceiro Comando Puro, nesta terça-feira (25). Tanto a Polícia Civil quanto a Militar atuam no conjunto de comunidades nesta terça. A ação é resultado de investigações da 38ª DP (Brás de Pina) e tem como objetivo cumprir dezenas de mandados de prisão contra alvos envolvidos em diferentes crimes. Polícia encontra casa com jacuzzi e academia durante operação no Complexo de Israel Reprodução Em uma…",
-      "porQueImporta": "",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/25/policia-casa-complexo-israel.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/o-que-e-o-complexo-de-israel-base-de-guerra-do-tcp-no-rio/"
-        }
-      ],
-      "updatedAt": "2026-08-25T16:35:21.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/vp2Ns9irV7ZcgRtsKuub8EYbRmI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/y/0bcVMpSP2yfNpC9nXokw/imagem-cortada-27-.jpg"
-    },
-    {
-      "clusterId": "7d7003e0dc1fcdcf",
-      "slug": "2e8753f7ed7d3c4b",
-      "titulo": "Canadá anuncia retaliação de tarifas contra EUA",
-      "resumo": "O governo canadense anunciou que aplicará tarifas de até US$ 20 bilhões sobre produtos norte‑americanos, em resposta a medidas protecionistas dos EUA. As tarifas serão efetivadas a partir de 8 de setembro e incluem diversos setores da economia canadense. O Canadá, que exporta cerca de 70% de seus bens para os EUA, mantém a posição de não ceder às pressões americanas.",
-      "porQueImporta": "A medida pode intensificar a disputa comercial entre os dois maiores parceiros econômicos do mundo.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cm2rn05vxr2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/canada-anuncia-retaliacao-aos-eua-com-tarifas-de-ate-50/"
-        }
-      ],
-      "updatedAt": "2026-08-25T16:29:18.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b4c/live/df25db30-a01a-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "clusterId": "44f7279149c26188",
-      "slug": "31aa327b3293f068",
-      "titulo": "Lula busca acordo com Alcolumbre e Motta para destravar pautas do governo",
-      "resumo": "O presidente Lula se reuniu com os presidentes do Senado e da Câmara para negociar a aprovação de projetos, incluindo o fim da taxa das blusinhas e a suspensão da 6x1. A reunião ocorreu em 26 de agosto, antes da pausa de campanha prevista entre 31 de agosto e 4 de setembro. O ministro Boulos afirmou que a medida provisória sobre a taxa das blusinhas será aprovada dentro do prazo e não precisará caducar.",
-      "porQueImporta": "Decisões sobre a taxa das blusinhas e a 6x1 podem influenciar a política econômica e a campanha eleitoral.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-congresso/boulos-quer-acordo-com-alcolumbre-e-motta-pelo-fim-da-taxa-das-blusinhas/"
+          "url": "https://www.cartacapital.com.br/politica/brasil-e-eua-retomam-negociacao-sobre-o-tarifaco-em-reuniao-na-proxima-segunda/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/08/25/taxa-das-blusinhas-fim-da-6x1-terras-raras-lula-tenta-destravar-pautas-do-governo-em-reuniao-com-alcolumbre-e-motta.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-25T16:24:33.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/0pjXaEb17cRApDvqAKUxKL_2T4o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/V/0BZNsxTZmdvBYigNNrXQ/age20250521029.jpg"
-    },
-    {
-      "clusterId": "da190f0aa14429b6",
-      "slug": "b02a6825efc0054d",
-      "titulo": "Lula defende PEC que encerra jornada 6x1 enquanto PL tenta impedir votação",
-      "resumo": "Em vídeo divulgado em 25/8, Lula apoia a PEC que elimina a jornada de trabalho 6x1. A campanha de Flávio Bolsonaro planeja bloquear a votação da mesma PEC e da PEC de Segurança Pública, mas admite que podem ser aprovadas no plenário. Os aliados do candidato do PL acreditam que senadores da oposição teriam dificuldade de votar contra as propostas durante o período eleitoral.",
-      "porQueImporta": "A aprovação ou bloqueio dessas PECs pode alterar significativamente a legislação trabalhista e de segurança pública no Brasil.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/em-campanha-lula-pede-pelo-2o-dia-seguido-avanco-do-fim-da-escala-6x1"
+          "url": "https://g1.globo.com/politica/noticia/2026/08/25/apos-ligacao-entre-lula-e-trump-brasil-e-eua-marcam-reuniao-para-retomar-negociacao-sobre-tarifaco.ghtml"
         },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/08/25/pl-tenta-barrar-votacao-mas-admite-derrota-se-pec-do-fim-da-escala-6x1-chegar-ao-plenario.ghtml"
+          "name": "Exame",
+          "url": "https://exame.com/brasil/apos-telefonema-entre-lula-e-trump-brasil-e-eua-marcam-nova-reuniao-sobre-tarifaco/"
         }
       ],
-      "updatedAt": "2026-08-25T16:17:07.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/08/lula-63.jpg"
-    },
-    {
-      "clusterId": "a1679972b37cb707",
-      "slug": "3511469738d57ff6",
-      "titulo": "Trump sugere trocar nome do Lago Ontário para 'Lago América' em meio a disputa com Canadá",
-      "resumo": "Presidente dos EUA, Donald Trump, durante discurso em 14 de agosto de 2026 Ken Cedeno/Reuters O presidente dos Estados Unidos, Donald Trump, ameaçou nesta terça-feira (25) mudar o nome do Lago Ontário para \"Lago América\" em uma nova investida contra o Canadá, após anunciar, ainda nesta semana, um aumento nas tarifas de alguns produtos canadenses. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia “Os Estados Unidos estão considerando seriamente mudar o nome do Lago Ontário para Lago América, já que não esperamos continuar fazendo muitos negócios com Ontário\", afirmou Trump na…",
-      "porQueImporta": "",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/trump-ameaca-mudar-nome-de-lago-na-fronteira-com-o-canada-america"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/25/trump-sugere-trocar-nome-do-lago-ontario-para-lago-america-em-meio-a-disputa-com-canada.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-25T16:07:26.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/08/greatlake-guide.jpg"
+      "updatedAt": "2026-08-25T18:12:32.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/10/EUA-2.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "aa02e992a7495834",
-        "slug": "fc10740c822acc13",
-        "titulo": "Flávio Bolsonaro inicia campanha em Alagoas sem JHC e Arthur Lira",
-        "resumo": "O senador Flávio Bolsonaro chegou a Maceió para começar a campanha presidencial em Alagoas, acompanhado pelo vice Alfredo Gaspar. O encontro contou com apoio de simpatizantes, mas não incluiu os candidatos JHC e Arthur Lira, que permanecem em outras cidades. A visita marca o primeiro estado nordestino visitado pela chapa do PL, com intenção de votos em torno de 29% segundo pesquisa Quaest.",
-        "porQueImporta": "A presença de Flávio em Alagoas demonstra a estratégia do PL de fortalecer apoio no Nordeste antes das eleições de 2026.",
+        "clusterId": "b29d99cb12f5321a",
+        "slug": "45d42e40d07b5b80",
+        "titulo": "Pesquisa Quaest mostra Luciano Zucco e Juliana Brizola empatados no Rio Grande do Sul",
+        "resumo": "A pesquisa estimulada da Quaest, realizada entre 20 e 23 de agosto, indica que Luciano Zucco (PL) tem 26% e Juliana Brizola (PDT) 23% de intenção de voto, estando tecnicamente empatados dentro da margem de erro de 3 pontos percentuais. Outros candidatos, como Gabriel Souza (MDB), aparecem com 9% de intenção. O levantamento foi encomendado pelo Grupo RBS e contou com 900 entrevistados gaúchos.",
+        "porQueImporta": "Os resultados refletem a forte competição entre os candidatos ao governo do estado, influenciando estratégias eleitorais e expectativas de voto.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-pesquisas/tarcisio-tem-40-e-haddad-27-em-sp/"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/quaest-tarcisio-lidera-disputa-pelo-governo-de-sp-com-40-haddad-tem-27/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/brasil/pesquisa-quaest-mostra-vantagem-de-tarcisio-para-haddad-no-primeiro-turno-em-sp/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/quaest-tarcisio-lidera-disputa-para-o-governo-de-sp-com-40-haddad-tem-27/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/sao-paulo/quaest-em-sp-tarcisio-de-freitas-tem-40-e-fernando-haddad-27-1-turno"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-tarcisio-tem-40-no-1o-turno-em-sp-haddad-27/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/25/quaest-em-sp-tarcisio-40percent-haddad-27percent.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/pesquisa-gerp-tarcisio-tem-50-e-haddad-32-no-1o-turno-em-sao-paulo/"
+          }
+        ],
+        "updatedAt": "2026-08-25T20:26:18.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/debate1.avif?resize=300,200"
+      },
+      {
+        "clusterId": "a4455de655ce482e",
+        "slug": "2476ce3ad76230d4",
+        "titulo": "Debate presidencial da Band reúne Caiado, Renan e Cury sem Lula e Flávio",
+        "resumo": "No primeiro debate presidencial das eleições de 2026, os candidatos Ronaldo Caiado, Renan Santos e Augusto Cury participaram, enquanto Lula e Flávio Bolsonaro ficaram ausentes. Os participantes atacaram as ausências e criticaram o desempenho de Lula, gerando repercussão nas redes sociais. A primeira-dama respondeu ao ataque de Renan Santos, e a candidata Janja repudiou as críticas feitas pelo candidato. Pesquisas da Quaest mostram Flávio Bolsonaro e Lula como líderes de intenção de voto em vários estados.",
+        "porQueImporta": "O debate destaca as divergências internas e a estratégia de campanha dos candidatos, influenciando a percepção pública antes do primeiro turno.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-e-flavio-tem-30-dos-votos-cada-um-no-1o-turno-em-sp/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/08/25/quaest-pe-presidente-25-agosto.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/sao-paulo/quaest-flavio-bolsonaro-e-lula-empatam-em-sp-com-30-no-1o-turno"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c1wx7x7vv4lo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-08-25T20:25:02.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/07/lula-x-flavio-bolsonaro-metropoles-jpg.jpeg"
+      },
+      {
+        "clusterId": "639354142cbd2295",
+        "slug": "8c5dabb630134684",
+        "titulo": "Pesquisa Quaest mostra Eduardo Braide com 44% e Orleans Brandão com 25% no 1º turno para o governo do Maranhão",
+        "resumo": "A pesquisa estimulada da Quaest, encomendada pela TV Mirante, indica que Eduardo Braide (PSD) lidera a disputa pelo governo do Maranhão com 44% dos votos expressos. Orleans Brandão (MDB) ocupa a segunda posição com 25%. Os demais candidatos não tiveram percentuais relevantes na amostra. A pesquisa reflete a preferência atual dos eleitores para o primeiro turno das eleições estaduais.",
+        "porQueImporta": "Os resultados revelam a vantagem clara de Braide na corrida, influenciando estratégias de campanha e expectativas eleitorais.",
         "category": "politica",
         "sources": [
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/brasil/flavio-declara-apoio-em-alagoas-a-jhc-que-nao-deve-encontra-lo/"
+            "url": "https://veja.abril.com.br/politica/cleitinho-segue-na-lideranca-para-governo-de-minas-diz-quaest/"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-confira-as-propostas-de-jhc-ao-governo-de-alagoas.ghtml"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/cleitinho-lidera-disputa-pelo-governo-de-minas-gerais-diz-pesquisa-quaest/"
           },
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-bolsonaro-e-recebido-por-apoiadores-em-alagoas-e-faz-carreata/"
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/eduardo-braide-lidera-disputa-pelo-governo-do-maranhao-diz-quaest/"
           },
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/flavio-busca-votos-no-nordeste-mas-inicia-giro-em-alagoas-sem-lira-e-jhc-em-ato/"
+            "name": "G1",
+            "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/08/24/quaest-no-ma-eduardo-braide-44percent-orleans-brandao-25percent.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T16:17:10.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/IMG_4557.jpeg?quality=70&strip=info"
+        "updatedAt": "2026-08-25T20:20:40.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/Senador-Cleitinho-1.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "2ed002ceac58f2fb",
+        "clusterId": "8013752c5e2f78d2",
+        "slug": "7c811b5e304116cf",
+        "titulo": "Brasil e EUA marcam reunião para negociar tarifas",
+        "resumo": "O governo brasileiro e os Estados Unidos marcaram uma reunião virtual na próxima segunda-feira para discutir o tema das tarifas. O encontro será conduzido pelo ministro do Desenvolvimento, Indústria, Comércio e Serviços, Márcio Elias Rosa, e pelo representante comercial dos EUA, Jamieson Greer. A reunião faz parte de uma agenda de retomada das negociações sobre o chamado \"tarifaço\" e visa ampliar a lista de produtos livres de tarifas antes de discutir possíveis reversões das medidas.",
+        "porQueImporta": "A negociação pode influenciar o comércio bilateral e a economia dos dois países.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/brasil-e-eua-retomam-negociacao-sobre-o-tarifaco-em-reuniao-na-proxima-segunda/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/08/25/apos-ligacao-entre-lula-e-trump-brasil-e-eua-marcam-reuniao-para-retomar-negociacao-sobre-tarifaco.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/apos-telefonema-entre-lula-e-trump-brasil-e-eua-marcam-nova-reuniao-sobre-tarifaco/"
+          }
+        ],
+        "updatedAt": "2026-08-25T18:12:32.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/10/EUA-2.jpg"
+      },
+      {
+        "clusterId": "d325ce2a953f27c2",
         "slug": "ec91c93f7828b9fa",
         "titulo": "Discord recorre de suspensão de lives pela ANPD",
         "resumo": "A plataforma Discord apresentou recurso contra a suspensão de transmissões ao vivo e compartilhamento de tela determinada pela Autoridade Nacional de Proteção de Dados (ANPD). A empresa alega que a medida é desproporcional, que a agência não tem competência para aplicar a restrição e que há vícios formais no processo. O recurso busca efeito suspensivo imediato para reativar as lives.",
         "porQueImporta": "A decisão pode afetar a disponibilidade de serviços de comunicação em tempo real para usuários e empresas que dependem do Discord.",
         "category": "politica",
         "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/brasil/anpd-multa-tiktok-em-r-1537-mi-por-falhas-no-tratamento-de-dados-de-menores/"
-          },
           {
             "name": "Super Interessante",
             "url": "https://super.abril.com.br/sociedade/entenda-por-que-o-tiktok-foi-multado-em-r-1537-milhoes-pela-anpd/"
@@ -290,111 +430,11 @@
             "url": "https://g1.globo.com/tecnologia/noticia/2026/08/25/por-que-a-anpd-multou-o-tiktok-e-suspendeu-lives-do-discord-entenda-a-diferenca-entre-os-casos.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T15:48:33.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/445381923.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-25T15:00:38.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/08/SI_tiktok_site.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "cf2dca0f898c2138",
-        "slug": "632fbb3bc7b00ff0",
-        "titulo": "Denúncias de propaganda irregular e tempestades no Centro-Oeste",
-        "resumo": "A capital do Brasil registrou mais denúncias de propaganda eleitoral irregular na plataforma Pardal do que todos os demais estados do Centro-Oeste combinados, segundo dados do Metrópoles. Enquanto isso, a região enfrenta chuvas fortes e trovoadas, com possibilidade de tempestades e granizo, conforme alerta da CartaCapital.",
-        "porQueImporta": "O aumento das denúncias pode indicar práticas eleitorais questionáveis, e as condições climáticas podem afetar a segurança e a infraestrutura local.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/distrito-federal/df-lidera-denuncias-de-propaganda-eleitoral-irregular-no-centro-oeste"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/clima/chuvas-e-trovoadas-atingem-centro-oeste-sudeste-e-sul-do-pais/"
-          }
-        ],
-        "updatedAt": "2026-08-25T16:35:49.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/04/captura-de-tela-2026-04-01-221515.jpg"
-      },
-      {
-        "clusterId": "44f7279149c26188",
-        "slug": "31aa327b3293f068",
-        "titulo": "Lula busca acordo com Alcolumbre e Motta para destravar pautas do governo",
-        "resumo": "O presidente Lula se reuniu com os presidentes do Senado e da Câmara para negociar a aprovação de projetos, incluindo o fim da taxa das blusinhas e a suspensão da 6x1. A reunião ocorreu em 26 de agosto, antes da pausa de campanha prevista entre 31 de agosto e 4 de setembro. O ministro Boulos afirmou que a medida provisória sobre a taxa das blusinhas será aprovada dentro do prazo e não precisará caducar.",
-        "porQueImporta": "Decisões sobre a taxa das blusinhas e a 6x1 podem influenciar a política econômica e a campanha eleitoral.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-congresso/boulos-quer-acordo-com-alcolumbre-e-motta-pelo-fim-da-taxa-das-blusinhas/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/08/25/taxa-das-blusinhas-fim-da-6x1-terras-raras-lula-tenta-destravar-pautas-do-governo-em-reuniao-com-alcolumbre-e-motta.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-25T16:24:33.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/0pjXaEb17cRApDvqAKUxKL_2T4o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/V/0BZNsxTZmdvBYigNNrXQ/age20250521029.jpg"
-      },
-      {
-        "clusterId": "41d1d367f1d2d88f",
-        "slug": "2857e06bb2eb2ca0",
-        "titulo": "Polícia Federal recebe dados da Polícia Civil sobre produção de filme Dark Horse",
-        "resumo": "A Polícia Federal terá acesso a informações coletadas pela Polícia Civil de São Paulo durante busca e apreensão no Instituto Conhecer Brasil, ligado à produtora do filme Dark Horse. O material será analisado no inquérito do STF que investiga a possível utilização de emendas parlamentares para financiar a obra. A Ancine já concedeu o Registro de Obra Estrangeira ao filme, que ainda precisa da classificação indicativa do Ministério da Justiça. Flávio Bolsonaro afirmou que a relação com a obra é privada e que não tem responsabilidade direta.",
-        "porQueImporta": "A investigação pode revelar uso indevido de recursos públicos na produção de conteúdo político.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/entretenimento/dark-horse-o-que-falta-para-o-filme-ser-exibido-nos-cinemas-do-brasil"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/25/voces-vao-parar-no-tempo-nao-sou-eu-que-tenho-que-prestar-conta-e-o-lula-diz-flavio-bolsonaro-sobre-contas-do-filme-dark-horse.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-25T16:00:11.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/05/dark-horse-jair-bolsonaro-6.jpg"
-      },
-      {
-        "clusterId": "766cd4bc8f5d3045",
-        "slug": "e17f5022f4ccc087",
-        "titulo": "Sergio Moro lidera pesquisa de apoio ao governo do Paraná",
-        "resumo": "A pesquisa da Quaest, realizada entre 20 e 23 de agosto, indica que Sergio Moro (PL) tem 37% dos votos, 16 pontos à frente de Requião Filho (PDT) com 21%. Sandro Alex (PSD) aparece em 15% e outros candidatos têm participação mínima. A margem de erro é de 3 pontos percentuais.",
-        "porQueImporta": "Os resultados apontam a forte preferência por Moro nas próximas eleições estaduais.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-flavio-tem-34-no-1o-turno-no-rs-lula-28/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/25/quaest-veja-os-numeros-da-eleicao-para-presidente-nos-estados.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-25T15:50:38.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
-      },
-      {
-        "clusterId": "ad30985121e44568",
-        "slug": "8c5dabb630134684",
-        "titulo": "Pesquisa Quaest mostra Eduardo Braide com 44% e Orleans Brandão com 25% no 1º turno para o governo do Maranhão",
-        "resumo": "A pesquisa estimulada da Quaest, encomendada pela TV Mirante, indica que Eduardo Braide (PSD) lidera a disputa pelo governo do Maranhão com 44% dos votos expressos. Orleans Brandão (MDB) ocupa a segunda posição com 25%. Os demais candidatos não tiveram percentuais relevantes na amostra. A pesquisa reflete a preferência atual dos eleitores para o primeiro turno das eleições estaduais.",
-        "porQueImporta": "Os resultados revelam a vantagem clara de Braide na corrida, influenciando estratégias de campanha e expectativas eleitorais.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-braide-tem-44-e-brandao-25-no-1o-turno-para-o-governo-no-ma/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/08/24/quaest-no-ma-eduardo-braide-44percent-orleans-brandao-25percent.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-25T15:21:33.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/d3PeLYSoFiGHfHCNbBls-AFHW-k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/8/YdN2gqTQOyvLjrGYkS8Q/pesquisaaaaa.jpg"
-      },
-      {
-        "clusterId": "de2189f87a9b023a",
+        "clusterId": "94bbe0ff4492ca67",
         "slug": "c152d6e7abf8cb70",
         "titulo": "Pesquisa Quaest revela intenções de voto para o Senado em 6 estados",
         "resumo": "A pesquisa espontânea da Quaest, divulgada em 24 de fevereiro, mostra as intenções de voto para o Senado em seis estados, incluindo o Rio Grande do Sul e o Paraná. No RS, Manuela d'Ávila (PSOL) lidera com 12%, seguida por Paulo Pimenta (PT) e Marcel van Hattem (Novo) com 9% cada. No Paraná, Alexandre Curi (15%) e Gleisi Hoffmann (11%) estão à frente de Filipe Barros e Deltan Dallagnol, ambos com 9%. A pesquisa indica que os eleitores precisam escolher dois candidatos diferentes, já que não podem votar no mesmo nome duas vezes.",
@@ -402,86 +442,185 @@
         "category": "politica",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-disputa-ao-senado-no-rs-tem-empate-tecnico-entre-cinco-candidatos/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/corrida-pelo-senado-em-pe-tem-marilia-e-humberto-a-frente-diz-quaest"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/08/24/quaest-ma-senado-24-agosto.ghtml"
+            "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/08/25/quaest-pe-senado-25-agosto.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T14:44:26.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/Rw0qK2AxW6eRnEJr435foY8-So8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/5/YMqdzTRwi4O7XD5ULA2w/whatsapp-image-2026-08-24-at-19.45.30.jpeg"
+        "updatedAt": "2026-08-25T20:24:50.000Z",
+        "imageUrl": "https://images.metroimg.com/2025/06/25204926/Plenario-fisico-do-Senado-Federal-esvaziado-durante-sessao-de-votacao-do-Projeto-de-Decreto-Legislativo-PDL-que-susta-o-decreto-do-governo-Lula-que-reajusta-aliquotas-do-IOF-metropoles-2.jpeg"
+      },
+      {
+        "clusterId": "76d8574e9323e706",
+        "slug": "a358db4a75acd47b",
+        "titulo": "Governo amplia serviços para MEIs no Contrata+Brasil e regulamenta Sistema de Compras Expressas",
+        "resumo": "O governo federal anunciou a regulamentação do Sistema de Compras Expressas (Sicx) e alterações no Contrata+Brasil, plataforma que conecta microempreendedores individuais a órgãos públicos. A iniciativa visa facilitar contratações públicas de pequenos serviços, ampliando oportunidades para MEIs, pequenos negócios, cooperativas e agricultores familiares. O lançamento ocorreu em evento em Campinas, com foco na conexão entre fornecedores locais e entidades governamentais.",
+        "porQueImporta": "A medida amplia o acesso de microempreendedores a contratos públicos, estimulando a economia local.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/governo-amplia-servicos-para-meis-no-contrata-brasil"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/empreendedorismo/noticia/2026/08/25/governo-amplia-servicos-para-meis-no-contratabrasil-e-regulamenta-sistema-de-compras-online.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-25T20:16:43.000Z",
+        "imageUrl": "https://images.metroimg.com/2025/11/MEI-1.jpg"
+      },
+      {
+        "clusterId": "b12e3437842e41cd",
+        "slug": "d0b955f35b4f99b6",
+        "titulo": "Durigan defende combate à pejotização para conter déficit da Previdência",
+        "resumo": "O ministro da Fazenda, Dario Durigan, afirmou que o combate à pejotização, contratação de trabalhadores como pessoas jurídicas, é essencial para reduzir o rombo na Previdência Social. Ele destacou que o modelo, embora legal em algumas atividades, pode substituir vínculos formais de trabalho. Durigan ressaltou a importância desse controle como parte das medidas econômicas para o futuro mandato de Lula.",
+        "porQueImporta": "Reduzir a pejotização pode estabilizar as finanças da Previdência e evitar aumentos de déficit.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/durigan-combate-a-pejotizacao-e-chave-para-previdencia/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/24/eleicoes-2026-ministro-da-fazenda-defende-combater-pejotizacao-para-reduzir-deficit-da-previdencia-social.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-25T19:16:34.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/_cRBljKgtgH2OO5TpoNEa-Jcp-o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/s/eXwLJ2QmWVeFtDivEA8w/55199249110-8d099d956c-o.jpg"
       }
     ],
     "economia": [
       {
-        "clusterId": "d1f383f6067be801",
-        "slug": "45d79f83b848d726",
-        "titulo": "Canadá impõe tarifas retaliatórias de até 50% sobre US$20 bilhões em produtos americanos",
-        "resumo": "O governo canadense anunciou tarifas de 15%, 25% e 50% sobre cerca de 700 produtos importados dos Estados Unidos, totalizando US$20 bilhões. As medidas entram em vigor em 8 de setembro, como resposta às tarifas de 50% impostas pelo presidente Trump sobre produtos canadenses. O valor equivalente em reais é de aproximadamente R$102,8 bilhões. A decisão faz parte de uma disputa comercial entre os dois países.",
-        "porQueImporta": "Impacta diretamente o comércio bilateral e pode influenciar preços e cadeias de suprimentos na região.",
+        "clusterId": "3741241c5dd63274",
+        "slug": "159b8100af6534f5",
+        "titulo": "Quaest em PE: 68% aprovam e 24% desaprovam governo de Raquel Lyra",
+        "resumo": "Pesquisa Quaest divulgada nesta terça-feira (25) mostra como está a avaliação do governo de Raquel Lyra (PSD) e os índices de aprovação e desaprovação. O levantamento foi encomendado pela Globo. ✅ Receba no WhatsApp as notícias do g1 PE Aprovação do governo Aprova: 68% Desaprova: 24% Não sabe/não respondeu: 8% Avaliação do governo Positivo: 46% Regular: 33% Negativo: 16% Não sabe/não respondeu: 5% Raquel Lyra merece ser reeleita? Sim, merece: 61% Não: 33% Não sabe/não respondeu: 6% A Quaest ouviu 1.302 pessoas de 16 anos ou mais entre os dias 21 e 24 de agosto. A margem de erro é de tês…",
+        "porQueImporta": "",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/quaest-raquel-lyra-tem-44-e-joao-campos-36-na-disputa-em-pernambuco/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/quaest-lyra-tem-44-e-campos-36-no-1o-turno-em-pernambuco"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/08/25/quaest-pe-avaliacao-governo-25-agosto.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-25T20:27:15.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/04/JOAO-CAMPOS-RAQUEL-LYRA.jpg?fit=300%2C193&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "bee48b2bac029503",
+        "slug": "17afa74aab305164",
+        "titulo": "De Miley Cyrus a Beyoncé: como Dolly Parton influenciou o pop",
+        "resumo": "A cantora morreu nesta terça-feira, 25, aos 80 anos; a morte foi confirmada pela família da artista por meio de um vídeo publicado nas redes sociais.",
+        "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/canada-retalia-trump-e-anuncia-tarifas-de-50-contra-produtos-dos-eua"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/canada-anuncia-tarifas-retaliatorias-sobre-produtos-dos-eua-no-valor-de-us20-bilhoes/"
+            "url": "https://www.metropoles.com/colunas/claudia-meireles/relembre-marcos-dolly-parton"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/canada-anuncia-tarifas-retaliatorias-de-us-20-bi-em-produtos-americanos/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/08/25/canada-tarifas-eua.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-25T16:01:51.000Z",
-        "imageUrl": "https://images.metroimg.com/2025/08/25200641/canada-bandeira.jpg"
-      },
-      {
-        "clusterId": "e02094b1e630c583",
-        "slug": "4db8a4e506893db0",
-        "titulo": "Google lança Gemini Enterprise para escritórios de advocacia",
-        "resumo": "O Google lançou o Gemini Enterprise for Legal, uma plataforma de IA voltada para escritórios de advocacia e advogados. A ferramenta auxilia na automação de tarefas rotineiras e na resolução de questões complexas. Ela se integra a sistemas como Thomson Reuters, Harvey e LexisNexis, e já conta com bancos de advocacia parceiros, como Weil Gotshal e Freshfields.",
-        "porQueImporta": "Facilita a adoção de inteligência artificial no setor jurídico, potencializando eficiência e competitividade.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/business/google-expande-plataforma-de-ia-para-escritorios-de-advocacia-e-advogados/"
+            "url": "https://www.cnnbrasil.com.br/pop/celebridades/relembre-relacao-de-dolly-parton-com-a-cantora-miley-cyrus/"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/inteligencia-artificial/google-lanca-gemini-enterprise-para-escritorios-de-advocacia/"
+            "url": "https://exame.com/pop/de-miley-cyrus-a-beyonce-como-dolly-parton-influenciou-o-pop/"
           }
         ],
-        "updatedAt": "2026-08-25T15:48:58.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/01/gemini-do-google-bloomberg.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-25T20:11:58.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/08/dolly-parton-2-1.jpg"
       },
       {
-        "clusterId": "ec71d16baa823f7a",
-        "slug": "a205d8c9c0f32e13",
-        "titulo": "Aluguel alto em NY e aumento do segundo aluguel no Brasil",
-        "resumo": "Em Nova‑Iorque, o aluguel médio chegou a US$ 4.200 em julho de 2026, levando jovens a buscar alternativas como morar com idosos para reduzir custos. No Brasil, o custo do condomínio, que pode representar até 40% do valor do aluguel, subiu acima da inflação, com média de R$ 516 por mês. O aumento do segundo aluguel afeta especialmente famílias que já enfrentam despesas com serviços e segurança em condomínios. Ambas as situações refletem a pressão crescente sobre os custos de moradia em grandes centros urbanos.",
-        "porQueImporta": "Ilustra como o custo de habitação está pressionando diferentes segmentos da população em cidades globais.",
+        "clusterId": "f7fde5787c38db57",
+        "slug": "a8fefc8b414d5ebd",
+        "titulo": "EUA anunciam novas sanções ao Irã, impactando petróleo e mercados",
+        "resumo": "O governo dos Estados Unidos divulgou um pacote de sanções econômicas contra o Irã, o que provocou queda nas cotações do petróleo, acumulando perdas superiores a 5% na semana. O dólar encerrou a terça-feira em R$ 5,1399, registrando queda de 0,25%. Enquanto isso, o Ibovespa avançou 1,55% na sessão, impulsionado por ações de grandes bancos e da Vale, apesar das perdas da Petrobras. As tensões entre EUA e Irã permaneceram no radar dos investidores, influenciando os mercados globais.",
+        "porQueImporta": "As sanções podem afetar a oferta de petróleo e influenciar os preços globais, impactando a economia brasileira e os mercados financeiros.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-25082026/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/08/25/dolar-ibovespa.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-25T20:09:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-18T145228Z_1941725695_RC217KA1781F_RTRMADP_3_USA-OIL-EIA.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "061db80f7993c80d",
+        "slug": "344b497018e6cf80",
+        "titulo": "Setor de fertilizantes pede R$ 2 bilhões ao governo para conter impacto da guerra no Irã",
+        "resumo": "Executivos do setor de fertilizantes solicitam ao governo federal um subsídio de R$ 2 bilhões, distribuído em três meses, para garantir a oferta de adubos a preços acessíveis aos agricultores. O pedido visa mitigar o aumento dos custos dos insumos causado pela guerra no Irã, que pode impactar até US$ 3,5 bilhões na produção de soja. A indústria argumenta que o apoio imediato é necessário para evitar efeitos negativos na cadeia produtiva e na economia agrícola.",
+        "porQueImporta": "O financiamento proposto pode preservar a competitividade da agricultura brasileira diante de pressões externas nos preços dos insumos.",
         "category": "economia",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/do-convento-a-morar-com-idosos-como-jovens-estao-pagando-aluguel-em-ny/"
+            "url": "https://www.cnnbrasil.com.br/agro/profert-ajuda-mas-setor-de-fertilizantes-cobra-credito-e-apoio-a-industria/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/08/24/o-segundo-aluguel-esta-mais-caro-condominio-sobe-acima-da-inflacao-e-pesa-ate-40percent-do-aluguel.ghtml"
+            "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/08/25/setor-de-fertilizantes-subsidios.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T15:39:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/0M43FoLWCACHXhSJelbG6W_6ASc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/x/wsNHFQTpar4z4zjp1dLQ/78446086-1004.webp"
+        "updatedAt": "2026-08-25T19:26:21.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/9GO8cgM5xNy70xg4J4YE_CxMOYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/P/8M1rt0QVia0pC7Mi31Ow/foto-especial.jpg"
+      },
+      {
+        "clusterId": "b6a9aa51846df3ab",
+        "slug": "e1e81d1fe9c1a0fc",
+        "titulo": "Apple libera recurso de vídeo ao vivo em ligações ao 190",
+        "resumo": "A Apple lançou no Brasil o recurso Vídeo ao Vivo do SOS de Emergência, permitindo que a polícia solicite imagens da câmera do iPhone durante uma ocorrência. O serviço funciona em parceria com a RapidSOS, que conecta a tecnologia às centrais de atendimento. O usuário deve aprovar o compartilhamento da câmera antes da transmissão.",
+        "porQueImporta": "Facilita a avaliação de situações de emergência pelos serviços de atendimento.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/ligacao-de-emergencia-iphone-agora-compartilha-camera-ao-vivo-com-190/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/tecnologia/noticia/2026/08/25/iphone-passa-a-permitir-video-ao-vivo-para-o-190-em-emergencias.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-25T18:13:06.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/JGkzhhHIRk0OLVcQwXv-o2VLjmk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/q/P0ysDCS2icqsBqhqkFPw/2026-01-12t064210z-5901846-rc2jogav1zks-rtrmadp-3-counterpoint-smartphone.jpg"
+      },
+      {
+        "clusterId": "8cfbeb7368371161",
+        "slug": "e3a52aeb925b3105",
+        "titulo": "SpaceX planeja construir complexo de lançamento Starship na Louisiana",
+        "resumo": "A SpaceX anunciou a construção de um novo complexo de lançamento para o foguete Starship no litoral da Louisiana, com investimento estimado em US$ 100 bilhões. O local ampliará as operações de lançamento da empresa além do Texas, oferecendo infraestrutura adicional para testes e lançamentos. O projeto faz parte da estratégia da SpaceX de expandir sua capacidade de lançamento e reduzir custos.",
+        "porQueImporta": "A expansão das operações de lançamento da SpaceX pode acelerar o desenvolvimento de missões espaciais e fortalecer a presença do setor aeroespacial no Brasil.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/ciencia/spacex-vai-construir-complexo-para-foguete-starship-na-louisiana/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/invest/mercados/spacex-vai-investir-us-100-bilhoes-em-nova-base-de-operacao-na-louisiana/"
+          }
+        ],
+        "updatedAt": "2026-08-25T17:31:56.000Z"
       },
       {
         "clusterId": "f0e4af4ba2656892",
@@ -504,73 +643,45 @@
         "imageUrl": "https://tl.ctcdn.com.br/ap0FJLn-wthcRNMPw_E0yLIl28w=/0x0/filters:format(webp):quality(85)/388349a2-d993-407a-b510-b5a88863e55c.png"
       },
       {
-        "clusterId": "6496b669af760cf2",
-        "slug": "02ce3ea4b413ae11",
-        "titulo": "Braskem deixa o Ibovespa",
-        "resumo": "A Braskem (BRKM5) será excluída do Ibovespa a partir de hoje, de acordo com a B3. A exclusão ocorrerá com base no preço de fechamento após o encerramento do pregão regular da terça-feira. O índice será ajustado para refletir a composição atual dos ativos mais negociados.",
-        "porQueImporta": "A mudança afeta a composição do índice que influencia fundos e investidores que rastreiam o Ibovespa.",
+        "clusterId": "e0aa54202c8c48b9",
+        "slug": "592bb140b44c4bdf",
+        "titulo": "Diretor de ‘Ainda Estou Aqui’ doa R$ 100 mil para campanha de neto de Rubens Paiva",
+        "resumo": "Walter Salles, diretor da ONG ‘Ainda Estou Aqui’, destinou R$ 100 mil para a campanha de Chico Rubens Paiva, neto de Rubens Paiva, que concorre à Câmara dos Deputados pelo PSB-RJ. A doação foi feita para apoiar a candidatura em uma vaga no Congresso Nacional. A ação foi divulgada pela InfoMoney.",
+        "porQueImporta": "A contribuição demonstra o envolvimento de figuras públicas em campanhas políticas, influenciando a disputa eleitoral.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/braskem-brkm5-deixa-hoje-o-ibovespa-entenda-criterio-de-indices/"
+            "url": "https://www.infomoney.com.br/politica/diretor-de-ainda-estou-aqui-doa-r-100-mil-para-campanha-de-neto-de-rubens-paiva/"
           }
         ],
-        "updatedAt": "2026-08-25T16:33:14.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2022/10/unnamed-3.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "d8db15ddc9f978bb",
-        "slug": "23f88a2557665ece",
-        "titulo": "Vai alugar sem fiador? Entenda as diferenças entre as garantias disponíveis",
-        "resumo": "Seguro-fiança e título de capitalização são regulados pela Susep; garantias privadas seguem outro modelo e exigem atenção do inquilino The post Vai alugar sem fiador? Entenda as diferenças entre as garantias disponíveis appeared first on InfoMoney.",
-        "porQueImporta": "",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/minhas-financas/vai-alugar-sem-fiador-entenda-as-diferencas-entre-as-garantias-disponiveis/"
-          }
-        ],
-        "updatedAt": "2026-08-25T16:30:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2022/01/pexels-karolina-grabowska-4506243.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "55d1f21659d97345",
-        "slug": "2324f1d3e1685c35",
-        "titulo": "Governo vai emitir decreto que elimina IPI",
-        "resumo": "O ministro da Fazenda anunciou que o governo emitirá um decreto para eliminar o Imposto sobre Produtos Industrializados (IPI). O objetivo é impedir que a indústria acumule créditos fiscais, como ocorre atualmente. O decreto será publicado em breve e terá impacto direto nas empresas que dependem do IPI.",
-        "porQueImporta": "A mudança pode reduzir custos e simplificar a tributação para a indústria.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/economia/governo-soltara-decreto-zerando-ipi-diz-ministro-da-fazenda/"
-          }
-        ],
-        "updatedAt": "2026-08-25T16:04:36.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/dario-durigan-ministro-fazenda-economia-governo02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "3b30cc778639a2df",
-        "slug": "c945b17988c85426",
-        "titulo": "Durigan prevê superávit no orçamento do próximo ano",
-        "resumo": "O economista Durigan afirmou que o orçamento do próximo ano deverá registrar superávit. Ele destacou a importância de limitar os gastos obrigatórios para abrir espaço para despesas discricionárias. A expectativa de superávit reflete a intenção de equilibrar as contas públicas. A medida visa garantir maior flexibilidade no planejamento fiscal.",
-        "porQueImporta": "Um superávit pode fortalecer a confiança dos investidores e permitir maior autonomia na gestão de recursos públicos.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/economia/durigan-afirma-que-orcamento-do-ano-que-vem-tera-superavit/"
-          }
-        ],
-        "updatedAt": "2026-08-25T16:01:53.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-durigan-ministro-economia-07.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-25T20:27:41.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/03/2025-03-03T030107Z_1885080214_HP1EL3308DUNW_RTRMADP_3_AWARDS-OSCARS.jpg?fit=300%2C221&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "57351d741a6a6a83",
+        "clusterId": "5339a303726ff9cf",
+        "slug": "de0ffa4ffa71449b",
+        "titulo": "Nevascas deixam milhares de desabrigados na Bolívia",
+        "resumo": "Veículos trafegam por uma rodovia enquanto neva durante uma onda de baixas temperaturas em diversas regiões do país, em La Cumbre, nos arredores de La Paz, Bolívia REUTERS / Claudia Morales Nevascas incomuns em seis dos nove estados da Bolívia deixaram mais de 20 mil famílias desabrigadas, informou a Defesa Civil do país nesta terça-feira (25). O mau tempo afetou principalmente Potosí, no sudoeste do território boliviano, e Oruro, no oeste, onde as autoridades anunciaram a suspensão das aulas na segunda-feira (24). Na capital, La Paz, o aeroporto e os terminais rodoviários paralisaram suas…",
+        "porQueImporta": "",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/nevascas-incomuns-deixam-milhares-de-familias-desabrigadas-na-bolivia/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/25/nevascas-deixam-milhares-de-desabrigados-na-bolivia.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-25T20:25:33.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/AFP__20260825__C6H47KE__v1__HighRes__BoliviaWeatherSnow.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "d56e58af071dbe57",
         "slug": "7a0f3981992e2cf6",
         "titulo": "Influenciador Lito Sousa busca tratamento experimental para doença de Creutzfeldt‑Jakob",
         "resumo": "O especialista em aviação e criador de conteúdo Lito Sousa foi diagnosticado com a doença neurodegenerativa rara Creutzfeldt‑Jakob, gerando repercussão nas redes sociais. Ele solicitou participação em estudos experimentais de Harvard e de um consórcio europeu, porém ambos não aceitam novos participantes. Atualmente não há terapia que detenha ou reverta a doença; o cuidado se concentra no suporte e controle dos sintomas.",
@@ -578,84 +689,36 @@
         "category": "mundo",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/nacional/brasil/piloto-escreve-nome-de-lito-sousa-no-ceu-em-homenagem-a-influenciador-veja/"
-          },
-          {
             "name": "G1",
-            "url": "https://g1.globo.com/saude/noticia/2026/08/25/lito-recusado-em-estudos-por-que-e-tao-dificil-entrar-em-tratamentos-experimentais.ghtml"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/agencia/entenda-doenca-de-creutzfeldt-jakob-e-busca-por-tratamento/"
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/25/e-um-amigo-proximo-piloto-conta-por-que-desenhou-nome-de-lito-no-ceu-do-texas.ghtml"
           },
           {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/cwyzxnvy03qo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-08-25T15:28:44.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/1acmU1tOauQ6rwPetsAGdYgQ1DU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/z/vqhuHDT6mQADKwHC080Q/copia-de-sem-nome-1200-x-900-px-1-.png"
+        "updatedAt": "2026-08-25T19:08:17.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/AzHCfPi8aNkgH6O2nIh5bzjBIb8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/p/xqpSRqSZiYJtPXWRs0VA/fotojet-19-.jpg"
       },
       {
-        "clusterId": "7ad56b5ef6e587f3",
-        "slug": "34df4efe055e2344",
-        "titulo": "Polícia encontra casa com jacuzzi e academia durante operação no Complexo de Israel",
-        "resumo": "Agentes da 16ª DP (Barra da Tijuca) que atuam na ocupação conjunta do Complexo de Israel, na Zona Norte do Rio, encontraram uma das casas do traficante Álvaro Malaquias Santa Rosa, o Peixão, chefão do Terceiro Comando Puro, nesta terça-feira (25). Tanto a Polícia Civil quanto a Militar atuam no conjunto de comunidades nesta terça. A ação é resultado de investigações da 38ª DP (Brás de Pina) e tem como objetivo cumprir dezenas de mandados de prisão contra alvos envolvidos em diferentes crimes. Polícia encontra casa com jacuzzi e academia durante operação no Complexo de Israel Reprodução Em uma…",
-        "porQueImporta": "",
+        "clusterId": "106702dc62a038f2",
+        "slug": "109be9e5cc781626",
+        "titulo": "EUA impõem sanções ao Irã e exigem que países encerrem relações comerciais",
+        "resumo": "Os Estados Unidos anunciaram uma série de sanções contra o Irã, incluindo bloqueio de cerca de 60 pessoas, entidades e embarcações vinculadas ao regime. O Tesouro norte‑americano alertou que países que mantiverem transações econômicas com Teerã podem sofrer sanções. A medida faz parte de uma campanha para pressionar líderes globais a cortar relações com o Irã.",
+        "porQueImporta": "A ação pode restringir o acesso do Irã a mercados internacionais e aumentar a pressão sobre seu programa nuclear.",
         "category": "mundo",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/25/policia-casa-complexo-israel.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/o-que-e-o-complexo-de-israel-base-de-guerra-do-tcp-no-rio/"
-          }
-        ],
-        "updatedAt": "2026-08-25T16:35:21.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/vp2Ns9irV7ZcgRtsKuub8EYbRmI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/y/0bcVMpSP2yfNpC9nXokw/imagem-cortada-27-.jpg"
-      },
-      {
-        "clusterId": "a1679972b37cb707",
-        "slug": "3511469738d57ff6",
-        "titulo": "Trump sugere trocar nome do Lago Ontário para 'Lago América' em meio a disputa com Canadá",
-        "resumo": "Presidente dos EUA, Donald Trump, durante discurso em 14 de agosto de 2026 Ken Cedeno/Reuters O presidente dos Estados Unidos, Donald Trump, ameaçou nesta terça-feira (25) mudar o nome do Lago Ontário para \"Lago América\" em uma nova investida contra o Canadá, após anunciar, ainda nesta semana, um aumento nas tarifas de alguns produtos canadenses. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia “Os Estados Unidos estão considerando seriamente mudar o nome do Lago Ontário para Lago América, já que não esperamos continuar fazendo muitos negócios com Ontário\", afirmou Trump na…",
-        "porQueImporta": "",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/trump-ameaca-mudar-nome-de-lago-na-fronteira-com-o-canada-america"
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/ce308xkl45po?at_medium=RSS&at_campaign=rss"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/25/trump-sugere-trocar-nome-do-lago-ontario-para-lago-america-em-meio-a-disputa-com-canada.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/24/eua-anunciam-novas-sancoes-ao-ira.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T16:07:26.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/08/greatlake-guide.jpg"
-      },
-      {
-        "clusterId": "87d1921972bb7b6b",
-        "slug": "19690331ed8614e0",
-        "titulo": "EUA impõem novas sanções econômicas ao Irã",
-        "resumo": "Os Estados Unidos anunciaram uma série de sanções sem precedentes contra o Irã, visando setores como energia nuclear, mísseis, cibernética e petróleo. O Irã afirmou que não cederá às pressões de Washington e que qualquer apoio internacional às sanções será considerado ato de guerra. O governo iraniano planeja responder com medidas de dois anos para mitigar os impactos. A administração americana também pediu que países que mantêm relações econômicas com Teerã sejam severamente penalizados.",
-        "porQueImporta": "A medida intensifica a tensão entre os dois países e pode afetar a estabilidade econômica e política da região.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-minas-colocadas-em-ormuz-foram-removidas-e-faz-alerta-ao-ira/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/25/trump-diz-que-eua-detonaram-todas-as-minas-instaladas-pelo-ira-no-estreito-de-ormuz.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-25T14:46:34.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/usi-7_T17e5fE1KjDnojs6gsQSk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/d/FOAcVKQAKMPZsh46Nuxg/2026-08-24t202227z-1102145854-rc275na3by3q-rtrmadp-3-usa-trump.jpg"
+        "updatedAt": "2026-08-25T17:31:18.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a9a/live/d484ccc0-a08a-11f1-8116-c5aabe4388a9.jpg"
       },
       {
         "clusterId": "80205b6b87046f92",
@@ -718,282 +781,334 @@
         "imageUrl": "https://s2-g1.glbimg.com/7AT3_Tx3VEIaO26AmclFYKDBXAo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/h/Mvl7DoSAaI4APXzmpEyQ/779aac94-2d17-4e19-98b9-cb3b95c5f86d.png"
       },
       {
-        "clusterId": "19dfe95674a93279",
-        "slug": "4e2ee31745ba4165",
-        "titulo": "Maxwell perde recurso que buscava anular condenação de 20 anos",
-        "resumo": "O juiz Paul Engelmayer rejeitou o pedido de Ghislaine Maxwell de anular sua condenação por cumplicidade no caso de Jeffrey Epstein. A decisão, publicada nesta terça-feira, manteve a sentença de 20 anos de prisão. Maxwell havia alegado que as acusações eram infundadas, mas o tribunal concluiu que as evidências suportam a condenação. O caso continua a ser um marco no debate sobre abuso sexual de menores.",
-        "porQueImporta": "A manutenção da condenação reforça a responsabilização de cúmplices em casos de abuso sexual.",
+        "clusterId": "92a1d775da16fc72",
+        "slug": "00ea1d32fdb9a4b7",
+        "titulo": "Terapia EMDR ajuda vítima de abuso sexual infantil a lembrar e levar agressor à Justiça",
+        "resumo": "Mellissa Arkwright, que não conseguia lembrar de abusos sofridos por seu meio-irmão, teve suas memórias recuperadas por meio da terapia EMDR. A terapia permitiu que ela recordasse os episódios de abuso sexual. Com as lembranças recuperadas, ela conseguiu levar o agressor à Justiça. O caso destaca a eficácia da EMDR no tratamento de trauma infantil.",
+        "porQueImporta": "Ilustra como terapias específicas podem desbloquear memórias reprimidas e possibilitar justiça em casos de abuso.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c9v981vr7e8o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-08-25T19:22:02.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd4b/live/0b258450-9fae-11f1-bff6-57f1422ebb0b.png"
+      },
+      {
+        "clusterId": "5327b73bc25a356f",
+        "slug": "a9b564966bc93cad",
+        "titulo": "Israel proíbe crianças palestinas de soltar pipa em Gaza",
+        "resumo": "Pais em Gaza foram avisados a impedir que seus filhos soltem pipas, após o primeiro-ministro israelense Benjamin Netanyahu ameaçar eliminar quem usar o brinquedo. O ato de soltar pipa é um dos poucos passatempos disponíveis para crianças palestinas em território devastado pela guerra. Israel argumenta que pipas podem ser usadas como armas, citando exemplos de balões incendiários empregados pelo Hamas.",
+        "porQueImporta": "A medida reflete a tensão crescente entre Israel e Gaza e limita as atividades recreativas de crianças em meio ao conflito.",
         "category": "mundo",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/25/ghislaine-maxwell-perde-recurso-para-anular-condenacao-por-cumplicidade-com-epstein.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/25/criancas-palestinas-sao-proibidas-de-soltar-pipa-em-gaza-depois-de-israel-ameacar-novos-ataques-por-causa-de-brinquedo.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T13:18:43.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/iIybIjAWiS0gpv8pfYhtITk7sXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/m/21PpCgQUObDQtb1hVhGA/4c561960-0c3f-11f1-9972-d3f265c101c6-w1200.jpg"
+        "updatedAt": "2026-08-25T17:50:57.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/_rfB7-RdiX-Lp9p8vqGU1GJHcYg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/Y/A3rQBiSyaPeQkJJrKI0w/2026-08-25t091835z-1207710207-rc2i5nasa85u-rtrmadp-3-israel-palestinians-gaza-kites.jpg"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "90d8b02c61bfcdd0",
-        "slug": "0f1460fcf9b135e7",
-        "titulo": "Bateria pega fogo em trem de SP e deixa passageiro com queimaduras",
-        "resumo": "Um carregador portátil pegou fogo dentro de um trem da Linha 7-Rubi, em São Paulo, e deixou um passageiro com queimaduras. O incidente aconteceu por volta das 18h desta segunda-feira (24), quando o vagão chegava à estação Água Branca, localizada na Zona Oeste da capital paulista. Um vídeo publicado pelo perfil SP Sobre Trilhos no Instagram mostra o momento em que passageiros tentam apagar as chamas dentro do vagão. Nas imagens, também é possível perceber uma pequena quantidade de fumaça saindo do powerbank enquanto uma das pessoas tenta conter o fogo com os pés. 📱 Veja as melhores promoções…",
+        "clusterId": "bfec3923bb799300",
+        "slug": "6092e635b8c95b2f",
+        "titulo": "Xbox retira logos de concorrentes em trailers de jogos multiplataforma",
+        "resumo": "O Xbox voltou atrás em exibir logos de concorrentes em trailers de jogos que são lançados em múltiplas plataformas. No trailer de Minecraft Dungeons II, apenas o logo do Xbox aparece, acompanhado de \"Series X|S, PC, Cloud e Game Pass\". A prática, iniciada em 2024, gerou irritação entre usuários que esperavam ver os logos das demais plataformas. Além disso, a Microsoft oferece promoções de jogos para usuários de Xbox, como Star Wars Jedi: Fallen Order, em plataformas como Amazon.",
+        "porQueImporta": "A mudança reflete a estratégia de branding da Microsoft e pode afetar a percepção dos consumidores sobre a disponibilidade multiplataforma.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/games/de-volta-a-guerra-xbox-indica-que-era-dos-jogos-multiplataforma-acabou/"
+          },
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/25/reviews/sua-biblioteca-xbox-merece-um-reforco-confira-esta-selecao-de-jogos-em-promocao/"
+          }
+        ],
+        "updatedAt": "2026-08-25T20:17:00.000Z"
+      },
+      {
+        "clusterId": "61bd016c4e4ba879",
+        "slug": "04e149d344c51591",
+        "titulo": "WhatsApp lança novos recursos de segurança contra golpes e spam",
+        "resumo": "O aplicativo introduziu melhorias na verificação em duas etapas, suporte ampliado às chaves de acesso e informações adicionais sobre chamadas de números desconhecidos. As atualizações já estão sendo distribuídas globalmente para usuários de Android e iOS, embora a funcionalidade de contexto para chamadas desconhecidas esteja inicialmente disponível apenas em Android. Essas mudanças complementam a criptografia de ponta a ponta já existente no WhatsApp.",
+        "porQueImporta": "A atualização fortalece a proteção dos usuários contra fraudes e invasões, reduzindo riscos de golpes e spam.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/whatsapp-anuncia-novos-recursos-contra-golpes-veja-o-que-muda/"
+          },
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/apps/novos-recursos-do-whatsapp-blindam-contas-de-spam-e-golpes-veja-como-funciona/"
+          }
+        ],
+        "updatedAt": "2026-08-25T18:13:40.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/sJ70sMRPTrI714JpTP24J8mXc2s=/0x0/filters:format(webp):quality(85)/1bac9192-8b2b-46f5-b962-bb584c7db915.jpg"
+      },
+      {
+        "clusterId": "0894726a7a4b8025",
+        "slug": "0536d3acb21412a6",
+        "titulo": "Ninja lança CrushBOSS, aparelho multifuncional que combina liquidificador, processador e máquina de smoothies",
+        "resumo": "A Ninja apresentou o CrushBOSS, um eletrodoméstico que reúne em uma única base as funções de liquidificador, processador de alimentos e máquina de smoothies. O aparelho possui motor de 1.200 W, jarra de 2,1 L e copo portátil de 710 ml para bebidas individuais. O objetivo é reduzir o número de utensílios na cozinha sem comprometer a versatilidade de preparo.",
+        "porQueImporta": "Facilita a organização da cozinha ao substituir vários aparelhos por um único modelo.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/eletro/novo-ninja-substituiu-liquidificador-processador-e-vitamix-por-um-so-aparelho/"
+          }
+        ],
+        "updatedAt": "2026-08-25T20:11:34.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/gJx2LFBicd2fehWC_64h58CkjM4=/0x0/filters:format(webp):quality(85)/86d8b8ee-baa9-4038-86fe-daf351eae380.jpg"
+      },
+      {
+        "clusterId": "c3c0d1cfada6986a",
+        "slug": "083a8a77b66bd4a0",
+        "titulo": "Ananta, o GTA de anime, recebe data de lançamento em 15 de janeiro de 2027",
+        "resumo": "O jogo free-to-play chinês Ananta, desenvolvido pela Naked Rain e publicado pela NetEase Games, recebeu data oficial de lançamento para 15 de janeiro de 2027 durante a Opening Night Live 2026 na Gamescom. O anúncio incluiu um trailer de três minutos que destaca o mundo aberto com duas cidades e estética em estilo anime. Ananta foi comparado ao GTA por permitir exploração veicular, mas apresenta temática mais leve. O lançamento foi confirmado após o jogo ter sido anunciado em 2024.",
+        "porQueImporta": "A data de lançamento define quando o público poderá acessar o jogo, influenciando expectativas e planejamento de marketing.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/games/gta-de-anime-ananta-ganha-data-de-lancamento-oficial-apos-fugir-da-sombra-de-gta-6/"
+          }
+        ],
+        "updatedAt": "2026-08-25T20:04:32.000Z"
+      },
+      {
+        "clusterId": "e1173d145cb134b5",
+        "slug": "8434407ef2bfc822",
+        "titulo": "Astrônomos capturam imagem detalhada de Betelgeuse com ALMA",
+        "resumo": "O telescópio ALMA no Chile produziu a imagem mais detalhada da supergigante vermelha Betelgeuse, localizada na constelação de Órion. Os pesquisadores identificaram manchas e irregularidades na atmosfera da estrela, fornecendo novos dados sobre sua estrutura. Betelgeuse é uma das estrelas mais próximas da Terra e pode explodir em uma supernova visível a olho nu em algum momento futuro.",
+        "porQueImporta": "A observação detalhada ajuda a entender o comportamento de supergigantes vermelhas e a prever possíveis explosões de supernova.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/ciencia-e-espaco/estrela-gigante-na-constelacao-de-orion-intriga-astronomos-com-manchas-misteriosas/"
+          }
+        ],
+        "updatedAt": "2026-08-25T20:00:02.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/dhPzvb57Ap2ATOiUokeSV_4inCM=/0x0/filters:format(webp):quality(85)/bfe0ae2e-f5fc-43c4-bb0b-fd0743a38baf.png"
+      },
+      {
+        "clusterId": "aea7adc07cb58819",
+        "slug": "722d94bd78dd325b",
+        "titulo": "Volkswagen derruba preço do Nivus e SUV sai mais em conta que Fastback 2027",
+        "resumo": "Quem quer renovar a garagem não pode perder as ofertas da Volkswagen. A montadora alemã segue oferecendo seu Nivus com condições especiais de venda direta para clientes corporativos (CNPJ) e produtores rurais em todo o Brasil em agosto, com descontos que chegam a 11% sobre a tabela convencional. A ação vale para as configurações Comfortline, Highline e GTS e pode ser bastante vantajosa, já que os descontos podem passar de R$ 19 mil em relação ao varejo. A versão de entrada Comfortline 200 TSI, por exemplo, tem preço sugerido de R$ 158.290, mas o valor para frotistas cai para R$ 140.878,10.…",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/produtos/bateria-pega-fogo-em-trem-de-sp-e-deixa-passageiro-com-queimaduras/"
+            "url": "https://canaltech.com.br/carros/volkswagen-derruba-preco-do-nivus-e-suv-sai-mais-em-conta-que-fastback-2027/"
           }
         ],
-        "updatedAt": "2026-08-25T16:19:22.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/blIz0UG3y-znOeA2LAtRxgzZwXU=/0x0/filters:format(webp):quality(85)/ccd28f00-8d53-4747-a724-8a8ddba3b5d4.jpeg"
+        "updatedAt": "2026-08-25T20:00:01.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/UvGejXjrn1oSPufDtHcO-gxOr20=/0x0/filters:format(webp):quality(85)/ffc2d1fe-3af9-4aae-a490-19cb5be3482d.png"
       },
       {
-        "clusterId": "c6ae88e72308bc3f",
-        "slug": "51dbc0ea8b9f7f56",
-        "titulo": "35 anos de Linux: lembre o post modesto que mudou a história do software",
-        "resumo": "O anúncio do Linux completou 35 anos: no dia 25 de agosto de 1991, o desenvolvedor Linus Torvalds, com 21 anos na época, revelou o projeto pessoal em post na plataforma Usenet. No post, Torvalds disse que estava fazendo um sistema operacional gratuito, pediu o feedback da comunidade sobre o sistema Minix (usado em computadores da época) e afirmou que “era só um hobby, não será grande e profissional como o GNU”. A previsão não foi cumprida, visto que o Linux se tornou um dos principais SOs do mundo, com relevância até hoje e servindo como base para plataformas como o Android. O anúncio…",
+        "clusterId": "9330ad273e90b9df",
+        "slug": "2f7dcd111314c703",
+        "titulo": "Smartwatches em promoção: veja uma seleção com ótimas opções para o seu pulso",
+        "resumo": "Os smartwatches deixaram de ser artigo de luxo e se tornaram companheiros essenciais do dia a dia — seja para monitorar a saúde, receber notificações ou simplesmente complementar o visual. A Amazon reuniu algumas boas opções em promoção, e separamos três modelos que valem a atenção, do mais acessível ao mais completo. Samsung Galaxy Fit3 […] O post Smartwatches em promoção: veja uma seleção com ótimas opções para o seu pulso apareceu primeiro em Olhar Digital.",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/25/reviews/smartwatches-em-promocao-veja-uma-selecao-com-otimas-opcoes-para-o-seu-pulso-3/"
+          }
+        ],
+        "updatedAt": "2026-08-25T19:40:00.000Z"
+      },
+      {
+        "clusterId": "6317bdea4fedb897",
+        "slug": "9c6bc7113f95946c",
+        "titulo": "TV gamer de 65'' com luzes RGB cai de preço na Amazon; parcela de R$ 319",
+        "resumo": "Quem procura uma TV grande para jogar e assistir a filmes pode aproveitar uma oferta da Amazon. A Philips Ambilight 65PUG8100/78 de 65 polegadas está saindo por R$ 3.198,90, com pagamento em 10x de R$ 319,89 sem juros e frete grátis. Além da tela 4K, o modelo se diferencia pelo Ambilight, sistema de iluminação traseira que projeta luzes coloridas na parede de acordo com o conteúdo exibido. A TV também traz HDMI 2.1, VRR e ALLM para jogos, HDR10+, Dolby Atmos, DTS:X e sistema Titan OS, formando um pacote bastante completo pelo preço. 🥇 Melhor oferta: Philips Ambilight 65PUG8100/78 — 10x de R$…",
         "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/software/35-anos-de-linux-lembre-o-post-modesto-que-mudou-a-historia-do-software/"
+            "url": "https://canaltech.com.br/tv/tv-gamer-de-65-com-luzes-rgb-cai-de-preco-na-amazon-parcela-de-r-319/"
           }
         ],
-        "updatedAt": "2026-08-25T16:15:03.000Z"
-      },
-      {
-        "clusterId": "de57e7c699f7ef19",
-        "slug": "3c3af31bd5af1aeb",
-        "titulo": "Toyota radicaliza em nova geração do RAV4 para encarar BYD Atto 8",
-        "resumo": "A Toyota decidiu radicalizar no segmento de SUVs médios ao trazer para o Brasil o novo RAV4 híbrido plug-in (PHEV). O modelo chega apenas na versão XSE, com preço de R$ 399.990, exatamente o mesmo valor do rival chinês BYD Atto 8, lançado recentemente. A estratégia é clara: oferecer um produto mais sofisticado e potente para disputar espaço no mercado de eletrificados premium. Com 329 cv de potência combinada, o RAV4 PHEV se torna o mais forte já vendido pela marca no país, superando os 306 cv da geração anterior. O desempenho é digno de esportivo: aceleração de 0 a 100 km/h em apenas 5,7…",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/carros/toyota-radicaliza-em-nova-geracao-do-rav4-para-encarar-byd-atto-8/"
-          }
-        ],
-        "updatedAt": "2026-08-25T16:02:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/WIlfXrC_H3GsTEAr0o2t9dAvEUE=/0x0/filters:format(webp):quality(85)/6ce1c6c3-e2cb-4ab5-9411-0fcafc4adc8b.jpg"
-      },
-      {
-        "clusterId": "d7d93e25f672fdf1",
-        "slug": "6316987f0a998ef2",
-        "titulo": "Tiangong Ultra quebra seu próprio recorde e deixa Bolt ainda mais atrás",
-        "resumo": "O Tiangong Ultra melhorou sua marca de 9,39 para 8,86 segundos e ampliou a vantagem sobre o recorde de Usain Bolt em Pequim O post Tiangong Ultra quebra seu próprio recorde e deixa Bolt ainda mais atrás apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/25/robotica/tiangong-ultra-quebra-seu-proprio-recorde-e-deixa-bolt-ainda-mais-atras/"
-          }
-        ],
-        "updatedAt": "2026-08-25T15:47:23.000Z"
-      },
-      {
-        "clusterId": "a108f4f369e1c300",
-        "slug": "4974747b03666a69",
-        "titulo": "Quer um setup mais competitivo? Confira monitores gamer em promoção na Amazon",
-        "resumo": "Montar um setup gamer de qualidade começa pelo monitor — e o mercado está cheio de boas opções para quem quer melhorar a experiência sem abrir mão de desempenho. Reunimos três monitores gamer em oferta na Amazon que combinam alta taxa de atualização, baixa latência e tecnologias de sincronização de imagem. Dá uma olhada. LG […] O post Quer um setup mais competitivo? Confira monitores gamer em promoção na Amazon apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/25/reviews/fones-bluetooth-em-promocao-philips-e-jbl-com-otimas-opcoes-na-amazon/"
-          }
-        ],
-        "updatedAt": "2026-08-25T15:40:00.000Z"
-      },
-      {
-        "clusterId": "47f6a2424943346e",
-        "slug": "497de5eeaec01107",
-        "titulo": "NVIDIA revela novo Ray Reconstruction e Path Tracing para jogos de PS2",
-        "resumo": "A gamescom 2026 está começando e a NVIDIA já se antecipou e revelou o que tem preparado para os PC gamers para o evento. Em apresentação fechada para a imprensa, o Time Verde trouxe novidades em relação ao Ray Reconstruction, RTX Remix, RTX Spark e mais. A primeira grande novidade é a nova geração da tecnologia de reconstrução de raios, que fará parte do DLSS 4.5. A novidade, que já havia sido revelada anteriormente, acabou sendo vazada antes da hora através de arquivos em jogos compatíveis, mas começa a chegar em breve. A NVIDIA confirmou que a segunda geração de reconstrução de raios…",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/hardware/nvidia-revela-novo-ray-reconstruction-e-path-tracing-para-jogos-de-ps2/"
-          }
-        ],
-        "updatedAt": "2026-08-25T15:35:18.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/c3K7eiI4jFLW509VwZMSdOhDc88=/0x0/filters:format(webp):quality(85)/ab61c448-00e1-4499-b9cb-849e37f38f5a.jpg"
-      },
-      {
-        "clusterId": "afff51b9c38dbfc5",
-        "slug": "6ffc0c9e32b6a356",
-        "titulo": "Upgrade na memória do seu PC ou notebook? Veja uma seleção de RAMs DDR5 em promoção",
-        "resumo": "Se o seu computador ou notebook anda travando, demorando para abrir programas ou simplesmente não dando conta das tarefas do dia a dia, pode ser hora de investir em mais memória RAM. Separamos três opções DDR5 em oferta na Amazon — todas da Crucial e Corsair, marcas reconhecidas no mercado — para quem quer performance […] O post Upgrade na memória do seu PC ou notebook? Veja uma seleção de RAMs DDR5 em promoção apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/25/reviews/upgrade-na-memoria-do-seu-pc-ou-notebook-veja-uma-selecao-de-rams-ddr5-em-promocao-4/"
-          }
-        ],
-        "updatedAt": "2026-08-25T15:20:00.000Z"
-      },
-      {
-        "clusterId": "d57115b4e8e3c04a",
-        "slug": "8e2f90160327f2b8",
-        "titulo": "Gamescom 2026 começa nesta terça (25); veja horário, onde assistir e o que esperar",
-        "resumo": "Evento começa nesta terça-feira (25), em Colônia, na Alemanha, com apresentação de Geoff Keighley e novidades de Gears of War: E-Day, The Witcher 3 e mais O post Gamescom 2026 começa nesta terça (25); veja horário, onde assistir e o que esperar apareceu primeiro em Olhar Digital.",
-        "porQueImporta": "",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/25/games-e-consoles/gamescom-2026-veja-horario-da-opening-night-live/"
-          }
-        ],
-        "updatedAt": "2026-08-25T15:11:37.000Z"
+        "updatedAt": "2026-08-25T19:39:48.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/_-mmZpHpm0SbfaOowRHzSy4Los0=/0x0/filters:format(webp):quality(85)/532b2007-5258-4800-b395-1e5196d94397.jpg"
       }
     ],
     "ciencia": [
       {
-        "clusterId": "cb405fe3a7e90e23",
-        "slug": "79324f9fe44295d9",
-        "titulo": "Eclipse lunar 'quase' total vai encobrir a Lua de quinta para sexta; fenômeno poderá ser visto em todo o Brasil",
-        "resumo": "Registro de um eclipse lunar parcial com as manchas solares mais aparentes; foto foi feita pelo astrônomo amador Renato Poltronieiri. Renato Poltronieri/Divulgação Na noite de quinta-feira (27) para sexta-feira (28), espectadores de todo o Brasil poderão acompanhar um eclipse lunar parcial que vai encobrir quase toda a Lua com a sombra da Terra. O fenômeno começará ainda na quinta-feira, às 22h24, e seguirá pela madrugada. O momento em que a Lua estará mais escurecida será à 1h13 de sexta-feira (28). Apesar de chegar muito perto de um eclipse total, ele será considerado parcial porque somente…",
+        "clusterId": "455fbaf10946fe9f",
+        "slug": "4d951ee66c5e42f8",
+        "titulo": "Estudo brasileiro examina falhas dos sistemas atuais de reconhecimento facial",
+        "resumo": "O \"viés algorítmico\", que faz os sistemas errarem mais na identificação de mulheres e pessoas negras, tem raízes profundas nas tecnologias de reconhecimento facial e impactos graves na cidadania",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/ciencia/eclipse-lunar-a-lua-vai-quase-desaparecer-sob-a-sombra-da-terra-na-sexta-feira-saiba-como-ver/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/ciencia/noticia/2026/08/25/eclipse-lunar-todo-o-brasil.ghtml"
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/tecnologia/estudo-brasileiro-examina-falhas-dos-sistemas-atuais-de-reconhecimento-facial/"
           }
         ],
-        "updatedAt": "2026-08-25T15:28:47.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2016/05/eclipse-lua-4-2014-04-15-original2.jpeg?quality=70&strip=info"
+        "updatedAt": "2026-08-25T19:00:24.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2025/11/SI_481_Reconhecimento_facial_3.jpg?quality=70&strip=info"
       },
       {
-        "clusterId": "1dae212924a703fd",
-        "slug": "0e80f77dc0740021",
-        "titulo": "Sobrecarga e precarização na atenção básica do SUS impulsionam revisão do PNAB até o final do ano",
-        "resumo": "A situação da atenção básica hoje é grave, segundo especialistas, o que leva a uma necessidade da atualização da Política Nacional de Atenção Básica",
+        "clusterId": "79b1f107853763be",
+        "slug": "4712ab4c74c77295",
+        "titulo": "IA em pesquisas de pós-doutorado e em uso no ensino médio",
+        "resumo": "Por Idmea Semeghini-Siqueira, professora, Ana Erthal, pós-doutoranda, e Gema Bezerra, doutora, todas na Faculdade de Educação da USP",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/atualidades/sobrecarga-e-precarizacao-na-atencao-basica-do-sus-impulsionam-revisao-do-pnab-ate-o-final-do-ano/"
+            "url": "https://jornal.usp.br/artigos/ia-em-pesquisas-de-pos-doutorado-e-em-uso-no-ensino-medio/"
           }
         ],
-        "updatedAt": "2026-08-25T15:05:01.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2025/11/20251124_jovem-doente-em-uma-cama-de-hospital-1024x538.jpg"
+        "updatedAt": "2026-08-25T18:49:33.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20280625_profas-1024x538.jpg"
       },
       {
-        "clusterId": "1ab24de27640d86a",
-        "slug": "b49920f8a36bc1bd",
-        "titulo": "Alface: o que o surto com milhares de casos nos EUA ensina sobre o consumo de verduras",
-        "resumo": "Mais de 27 mil casos confirmados Estados Unidos sofrem com um parasita que atingiu a hortaliça e que provoca sintomas como cólicas, diarreia, náusea e cansaço",
+        "clusterId": "1fcf08c0d96ee24f",
+        "slug": "53705ac90d4a4c64",
+        "titulo": "Debate na USP apresenta os desafios do crime organizado transnacional",
+        "resumo": "Evento da Escola de Segurança Multidimensional do Instituto de Relações Internacionais da USP mostrou como mercados ilícitos distintos, como o tráfico de drogas, os serviços financeiros clandestinos e o contrabando convergem em uma mesma cadeia criminal",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/radio-usp/alface-o-que-o-surto-com-milhares-de-casos-nos-eua-ensina-sobre-o-consumo-de-verduras/"
+            "url": "https://jornal.usp.br/universidade/debate-na-usp-apresenta-os-desafios-do-crime-organizado-transnacional/"
           }
         ],
-        "updatedAt": "2026-08-25T14:55:53.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2022/10/14102022_alface-1024x538.jpg"
+        "updatedAt": "2026-08-25T18:47:51.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2022/01/20210118_00_trafico_drogas_policia-1024x538.jpg"
       },
       {
-        "clusterId": "e84062e900e299ef",
-        "slug": "f2c3ef50b412a43d",
-        "titulo": "Remédio que não vem da farmácia, prescrição social combate a solidão e a sobrecarga nos postos de saúde",
-        "resumo": "Essa abordagem faz lembrar que a saúde não se resume apenas a medicamentos, mas se constrói também com conexão e propósito",
+        "clusterId": "e6b4d046f8445a0e",
+        "slug": "e8659bd8accfa8aa",
+        "titulo": "Encontro Internacional na USP aborda cidades inteligentes, IA e os efeitos das novas tecnologias",
+        "resumo": "Evento gratuito e presencial reúne especialistas, incluindo o pesquisador da USP Carlos Nobre, para discutir o impacto das novas tecnologias, sustentabilidade e combate à desinformação nos centros urbanos",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/atualidades/remedio-que-nao-vem-da-farmacia-prescricao-social-combate-a-solidao-e-a-sobrecarga-nos-postos-de-saude/"
+            "url": "https://jornal.usp.br/universidade/encontro-internacional-na-usp-aborda-cidades-inteligentes-ia-e-os-efeitos-das-novas-tecnologias/"
           }
         ],
-        "updatedAt": "2026-08-25T14:28:09.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2024/12/20241217_aprendizagem-motora-idosos-1024x538.jpg"
+        "updatedAt": "2026-08-25T18:29:06.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2021/05/20210506_00_smart_city_cidade_inteligente_internet2-1024x538.jpg"
       },
       {
-        "clusterId": "82de1bb73895ac7d",
-        "slug": "76d413adcafc4198",
-        "titulo": "Por que uma formiga pode te ajudar a ficar melhor em tomar decisões",
-        "resumo": "Formiga Pawich Sattalerd/Getty Images/Via BBC Nós, humanos, tendemos a nos considerar no topo da pirâmide evolutiva por nossa capacidade de pensar — e pensar muito. Mas toda essa deliberação às vezes não nos leva muito longe. Não somos infalíveis e, rotineiramente, tomamos decisões erradas. Os insetos, por outro lado, apesar de seus cérebros minúsculos, do tamanho de uma semente de papoula, têm uma quantidade talvez surpreendente de sabedoria quando se trata de tomar decisões. Na verdade, várias habilidades dos insetos para resolver problemas inspiraram algoritmos usados para uma tomada de…",
-        "porQueImporta": "",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/ciencia/noticia/2026/08/25/por-que-uma-formiga-pode-te-ajudar-a-ficar-melhor-em-tomar-decisoes.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-25T14:25:35.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/fIE13ObsjuySjlYI9S-9I5a5SOA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/G/y0x30KSFuPpAAajHuKQQ/form.png"
-      },
-      {
-        "clusterId": "6428c79507a41533",
-        "slug": "117ffffb1d32c3c1",
-        "titulo": "Curso prepara psicólogos para os desafios da atuação em hospitais de alta complexidade",
-        "resumo": "Formação oferecida pela plataforma HC Educa+ tem 120 horas de duração, aulas on-line ao vivo e conteúdo voltado à prática em hospitais de alta complexidade; atividades começam em 1º de setembro",
+        "clusterId": "1a526843e05b6a0c",
+        "slug": "127ba71028b53846",
+        "titulo": "Treino aeróbico estruturado ou aumentar exercício no cotidiano têm efeito parecido no controle da asma",
+        "resumo": "Abordagens apresentaram resultados semelhantes para a melhora do controle da doença e na qualidade de vida",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/curso-prepara-psicologos-para-os-desafios-da-atuacao-em-hospitais-de-alta-complexidade/"
+            "url": "https://jornal.usp.br/ciencias/treino-aerobico-estruturado-ou-aumentar-exercicio-no-cotidiano-tem-efeito-parecido-no-controle-da-asma/"
           }
         ],
-        "updatedAt": "2026-08-25T14:16:22.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260603_00_fachada_do_HCFMRP-1024x538.jpg"
+        "updatedAt": "2026-08-25T18:26:43.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260825_esteira-1024x538.jpg"
       },
       {
-        "clusterId": "889f0ee799da1e9b",
-        "slug": "0bec5ca3e2bdc4e6",
-        "titulo": "Pesquisa da USP procura advogados para estudo sobre burnout",
-        "resumo": "Participantes responderão a um questionário sobre condições de trabalho e aspectos relacionados à saúde mental; respostas são confidenciais",
+        "clusterId": "bab4fad4280e023d",
+        "slug": "fcac63e50556b294",
+        "titulo": "O Programa Nacional de Alimentação Escolar e o desafio de transformar direitos em acesso",
+        "resumo": "Por Patrícia Horta, professora da Universidade Federal de Sergipe, Patrícia Zimermann, pós-doutoranda do Instituto de Estudos Avançados da USP e Renata Lopes de Siqueira, professora da Universidade Federal de Sergipe*",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/pesquisa-da-usp-procura-advogados-para-estudo-sobre-burnout/"
+            "url": "https://jornal.usp.br/artigos/o-programa-nacional-de-alimentacao-escolar-e-o-desafio-de-transformar-direitos-em-acesso/"
           }
         ],
-        "updatedAt": "2026-08-25T12:40:51.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2024/08/20240827_justica-1024x538.jpg"
+        "updatedAt": "2026-08-25T18:25:22.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260825_patriciahortazimermannrenatasiqueira-1024x538.jpg"
       },
       {
-        "clusterId": "93a2c649f9eb9ffc",
-        "slug": "49319fb45862fb42",
-        "titulo": "A justiça internacional e os desafios que os novos tempos lhe impõem",
-        "resumo": "Alberto do Amaral trata das dificuldades enfrentadas pelas cortes internacionais de justiça num mundo em constante ebulição",
+        "clusterId": "4b83be2162a0fe14",
+        "slug": "84d5de111045bbc5",
+        "titulo": "Aula aberta na USP analisa “Geografia”, livro obrigatório da Fuvest",
+        "resumo": "Obra da poeta portuguesa Sophia de Mello Breyner Andresen é tema do Projeto BBM no Vestibular, que será realizado no dia 2 de setembro, com transmissão ao vivo e inscrições gratuitas",
         "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/radio-usp/a-justica-internacional-e-os-desafios-que-os-novos-tempos-lhe-impoem/"
+            "url": "https://jornal.usp.br/universidade/aula-aberta-na-usp-analisa-geografia-livro-obrigatorio-da-fuvest/"
           }
         ],
-        "updatedAt": "2026-08-25T12:00:05.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/03/20230313_alberto--1024x1024.jpg"
+        "updatedAt": "2026-08-25T18:23:34.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2025/06/20250602_00_bbm_no_vestibular02.jpg"
+      },
+      {
+        "clusterId": "353db786d56f7568",
+        "slug": "d4406d82c08ed7f5",
+        "titulo": "Projeto Rosa dos Ventos completa 25 anos oferecendo lazer e educação a crianças em vulnerabilidade social",
+        "resumo": "Criado em 2001 por estudantes de Turismo da Escola de Comunicações e Artes (ECA) da USP, projeto de extensão usa viagens e passeios como ferramentas de transformação social",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/diversidade/projeto-de-extensao-da-usp-rosa-dos-ventos-completa-25-anos-oferecendo-lazer-e-educacao-a-criancas/"
+          }
+        ],
+        "updatedAt": "2026-08-25T17:56:43.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260825_criancas-1024x538.jpg"
       }
     ],
     "saude": [
+      {
+        "clusterId": "c34ce44a5dd3df48",
+        "slug": "b808608bab063e71",
+        "titulo": "Saúde além do peso: por que focar somente na balança pode ser um equívoco",
+        "resumo": "Avaliar a composição corporal como um todo, como os índices de gordura e de massa magra, traz mais pistas sobre como está a saúde do indivíduo do que o peso sozinho. The post Saúde além do peso: por que focar somente na balança pode ser um equívoco first appeared on Portal Drauzio Varella.",
+        "porQueImporta": "",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/endocrinologia/saude-alem-do-peso-por-que-focar-somente-na-balanca-pode-ser-um-equivoco/"
+          }
+        ],
+        "updatedAt": "2026-08-25T20:00:08.000Z"
+      },
+      {
+        "clusterId": "8f5f4dc703e0b175",
+        "slug": "7750510f891ccc0f",
+        "titulo": "Depressão sazonal: o que é, quais os sintomas e quem tem maior risco de desenvolver o transtorno",
+        "resumo": "Psiquiatra explica como as mudanças de estação podem afetar a saúde mental e quais sinais indicam a necessidade de buscar ajuda. The post Depressão sazonal: o que é, quais os sintomas e quem tem maior risco de desenvolver o transtorno first appeared on Portal Drauzio Varella.",
+        "porQueImporta": "",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/saude-mental/depressao-sazonal-o-que-e-quais-os-sintomas-e-quem-tem-maior-risco-de-desenvolver-o-transtorno/"
+          }
+        ],
+        "updatedAt": "2026-08-25T18:00:49.000Z"
+      },
       {
         "clusterId": "b4d0f1badfbd4926",
         "slug": "04fb80fda3f613d5",
@@ -1027,151 +1142,197 @@
     ],
     "esportes": [
       {
-        "clusterId": "0a9db4c1d45015c3",
-        "slug": "0a08885611877900",
-        "titulo": "Gerson, Pec, Fred, Castaño: veja quanto Cruzeiro e Atlético-MG gastaram em reforços em 2026",
-        "resumo": "Troca de Passes projeta confronto entre Cruzeiro e Atlético-MG pela Copa do Brasil O confronto entre Atlético-MG e Cruzeiro, pelas quartas de final da Copa do Brasil, coloca à prova dois dos cinco maiores investimentos do futebol brasileiro em 2026. A classificação para a semifinal pode ajudar a amenizar o impacto das cifras gastas pelas equipes na temporada - a premiação é de R$ 9 milhões. A Raposa investiu R$ 299 milhões, enquanto o Galo desembolsou cerca de R$ 166 milhões. Ou seja, o Cruzeiro gastou aproximadamente R$ 133 milhões a mais que o Atlético. + Leia mais notícias do Atlético +…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/mg/futebol/noticia/2026/08/25/gerson-pec-fred-castano-veja-quanto-cruzeiro-e-atletico-mg-gastaram-em-reforcos-em-2026.ghtml"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/cruzeiro-x-atletico-mg-na-copa-do-brasil-onde-assistir-horario-e-escalacoes/"
-          }
-        ],
-        "updatedAt": "2026-08-25T15:59:47.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/QQ83CufM0juSWJqzU1uXwYC3jh0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/k/P/d1v9ByQyCav5laIVAokg/chatgpt-image-23-de-ago.-de-2026-17-15-21.png"
-      },
-      {
-        "clusterId": "53a025bb58c4ec97",
-        "slug": "5c7339ce047f28c8",
-        "titulo": "Diomande é apresentado pelo Real Madrid: “Todo mundo sonha jogar aqui”",
-        "resumo": "Apresentação fechada de Yan Diomande como novo jogador do Real Madrid Yan Diomande foi oficialmente apresentado como jogador do Real Madrid nesta terça-feira. Aos 19 anos, o atacante assinou contrato por sete temporadas com o clube espanhol, válido até 30 de junho de 2033. A cerimônia aconteceu na Cidade Real Madrid, com a presença do presidente Florentino Pérez e do presidente de honra José Martínez Pirri. Diomande assinou o vínculo na sala de reuniões e, depois, recebeu os presentes tradicionais destinados aos novos jogadores do clube: uma réplica do estádio Santiago Bernabéu, um relógio e…",
+        "clusterId": "3ac5811694cb5b80",
+        "slug": "03114b4eec63657b",
+        "titulo": "Conmebol divulga calendário de 2027, com paralisação para Copa do Mundo Feminina",
+        "resumo": "Pela primeira vez, Brasil pode ter quatro times nas semifinais da Libertadores A Conmebol anunciou, nesta terça-feira, o calendário das suas três principais competições de clubes para 2027. A final da Copa Libertadores será disputada no dia 27 de novembro, um sábado. A decisão da Copa Sul-Americana será exatamente uma semana antes, 20 de novembro. A entidade ressalta que as datas estão sujeitas a mudanças. A final da Libertadores 2027 ainda não tem sede definida. Brasília está na disputa com La Plata, na Argentina, e Assunção, no Paraguai, para receber a partida. A decisão da Sul-Americana no…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/noticias/todo-mundo-sonha-em-jogar-aqui-diomande-em-apresentacao-pelo-real-madrid/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-e-sul-americana-serao-paralisadas-por-conta-da-copa-feminina/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/08/25/diomande-e-apresentado-pelo-real-madrid-todo-mundo-sonha-em-jogar-aqui.ghtml"
+            "url": "https://ge.globo.com/rs/futebol/noticia/2026/08/25/conmebol-divulga-calendario-de-2027-com-paralisacao-para-copa-do-mundo-feminina.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T15:50:55.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/c8MCpaQpOLstlLADenFwpBSe9V8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Q/R/zHLuAeRimVEfLCoBcTMw/nd-presentacion-diomande-1vc6083.webp"
+        "updatedAt": "2026-08-25T19:51:00.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/No0CgmtRW3zqdoKWoIC89BWQ2CQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/I/W/sIQ3UKRo6KTm4SUDX3aA/agif17112222465052.jpg"
       },
       {
-        "clusterId": "42f5361f56b20b93",
-        "slug": "79ac5240d792cfbf",
-        "titulo": "Marcelo Paz diz que El Shaarawy e Bakayoko foram oferecidos ao Corinthians",
-        "resumo": "Voz do Setorista: Yuri Alberto deve voltar a treinar no CT do Corinthians Marcelo Paz, o executivo de futebol do Corinthians, afirmou que o italiano El Shaarawy e o francês Bakayoko - ambos com passagens por suas respectivas seleções - foram oferecidos ao clube nesta janela de transferências. As negociações não avançaram por causa da grave crise financeira vivida pelo Timão. + Siga o canal ge Corinthians no WhatsApp — Foi algo que aconteceu, mas não poderíamos contratar naquele momento até pelo transfer ban. O Bakayoko e El Shaarawy foram oferecidos ao Corinthians. Dois grandes jogadores de…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/08/25/marcelo-paz-diz-que-el-shaarawy-e-bakayoko-foram-oferecidos-ao-corinthians.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/el-shaarawy-e-bakayoko-sao-oferecidos-ao-corinthians-revela-marcelo-paz/"
-          }
-        ],
-        "updatedAt": "2026-08-25T15:16:49.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/Ttbk_Z27XIrkvJS27HC64IV-oj0=/s.glbimg.com/es/ge/f/original/2017/10/31/2017-10-31t202859z_173558260_rc1f30555160_rtrmadp_3_soccer-champions-rom-che_oNqkUfR.jpg"
-      },
-      {
-        "clusterId": "6cb78a90176e2dcd",
-        "slug": "26fb27a7e40730ae",
-        "titulo": "Corinthians negocia venda de André ao Nottingham Forest",
-        "resumo": "Voz do Setorista: Corinthians negocia a venda de André O Corinthians está negociando a venda do meio-campista André ao Nottingham Forest, da Inglaterra. + Siga o canal ge Corinthians no WhatsApp O Corinthians e o clube inglês têm conversado e trocado propostas para chegar a um acordo pelo jogador de 20 anos, formado nas categorias de base. Ainda não houve formalização. Veja lances do volante André, do Corinthians Segundo o jornal Daily Mail, a negociação seria por 13,6 milhões de libras (em torno de R$ 95 milhões na cotação atual). O Corinthians não confirma o valor da transação. O clube tem…",
+        "clusterId": "79e26d8c86c3a07b",
+        "slug": "573299bda36ac2df",
+        "titulo": "Chefe da Mercedes vê traço de Senna em Antonelli: \"Tem essa dupla dimensão\"",
+        "resumo": "Veja como foi o GP da Holanda de Fórmula 1 Em entrevista à revista GQ Itália, Toto Wolff, chefe da Mercedes, afirmou que vê semelhanças entre Kimi Antonelli e Ayrton Senna, grande ídolo do piloto italiano. Segundo o chefe da equipe, quando Antonelli está dentro de um carro de Fórmula 1, é capaz de entrar em um mundo à parte e esquecer o restante ao seu redor. Hamilton se retrata após criticar a Ferrari na Holanda: \"Não foi minha melhor versão\" Acesse o canal de automobilismo do ge no WhatsApp Verstappen vai disputar desafio de kart contra 100 pessoas em Silverstone — Quando ele entra no modo…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/nottingham-forest-abre-conversas-por-andre-volante-do-corinthians/"
+            "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/toto-wolff-compara-kimi-antonelli-a-ayrton-senna-e-fascinante/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/08/25/corinthians-negocia-venda-de-andre-ao-nottingham-forest.ghtml"
+            "url": "https://ge.globo.com/motor/formula-1/noticia/2026/08/25/chefe-da-mercedes-ve-traco-de-senna-em-antonelli-tem-essa-dupla-dimensao.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T14:29:59.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/ekH9xLjbyNbVZ-_fUVnvtkNtEJY=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/j/v/GsSTVrTkOVpKJMBoSE1w/246717.jpg"
+        "updatedAt": "2026-08-25T18:30:51.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/5iNpOp45LfHQ-WzmA6xPV6rFSig=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/h/z/LgrOk9RBuGt4M9goTWdA/afp-20260823-c6bx4cf-v1-highres-autoprixf1ned.jpg"
       },
       {
-        "clusterId": "c5e235b48e527791",
-        "slug": "a4cd67444e0c41c8",
-        "titulo": "Barletta deve seguir como desfalque no Sport contra o Novorizontino",
-        "resumo": "Com lesão muscular, Barletta desfalca o Sport contra o Avaí O atacante Barletta dificilmente volta ao Sport na partida contra o Novorizontino, na próxima sexta-feira, fora de casa, pela Série B. O jogador desfalcou o time em duas partidas, contra o Avaí e América-MG, e continua na fisioterapia tratando de lesão na coxa. O departamento médico e de performance do Sport não descartam a possibilidade do atleta voltar ao time, mas a proximidade da partida é um empecilho. O elenco, inclusive, se reapresenta nesta terça no CT e viaja na quarta para São Paulo. + ✅Clique aqui para seguir o novo canal…",
+        "clusterId": "86ae3a9ebc812c70",
+        "slug": "a2c8b84c14e28de6",
+        "titulo": "Bragantino se reapresenta e começa preparação para enfrentar o São Paulo",
+        "resumo": "Bragantino 1 x 0 Grêmio | Melhores momentos | 24ª rodada | Brasileirão 2026 O elenco do Red Bull Bragantino voltou aos treinos na tarde desta terça-feira após a vitória por 1 a 0 sobre o Grêmio, no último domingo. A reapresentação marca o início da preparação para enfrentar o São Paulo, neste sábado, às 20h, no Morumbis, pela 25ª rodada do Brasileirão. Como de praxe, os atletas que atuaram 45 minutos ou mais no jogo contra o Grêmio fizeram um treino regenerativo na academia. Os demais jogadores foram para o campo, onde realizaram um treino técnico. Volante Gabriel em treino do Bragantino Ari…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/sp/tem-esporte/futebol/brasileirao-serie-b/jogo/28-08-2026/novorizontino-sport.ghtml"
+            "url": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/times/bragantino/noticia/2026/08/25/bragantino-se-reapresenta-e-comeca-preparacao-para-enfrentar-o-sao-paulo.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T16:23:55.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/7ljrGa1bQi1qkRmgVi0DsF-CM-8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/t/C/PMkjxJRZimdnI78RfXcw/agif26071818101534.jpg"
+        "updatedAt": "2026-08-25T20:25:49.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/K7U8Ruo2VR1QncZTVE9X-yYgp0E=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/O/b/x5w9U7TTAdg60yqSnQlg/55488198605-a2e0834f67-k.jpg"
       },
       {
-        "clusterId": "f1599043edfda52c",
-        "slug": "c45ba7d04513e1e6",
-        "titulo": "Escalação do Vitória contra o Vasco: veja time provável, dúvidas e desfalques após o último treino",
-        "resumo": "\"Se não fosse Lucas Arcanjo, teria sido pior\" diz Yuri Figueiredo | A Voz da Torcida O Vitória está pronto para enfrentar o Vasco no jogo de ida das quartas de final da Copa do Brasil. Jair Ventura teve dois dias de trabalho com o elenco depois de perder o Ba-Vi 508 e encerrou o período com um treino na manhã desta terça-feira. A principal novidade da atividade foi a presença de Caíque Gonçalves. Siga o ge Vitória nos Canais do WhatsApp Veja quem chega e quem sai do Vitória em 2026 Desfalque nos últimos dois jogos por causa de um trauma no joelho, o volante deve voltar a ficar à disposição de…",
+        "clusterId": "6195533a5907673a",
+        "slug": "78b786a530287ec1",
+        "titulo": "Atlético-MG goleia o Santos e se aproxima do G-8 do Brasileirão sub-17 2026",
+        "resumo": "Vinicius Rodrigues (2x), Gomide (2x), Callegario e Gabriel Veneno sacramentam vitória do Galo na Arena MRV; Luiz Gustavo marca para o Alvinegro",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/rj/futebol/copa-do-brasil/jogo/26-08-2026/vasco-vitoria.ghtml"
+            "url": "https://ge.globo.com/pi/futebol/brasileirao-sub-17/jogo/25-08-2026/atletico-mg-santos.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T16:23:41.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/v7qntN1jccHKSHWi6WwxgBRXR5c=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/y/x/RpXB3gTCGAxBK5ngo0Og/victor-ferreira-66177.jpg.jpeg"
+        "updatedAt": "2026-08-25T20:21:12.000Z"
       },
       {
-        "clusterId": "8a1e139f831d7a65",
-        "slug": "4c76b6a005b7b9cc",
-        "titulo": "Caiçara anuncia reforços, e técnico Caio Simões avalia pré-temporada para o Piauiense Série B",
-        "resumo": "Assista à entrevista de Caio Simões, técnico do Caiçara O Caiçara confirmou o acerto com mais seis jogadores para a disputa do Campeonato Piauiense Série B 2026: os laterais Samuel Flores e Jackson Lobato, o zagueiro Hauriano Júnior, os volantes Celso José e Bruno Gabriel e o meio-campo Cezinha. O clube de Campo Maior entrou na sua quarta semana de pré-temporada para o torneio de acesso, e o técnico da equipe, Caio Simões, avaliou esse período de preparação e o elenco que tem à disposição até o momento. Confira o vídeo acima. + Veja tabela detalhada do Campeonato Piauiense Série B 2026 Treino…",
+        "clusterId": "30df96ca166564cb",
+        "slug": "4260f29cb0cbdc93",
+        "titulo": "São Paulo goleia e encerra preparação para torneio sub-17 na Espanha; veja os destaques",
+        "resumo": "Organizadas do São Paulo cobram diretoria por salários atrasados A equipe sub-17 do São Paulo encerrou a preparação para a disputa de um torneio internacional de clubes em Córdoba, na Espanha. Na tarde desta terça-feira, o time comandado por Alexandre Torrezan goleou o Bahia por 6 a 1, no CT de Cotia, pelo Brasileirão da categoria. Os gols do Tricolor foram marcados por Miranda, duas vezes, Davi Pena, Robert William e Kauã Daniel e Hiago. Jonathan Marinho descontou para o Bahia. + Siga o canal ge São Paulo no WhatsApp São Paulo goleou o Bahia pelo Brasileirão Sub-17 Rubens Chiri Os jogadores…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/pi/futebol/times/caicara/noticia/2026/08/25/caicara-anuncia-reforcos-e-tecnico-caio-simoes-avalia-pre-temporada-para-o-piauiense-serie-b.ghtml"
+            "url": "https://ge.globo.com/pi/futebol/brasileirao-sub-17/jogo/25-08-2026/sao-paulo-bahia.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T16:21:52.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/sB4Bz5woN8gJ6laWNMD0pSEJApU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/a/k/IOx1g4RqCUVAqTr0vJVg/1001489443.jpg.jpeg"
+        "updatedAt": "2026-08-25T20:20:39.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/U-xxyPdZn6Med6ybgBiTq1K6zM8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/f/l/ck81LHQo2PY5YmN9wSBw/55488046064-87bb63b0e9-3k.jpg.jpeg"
       },
       {
-        "clusterId": "6f06b310a01c62e5",
-        "slug": "ce5179d4604211c5",
-        "titulo": "Dínamo de Moscou negocia a contratação de Plata, do Flamengo",
-        "resumo": "O atacante Gonzalo Plata, do Flamengo, voltou a despertar o interesse do futebol russo. Desta vez, foi o Dínamo de Moscou quem abriu negociações pela contratação do equatoriano, de 25 anos. Os clubes mantêm conversas e discutem os termos de um possível negócio pelo jogador. + Flamengo se reapresenta visando nova arrancada com Jardim, recuperar atletas e virar página Fred Gomes compara sequências de Flamengo e Palmeiras na briga pelo título + Flamengo conhece rival na Libertadores nesta terça e projeta desafios com logística De acordo com o portal russo Sport24, o Dínamo já teria um acordo com…",
+        "clusterId": "65bf702fc6f97ae0",
+        "slug": "1ebee56b1526760a",
+        "titulo": "Torcedor do Santos que cuspiu em Reinaldo pode ser afastado dos estádios por até três anos",
+        "resumo": "PC comenta caso de cuspe no rosto no Reinaldo O torcedor do Santos que cuspiu no lateral Reinaldo, do Mirassol, em jogo do Campeonato Brasileiro disputado na Vila Belmiro no último fim de semana, pode ser afastado dos estádios por até três anos. O homem, que é sócio do Santos, foi identificado pelo sistema de reconhecimento facial e por imagens de transmissão da partida. O depoimento dele estava previsto para esta terça-feira, no fim da tarde. O lateral Reinaldo foi ouvido pela polícia na segunda-feira – o inquérito está na Drade (Delegacia de Repressão e Análise aos Delitos de Intolerância…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/25/dinamo-de-moscou-negocia-a-contratacao-de-plata-do-flamengo.ghtml"
+            "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/08/25/torcedor-do-santos-que-cuspiu-em-reinaldo-pode-ser-afastado-dos-estadios-por-ate-tres-anos.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T16:14:31.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/RrIn-XzZ6MmWR2qN3XU_QRT_8lY=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/n/H/5VWeqKRkaDhhSe2Tg6Ag/1.jpg"
+        "updatedAt": "2026-08-25T20:20:04.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/NZRJCIvjYUQPTdqE0MnQPX0w098=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/H/F/JQ0hBSRDm7b3gjBAjJnw/2.png"
+      },
+      {
+        "clusterId": "1c62a286a696d401",
+        "slug": "781ceb9f401d365c",
+        "titulo": "TJD-AM suspende Campeonato Amazonense Feminino após denúncia de irregularidade",
+        "resumo": "3B goleia o Penarol-AM por 4 a 0 e conquista o quinto título do Amazonense feminino O Campeonato Amazonense Feminino 2026 está suspenso por determinação do Tribunal de Justiça Desportiva do Amazonas (TJD-AM). A Federação Amazonense de Futebol (FAF) recebeu a decisão e informou que cumprirá integralmente a medida liminar concedida pelo presidente do Tribunal, Hugo Sergio Lima Ribeiro. A suspensão ocorreu após pedido apresentado pelo Amazonas Legis, que apontou possíveis irregularidades na escalação e utilização da atleta Sandra Marques Paixão. Penarol-AM x Amazonas Legis Divulgação/ FAF +Livre…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/am/futebol/futebol-feminino/noticia/2026/08/25/tjd-am-suspende-campeonato-amazonense-feminino-apos-denuncia-de-irregularidade.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-25T20:20:01.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/k0iKKSI1xdk2OvEAXdIEHZNIG54=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/b/1/G5ABmFQcu2F8TzotSZrw/img-3624.jpg-1-.jpeg"
+      },
+      {
+        "clusterId": "baf81e11dd955610",
+        "slug": "cac798bc5307b0a6",
+        "titulo": "Independiente del Valle x Tolima - Taça Conmebol Libertadores 2026 - globoesporte.com",
+        "resumo": "Taça Conmebol Libertadores 2026 no globoesporte.com - acompanhe tudo sobre Independiente del Valle x Tolima: escalação, informações sobre o jogo, fotos e muito mais",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/libertadores/jogo/25-08-2026/independiente-del-valle-tolima.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-25T20:19:45.000Z"
       }
     ],
     "entretenimento": [
+      {
+        "clusterId": "c6238cce83cdd8cc",
+        "slug": "7fcc92ee685c9910",
+        "titulo": "Dolly Parton faleceu aos 80 anos",
+        "resumo": "A cantora country Dolly Parton morreu nesta terça-feira, 25, aos 80 anos. A família confirmou a notícia em vídeo nas redes sociais, sem indicar a causa da morte. Em 12 de agosto, Parton havia postado um vídeo convidando o público para a abertura de sua exposição “Dolly’s Life of Many Colors Museum”, prevista para o outono de 2026 em Nashville. O vídeo destacou sua trajetória, desde a pobreza até o sucesso internacional.",
+        "porQueImporta": "A morte de Dolly Parton encerra a carreira de uma das maiores ícones da música country, e sua exposição promete celebrar sua vida e legado.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/cultura/o-que-dolly-parton-falou-no-ultimo-video-que-gravou/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/celebridades/dolly-parton-revelou-como-queria-morrer-apos-vida-de-pesados-paetes/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/08/25/em-ultimo-video-nas-redes-sociais-dolly-parton-convidou-para-exposicao-sobre-sua-vida-veja.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-25T20:18:32.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2018/06/entretenimento-dolly-parton-20170915-0001-copy.jpg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "a1e08e30c9ed037e",
+        "slug": "2fd5559a208999bf",
+        "titulo": "Shawn Mendes está produzindo seu novo álbum no Brasil: 'Muitas ideias na cabeça e no coração'",
+        "resumo": "Shawn Mendes se apresenta no Rock in Rio 2024 Stephanie Rodrigues/g1 As vindas de Shawn Mendes para o Brasil também tem um lado profissional. O namorado de Bruna Marquezine revelou, em entrevista para a revista Esquire, que está produzindo um disco no país. \"Estou montando um estúdio no Brasil há algum tempo, então estou indo para lá hoje – é praticamente o primeiro dia de trabalho do meu próximo álbum. É nisso que estou trabalhando\", afirmou Shawn para a publicação focada em moda masculina. \"Tenho muitas ideias na minha cabeça e no meu coração, mas ainda não tem nada de concreto que eu possa…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/08/25/shawn-mendes-esta-produzindo-seu-novo-album-no-brasil-muitas-ideias-na-cabeca-e-no-coracao.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-25T17:16:24.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/BLDbik--C2m2FEyxBRnPFNZtENc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/8/M/yyAtokQWePIX5VdMg8UA/shawn-mendes-rock-in-rio-2024-3.jpg"
+      },
+      {
+        "clusterId": "410317a4fc27096c",
+        "slug": "864b1441a9d9ec1a",
+        "titulo": "Aretuza Lovi se une a Linn da Quebrada e vê futuro de álbum com o single 'Tarô'",
+        "resumo": "Aretuza Lovi (à direita) faz feat com Linn da Quebrada em 'Tarô', single com que abre caminho para um futuro álbum Beto Cardoso / Divulgação ♫ NOTÍCIA ♬ A caminho dos 15 anos de carreira musical, a serem completados em 2027, Aretuza Lovi vem abrindo caminhos para a construção de um futuro álbum com singles como “3 nós” (2026) e “Caipiranhas” (2026), lançados em fevereiro e em junho, respectivamente. Na próxima quinta-feira, 27 de agosto, a cantora e compositora apresenta mais um single inédito, “Tarô”, este gravado com Linn da Quebrada. O single “Tarô” apresenta composição da própria Aretuza,…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/25/aretuza-lovi-se-une-a-linn-da-quebrada-e-ve-futuro-de-album-com-o-single-taro.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-25T15:30:03.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/Tge8VmYTV5KcNeSGU8CHwT1Uu2U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/k/Kx6ZK5Qae7ExlUutsLaQ/taro-imprensa2-obetocardoso-.png"
+      },
       {
         "clusterId": "3aa76d18e5b42407",
         "slug": "c28bd90f83eb51eb",
@@ -1251,54 +1412,6 @@
         ],
         "updatedAt": "2026-08-25T03:00:36.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/QbsLzpa2U-pyl0JleIAzKENmF_M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/h/mBumLCRFSZfoe8Gxuy8A/pernambulo-foto-01.jpg"
-      },
-      {
-        "clusterId": "623aa13f7590f2fa",
-        "slug": "790ab5c5033684f9",
-        "titulo": "Pabllo Vittar revela a capa de 'Body type', segundo single do álbum 'Lost in lust'",
-        "resumo": "Pabllo Vittar lança o single 'Body type' às 21h de quinta-feira, 27 de agosto Divulgação ♫ NOTÍCIA ♬ “Body type” – segundo single do sétimo álbum de estúdio de Pabllo Vittar, “Lost in lust” – teve a capa revelada nas redes sociais da artista na noite desta segunda-feira, 24 de agosto. Programado para as 21h da próxima quinta-feira, 27 de agosto, o single “Body type” apresenta o terceiro feat de Pabllo com Urias. Antes, as artistas já haviam aparecido juntas em “Ouro” (2018) – faixa do segundo álbum de Pabllo, “Não para não” (2018) – e em “Everybody” (2022), gravação da DJ e produtora musical…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/24/pabllo-vittar-revela-a-capa-de-body-type-segundo-single-do-album-lost-in-lust.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-25T00:30:53.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/62pPljVLzV3FXf03TwJIAfVJITQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/s/QGa4HiTRCUzBTQBw8MqQ/pabllovittafoto.jpg"
-      },
-      {
-        "clusterId": "d17b60def57e91c1",
-        "slug": "f29d5f39269835dd",
-        "titulo": "Larissa Manoela diz que não interpretará mais Carmen Miranda nos cinemas",
-        "resumo": "Larissa Manoela não vai mais interpretar Carmem Miranda nos cinemas Reprodução Larissa Manoela anunciou nesta segunda-feira (24) que não vai mais interpretar Carmen Miranda nos cinemas. A atriz estava escalada para ser protagonista do longa \"Pra Você Gostar de Mim\". Em postagem nas redes sociais, Larissa afirmou que a decisão partiu do diretor do projeto, Bruno Barreto. \"A decisão de Larissa Manoela de não seguir no projeto partiu do diretor do filme, que, ao tomar conhecimento de que outro projeto dedicado a Carmen Miranda estava sendo produzido, optou por antecipar as filmagens, mesmo…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/08/24/larissa-manoela-diz-que-nao-interpretara-mais-carmen-miranda-nos-cinemas.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-24T19:26:39.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/UEOpSx8cQydlb0dg-wR4EVpPEow=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/a/bdN3RARYCgxlQmSaPjgA/fotos-g1-1920-x-1080-px-2026-08-24t162449.630.png"
-      },
-      {
-        "clusterId": "b7c60adf72d7f28b",
-        "slug": "9f51d55838955cc0",
-        "titulo": "Academia Brasileira de Cinema divulga filmes que disputam vaga para representar o Brasil no Oscar",
-        "resumo": "'100 Dias', 'Vicentina Pede Desculpas' e 'Nosso Segredo' estão entre filmes que podem concorrer a vaga do Brasil no Oscar Divulgação A Academia Brasileira de Cinema divulgou, nesta segunda-feira (24), os nomes dos filmes que vão concorrer a uma vaga para representar o Brasil no Oscar 2027. A próxima etapa da disputa acontece em 9 de setembro, quando a Comissão de Seleção escolhe seis deles para disputar a indicação do Brasil e tentar uma vaga na categoria Melhor Filme Internacional do Oscar. O nome do filme escolhido para ser o indicado pelo país será anunciado em 16 de setembro. Veja lista…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/08/24/academia-brasileira-de-cinema-divulga-os-filmes-que-disputam-vaga-para-representar-o-brasil-no-oscar.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-24T19:17:31.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/ushOTYAKYzhoFuC969xEcdFsUqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/A/PUQLSaTYi4Y2n8caB5bg/oscar2027.jpg"
       }
     ]
   }
