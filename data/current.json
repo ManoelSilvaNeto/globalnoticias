@@ -1,241 +1,93 @@
 {
   "date": "2026-08-25",
-  "generatedAt": "2026-08-25T12:47:35.337Z",
+  "generatedAt": "2026-08-25T16:37:19.828Z",
   "home": [
     {
-      "clusterId": "d029149472819673",
-      "slug": "d90905af6c8d9f84",
-      "titulo": "ANPD multou TikTok em R$ 153,7 milhões por falhas no tratamento de dados de menores",
-      "resumo": "A Agência Nacional de Proteção de Dados (ANPD) aplicou multa de R$ 153,7 milhões à ByteDance, dona do TikTok, por irregularidades no tratamento de dados pessoais de crianças e adolescentes. A decisão, publicada no Diário Oficial da União, exige a eliminação dos dados coletados sem autorização e a apresentação de um plano de conformidade. A medida faz parte de um esforço maior da ANPD para proteger menores em plataformas digitais.",
-      "porQueImporta": "A multa reforça a aplicação da LGPD e destaca a importância da proteção de dados de menores em redes sociais.",
+      "clusterId": "aa02e992a7495834",
+      "slug": "fc10740c822acc13",
+      "titulo": "Flávio Bolsonaro inicia campanha em Alagoas sem JHC e Arthur Lira",
+      "resumo": "O senador Flávio Bolsonaro chegou a Maceió para começar a campanha presidencial em Alagoas, acompanhado pelo vice Alfredo Gaspar. O encontro contou com apoio de simpatizantes, mas não incluiu os candidatos JHC e Arthur Lira, que permanecem em outras cidades. A visita marca o primeiro estado nordestino visitado pela chapa do PL, com intenção de votos em torno de 29% segundo pesquisa Quaest.",
+      "porQueImporta": "A presença de Flávio em Alagoas demonstra a estratégia do PL de fortalecer apoio no Nordeste antes das eleições de 2026.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/flavio-declara-apoio-em-alagoas-a-jhc-que-nao-deve-encontra-lo/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-confira-as-propostas-de-jhc-ao-governo-de-alagoas.ghtml"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-bolsonaro-e-recebido-por-apoiadores-em-alagoas-e-faz-carreata/"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/flavio-busca-votos-no-nordeste-mas-inicia-giro-em-alagoas-sem-lira-e-jhc-em-ato/"
+        }
+      ],
+      "updatedAt": "2026-08-25T16:17:10.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/IMG_4557.jpeg?quality=70&strip=info"
+    },
+    {
+      "clusterId": "d1f383f6067be801",
+      "slug": "45d79f83b848d726",
+      "titulo": "Canadá impõe tarifas retaliatórias de até 50% sobre US$20 bilhões em produtos americanos",
+      "resumo": "O governo canadense anunciou tarifas de 15%, 25% e 50% sobre cerca de 700 produtos importados dos Estados Unidos, totalizando US$20 bilhões. As medidas entram em vigor em 8 de setembro, como resposta às tarifas de 50% impostas pelo presidente Trump sobre produtos canadenses. O valor equivalente em reais é de aproximadamente R$102,8 bilhões. A decisão faz parte de uma disputa comercial entre os dois países.",
+      "porQueImporta": "Impacta diretamente o comércio bilateral e pode influenciar preços e cadeias de suprimentos na região.",
       "category": "economia",
       "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/canada-retalia-trump-e-anuncia-tarifas-de-50-contra-produtos-dos-eua"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/canada-anuncia-tarifas-retaliatorias-sobre-produtos-dos-eua-no-valor-de-us20-bilhoes/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/canada-anuncia-tarifas-retaliatorias-de-us-20-bi-em-produtos-americanos/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/economia/noticia/2026/08/25/canada-tarifas-eua.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-25T16:01:51.000Z",
+      "imageUrl": "https://images.metroimg.com/2025/08/25200641/canada-bandeira.jpg"
+    },
+    {
+      "clusterId": "2ed002ceac58f2fb",
+      "slug": "ec91c93f7828b9fa",
+      "titulo": "Discord recorre de suspensão de lives pela ANPD",
+      "resumo": "A plataforma Discord apresentou recurso contra a suspensão de transmissões ao vivo e compartilhamento de tela determinada pela Autoridade Nacional de Proteção de Dados (ANPD). A empresa alega que a medida é desproporcional, que a agência não tem competência para aplicar a restrição e que há vícios formais no processo. O recurso busca efeito suspensivo imediato para reativar as lives.",
+      "porQueImporta": "A decisão pode afetar a disponibilidade de serviços de comunicação em tempo real para usuários e empresas que dependem do Discord.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/brasil/anpd-multa-tiktok-em-r-1537-mi-por-falhas-no-tratamento-de-dados-de-menores/"
+        },
+        {
+          "name": "Super Interessante",
+          "url": "https://super.abril.com.br/sociedade/entenda-por-que-o-tiktok-foi-multado-em-r-1537-milhoes-pela-anpd/"
+        },
+        {
+          "name": "Canaltech",
+          "url": "https://canaltech.com.br/mercado/tiktok-leva-multa-milionaria-da-anpd-e-tera-que-reforcar-a-seguranca-de-jovens/"
+        },
         {
           "name": "G1",
           "url": "https://g1.globo.com/tecnologia/noticia/2026/08/25/por-que-a-anpd-multou-o-tiktok-e-suspendeu-lives-do-discord-entenda-a-diferenca-entre-os-casos.ghtml"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/tiktok-e-multado-em-r-153-milhoes-no-brasil-por-violar-protecao-de-adolescentes/"
-        },
-        {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/08/25/internet-e-redes-sociais/tiktok-e-multado-em-r-1537-milhoes-por-falhas-na-protecao-de-dados-de-menores/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/anpd-multa-tiktok-por-falha-na-protecao-de-dados-de-criancas-e-adolescentes/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/tecnologia/por-que-o-tiktok-foi-multado-em-r-1537-milhoes-no-brasil/"
         }
       ],
-      "updatedAt": "2026-08-25T12:29:25.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/t_3IaBkiODgLMHp0pT-NpRT4sRM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/L/SkFp6NRWAkA3l4RI8PSg/fotojet-13-.jpg"
+      "updatedAt": "2026-08-25T15:48:33.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/445381923.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "clusterId": "4067639df69ed2b1",
-      "slug": "19690331ed8614e0",
-      "titulo": "EUA impõem novas sanções econômicas ao Irã",
-      "resumo": "Os Estados Unidos anunciaram uma série de sanções sem precedentes contra o Irã, visando setores como energia nuclear, mísseis, cibernética e petróleo. O Irã afirmou que não cederá às pressões de Washington e que qualquer apoio internacional às sanções será considerado ato de guerra. O governo iraniano planeja responder com medidas de dois anos para mitigar os impactos. A administração americana também pediu que países que mantêm relações econômicas com Teerã sejam severamente penalizados.",
-      "porQueImporta": "A medida intensifica a tensão entre os dois países e pode afetar a estabilidade econômica e política da região.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/ira-promete-retaliar-apos-eua-ampliarem-sancoes/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/china-diz-que-relacao-com-ira-nao-sera-alvo-de-interferencia-apos-eua-anunciarem-sancoes/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/25/china-defendera-interesses-comercio-ira-interferencias-ameacas-eua.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/china-diz-que-cooperacao-com-ira-nao-deve-ser-interrompida-apos-sancoes/"
-        }
-      ],
-      "updatedAt": "2026-08-25T12:25:27.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-21T155825Z_1_LYNXMPEM2K08L_RTROPTP_4_IRAN-CRISIS-PEZESHKIAN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "84402960cf96533a",
-      "slug": "2857e06bb2eb2ca0",
-      "titulo": "Polícia Federal recebe dados da Polícia Civil sobre produção de filme Dark Horse",
-      "resumo": "A Polícia Federal terá acesso a informações coletadas pela Polícia Civil de São Paulo durante busca e apreensão no Instituto Conhecer Brasil, ligado à produtora do filme Dark Horse. O material será analisado no inquérito do STF que investiga a possível utilização de emendas parlamentares para financiar a obra. A Ancine já concedeu o Registro de Obra Estrangeira ao filme, que ainda precisa da classificação indicativa do Ministério da Justiça. Flávio Bolsonaro afirmou que a relação com a obra é privada e que não tem responsabilidade direta.",
-      "porQueImporta": "A investigação pode revelar uso indevido de recursos públicos na produção de conteúdo político.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/quaest-como-esta-a-disputa-entre-lula-e-flavio-bolsonaro-em-al-ma-pr-rn-rs-e-sc/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/25/voces-vao-parar-no-tempo-nao-sou-eu-que-tenho-que-prestar-conta-e-o-lula-diz-flavio-bolsonaro-sobre-contas-do-filme-dark-horse.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/o-grande-debate-como-lulinha-e-dark-horse-afetam-a-eleicao/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/flavio-bolsonaro-volta-a-fugir-de-perguntas-sobre-vorcaro-e-tenta-culpar-imprensa/"
-        }
-      ],
-      "updatedAt": "2026-08-25T12:10:59.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/02/lulaflavio.png?fit=300%2C150&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "c8f51f10245a47c2",
-      "slug": "a8fefc8b414d5ebd",
-      "titulo": "Dólar abre em alta impulsionado por cenário político brasileiro e tensões no Oriente Médio",
-      "resumo": "O dólar abriu a sessão em alta, cotado a R$ 5,1468, com um ganho de 0,06% perto das 9h. A volatilidade foi alimentada pela disputa eleitoral acirrada no Brasil, após o primeiro debate presidencial sem a presença de Lula e Bolsonaro, e pelas tensões no Oriente Médio. Investidores mantêm o cenário político em foco enquanto o Ibovespa inicia negociações às 10h.",
-      "porQueImporta": "A valorização do dólar afeta o custo de importação e a competitividade das exportações brasileiras.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/economia/braskem-deixa-o-ibovespa-a-partir-de-hoje-apos-recuperacao-extrajudicial/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/invest/mercados/acao-da-braskem-deixa-o-ibovespa-a-partir-de-hoje-entenda/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/08/24/dolar-ibovespa.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-25T12:36:17.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2016/11/braskem-industria-petroquimica-20130119-0059-size-598-300x168.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "28d80b4c1dc2f896",
-      "slug": "4d447de3c2f73300",
-      "titulo": "Tottenham compra atacante brasileiro Savinho por cerca de 100 milhões de euros",
-      "resumo": "O Tottenham anunciou a contratação do atacante brasileiro Savinho, de 22 anos, que deixou o Manchester City. O clube de Londres pagou aproximadamente 93,3 milhões de euros em valor fixo, com mais 5,7 milhões em bônus por desempenho, totalizando cerca de 100 milhões de euros. A transferência representa a maior venda da história do Manchester City. Savinho receberá a camisa 17 e assinará contrato de cinco anos.",
-      "porQueImporta": "A negociação destaca o investimento do Tottenham e a valorização de talentos brasileiros no futebol europeu.",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/tottenham-oficializa-contratacao-de-savinho-atacante-brasileiro-do-manchester-city/"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/08/25/fatia-milionaria-como-a-transferencia-de-savinho-na-inglaterra-enche-os-cofres-do-atletico-mg.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/savinho-e-anunciado-como-reforco-do-tottenham/"
-        }
-      ],
-      "updatedAt": "2026-08-25T12:35:23.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/Savinho-signing-not-cropped.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "8c3a35fa38d224c7",
-      "slug": "5705a0c955c9458e",
-      "titulo": "Suprema Corte dos EUA permite que Trump continue com decreto que restringe voto pelo correio",
-      "resumo": "A Suprema Corte autorizou a continuação do decreto executivo de Donald Trump que busca restringir a votação pelo correio antes das eleições de meio de mandato. A decisão suspendeu uma ordem anterior que impedia a implementação da medida. Os ministros concluíram que os estados que entraram com a ação não tinham legitimidade para contestar a ordem. A medida permanece em vigor, embora outros processos possam questioná‑la no futuro.",
-      "porQueImporta": "A decisão pode alterar significativamente o acesso ao voto por correio nos Estados Unidos.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/suprema-corte-dos-eua-da-vitoria-a-trump-sobre-voto-pelo-correio/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/suprema-corte-autoriza-decreto-de-trump-que-restringe-voto-pelo-correio/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/24/suprema-corte-dos-eua-da-vitoria-a-trump-em-disputa-sobre-voto-pelo-correio.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-25T12:35:17.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/gettyimages-2278823054-594x594-1.jpg?quality=70&strip=info"
-    },
-    {
-      "clusterId": "6e6c1ec0a986cede",
-      "slug": "7a7779f1e6d08cb4",
-      "titulo": "Paes lidera disputa pelo governo do RJ e Benedita e Crivella lideram Senado",
-      "resumo": "Pesquisa do Paraná Pesquisas, realizada entre 22 e 24 de agosto, mostra que o ex-prefeito Paulo Paes abre cerca de 29 a 30 pontos sobre o candidato Ruas no primeiro turno da eleição presidencial do Rio de Janeiro. No mesmo levantamento, Benedita da Silva e Crivella são os favoritos para o Senado, com Pedro Paulo como principal concorrente. A margem de erro da pesquisa é de 2,5 pontos percentuais.",
-      "porQueImporta": "Os resultados indicam a forte posição de Paes e dos candidatos ao Senado, influenciando estratégias eleitorais no estado.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/parana-pesquisas-benedita-e-crivella-lideram-disputa-ao-senado-pelo-rj-2/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/paes-lidera-e-pode-ser-eleito-em-1o-turno-no-rj-mostra-pesquisa/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/eleicoes/parana-pesquisa-paes-abre-29-pontos-sobre-ruas-no-1o-turno-no-rio-de-janeiro/"
-        }
-      ],
-      "updatedAt": "2026-08-25T11:51:21.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/12/toms0755.jpg"
-    },
-    {
-      "clusterId": "ab100731a2be79de",
-      "slug": "561cb63cc1364c49",
-      "titulo": "Trump anuncia tarifas de 50% sobre carros e aço canadenses em 2027",
-      "resumo": "O presidente dos Estados Unidos, Donald Trump, anunciou que, a partir de 1º de janeiro de 2027, serão aplicadas tarifas de 50% sobre carros, caminhões, autopeças e aço importados do Canadá. A medida segue o fim das negociações comerciais entre os dois países, que não conseguiram chegar a um acordo. A decisão foi divulgada na rede social Truth Social e confirmada por veículos de imprensa.",
-      "porQueImporta": "A imposição de tarifas pode intensificar a guerra comercial entre os EUA e o Canadá, afetando setores automotivo e de aço.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/canada-anuncia-tarifas-de-retaliacao-contra-os-eua-nesta-terca-feira-25/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/08/24/trump-anuncia-tarifas-de-50percent-sobre-produtos-do-canada-em-2027.ghtml"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cre4e1w2g2eo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-08-25T11:43:11.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/X72WefJbgann4OXmfDC8AIi-lh0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/M/zbBToBSiGLtGYAZVxN4w/2026-08-06t210339z-84293382-rc28tmadya0m-rtrmadp-3-usa-trump.jpg"
-    },
-    {
-      "clusterId": "f33d5951cfd18e1f",
-      "slug": "9c163e04d0d830d0",
-      "titulo": "Pesquisa Quaest mostra Manuela, Pimenta, Van Hattem, Sanderson e Rigotto empatados no Senado do RS",
-      "resumo": "A pesquisa espontânea da Quaest, encomendada pelo Grupo RBS, indica que Manuela d'Ávila (PSOL) lidera a corrida pelo Senado no Rio Grande do Sul com 12% dos votos. Paulo Pimenta (PT) e Marcel van Hattem (Novo) aparecem com 9% cada, enquanto Ubiratan Sanderson (PL) e Germano Rigotto (MDB) registram 8% cada. A pesquisa destaca que 83% dos entrevistados já têm intenção de voto e que cada eleitor deve escolher dois candidatos diferentes.",
-      "porQueImporta": "Os resultados antecipam a disputa pelo Senado, influenciando estratégias de campanha e expectativas eleitorais.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/pesquisa-mostra-disputa-apertada-entre-5-candidatos-pelo-senado-no-rio-grande-do-sul/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/real-time-rs-van-hattem-manuela-e-sanderson-empatam-na-corrida-ao-senado/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/24/quaest-rs-senado-24-agosto.ghtml"
-        }
-      ],
-      "updatedAt": "2026-08-25T10:23:24.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/CAPA-para-materia-1064-×-614-px-1200-x-630-px.png"
-    },
-    {
-      "clusterId": "291b3ff16897fd23",
+      "clusterId": "57351d741a6a6a83",
       "slug": "7a0f3981992e2cf6",
       "titulo": "Influenciador Lito Sousa busca tratamento experimental para doença de Creutzfeldt‑Jakob",
       "resumo": "O especialista em aviação e criador de conteúdo Lito Sousa foi diagnosticado com a doença neurodegenerativa rara Creutzfeldt‑Jakob, gerando repercussão nas redes sociais. Ele solicitou participação em estudos experimentais de Harvard e de um consórcio europeu, porém ambos não aceitam novos participantes. Atualmente não há terapia que detenha ou reverta a doença; o cuidado se concentra no suporte e controle dos sintomas.",
@@ -243,26 +95,246 @@
       "category": "mundo",
       "sources": [
         {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/08/25/medicina-e-saude/creutzfeldt-jakob-a-doenca-rara-diagnosticada-no-influenciador-lito-sousa-e-os-tratamentos-possiveis/"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/brasil/piloto-escreve-nome-de-lito-sousa-no-ceu-em-homenagem-a-influenciador-veja/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/saude/noticia/2026/08/25/lito-recusado-em-estudos-por-que-e-tao-dificil-entrar-em-tratamentos-experimentais.ghtml"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/agencia/entenda-doenca-de-creutzfeldt-jakob-e-busca-por-tratamento/"
         },
         {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/cwyzxnvy03qo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-08-25T15:28:44.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/1acmU1tOauQ6rwPetsAGdYgQ1DU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/z/vqhuHDT6mQADKwHC080Q/copia-de-sem-nome-1200-x-900-px-1-.png"
+    },
+    {
+      "clusterId": "cf2dca0f898c2138",
+      "slug": "632fbb3bc7b00ff0",
+      "titulo": "Denúncias de propaganda irregular e tempestades no Centro-Oeste",
+      "resumo": "A capital do Brasil registrou mais denúncias de propaganda eleitoral irregular na plataforma Pardal do que todos os demais estados do Centro-Oeste combinados, segundo dados do Metrópoles. Enquanto isso, a região enfrenta chuvas fortes e trovoadas, com possibilidade de tempestades e granizo, conforme alerta da CartaCapital.",
+      "porQueImporta": "O aumento das denúncias pode indicar práticas eleitorais questionáveis, e as condições climáticas podem afetar a segurança e a infraestrutura local.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/df-lidera-denuncias-de-propaganda-eleitoral-irregular-no-centro-oeste"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/clima/chuvas-e-trovoadas-atingem-centro-oeste-sudeste-e-sul-do-pais/"
+        }
+      ],
+      "updatedAt": "2026-08-25T16:35:49.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/04/captura-de-tela-2026-04-01-221515.jpg"
+    },
+    {
+      "clusterId": "7ad56b5ef6e587f3",
+      "slug": "34df4efe055e2344",
+      "titulo": "Polícia encontra casa com jacuzzi e academia durante operação no Complexo de Israel",
+      "resumo": "Agentes da 16ª DP (Barra da Tijuca) que atuam na ocupação conjunta do Complexo de Israel, na Zona Norte do Rio, encontraram uma das casas do traficante Álvaro Malaquias Santa Rosa, o Peixão, chefão do Terceiro Comando Puro, nesta terça-feira (25). Tanto a Polícia Civil quanto a Militar atuam no conjunto de comunidades nesta terça. A ação é resultado de investigações da 38ª DP (Brás de Pina) e tem como objetivo cumprir dezenas de mandados de prisão contra alvos envolvidos em diferentes crimes. Polícia encontra casa com jacuzzi e academia durante operação no Complexo de Israel Reprodução Em uma…",
+      "porQueImporta": "",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/25/policia-casa-complexo-israel.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/o-que-e-o-complexo-de-israel-base-de-guerra-do-tcp-no-rio/"
+        }
+      ],
+      "updatedAt": "2026-08-25T16:35:21.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/vp2Ns9irV7ZcgRtsKuub8EYbRmI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/y/0bcVMpSP2yfNpC9nXokw/imagem-cortada-27-.jpg"
+    },
+    {
+      "clusterId": "7d7003e0dc1fcdcf",
+      "slug": "2e8753f7ed7d3c4b",
+      "titulo": "Canadá anuncia retaliação de tarifas contra EUA",
+      "resumo": "O governo canadense anunciou que aplicará tarifas de até US$ 20 bilhões sobre produtos norte‑americanos, em resposta a medidas protecionistas dos EUA. As tarifas serão efetivadas a partir de 8 de setembro e incluem diversos setores da economia canadense. O Canadá, que exporta cerca de 70% de seus bens para os EUA, mantém a posição de não ceder às pressões americanas.",
+      "porQueImporta": "A medida pode intensificar a disputa comercial entre os dois maiores parceiros econômicos do mundo.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cm2rn05vxr2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/mundo/canada-anuncia-retaliacao-aos-eua-com-tarifas-de-ate-50/"
+        }
+      ],
+      "updatedAt": "2026-08-25T16:29:18.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b4c/live/df25db30-a01a-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "clusterId": "44f7279149c26188",
+      "slug": "31aa327b3293f068",
+      "titulo": "Lula busca acordo com Alcolumbre e Motta para destravar pautas do governo",
+      "resumo": "O presidente Lula se reuniu com os presidentes do Senado e da Câmara para negociar a aprovação de projetos, incluindo o fim da taxa das blusinhas e a suspensão da 6x1. A reunião ocorreu em 26 de agosto, antes da pausa de campanha prevista entre 31 de agosto e 4 de setembro. O ministro Boulos afirmou que a medida provisória sobre a taxa das blusinhas será aprovada dentro do prazo e não precisará caducar.",
+      "porQueImporta": "Decisões sobre a taxa das blusinhas e a 6x1 podem influenciar a política econômica e a campanha eleitoral.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-congresso/boulos-quer-acordo-com-alcolumbre-e-motta-pelo-fim-da-taxa-das-blusinhas/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/08/24/piloto-brasileiro-desenha-lito-no-ceu-dos-eua-em-homenagem-a-influenciador.ghtml"
+          "url": "https://g1.globo.com/politica/noticia/2026/08/25/taxa-das-blusinhas-fim-da-6x1-terras-raras-lula-tenta-destravar-pautas-do-governo-em-reuniao-com-alcolumbre-e-motta.ghtml"
         }
       ],
-      "updatedAt": "2026-08-25T10:20:49.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/63c0/live/298d88c0-a008-11f1-a291-b542ee92de7c.png"
+      "updatedAt": "2026-08-25T16:24:33.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/0pjXaEb17cRApDvqAKUxKL_2T4o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/V/0BZNsxTZmdvBYigNNrXQ/age20250521029.jpg"
+    },
+    {
+      "clusterId": "da190f0aa14429b6",
+      "slug": "b02a6825efc0054d",
+      "titulo": "Lula defende PEC que encerra jornada 6x1 enquanto PL tenta impedir votação",
+      "resumo": "Em vídeo divulgado em 25/8, Lula apoia a PEC que elimina a jornada de trabalho 6x1. A campanha de Flávio Bolsonaro planeja bloquear a votação da mesma PEC e da PEC de Segurança Pública, mas admite que podem ser aprovadas no plenário. Os aliados do candidato do PL acreditam que senadores da oposição teriam dificuldade de votar contra as propostas durante o período eleitoral.",
+      "porQueImporta": "A aprovação ou bloqueio dessas PECs pode alterar significativamente a legislação trabalhista e de segurança pública no Brasil.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/em-campanha-lula-pede-pelo-2o-dia-seguido-avanco-do-fim-da-escala-6x1"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/08/25/pl-tenta-barrar-votacao-mas-admite-derrota-se-pec-do-fim-da-escala-6x1-chegar-ao-plenario.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-25T16:17:07.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/lula-63.jpg"
+    },
+    {
+      "clusterId": "a1679972b37cb707",
+      "slug": "3511469738d57ff6",
+      "titulo": "Trump sugere trocar nome do Lago Ontário para 'Lago América' em meio a disputa com Canadá",
+      "resumo": "Presidente dos EUA, Donald Trump, durante discurso em 14 de agosto de 2026 Ken Cedeno/Reuters O presidente dos Estados Unidos, Donald Trump, ameaçou nesta terça-feira (25) mudar o nome do Lago Ontário para \"Lago América\" em uma nova investida contra o Canadá, após anunciar, ainda nesta semana, um aumento nas tarifas de alguns produtos canadenses. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia “Os Estados Unidos estão considerando seriamente mudar o nome do Lago Ontário para Lago América, já que não esperamos continuar fazendo muitos negócios com Ontário\", afirmou Trump na…",
+      "porQueImporta": "",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/trump-ameaca-mudar-nome-de-lago-na-fronteira-com-o-canada-america"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/08/25/trump-sugere-trocar-nome-do-lago-ontario-para-lago-america-em-meio-a-disputa-com-canada.ghtml"
+        }
+      ],
+      "updatedAt": "2026-08-25T16:07:26.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/greatlake-guide.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "84402960cf96533a",
+        "clusterId": "aa02e992a7495834",
+        "slug": "fc10740c822acc13",
+        "titulo": "Flávio Bolsonaro inicia campanha em Alagoas sem JHC e Arthur Lira",
+        "resumo": "O senador Flávio Bolsonaro chegou a Maceió para começar a campanha presidencial em Alagoas, acompanhado pelo vice Alfredo Gaspar. O encontro contou com apoio de simpatizantes, mas não incluiu os candidatos JHC e Arthur Lira, que permanecem em outras cidades. A visita marca o primeiro estado nordestino visitado pela chapa do PL, com intenção de votos em torno de 29% segundo pesquisa Quaest.",
+        "porQueImporta": "A presença de Flávio em Alagoas demonstra a estratégia do PL de fortalecer apoio no Nordeste antes das eleições de 2026.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/brasil/flavio-declara-apoio-em-alagoas-a-jhc-que-nao-deve-encontra-lo/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/al/alagoas/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-confira-as-propostas-de-jhc-ao-governo-de-alagoas.ghtml"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-bolsonaro-e-recebido-por-apoiadores-em-alagoas-e-faz-carreata/"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/flavio-busca-votos-no-nordeste-mas-inicia-giro-em-alagoas-sem-lira-e-jhc-em-ato/"
+          }
+        ],
+        "updatedAt": "2026-08-25T16:17:10.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/IMG_4557.jpeg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "2ed002ceac58f2fb",
+        "slug": "ec91c93f7828b9fa",
+        "titulo": "Discord recorre de suspensão de lives pela ANPD",
+        "resumo": "A plataforma Discord apresentou recurso contra a suspensão de transmissões ao vivo e compartilhamento de tela determinada pela Autoridade Nacional de Proteção de Dados (ANPD). A empresa alega que a medida é desproporcional, que a agência não tem competência para aplicar a restrição e que há vícios formais no processo. O recurso busca efeito suspensivo imediato para reativar as lives.",
+        "porQueImporta": "A decisão pode afetar a disponibilidade de serviços de comunicação em tempo real para usuários e empresas que dependem do Discord.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/brasil/anpd-multa-tiktok-em-r-1537-mi-por-falhas-no-tratamento-de-dados-de-menores/"
+          },
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/sociedade/entenda-por-que-o-tiktok-foi-multado-em-r-1537-milhoes-pela-anpd/"
+          },
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/mercado/tiktok-leva-multa-milionaria-da-anpd-e-tera-que-reforcar-a-seguranca-de-jovens/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/tecnologia/noticia/2026/08/25/por-que-a-anpd-multou-o-tiktok-e-suspendeu-lives-do-discord-entenda-a-diferenca-entre-os-casos.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-25T15:48:33.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/445381923.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "cf2dca0f898c2138",
+        "slug": "632fbb3bc7b00ff0",
+        "titulo": "Denúncias de propaganda irregular e tempestades no Centro-Oeste",
+        "resumo": "A capital do Brasil registrou mais denúncias de propaganda eleitoral irregular na plataforma Pardal do que todos os demais estados do Centro-Oeste combinados, segundo dados do Metrópoles. Enquanto isso, a região enfrenta chuvas fortes e trovoadas, com possibilidade de tempestades e granizo, conforme alerta da CartaCapital.",
+        "porQueImporta": "O aumento das denúncias pode indicar práticas eleitorais questionáveis, e as condições climáticas podem afetar a segurança e a infraestrutura local.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/distrito-federal/df-lidera-denuncias-de-propaganda-eleitoral-irregular-no-centro-oeste"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/clima/chuvas-e-trovoadas-atingem-centro-oeste-sudeste-e-sul-do-pais/"
+          }
+        ],
+        "updatedAt": "2026-08-25T16:35:49.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/04/captura-de-tela-2026-04-01-221515.jpg"
+      },
+      {
+        "clusterId": "44f7279149c26188",
+        "slug": "31aa327b3293f068",
+        "titulo": "Lula busca acordo com Alcolumbre e Motta para destravar pautas do governo",
+        "resumo": "O presidente Lula se reuniu com os presidentes do Senado e da Câmara para negociar a aprovação de projetos, incluindo o fim da taxa das blusinhas e a suspensão da 6x1. A reunião ocorreu em 26 de agosto, antes da pausa de campanha prevista entre 31 de agosto e 4 de setembro. O ministro Boulos afirmou que a medida provisória sobre a taxa das blusinhas será aprovada dentro do prazo e não precisará caducar.",
+        "porQueImporta": "Decisões sobre a taxa das blusinhas e a 6x1 podem influenciar a política econômica e a campanha eleitoral.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-congresso/boulos-quer-acordo-com-alcolumbre-e-motta-pelo-fim-da-taxa-das-blusinhas/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/08/25/taxa-das-blusinhas-fim-da-6x1-terras-raras-lula-tenta-destravar-pautas-do-governo-em-reuniao-com-alcolumbre-e-motta.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-25T16:24:33.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/0pjXaEb17cRApDvqAKUxKL_2T4o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/V/0BZNsxTZmdvBYigNNrXQ/age20250521029.jpg"
+      },
+      {
+        "clusterId": "41d1d367f1d2d88f",
         "slug": "2857e06bb2eb2ca0",
         "titulo": "Polícia Federal recebe dados da Polícia Civil sobre produção de filme Dark Horse",
         "resumo": "A Polícia Federal terá acesso a informações coletadas pela Polícia Civil de São Paulo durante busca e apreensão no Instituto Conhecer Brasil, ligado à produtora do filme Dark Horse. O material será analisado no inquérito do STF que investiga a possível utilização de emendas parlamentares para financiar a obra. A Ancine já concedeu o Registro de Obra Estrangeira ao filme, que ainda precisa da classificação indicativa do Ministério da Justiça. Flávio Bolsonaro afirmou que a relação com a obra é privada e que não tem responsabilidade direta.",
@@ -270,99 +342,19 @@
         "category": "politica",
         "sources": [
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/quaest-como-esta-a-disputa-entre-lula-e-flavio-bolsonaro-em-al-ma-pr-rn-rs-e-sc/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/entretenimento/dark-horse-o-que-falta-para-o-filme-ser-exibido-nos-cinemas-do-brasil"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/08/25/voces-vao-parar-no-tempo-nao-sou-eu-que-tenho-que-prestar-conta-e-o-lula-diz-flavio-bolsonaro-sobre-contas-do-filme-dark-horse.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/o-grande-debate-como-lulinha-e-dark-horse-afetam-a-eleicao/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/flavio-bolsonaro-volta-a-fugir-de-perguntas-sobre-vorcaro-e-tenta-culpar-imprensa/"
           }
         ],
-        "updatedAt": "2026-08-25T12:10:59.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/02/lulaflavio.png?fit=300%2C150&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-25T16:00:11.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/05/dark-horse-jair-bolsonaro-6.jpg"
       },
       {
-        "clusterId": "6e6c1ec0a986cede",
-        "slug": "7a7779f1e6d08cb4",
-        "titulo": "Paes lidera disputa pelo governo do RJ e Benedita e Crivella lideram Senado",
-        "resumo": "Pesquisa do Paraná Pesquisas, realizada entre 22 e 24 de agosto, mostra que o ex-prefeito Paulo Paes abre cerca de 29 a 30 pontos sobre o candidato Ruas no primeiro turno da eleição presidencial do Rio de Janeiro. No mesmo levantamento, Benedita da Silva e Crivella são os favoritos para o Senado, com Pedro Paulo como principal concorrente. A margem de erro da pesquisa é de 2,5 pontos percentuais.",
-        "porQueImporta": "Os resultados indicam a forte posição de Paes e dos candidatos ao Senado, influenciando estratégias eleitorais no estado.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/parana-pesquisas-benedita-e-crivella-lideram-disputa-ao-senado-pelo-rj-2/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/paes-lidera-e-pode-ser-eleito-em-1o-turno-no-rj-mostra-pesquisa/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/eleicoes/parana-pesquisa-paes-abre-29-pontos-sobre-ruas-no-1o-turno-no-rio-de-janeiro/"
-          }
-        ],
-        "updatedAt": "2026-08-25T11:51:21.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/12/toms0755.jpg"
-      },
-      {
-        "clusterId": "f33d5951cfd18e1f",
-        "slug": "9c163e04d0d830d0",
-        "titulo": "Pesquisa Quaest mostra Manuela, Pimenta, Van Hattem, Sanderson e Rigotto empatados no Senado do RS",
-        "resumo": "A pesquisa espontânea da Quaest, encomendada pelo Grupo RBS, indica que Manuela d'Ávila (PSOL) lidera a corrida pelo Senado no Rio Grande do Sul com 12% dos votos. Paulo Pimenta (PT) e Marcel van Hattem (Novo) aparecem com 9% cada, enquanto Ubiratan Sanderson (PL) e Germano Rigotto (MDB) registram 8% cada. A pesquisa destaca que 83% dos entrevistados já têm intenção de voto e que cada eleitor deve escolher dois candidatos diferentes.",
-        "porQueImporta": "Os resultados antecipam a disputa pelo Senado, influenciando estratégias de campanha e expectativas eleitorais.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/pesquisa-mostra-disputa-apertada-entre-5-candidatos-pelo-senado-no-rio-grande-do-sul/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/real-time-rs-van-hattem-manuela-e-sanderson-empatam-na-corrida-ao-senado/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/24/quaest-rs-senado-24-agosto.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-25T10:23:24.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/06/CAPA-para-materia-1064-×-614-px-1200-x-630-px.png"
-      },
-      {
-        "clusterId": "eb83b4cd4db5fbad",
-        "slug": "45d42e40d07b5b80",
-        "titulo": "Pesquisa Quaest mostra Luciano Zucco e Juliana Brizola empatados no Rio Grande do Sul",
-        "resumo": "A pesquisa estimulada da Quaest, realizada entre 20 e 23 de agosto, indica que Luciano Zucco (PL) tem 26% e Juliana Brizola (PDT) 23% de intenção de voto, estando tecnicamente empatados dentro da margem de erro de 3 pontos percentuais. Outros candidatos, como Gabriel Souza (MDB), aparecem com 9% de intenção. O levantamento foi encomendado pelo Grupo RBS e contou com 900 entrevistados gaúchos.",
-        "porQueImporta": "Os resultados refletem a forte competição entre os candidatos ao governo do estado, influenciando estratégias eleitorais e expectativas de voto.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/real-time-rs-juliana-lidera-1o-turno-e-empata-com-zucco-no-2o-ao-governo/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/juliana-brizola-lidera-disputa-com-zucco-pelo-governo-do-rs-aponta-real-time-big-data/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/08/24/quaest-rs-governador-24-agosto.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-25T10:03:44.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/08/brizola_zucco_rs.jpg"
-      },
-      {
-        "clusterId": "cb7bf5f947d084d3",
+        "clusterId": "766cd4bc8f5d3045",
         "slug": "e17f5022f4ccc087",
         "titulo": "Sergio Moro lidera pesquisa de apoio ao governo do Paraná",
         "resumo": "A pesquisa da Quaest, realizada entre 20 e 23 de agosto, indica que Sergio Moro (PL) tem 37% dos votos, 16 pontos à frente de Requião Filho (PDT) com 21%. Sandro Alex (PSD) aparece em 15% e outros candidatos têm participação mínima. A margem de erro é de 3 pontos percentuais.",
@@ -370,181 +362,129 @@
         "category": "politica",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/25/quaest-veja-os-numeros-da-eleicao-para-presidente-nos-estados.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-flavio-tem-34-no-1o-turno-no-rs-lula-28/"
           },
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/como-esta-a-disputa-pela-presidencia-em-6-estados-segundo-a-quaest/"
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/25/quaest-veja-os-numeros-da-eleicao-para-presidente-nos-estados.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T12:07:22.000Z",
+        "updatedAt": "2026-08-25T15:50:38.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/lvICkeMV06gfH73Bw4RFzE2PVnw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/I/JAke60StyIAJZBI3QBsw/presidente.png"
       },
       {
-        "clusterId": "b77d400dad8cd511",
-        "slug": "665a49b42dd23c65",
-        "titulo": "Primeiro debate presidencial reúne Ronaldo Caiado, Renan Santos e Augusto Cury",
-        "resumo": "O primeiro debate da corrida presidencial de 2026, realizado pela Band em parceria com o Estadão, contou apenas com a participação de Ronaldo Caiado (PSD), Renan Santos (Missão) e Augusto Cury (Avante), enquanto Flávio Bolsonaro, Lula e Romeu Zema ficaram ausentes. A noite também marcou o início da série de entrevistas da Globo, que exibirá os candidatos ao vivo a partir de 24 de agosto. Pesquisas da Quaest mostram que Flávio Bolsonaro e Lula lideram as intenções de voto em Santa Catarina e Paraná, com os demais candidatos obtendo percentuais baixos.",
-        "porQueImporta": "O debate e as entrevistas refletem a dinâmica inicial da campanha e a posição dos candidatos nas pesquisas eleitorais.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c1wx7x7vv4lo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/25/ronaldo-caiado-entrevista-globo-como-assistir.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-25T11:30:39.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/40fa/live/3ff14e80-a076-11f1-aed2-8d6da8d75094.jpg"
-      },
-      {
-        "clusterId": "00960d9afde58657",
-        "slug": "19708d4641041116",
-        "titulo": "Governo aprova aplicação de R$ 13,5 bilhões em linhas de financiamento para empresas afetadas por tarifaço e conflitos",
-        "resumo": "O Conselho Interministerial do Plano Brasil Soberano aprovou, por meio de resolução publicada no DOU, a aplicação de R$ 13,5 bilhões em linhas de financiamento. O montante será destinado a empresas que sofreram com o tarifaço dos Estados Unidos e com conflitos internacionais. A maior parte, R$ 5 bilhões, será direcionada a exportadores e cadeias de fornecimento.",
-        "porQueImporta": "A medida visa mitigar impactos econômicos sobre setores exportadores e cadeias de produção brasileiras.",
+        "clusterId": "ad30985121e44568",
+        "slug": "8c5dabb630134684",
+        "titulo": "Pesquisa Quaest mostra Eduardo Braide com 44% e Orleans Brandão com 25% no 1º turno para o governo do Maranhão",
+        "resumo": "A pesquisa estimulada da Quaest, encomendada pela TV Mirante, indica que Eduardo Braide (PSD) lidera a disputa pelo governo do Maranhão com 44% dos votos expressos. Orleans Brandão (MDB) ocupa a segunda posição com 25%. Os demais candidatos não tiveram percentuais relevantes na amostra. A pesquisa reflete a preferência atual dos eleitores para o primeiro turno das eleições estaduais.",
+        "porQueImporta": "Os resultados revelam a vantagem clara de Braide na corrida, influenciando estratégias de campanha e expectativas eleitorais.",
         "category": "politica",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/agro/governo-regulamenta-r-135-bilhoes-em-credito-para-afetados-pelo-tarifaco/"
+            "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-braide-tem-44-e-brandao-25-no-1o-turno-para-o-governo-no-ma/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/08/24/brasil-soberano-executivo-define-plano-para-aplicar-r-135-bilhoes-em-linhas-de-credito-para-empresas-afetadas-pelo-tarifaco.ghtml"
+            "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/08/24/quaest-no-ma-eduardo-braide-44percent-orleans-brandao-25percent.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T09:22:27.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/alIJprej7Jw3EldDag_APxuhCx4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/D/XHnNZUSAqnBMAsJRF6fA/exporta.jpg"
+        "updatedAt": "2026-08-25T15:21:33.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/d3PeLYSoFiGHfHCNbBls-AFHW-k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/8/YdN2gqTQOyvLjrGYkS8Q/pesquisaaaaa.jpg"
       },
       {
-        "clusterId": "998b7f7741e125fe",
-        "slug": "565ded2e3c7a589d",
-        "titulo": "Candidatos a governadores de MT e Maranhão apresentam agendas e propostas de campanha",
-        "resumo": "Os candidatos ao governo de Mato Grosso apresentaram propostas para combater a violência contra a mulher, destacando que o estado registrou a terceira maior taxa de feminicídios no Brasil em 2025. Enquanto isso, no Maranhão, oito candidatos iniciaram suas agendas de campanha, com foco em agricultura, agricultura familiar e agronegócio, e participaram de reuniões e entrevistas em diferentes regiões do estado.",
-        "porQueImporta": "Essas ações refletem as prioridades dos candidatos em enfrentar problemas sociais críticos e impulsionar o desenvolvimento econômico regional.",
+        "clusterId": "de2189f87a9b023a",
+        "slug": "c152d6e7abf8cb70",
+        "titulo": "Pesquisa Quaest revela intenções de voto para o Senado em 6 estados",
+        "resumo": "A pesquisa espontânea da Quaest, divulgada em 24 de fevereiro, mostra as intenções de voto para o Senado em seis estados, incluindo o Rio Grande do Sul e o Paraná. No RS, Manuela d'Ávila (PSOL) lidera com 12%, seguida por Paulo Pimenta (PT) e Marcel van Hattem (Novo) com 9% cada. No Paraná, Alexandre Curi (15%) e Gleisi Hoffmann (11%) estão à frente de Filipe Barros e Deltan Dallagnol, ambos com 9%. A pesquisa indica que os eleitores precisam escolher dois candidatos diferentes, já que não podem votar no mesmo nome duas vezes.",
+        "porQueImporta": "Os resultados antecipam a dinâmica das eleições de 2026, influenciando estratégias partidárias e a expectativa de renovação na Casa Alta.",
         "category": "politica",
         "sources": [
           {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-disputa-ao-senado-no-rs-tem-empate-tecnico-entre-cinco-candidatos/"
+          },
+          {
             "name": "G1",
-            "url": "https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/08/25/eleicoes-2026-veja-propostas-dos-candidatos-ao-governo-de-mt-para-combater-a-violencia-contra-a-mulher.ghtml"
+            "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/08/24/quaest-ma-senado-24-agosto.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T12:40:52.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/5R1-IPelZJ04egZCiVVXnKy0th8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/f/DRWn7oTVG80zAz9KtimQ/videos-g1-5-.png"
+        "updatedAt": "2026-08-25T14:44:26.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/Rw0qK2AxW6eRnEJr435foY8-So8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/5/YMqdzTRwi4O7XD5ULA2w/whatsapp-image-2026-08-24-at-19.45.30.jpeg"
       }
     ],
     "economia": [
       {
-        "clusterId": "d029149472819673",
-        "slug": "d90905af6c8d9f84",
-        "titulo": "ANPD multou TikTok em R$ 153,7 milhões por falhas no tratamento de dados de menores",
-        "resumo": "A Agência Nacional de Proteção de Dados (ANPD) aplicou multa de R$ 153,7 milhões à ByteDance, dona do TikTok, por irregularidades no tratamento de dados pessoais de crianças e adolescentes. A decisão, publicada no Diário Oficial da União, exige a eliminação dos dados coletados sem autorização e a apresentação de um plano de conformidade. A medida faz parte de um esforço maior da ANPD para proteger menores em plataformas digitais.",
-        "porQueImporta": "A multa reforça a aplicação da LGPD e destaca a importância da proteção de dados de menores em redes sociais.",
+        "clusterId": "d1f383f6067be801",
+        "slug": "45d79f83b848d726",
+        "titulo": "Canadá impõe tarifas retaliatórias de até 50% sobre US$20 bilhões em produtos americanos",
+        "resumo": "O governo canadense anunciou tarifas de 15%, 25% e 50% sobre cerca de 700 produtos importados dos Estados Unidos, totalizando US$20 bilhões. As medidas entram em vigor em 8 de setembro, como resposta às tarifas de 50% impostas pelo presidente Trump sobre produtos canadenses. O valor equivalente em reais é de aproximadamente R$102,8 bilhões. A decisão faz parte de uma disputa comercial entre os dois países.",
+        "porQueImporta": "Impacta diretamente o comércio bilateral e pode influenciar preços e cadeias de suprimentos na região.",
         "category": "economia",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/noticia/2026/08/25/por-que-a-anpd-multou-o-tiktok-e-suspendeu-lives-do-discord-entenda-a-diferenca-entre-os-casos.ghtml"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/canada-retalia-trump-e-anuncia-tarifas-de-50-contra-produtos-dos-eua"
           },
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/brasil/tiktok-e-multado-em-r-153-milhoes-no-brasil-por-violar-protecao-de-adolescentes/"
-          },
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/25/internet-e-redes-sociais/tiktok-e-multado-em-r-1537-milhoes-por-falhas-na-protecao-de-dados-de-menores/"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/canada-anuncia-tarifas-retaliatorias-sobre-produtos-dos-eua-no-valor-de-us20-bilhoes/"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/anpd-multa-tiktok-por-falha-na-protecao-de-dados-de-criancas-e-adolescentes/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/tecnologia/por-que-o-tiktok-foi-multado-em-r-1537-milhoes-no-brasil/"
-          }
-        ],
-        "updatedAt": "2026-08-25T12:29:25.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/t_3IaBkiODgLMHp0pT-NpRT4sRM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/L/SkFp6NRWAkA3l4RI8PSg/fotojet-13-.jpg"
-      },
-      {
-        "clusterId": "c8f51f10245a47c2",
-        "slug": "a8fefc8b414d5ebd",
-        "titulo": "Dólar abre em alta impulsionado por cenário político brasileiro e tensões no Oriente Médio",
-        "resumo": "O dólar abriu a sessão em alta, cotado a R$ 5,1468, com um ganho de 0,06% perto das 9h. A volatilidade foi alimentada pela disputa eleitoral acirrada no Brasil, após o primeiro debate presidencial sem a presença de Lula e Bolsonaro, e pelas tensões no Oriente Médio. Investidores mantêm o cenário político em foco enquanto o Ibovespa inicia negociações às 10h.",
-        "porQueImporta": "A valorização do dólar afeta o custo de importação e a competitividade das exportações brasileiras.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/economia/braskem-deixa-o-ibovespa-a-partir-de-hoje-apos-recuperacao-extrajudicial/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/invest/mercados/acao-da-braskem-deixa-o-ibovespa-a-partir-de-hoje-entenda/"
+            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/canada-anuncia-tarifas-retaliatorias-de-us-20-bi-em-produtos-americanos/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/08/24/dolar-ibovespa.ghtml"
+            "url": "https://g1.globo.com/economia/noticia/2026/08/25/canada-tarifas-eua.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T12:36:17.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2016/11/braskem-industria-petroquimica-20130119-0059-size-598-300x168.jpg?quality=70&strip=info"
+        "updatedAt": "2026-08-25T16:01:51.000Z",
+        "imageUrl": "https://images.metroimg.com/2025/08/25200641/canada-bandeira.jpg"
       },
       {
-        "clusterId": "ab100731a2be79de",
-        "slug": "561cb63cc1364c49",
-        "titulo": "Trump anuncia tarifas de 50% sobre carros e aço canadenses em 2027",
-        "resumo": "O presidente dos Estados Unidos, Donald Trump, anunciou que, a partir de 1º de janeiro de 2027, serão aplicadas tarifas de 50% sobre carros, caminhões, autopeças e aço importados do Canadá. A medida segue o fim das negociações comerciais entre os dois países, que não conseguiram chegar a um acordo. A decisão foi divulgada na rede social Truth Social e confirmada por veículos de imprensa.",
-        "porQueImporta": "A imposição de tarifas pode intensificar a guerra comercial entre os EUA e o Canadá, afetando setores automotivo e de aço.",
+        "clusterId": "e02094b1e630c583",
+        "slug": "4db8a4e506893db0",
+        "titulo": "Google lança Gemini Enterprise para escritórios de advocacia",
+        "resumo": "O Google lançou o Gemini Enterprise for Legal, uma plataforma de IA voltada para escritórios de advocacia e advogados. A ferramenta auxilia na automação de tarefas rotineiras e na resolução de questões complexas. Ela se integra a sistemas como Thomson Reuters, Harvey e LexisNexis, e já conta com bancos de advocacia parceiros, como Weil Gotshal e Freshfields.",
+        "porQueImporta": "Facilita a adoção de inteligência artificial no setor jurídico, potencializando eficiência e competitividade.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/business/google-expande-plataforma-de-ia-para-escritorios-de-advocacia-e-advogados/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/inteligencia-artificial/google-lanca-gemini-enterprise-para-escritorios-de-advocacia/"
+          }
+        ],
+        "updatedAt": "2026-08-25T15:48:58.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/01/gemini-do-google-bloomberg.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "ec71d16baa823f7a",
+        "slug": "a205d8c9c0f32e13",
+        "titulo": "Aluguel alto em NY e aumento do segundo aluguel no Brasil",
+        "resumo": "Em Nova‑Iorque, o aluguel médio chegou a US$ 4.200 em julho de 2026, levando jovens a buscar alternativas como morar com idosos para reduzir custos. No Brasil, o custo do condomínio, que pode representar até 40% do valor do aluguel, subiu acima da inflação, com média de R$ 516 por mês. O aumento do segundo aluguel afeta especialmente famílias que já enfrentam despesas com serviços e segurança em condomínios. Ambas as situações refletem a pressão crescente sobre os custos de moradia em grandes centros urbanos.",
+        "porQueImporta": "Ilustra como o custo de habitação está pressionando diferentes segmentos da população em cidades globais.",
         "category": "economia",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/canada-anuncia-tarifas-de-retaliacao-contra-os-eua-nesta-terca-feira-25/"
+            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/do-convento-a-morar-com-idosos-como-jovens-estao-pagando-aluguel-em-ny/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/08/24/trump-anuncia-tarifas-de-50percent-sobre-produtos-do-canada-em-2027.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cre4e1w2g2eo?at_medium=RSS&at_campaign=rss"
+            "url": "https://g1.globo.com/economia/noticia/2026/08/24/o-segundo-aluguel-esta-mais-caro-condominio-sobe-acima-da-inflacao-e-pesa-ate-40percent-do-aluguel.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T11:43:11.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/X72WefJbgann4OXmfDC8AIi-lh0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/M/zbBToBSiGLtGYAZVxN4w/2026-08-06t210339z-84293382-rc28tmadya0m-rtrmadp-3-usa-trump.jpg"
+        "updatedAt": "2026-08-25T15:39:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/0M43FoLWCACHXhSJelbG6W_6ASc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/x/wsNHFQTpar4z4zjp1dLQ/78446086-1004.webp"
       },
       {
-        "clusterId": "7cba0ed034fb108a",
-        "slug": "bae60bc547aaafb2",
-        "titulo": "Governo estima salário mínimo de R$ 1.741 em 2027",
-        "resumo": "O governo federal projeta que o salário mínimo será de R$ 1.741 em 2027, um aumento de R$ 120 (7,4%) sobre o valor atual de R$ 1.621. A estimativa será incluída no Projeto de Lei Orçamentária Anual (PLOA) e enviada ao Congresso até 31 de agosto. O valor pode mudar até dezembro de 2026, quando será divulgado o INPC de novembro.",
-        "porQueImporta": "Define o nível de remuneração mínima para trabalhadores e influencia a política econômica e social do país.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/salario-minimo-de-2027-deve-aumentar-entenda-o-calculo-do-governo/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/economia/salario-minimo-devera-subir-para-r-1-741-em-2027-diz-durigan/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/08/24/governo-eleva-estimativa-e-calcula-salario-minimo-de-r-1741-em-2027.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-25T06:30:36.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/55284099217_a2d4c9c28d_k.jpg"
-      },
-      {
-        "clusterId": "cd563e785edebd48",
+        "clusterId": "f0e4af4ba2656892",
         "slug": "081629533ce1c761",
         "titulo": "CNH do Brasil passa a exibir passagens em pedágios eletrônicos",
         "resumo": "O Ministério dos Transportes atualizou o aplicativo CNH do Brasil para permitir que os motoristas consultem passagens registradas em pedágios do sistema free flow, tanto federais quanto estaduais. A funcionalidade também mostra a concessionária responsável e indica o canal de pagamento. Todas as passagens de rodovias estarão listadas no aplicativo.",
@@ -552,105 +492,85 @@
         "category": "economia",
         "sources": [
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-brasil/free-flow-saiba-como-funciona-a-consulta-no-app-cnh-do-brasil/"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/carros/pedagio-sem-cancela-app-cnh-do-brasil-facilita-controle-de-cobrancas-do-free-flow/"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/carros/noticia/2026/08/25/free-flow-veja-o-passo-a-passo-para-consultar-e-pagar-pedagio-eletronico-no-app-cnh-do-brasil.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T12:38:32.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/7KXmXPcj7ROX-dPpbDakbLzoLaQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/d/GANMKpRdCzsxHCMwZvWQ/cnh-do-brasil.jpg"
+        "updatedAt": "2026-08-25T14:00:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/ap0FJLn-wthcRNMPw_E0yLIl28w=/0x0/filters:format(webp):quality(85)/388349a2-d993-407a-b510-b5a88863e55c.png"
       },
       {
-        "clusterId": "5dccc3eae6ea4ae5",
-        "slug": "032807a8af0d1e69",
-        "titulo": "Dólar encerra sessão com alta de 0,23%",
-        "resumo": "O dólar à vista fechou a segunda-feira (24) em R$5,1534, registrando alta de 0,23%. A cotação permaneceu estável em relação ao início do dia. O movimento ocorreu enquanto o mercado manteve atenção sobre a guerra no Oriente Médio e sobre o cenário internacional.",
-        "porQueImporta": "A variação do dólar afeta custos de importação e a inflação no Brasil.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-25-agosto-2026/"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-25082026/"
-          }
-        ],
-        "updatedAt": "2026-08-25T12:31:15.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-18-125421.png?fit=300%2C201&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "cd0a4cf370d243ff",
-        "slug": "b3b071f751a3fb3d",
-        "titulo": "Avião militar de transporte dos EUA pousa em Moscou",
-        "resumo": "Um avião de transporte militar dos Estados Unidos, do tipo Boeing Globemaster, pousou em Moscou por volta das 4h, horário de Brasília. O pouso ocorreu em território russo, mas o Kremlin ainda não divulgou informações sobre o voo. A aeronave não estava em missão oficial e não há detalhes sobre seu destino ou propósito. As autoridades russas ainda não confirmaram a chegada do avião.",
-        "porQueImporta": "O incidente destaca a tensão entre os EUA e a Rússia e pode influenciar as relações diplomáticas entre os dois países.",
+        "clusterId": "6496b669af760cf2",
+        "slug": "02ce3ea4b413ae11",
+        "titulo": "Braskem deixa o Ibovespa",
+        "resumo": "A Braskem (BRKM5) será excluída do Ibovespa a partir de hoje, de acordo com a B3. A exclusão ocorrerá com base no preço de fechamento após o encerramento do pregão regular da terça-feira. O índice será ajustado para refletir a composição atual dos ativos mais negociados.",
+        "porQueImporta": "A mudança afeta a composição do índice que influencia fundos e investidores que rastreiam o Ibovespa.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/aviao-de-transporte-militar-dos-eua-pousa-em-moscou-kremlin-ainda-nao-tem-informacao/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/aviao-militar-de-transporte-dos-eua-pousa-em-moscou/"
+            "url": "https://www.infomoney.com.br/mercados/braskem-brkm5-deixa-hoje-o-ibovespa-entenda-criterio-de-indices/"
           }
         ],
-        "updatedAt": "2026-08-25T12:18:39.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2023/10/KC-390_flight.jpg?fit=300%2C188&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-25T16:33:14.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2022/10/unnamed-3.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "6a08acc3360bc00b",
-        "slug": "4864171f8e99dc96",
-        "titulo": "Ternium nega negociações para fechamento de capital da Usiminas",
-        "resumo": "A Ternium afirmou que não há tratativas em curso para adquirir o capital da Usiminas, em resposta a alegações de colunista do O Globo. A empresa negou qualquer intenção de compra ou fusão com a siderúrgica. A declaração foi feita após a divulgação de rumores sobre possível aquisição.",
-        "porQueImporta": "A confirmação da Ternium sobre a ausência de negociações influencia as expectativas do mercado sobre o futuro da Usiminas e suas possíveis reestruturações.",
+        "clusterId": "d8db15ddc9f978bb",
+        "slug": "23f88a2557665ece",
+        "titulo": "Vai alugar sem fiador? Entenda as diferenças entre as garantias disponíveis",
+        "resumo": "Seguro-fiança e título de capitalização são regulados pela Susep; garantias privadas seguem outro modelo e exigem atenção do inquilino The post Vai alugar sem fiador? Entenda as diferenças entre as garantias disponíveis appeared first on InfoMoney.",
+        "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/usiminas-usim5-ternium-nega-tratativas-para-fechamento-de-capital-da-siderurgica/"
+            "url": "https://www.infomoney.com.br/minhas-financas/vai-alugar-sem-fiador-entenda-as-diferencas-entre-as-garantias-disponiveis/"
           }
         ],
-        "updatedAt": "2026-08-25T12:43:20.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/09/2024-09-26T112901Z_1_LYNXMPEK8P0FI_RTROPTP_4_MACRO-CONFIANCA-INDUSTRIA.jpg?fit=300%2C192&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-08-25T16:30:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2022/01/pexels-karolina-grabowska-4506243.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "55d1f21659d97345",
+        "slug": "2324f1d3e1685c35",
+        "titulo": "Governo vai emitir decreto que elimina IPI",
+        "resumo": "O ministro da Fazenda anunciou que o governo emitirá um decreto para eliminar o Imposto sobre Produtos Industrializados (IPI). O objetivo é impedir que a indústria acumule créditos fiscais, como ocorre atualmente. O decreto será publicado em breve e terá impacto direto nas empresas que dependem do IPI.",
+        "porQueImporta": "A mudança pode reduzir custos e simplificar a tributação para a indústria.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/economia/governo-soltara-decreto-zerando-ipi-diz-ministro-da-fazenda/"
+          }
+        ],
+        "updatedAt": "2026-08-25T16:04:36.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/dario-durigan-ministro-fazenda-economia-governo02.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "3b30cc778639a2df",
+        "slug": "c945b17988c85426",
+        "titulo": "Durigan prevê superávit no orçamento do próximo ano",
+        "resumo": "O economista Durigan afirmou que o orçamento do próximo ano deverá registrar superávit. Ele destacou a importância de limitar os gastos obrigatórios para abrir espaço para despesas discricionárias. A expectativa de superávit reflete a intenção de equilibrar as contas públicas. A medida visa garantir maior flexibilidade no planejamento fiscal.",
+        "porQueImporta": "Um superávit pode fortalecer a confiança dos investidores e permitir maior autonomia na gestão de recursos públicos.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/economia/durigan-afirma-que-orcamento-do-ano-que-vem-tera-superavit/"
+          }
+        ],
+        "updatedAt": "2026-08-25T16:01:53.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-durigan-ministro-economia-07.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "4067639df69ed2b1",
-        "slug": "19690331ed8614e0",
-        "titulo": "EUA impõem novas sanções econômicas ao Irã",
-        "resumo": "Os Estados Unidos anunciaram uma série de sanções sem precedentes contra o Irã, visando setores como energia nuclear, mísseis, cibernética e petróleo. O Irã afirmou que não cederá às pressões de Washington e que qualquer apoio internacional às sanções será considerado ato de guerra. O governo iraniano planeja responder com medidas de dois anos para mitigar os impactos. A administração americana também pediu que países que mantêm relações econômicas com Teerã sejam severamente penalizados.",
-        "porQueImporta": "A medida intensifica a tensão entre os dois países e pode afetar a estabilidade econômica e política da região.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/ira-promete-retaliar-apos-eua-ampliarem-sancoes/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/china-diz-que-relacao-com-ira-nao-sera-alvo-de-interferencia-apos-eua-anunciarem-sancoes/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/25/china-defendera-interesses-comercio-ira-interferencias-ameacas-eua.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/china-diz-que-cooperacao-com-ira-nao-deve-ser-interrompida-apos-sancoes/"
-          }
-        ],
-        "updatedAt": "2026-08-25T12:25:27.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-21T155825Z_1_LYNXMPEM2K08L_RTROPTP_4_IRAN-CRISIS-PEZESHKIAN.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "291b3ff16897fd23",
+        "clusterId": "57351d741a6a6a83",
         "slug": "7a0f3981992e2cf6",
         "titulo": "Influenciador Lito Sousa busca tratamento experimental para doença de Creutzfeldt‑Jakob",
         "resumo": "O especialista em aviação e criador de conteúdo Lito Sousa foi diagnosticado com a doença neurodegenerativa rara Creutzfeldt‑Jakob, gerando repercussão nas redes sociais. Ele solicitou participação em estudos experimentais de Harvard e de um consórcio europeu, porém ambos não aceitam novos participantes. Atualmente não há terapia que detenha ou reverta a doença; o cuidado se concentra no suporte e controle dos sintomas.",
@@ -658,60 +578,84 @@
         "category": "mundo",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/25/medicina-e-saude/creutzfeldt-jakob-a-doenca-rara-diagnosticada-no-influenciador-lito-sousa-e-os-tratamentos-possiveis/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/nacional/brasil/piloto-escreve-nome-de-lito-sousa-no-ceu-em-homenagem-a-influenciador-veja/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/saude/noticia/2026/08/25/lito-recusado-em-estudos-por-que-e-tao-dificil-entrar-em-tratamentos-experimentais.ghtml"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/agencia/entenda-doenca-de-creutzfeldt-jakob-e-busca-por-tratamento/"
           },
           {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/cwyzxnvy03qo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/24/piloto-brasileiro-desenha-lito-no-ceu-dos-eua-em-homenagem-a-influenciador.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T10:20:49.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/63c0/live/298d88c0-a008-11f1-a291-b542ee92de7c.png"
+        "updatedAt": "2026-08-25T15:28:44.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/1acmU1tOauQ6rwPetsAGdYgQ1DU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/z/vqhuHDT6mQADKwHC080Q/copia-de-sem-nome-1200-x-900-px-1-.png"
       },
       {
-        "clusterId": "dec20c7676d7081e",
-        "slug": "6c1b0c1ae88a7943",
-        "titulo": "Tornado causa feridos e destruição no sul da França",
-        "resumo": "Um tornado atingiu as comunas de Pomas e Verzeille, no sul da França, deixando pelo menos 26 feridos e destruindo casas e comércios. O fenômeno ocorreu no fim da tarde de segunda-feira, 24, durante um alerta de tempestades. Aproximadamente 2.800 residências ficaram sem energia elétrica.",
-        "porQueImporta": "O evento demonstra a ocorrência de fenômenos meteorológicos extremos na região, com impacto significativo na população e infraestrutura.",
+        "clusterId": "7ad56b5ef6e587f3",
+        "slug": "34df4efe055e2344",
+        "titulo": "Polícia encontra casa com jacuzzi e academia durante operação no Complexo de Israel",
+        "resumo": "Agentes da 16ª DP (Barra da Tijuca) que atuam na ocupação conjunta do Complexo de Israel, na Zona Norte do Rio, encontraram uma das casas do traficante Álvaro Malaquias Santa Rosa, o Peixão, chefão do Terceiro Comando Puro, nesta terça-feira (25). Tanto a Polícia Civil quanto a Militar atuam no conjunto de comunidades nesta terça. A ação é resultado de investigações da 38ª DP (Brás de Pina) e tem como objetivo cumprir dezenas de mandados de prisão contra alvos envolvidos em diferentes crimes. Polícia encontra casa com jacuzzi e academia durante operação no Complexo de Israel Reprodução Em uma…",
+        "porQueImporta": "",
         "category": "mundo",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/apos-incendios-tornado-raro-devasta-vilarejo-na-franca-veja-fotos/"
+            "name": "G1",
+            "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/25/policia-casa-complexo-israel.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/o-que-e-o-complexo-de-israel-base-de-guerra-do-tcp-no-rio/"
+          }
+        ],
+        "updatedAt": "2026-08-25T16:35:21.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/vp2Ns9irV7ZcgRtsKuub8EYbRmI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/y/0bcVMpSP2yfNpC9nXokw/imagem-cortada-27-.jpg"
+      },
+      {
+        "clusterId": "a1679972b37cb707",
+        "slug": "3511469738d57ff6",
+        "titulo": "Trump sugere trocar nome do Lago Ontário para 'Lago América' em meio a disputa com Canadá",
+        "resumo": "Presidente dos EUA, Donald Trump, durante discurso em 14 de agosto de 2026 Ken Cedeno/Reuters O presidente dos Estados Unidos, Donald Trump, ameaçou nesta terça-feira (25) mudar o nome do Lago Ontário para \"Lago América\" em uma nova investida contra o Canadá, após anunciar, ainda nesta semana, um aumento nas tarifas de alguns produtos canadenses. 📱Favorite o g1 no Google e acompanhe as principais notícias do dia “Os Estados Unidos estão considerando seriamente mudar o nome do Lago Ontário para Lago América, já que não esperamos continuar fazendo muitos negócios com Ontário\", afirmou Trump na…",
+        "porQueImporta": "",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/trump-ameaca-mudar-nome-de-lago-na-fronteira-com-o-canada-america"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/08/25/video-mostra-destruicao-apos-passagem-de-tornado-raro-na-franca.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/25/trump-sugere-trocar-nome-do-lago-ontario-para-lago-america-em-meio-a-disputa-com-canada.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T12:19:14.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/AFP__20260825__C6FM7FT__v1__HighRes__FranceWeatherTornado.jpg?quality=70&strip=info"
+        "updatedAt": "2026-08-25T16:07:26.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/08/greatlake-guide.jpg"
       },
       {
-        "clusterId": "9f9023dc604f692e",
-        "slug": "f8113d27690c77b2",
-        "titulo": "Mais de 50 países pedem cessar-fogo na Ucrânia enquanto Rússia planeja reforçar tropas",
-        "resumo": "Em declaração conjunta na ONU, mais de 50 nações solicitaram que a Rússia aceite um cessar-fogo na Ucrânia, reafirmando a soberania e integridade territorial do país. Paralelamente, a Rússia pretende aumentar a produção de mísseis e recrutar cerca de 300 mil soldados para a ofensiva no Donbas. A guerra já dura quase quatro anos e continua com altos índices de mortalidade.",
-        "porQueImporta": "A escalada de recursos militares russos pode prolongar o conflito e aumentar a instabilidade regional.",
+        "clusterId": "87d1921972bb7b6b",
+        "slug": "19690331ed8614e0",
+        "titulo": "EUA impõem novas sanções econômicas ao Irã",
+        "resumo": "Os Estados Unidos anunciaram uma série de sanções sem precedentes contra o Irã, visando setores como energia nuclear, mísseis, cibernética e petróleo. O Irã afirmou que não cederá às pressões de Washington e que qualquer apoio internacional às sanções será considerado ato de guerra. O governo iraniano planeja responder com medidas de dois anos para mitigar os impactos. A administração americana também pediu que países que mantêm relações econômicas com Teerã sejam severamente penalizados.",
+        "porQueImporta": "A medida intensifica a tensão entre os dois países e pode afetar a estabilidade econômica e política da região.",
         "category": "mundo",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/zelensky-eua-fim-da-guerra-ucrania-2027/"
+            "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-minas-colocadas-em-ormuz-foram-removidas-e-faz-alerta-ao-ira/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/noticia/2026/08/23/zelensky-precisa-responder-por-corrupcao-no-seu-governo-diz-ministro-demitido-na-ucrania.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/25/trump-diz-que-eua-detonaram-todas-as-minas-instaladas-pelo-ira-no-estreito-de-ormuz.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T10:52:02.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/d42mr6DVpy-nU70Lc54eTirT-Gw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/S/GtiizGRlavR2zgfNB03Q/2026-08-18t213957z-1489398667-rc2w4maek6wo-rtrmadp-3-ukraine-crisis-fedorov.jpg"
+        "updatedAt": "2026-08-25T14:46:34.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/usi-7_T17e5fE1KjDnojs6gsQSk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/d/FOAcVKQAKMPZsh46Nuxg/2026-08-24t202227z-1102145854-rc275na3by3q-rtrmadp-3-usa-trump.jpg"
       },
       {
         "clusterId": "80205b6b87046f92",
@@ -737,8 +681,8 @@
         "clusterId": "dd44b687da16e2d0",
         "slug": "b8099d586a17e7f3",
         "titulo": "Documentos revelam que Juscelino Kubitschek esteve na mira dos EUA durante a ditadura",
-        "resumo": "Arquivos americanos mostram que o presidente Juscelino Kubitschek foi monitorado pelos EUA durante a ditadura militar no Brasil. O interesse dos EUA se deu porque Kubitschek era considerado uma liderança relevante caso o país voltasse à democracia. Os documentos indicam que o governo americano mantinha vigilância sobre ele para avaliar possíveis cenários políticos futuros. A análise destaca a preocupação dos EUA com a estabilidade e a influência política no Brasil.",
-        "porQueImporta": "Ilustra como a política externa americana influenciou a percepção de líderes brasileiros durante a ditadura.",
+        "resumo": "Em 14 de dezembro de 1970, Juscelino Kubitschek foi sabatinado por uma comitiva norte‑americana liderada pelo embaixador William Manning Rountree. O encontro, registrado em sete páginas datilografadas e marcadas como confidenciais, foi enviado ao Departamento de Estado dos EUA. Historiadores apontam que os Estados Unidos monitoravam JK por considerá‑lo um líder relevante caso o Brasil voltasse à democracia.",
+        "porQueImporta": "A revelação mostra a atenção internacional sobre a política brasileira durante a ditadura.",
         "category": "mundo",
         "sources": [
           {
@@ -774,291 +718,279 @@
         "imageUrl": "https://s2-g1.glbimg.com/7AT3_Tx3VEIaO26AmclFYKDBXAo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/h/Mvl7DoSAaI4APXzmpEyQ/779aac94-2d17-4e19-98b9-cb3b95c5f86d.png"
       },
       {
-        "clusterId": "f8f668373c00765f",
-        "slug": "f3684015487b4468",
-        "titulo": "Resumão diário #2119: Zema propõe ajuste fiscal para baixar juros a 6%; EUA preparam maior revogação em massa de vistos da história; Como são os tratamentos experimentais que o influencer Lito busca contra doença rara",
-        "resumo": "Zema propõe ajuste fiscal para baixar juros a 6%, sem detalhar medidas, e defende anistia para condenados do 8 de janeiro. Veja o que é #FATO e o que é #FAKE na entrevista de Romeu Zema à Globo. Ronaldo Caiado participa de entrevista da Globo nesta terça-feira; saiba como assistir. EUA preparam maior revogação em massa de vistos da história, com até 200 mil estrangeiros afetados. Free flow: veja o passo a passo para consultar e pagar pedágio eletrônico no app CNH do Brasil. 'Fechar a torneira': como funcionam os tratamentos experimentais que Lito busca para tentar frear doença rara. Eclipse…",
-        "porQueImporta": "",
+        "clusterId": "19dfe95674a93279",
+        "slug": "4e2ee31745ba4165",
+        "titulo": "Maxwell perde recurso que buscava anular condenação de 20 anos",
+        "resumo": "O juiz Paul Engelmayer rejeitou o pedido de Ghislaine Maxwell de anular sua condenação por cumplicidade no caso de Jeffrey Epstein. A decisão, publicada nesta terça-feira, manteve a sentença de 20 anos de prisão. Maxwell havia alegado que as acusações eram infundadas, mas o tribunal concluiu que as evidências suportam a condenação. O caso continua a ser um marco no debate sobre abuso sexual de menores.",
+        "porQueImporta": "A manutenção da condenação reforça a responsabilização de cúmplices em casos de abuso sexual.",
         "category": "mundo",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/08/25/resumao-diario-2119-zema-propoe-ajuste-fiscal-para-baixar-juros-a-6percent-eua-preparam-maior-revogacao-em-massa-de-vistos-da-historia-como-sao-os-tratamentos-experimentais-que-o-influencer-lito-busca-contra-doenca-rara.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/08/25/ghislaine-maxwell-perde-recurso-para-anular-condenacao-por-cumplicidade-com-epstein.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T12:42:06.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/sVt3xHePw5bmaiT75Cjz2EVAJy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/P/3DBiGATciJvvQc3jv7iw/podcasts-3000x1688-sem-logo-14.png"
+        "updatedAt": "2026-08-25T13:18:43.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/iIybIjAWiS0gpv8pfYhtITk7sXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/m/21PpCgQUObDQtb1hVhGA/4c561960-0c3f-11f1-9972-d3f265c101c6-w1200.jpg"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "5d5c007295a9b098",
-        "slug": "f2ae547e1cca0efe",
-        "titulo": "Grupo hacker CyberLeek divulga vazamento de GTA VI com imagens e criptomoedas",
-        "resumo": "O grupo CyberLeek vazou trechos inéditos de GTA VI, incluindo imagens de uma cidade nudista, e vinculou o vazamento a um esquema envolvendo criptomoedas. A divulgação ocorreu antes do anúncio oficial da Rockstar e do lançamento previsto para novembro. CyberLeek afirmou que os vazamentos cessariam apenas se a Rockstar reconhecesse erros e mudasse sua postura. A operação demonstra que a motivação do leaker vai além de um simples protesto ou fanfic.",
-        "porQueImporta": "O vazamento pode comprometer a estratégia de lançamento da Rockstar e gerar perdas financeiras e de reputação.",
+        "clusterId": "90d8b02c61bfcdd0",
+        "slug": "0f1460fcf9b135e7",
+        "titulo": "Bateria pega fogo em trem de SP e deixa passageiro com queimaduras",
+        "resumo": "Um carregador portátil pegou fogo dentro de um trem da Linha 7-Rubi, em São Paulo, e deixou um passageiro com queimaduras. O incidente aconteceu por volta das 18h desta segunda-feira (24), quando o vagão chegava à estação Água Branca, localizada na Zona Oeste da capital paulista. Um vídeo publicado pelo perfil SP Sobre Trilhos no Instagram mostra o momento em que passageiros tentam apagar as chamas dentro do vagão. Nas imagens, também é possível perceber uma pequena quantidade de fumaça saindo do powerbank enquanto uma das pessoas tenta conter o fogo com os pés. 📱 Veja as melhores promoções…",
+        "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/tecnologia/novo-vazamento-de-gta-vi-por-grupo-hacker-traz-imagem-de-cidade-nudista/"
-          },
-          {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/games/cyberleek-vende-anuncios-vazamento-gta6/"
+            "url": "https://canaltech.com.br/produtos/bateria-pega-fogo-em-trem-de-sp-e-deixa-passageiro-com-queimaduras/"
           }
         ],
-        "updatedAt": "2026-08-25T12:27:26.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/1-GTA-6_1.jpg.jpg?quality=70&strip=info"
+        "updatedAt": "2026-08-25T16:19:22.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/blIz0UG3y-znOeA2LAtRxgzZwXU=/0x0/filters:format(webp):quality(85)/ccd28f00-8d53-4747-a724-8a8ddba3b5d4.jpeg"
       },
       {
-        "clusterId": "1c11b8767a95289a",
-        "slug": "257f275b7d6c3e72",
-        "titulo": "Kit Harington substitui Nicholas Hoult como Gilderoy Lockhart na segunda temporada de Harry Potter",
-        "resumo": "O ator Kit Harington, conhecido por interpretar Jon Snow em Game of Thrones, foi anunciado como o novo Gilderoy Lockhart na segunda temporada da série Harry Potter da HBO. Ele substitui Nicholas Hoult, que deixou o elenco por conflitos de agenda. O personagem já foi interpretado por Kenneth Branagh no filme de 2002.",
-        "porQueImporta": "A troca de elenco envolve um ator de alto perfil, o que pode atrair mais espectadores para a série.",
+        "clusterId": "c6ae88e72308bc3f",
+        "slug": "51dbc0ea8b9f7f56",
+        "titulo": "35 anos de Linux: lembre o post modesto que mudou a história do software",
+        "resumo": "O anúncio do Linux completou 35 anos: no dia 25 de agosto de 1991, o desenvolvedor Linus Torvalds, com 21 anos na época, revelou o projeto pessoal em post na plataforma Usenet. No post, Torvalds disse que estava fazendo um sistema operacional gratuito, pediu o feedback da comunidade sobre o sistema Minix (usado em computadores da época) e afirmou que “era só um hobby, não será grande e profissional como o GNU”. A previsão não foi cumprida, visto que o Linux se tornou um dos principais SOs do mundo, com relevância até hoje e servindo como base para plataformas como o Android. O anúncio…",
+        "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/streaming/estrela-de-game-of-thrones-reage-a-escalacao-em-harry-potter-sonho/"
-          },
-          {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/entretenimento/novo-gilderoy-lockhart-em-serie-de-harry-potter-e-estrela-de-game-of-thrones/"
+            "url": "https://canaltech.com.br/software/35-anos-de-linux-lembre-o-post-modesto-que-mudou-a-historia-do-software/"
           }
         ],
-        "updatedAt": "2026-08-25T12:24:46.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/zRb81Wfl_WoTiEr67BHB377z5e0=/0x0/filters:format(webp):quality(85)/37fb599e-3229-437e-983f-b94c2c215149.jpg"
+        "updatedAt": "2026-08-25T16:15:03.000Z"
       },
       {
-        "clusterId": "d3d47a80e7751c6f",
-        "slug": "cbae19ff2971a76c",
-        "titulo": "Galaxy A07/A17 em promoção na Amazon e vazamento de design do Galaxy S27",
-        "resumo": "A Amazon disponibiliza na sua plataforma smartphones Samsung da linha Galaxy A, incluindo o A07 com 128 GB de armazenamento, 4 GB de RAM e câmera de 50 MP, e o A17, ambos com telas de 6,7 polegadas. Enquanto isso, renders vazados mostram o próximo Galaxy S27 com possíveis alterações de design e a possibilidade de um modelo adicional, o S27 Pro, na linha premium da Samsung.",
-        "porQueImporta": "Essas informações ajudam consumidores a escolher modelos em oferta e a acompanhar as novidades da linha premium da Samsung.",
+        "clusterId": "de57e7c699f7ef19",
+        "slug": "3c3af31bd5af1aeb",
+        "titulo": "Toyota radicaliza em nova geração do RAV4 para encarar BYD Atto 8",
+        "resumo": "A Toyota decidiu radicalizar no segmento de SUVs médios ao trazer para o Brasil o novo RAV4 híbrido plug-in (PHEV). O modelo chega apenas na versão XSE, com preço de R$ 399.990, exatamente o mesmo valor do rival chinês BYD Atto 8, lançado recentemente. A estratégia é clara: oferecer um produto mais sofisticado e potente para disputar espaço no mercado de eletrificados premium. Com 329 cv de potência combinada, o RAV4 PHEV se torna o mais forte já vendido pela marca no país, superando os 306 cv da geração anterior. O desempenho é digno de esportivo: aceleração de 0 a 100 km/h em apenas 5,7…",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/carros/toyota-radicaliza-em-nova-geracao-do-rav4-para-encarar-byd-atto-8/"
+          }
+        ],
+        "updatedAt": "2026-08-25T16:02:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/WIlfXrC_H3GsTEAr0o2t9dAvEUE=/0x0/filters:format(webp):quality(85)/6ce1c6c3-e2cb-4ab5-9411-0fcafc4adc8b.jpg"
+      },
+      {
+        "clusterId": "d7d93e25f672fdf1",
+        "slug": "6316987f0a998ef2",
+        "titulo": "Tiangong Ultra quebra seu próprio recorde e deixa Bolt ainda mais atrás",
+        "resumo": "O Tiangong Ultra melhorou sua marca de 9,39 para 8,86 segundos e ampliou a vantagem sobre o recorde de Usain Bolt em Pequim O post Tiangong Ultra quebra seu próprio recorde e deixa Bolt ainda mais atrás apareceu primeiro em Olhar Digital.",
+        "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/08/25/reviews/galaxy-a07-ou-a17-veja-uma-selecao-de-smartphones-samsung-em-promocao-na-amazon-17/"
-          },
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/smartphone/visual-do-galaxy-s27-padrao-vazou-veja-modelo-3d-do-novo-top-da-samsung/"
+            "url": "https://olhardigital.com.br/2026/08/25/robotica/tiangong-ultra-quebra-seu-proprio-recorde-e-deixa-bolt-ainda-mais-atras/"
           }
         ],
-        "updatedAt": "2026-08-25T12:00:00.000Z"
+        "updatedAt": "2026-08-25T15:47:23.000Z"
       },
       {
-        "clusterId": "bda6db63a4ced76f",
-        "slug": "4ffed857b92af2d6",
-        "titulo": "Microsoft lança programa Indique e Ganhe para Edge em dispositivos móveis",
-        "resumo": "O programa permite convidar amigos para usar o Edge no celular e receber pontos do Microsoft Rewards. Usuários podem ganhar até 500 pontos por dia e 7.500 por mês, que podem ser trocados por vale-presente em diversas plataformas. A iniciativa visa aumentar a base de usuários do navegador fora do Windows.",
-        "porQueImporta": "Ajuda a Microsoft a expandir o uso do Edge em dispositivos móveis.",
+        "clusterId": "a108f4f369e1c300",
+        "slug": "4974747b03666a69",
+        "titulo": "Quer um setup mais competitivo? Confira monitores gamer em promoção na Amazon",
+        "resumo": "Montar um setup gamer de qualidade começa pelo monitor — e o mercado está cheio de boas opções para quem quer melhorar a experiência sem abrir mão de desempenho. Reunimos três monitores gamer em oferta na Amazon que combinam alta taxa de atualização, baixa latência e tecnologias de sincronização de imagem. Dá uma olhada. LG […] O post Quer um setup mais competitivo? Confira monitores gamer em promoção na Amazon apareceu primeiro em Olhar Digital.",
+        "porQueImporta": "",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/25/reviews/fones-bluetooth-em-promocao-philips-e-jbl-com-otimas-opcoes-na-amazon/"
+          }
+        ],
+        "updatedAt": "2026-08-25T15:40:00.000Z"
+      },
+      {
+        "clusterId": "47f6a2424943346e",
+        "slug": "497de5eeaec01107",
+        "titulo": "NVIDIA revela novo Ray Reconstruction e Path Tracing para jogos de PS2",
+        "resumo": "A gamescom 2026 está começando e a NVIDIA já se antecipou e revelou o que tem preparado para os PC gamers para o evento. Em apresentação fechada para a imprensa, o Time Verde trouxe novidades em relação ao Ray Reconstruction, RTX Remix, RTX Spark e mais. A primeira grande novidade é a nova geração da tecnologia de reconstrução de raios, que fará parte do DLSS 4.5. A novidade, que já havia sido revelada anteriormente, acabou sendo vazada antes da hora através de arquivos em jogos compatíveis, mas começa a chegar em breve. A NVIDIA confirmou que a segunda geração de reconstrução de raios…",
+        "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/apps/microsoft-vai-te-pagar-para-convencer-amigos-a-usarem-o-edge-no-celular/"
+            "url": "https://canaltech.com.br/hardware/nvidia-revela-novo-ray-reconstruction-e-path-tracing-para-jogos-de-ps2/"
           }
         ],
-        "updatedAt": "2026-08-25T12:40:01.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/jHYbTaYxjobiZ-uqe3x9erHIsHk=/0x0/filters:format(webp):quality(85)/e096fb78-d616-4904-943d-2bc1d19e6be4.png"
+        "updatedAt": "2026-08-25T15:35:18.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/c3K7eiI4jFLW509VwZMSdOhDc88=/0x0/filters:format(webp):quality(85)/ab61c448-00e1-4499-b9cb-849e37f38f5a.jpg"
       },
       {
-        "clusterId": "070850f56395235b",
-        "slug": "6a30c07e308ea7c0",
-        "titulo": "Monitor gamer AOC 23.8\" Full HD 200Hz em promoção no KaBuM!",
-        "resumo": "O monitor gamer AOC de 23,8\" com resolução Full HD e taxa de atualização de 200Hz está em oferta no KaBuM!, com preço original de R$ 709,99 reduzido para R$ 638,99 no Pix. Para aproveitar o desconto, o cliente deve usar o cupom GAMER10 no momento da compra. A promoção visa eliminar problemas de travamento e borrões em jogos competitivos, oferecendo maior fluidez na tela.",
-        "porQueImporta": "A oferta permite que jogadores atualizem seu equipamento a um custo reduzido, melhorando a experiência de jogo.",
+        "clusterId": "afff51b9c38dbfc5",
+        "slug": "6ffc0c9e32b6a356",
+        "titulo": "Upgrade na memória do seu PC ou notebook? Veja uma seleção de RAMs DDR5 em promoção",
+        "resumo": "Se o seu computador ou notebook anda travando, demorando para abrir programas ou simplesmente não dando conta das tarefas do dia a dia, pode ser hora de investir em mais memória RAM. Separamos três opções DDR5 em oferta na Amazon — todas da Crucial e Corsair, marcas reconhecidas no mercado — para quem quer performance […] O post Upgrade na memória do seu PC ou notebook? Veja uma seleção de RAMs DDR5 em promoção apareceu primeiro em Olhar Digital.",
+        "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/hardware/monitor-gamer-aoc-238-com-preco-no-chao-no-kabum-usando-cupom-exclusivo/"
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/25/reviews/upgrade-na-memoria-do-seu-pc-ou-notebook-veja-uma-selecao-de-rams-ddr5-em-promocao-4/"
           }
         ],
-        "updatedAt": "2026-08-25T12:35:38.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/XHznxfCMfJ2PpyA-0fOULln4eII=/0x0/filters:format(webp):quality(85)/b14c17cd-26da-427b-b64c-b98524b98007.png"
+        "updatedAt": "2026-08-25T15:20:00.000Z"
       },
       {
-        "clusterId": "ea1005a9ab7ffd9a",
-        "slug": "ae677f9d842bea9d",
-        "titulo": "Netflix avalia integrar outros serviços de streaming para competir com YouTube",
-        "resumo": "A Netflix está considerando disponibilizar serviços de streaming adicionais dentro de sua plataforma, seguindo modelo do Prime Video. A proposta inclui a inclusão de Peacock e Fox One, visando ampliar a oferta de conteúdo. A estratégia tem como objetivo atrair e reter assinantes em meio à concorrência crescente do YouTube.",
-        "porQueImporta": "A medida pode alterar a experiência do usuário e a posição competitiva da Netflix no mercado de streaming.",
+        "clusterId": "d57115b4e8e3c04a",
+        "slug": "8e2f90160327f2b8",
+        "titulo": "Gamescom 2026 começa nesta terça (25); veja horário, onde assistir e o que esperar",
+        "resumo": "Evento começa nesta terça-feira (25), em Colônia, na Alemanha, com apresentação de Geoff Keighley e novidades de Gears of War: E-Day, The Witcher 3 e mais O post Gamescom 2026 começa nesta terça (25); veja horário, onde assistir e o que esperar apareceu primeiro em Olhar Digital.",
+        "porQueImporta": "",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/apps/para-frear-o-youtube-netflix-pode-adotar-tatica-para-ficar-parecido-com-o-prime-video/"
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/08/25/games-e-consoles/gamescom-2026-veja-horario-da-opening-night-live/"
           }
         ],
-        "updatedAt": "2026-08-25T12:32:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/xxx7cqjhNJxPJ_UzvkenvJuUXQ8=/0x0/filters:format(webp):quality(85)/efa9f067-06cd-44bd-abf8-367e776281c8.png"
-      },
-      {
-        "clusterId": "4001ffd394d6bcaa",
-        "slug": "e0d56124b748ff42",
-        "titulo": "Samsung e Corning desenvolvem revestimento autorregenerativo para tela do Galaxy S27 Ultra",
-        "resumo": "Um vazamento indica que a Samsung e a Corning estão trabalhando em um revestimento autorregenerativo para o Gorilla Armor do Galaxy S27 Ultra. A tecnologia permitiria que a tela se recuperasse de microarranhões cotidianos, em vez de apenas resistir a eles. O leaker Schrödinger divulgou a informação no X (antigo Twitter).",
-        "porQueImporta": "Essa inovação pode reduzir a necessidade de substituição de telas e melhorar a durabilidade dos dispositivos.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/smartphone/galaxy-s27-ultra-tera-tela-que-cura-riscos-e-arranhoes-sozinha-diz-leaker/"
-          }
-        ],
-        "updatedAt": "2026-08-25T12:30:17.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/-Sh7buFwOsUFompiifD8hR8MViM=/0x0/filters:format(webp):quality(85)/7be573e4-389b-4b04-a38d-928e71168969.jpeg"
-      },
-      {
-        "clusterId": "bfe824faa5cb8781",
-        "slug": "8e6abae0946e0656",
-        "titulo": "Xiaomi anuncia reajustes de preços, novo modelo dobrável e promoção de troca de tela",
-        "resumo": "A Xiaomi informou que seus celulares no Japão terão aumento de preço a partir de setembro, com reajustes de até 20 mil ienes em alguns modelos. A empresa também confirmou o lançamento do Xiaomi 18 Fold, o primeiro dobrável com o chipset Xring O3 AI, previsto para setembro na China. Em paralelo, a marca lançou a linha Poco F9, oferecendo troca gratuita de tela em caso de dano acidental para compras feitas entre 1 e 23 de setembro.",
-        "porQueImporta": "Essas mudanças afetam consumidores que buscam dispositivos Xiaomi, refletindo ajustes de mercado e estratégias de fidelização.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/smartphone/celulares-da-xiaomi-vao-ficar-mais-caros-confirma-empresa/"
-          }
-        ],
-        "updatedAt": "2026-08-25T12:18:48.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/OTz1s-YV44nsKx8VxxomLEy72fQ=/0x0/filters:format(webp):quality(85)/4c739614-8820-45c2-9389-5d29eaf93371.png"
+        "updatedAt": "2026-08-25T15:11:37.000Z"
       }
     ],
     "ciencia": [
       {
-        "clusterId": "c6fc6c8ec5ee12b5",
-        "slug": "c00fb849c88d602c",
-        "titulo": "Tecnologia estimula prática de exercícios, mas mudança de hábitos depende de metas realistas",
-        "resumo": "Relógios, aplicativos e roupas esportivas podem incentivar a prática de exercícios físicos. Contudo, a efetiva mudança de hábitos requer metas realistas, prazer e consistência. A tecnologia oferece ferramentas de monitoramento, mas não substitui a motivação intrínseca do indivíduo.",
-        "porQueImporta": "Entender como a tecnologia pode apoiar a saúde física ajuda a otimizar estratégias de bem‑estar.",
+        "clusterId": "cb405fe3a7e90e23",
+        "slug": "79324f9fe44295d9",
+        "titulo": "Eclipse lunar 'quase' total vai encobrir a Lua de quinta para sexta; fenômeno poderá ser visto em todo o Brasil",
+        "resumo": "Registro de um eclipse lunar parcial com as manchas solares mais aparentes; foto foi feita pelo astrônomo amador Renato Poltronieiri. Renato Poltronieri/Divulgação Na noite de quinta-feira (27) para sexta-feira (28), espectadores de todo o Brasil poderão acompanhar um eclipse lunar parcial que vai encobrir quase toda a Lua com a sombra da Terra. O fenômeno começará ainda na quinta-feira, às 22h24, e seguirá pela madrugada. O momento em que a Lua estará mais escurecida será à 1h13 de sexta-feira (28). Apesar de chegar muito perto de um eclipse total, ele será considerado parcial porque somente…",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/ciencia/eclipse-lunar-a-lua-vai-quase-desaparecer-sob-a-sombra-da-terra-na-sexta-feira-saiba-como-ver/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/ciencia/noticia/2026/08/25/eclipse-lunar-todo-o-brasil.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-25T15:28:47.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2016/05/eclipse-lua-4-2014-04-15-original2.jpeg?quality=70&strip=info"
+      },
+      {
+        "clusterId": "1dae212924a703fd",
+        "slug": "0e80f77dc0740021",
+        "titulo": "Sobrecarga e precarização na atenção básica do SUS impulsionam revisão do PNAB até o final do ano",
+        "resumo": "A situação da atenção básica hoje é grave, segundo especialistas, o que leva a uma necessidade da atualização da Política Nacional de Atenção Básica",
+        "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/radio-usp/tecnologia-transforma-exercicio-em-motivacao/"
+            "url": "https://jornal.usp.br/atualidades/sobrecarga-e-precarizacao-na-atencao-basica-do-sus-impulsionam-revisao-do-pnab-ate-o-final-do-ano/"
           }
         ],
-        "updatedAt": "2026-08-25T10:29:35.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/03/pasta-dos-20230313_farah--1024x1024.jpg"
+        "updatedAt": "2026-08-25T15:05:01.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2025/11/20251124_jovem-doente-em-uma-cama-de-hospital-1024x538.jpg"
       },
       {
-        "clusterId": "bb3af3ebf2ec62d7",
-        "slug": "f0d60852ebd7f926",
-        "titulo": "Participação de trabalhadores 65+ deve crescer 13% a 21,7% na próxima década",
-        "resumo": "Segundo o U.S. Bureau of Labor Statistics, a participação de trabalhadores entre 65 e 74 anos aumentará 13% entre 2023 e 2033, enquanto a faixa de 75 anos ou mais terá crescimento de 21,7%. Esse aumento reflete a tendência de prolongar a vida profissional dos idosos nos Estados Unidos. Empresas que não retenham talentos experientes podem enfrentar escassez de mão de obra.",
-        "porQueImporta": "O crescimento da força de trabalho sênior pode impulsionar a economia, mas exige adaptação das empresas à nova realidade demográfica.",
+        "clusterId": "1ab24de27640d86a",
+        "slug": "b49920f8a36bc1bd",
+        "titulo": "Alface: o que o surto com milhares de casos nos EUA ensina sobre o consumo de verduras",
+        "resumo": "Mais de 27 mil casos confirmados Estados Unidos sofrem com um parasita que atingiu a hortaliça e que provoca sintomas como cólicas, diarreia, náusea e cansaço",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/radio-usp/alface-o-que-o-surto-com-milhares-de-casos-nos-eua-ensina-sobre-o-consumo-de-verduras/"
+          }
+        ],
+        "updatedAt": "2026-08-25T14:55:53.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2022/10/14102022_alface-1024x538.jpg"
+      },
+      {
+        "clusterId": "e84062e900e299ef",
+        "slug": "f2c3ef50b412a43d",
+        "titulo": "Remédio que não vem da farmácia, prescrição social combate a solidão e a sobrecarga nos postos de saúde",
+        "resumo": "Essa abordagem faz lembrar que a saúde não se resume apenas a medicamentos, mas se constrói também com conexão e propósito",
+        "porQueImporta": "",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/atualidades/remedio-que-nao-vem-da-farmacia-prescricao-social-combate-a-solidao-e-a-sobrecarga-nos-postos-de-saude/"
+          }
+        ],
+        "updatedAt": "2026-08-25T14:28:09.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2024/12/20241217_aprendizagem-motora-idosos-1024x538.jpg"
+      },
+      {
+        "clusterId": "82de1bb73895ac7d",
+        "slug": "76d413adcafc4198",
+        "titulo": "Por que uma formiga pode te ajudar a ficar melhor em tomar decisões",
+        "resumo": "Formiga Pawich Sattalerd/Getty Images/Via BBC Nós, humanos, tendemos a nos considerar no topo da pirâmide evolutiva por nossa capacidade de pensar — e pensar muito. Mas toda essa deliberação às vezes não nos leva muito longe. Não somos infalíveis e, rotineiramente, tomamos decisões erradas. Os insetos, por outro lado, apesar de seus cérebros minúsculos, do tamanho de uma semente de papoula, têm uma quantidade talvez surpreendente de sabedoria quando se trata de tomar decisões. Na verdade, várias habilidades dos insetos para resolver problemas inspiraram algoritmos usados para uma tomada de…",
+        "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/08/25/trabalhadores-mais-velhos-vao-sustentar-o-crescimento-economico.ghtml"
+            "url": "https://g1.globo.com/ciencia/noticia/2026/08/25/por-que-uma-formiga-pode-te-ajudar-a-ficar-melhor-em-tomar-decisoes.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T07:02:08.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/L0EFPije5Q8PD3_SBIh7oX2plNM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/r/RB2iAQRaiuHEK6Hm1mSQ/maodeobrasenioreua2026.jpg"
+        "updatedAt": "2026-08-25T14:25:35.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/fIE13ObsjuySjlYI9S-9I5a5SOA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/G/y0x30KSFuPpAAajHuKQQ/form.png"
       },
       {
-        "clusterId": "8d86eb035da6cb50",
-        "slug": "494de985b3aaefe5",
-        "titulo": "Psicóloga explica por que memórias traumáticas costumam ser fragmentadas",
-        "resumo": "Memórias traumáticas são lembradas de forma diferente das agradáveis, apresentando-se como fragmentos desconexos de sensações, emoções, cheiros ou imagens. A psicóloga destaca que esse padrão de fragmentação ocorre devido à forma como o cérebro processa e armazena eventos de alta carga emocional. O processamento fragmentado dificulta a consolidação de uma narrativa coerente, contribuindo para a persistência de sintomas pós-traumáticos.",
-        "porQueImporta": "Entender a fragmentação ajuda profissionais a planejar intervenções mais eficazes para quem sofre de trauma.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/comportamento/psicologa-explica-como-e-porque-as-memorias-traumaticas-costumam-ser-fragmentadas/"
-          }
-        ],
-        "updatedAt": "2026-08-24T23:00:18.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/08/memorias-traumaticas-fragmentadas.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "a266b4e9a3cd0793",
-        "slug": "ab5ddc2d23594b6d",
-        "titulo": "Harvard desenvolve tratamento experimental para doença de Creutzfeldt-Jakob",
-        "resumo": "Harvard está testando um tratamento que visa reduzir a produção de príons em pacientes com doença de Creutzfeldt-Jakob. O método ainda não demonstrou eficácia nem segurança em ensaios clínicos. A pesquisa está em fase inicial e requer mais estudos para confirmar resultados. O objetivo é oferecer uma opção terapêutica para uma condição neurodegenerativa fatal.",
-        "porQueImporta": "O avanço pode abrir caminho para terapias em doenças prionianas ainda sem tratamento eficaz.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/ciencia/conheca-o-tratamento-experimental-de-harvard-contra-a-doenca-de-creutzfeldt-jakob/"
-          }
-        ],
-        "updatedAt": "2026-08-24T22:00:28.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/08/SI_Tratamento-Harvard-contra-Creutzfeldt-Jakob_site.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "4fd6aa306cb5470e",
-        "slug": "f5d356c34bb4826c",
-        "titulo": "Dell XPS 13 lançado nos EUA com preço de US$ 699",
-        "resumo": "O Dell XPS 13 foi lançado nos Estados Unidos por US$ 699, apresentando corpo de alumínio, boa performance e superando o MacBook Neo em leveza, tela e armazenamento. A aceitação no mercado brasileiro dependerá do preço em reais, que ainda não foi divulgado.",
-        "porQueImporta": "O lançamento pode oferecer uma alternativa mais acessível e competitiva ao MacBook Neo no Brasil.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/coluna/bruno-garattoni/dell-xps-13-esta-a-altura-do-macbook-neo-mas-preco-no-brasil-ainda-e-incognita/"
-          }
-        ],
-        "updatedAt": "2026-08-24T21:00:09.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/08/dell-xps_principal.jpg?quality=70&strip=info"
-      },
-      {
-        "clusterId": "eba6030a63e67fc4",
-        "slug": "734c3b2c6ca813b6",
-        "titulo": "Estudo de biologia celular revela mecanismo de evasão de morte celular",
-        "resumo": "Pesquisadores da USP descobriram que células podem evitar a morte programada ao ativar uma via de sinalização que inibe a apoptose. O mecanismo envolve a interação entre proteínas de controle de ciclo celular e fatores de sobrevivência. A descoberta oferece insights sobre doenças em que a morte celular é prejudicada, como câncer e neurodegeneração.",
-        "porQueImporta": "Entender como as células evitam a morte pode levar a novos tratamentos para doenças onde a sobrevivência celular é anormal.",
+        "clusterId": "6428c79507a41533",
+        "slug": "117ffffb1d32c3c1",
+        "titulo": "Curso prepara psicólogos para os desafios da atuação em hospitais de alta complexidade",
+        "resumo": "Formação oferecida pela plataforma HC Educa+ tem 120 horas de duração, aulas on-line ao vivo e conteúdo voltado à prática em hospitais de alta complexidade; atividades começam em 1º de setembro",
+        "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/articulistas/marcos-buckeridge/driblando-a-morte/"
+            "url": "https://jornal.usp.br/campus-ribeirao-preto/curso-prepara-psicologos-para-os-desafios-da-atuacao-em-hospitais-de-alta-complexidade/"
           }
         ],
-        "updatedAt": "2026-08-24T20:37:35.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/10/perfil_dest_Marcos-Buckeridge.jpg"
+        "updatedAt": "2026-08-25T14:16:22.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260603_00_fachada_do_HCFMRP-1024x538.jpg"
       },
       {
-        "clusterId": "8bde8dba70b1af18",
-        "slug": "f582744bcdee439d",
-        "titulo": "Debate na USP destaca integração entre ciência, governo e inovação em São Paulo",
-        "resumo": "O evento contou com pesquisadores, gestores públicos e profissionais que discutiram formas de ampliar a cooperação científica global. Foi ressaltado o papel da USP e de outras instituições de pesquisa no fortalecimento do ecossistema de inovação da cidade. A discussão incluiu estratégias para fortalecer parcerias entre academia, governo e setor privado.",
-        "porQueImporta": "Fortalecer a colaboração entre ciência, governo e inovação pode impulsionar o desenvolvimento econômico e tecnológico de São Paulo.",
+        "clusterId": "889f0ee799da1e9b",
+        "slug": "0bec5ca3e2bdc4e6",
+        "titulo": "Pesquisa da USP procura advogados para estudo sobre burnout",
+        "resumo": "Participantes responderão a um questionário sobre condições de trabalho e aspectos relacionados à saúde mental; respostas são confidenciais",
+        "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/universidade/debate-na-usp-destaca-integracao-entre-ciencia-governo-e-inovacao-em-sao-paulo/"
+            "url": "https://jornal.usp.br/campus-ribeirao-preto/pesquisa-da-usp-procura-advogados-para-estudo-sobre-burnout/"
           }
         ],
-        "updatedAt": "2026-08-24T20:35:04.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260824_00_innscid_sp_escola_inovacao_diplomacia_cientifica.jpg"
+        "updatedAt": "2026-08-25T12:40:51.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2024/08/20240827_justica-1024x538.jpg"
       },
       {
-        "clusterId": "249cb7a963af6419",
-        "slug": "8c5c608462c5b943",
-        "titulo": "Ciclo apresenta obras da escola franco-flamenga de música",
-        "resumo": "O evento do Ciclo será realizado a partir de quinta-feira, 27, às 17h, no Centro MariAntonia da USP. A programação incluirá obras da escola franco-flamenga de música. O local e horário foram divulgados pela própria USP.",
-        "porQueImporta": "Oferece acesso a repertório musical especializado para a comunidade acadêmica.",
+        "clusterId": "93a2c649f9eb9ffc",
+        "slug": "49319fb45862fb42",
+        "titulo": "A justiça internacional e os desafios que os novos tempos lhe impõem",
+        "resumo": "Alberto do Amaral trata das dificuldades enfrentadas pelas cortes internacionais de justiça num mundo em constante ebulição",
+        "porQueImporta": "",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/cultura/ciclo-vai-apresentar-obras-da-escola-franco-flamenga-de-musica/"
+            "url": "https://jornal.usp.br/radio-usp/a-justica-internacional-e-os-desafios-que-os-novos-tempos-lhe-impoem/"
           }
         ],
-        "updatedAt": "2026-08-24T20:18:46.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/08/20260824_madrigais-1024x538.jpg"
+        "updatedAt": "2026-08-25T12:00:05.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/03/20230313_alberto--1024x1024.jpg"
       }
     ],
     "saude": [
@@ -1095,167 +1027,167 @@
     ],
     "esportes": [
       {
-        "clusterId": "28d80b4c1dc2f896",
-        "slug": "4d447de3c2f73300",
-        "titulo": "Tottenham compra atacante brasileiro Savinho por cerca de 100 milhões de euros",
-        "resumo": "O Tottenham anunciou a contratação do atacante brasileiro Savinho, de 22 anos, que deixou o Manchester City. O clube de Londres pagou aproximadamente 93,3 milhões de euros em valor fixo, com mais 5,7 milhões em bônus por desempenho, totalizando cerca de 100 milhões de euros. A transferência representa a maior venda da história do Manchester City. Savinho receberá a camisa 17 e assinará contrato de cinco anos.",
-        "porQueImporta": "A negociação destaca o investimento do Tottenham e a valorização de talentos brasileiros no futebol europeu.",
+        "clusterId": "0a9db4c1d45015c3",
+        "slug": "0a08885611877900",
+        "titulo": "Gerson, Pec, Fred, Castaño: veja quanto Cruzeiro e Atlético-MG gastaram em reforços em 2026",
+        "resumo": "Troca de Passes projeta confronto entre Cruzeiro e Atlético-MG pela Copa do Brasil O confronto entre Atlético-MG e Cruzeiro, pelas quartas de final da Copa do Brasil, coloca à prova dois dos cinco maiores investimentos do futebol brasileiro em 2026. A classificação para a semifinal pode ajudar a amenizar o impacto das cifras gastas pelas equipes na temporada - a premiação é de R$ 9 milhões. A Raposa investiu R$ 299 milhões, enquanto o Galo desembolsou cerca de R$ 166 milhões. Ou seja, o Cruzeiro gastou aproximadamente R$ 133 milhões a mais que o Atlético. + Leia mais notícias do Atlético +…",
+        "porQueImporta": "",
         "category": "esportes",
         "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/mg/futebol/noticia/2026/08/25/gerson-pec-fred-castano-veja-quanto-cruzeiro-e-atletico-mg-gastaram-em-reforcos-em-2026.ghtml"
+          },
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/tottenham-oficializa-contratacao-de-savinho-atacante-brasileiro-do-manchester-city/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/08/25/fatia-milionaria-como-a-transferencia-de-savinho-na-inglaterra-enche-os-cofres-do-atletico-mg.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/savinho-e-anunciado-como-reforco-do-tottenham/"
+            "url": "https://veja.abril.com.br/esporte/cruzeiro-x-atletico-mg-na-copa-do-brasil-onde-assistir-horario-e-escalacoes/"
           }
         ],
-        "updatedAt": "2026-08-25T12:35:23.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/Savinho-signing-not-cropped.jpg?quality=70&strip=info"
+        "updatedAt": "2026-08-25T15:59:47.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/QQ83CufM0juSWJqzU1uXwYC3jh0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/k/P/d1v9ByQyCav5laIVAokg/chatgpt-image-23-de-ago.-de-2026-17-15-21.png"
       },
       {
-        "clusterId": "e04d95858ad7ec94",
-        "slug": "e760181355e94a7e",
-        "titulo": "Hamilton se retrata após criticar a Ferrari na Holanda: \"Não foi minha melhor versão\"",
-        "resumo": "Veja como foi o GP da Holanda de Fórmula 1 Após criticar a Ferrari pelo rádio e em entrevista após o GP da Holanda, realizado no último domingo (23), Lewis Hamilton fez uma publicação nas redes sociais para se retratar pelos comentários. O piloto afirmou que aquela não foi a melhor versão de si mesmo e assumiu a responsabilidade pelas declarações. Acesse o canal de automobilismo do ge no WhatsApp 🔍 Adicione o ge nas suas fontes favoritas do Google Hamilton ironiza estratégia da Ferrari pelo rádio na Holanda - Reescutei alguns dos meus comentários na rádio e na TV. No calor do momento, a…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/motor/formula-1/noticia/2026/08/25/hamilton-se-retrata-apos-criticar-a-ferrari-na-holanda-nao-foi-minha-melhor-versao.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/hamilton-admite-exagero-em-criticas-a-ferrari-nao-fui-eu-mesmo/"
-          }
-        ],
-        "updatedAt": "2026-08-25T12:40:42.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/gXAhoGNdcApLI4tYXyCYtCvzjsA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/l/f/ZiqHsmQoukIPjBaUTCvA/gettyimages-2291709471.jpg"
-      },
-      {
-        "clusterId": "dee50916f25b9a50",
-        "slug": "0be9c74325606d98",
-        "titulo": "Endrick desfalca o Real Madrid contra a Real Sociedad; veja o motivo",
-        "resumo": "Liverpool mira Endrick e pode pagar € 65 milhões ao Real Madrid pelo atacante Endrick será desfalque do Real Madrid contra a Real Sociedad, nesta quarta-feira, pela segunda rodada de La Liga. De acordo com o Diario AS, o atacante brasileiro ainda não está disponível para a partida e segue fora neste início de temporada. + Veja a tabela do Campeonato Espanhol O brasileiro já havia ficado fora da estreia do Campeonato Espanhol, contra o Espanyol, por causa de um problema muscular. Endrick voltou ao Real Madrid após o período de empréstimo ao Lyon e ainda não conseguiu disputar uma partida…",
+        "clusterId": "53a025bb58c4ec97",
+        "slug": "5c7339ce047f28c8",
+        "titulo": "Diomande é apresentado pelo Real Madrid: “Todo mundo sonha jogar aqui”",
+        "resumo": "Apresentação fechada de Yan Diomande como novo jogador do Real Madrid Yan Diomande foi oficialmente apresentado como jogador do Real Madrid nesta terça-feira. Aos 19 anos, o atacante assinou contrato por sete temporadas com o clube espanhol, válido até 30 de junho de 2033. A cerimônia aconteceu na Cidade Real Madrid, com a presença do presidente Florentino Pérez e do presidente de honra José Martínez Pirri. Diomande assinou o vínculo na sala de reuniões e, depois, recebeu os presentes tradicionais destinados aos novos jogadores do clube: uma réplica do estádio Santiago Bernabéu, um relógio e…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/endrick-volta-a-ser-ausencia-em-partida-do-real-madrid/"
+            "url": "https://www.cnnbrasil.com.br/noticias/todo-mundo-sonha-em-jogar-aqui-diomande-em-apresentacao-pelo-real-madrid/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/08/25/endrick-desfalca-o-real-madrid-contra-a-real-sociedad-veja-o-motivo.ghtml"
+            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/08/25/diomande-e-apresentado-pelo-real-madrid-todo-mundo-sonha-em-jogar-aqui.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T12:04:58.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/H1qgv0lvRoraQJl7hSkLwqifAyE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/V/Q/EF7B0rQ9uaYRzDkRWwvQ/gettyimages-2289452615.jpg"
+        "updatedAt": "2026-08-25T15:50:55.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/c8MCpaQpOLstlLADenFwpBSe9V8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Q/R/zHLuAeRimVEfLCoBcTMw/nd-presentacion-diomande-1vc6083.webp"
       },
       {
-        "clusterId": "643f47f6b74a628d",
-        "slug": "104728b43c1186d6",
-        "titulo": "Copa Feminina 2027: sorteio da primeira fase será dia 11 de dezembro no MAM Rio",
-        "resumo": "Fifa divulga o calendário da Copa do Mundo Feminina de 2027 A Fifa realizará o sorteio da primeira fase da Copa do Mundo Feminina 2027 no dia 11 de dezembro. A data foi divulgada nesta segunda-feira no Museu de Arte Moderna (MAM) do Rio de Janeiro, o mesmo local que vai sediar o evento daqui a quatro meses. O museu recebeu a visita da taça original do Mundial, acompanhada de Jill Ellis, diretora de futebol da Fifa. + Veja os estádios onde o Brasil vai jogar + Repescagem dará últimas vagas; veja jogos — Eu acho que o Brasil, por causa da história do futebol nesse país, tem uma torcida educada…",
-        "porQueImporta": "",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/copa-do-mundo-feminina-2027-sorteio-dos-grupos-tem-data-definida/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/copa-do-mundo-feminina/noticia/2026/08/24/copa-feminina-2027-sorteio-da-primeira-fase-sera-dia-11-de-dezembro-no-mam-rio.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-25T11:55:04.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/m_dWBKrFbwaJPIYyJ_D-uDQ1hj8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/1/b/9REB1BRoSlVRvPE2g6bg/whatsapp-image-2026-08-24-at-18.42.17-1-.jpeg"
-      },
-      {
-        "clusterId": "180bdfcfc0d5c08e",
-        "slug": "0ba1c89406bb07f3",
-        "titulo": "Jean Lucas marca quinto gol contra Vitória e se torna quarto maior artilheiro da era City no Bahia",
-        "resumo": "O volante Jean Lucas marcou o segundo gol na vitória do Bahia por 2 a 0 sobre o Vitória, no clássico Ba-Vi 508. Com o gol, ele atingiu cinco gols contra o rival e superou Thaciano, ficando como quarto maior artilheiro da era City no Tricolor. O jogador já possui 22 gols em 152 partidas desde que chegou ao Bahia em 2024.",
-        "porQueImporta": "A conquista reforça a importância de Jean Lucas na ofensiva do Bahia e destaca sua relevância histórica no clube.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/ba/futebol/times/bahia/noticia/2026/08/25/artilheiro-dos-ba-vis-jean-lucas-e-o-quarto-maior-goleador-da-era-city-no-bahia-veja-lista.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-25T11:30:23.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/VCVFwIf_03f96jGHqsJAXLLvkq8=/s01.video.glbimg.com/deo/vi/96/85/14898596"
-      },
-      {
-        "clusterId": "5194f736b6ed778f",
-        "slug": "3822194fd0a163e0",
-        "titulo": "Flamengo conhece rival na Libertadores nesta terça e projeta desafios com logística; saiba quais",
-        "resumo": "O Flamengo é o único clube classificado às quartas de final da Conmebol Libertadores que ainda não conhece o seu próximo adversário. Mas a espera termina nesta terça-feira. Independiente del Valle e Tolima se enfrentam às 21h30 (de Brasília) para definir quem será o próximo adversário rubro-negro. Para além do confronto, o clube aguarda para definir a logística de viagens. Chegou a hora de Rossi ser barrado no Fla? Podcast ge Flamengo debate Neste momento, a tendência é que o Flamengo faça uma viagem casada depois do duelo contra o Remo, em Belém, no dia 6 de setembro. De lá, o clube aguarda…",
+        "clusterId": "42f5361f56b20b93",
+        "slug": "79ac5240d792cfbf",
+        "titulo": "Marcelo Paz diz que El Shaarawy e Bakayoko foram oferecidos ao Corinthians",
+        "resumo": "Voz do Setorista: Yuri Alberto deve voltar a treinar no CT do Corinthians Marcelo Paz, o executivo de futebol do Corinthians, afirmou que o italiano El Shaarawy e o francês Bakayoko - ambos com passagens por suas respectivas seleções - foram oferecidos ao clube nesta janela de transferências. As negociações não avançaram por causa da grave crise financeira vivida pelo Timão. + Siga o canal ge Corinthians no WhatsApp — Foi algo que aconteceu, mas não poderíamos contratar naquele momento até pelo transfer ban. O Bakayoko e El Shaarawy foram oferecidos ao Corinthians. Dois grandes jogadores de…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/25/flamengo-conhece-rival-na-libertadores-nesta-terca-e-projeta-desafios-com-logistica-saiba-quais.ghtml"
+            "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/08/25/marcelo-paz-diz-que-el-shaarawy-e-bakayoko-foram-oferecidos-ao-corinthians.ghtml"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/rival-do-flamengo-na-libertadores-sera-definido-nesta-terca-feira-25/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/el-shaarawy-e-bakayoko-sao-oferecidos-ao-corinthians-revela-marcelo-paz/"
           }
         ],
-        "updatedAt": "2026-08-25T11:00:31.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/lcVjK9VvZr-7d6ZoqbIeKPiQZYs=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/u/q/WySCl6TDStTGHOk2wR0A/agif26082221032239.jpg"
+        "updatedAt": "2026-08-25T15:16:49.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/Ttbk_Z27XIrkvJS27HC64IV-oj0=/s.glbimg.com/es/ge/f/original/2017/10/31/2017-10-31t202859z_173558260_rc1f30555160_rtrmadp_3_soccer-champions-rom-che_oNqkUfR.jpg"
       },
       {
-        "clusterId": "f012e2c52c9e413b",
-        "slug": "f07fb34df91db838",
-        "titulo": "Cruzeiro e Atlético-MG se enfrentam na Copa do Brasil para avançar",
-        "resumo": "O clássico entre Cruzeiro e Atlético-MG volta na fase de quartas de final da Copa do Brasil, com ambos os times buscando a vaga nas semifinais. O duelo ocorre no Estádio Mineirão, em Belo Horizonte, às 21h (horário de Brasília). O Atlético-MG passou por mudanças significativas desde o último encontro, incluindo novo técnico e elenco. A partida será transmitida ao vivo pela Sportv e Premiere.",
-        "porQueImporta": "Decisiva para a classificação dos dois clubes na Copa do Brasil.",
+        "clusterId": "6cb78a90176e2dcd",
+        "slug": "26fb27a7e40730ae",
+        "titulo": "Corinthians negocia venda de André ao Nottingham Forest",
+        "resumo": "Voz do Setorista: Corinthians negocia a venda de André O Corinthians está negociando a venda do meio-campista André ao Nottingham Forest, da Inglaterra. + Siga o canal ge Corinthians no WhatsApp O Corinthians e o clube inglês têm conversado e trocado propostas para chegar a um acordo pelo jogador de 20 anos, formado nas categorias de base. Ainda não houve formalização. Veja lances do volante André, do Corinthians Segundo o jornal Daily Mail, a negociação seria por 13,6 milhões de libras (em torno de R$ 95 milhões na cotação atual). O Corinthians não confirma o valor da transação. O clube tem…",
+        "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/cruzeiro-e-atletico-mg-se-enfrentam-na-copa-do-brasil-para-salvar-ano/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/nottingham-forest-abre-conversas-por-andre-volante-do-corinthians/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/08/25/o-que-mudou-no-atletico-mg-desde-o-ultimo-encontro-com-o-cruzeiro-na-copa-do-brasil.ghtml"
+            "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/08/25/corinthians-negocia-venda-de-andre-ao-nottingham-forest.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T09:00:16.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/PvRAVJkTcQnAwnef0akYrETF41s=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/E/A/ZxDHyRQVGhydUbMpDIUw/agif25082720245046.jpg"
+        "updatedAt": "2026-08-25T14:29:59.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/ekH9xLjbyNbVZ-_fUVnvtkNtEJY=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/j/v/GsSTVrTkOVpKJMBoSE1w/246717.jpg"
       },
       {
-        "clusterId": "99514ea3b4cdf02a",
-        "slug": "7d9b5f4054ad2647",
-        "titulo": "Festival Energizando no Meio do Mundo começa nesta quarta-feira em Macapá",
-        "resumo": "Festival Energizando no Meio do Mundo leva capoeira para Macapá entre os dias 26 e 29 de agosto Redes sociais A capoeira vai movimentar Macapá a partir desta quarta-feira (26). O Festival Energizando no Meio do Mundo começa com uma programação de quatro dias, reunindo oficinas, rodas, vivências e a disputa da Copa Equinócio de Capoeira, que encerra o evento no sábado (29). ✅ Clique aqui para seguir o canal do ge AP no WhatsApp A programação de abertura será realizada no Complexo Glicério Marques, das 18h às 21h, com oficinas de capoeira destinadas a alunos acima de 14 anos dos polos do grupo…",
+        "clusterId": "c5e235b48e527791",
+        "slug": "a4cd67444e0c41c8",
+        "titulo": "Barletta deve seguir como desfalque no Sport contra o Novorizontino",
+        "resumo": "Com lesão muscular, Barletta desfalca o Sport contra o Avaí O atacante Barletta dificilmente volta ao Sport na partida contra o Novorizontino, na próxima sexta-feira, fora de casa, pela Série B. O jogador desfalcou o time em duas partidas, contra o Avaí e América-MG, e continua na fisioterapia tratando de lesão na coxa. O departamento médico e de performance do Sport não descartam a possibilidade do atleta voltar ao time, mas a proximidade da partida é um empecilho. O elenco, inclusive, se reapresenta nesta terça no CT e viaja na quarta para São Paulo. + ✅Clique aqui para seguir o novo canal…",
         "porQueImporta": "",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/ap/noticia/2026/08/25/festival-energizando-no-meio-do-mundo-comeca-nesta-quarta-feira-em-macapa.ghtml"
+            "url": "https://ge.globo.com/sp/tem-esporte/futebol/brasileirao-serie-b/jogo/28-08-2026/novorizontino-sport.ghtml"
           }
         ],
-        "updatedAt": "2026-08-25T12:26:24.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/FsvGumi1OqZggdXs1msaqj6Z1vk=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Q/m/HBMVGdTG6wkhvOiw8nXg/chatgpt-image-25-de-ago.-de-2026-09-19-43.png"
+        "updatedAt": "2026-08-25T16:23:55.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/7ljrGa1bQi1qkRmgVi0DsF-CM-8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/t/C/PMkjxJRZimdnI78RfXcw/agif26071818101534.jpg"
+      },
+      {
+        "clusterId": "f1599043edfda52c",
+        "slug": "c45ba7d04513e1e6",
+        "titulo": "Escalação do Vitória contra o Vasco: veja time provável, dúvidas e desfalques após o último treino",
+        "resumo": "\"Se não fosse Lucas Arcanjo, teria sido pior\" diz Yuri Figueiredo | A Voz da Torcida O Vitória está pronto para enfrentar o Vasco no jogo de ida das quartas de final da Copa do Brasil. Jair Ventura teve dois dias de trabalho com o elenco depois de perder o Ba-Vi 508 e encerrou o período com um treino na manhã desta terça-feira. A principal novidade da atividade foi a presença de Caíque Gonçalves. Siga o ge Vitória nos Canais do WhatsApp Veja quem chega e quem sai do Vitória em 2026 Desfalque nos últimos dois jogos por causa de um trauma no joelho, o volante deve voltar a ficar à disposição de…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/rj/futebol/copa-do-brasil/jogo/26-08-2026/vasco-vitoria.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-25T16:23:41.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/v7qntN1jccHKSHWi6WwxgBRXR5c=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/y/x/RpXB3gTCGAxBK5ngo0Og/victor-ferreira-66177.jpg.jpeg"
+      },
+      {
+        "clusterId": "8a1e139f831d7a65",
+        "slug": "4c76b6a005b7b9cc",
+        "titulo": "Caiçara anuncia reforços, e técnico Caio Simões avalia pré-temporada para o Piauiense Série B",
+        "resumo": "Assista à entrevista de Caio Simões, técnico do Caiçara O Caiçara confirmou o acerto com mais seis jogadores para a disputa do Campeonato Piauiense Série B 2026: os laterais Samuel Flores e Jackson Lobato, o zagueiro Hauriano Júnior, os volantes Celso José e Bruno Gabriel e o meio-campo Cezinha. O clube de Campo Maior entrou na sua quarta semana de pré-temporada para o torneio de acesso, e o técnico da equipe, Caio Simões, avaliou esse período de preparação e o elenco que tem à disposição até o momento. Confira o vídeo acima. + Veja tabela detalhada do Campeonato Piauiense Série B 2026 Treino…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/pi/futebol/times/caicara/noticia/2026/08/25/caicara-anuncia-reforcos-e-tecnico-caio-simoes-avalia-pre-temporada-para-o-piauiense-serie-b.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-25T16:21:52.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/sB4Bz5woN8gJ6laWNMD0pSEJApU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/a/k/IOx1g4RqCUVAqTr0vJVg/1001489443.jpg.jpeg"
+      },
+      {
+        "clusterId": "6f06b310a01c62e5",
+        "slug": "ce5179d4604211c5",
+        "titulo": "Dínamo de Moscou negocia a contratação de Plata, do Flamengo",
+        "resumo": "O atacante Gonzalo Plata, do Flamengo, voltou a despertar o interesse do futebol russo. Desta vez, foi o Dínamo de Moscou quem abriu negociações pela contratação do equatoriano, de 25 anos. Os clubes mantêm conversas e discutem os termos de um possível negócio pelo jogador. + Flamengo se reapresenta visando nova arrancada com Jardim, recuperar atletas e virar página Fred Gomes compara sequências de Flamengo e Palmeiras na briga pelo título + Flamengo conhece rival na Libertadores nesta terça e projeta desafios com logística De acordo com o portal russo Sport24, o Dínamo já teria um acordo com…",
+        "porQueImporta": "",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/08/25/dinamo-de-moscou-negocia-a-contratacao-de-plata-do-flamengo.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-25T16:14:31.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/RrIn-XzZ6MmWR2qN3XU_QRT_8lY=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/n/H/5VWeqKRkaDhhSe2Tg6Ag/1.jpg"
       }
     ],
     "entretenimento": [
+      {
+        "clusterId": "3aa76d18e5b42407",
+        "slug": "c28bd90f83eb51eb",
+        "titulo": "Músicas criadas por IA são banidas de paradas de sucesso na Austrália",
+        "resumo": "Austrália estabelece novas regras para plataformas de áudio sgcdesignco/Unsplash Músicas criadas por inteligência artificial (IA) ficarão proibidas nas principais paradas musicais da Austrália, segundo novas diretrizes destinadas a proteger \"a natureza humana da criação artística\". A notícia foi confirmada nesta terça-feira (25) por uma entidade que representa a indústria fonográfica do país. De acordo com as novas regras, que entrarão em vigor na sexta-feira (28), a música deverá ser \"substancialmente criada por humanos\" para poder entrar nos rankings de popularidade, informou a Associação…",
+        "porQueImporta": "",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/08/25/musicas-criadas-por-ia-sao-banidas-de-paradas-de-sucesso-na-australia.ghtml"
+          }
+        ],
+        "updatedAt": "2026-08-25T11:05:24.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/VopmBdtzmt3qeCbVXq7ret1wMiY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/x/jz9VTWSiKr7W4740UsLA/sgcdesignco-nio8fd-rnge-unsplash.jpg"
+      },
       {
         "clusterId": "748fd6c81a04827b",
         "slug": "ea8a064937f5b5f0",
@@ -1367,22 +1299,6 @@
         ],
         "updatedAt": "2026-08-24T19:17:31.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/ushOTYAKYzhoFuC969xEcdFsUqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/A/PUQLSaTYi4Y2n8caB5bg/oscar2027.jpg"
-      },
-      {
-        "clusterId": "36a7dfde2abb954a",
-        "slug": "58a4b4b2a5b7c260",
-        "titulo": "Banda mineira Varanda lança álbum com Fernanda Takai, título gigante e repertório autoral costurado pelo sonho",
-        "resumo": "Banda de indie rock formada em Juiz de Fora (MG), Varanda lança o segundo álbum na próxima sexta-feira, 28 de agosto Yan Gabriel / Divulgação ♫ NOTÍCIA ♬ O título do álbum que a banda Varanda lançará na próxima sexta-feira, 28 de agosto, é um dos maiores nome de discos da história do universo pop. A rigor, o título completo do segundo álbum da banda mineira de indie rock é “Às vezes um sonho pode ser um planeta inteiro ou uma canção ou uma cama com travesseiro de pluma de ganso ou um apagão ou a grande luz no meio desse grande túnel no qual estamos inegável infalível incansavelmente…",
-        "porQueImporta": "",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/08/24/banda-mineira-varanda-lanca-album-com-fernanda-takai-titulo-gigante-e-repertorio-autoral-costurado-pelo-sonho.ghtml"
-          }
-        ],
-        "updatedAt": "2026-08-24T18:31:53.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/-_WU7idsUrj1jMdzOTkqlmr17PE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/n/zyzjAsSyWjsGcqmQ07nw/varanda-ano-2026-7-yan-gabriel.jpeg"
       }
     ]
   }
