@@ -1,8 +1,11 @@
 {
-  "ranAt": "2026-08-27T07:55:02.828Z",
+  "ranAt": "2026-08-27T18:54:40.521Z",
   "editionDate": "2026-08-27",
-  "hourUtc": 7,
-  "outcome": "skipped",
-  "reason": "fora da janela (7h < 11h UTC)",
-  "attempts": []
+  "hourUtc": 18,
+  "outcome": "not-generated",
+  "reason": "IA fora ou validação reprovou",
+  "attempts": [
+    "erro — Error: groq 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-20b` in organization `org_01kscvvnpvfp",
+    "erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
+  ]
 }
