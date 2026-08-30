@@ -1,11 +1,10 @@
 {
-  "ranAt": "2026-08-30T13:36:44.594Z",
+  "ranAt": "2026-08-30T19:04:36.195Z",
   "editionDate": "2026-08-30",
-  "hourUtc": 13,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 19,
+  "outcome": "generated",
+  "reason": "\"Decisões e tensões marcam o dia em política, tecnologia e esportes\" (3 parágrafos)",
   "attempts": [
-    "erro — Error: groq 413: {\"error\":{\"message\":\"Request too large for model `openai/gpt-oss-20b` in organization `org_01kscvvnpvfp",
-    "erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
+    "ok"
   ]
 }
