@@ -1,696 +1,699 @@
 {
   "date": "2026-09-04",
-  "generatedAt": "2026-09-04T08:31:41.436Z",
+  "generatedAt": "2026-09-04T15:53:00.064Z",
   "home": [
     {
-      "clusterId": "0dae7a6a75c981d8",
-      "slug": "0759bf25b5a7d938",
-      "titulo": "Moraes pede investigação de Mendonça no STF",
-      "resumo": "O ministro Alexandre de Moraes solicitou ao presidente Edson Fachin que abra investigação contra André Mendonça, alegando fortes indícios de improbidade administrativa, abuso de autoridade e crime de responsabilidade. O pedido foi feito no âmbito do inquérito das fake news, após Mendonça ter retirado o sigilo de relatório da Polícia Federal sobre mensagens de Daniel Vorcaro para Moraes. Fachin concedeu cinco dias para que os envolvidos apresentem esclarecimentos. A crise tem repercussões na credibilidade e funcionamento do Supremo Tribunal Federal.",
-      "porQueImporta": "A disputa pode levar a decisões colegiadas que afetarão a composição e a autoridade dos ministros do STF.",
+      "clusterId": "0d86ad7ad08d23b4",
+      "slug": "7458d964e6851320",
+      "titulo": "Lula se posiciona sobre crise no STF e defende reforma do Judiciário",
+      "resumo": "O presidente Luiz Inácio Lula da Silva criticou a crise no STF, apontando vazamentos seletivos e exigindo investigação completa do caso Master. Ele pediu que os ministros Fachin e Gonet liderem a apuração e defendeu a criação de um código de ética para o Judiciário e o Ministério Público. A campanha de Lula reforçou a mensagem de que ninguém está acima da lei.",
+      "porQueImporta": "A posição de Lula pode influenciar a percepção pública e a condução das investigações no STF.",
       "category": "politica",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/blog-do-noblat/ricardo-noblat/a-maior-crise-dos-135-anos-do-stf-o-choque-entre-mendonca-e-moraes"
+          "url": "https://www.metropoles.com/brasil/em-meio-a-crise-no-supremo-lula-defende-nova-reforma-do-poder-judiciario"
         },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/04/o-contra-ataque-de-moraes-a-mendonca-a-crise-inedita-na-historia-do-supremo-o-assunto-1798.ghtml"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cly457vr0nro?at_medium=RSS&at_campaign=rss"
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/ninguem-pode-usar-o-cargo-em-beneficio-pessoal-lula-busca-alianca-com-fachin-e-gonet-diante-de-crise/"
         },
         {
           "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-justica/pf-ve-mendonca-mais-disposto-a-investigar-moraes-do-que-toffoli/"
+          "url": "https://www.poder360.com.br/poder-governo/sem-citar-moraes-lula-diz-que-ninguem-pode-usar-cargo-em-beneficio-pessoal/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/inteligencia-da-pf-ve-mendonca-ciente-de-que-investigacao-atingiria-moraes/"
+          "url": "https://www.cnnbrasil.com.br/politica/ninguem-pode-usar-o-cargo-que-tem-em-beneficio-pessoal-diz-lula/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/09/04/crise-master-no-stf-lula-volta-a-defender-reforma-do-poder-judiciario.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/sem-citar-moraes-lula-defende-reforma-no-judiciario-e-diz-que-ninguem-esta-acima-da-lei/"
+        }
+      ],
+      "updatedAt": "2026-09-04T15:43:53.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/09/fachin-lula-gonet.jpg"
+    },
+    {
+      "clusterId": "55850798ac6cd3c4",
+      "slug": "305d1bb0591269bf",
+      "titulo": "Fachin retira pedido de investigação de Mendonça do inquérito das fake news",
+      "resumo": "O presidente do STF, Edson Fachin, excluiu do inquérito das fake news o pedido de investigação feito por Alexandre de Moraes contra André Mendonça. Fachin determinou que a Procuradoria-Geral da República e Mendonça se manifestem em até cinco dias úteis sobre o pedido. O caso faz parte de uma crise interna no tribunal envolvendo acusações de improbidade e favorecimento político. A decisão mantém os dois inquéritos separados e encaminha-os para a Presidência da Corte.",
+      "porQueImporta": "A medida pode definir o rumo da crise no Supremo e a forma como os ministros lidam com acusações internas.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/c780jqdep1go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/justica/fachin-defende-encerrar-o-inquerito-das-fake-news-apos-moraes-solicitar-investigacao-contra-mendonca/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/09/04/fachin-manda-pgr-e-mendonca-se-manifestarem-sobre-pedido-de-investigacao-feito-por-moraes.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/em-evento-com-lula-fachin-pede-fim-do-inquerito-das-fake-news-e-adocao-do-codigo-de-etica-no-stf/"
+        }
+      ],
+      "updatedAt": "2026-09-04T15:49:27.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/272b/live/19136220-a865-11f1-ae45-e9984fc27c77.jpg"
+    },
+    {
+      "clusterId": "0630d0a1e39d7df5",
+      "slug": "6d03cc471c30f15a",
+      "titulo": "Presidente do STF pede fim do inquérito das fake news",
+      "resumo": "O ministro Edson Fachin afirmou que a crise recente na Corte exige a conclusão do inquérito sobre fake news, que está em andamento há mais de sete anos. Ele destacou que a investigação deve ser encerrada como uma das três prioridades da sua gestão, junto com a adoção de um código de ética e a modernização do sistema de Justiça. Fachin ressaltou que nenhum órgão ou autoridade está acima da Constituição e que a gravidade dos fatos não permite atalhos.",
+      "porQueImporta": "Encerrar o inquérito pode reduzir a tensão interna e restaurar a confiança na independência do STF.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/09/04/inquerito-das-fake-news-tem-mais-de-sete-anos-pressiona-moraes-e-ampliou-crise-no-stf.ghtml"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-justica/fachin-diz-que-crise-no-stf-torna-urgente-fim-do-inquerito-das-fake-news/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/fachin-defende-codigo-de-etica-no-stf-e-fim-do-inquerito-das-fake-news/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/fachin-defende-adocao-do-codigo-de-etica-e-fim-do-inquerito-das-fake-news/"
+        }
+      ],
+      "updatedAt": "2026-09-04T15:46:38.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/55211649241_770411edd2_c.jpg"
+    },
+    {
+      "clusterId": "bd39c9f085c3deb0",
+      "slug": "e3030db8f5b44c6e",
+      "titulo": "Rock in Rio 2026 abre nesta sexta com Foo Fighters e Rise Against",
+      "resumo": "O festival inicia no dia 4 de setembro com o palco Mundo, onde os Foo Fighters se apresentam às 0h05 e a banda Rise Against começa às 21h20. Os portões da Cidade do Rock abrem cedo, e os fãs organizam a fila escrevendo números nas mãos para evitar perdas de lugar. Crianças e adolescentes até 16 anos devem se cadastrar online para receber pulseiras de identificação. O evento contará com 190 shows, 1,3 mil artistas e 385 mil metros quadrados de área.",
+      "porQueImporta": "É o primeiro dia de um festival que reúne milhares de pessoas e artistas internacionais, exigindo organização e segurança para os participantes.",
+      "category": "entretenimento",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/pop/musica/rise-against-no-rock-in-rio-veja-provavel-setlist-para-o-show/"
         },
         {
           "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/moraes-diz-que-mendonca-queria-direcionar-investigacoes-para-atingir-davi-alcolumbre/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/justica/leia-a-integra-do-pedido-de-investigacao-de-moraes-contra-mendonca/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/fachin-pede-esclarecimentos-a-moraes-mendonca-gonet-e-andrei/"
+          "url": "https://www.infomoney.com.br/minhas-financas/vai-ao-rock-in-rio-veja-como-proteger-celular-e-dinheiro-durante-o-festival/"
         },
         {
           "name": "Exame",
-          "url": "https://exame.com/brasil/fachin-oficia-moraes-mendonca-gonet-e-delegado-geral-da-pf-a-prestarem-esclarecimentos/"
+          "url": "https://exame.com/pop/foo-fighters-faz-7o-show-no-brasil-no-rock-in-rio-e-volta-ao-pais-em-2027/"
         }
       ],
-      "updatedAt": "2026-09-04T07:30:09.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/09/ministros-do-supremo-tribunal-federal-stf-andre-mendonca-e-alexandre-de-moraes-durante-sessao-da-corte-metropoles-6-2-scaled.jpg"
+      "updatedAt": "2026-09-04T15:40:01.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/4FumOKj1yE6g7SDoSn7sjwYND5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/J/sdTM8fSzAgiALTo1XRJQ/rj1-limpo-20260901-1115-frame-179097.jpeg"
     },
     {
-      "clusterId": "3019c23cacbae4b7",
-      "slug": "be0dc0f08632f98d",
-      "titulo": "Datafolha mostra Lula com 38% no primeiro turno e 46% no segundo turno",
-      "resumo": "A pesquisa Datafolha, com 2.002 entrevistados, indica que Lula (PT) tem 38% das intenções de voto no primeiro turno, enquanto Flávio Bolsonaro (PL) tem 33%. No cenário de segundo turno, Lula sobe para 46% e Flávio para 44%, permanecendo dentro da margem de erro de dois pontos percentuais. O escritor Augusto Cury aparece com 8% no primeiro turno, enquanto outros candidatos têm percentuais abaixo de 5%.",
-      "porQueImporta": "Os resultados refletem a proximidade entre os candidatos e a possibilidade de um segundo turno decisivo nas eleições presidenciais.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/o-estado-onde-lula-tem-23-pontos-de-vantagem-sobre-flavio-bolsonaro/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/datafolha-lula-tem-38-no-primeiro-turno-flavio-bolsonaro-33/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/datafolha-rejeicao-candidatos-3-setembro.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/datafolha-flavio-bolsonaro-tem-47-de-rejeicao-e-lula-45/"
-        }
-      ],
-      "updatedAt": "2026-09-03T22:22:21.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/lula-flavio-bolsonaro-11.jpg"
-    },
-    {
-      "clusterId": "6054773d388c97b8",
-      "slug": "3eaf0bca96cfde5d",
-      "titulo": "Ipswich Town enfrenta Liverpool na terceira rodada da Premier League 2026/27",
-      "resumo": "O duelo entre Ipswich Town e Liverpool está marcado para esta sexta-feira, 4 de outubro, às 16h (horário de Brasília), no estádio Portman Road. O jogo faz parte da terceira rodada da temporada 2026/27 da Premier League. O Liverpool, que ainda não demonstrou toda sua força na competição, busca seu primeiro triunfo na temporada, enquanto o Ipswich tenta se recuperar de uma goleada anterior. A partida pode ser acompanhada ao vivo em plataformas de transmissão disponíveis.",
-      "porQueImporta": "É um confronto importante para ambos os clubes, influenciando a posição na tabela da Premier League.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/09/04/internet-e-redes-sociais/ipswich-x-liverpool-onde-assistir-horario-e-escalacao-da-premier-league/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/ipswich-x-liverpool-horario-e-onde-assistir-ao-jogo-da-premier-league/"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/09/04/ipswich-town-x-liverpool-na-premier-league-onde-assistir-ao-vivo-e-horario.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-04T08:00:00.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/L1PJP3O4YN7fv4W2sCqlBzsdkTc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/j/4/sK0YZLTMOLAE0b8XWt9g/2026-08-23t173037z-851957736-up1em8n1cmzbe-rtrmadp-3-soccer-england-new-liv.jpg"
-    },
-    {
-      "clusterId": "f8d00b1edc78640b",
-      "slug": "db67e7788c5b97dd",
-      "titulo": "STF fixa limite de renda de R$ 5 mil para Justiça gratuita",
-      "resumo": "O Supremo Tribunal Federal estabeleceu que a renda máxima para ter acesso à Justiça gratuita é de R$ 5.000,00. A decisão revogou a possibilidade de autodeclaração de pobreza e o limite de 40% do teto da Previdência. Pessoas que ganham mais que esse valor ainda podem solicitar a gratuidade se comprovarem insuficiência financeira. O novo critério se aplica a todos os ramos do Judiciário.",
-      "porQueImporta": "Define quem pode usufruir da Justiça gratuita, impactando o acesso à justiça no país.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/stf-define-limite-de-renda-de-r-5-mil-para-justica-gratuita"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/stf-fixa-r-5-mil-como-novo-teto-de-renda-para-justica-gratuita/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/justica/stf-contraria-tst-e-limita-acesso-a-justica-do-trabalho-gratuita-a-quem-ganha-ate-r-5-mil/"
-        }
-      ],
-      "updatedAt": "2026-09-04T07:08:45.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/09/55505353267-1a5258fbfa-k.jpg"
-    },
-    {
-      "clusterId": "136dd86158f758fa",
-      "slug": "28ef295dd1e21e18",
-      "titulo": "Tribunal Regional Eleitoral do DF nega registro da candidatura de José Roberto Arruda ao governo do DF",
-      "resumo": "O Tribunal Regional Eleitoral do Distrito Federal rejeitou, por unanimidade, o registro da candidatura do ex-governador José Roberto Arruda, do PSD, ao cargo de governador. Arruda afirmou que vai recorrer ao Tribunal Superior Eleitoral. A decisão foi tomada com 5 votos a 0. Até que haja uma decisão definitiva, Arruda pode continuar em campanha.",
-      "porQueImporta": "A decisão pode impedir a participação de um ex-governador na eleição, afetando a dinâmica política do Distrito Federal.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/distrito-federal/o-que-pensam-os-postulantes-ao-gdf-sobre-o-veto-a-candidatura-de-arruda"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/tre-indefere-candidatura-de-jose-roberto-arruda-ao-governo-do-df/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/03/arruda-diz-que-vai-recorrer-ao-tse-para-manter-candidatura-ao-governo-do-df-tre-negou-registro-por-unanimidade.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-04T07:00:39.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/09/jose-roberto-arruda-psd-metropoles-scaled-e1788480385795.jpg"
-    },
-    {
-      "clusterId": "7c291d47822783b2",
-      "slug": "5409e2b065643ee7",
-      "titulo": "Mendonça expressou desconfiança em procuradores por proximidade com autoridades",
-      "resumo": "O Ministério Público relatou que o ministro da Justiça, Mendonça, manifestou desconfiança em relação a dois procuradores, Andrei e Gonet, citando a proximidade deles com Lula e com o ministro do STF, Gilmar Mendes, respectivamente. Em ambos os casos, o relatório indica que o ministro considerou medidas de afastamento ou reestruturação do cargo de procurador-geral. A PF destaca que as ações foram baseadas em “imputações genéricas” e não em acusações formais.",
-      "porQueImporta": "A decisão pode afetar a independência e a atuação do Ministério Público no país.",
+      "clusterId": "43b43a5da54e5e0e",
+      "slug": "2271dc9703466e3c",
+      "titulo": "Fachin garante resposta firme e sem omissão ao escândalo no STF",
+      "resumo": "O presidente do Supremo Tribunal Federal, Luiz Edson Fachin, afirmou que a crise envolvendo o banco Vorcaro e possíveis articulações para abafar denúncias será investigada de forma rigorosa. Ele declarou que nenhuma autoridade está acima da Constituição e que a gravidade dos fatos não autoriza atalhos. Fachin prometeu que a Corte tomará medidas firmes e proporcionais para esclarecer a situação.",
+      "porQueImporta": "A declaração reforça o compromisso da Corte com a transparência e a aplicação da lei, impactando a confiança pública no sistema judicial.",
       "category": "politica",
       "sources": [
         {
           "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-justica/pf-diz-que-mendonca-desconfiava-de-andrei-por-proximidade-com-lula/"
+          "url": "https://www.poder360.com.br/poder-justica/gravidade-dos-fatos-nao-autoriza-atalhos-diz-fachin-sobre-stf/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/a-gravidade-dos-fatos-nao-autoriza-atalhos-diz-edson-fachin-sobre-escandalo-no-stf/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/pf-diz-que-mendonca-desconfiava-de-gonet-por-proximidade-com-gilmar-mendes/"
+          "url": "https://www.cnnbrasil.com.br/politica/fachin-diz-que-resposta-a-crise-do-stf-sera-firme-proporcional-e-rigorosa/"
         },
         {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/justica/mendonca-citou-proximidade-de-gonet-com-gilmar-mendes-para-defender-afastamento-do-pgr-diz-pf/"
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/09/04/em-meio-a-crise-master-no-stf-fachin-defende-dialogo-entre-instituicoes-durante-evento-no-planalto.ghtml"
         }
       ],
-      "updatedAt": "2026-09-04T03:03:40.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/02/Foto-Rosinei-CoutinhoSTFaoa.jpg"
+      "updatedAt": "2026-09-04T15:10:17.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/55490837152_27680ee681_c.jpg"
     },
     {
-      "clusterId": "9c8d4edc287d97ac",
-      "slug": "46bac7eaed7043fd",
-      "titulo": "Lula afirma que país não pode ficar refém de vazamentos seletivos e defende reforma no Judiciário",
-      "resumo": "O presidente Luiz Inácio Lula da Silva declarou que o Brasil não pode ficar refém de vazamentos seletivos, citando o escândalo do Banco Master como exemplo de roubo em larga escala. Ele ressaltou a necessidade de investigar todos os envolvidos, sem blindagem, e de aplicar punições a quem for culpado. Lula também defende a adoção de um código de ética para o Judiciário.",
-      "porQueImporta": "A declaração destaca a preocupação do governo com a transparência e a responsabilidade no sistema judicial.",
+      "clusterId": "46c6dbb2d362b25e",
+      "slug": "9a35ac4a19e3bf1b",
+      "titulo": "Ibovespa recua após 11 altas consecutivas e dólar cai",
+      "resumo": "O Ibovespa fechou em leve desvalorização, interrompendo o rali de 11 altas consecutivas, enquanto o dólar caiu 0,07%, cotado a R$ 5,1047. O movimento de realização ocorreu após forte valorização da Bolsa, impulsionada pelo chamado \"trade eleitoral\". Investidores aguardam resultados de pesquisa eleitoral do Datafolha e dados dos EUA.",
+      "porQueImporta": "Reflete a influência das eleições e expectativas de mercado sobre os principais ativos brasileiros.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-04092026/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/economia/noticia/2026/09/04/dolar-ibovespa.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/invest/mercados/ibovespa-cai-apos-payroll-sinalizar-alta-de-juros-nos-eua-dolar-avanca/"
+        }
+      ],
+      "updatedAt": "2026-09-04T15:52:36.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/07/2025-07-12T152558Z_1_LYNXMPEL6B06W_RTROPTP_4_BUSINESS-CURRENCY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "e6c52cea655a96ff",
+      "slug": "4c7a7246491fa52e",
+      "titulo": "Júri de caso de enfermagem que matou três filhos não chega a veredicto",
+      "resumo": "O júri encarregado de julgar a enfermeira americana Lindsay Clancy, acusada de homicídio em primeiro grau pelos estrangulamentos de seus três filhos em 2023, não conseguiu chegar a um veredicto após dias de impasse. O juiz William Sullivan anunciou que o julgamento será anulado. A defesa sustenta que Clancy sofria de psicose pós‑parto. O caso permanece em aberto para nova ação judicial.",
+      "porQueImporta": "Ilustra a complexidade de processos criminais envolvendo transtornos mentais e a importância de decisões judiciais fundamentadas.",
       "category": "geral",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/nossa-justica-nao-pode-ficar-refem-de-vazamentos-seletivos-diz-lula/"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/julgamento-de-lindsay-clancy-termina-sem-veredito-apos-impasse-do-juri/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/09/04/enfermeira-que-matou-os-3-filhos-juiz-anula-julgamento-apos-juri-nao-chegar-a-consenso-sobre-se-houve-homicidio.ghtml"
+        },
+        {
+          "name": "Super Interessante",
+          "url": "https://super.abril.com.br/saude/o-que-e-psicose-pos-parto-condicao-rara-por-tras-de-julgamento-midiatico-nos-eua/"
+        }
+      ],
+      "updatedAt": "2026-09-04T15:36:30.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/z1eowhpMmBh7bEh0-iKI4P6Zb0Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/O/skdBQXTL6znNzNYKfNGQ/ap26245681999453.jpg"
+    },
+    {
+      "clusterId": "abe1dfec6bfbb9b8",
+      "slug": "cb06f55047fdb358",
+      "titulo": "Fachin afirma que nenhuma autoridade está acima da Constituição",
+      "resumo": "O presidente do STF, Luiz Fux, declarou que nenhum poder ou autoridade se sobrepõe à Constituição e que os ritos legais devem ser respeitados. Ele garantiu que a resposta à crise na Corte será firme, proporcional e rigorosa. Fachin também reafirmou a intenção de encerrar o inquérito sobre fake news. A declaração foi feita em evento no Planalto.",
+      "porQueImporta": "Reafirma a primazia da Constituição e a independência do Judiciário diante de crises políticas.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/ao-lado-de-lula-fachin-afirma-que-nenhuma-autoridade-esta-acima-da-constituicao/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/2o-encontro-de-compliance/com-crise-no-stf-fachin-afirma-que-ninguem-esta-acima-da-constituicao/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/fachin-nenhuma-autoridade-esta-acima-da-constituicao/"
+        }
+      ],
+      "updatedAt": "2026-09-04T15:30:16.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/02/abertura-stf-mc_abr_30012026-9.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "85afb4a3a585bffd",
+      "slug": "a66b4442dee7611d",
+      "titulo": "Lula critica uso político de cargos e vazamentos seletivos no STF",
+      "resumo": "O presidente Luiz Inácio Lula da Silva denunciou que autoridades não podem usar funções públicas para benefício próprio e que vazamentos seletivos, motivados por interesses políticos e econômicos, ameaçam a credibilidade da Justiça. Ele destacou o escândalo do Banco Master como exemplo de corrupção envolvendo políticos e agentes públicos. Lula defende a adoção de um código de ética para o Judiciário e a discussão de uma reforma no poder Judiciário.",
+      "porQueImporta": "A crítica de Lula aponta fragilidades na confiança pública no sistema judiciário brasileiro.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/em-meio-a-crise-no-stf-lula-critica-uso-politico-de-cargos-e-vazamentos-seletivos/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/crise-no-stf-lula-ataca-industria-das-fake-news-e-vazamentos-seletivos"
         },
         {
           "name": "G1",
           "url": "https://g1.globo.com/politica/noticia/2026/09/03/lula-judiciario-stf-caso-master.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/nossa-democracia-nao-pode-ficar-refem-de-vazamentos-seletivos-diz-lula-sobre-caso-master/"
         }
       ],
-      "updatedAt": "2026-09-03T23:54:47.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/lula_agencia-brasil-marcelo-camargo-7.jpg"
+      "updatedAt": "2026-09-04T15:17:17.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/09/lula-no-palacio-do-planalto-foto-reproducao-youtube.png"
     },
     {
-      "clusterId": "3d8e70cc35a59ddc",
-      "slug": "d858e83c692ed9d4",
-      "titulo": "OpenAI lança GPT‑6 Astra, modelo com maior alinhamento e risco crítico",
-      "resumo": "A OpenAI anunciou o GPT‑6 Astra, seu modelo mais avançado até agora, apresentando melhor desempenho em programação, ciência e uso de computador. O novo sistema possui maior autonomia e é classificado como atingindo nível crítico de risco cibernético, exigindo medidas de segurança adicionais. O GPT‑6 Astra também inclui mecanismo de desligamento automático para evitar ataques internos. A empresa destaca que o modelo é mais alinhado às instruções dos usuários e mais cauteloso ao executar tarefas.",
-      "porQueImporta": "O lançamento indica avanço significativo em IA e ressalta a necessidade de reforçar protocolos de segurança.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/tecnologia/gpt-6-astra-openai-anuncia-nova-ia-mais-avancada-ate-o-momento/"
-        },
-        {
-          "name": "Canaltech",
-          "url": "https://canaltech.com.br/inteligencia-artificial/openai-lanca-gpt-6-astra-seu-modelo-mais-inteligente-e-tambem-mais-critico/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/tecnologia/noticia/2026/09/03/openai-gpt-6-astra-modelo-inteligencia-artificial.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-03T22:28:36.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/Hero-Static-16x9-1.png"
-    },
-    {
-      "clusterId": "e78ab9f0d0da565b",
-      "slug": "615307509d52d3b4",
-      "titulo": "USS Abraham Lincoln atraca na Tailândia após 286 dias em alto mar",
-      "resumo": "O porta-aviões nuclear americano USS Abraham Lincoln chegou ao porto de Laem Chabang, perto de Pattaya, depois de 286 dias navegando, incluindo um longo período no Oriente Médio. A embarcação tem cerca de 5 mil marinheiros e fuzileiros navais. Fotos do navio, que mostraram manchas no casco, viralizaram nas redes sociais. A parada oferece descanso à tripulação após quase oito meses de operação contínua.",
-      "porQueImporta": "Ilustra a presença militar americana na região e os desafios logísticos de longas missões navais.",
+      "clusterId": "b0540952a2f5b5e2",
+      "slug": "d560219d2d1a35a8",
+      "titulo": "Milei anuncia sanções a empresas que exploram petróleo nas Malvinas e planeja construir base naval na Terra do Fogo",
+      "resumo": "O presidente argentino Javier Milei anunciou que punirá empresas que pretendem iniciar a exploração de petróleo nas Ilhas Malvinas, citando o projeto Sea Lion. Ele também revelou planos de construir uma base naval na Terra do Fogo, reforçando a soberania argentina sobre as ilhas. A declaração veio após Donald Trump indicar que reavalia a posição dos EUA sobre a disputa. Milei criticou o Reino Unido e intensificou a retórica em meio ao conflito territorial.",
+      "porQueImporta": "A medida pode aumentar a tensão entre Argentina e Reino Unido e influenciar a política internacional sobre a região.",
       "category": "mundo",
       "sources": [
         {
           "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/imagens-de-porta-avioes-dos-eua-enferrujado-apos-quase-nove-meses-no-mar-viralizam-veja/"
+          "url": "https://veja.abril.com.br/economia/milei-endurece-disputa-pelas-malvinas-e-ameaca-empresas-de-petroleo-apos-aceno-de-trump/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/09/03/porta-avioes-uss-abraham-lincoln-viraliza-tailandia-video-fotos.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/09/04/apos-nova-ameaca-milei-reino-unido-reitera-soberania-malvinas.ghtml"
         },
         {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cwyzg259neno?at_medium=RSS&at_campaign=rss"
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/mundo/fala-de-trump-reacende-disputa-sobre-ilhas-malvinas/"
         }
       ],
-      "updatedAt": "2026-09-03T22:24:22.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/01/GettyImages-2190165233.jpg"
-    },
-    {
-      "clusterId": "bb9407b3f5f72db2",
-      "slug": "1838ec1e518b2256",
-      "titulo": "NASA anuncia que o Telescópio Nancy Grace Roman chegará ao ponto de Lagrange 2 e permitirá que usuários escolham um pixel com seu nome",
-      "resumo": "O telescópio espacial Nancy Grace Roman, nomeado em homenagem à astrônoma Nancy Grace Roman, está a caminho do ponto de Lagrange 2, a 1,5 milhão de quilômetros da Terra, onde permanecerá com baixo consumo de combustível. A NASA planeja que os usuários possam escolher um pixel do universo para ter seu nome associado a ele. Nancy Grace Roman foi uma figura central na criação do telescópio Hubble e é considerada a \"mãe do Hubble\". O projeto visa ampliar a pesquisa astronômica e envolver o público na exploração espacial.",
-      "porQueImporta": "Permite que o público participe ativamente da exploração espacial, aumentando o interesse e o apoio à ciência.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ciencia/noticia/2026/09/04/pixel-telescopio-roman-nasa.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/curiosidades/quem-foi-nancy-grace-roman-astronoma-que-batiza-o-novo-telescopio-espacial-da-nasa/"
-        }
-      ],
-      "updatedAt": "2026-09-04T08:12:28.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/9zh1z0o2v7PBnJvWjNcWWY5NZiA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/I/BwZnAYTjaV0pDeW8TLLA/2026-08-25t100014z-1783744455-rc293naxyny8-rtrmadp-3-space-nasa-telescope.jpg"
+      "updatedAt": "2026-09-04T15:01:27.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/milei.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "0dae7a6a75c981d8",
-        "slug": "0759bf25b5a7d938",
-        "titulo": "Moraes pede investigação de Mendonça no STF",
-        "resumo": "O ministro Alexandre de Moraes solicitou ao presidente Edson Fachin que abra investigação contra André Mendonça, alegando fortes indícios de improbidade administrativa, abuso de autoridade e crime de responsabilidade. O pedido foi feito no âmbito do inquérito das fake news, após Mendonça ter retirado o sigilo de relatório da Polícia Federal sobre mensagens de Daniel Vorcaro para Moraes. Fachin concedeu cinco dias para que os envolvidos apresentem esclarecimentos. A crise tem repercussões na credibilidade e funcionamento do Supremo Tribunal Federal.",
-        "porQueImporta": "A disputa pode levar a decisões colegiadas que afetarão a composição e a autoridade dos ministros do STF.",
+        "clusterId": "0d86ad7ad08d23b4",
+        "slug": "7458d964e6851320",
+        "titulo": "Lula se posiciona sobre crise no STF e defende reforma do Judiciário",
+        "resumo": "O presidente Luiz Inácio Lula da Silva criticou a crise no STF, apontando vazamentos seletivos e exigindo investigação completa do caso Master. Ele pediu que os ministros Fachin e Gonet liderem a apuração e defendeu a criação de um código de ética para o Judiciário e o Ministério Público. A campanha de Lula reforçou a mensagem de que ninguém está acima da lei.",
+        "porQueImporta": "A posição de Lula pode influenciar a percepção pública e a condução das investigações no STF.",
         "category": "politica",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/blog-do-noblat/ricardo-noblat/a-maior-crise-dos-135-anos-do-stf-o-choque-entre-mendonca-e-moraes"
+            "url": "https://www.metropoles.com/brasil/em-meio-a-crise-no-supremo-lula-defende-nova-reforma-do-poder-judiciario"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/ninguem-pode-usar-o-cargo-em-beneficio-pessoal-lula-busca-alianca-com-fachin-e-gonet-diante-de-crise/"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-governo/sem-citar-moraes-lula-diz-que-ninguem-pode-usar-cargo-em-beneficio-pessoal/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/ninguem-pode-usar-o-cargo-que-tem-em-beneficio-pessoal-diz-lula/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/04/o-contra-ataque-de-moraes-a-mendonca-a-crise-inedita-na-historia-do-supremo-o-assunto-1798.ghtml"
+            "url": "https://g1.globo.com/politica/noticia/2026/09/04/crise-master-no-stf-lula-volta-a-defender-reforma-do-poder-judiciario.ghtml"
           },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/sem-citar-moraes-lula-defende-reforma-no-judiciario-e-diz-que-ninguem-esta-acima-da-lei/"
+          }
+        ],
+        "updatedAt": "2026-09-04T15:43:53.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/09/fachin-lula-gonet.jpg"
+      },
+      {
+        "clusterId": "55850798ac6cd3c4",
+        "slug": "305d1bb0591269bf",
+        "titulo": "Fachin retira pedido de investigação de Mendonça do inquérito das fake news",
+        "resumo": "O presidente do STF, Edson Fachin, excluiu do inquérito das fake news o pedido de investigação feito por Alexandre de Moraes contra André Mendonça. Fachin determinou que a Procuradoria-Geral da República e Mendonça se manifestem em até cinco dias úteis sobre o pedido. O caso faz parte de uma crise interna no tribunal envolvendo acusações de improbidade e favorecimento político. A decisão mantém os dois inquéritos separados e encaminha-os para a Presidência da Corte.",
+        "porQueImporta": "A medida pode definir o rumo da crise no Supremo e a forma como os ministros lidam com acusações internas.",
+        "category": "politica",
+        "sources": [
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cly457vr0nro?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-justica/pf-ve-mendonca-mais-disposto-a-investigar-moraes-do-que-toffoli/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/inteligencia-da-pf-ve-mendonca-ciente-de-que-investigacao-atingiria-moraes/"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/moraes-diz-que-mendonca-queria-direcionar-investigacoes-para-atingir-davi-alcolumbre/"
+            "url": "https://www.bbc.com/portuguese/articles/c780jqdep1go?at_medium=RSS&at_campaign=rss"
           },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/justica/leia-a-integra-do-pedido-de-investigacao-de-moraes-contra-mendonca/"
+            "url": "https://www.cartacapital.com.br/justica/fachin-defende-encerrar-o-inquerito-das-fake-news-apos-moraes-solicitar-investigacao-contra-mendonca/"
           },
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/brasil/fachin-pede-esclarecimentos-a-moraes-mendonca-gonet-e-andrei/"
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/09/04/fachin-manda-pgr-e-mendonca-se-manifestarem-sobre-pedido-de-investigacao-feito-por-moraes.ghtml"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/brasil/fachin-oficia-moraes-mendonca-gonet-e-delegado-geral-da-pf-a-prestarem-esclarecimentos/"
+            "url": "https://exame.com/brasil/em-evento-com-lula-fachin-pede-fim-do-inquerito-das-fake-news-e-adocao-do-codigo-de-etica-no-stf/"
           }
         ],
-        "updatedAt": "2026-09-04T07:30:09.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/09/ministros-do-supremo-tribunal-federal-stf-andre-mendonca-e-alexandre-de-moraes-durante-sessao-da-corte-metropoles-6-2-scaled.jpg"
+        "updatedAt": "2026-09-04T15:49:27.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/272b/live/19136220-a865-11f1-ae45-e9984fc27c77.jpg"
       },
       {
-        "clusterId": "3019c23cacbae4b7",
-        "slug": "be0dc0f08632f98d",
-        "titulo": "Datafolha mostra Lula com 38% no primeiro turno e 46% no segundo turno",
-        "resumo": "A pesquisa Datafolha, com 2.002 entrevistados, indica que Lula (PT) tem 38% das intenções de voto no primeiro turno, enquanto Flávio Bolsonaro (PL) tem 33%. No cenário de segundo turno, Lula sobe para 46% e Flávio para 44%, permanecendo dentro da margem de erro de dois pontos percentuais. O escritor Augusto Cury aparece com 8% no primeiro turno, enquanto outros candidatos têm percentuais abaixo de 5%.",
-        "porQueImporta": "Os resultados refletem a proximidade entre os candidatos e a possibilidade de um segundo turno decisivo nas eleições presidenciais.",
+        "clusterId": "0630d0a1e39d7df5",
+        "slug": "6d03cc471c30f15a",
+        "titulo": "Presidente do STF pede fim do inquérito das fake news",
+        "resumo": "O ministro Edson Fachin afirmou que a crise recente na Corte exige a conclusão do inquérito sobre fake news, que está em andamento há mais de sete anos. Ele destacou que a investigação deve ser encerrada como uma das três prioridades da sua gestão, junto com a adoção de um código de ética e a modernização do sistema de Justiça. Fachin ressaltou que nenhum órgão ou autoridade está acima da Constituição e que a gravidade dos fatos não permite atalhos.",
+        "porQueImporta": "Encerrar o inquérito pode reduzir a tensão interna e restaurar a confiança na independência do STF.",
         "category": "politica",
         "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/09/04/inquerito-das-fake-news-tem-mais-de-sete-anos-pressiona-moraes-e-ampliou-crise-no-stf.ghtml"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-justica/fachin-diz-que-crise-no-stf-torna-urgente-fim-do-inquerito-das-fake-news/"
+          },
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/o-estado-onde-lula-tem-23-pontos-de-vantagem-sobre-flavio-bolsonaro/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/datafolha-lula-tem-38-no-primeiro-turno-flavio-bolsonaro-33/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/03/datafolha-rejeicao-candidatos-3-setembro.ghtml"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/datafolha-flavio-bolsonaro-tem-47-de-rejeicao-e-lula-45/"
-          }
-        ],
-        "updatedAt": "2026-09-03T22:22:21.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/07/lula-flavio-bolsonaro-11.jpg"
-      },
-      {
-        "clusterId": "f8d00b1edc78640b",
-        "slug": "db67e7788c5b97dd",
-        "titulo": "STF fixa limite de renda de R$ 5 mil para Justiça gratuita",
-        "resumo": "O Supremo Tribunal Federal estabeleceu que a renda máxima para ter acesso à Justiça gratuita é de R$ 5.000,00. A decisão revogou a possibilidade de autodeclaração de pobreza e o limite de 40% do teto da Previdência. Pessoas que ganham mais que esse valor ainda podem solicitar a gratuidade se comprovarem insuficiência financeira. O novo critério se aplica a todos os ramos do Judiciário.",
-        "porQueImporta": "Define quem pode usufruir da Justiça gratuita, impactando o acesso à justiça no país.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/stf-define-limite-de-renda-de-r-5-mil-para-justica-gratuita"
+            "url": "https://veja.abril.com.br/brasil/fachin-defende-codigo-de-etica-no-stf-e-fim-do-inquerito-das-fake-news/"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/stf-fixa-r-5-mil-como-novo-teto-de-renda-para-justica-gratuita/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/justica/stf-contraria-tst-e-limita-acesso-a-justica-do-trabalho-gratuita-a-quem-ganha-ate-r-5-mil/"
+            "url": "https://www.cnnbrasil.com.br/politica/fachin-defende-adocao-do-codigo-de-etica-e-fim-do-inquerito-das-fake-news/"
           }
         ],
-        "updatedAt": "2026-09-04T07:08:45.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/09/55505353267-1a5258fbfa-k.jpg"
+        "updatedAt": "2026-09-04T15:46:38.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/55211649241_770411edd2_c.jpg"
       },
       {
-        "clusterId": "136dd86158f758fa",
-        "slug": "28ef295dd1e21e18",
-        "titulo": "Tribunal Regional Eleitoral do DF nega registro da candidatura de José Roberto Arruda ao governo do DF",
-        "resumo": "O Tribunal Regional Eleitoral do Distrito Federal rejeitou, por unanimidade, o registro da candidatura do ex-governador José Roberto Arruda, do PSD, ao cargo de governador. Arruda afirmou que vai recorrer ao Tribunal Superior Eleitoral. A decisão foi tomada com 5 votos a 0. Até que haja uma decisão definitiva, Arruda pode continuar em campanha.",
-        "porQueImporta": "A decisão pode impedir a participação de um ex-governador na eleição, afetando a dinâmica política do Distrito Federal.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/distrito-federal/o-que-pensam-os-postulantes-ao-gdf-sobre-o-veto-a-candidatura-de-arruda"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/tre-indefere-candidatura-de-jose-roberto-arruda-ao-governo-do-df/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/03/arruda-diz-que-vai-recorrer-ao-tse-para-manter-candidatura-ao-governo-do-df-tre-negou-registro-por-unanimidade.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-04T07:00:39.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/09/jose-roberto-arruda-psd-metropoles-scaled-e1788480385795.jpg"
-      },
-      {
-        "clusterId": "7c291d47822783b2",
-        "slug": "5409e2b065643ee7",
-        "titulo": "Mendonça expressou desconfiança em procuradores por proximidade com autoridades",
-        "resumo": "O Ministério Público relatou que o ministro da Justiça, Mendonça, manifestou desconfiança em relação a dois procuradores, Andrei e Gonet, citando a proximidade deles com Lula e com o ministro do STF, Gilmar Mendes, respectivamente. Em ambos os casos, o relatório indica que o ministro considerou medidas de afastamento ou reestruturação do cargo de procurador-geral. A PF destaca que as ações foram baseadas em “imputações genéricas” e não em acusações formais.",
-        "porQueImporta": "A decisão pode afetar a independência e a atuação do Ministério Público no país.",
+        "clusterId": "43b43a5da54e5e0e",
+        "slug": "2271dc9703466e3c",
+        "titulo": "Fachin garante resposta firme e sem omissão ao escândalo no STF",
+        "resumo": "O presidente do Supremo Tribunal Federal, Luiz Edson Fachin, afirmou que a crise envolvendo o banco Vorcaro e possíveis articulações para abafar denúncias será investigada de forma rigorosa. Ele declarou que nenhuma autoridade está acima da Constituição e que a gravidade dos fatos não autoriza atalhos. Fachin prometeu que a Corte tomará medidas firmes e proporcionais para esclarecer a situação.",
+        "porQueImporta": "A declaração reforça o compromisso da Corte com a transparência e a aplicação da lei, impactando a confiança pública no sistema judicial.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-justica/pf-diz-que-mendonca-desconfiava-de-andrei-por-proximidade-com-lula/"
+            "url": "https://www.poder360.com.br/poder-justica/gravidade-dos-fatos-nao-autoriza-atalhos-diz-fachin-sobre-stf/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/brasil/a-gravidade-dos-fatos-nao-autoriza-atalhos-diz-edson-fachin-sobre-escandalo-no-stf/"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/pf-diz-que-mendonca-desconfiava-de-gonet-por-proximidade-com-gilmar-mendes/"
+            "url": "https://www.cnnbrasil.com.br/politica/fachin-diz-que-resposta-a-crise-do-stf-sera-firme-proporcional-e-rigorosa/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/09/04/em-meio-a-crise-master-no-stf-fachin-defende-dialogo-entre-instituicoes-durante-evento-no-planalto.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-04T15:10:17.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/55490837152_27680ee681_c.jpg"
+      },
+      {
+        "clusterId": "85afb4a3a585bffd",
+        "slug": "a66b4442dee7611d",
+        "titulo": "Lula critica uso político de cargos e vazamentos seletivos no STF",
+        "resumo": "O presidente Luiz Inácio Lula da Silva denunciou que autoridades não podem usar funções públicas para benefício próprio e que vazamentos seletivos, motivados por interesses políticos e econômicos, ameaçam a credibilidade da Justiça. Ele destacou o escândalo do Banco Master como exemplo de corrupção envolvendo políticos e agentes públicos. Lula defende a adoção de um código de ética para o Judiciário e a discussão de uma reforma no poder Judiciário.",
+        "porQueImporta": "A crítica de Lula aponta fragilidades na confiança pública no sistema judiciário brasileiro.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/em-meio-a-crise-no-stf-lula-critica-uso-politico-de-cargos-e-vazamentos-seletivos/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/crise-no-stf-lula-ataca-industria-das-fake-news-e-vazamentos-seletivos"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/09/03/lula-judiciario-stf-caso-master.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-04T15:17:17.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/09/lula-no-palacio-do-planalto-foto-reproducao-youtube.png"
+      },
+      {
+        "clusterId": "801621e309656e95",
+        "slug": "6387a1c804c971f9",
+        "titulo": "Lula lidera pesquisas de intenção de voto no Ceará e em nível nacional",
+        "resumo": "No Ceará, a pesquisa Quaest aponta Lula com 54% das intenções de voto, enquanto Flávio Bolsonaro tem 16%. Em pesquisas nacionais, a Datafolha mostra Lula com 38% no 1º turno e 46% no 2º turno, e Flávio Bolsonaro com 33% e 44% respectivamente. A diferença entre os candidatos diminuiu, chegando a apenas 2 pontos no 2º turno segundo a Datafolha.",
+        "porQueImporta": "Esses números indicam a posição de Lula na corrida presidencial e a proximidade de Flávio Bolsonaro, refletindo o cenário político atual.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/04/quaest-ce-presidente-4-setembro.ghtml"
           },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/justica/mendonca-citou-proximidade-de-gonet-com-gilmar-mendes-para-defender-afastamento-do-pgr-diz-pf/"
+            "url": "https://www.cartacapital.com.br/politica/agenda-dos-candidatos-lula-vai-ao-ceara-enquanto-flavio-bolsonaro-faz-comicio-com-tarcisio-em-sao-carlos/"
           }
         ],
-        "updatedAt": "2026-09-04T03:03:40.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/02/Foto-Rosinei-CoutinhoSTFaoa.jpg"
+        "updatedAt": "2026-09-04T15:47:04.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/9Ay7yZLcpJ9PrJFBZsni5I7btMc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/l/PBDRR1S5OHTY5f8tItcg/candidatos.jpg"
       },
       {
-        "clusterId": "8422f2e42a344005",
-        "slug": "26bb02f59602b2e0",
-        "titulo": "Deputado do PT no RJ investigado por suposto envolvimento em assassinato de jornalista e explicação do sistema proporcional nas eleições",
-        "resumo": "O deputado Renato Machado, do PT no Rio de Janeiro, foi denunciado pelo Ministério Público Eleitoral do RJ por suposto papel de mandante no assassinato de um jornalista. A investigação faz parte de uma ação mais ampla contra o que o MP chama de “narcomilícia”. Enquanto isso, o G1 explica que, nas eleições para deputados e vereadores, o voto tem efeito proporcional, podendo favorecer a eleição de outros candidatos do mesmo partido.",
-        "porQueImporta": "A denúncia pode afetar a carreira política de Machado e destaca a atenção do MP a possíveis crimes de responsabilidade de políticos.",
+        "clusterId": "dd7a8d1bffcf8438",
+        "slug": "de5773e2a2444cfa",
+        "titulo": "Cid Gomes lidera disputa pelo Senado no Ceará",
+        "resumo": "A pesquisa da Quaest, encomendada pela TV Verdes Mares, mostra Cid Gomes com 23% dos votos, seguido por Capitão Wagner (20%) e Luizianne (13%). A Datafolha, que entrevistou 1.204 eleitores, confirma a mesma tendência, com Cid Gomes na frente e Wagner e Luizianne na segunda vaga. Em 2026 serão eleitos dois senadores por estado, exigindo que cada eleitor escolha dois nomes diferentes.",
+        "porQueImporta": "Os resultados indicam quem tem maior probabilidade de garantir as vagas senatoriais do Ceará em 2026.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/04/quaest-ce-senado-4-setembro.ghtml"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/cid-gomes-lidera-para-o-senado-no-ceara-com-wagner-e-luizianne-na-briga-pela-2a-vaga/"
+          }
+        ],
+        "updatedAt": "2026-09-04T15:41:04.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/vWSj1LZGaqnEa1VTPV4AnBKf8CE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/p/WD3fgQSeWW7pZX1BFugw/cenario-1-com-cid-cap-luizi-e-alci-1-.png"
+      },
+      {
+        "clusterId": "1cc712a840c3eb42",
+        "slug": "545fcf1f9b8e1321",
+        "titulo": "Duda Salabert relata agressão e tentativa de homicídio em área de extração ilegal em Minas",
+        "resumo": "Duda Salabert afirmou ter sido agredida por suspeitos enquanto realizava fiscalização em região de extração ilegal de minério em Minas Gerais. Ela descreveu ameaças de morte e a necessidade de intervenção policial. A Polícia Militar realizou buscas na zona de Nova Lima, mas os suspeitos ainda não foram localizados. A denúncia destaca a violência contra profissionais de fiscalização ambiental.",
+        "porQueImporta": "Ilustra riscos enfrentados por fiscalizadores ambientais e a necessidade de proteção e investigação eficaz.",
         "category": "politica",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/tacio-lorran/deputado-do-pt-no-rj-e-alvo-do-mp-eleitoral-por-liderar-narco-milicia"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/04/entenda-por-que-um-deputado-eleito-pode-puxar-outro-candidato-nas-eleicoes.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-04T07:00:44.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/09/fotos-46.jpg"
-      },
-      {
-        "clusterId": "d1c4f4ac3ee46fe1",
-        "slug": "75a76d41be3af7ce",
-        "titulo": "Lula visita Ceará para apoiar Elmano na disputa contra Ciro Gomes",
-        "resumo": "O presidente Lula chegou ao Ceará na sexta-feira (4 de setembro) para apoiar o governador Elmano de Freitas, que concorre contra Ciro Gomes. Em pesquisa da Datafolha, realizada entre 31 de agosto e 2 de setembro, Ciro Gomes lidera o pleito, mas a margem de vantagem de Elmano caiu 10 pontos. A visita de Lula ocorre em meio à campanha eleitoral do estado, onde o resultado pode influenciar a política regional.",
-        "porQueImporta": "A presença de Lula pode fortalecer a campanha de Elmano e impactar o resultado das eleições cearenses.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/igor-gadelha/lula-desembarca-no-ceara-para-ajudar-elmano-na-disputa-contra-ciro-gomes"
+            "url": "https://www.metropoles.com/minas-gerais/pega-o-cano-e-vamos-te-matar-duda-salabert-detalha-ataque-em-mg"
           },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/datafolha-ciro-gomes-lidera-no-ceara-mas-vantagem-para-elmano-cai-10-pontos/"
+            "url": "https://www.cartacapital.com.br/politica/duda-salabert-denuncia-tentativa-de-homicidio-durante-fiscalizacao-em-minas/"
           }
         ],
-        "updatedAt": "2026-09-04T07:00:12.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/07/lula-convencao-elmano-ceara.jpg"
-      },
-      {
-        "clusterId": "4d4775902dbcef26",
-        "slug": "ebf5bd4202987bb2",
-        "titulo": "Empresário Antonio Carlos Freixo Júnior confirma repasse de R$1,3 bilhão a Daniel Vorcaro e entrega de dinheiro vivo",
-        "resumo": "O empresário Antonio Carlos Freixo Júnior, dono da Entre Investimentos, admitiu em delação premiada que movimentou cerca de R$1,3 bilhão entre 2020 e 2025 para Daniel Vorcaro, ex-dono do Banco Master, entregando o dinheiro em malas. Ele afirmou que os pedidos de geração de recursos em espécie vinham de Vorcaro e, posteriormente, de seu cunhado Fabiano Zettel. Freixo também foi apontado como operador financeiro de Vorcaro e está sendo ouvido pelo gabinete do ministro André Mendonça no STF. A delação inclui alegações de repasses a produção do filme “Dark Horse”.",
-        "porQueImporta": "A revelação pode ampliar a investigação sobre o caso Master e possíveis ligações com o atual governo.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-justica/delacao-relata-malas-de-dinheiro-e-remessas-de-vorcaro/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/03/empresario-que-fez-repasses-para-dark-horse-disse-em-delacao-que-gerava-dinheiro-vivo-para-vorcaro-e-entregava-em-malas.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-04T06:35:30.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/IEa7QT4G8zFmO5yJBjhlPARl5Vw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/q/BhLa2hTqe356nh6kOqCg/banco-master-1.jpeg"
+        "updatedAt": "2026-09-04T15:28:33.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/09/whatsapp-image-2026-09-04-at-12-20-43-3x2-1.jpg"
       }
     ],
     "economia": [
       {
-        "clusterId": "3d8e70cc35a59ddc",
-        "slug": "d858e83c692ed9d4",
-        "titulo": "OpenAI lança GPT‑6 Astra, modelo com maior alinhamento e risco crítico",
-        "resumo": "A OpenAI anunciou o GPT‑6 Astra, seu modelo mais avançado até agora, apresentando melhor desempenho em programação, ciência e uso de computador. O novo sistema possui maior autonomia e é classificado como atingindo nível crítico de risco cibernético, exigindo medidas de segurança adicionais. O GPT‑6 Astra também inclui mecanismo de desligamento automático para evitar ataques internos. A empresa destaca que o modelo é mais alinhado às instruções dos usuários e mais cauteloso ao executar tarefas.",
-        "porQueImporta": "O lançamento indica avanço significativo em IA e ressalta a necessidade de reforçar protocolos de segurança.",
+        "clusterId": "46c6dbb2d362b25e",
+        "slug": "9a35ac4a19e3bf1b",
+        "titulo": "Ibovespa recua após 11 altas consecutivas e dólar cai",
+        "resumo": "O Ibovespa fechou em leve desvalorização, interrompendo o rali de 11 altas consecutivas, enquanto o dólar caiu 0,07%, cotado a R$ 5,1047. O movimento de realização ocorreu após forte valorização da Bolsa, impulsionada pelo chamado \"trade eleitoral\". Investidores aguardam resultados de pesquisa eleitoral do Datafolha e dados dos EUA.",
+        "porQueImporta": "Reflete a influência das eleições e expectativas de mercado sobre os principais ativos brasileiros.",
         "category": "economia",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/tecnologia/gpt-6-astra-openai-anuncia-nova-ia-mais-avancada-ate-o-momento/"
-          },
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/inteligencia-artificial/openai-lanca-gpt-6-astra-seu-modelo-mais-inteligente-e-tambem-mais-critico/"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-04092026/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/noticia/2026/09/03/openai-gpt-6-astra-modelo-inteligencia-artificial.ghtml"
+            "url": "https://g1.globo.com/economia/noticia/2026/09/04/dolar-ibovespa.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/invest/mercados/ibovespa-cai-apos-payroll-sinalizar-alta-de-juros-nos-eua-dolar-avanca/"
           }
         ],
-        "updatedAt": "2026-09-03T22:28:36.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/Hero-Static-16x9-1.png"
+        "updatedAt": "2026-09-04T15:52:36.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/07/2025-07-12T152558Z_1_LYNXMPEL6B06W_RTROPTP_4_BUSINESS-CURRENCY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "ec13b466e91ab097",
-        "slug": "b1b07583085027b4",
-        "titulo": "John Ternus assume cargo de CEO da Apple",
-        "resumo": "John Ternus, ex-vice-presidente sênior de engenharia de hardware, foi nomeado CEO da Apple, sucedendo Tim Cook, que liderou a empresa por 15 anos. A mudança ocorrerá em 1º de setembro, marcando a terceira liderança masculina desde 1997. Ternus trabalhou em estreita colaboração com Cook na preparação para o cargo. A nova diretoria pretende manter o prestígio da Apple na era da inteligência artificial.",
-        "porQueImporta": "A sucessão de liderança pode influenciar a estratégia e inovação da Apple em um mercado tecnológico em rápida evolução.",
+        "clusterId": "06a04ab39c70416d",
+        "slug": "90d22fa362e72240",
+        "titulo": "Estudo mostra infarto mais cedo em São Paulo",
+        "resumo": "Um levantamento da Rede D’Or analisou 4.921 pacientes com infarto agudo do miocárdio e constatou que a idade média dos casos na capital é de 58 anos, a menor entre os estados brasileiros. O estudo indica que infartos em São Paulo ocorrem em pessoas até 12 anos mais jovens que em outras regiões. A pesquisa destaca a necessidade de atenção precoce e prevenção cardiovascular na região.",
+        "porQueImporta": "Os resultados sugerem que a população paulista está em maior risco de infarto em idades mais jovens, exigindo estratégias de saúde pública específicas.",
         "category": "economia",
         "sources": [
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/business/global/cook-deixa-cargo-de-ceo-mas-seguira-influente-na-apple-como-o-encantador-de-trump/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/saude/moradores-de-sp-tem-infarto-mais-cedo-do-que-em-outros-estados-diz-estudo/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/ciencia/infarto-atinge-pacientes-ate-12-anos-mais-jovens-em-sao-paulo-aponta-estudo/"
+          }
+        ],
+        "updatedAt": "2026-09-04T14:14:19.000Z"
+      },
+      {
+        "clusterId": "d6467199abf4b3e8",
+        "slug": "7c844d371d07140d",
+        "titulo": "Volkswagen aprova plano de reestruturação que pode eliminar 50 mil empregos",
+        "resumo": "O conselho da Volkswagen aprovou o \"Future Plan\", a maior reestruturação em 89 anos da empresa, que prevê a redução de cerca de 50 mil postos, incluindo cargos de gestão. O plano contempla demissões, reestruturação de fábricas e mudanças nas linhas de produção, com foco em quatro unidades alemãs sem planos concretos de produção para a próxima década. A medida visa aumentar a competitividade da montadora diante da concorrência global, mudanças no comportamento dos consumidores e avanços tecnológicos. O plano foi aprovado por unanimidade e acompanha o recall de 150 mil veículos por possível falha em freio.",
+        "porQueImporta": "A reestruturação pode impactar significativamente o mercado de trabalho e a competitividade da Volkswagen no setor automotivo.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/negocios/acoes-da-volkswagen-sobem-apos-acordo-supresa-de-reestruturacao/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/noticia/2026/09/03/sob-nova-direcao-apple-mantera-prestigio-na-era-da-inteligencia-artificial.ghtml"
+            "url": "https://g1.globo.com/carros/noticia/2026/09/03/volkswagen-aprova-plano-que-pode-cortar-50-mil-empregos-veja-o-que-esta-por-tras-da-decisao.ghtml"
           }
         ],
-        "updatedAt": "2026-09-04T08:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/09/TIM-COOK-GAVE-UP-APPLES-TOP-JOBBUT-APPLE-IS-PAYING-MILLIONS-TO-KEEP-ITS-TRUMP-WHISPERER-CLOSE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-09-04T13:10:58.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/hmVVDVWXMrpJHCivXfQLQNdFa_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/T/Ri7OIAQEq2pMsXSizQqw/golf-gti-perfomance-1.jpg"
       },
       {
-        "clusterId": "e6477370cc50640e",
-        "slug": "d397337e7ba1431a",
-        "titulo": "Mega-Sena 3053 acumula e prêmio sobe para R$ 48 milhões",
-        "resumo": "No concurso 3053 da Mega-Sena, realizado em 3 de setembro, não houve ganhador na faixa principal, fazendo o prêmio de R$ 40,1 milhões acumular para R$ 48 milhões. Os números sorteados foram 01, 13, 25, 35, 39 e 51. Foram 50 apostas que acertaram cinco dezenas, cada uma recebendo R$ 36.500,74, e 3.297 apostas que acertaram quatro dezenas, cada uma recebendo R$ 912,43.",
-        "porQueImporta": "O aumento do prêmio atrai mais apostadores e aumenta o interesse público na loteria.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/09/03/mega-sena-concurso-3053-confira-os-numeros-sorteados.ghtml"
-          },
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/09/03/internet-e-redes-sociais/resultado-da-mega-sena-de-hoje-veja-numeros-e-ganhadores-do-concurso-3053-quinta-03-09/"
-          }
-        ],
-        "updatedAt": "2026-09-04T00:03:58.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg"
-      },
-      {
-        "clusterId": "828365827fa156bc",
-        "slug": "9e8b38836bdb3e9d",
-        "titulo": "Ibovespa pode subir ou corrigir após dados de emprego nos EUA",
-        "resumo": "O índice brasileiro testou 188.891 pontos na véspera do relatório de emprego dos Estados Unidos. O resultado do payroll pode influenciar decisões de juros, valor do dólar e fluxo para mercados emergentes, afetando o Ibovespa. A expectativa é que o movimento do índice dependa da interpretação desses dados. A volatilidade pode aumentar se o relatório indicar mudanças significativas na política monetária americana.",
-        "porQueImporta": "O resultado do payroll pode alterar a percepção de risco e liquidez nos mercados emergentes, impactando diretamente o desempenho da Bolsa brasileira.",
+        "clusterId": "bed8c36cfa55143f",
+        "slug": "284b1c58ff05df0b",
+        "titulo": "Novos shoppings são raros no Brasil devido a poucos terrenos, alta Selic e ciclo longo",
+        "resumo": "A construção de novos shoppings no Brasil é limitada por escassez de terrenos disponíveis, custos de financiamento elevados pela alta taxa Selic e ciclos de investimento longos que exigem retorno de longo prazo. Esses fatores tornam o empreendimento mais complexo e menos frequente em comparação com outros tipos de construção, como galpões logísticos ou prédios corporativos. O mercado de shoppings, portanto, enfrenta barreiras significativas que reduzem a frequência de novos projetos.",
+        "porQueImporta": "Entender esses obstáculos ajuda investidores e gestores a avaliar a viabilidade e o timing de novos projetos de shopping.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/ibovespa-sobe-ou-corrige-payroll-pode-definir-o-proximo-movimento-da-bolsa/"
+            "url": "https://www.infomoney.com.br/onde-investir/poucos-terrenos-selic-e-ciclo-longo-por-que-novos-shoppings-sao-raros-no-brasil/"
           }
         ],
-        "updatedAt": "2026-09-04T08:01:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/09/ibovespa-disparada.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-09-04T15:30:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/05/pexels-pixabay-264507-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "38e3e600c9beadd0",
-        "slug": "586e83e62fd99db1",
-        "titulo": "Diretor evacua 900 alunos antes de escola ser inundada no Nepal",
-        "resumo": "O diretor Rajendra Dawadi recebeu alerta de enchente e teve menos de 15 minutos para agir. Ele organizou a evacuação de 900 alunos, salvando centenas de vidas. A escola foi levada pela água, mas graças à ação rápida não houve fatalidades.",
-        "porQueImporta": "Ilustra a importância de liderança rápida em situações de emergência.",
+        "clusterId": "0cd0a57818c216f2",
+        "slug": "6697f0dca4d1a866",
+        "titulo": "Ibovespa sobe em busca de 186 mil pontos enquanto bolsas dos EUA operam mistas após payroll mais alto",
+        "resumo": "O índice Ibovespa registrou alta, aproximando-se dos 186 mil pontos. A movimentação foi acompanhada por mercados norte‑americanos que apresentaram variações misturadas. O aumento do payroll nos EUA superou as expectativas, influenciando o sentimento global. A recuperação do Ibovespa reflete a busca por estabilidade após os dados de emprego.",
+        "porQueImporta": "A performance do Ibovespa indica a reação do mercado brasileiro a indicadores econômicos globais, afetando investidores e a economia nacional.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/business/global/como-diretor-salvou-900-alunos-antes-de-escola-ser-levada-pela-enchente-no-nepal/"
+            "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-04092026/"
           }
         ],
-        "updatedAt": "2026-09-04T08:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/09/2026-08-31T114102Z_1785800600_RC2J9NANZI0J_RTRMADP_3_NEPAL-FLOODS-SCHOOL-TEACHER.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-09-04T15:28:25.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-48.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "756281de8bc0e097",
-        "slug": "1dabfa4811f469fa",
-        "titulo": "Investidores que podem lucrar com IPO da Anthropic",
-        "resumo": "A Anthropic, empresa de inteligência artificial, planeja abrir capital em uma oferta pública inicial que pode gerar ganhos significativos para investidores. A expectativa é que investidores institucionais, como fundos de risco e empresas de tecnologia, obtenham retornos expressivos, enquanto investidores individuais terão acesso limitado. A operação reflete a evolução do ecossistema de startups, onde o foco mudou para empresas de alto crescimento e tecnologia avançada.",
-        "porQueImporta": "O IPO da Anthropic pode redefinir o panorama de investimentos em IA e influenciar estratégias de alocação de recursos no setor.",
+        "clusterId": "2be0f54c73b87c07",
+        "slug": "dc2c05eac8a2d18f",
+        "titulo": "Origem Energia planeja superar R$ 2 bilhões em receitas até 2026 com foco em gás natural e soluções integradas",
+        "resumo": "A Origem Energia projeta atingir mais de R$ 2 bilhões em receitas até 2026, reforçando sua estratégia de expansão. A empresa aposta no gás natural como fonte doméstica para garantir previsibilidade e segurança no mercado brasileiro. Além disso, investe em soluções integradas para ampliar sua presença no setor energético.",
+        "porQueImporta": "A estratégia demonstra a aposta da empresa em fontes seguras e soluções completas, refletindo tendências de crescimento e estabilidade no mercado de energia.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/business/global/quais-investidores-vao-ficar-ricos-com-o-ipo-da-anthropic/"
+            "url": "https://www.infomoney.com.br/business/aposta-no-gas-natural-e-em-solucoes-integradas-impulsiona-expansao-da-origem-energia/"
           }
         ],
-        "updatedAt": "2026-09-04T08:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/09/AI-STARTUP-INVESTORS-1.jpg?fit=240%2C300&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-09-04T15:07:35.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/09/origem-energia.png?fit=300%2C167&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "31a61c0403d7bc60",
-        "slug": "541bbc4b3c5acf7b",
-        "titulo": "Especialistas recomendam investir em renda fixa e limitar ações antes da eleição",
-        "resumo": "Com a eleição a um mês, especialistas sugerem investir em títulos prefixados para garantir rentabilidade na renda fixa. Eles recomendam manter a exposição a estatais em até 10% da carteira de ações. A estratégia visa reduzir riscos de volatilidade antes do primeiro turno. A recomendação baseia-se em análises de mercado e cenário político.",
-        "porQueImporta": "A decisão de investimento pode afetar o desempenho financeiro dos investidores diante de possíveis mudanças regulatórias e de mercado.",
+        "clusterId": "f4cb51f2a694fe35",
+        "slug": "d9195cbe30e6e3f9",
+        "titulo": "S&P 500 e Dow Jones caem após payroll alimentar apostas alta de juros",
+        "resumo": "Os índices norte‑americanos, S&P 500 e Dow Jones, registraram queda após a divulgação de dados de emprego que superaram as expectativas. O relatório de payroll mostrou crescimento mais robusto, reforçando a possibilidade de elevação das taxas de juros pela Fed. A reação do mercado reflete a preocupação com o impacto de juros mais altos na economia e nos lucros corporativos.",
+        "porQueImporta": "A movimentação dos índices indica a sensibilidade do mercado às projeções de política monetária, afetando investidores e decisões de investimento.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/onde-investir/um-mes-para-as-eleicoes-e-melhor-investir-agora-ou-esperar/"
+            "url": "https://www.infomoney.com.br/mercados/sp-500-e-dow-jones-caem-apos-payroll-alimentar-apostas-alta-de-juros/"
           }
         ],
-        "updatedAt": "2026-09-04T08:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/03/urna-eletronica-eleicoes.webp?fit=300%2C225&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-09-04T15:07:23.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Wall-Street.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "f9ee2615a0f1f645",
-        "slug": "121301aaf129e4c4",
-        "titulo": "Institucionais voltam à Bolsa, mas renda fixa ainda limita avanço da pessoa física",
-        "resumo": "Os gestores de recursos locais reduziram o caixa e aumentaram a exposição a ativos de risco após a correção do mercado de ações e a expectativa de queda nas taxas de juros. A correção da Bolsa trouxe retorno para investidores institucionais, mas a renda fixa continua sendo um fator que impede o crescimento do patrimônio das pessoas físicas. A estratégia de reduzir liquidez visa aproveitar oportunidades de valorização em ativos de maior risco.",
-        "porQueImporta": "O comportamento dos investidores institucionais influencia o mercado e pode afetar as opções de investimento disponíveis para pessoas físicas.",
+        "clusterId": "d6861eb8031d57bd",
+        "slug": "a8e794ec7f6b2d05",
+        "titulo": "Brava Energia registra queda de produção em agosto",
+        "resumo": "A Brava Energia (BRAV3) teve redução de 1,2% na produção de agosto em relação ao mês anterior. A queda se deu principalmente por fatores operacionais e de manutenção. Apesar da diminuição, os analistas mantêm avaliação neutra sobre a empresa.",
+        "porQueImporta": "A variação na produção pode influenciar o desempenho financeiro e a percepção do mercado sobre a companhia.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/institucionais-voltam-a-bolsa-mas-renda-fixa-ainda-limita-avanco-da-pessoa-fisica/"
+            "url": "https://www.infomoney.com.br/mercados/brava-brav3-producao-cai-em-agosto-mas-avaliacao-dos-analistas-e-neutra/"
           }
         ],
-        "updatedAt": "2026-09-04T08:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/09/bolsa-de-valores-renda-fixa-investimentos.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-09-04T15:04:20.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/02/brava-_energia.png?fit=300%2C196&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "e78ab9f0d0da565b",
-        "slug": "615307509d52d3b4",
-        "titulo": "USS Abraham Lincoln atraca na Tailândia após 286 dias em alto mar",
-        "resumo": "O porta-aviões nuclear americano USS Abraham Lincoln chegou ao porto de Laem Chabang, perto de Pattaya, depois de 286 dias navegando, incluindo um longo período no Oriente Médio. A embarcação tem cerca de 5 mil marinheiros e fuzileiros navais. Fotos do navio, que mostraram manchas no casco, viralizaram nas redes sociais. A parada oferece descanso à tripulação após quase oito meses de operação contínua.",
-        "porQueImporta": "Ilustra a presença militar americana na região e os desafios logísticos de longas missões navais.",
+        "clusterId": "b0540952a2f5b5e2",
+        "slug": "d560219d2d1a35a8",
+        "titulo": "Milei anuncia sanções a empresas que exploram petróleo nas Malvinas e planeja construir base naval na Terra do Fogo",
+        "resumo": "O presidente argentino Javier Milei anunciou que punirá empresas que pretendem iniciar a exploração de petróleo nas Ilhas Malvinas, citando o projeto Sea Lion. Ele também revelou planos de construir uma base naval na Terra do Fogo, reforçando a soberania argentina sobre as ilhas. A declaração veio após Donald Trump indicar que reavalia a posição dos EUA sobre a disputa. Milei criticou o Reino Unido e intensificou a retórica em meio ao conflito territorial.",
+        "porQueImporta": "A medida pode aumentar a tensão entre Argentina e Reino Unido e influenciar a política internacional sobre a região.",
         "category": "mundo",
         "sources": [
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/imagens-de-porta-avioes-dos-eua-enferrujado-apos-quase-nove-meses-no-mar-viralizam-veja/"
+            "url": "https://veja.abril.com.br/economia/milei-endurece-disputa-pelas-malvinas-e-ameaca-empresas-de-petroleo-apos-aceno-de-trump/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/09/03/porta-avioes-uss-abraham-lincoln-viraliza-tailandia-video-fotos.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/09/04/apos-nova-ameaca-milei-reino-unido-reitera-soberania-malvinas.ghtml"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/mundo/fala-de-trump-reacende-disputa-sobre-ilhas-malvinas/"
+          }
+        ],
+        "updatedAt": "2026-09-04T15:01:27.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/milei.jpg"
+      },
+      {
+        "clusterId": "3fda52722716f4c6",
+        "slug": "ecbca4b05478a4d4",
+        "titulo": "Resgate de dois trabalhadores em túnel de usina hidrelétrica no Nepal",
+        "resumo": "Nove dias após a avalanche que matou mais de 1.300 pessoas na fronteira Nepal-Tibete, equipes de resgate encontraram dois trabalhadores presos no túnel da usina hidrelétrica Trishul 3A. O resgate exigiu localizar a entrada subterrânea e remover rochas de grande porte para acessar o local. Os sobreviventes foram retirados pelo Exército nepalês e relatam ter ficado presos para salvar colegas. Ainda há suspeita de dezenas de pessoas presas no mesmo túnel.",
+        "porQueImporta": "O caso destaca os desafios de resgate em áreas remotas e a necessidade de preparação para desastres naturais no Nepal.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/09/04/como-nepal-resgatou-dois-sobreviventes-em-tunel-nove-dias-apos-avalanche-que-deixou-mais-de-13-mil-mortos.ghtml"
           },
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cwyzg259neno?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/articles/c86xjey5155o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/mundo/dois-trabalhadores-resgatados-em-tunel-do-nepal-nove-dias-apos-a-avalanche/"
           }
         ],
-        "updatedAt": "2026-09-03T22:24:22.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/01/GettyImages-2190165233.jpg"
+        "updatedAt": "2026-09-04T14:11:08.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/ZzCjJzZt0BCsyQlKYdwZPTu30aY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/w/bVXs8bSNuBcfOQAiH5eg/838325a0-a856-11f1-a291-b542ee92de7c.jpg-redimensionado-para-1200x675.jpeg"
       },
       {
-        "clusterId": "e7eecfd5fe73cb32",
-        "slug": "e992fa8ca53e0726",
-        "titulo": "Tufão Saudel causa inundações e desabamento de prédio em Fujian",
-        "resumo": "O tufão Saudel atingiu a província de Fujian, provocando chuvas torrenciais e inundações que levaram à evacuação de mais de 80 mil moradores, fechamento de escolas e suspensão do transporte público. Em Zhejiang, mais de 2,500 estudantes e professores ficaram presos. Um prédio de três andares desabou e foi arrastado pela água, mas não há informações sobre vítimas.",
-        "porQueImporta": "O evento destaca a vulnerabilidade de áreas costeiras chinesas a fenômenos climáticos extremos.",
+        "clusterId": "8c5f94220236d487",
+        "slug": "a2eb8c336485da66",
+        "titulo": "Caminhão é atropelado por trem na Polônia",
+        "resumo": "Um caminhão ficou preso sobre os trilhos em Gdańsk, no norte da Polônia, e foi atingido por um trem que passou poucos segundos depois. As câmeras de segurança registraram o momento em que o veículo parou enquanto as cancelas se fechavam, antes de ser atingido. O impacto lançou destroços em vários lados, mas não houve vítimas fatais. O incidente ocorreu na quinta-feira (3).",
+        "porQueImporta": "O caso destaca riscos de segurança ferroviária e a necessidade de protocolos eficazes para veículos presos em trilhos.",
         "category": "mundo",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/tufao-saudel-provoca-chuvas-torrenciais-e-inundacoes-na-costa-da-china/"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/video-caminhao-e-atropelado-por-trem-na-polonia-apos-ficar-preso-nos-trilhos/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/09/03/video-mostra-casa-desabando-e-sendo-arrastada-pela-agua-durante-tufao-na-china.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/09/04/video-caminhao-atingido-trem-polonia.ghtml"
           }
         ],
-        "updatedAt": "2026-09-04T05:04:06.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/x1MmaLBvADX1FJRoJhb3gVR2TCc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/1/ZuHD4gTfmLk4ZuBdjQYQ/mixcollage-03-sep-2026-02-30-pm-287.jpg"
+        "updatedAt": "2026-09-04T15:24:11.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/design-sem-nome-81-.jpg"
       },
       {
-        "clusterId": "6afe6dbfc07e3008",
-        "slug": "40a02a462e1a960c",
-        "titulo": "Dois trabalhadores resgatados de túnel de usina hidrelétrica no Nepal",
-        "resumo": "Equipes de resgate do Nepal encontraram com vida dois trabalhadores presos em um túnel da usina hidrelétrica Trishul 3A, nove dias após as enchentes que devastaram a região. O primeiro foi retirado pelo Exército nepalês e o segundo foi confirmado como vivo por um parlamentar. As equipes ouviram vozes dentro do túnel e observaram os trabalhadores cobertos de lama. A operação foi realizada em meio a fortes inundações que ainda deixaram 42 trabalhadores desaparecidos.",
-        "porQueImporta": "O resgate demonstra a capacidade de resposta das autoridades nepalenses diante de desastres naturais e a importância da segurança em obras de infraestrutura.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/homens-sao-resgatados-de-tunel-no-nepal-nove-dias-apos-enchentes/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/09/04/nepal-resgata-2-trabalhadores-com-vida-de-tunel-9-dias-apos-enchentes.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-04T04:14:38.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/sbk_iAnuquIth5osbqplUmmHwME=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/t/bBxEFPTf6BXxVaMmn8BA/ap26247155624727.jpg"
-      },
-      {
-        "clusterId": "bf6592928a4dca17",
+        "clusterId": "b50ca5e206c906ae",
         "slug": "5fea73337a54a568",
         "titulo": "Casa Branca lança jogos que simulam deportação de imigrantes",
         "resumo": "Em 3 de setembro de 2026, o site oficial da Casa Branca disponibilizou jogos de estilo arcade em que o jogador captura pessoas que atravessaram a fronteira do Rio Grande e constrói muros. Os jogos incluem versões inspiradas em clássicos como Tetris e Snake, transformando a deportação em uma atividade lúdica. A iniciativa foi amplamente criticada por reduzir a questão migratória a uma brincadeira.",
@@ -698,358 +701,356 @@
         "category": "mundo",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/site-oficial-da-casa-branca-lanca-jogos-em-que-usuarios-prendem-imigrantes/"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/tetris-e-cobrinha-casa-branca-lanca-jogos-com-caca-a-imigrantes-deportacao-e-muro-na-fronteira/"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/mundo/noticia/2026/09/03/tetris-e-cobrinha-casa-branca-lanca-jogos-em-que-imigrantes-sao-cacados-para-deportacao.ghtml"
           }
         ],
-        "updatedAt": "2026-09-04T01:45:07.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/YonR5jB60Ma3XnLnLrhoO_PkBrk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/n/d2ARQRScagqsTElMBH6A/ezgif-2241c7c8578dd182.gif"
+        "updatedAt": "2026-09-04T14:41:44.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/IMG_1687.webp"
       },
       {
-        "clusterId": "b31e8c6e40430892",
-        "slug": "2c8a3a445c1acbcf",
-        "titulo": "Síria inicia destruição de armas químicas da era Assad",
-        "resumo": "A nova liderança síria iniciou a destruição de restos de um programa clandestino de armas químicas, incluindo matérias-primas e munições semelhantes às usadas em ataques com gás. A operação, realizada em maio, é a primeira desse tipo no país em dez anos. Em Damasco, uma exposição sobre o regime de Assad trouxe à tona relatos de tortura e desaparecimentos, como o caso da irmã que reconheceu a assinatura de seu irmão desaparecido em uma porta de prisão.",
-        "porQueImporta": "A ação demonstra um passo concreto na desmilitarização do país e traz à tona o legado de violência do regime.",
+        "clusterId": "23d3086729121718",
+        "slug": "d074858fb14fadbb",
+        "titulo": "Ministro israelense propõe plano de 7 anos para retirar palestinos de Gaza",
+        "resumo": "O ministro da Segurança Nacional, Itamar Ben‑Gvir, apresentou um projeto que prevê a remoção de 250 mil palestinos da Faixa de Gaza em um ano, com o objetivo de transferi‑los para o exterior. O plano inclui a criação de um ministério dedicado à transferência e a promoção de uma emigração voluntária. A proposta faz parte de um esforço mais amplo de Israel para reestruturar a população de Gaza, que conta com cerca de dois milhões de habitantes. O projeto foi divulgado em vídeo e em documentos oficiais, gerando controvérsia internacional.",
+        "porQueImporta": "A medida pode alterar significativamente a dinâmica demográfica e política da região, afetando a situação humanitária e as relações internacionais.",
         "category": "mundo",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/em-marco-historico-siria-comeca-a-destruir-armas-quimicas-do-regime-bashar-al-assad/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/ministro-de-israel-propoe-plano-de-7-anos-para-remover-populacao-de-gaza/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/09/03/video-mulher-chora-ao-reconhecer-nome-de-irmao-desaparecido-em-porta-de-prisao-em-mostra-sobre-regime-de-assad-na-siria.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/09/03/ministro-israelense-apresenta-plano-para-retirar-palestinos-de-gaza.ghtml"
           }
         ],
-        "updatedAt": "2026-09-03T22:11:52.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/AFP__20260122__2257614209__v1__HighRes__UnitedNationsSecurityCouncilHoldsMeetingsOnT.jpg"
+        "updatedAt": "2026-09-04T13:23:07.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/3hG07iKXlGXfVW1r1CxHd7sY1OE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/1/L6pBpqS3S87AXnASWv8A/captura-de-tela-2026-09-01-202500-1-.jpg"
       },
       {
-        "clusterId": "cf76bf4cb48a62db",
-        "slug": "9c86535c4be3e078",
-        "titulo": "Alemanha testa míssil balístico israelense Lora no Atlântico Norte",
-        "resumo": "A Alemanha realizou um teste bem-sucedido de um míssil balístico Lora, fabricado pela Israel Aerospace Industries, no Atlântico Norte durante a madrugada. O teste ocorreu horas após Berlim acusar a Rússia de tentativa de ataque com drones ao Aeroporto de Leipzig/Halle. O míssil Lora tem alcance de até 500 quilômetros, segundo o Ministério da Defesa alemão. O evento ocorreu em meio a tensões crescentes entre a Alemanha e a Rússia.",
-        "porQueImporta": "O teste demonstra a capacidade militar da Alemanha e reflete a escalada de tensões com a Rússia.",
+        "clusterId": "11bc3c35ece98e8f",
+        "slug": "073875cec1920791",
+        "titulo": "Roubo de petróleo em oleoduto na Nigéria resulta em 37 mortes",
+        "resumo": "Um roubo a um oleoduto na região de Okrika, perto de Port Harcourt, causou a morte de pelo menos 37 pessoas que inalaram vapores de combustível. A ONG YEAC-Nigéria relatou que outras vítimas ainda estão desaparecidas. O incidente faz parte de um padrão de ataques contra oleodutos no Delta do Níger, onde contrabandistas perfuram tubulações para extrair petróleo e refinar em combustível para venda.",
+        "porQueImporta": "O caso destaca a violência e a insegurança que afetam a infraestrutura de energia na Nigéria, com impactos humanos e econômicos significativos.",
         "category": "mundo",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/video-alemanha-testa-missil-balistico-israelense-em-meio-a-tensao-com-a-russia/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/ao-menos-37-pessoas-morrem-em-oleoduto-na-nigeria/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/09/03/video-alemanha-testa-missil-balistico-em-meio-a-tensao-com-a-russia.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/09/03/roubo-de-petroleo-de-oleoduto-na-nigeria-deixa-mortos.ghtml"
           }
         ],
-        "updatedAt": "2026-09-03T22:08:15.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/IMG_1677.jpg"
+        "updatedAt": "2026-09-04T13:06:50.000Z"
       },
       {
-        "clusterId": "03d8ffd6ecebd06b",
-        "slug": "6caaefa9acbcbd43",
-        "titulo": "Gloria Steinem morre aos 92 anos",
-        "resumo": "A jornalista e ativista americana Gloria Steinem faleceu em sua casa em Nova York, aos 92 anos. Steinem foi uma das principais líderes do movimento feminista nos Estados Unidos, defendendo direitos reprodutivos e maior participação das mulheres na política. Ela fundou publicações e organizações que impulsionaram o feminismo ao longo de mais de cinco décadas. A causa da morte não foi divulgada pela fundação que a homenageia.",
-        "porQueImporta": "Sua morte marca o fim de uma era de liderança no movimento feminista global.",
+        "clusterId": "39c03d0569cf6def",
+        "slug": "e706feb9fefc38b9",
+        "titulo": "Israel consolida zona de segurança no sul do Líbano após tomar colina Ali Taher",
+        "resumo": "Israel afirmou que consolidou a zona de segurança no sul do Líbano, tomando a colina Ali Taher, que servia de posição estratégica ao Hezbollah. A colina fica ao norte do rio Litani, próximo ao limite da área ocupada por Israel. A operação ocorreu enquanto a ONU relatava que Israel continua a reforçar posições e demolições na região. A ação faz parte de um esforço maior de Israel para controlar territórios estratégicos no Líbano.",
+        "porQueImporta": "A consolidação da zona de segurança fortalece a presença militar israelense na fronteira sul do Líbano, impactando a dinâmica de segurança regional.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/09/04/israel-afirma-que-consolidou-zona-de-seguranca-no-sul-do-libano.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cvgyp5xpmmlo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-09-04T10:34:52.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/8bFVf90FBUl8FOdF3yu5O46-dP4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/s/2v7Mt5SfSPuLhHdJl8qw/afp-20260904-c7bt4g3-v1-midres-lebanonisraelusiranwarprisoners.jpg"
+      },
+      {
+        "clusterId": "cb280a80ecbfc536",
+        "slug": "12959f7f8643e6db",
+        "titulo": "Trabalhadores de aplicativos no Brasil recebem salário médio do setor privado, mas sem direitos trabalhistas",
+        "resumo": "Estudo mostra que motoristas de aplicativos recebem valores mensais próximos à média salarial do setor privado, porém suas jornadas são mais longas. Os profissionais não têm acesso a benefícios trabalhistas, como férias e FGTS. A análise destaca a precarização das condições de trabalho e a ausência de proteção legal para esses trabalhadores.",
+        "porQueImporta": "A falta de direitos trabalhistas pode levar a desigualdades e insegurança financeira para milhões de trabalhadores que dependem dessas plataformas.",
         "category": "mundo",
         "sources": [
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c5yjre413e4o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/09/03/gloria-steinem-icone-do-feminismo-morre-aos-92-anos.ghtml"
+            "url": "https://www.bbc.com/portuguese/articles/c3d7k452g9xo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-09-03T19:22:30.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ffc/live/d30c3760-3d3c-11ef-9e1c-3b4a473456a6.jpg"
-      },
-      {
-        "clusterId": "00dba2eb5eeba298",
-        "slug": "dea280c2d079e917",
-        "titulo": "Holanda transfere 86 toneladas de ouro para Londres",
-        "resumo": "O banco central dos Países Baixos moveu 86 toneladas de ouro, equivalente a US$ 12 bilhões, dos EUA e do Canadá para Londres. A transferência faz parte de uma estratégia de diversificação das reservas internacionais. A operação foi anunciada em meio a discussões sobre a segurança e liquidez das reservas globais.",
-        "porQueImporta": "A mudança reflete a busca por maior segurança e flexibilidade nas reservas de ouro dos países europeus.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c7v4nn87vp9o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-09-04T07:41:04.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/14d7/live/19860b20-a6e6-11f1-b109-879e35c24276.jpg"
+        "updatedAt": "2026-09-04T15:52:20.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3773/live/4deec5c0-a806-11f1-aed2-8d6da8d75094.jpg"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "e531692760a7be71",
-        "slug": "72f57c5e460cde60",
-        "titulo": "Xbox Game Pass limita horas de uso mensal no Cloud Gaming",
-        "resumo": "A Microsoft vai limitar o tempo de uso mensal do Cloud Gaming para assinantes do Xbox Game Pass, entrando em vigor em novembro. O limite se aplica a todos os dispositivos, inclusive consoles, PCs e Smart TVs. Usuários que excederem o limite poderão pagar por horas extras. A mudança encerra a era de acesso ilimitado que havia sido oferecida até então.",
-        "porQueImporta": "A nova política afeta a experiência de jogadores que dependem do serviço de streaming para acessar jogos sem console.",
+        "clusterId": "248a54c3da3f56ce",
+        "slug": "32170e0683b465d4",
+        "titulo": "Netflix supera TV paga no Brasil com plano com publicidade",
+        "resumo": "A Netflix reportou mais de 35 milhões de usuários ativos mensais no Brasil usando o plano com anúncios, ultrapassando o auge da TV por assinatura. Cerca de 60% dos novos assinantes optam por essa modalidade mais barata. A receita gerada por anúncios atinge centenas de milhões de reais por mês, reforçando a estratégia comercial da empresa.",
+        "porQueImporta": "O crescimento do plano com publicidade demonstra a mudança no consumo de mídia e a relevância da publicidade digital no mercado brasileiro.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Exame",
-            "url": "https://exame.com/tecnologia/xbox-limita-horas-de-jogo-no-game-pass-e-encerra-era-do-acesso-ilimitado/"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/cultura/o-que-84-de-atencao-dos-assinantes-aos-anuncios-revela-sobre-a-netflix/"
           },
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/games/nova-regra-do-xbox-game-pass-corta-uso-livre-da-nuvem-e-pode-pesar-no-bolso-do-jogador/"
+            "url": "https://canaltech.com.br/mercado/netflix-supera-auge-da-tv-paga-e-fatura-mais-de-r-500-milhoes-com-anuncios/"
           }
         ],
-        "updatedAt": "2026-09-03T20:13:10.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/chJbe2k_Nh4RZMzYwh2A0SObXVo=/0x0/filters:format(webp):quality(85)/f0989a7d-f33c-41dd-9707-e0297ffda7c1.png"
+        "updatedAt": "2026-09-04T14:22:02.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-2271161635.jpg"
       },
       {
-        "clusterId": "08ff9ee23d977b36",
-        "slug": "3955bbc7f5c150f4",
-        "titulo": "Nvidia compra Hugging Face por US$ 12,93 bilhões",
-        "resumo": "A Nvidia anunciou a aquisição da plataforma de software de inteligência artificial Hugging Face por US$ 12,93 bilhões, equivalente a cerca de R$ 66 bilhões. A Hugging Face conta com mais de 3 milhões de modelos de IA, 500 mil conjuntos de dados e 1 milhão de aplicações, sendo usada por mais de 18 milhões de desenvolvedores, pesquisadores e criadores. Mais de 200 mil empresas também utilizam a plataforma para descobrir, avaliar e implementar sistemas de IA.",
-        "porQueImporta": "A compra consolida a Nvidia como líder no ecossistema de IA, ampliando seu alcance além de hardware para incluir uma das maiores comunidades de desenvolvimento de modelos de IA.",
+        "clusterId": "381f79565f0ed702",
+        "slug": "5fb3b7772393edb9",
+        "titulo": "Congresso aprova regime de isenção fiscal para data centers no Brasil",
+        "resumo": "O Senado aprovou o Projeto de Lei 278/2026, criando o Regime Especial de Tributação para Serviços de Datacenter (Redata). A medida reduz ou elimina tributos para empresas que instalarem ou ampliarem centros de dados, com prioridade para nuvem e inteligência artificial. O texto segue para sanção presidencial. A proposta visa atrair investimentos em infraestrutura digital e reduzir a dependência de data centers estrangeiros.",
+        "porQueImporta": "A iniciativa pode impulsionar a expansão da infraestrutura digital e a competitividade tecnológica do país.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/negocios/brasil-tem-potencial-para-liderar-data-centers-diz-especialista/"
+          },
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/inteligencia-artificial/senado-zera-tributos-para-incentivar-construcao-de-data-centers-de-ia-no-brasil/"
+          }
+        ],
+        "updatedAt": "2026-09-04T13:00:05.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/4J4J5M6MI1lrl95gD8cvHPF6qhA=/0x0/filters:format(webp):quality(85)/b42d5592-7a12-45f6-ad2b-f6790f13def1.jpg"
+      },
+      {
+        "clusterId": "6178e5f9193a702c",
+        "slug": "24c0ee214eeee390",
+        "titulo": "Amazon oferece promoções em fones Bluetooth, memórias RAM, SSDs, monitores gamer e notebooks",
+        "resumo": "A Amazon disponibiliza descontos em diversas categorias de tecnologia, incluindo fones Bluetooth, módulos DDR5, SSDs NVMe, monitores gamer e notebooks. Cada segmento apresenta três modelos selecionados, visando atender perfis variados de uso e orçamento. As ofertas combinam desempenho, custo-benefício e entrega rápida.",
+        "porQueImporta": "Essas promoções permitem que consumidores atualizem equipamentos com vantagens financeiras e de desempenho.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/09/04/reviews/fones-bluetooth-em-promocao-confira-uma-selecao-com-otimas-opcoes-na-amazon-8/"
+          }
+        ],
+        "updatedAt": "2026-09-04T15:40:00.000Z"
+      },
+      {
+        "clusterId": "feadd0e6432f6acf",
+        "slug": "2025a04320dab8a2",
+        "titulo": "Autópsia de 66 milhões de anos revela como maior T. rex do mundo morreu",
+        "resumo": "A autópsia de um T. rex de 66 milhões de anos, considerado o maior já encontrado, mostrou vasos sanguíneos fossilizados em uma costela. A fratura observada indica que o animal morreu devido a uma lesão nessa região. A preservação dos vasos sanguíneos permitiu analisar a estrutura vascular do dinossauro. O estudo oferece insights sobre a fisiologia e a causa de morte de grandes répteis pré-históricos.",
+        "porQueImporta": "A descoberta ajuda a compreender melhor a biologia e as causas de morte de dinossauros de grande porte.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/09/04/ciencia-e-espaco/autopsia-de-66-milhoes-de-anos-mostra-como-maior-t-rex-do-mundo-morreu/"
+          }
+        ],
+        "updatedAt": "2026-09-04T15:27:37.000Z"
+      },
+      {
+        "clusterId": "f88c99d628def212",
+        "slug": "b4f95e96dae7df13",
+        "titulo": "Nintendo anuncia dois Directs na próxima semana com foco em Zelda",
+        "resumo": "A Nintendo confirmou que realizará dois eventos Direct na próxima semana, nos dias 8 e 9 de setembro. O primeiro apresentará novidades sobre os 40 anos de The Legend of Zelda, enquanto o segundo abordará lançamentos futuros do Nintendo Switch 2. Os Directs prometem revelar detalhes de jogos e celebrações da franquia.",
+        "porQueImporta": "Esses eventos são importantes para os fãs e para a indústria, pois anunciam novidades de uma das franquias mais icônicas da Nintendo e do próximo console.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/09/04/games-e-consoles/nintendo-anuncia-dois-directs-para-setembro/"
+          }
+        ],
+        "updatedAt": "2026-09-04T15:21:27.000Z"
+      },
+      {
+        "clusterId": "88aecb1f3d897d96",
+        "slug": "ebd6c9a91697919f",
+        "titulo": "Unicef aponta que 1 em cada 5 adolescentes brasileiros já sofreu abuso sexual online",
+        "resumo": "Um estudo da Unicef mostra que 20% dos adolescentes no Brasil foram vítimas de abuso sexual na internet, número semelhante à média global. As redes sociais são o principal meio de exploração de crianças e adolescentes de 12 a 17 anos. O relatório global indica que mais de 15 milhões de jovens em 21 países foram expostos a conteúdo sexual indesejado, enquanto 9 milhões já sofreram abuso. A pesquisa destaca a necessidade de medidas de proteção e prevenção.",
+        "porQueImporta": "Revela a alta prevalência de abuso sexual online entre adolescentes brasileiros, exigindo ações de segurança digital e apoio às vítimas.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/mercado/nvidia-da-r-66-bilhoes-a-hugging-face-e-vira-dona-do-maior-polo-de-ia-do-mundo/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/noticia/2026/09/03/nvidia-vai-comprar-plataforma-de-inteligencia-artificial-hugging-face-por-cerca-de-r-66-bilhoes.ghtml"
+            "url": "https://canaltech.com.br/internet-e-redes-sociais/unicef-1-em-cada-5-adolescentes-no-brasil-sofre-abuso-sexual-na-internet/"
           }
         ],
-        "updatedAt": "2026-09-03T20:00:02.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/Z1zZQzYR2ysv9YubGatifOAUQPY=/0x0/filters:format(webp):quality(85)/8a78d06f-a31c-40eb-b591-5ab816bef361.png"
+        "updatedAt": "2026-09-04T15:10:01.000Z"
       },
       {
-        "clusterId": "5b3672b25423a31f",
-        "slug": "20c41913eec67f60",
-        "titulo": "Notícia não detalhada",
-        "resumo": "Não há informações específicas disponíveis sobre a notícia mencionada.",
-        "porQueImporta": "Sem dados, não é possível avaliar a relevância.",
+        "clusterId": "fbd4ad7143037059",
+        "slug": "04c394fa6a61ebcd",
+        "titulo": "Meta deve limitar uso diário do Instagram a duas horas para adolescentes",
+        "resumo": "A Meta concordou em implementar um limite diário de duas horas no Instagram para usuários com menos de 18 anos, em acordo com autoridades americanas sobre segurança infantil. O ajuste faz parte de um acordo que pode chegar a US$ 17 bilhões. A mudança será aplicada em todas as plataformas da Meta, incluindo o Facebook.",
+        "porQueImporta": "O limite visa reduzir o impacto negativo da exposição prolongada às redes sociais em crianças e adolescentes.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/09/03/videos/confira-o-olhar-digital-news-na-integra-03-09-2026/"
+            "url": "https://olhardigital.com.br/2026/09/04/internet-e-redes-sociais/instagram-tera-teto-diario-de-duas-horas-para-adolescentes-apos-acordo/"
           }
         ],
-        "updatedAt": "2026-09-04T01:57:14.000Z"
+        "updatedAt": "2026-09-04T14:55:03.000Z"
       },
       {
-        "clusterId": "0628c02c960aab44",
-        "slug": "2acf9b715bd11d8b",
-        "titulo": "Anatel autoriza venda da telefonia fixa da Oi para a Método",
-        "resumo": "A Anatel aprovou a transferência de ativos de telefonia fixa da Oi para a Método, com valor de R$ 60,1 milhões. A operação inclui serviços de voz, números de emergência, orelhões e outros ativos. A Método deve garantir a continuidade das operações até 2028.",
-        "porQueImporta": "A decisão assegura a continuidade dos serviços de telefonia fixa para os usuários e reflete a reorganização do setor.",
+        "clusterId": "b389f519f0a34da7",
+        "slug": "d74fd6472a122bd5",
+        "titulo": "Mouses gamer sem fio ganham destaque no mercado",
+        "resumo": "O mercado de mouses gamer sem fio tem se intensificado, oferecendo opções que combinam precisão, leveza e liberdade de movimento. A seleção destaca três modelos que se destacam pelo custo-benefício, incluindo o Redragon Astrolabe Lite, que pesa apenas 49 gramas. Os consumidores podem escolher o dispositivo que melhor se adapta ao seu setup de jogo.",
+        "porQueImporta": "Esses dispositivos permitem maior mobilidade e conforto durante sessões prolongadas de jogo, influenciando a experiência do usuário.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/09/03/pro/anatel-autoriza-venda-da-telefonia-fixa-da-oi-para-a-metodo-com-condicoes/"
+            "url": "https://olhardigital.com.br/2026/09/04/reviews/mouses-gamer-sem-fio-que-valem-cada-centavo-confira-a-selecao/"
           }
         ],
-        "updatedAt": "2026-09-04T01:49:39.000Z"
-      },
-      {
-        "clusterId": "b5bc8d797bbd385d",
-        "slug": "324f7e8de4e48a1d",
-        "titulo": "Falha em plataforma de verificação de identidade expõe 153 milhões de registros",
-        "resumo": "Uma vulnerabilidade em uma plataforma de verificação de identidade revelou 153 milhões de registros, incluindo documentos e fotos, que estavam armazenados no exterior. O vazamento afetou usuários de vários países, mas não há confirmação de que brasileiros tenham sido incluídos. A exposição compromete a privacidade e pode facilitar fraudes de identidade.",
-        "porQueImporta": "O incidente destaca riscos de segurança em sistemas de verificação de identidade e a necessidade de proteção de dados pessoais.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/09/03/colunistas/seu-direito-digital-vazamento-expoe-milhoes-de-documentos-brasil-foi-afetado/"
-          }
-        ],
-        "updatedAt": "2026-09-04T01:47:18.000Z"
-      },
-      {
-        "clusterId": "6255e22b21409408",
-        "slug": "8f63eac8d35a674c",
-        "titulo": "EUA e China preparam satélites caçadores para possível guerra no espaço",
-        "resumo": "Os Estados Unidos e a China estão desenvolvendo e testando satélites equipados com armamentos para uso em operações militares no espaço. A iniciativa ocorre em meio a rápidas transformações das capacidades militares orbitais de ambos os países. As ações refletem a crescente preocupação com a segurança e a soberania em órbita, além de aumentar a tensão geopolítica. Os satélites caçadores visam interceptar e neutralizar ameaças orbitais em tempo real.",
-        "porQueImporta": "A militarização do espaço pode alterar o equilíbrio estratégico global e aumentar o risco de conflitos cibernéticos e físicos em órbita.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/09/03/ciencia-e-espaco/eua-e-china-se-preparam-para-possivel-guerra-no-espaco-com-satelites-cacadores/"
-          }
-        ],
-        "updatedAt": "2026-09-04T00:38:55.000Z"
-      },
-      {
-        "clusterId": "615c4ba97166622b",
-        "slug": "838b6ff29e1a99a4",
-        "titulo": "Resultado da Lotofácil do concurso 3779",
-        "resumo": "O sorteio da Lotofácil do concurso 3779 foi realizado na noite de quinta-feira, 3 de setembro, às 21h. O prêmio estimado era de R$ 5 milhões. Os números sorteados e os ganhadores foram divulgados pela organização do concurso.",
-        "porQueImporta": "A divulgação dos resultados permite que os participantes verifiquem se ganharam e acompanhem o valor do prêmio.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/09/03/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3779-quinta-03-09/"
-          }
-        ],
-        "updatedAt": "2026-09-03T23:40:00.000Z"
-      },
-      {
-        "clusterId": "7c2b303122400897",
-        "slug": "318a6f3cd6f23bfa",
-        "titulo": "Resultado da Quina do concurso 7109",
-        "resumo": "O sorteio da Quina, realizado em São Paulo, distribuiu um prêmio de R$ 13,6 milhões. Foram sorteados os cinco números premiados e os ganhadores foram anunciados. O concurso 7109 foi o 7109º da loteria. Os vencedores podem resgatar seus prêmios seguindo as instruções do órgão responsável.",
-        "porQueImporta": "Informação relevante para participantes e interessados na loteria nacional.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/09/03/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7109-quinta-03-09/"
-          }
-        ],
-        "updatedAt": "2026-09-03T23:40:00.000Z"
+        "updatedAt": "2026-09-04T14:40:00.000Z"
       }
     ],
     "ciencia": [
       {
-        "clusterId": "829f33c69c0a7ad9",
-        "slug": "aa3f90ade502e845",
-        "titulo": "Hubble detecta estrutura de dez lados no polo sul de Saturno",
-        "resumo": "O Telescópio Espacial Hubble registrou uma onda atmosférica em forma de decágono ao redor do polo sul de Saturno. A formação apareceu de forma sutil em imagens de 2023 e tornou-se mais definida nos anos seguintes, sendo confirmada em 2025. A estrutura não é sólida, mas representa um fenômeno atmosférico inédito no hemisfério sul do planeta.",
-        "porQueImporta": "A descoberta oferece nova perspectiva sobre dinâmicas atmosféricas planetárias e pode ajudar a entender processos semelhantes em outros planetas gasosos.",
+        "clusterId": "46d14b9b156b3255",
+        "slug": "194ba67235eac9b7",
+        "titulo": "IgNobel 2026 premia estudo brasileiro sobre jararacas e outras pesquisas inusitadas",
+        "resumo": "O IgNobel 2026, premiação internacional de ciência humorística, reconheceu dez estudos, incluindo um brasileiro que testou a propensão de jararacas a picar quando se aproximam de botas de proteção. Outros projetos premiados investigaram a decomposição de cuecas enterradas, o leite de barata e a ciência por trás do beijo. A cerimônia ocorreu em Zurique, na Suíça, e destaca pesquisas que provocam riso e reflexão.",
+        "porQueImporta": "O prêmio evidencia que ciência pode ser acessível e divertida, incentivando a curiosidade pública sobre temas aparentemente curiosos.",
         "category": "ciencia",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/ciencia/telescopio-hubble-revela-uma-gigantesca-onda-atmosferica-de-10-lados-cercando-o-polo-sul-de-saturno/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/ciencia/ignobel-2026-premia-estudo-brasileiro-que-testou-quando-jararacas-atacam"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/ciencia/noticia/2026/09/02/cientistas-10-lados-saturno-entenda.ghtml"
+            "url": "https://g1.globo.com/ciencia/noticia/2026/09/03/ignobel-2026-pesquisas-premiadas.ghtml"
           }
         ],
-        "updatedAt": "2026-09-04T06:34:15.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/6ESbQptnZHzImv8iywPzm9R6kig=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/A/ki2Q5MTxOep2uOdkZLig/figure-2-saturn-decagon.png"
+        "updatedAt": "2026-09-04T15:39:51.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/09/ataca-jararaca.jpg"
       },
       {
-        "clusterId": "ff8ae0fa981e91fd",
-        "slug": "8fad5ce33fff2f41",
-        "titulo": "Che Guevara: trajetória e legado do revolucionário argentino",
-        "resumo": "Ernesto Guevara, médico argentino, percorreu a América Latina de motocicleta, vivenciando desigualdades que o motivaram a se engajar na Revolução Cubana. Ele participou ativamente das lutas contra o regime de Batista e, após a vitória, assumiu cargos governamentais em Cuba. Guevara propagou ideais marxistas, defendendo a revolução como meio de combater a opressão e a pobreza. Sua imagem tornou-se símbolo global de resistência, embora sua atuação tenha sido controversa e polarizadora.",
-        "porQueImporta": "Entender sua influência ajuda a contextualizar movimentos sociais e políticos contemporâneos.",
+        "clusterId": "0787142e121daa26",
+        "slug": "1e29a96edbac6685",
+        "titulo": "Gatos possuem bigodes longos por função sensorial",
+        "resumo": "Os bigodes dos gatos, chamados de vibrissas, são altamente sensíveis e ajudam o animal a medir espaços e detectar objetos próximos. Eles são mais espessos e rígidos que o pelo comum, permitindo que o gato perceba vibrações e mudanças de pressão no ar. A estrutura dos bigodes também auxilia na orientação em ambientes escuros e na caça, pois detectam movimentos de presas. Assim, os bigodes são essenciais para a sobrevivência e navegação do felino.",
+        "porQueImporta": "Esses pelos sensoriais são fundamentais para a caça e orientação dos gatos, influenciando seu comportamento e bem‑estar.",
         "category": "ciencia",
         "sources": [
           {
             "name": "Super Interessante",
-            "url": "https://super.abril.com.br/ciencia/quem-foi-che-guevara-conheca-a-historia-e-o-legado-do-revolucionario/"
+            "url": "https://super.abril.com.br/coluna/oraculo/por-que-os-gatos-tem-bigodes-tao-longos/"
           }
         ],
-        "updatedAt": "2026-09-04T00:01:04.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2018/07/alberto-diaz-gutierrez1.jpg"
+        "updatedAt": "2026-09-04T15:00:35.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/08/SI_490_Oraculo_Gatos.jpg"
       },
       {
-        "clusterId": "b28b5200026f24df",
-        "slug": "df7f85e1ad01021f",
-        "titulo": "Revisão da árvore genealógica humana pode esclarecer relações evolutivas",
-        "resumo": "A classificação atual de gêneros humanos pode não refletir as relações evolutivas reais, o que dificulta a identificação de padrões de descendência e perpetua ideias ultrapassadas. Pesquisadores sugerem repensar a árvore genealógica para melhor representar a evolução humana. A mudança proposta visa tornar a nomenclatura mais alinhada com evidências científicas.",
-        "porQueImporta": "Uma classificação mais precisa pode melhorar a compreensão da evolução humana e reduzir preconceitos baseados em nomes de gênero.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/ciencia/por-que-talvez-seja-hora-de-repensar-a-arvore-genealogica-humana/"
-          }
-        ],
-        "updatedAt": "2026-09-03T23:00:29.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/09/arvore-genealogica-humana-homo.jpg"
-      },
-      {
-        "clusterId": "2ed796d44fffefac",
-        "slug": "b1a1045025cbfad7",
-        "titulo": "Lindsay Clancy enfrenta julgamento por assassinato de filhos e alegação de transtorno psiquiátrico",
-        "resumo": "A americana Lindsay Clancy foi acusada de matar seus três filhos em 2023. Em sua defesa, a acusação de transtorno psiquiátrico, especificamente psicose pós-parto, foi apresentada. O júri ainda não chegou a uma decisão final. O caso atrai atenção pela complexidade entre culpa e saúde mental.",
-        "porQueImporta": "Ilustra os desafios legais e éticos de julgar crimes envolvendo transtornos mentais graves.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/saude/o-que-e-psicose-pos-parto-condicao-rara-por-tras-de-julgamento-midiatico-nos-eua/"
-          }
-        ],
-        "updatedAt": "2026-09-03T22:46:16.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/09/SI_psicose-pos-parto_site.jpg"
-      },
-      {
-        "clusterId": "2a6ac9a222607190",
-        "slug": "c5ec3c5bf67dfae4",
-        "titulo": "USP revisará manuais técnicos de projeto geométrico de rodovias",
-        "resumo": "A Escola de Engenharia de São Carlos da USP iniciará a revisão e atualização dos manuais técnicos que orientam o projeto geométrico de rodovias no Brasil. O trabalho visa modernizar as diretrizes e garantir a conformidade com as normas atuais. A iniciativa será conduzida por pesquisadores da universidade.",
-        "porQueImporta": "A atualização assegura que os projetos rodoviários sigam padrões técnicos atualizados, melhorando a segurança e eficiência das estradas.",
+        "clusterId": "9014bb317ee1ef83",
+        "slug": "6bb15ca7ecd18b8b",
+        "titulo": "Pequenas mudanças na cozinha ajudam a combater o desperdício de alimentos",
+        "resumo": "A USP destaca que cascas, talos, folhas, sementes e sobras podem ser reaproveitados em novas receitas, reduzindo o desperdício. A iniciativa incentiva práticas culinárias conscientes e a valorização de ingredientes normalmente descartados. O artigo apresenta exemplos práticos de como transformar restos em pratos saborosos.",
+        "porQueImporta": "Reduzir o desperdício de alimentos contribui para a sustentabilidade e economia doméstica.",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/noticias/pesquisadores-da-usp-atualizarao-os-manuais-tecnicos-do-projeto-rodoviario-brasileiro/"
+            "url": "https://jornal.usp.br/atualidades/planejar-para-nao-jogar-fora-pequenas-mudancas-na-cozinha-ajudam-a-combater-o-desperdicio-de-alimentos/"
           }
         ],
-        "updatedAt": "2026-09-03T22:36:52.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/09/Transito-Rodovia-Aguanguera-Foto-Marcos-Santos-USP-Imagens-_U0Y5344-1024x542.jpg"
+        "updatedAt": "2026-09-04T14:12:24.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2022/08/20220823_desperdicioalimentos-copiar-1024x538.jpg"
       },
       {
-        "clusterId": "f83641ba646c1c7d",
-        "slug": "e5e683c7057aff90",
-        "titulo": "Política de exclusão no esporte gera debate sobre interesses envolvidos",
-        "resumo": "A professora Gabrielle Weber da USP analisa a política de exclusão no esporte, destacando os interesses de diferentes grupos. Ela aponta que a medida pode favorecer entidades esportivas e patrocinadores, ao mesmo tempo em que marginaliza atletas de baixa renda. A discussão envolve questões de equidade e acesso à prática esportiva. A autora conclui que a política precisa ser revista para evitar desigualdades.",
-        "porQueImporta": "A análise revela como decisões esportivas podem perpetuar desigualdades sociais.",
+        "clusterId": "19a59f3dc012757f",
+        "slug": "d4859a7fe5233f84",
+        "titulo": "Ranking mundial destaca três universidades chinesas entre as melhores; Brasil não avança",
+        "resumo": "Um ranking recente, baseado em pesquisa da FAPESP, mostra que três universidades chinesas estão entre as melhores do mundo. O estudo comparou instituições globais e constatou que o Brasil não teve progresso significativo na classificação. A análise destaca a crescente competitividade das universidades chinesas no cenário acadêmico internacional.",
+        "porQueImporta": "Ilustra a ascensão das universidades chinesas e a necessidade de repensar estratégias de educação superior no Brasil.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Pesquisa FAPESP",
+            "url": "https://revistapesquisa.fapesp.br/o-que-a-ascensao-das-universidades-chinesas-tem-a-nos-ensinar/?utm_source=rss&utm_medium=rss&utm_campaign=o-que-a-ascensao-das-universidades-chinesas-tem-a-nos-ensinar"
+          }
+        ],
+        "updatedAt": "2026-09-04T13:56:02.000Z"
+      },
+      {
+        "clusterId": "bec368ac145fc71b",
+        "slug": "95a4329539d0e88e",
+        "titulo": "Livros, inclusive raros, são destruídos para treinar chatbots",
+        "resumo": "A colunista Marisa Midori afirma que livros, muitos deles raros, estão sendo destruídos para que chatbots aprendam a escrever melhor. Ela destaca que a prática envolve a destruição de obras físicas para extrair dados de linguagem. A medida tem sido adotada por empresas de IA que buscam melhorar a qualidade das respostas geradas.",
+        "porQueImporta": "A prática levanta questões sobre preservação cultural e ética no uso de dados para treinamento de IA.",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/articulistas/gabrielle-weber/tifanny-e-a-cvb-a-quem-interessa-a-politica-de-exclusao-no-esporte/"
+            "url": "https://jornal.usp.br/radio-usp/marisa-midori-fala-dos-riscos-que-envolvem-livros-e-a-ia/"
           }
         ],
-        "updatedAt": "2026-09-03T21:51:21.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2024/02/perfil_-articulistas_gabrielleweber.jpg"
+        "updatedAt": "2026-09-04T12:54:37.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/03/20230313_marisa--1024x1024.jpg"
       },
       {
-        "clusterId": "2af36fa62d91481e",
-        "slug": "4e9c59841989592b",
-        "titulo": "140 anos de Tarsila do Amaral",
-        "resumo": "Tarsila do Amaral, figura central do modernismo brasileiro, celebra 140 anos de nascimento. O artista, conhecido por obras como “Abaporu”, teve carreira marcada por experimentação e influência internacional. Sua trajetória inclui participação em movimentos artísticos e contribuições para a identidade cultural do Brasil. O aniversário destaca seu legado no cenário artístico nacional e global.",
-        "porQueImporta": "A celebração reforça a importância de Tarsila como ícone da modernidade brasileira e inspira novas gerações de artistas.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/cultura/140-anos-de-tarsila-do-amaral-5-curiosidades-sobre-a-modernista/"
-          }
-        ],
-        "updatedAt": "2026-09-03T21:00:59.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/09/SI_tarsila_site.jpg"
-      },
-      {
-        "clusterId": "e39720a4bbdabb17",
-        "slug": "6b10abc5b41d8fff",
-        "titulo": "Cooperação em arquitetura e design entre universidades",
-        "resumo": "O coordenador executivo do gabinete do reitor da USP descreve projetos de arquitetura e design que envolvem intercâmbio de profissionais e estudantes. A iniciativa busca fortalecer vínculos acadêmicos e culturais, promovendo a troca de experiências e a consolidação de parcerias internacionais. A colaboração inclui visitas técnicas, workshops e eventos conjuntos que ampliam a visibilidade das instituições.",
-        "porQueImporta": "A iniciativa amplia a rede internacional da USP e fomenta a capacitação de seus acadêmicos.",
+        "clusterId": "557d86509298f68d",
+        "slug": "e93227a42ca18c56",
+        "titulo": "Algoritmos de recomendação personalizam conteúdo mas podem criar bolhas",
+        "resumo": "Sistemas de recomendação analisam hábitos e comportamentos para oferecer conteúdo personalizado. Contudo, essa personalização pode limitar a exposição a diferentes pontos de vista, gerando bolhas de informação. O fenômeno pode reduzir o contato com opiniões divergentes e afetar a diversidade de informações recebidas pelos usuários.",
+        "porQueImporta": "Entender os efeitos dos algoritmos é essencial para avaliar impactos na diversidade de informação e no debate público.",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/artigos/entre-fronteiras-madeira-e-memoria-percursos-eslovenos-de-arquitetura-design-e-cooperacao/"
+            "url": "https://jornal.usp.br/radio-usp/a-vida-sob-recomendacao-dos-algoritmos/"
           }
         ],
-        "updatedAt": "2026-09-03T20:45:02.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/04/20260410_Gustavo_Curcio_fau_usp_800px.jpg"
+        "updatedAt": "2026-09-04T12:45:49.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/03/pasta-dos-20230313_luli2--1024x1024.jpg"
+      },
+      {
+        "clusterId": "c4d9e399542de94b",
+        "slug": "da0765b331992cf1",
+        "titulo": "Hospital Universitário da USP passa por modernização para atender demandas do século 21",
+        "resumo": "O superintendente José Pinhata Otoch participou do boletim \"Por Dentro da USP\" para explicar o projeto de modernização do Hospital Universitário. O plano inclui melhorias na infraestrutura e adaptações às necessidades epidemiológicas e de segurança atuais. O objetivo é tornar o hospital mais eficiente e preparado para desafios futuros. O projeto visa garantir atendimento de qualidade e segurança aos pacientes e profissionais.",
+        "porQueImporta": "A modernização reforça a capacidade do hospital de responder a crises de saúde e melhorar o cuidado aos usuários.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/comunicados/estamos-adaptando-o-hospital-universitario-as-necessidades-epidemiologicas-e-de-seguranca-do-seculo-21/"
+          }
+        ],
+        "updatedAt": "2026-09-04T12:30:40.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/04/20260415_por-dentro-da-usp-4--1024x538.jpg"
+      },
+      {
+        "clusterId": "30199fcd466a82e7",
+        "slug": "b06117f0f7fc5197",
+        "titulo": "Limites na educação infantil devem ser definidos pelas famílias",
+        "resumo": "O estudo destaca que adultos têm dificuldade em dizer não, o que pode levar a birras e comportamentos agressivos nas crianças. A pesquisa sugere que a definição de limites deve ocorrer em casa, não na escola. Quando os pais não estabelecem fronteiras claras, as crianças podem desenvolver padrões de comportamento desafiadores. A falta de limites adequados pode afetar o desenvolvimento emocional e social das crianças.",
+        "porQueImporta": "Definir limites familiares adequados é crucial para prevenir problemas comportamentais e promover o desenvolvimento saudável das crianças.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/radio-usp/a-importancia-de-estabelecer-limites-na-educacao-das-criancas-pelas-familias-e-nao-pela-escola/"
+          }
+        ],
+        "updatedAt": "2026-09-04T12:28:23.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2020/11/20201117_00_escola_crianca_tristeza.jpg"
       }
     ],
     "saude": [
@@ -1127,221 +1128,265 @@
           }
         ],
         "updatedAt": "2026-09-02T18:00:18.000Z"
-      },
-      {
-        "clusterId": "c2583da56c5217a6",
-        "slug": "d9241585ada7eeab",
-        "titulo": "Quase 80% das queimaduras domésticas afetam crianças menores de 5 anos",
-        "resumo": "Em 2024-2025, quase 14 mil hospitalizações por queimaduras no Brasil, mais da metade envolvendo crianças menores de cinco anos. A maioria dos casos ocorre dentro de casa, principalmente em ambientes domésticos. Especialistas alertam que os números podem ser ainda maiores quando considerados casos não hospitalizados. A Sociedade Brasileira de Pediatria destaca a necessidade de prevenção e cuidados vigilantes.",
-        "porQueImporta": "A alta taxa de queimaduras infantis domésticas exige atenção e medidas preventivas para proteger a saúde das crianças.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/bemestar/podcast/noticia/2026/09/02/bem-estar-366-queimaduras-dentro-de-casa-os-principais-perigos-e-como-prevenir.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-02T10:52:35.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/HHL05yzEHaC1di4rlruXwpDUQbg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/1/x/wJsKAlTgqj53gnrITItQ/captura-de-tela-2024-06-26-084704.png"
       }
     ],
     "esportes": [
       {
-        "clusterId": "f908f576e503e6d0",
-        "slug": "dcba2caf95e70bad",
-        "titulo": "26ª rodada da Série B reúne CRB, América-MG, Criciúma, Cuiabá, Athletic e Vila Nova",
-        "resumo": "Na sexta-feira (4), o CRB enfrenta o América-MG no Estádio Rei Pelé, em Maceió, às 21h30 (horário de Brasília). O Criciúma encara o Cuiabá no Estádio Heriberto Hülse, em Criciúma, às 19h30. O Athletic bate o Vila Nova na Arena Sicredi, em São João del-Rei, às 20h30. Todas as partidas fazem parte da 26ª rodada do Campeonato Brasileiro Série B.",
-        "porQueImporta": "Esses confrontos determinam posições importantes na tabela e podem influenciar a classificação final da competição.",
+        "clusterId": "c1ac8e3cdd0d0b0c",
+        "slug": "4f0f6b5e20ef848b",
+        "titulo": "Volta Redonda contrata atacante e detém suspeitos de tráfico",
+        "resumo": "O clube Volta Redonda anunciou a contratação do centroavante Guilherme Oliveira, de 20 anos, que vinha do EC Tupy na Segundona do Capixaba, para reforçar o elenco sub-20. Ao mesmo tempo, a Polícia Militar deteve dois jovens de 19 anos com munições e materiais de tráfico em um apartamento no bairro São Sebastião, após fuga de tentativa de abordagem em Barra do Piraí.",
+        "porQueImporta": "A contratação fortalece o time juvenil do clube, enquanto a prisão demonstra a atuação policial contra o tráfico na região.",
         "category": "esportes",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/crb-x-america-mg-horario-e-onde-assistir-ao-jogo-da-serie-b-2/"
+            "name": "GE",
+            "url": "https://ge.globo.com/rj/sul-do-rio-costa-verde/futebol/times/volta-redonda/noticia/2026/09/04/volta-redonda-acerta-com-centroavante-destaque-da-segundona-do-capixaba.ghtml"
           },
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/mg/zona-da-mata-centro-oeste/futebol/brasileirao-serie-b/noticia/2026/09/04/athletic-x-vila-nova-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+            "name": "G1",
+            "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/04/dois-jovens-sao-presos-por-trafico-apos-invadirem-apartamento-em-volta-redonda.ghtml"
           }
         ],
-        "updatedAt": "2026-09-04T07:45:08.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/XcyMJ0BQ78zXADf92NT3fweNLwk=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/L/p/VH7hCzRaGvYmBVTCR5hQ/whatsapp-image-2025-06-25-at-08.09.58.jpeg"
+        "updatedAt": "2026-09-04T15:29:37.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/ydSq9THScb1YqIAtu7y5apzRQzo=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/8/P/focQJuSTmXatRjItt0VA/whatsapp-image-2026-09-04-at-12.26.34.jpeg"
       },
       {
-        "clusterId": "315b0e15a31fc89f",
-        "slug": "183b2170499ea03c",
-        "titulo": "Palmeiras enfrenta Vasco no Sub-20 e Bahia no feminino na noite de sexta",
-        "resumo": "Na noite desta sexta-feira, Palmeiras e Vasco disputarão a final do Campeonato Brasileiro Sub-20, com o jogo de volta marcado para as 19h (de Brasília) no Nubank Parque, em São Paulo, e transmissão pelo Sportv e UOL. O Palmeiras tem vantagem, pois venceu a partida de ida por 1 a 0. Paralelamente, Palmeiras e Bahia se enfrentarão na quarta fase do Campeonato Brasileiro Feminino, às 21h30 (de Brasília) na Arena Barueri, em São Paulo, com transmissão ao vivo pelo Sportv. O resultado determinará quem avança para a semifinal, sendo que empate levará a pênaltis.",
-        "porQueImporta": "Esses confrontos decidem títulos nacionais e a continuidade das equipes nas fases finais dos respectivos campeonatos.",
+        "clusterId": "44c51ed1df435a16",
+        "slug": "bd81cbc3f98409b8",
+        "titulo": "George Russell lidera segundo treino livre do GP da Itália",
+        "resumo": "No segundo treino livre de Monza, George Russell da Mercedes registrou a melhor volta com 1m22s559, ultrapassando Charles Leclerc e Kimi Antonelli. Leclerc liderou o primeiro treino, seguido por Lewis Hamilton e Russell. Gabriel Bortoleto teve boa performance, mas ficou em 15º no segundo treino. A sessão reforça a vantagem da Mercedes na preparação para a corrida.",
+        "porQueImporta": "Indica a posição dominante da Mercedes na fase de treinos, influenciando expectativas para o GP.",
         "category": "esportes",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras-x-vasco-horario-e-onde-assistir-a-final-do-brasileirao-sub-20/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/f1-george-russell-lidera-tl2-no-gp-da-italia-bortoleto-termina-em-21o"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/ba/futebol/futebol-feminino/brasileiro-feminino/noticia/2026/09/04/palmeiras-x-bahia-pelo-brasileirao-feminino-onde-assistir-ao-vivo-e-horario.ghtml"
+            "url": "https://ge.globo.com/motor/formula-1/ao-vivo/gp-da-italia-a-13-etapa-da-f1-em-2026.ghtml"
           }
         ],
-        "updatedAt": "2026-09-04T07:30:01.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/eoc1xsOC01cqPmbiiQXgJs3QLjk=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/J/d/rhBOaWR2yP4op5JpljVw/saveclip.app-774787570-18040059725819628-2559164423710164032-n.jpg"
+        "updatedAt": "2026-09-04T15:20:41.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/08/russell-f1-holanda.jpg"
       },
       {
-        "clusterId": "fd6d5a27625dc6a7",
-        "slug": "41dfc549e04c3761",
-        "titulo": "Betis enfrenta Real Madrid na 4ª rodada da LaLiga 2026/27",
-        "resumo": "O jogo entre Betis e Real Madrid está marcado para esta sexta-feira, 4 de outubro, às 16h (horário de Brasília), no estádio La Cartuja, em Sevilha. O Real Madrid chega com 100% de aproveitamento, tendo vencido os três primeiros jogos da temporada. O confronto será transmitido ao vivo pela GE e pode ser acompanhado em tempo real pelo site Ge. Ambas as equipes disputam a quarta rodada da LaLiga 2026/27.",
-        "porQueImporta": "É um duelo importante que pode influenciar a posição das equipes na tabela de classificação da LaLiga.",
+        "clusterId": "6c98b280e6497d08",
+        "slug": "25069b469c6dad4d",
+        "titulo": "Cruzeiro enfrenta pressão após eliminações na Libertadores e Copa do Brasil",
+        "resumo": "O técnico Artur Jorge permanece no cargo, mas a diretoria e o elenco do Cruzeiro exigem resultados melhores após as eliminação para Atlético-MG e Flamengo. Em reunião na Toca da Raposa, a diretoria pediu uma vaga direta na próxima Libertadores. O clube tem apenas o Campeonato Brasileiro pela frente.",
+        "porQueImporta": "O desempenho do time influencia a permanência do técnico e a possibilidade de retorno à Libertadores.",
         "category": "esportes",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/betis-x-real-madrid-horario-e-onde-assistir-ao-jogo-de-laliga-2026-27/"
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2026/09/04/vai-ficar-veja-termometro-de-artur-jorge-no-cruzeiro-apos-eliminacoes-na-libertadores-e-copa-do-brasil.ghtml"
           },
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/09/04/betis-x-real-madrid-em-laliga-onde-assistir-ao-vivo-e-horario.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/apos-eliminacoes-pedrinho-chama-reuniao-e-cobra-elenco-do-cruzeiro/"
           }
         ],
-        "updatedAt": "2026-09-04T07:00:41.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/EpVB31D88fAIDhtecDDDx92Hodg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/m/Z/QzYCZvQuAnt7sdlxSj9Q/2026-08-26t190835z-414623532-up1em8q1h69kn-rtrmadp-3-soccer-spain-rma-rso.jpg"
+        "updatedAt": "2026-09-04T14:49:39.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/Uxdk8-s9MlzQNh1wMLgq5rdleDQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/t/O/FJB7xeScCAYdgeY1X8qg/agif26082922353919.jpg"
       },
       {
-        "clusterId": "beedff2f22de4454",
-        "slug": "a7850cfb829e4bf5",
-        "titulo": "Paris Saint-Germain enfrenta Monaco na terceira rodada do Campeonato Francês",
-        "resumo": "O Paris Saint-Germain e o Monaco disputarão a partida na sexta-feira, 4, no Parc des Princes, em Paris. O jogo faz parte da terceira rodada da temporada 2026/27 do Campeonato Francês. As informações sobre horário, escalação e cobertura do evento estão disponíveis em sites de notícias esportivas.",
-        "porQueImporta": "O confronto envolve dois clubes de destaque na França e pode influenciar a classificação na liga.",
+        "clusterId": "f0ae965a6ccead9e",
+        "slug": "49a05f6383c0117e",
+        "titulo": "US Open enfrenta polêmica por influenciadores e australiano destaca desempenho",
+        "resumo": "Durante a primeira semana do US Open, jogadores criticaram a presença de influenciadores e convidados VIPs que causaram distrações nas arquibancadas, como sessões de fotos com flashes e movimentação excessiva. Em paralelo, o tenista australiano Dane Sweeny marcou um ponto decisivo contra Lorenzo Musetti na segunda rodada, eliminando o italiano.",
+        "porQueImporta": "O incidente reflete a tensão entre a atmosfera de entretenimento e a concentração exigida no esporte de alto nível, enquanto o desempenho de Sweeny demonstra a competitividade do torneio.",
         "category": "esportes",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/paris-saint-germain-x-monaco-horario-e-onde-assistir-ao-jogo-do-frances/"
+            "name": "GE",
+            "url": "https://ge.globo.com/tenis/noticia/2026/09/04/invasao-de-influenciadores-no-us-open-irrita-tenistas-e-gera-polemica-por-barulho-e-flashes-em-quadra.ghtml"
           },
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-frances/jogo/04-09-2026/parissaintgermain-monaco.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/tenis/australiano-faz-ponto-de-peixinho-e-elimina-rival-no-us-open-veja/"
           }
         ],
-        "updatedAt": "2026-09-04T07:00:07.000Z"
+        "updatedAt": "2026-09-04T14:47:46.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/zvwGVA2rkZWERphHQxvni5-sNHU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/C/S/YDNQpKRpqKuZldJJ7tGA/captura-de-tela-2026-09-04-120355.png"
       },
       {
-        "clusterId": "013ac487a5c6a5ac",
-        "slug": "6a3b5c8b0ca7910c",
-        "titulo": "Quatro clubes classificam-se para semifinais da Copa do Brasil 2026",
-        "resumo": "Grêmio, Atlético-MG, Palmeiras e Vasco avançaram para as semifinais após vencerem as quartas de final. A classificação garantiu a cada clube um prêmio de mais de R$ 9 milhões. Os jogos das semifinais ocorrerão nas semanas de 1º e 8 de novembro, com os mandos de campo definidos por sorteio da CBF.",
-        "porQueImporta": "Determina os potenciais vencedores e os valores financeiros envolvidos na competição.",
+        "clusterId": "d27d2a7b8214b08a",
+        "slug": "1057c4b6400a1ea5",
+        "titulo": "Carrick aprova janela de reforços do Manchester United apesar de menor investimento",
+        "resumo": "O técnico Ole Gunnar Solskjaer afirmou que o clube aproveitou bem os recursos disponíveis e está satisfeito com os novos jogadores. Ele destacou que a janela de transferências foi bem-sucedida mesmo com um orçamento mais modesto. O foco está em fortalecer a equipe para a temporada 2026/27. O clube continua a competir em alto nível nas principais competições.",
+        "porQueImporta": "A decisão indica que o Manchester United pode competir de forma eficaz mesmo com recursos financeiros limitados.",
         "category": "esportes",
         "sources": [
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/ba/futebol/copa-do-brasil/noticia/2026/09/04/copa-do-brasil-2026-veja-quanto-cada-clube-recebeu-de-premiacao-apos-as-quartas-de-final.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/manchester-united-carrick-aprova-janela-apesar-de-menor-investimento/"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/veja-como-esta-a-artilharia-da-copa-do-brasil-apos-as-quartas-de-final/"
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/jogo/13-09-2026/Manchesterunited-Manchestercity.ghtml"
           }
         ],
-        "updatedAt": "2026-09-04T07:00:00.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/YqSEalM5iSlHAZzucbKJTjYBXLs=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/D/L/MUidAqSiecBUK48buqFA/versaoo.png"
+        "updatedAt": "2026-09-04T14:03:52.000Z"
       },
       {
-        "clusterId": "4de66fd21c52a2e0",
-        "slug": "c94b1e752da8f122",
-        "titulo": "Kimi Antonelli lidera o mundial no GP da Itália 2026",
-        "resumo": "O Grande Prêmio da Itália, 13ª etapa da temporada 2026, começa na sexta-feira com o primeiro treino livre no Circuito de Monza. Kimi Antonelli, da Mercedes, é o primeiro italiano em 73 anos a liderar o mundial no circuito. As equipes usarão o treino para ajustar os carros ao traçado veloz. O evento será transmitido ao vivo em vários canais.",
-        "porQueImporta": "A liderança de Antonelli marca um retorno histórico de pilotos italianos ao topo da Fórmula 1.",
+        "clusterId": "7944c63bd5a76389",
+        "slug": "4d714e06ab8bec02",
+        "titulo": "STJD condena Santos a pagar multa de R$ 15 mil por cusparada de torcedores em Reinaldo",
+        "resumo": "O Superior Tribunal de Justiça Desportiva (STJD) condenou o Santos a pagar multa de R$ 15 mil após torcedores do clube cuspararem o lateral Reinaldo, do Mirassol, durante o empate no estádio Vila Belmiro. A decisão foi tomada após o STJD reformar a decisão da 4ª Comissão Disciplinar, que havia absolvido o clube. A penalidade baseou-se no artigo 213, inciso I, do Código Brasileiro de Justiça Desportiva.",
+        "porQueImporta": "A medida reforça a responsabilidade dos clubes em controlar o comportamento de seus torcedores.",
         "category": "esportes",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/formula-1-horario-e-onde-assistir-ao-grande-premio-da-italia-2026/"
-          },
-          {
             "name": "GE",
-            "url": "https://ge.globo.com/motor/formula-1/noticia/2026/09/04/treino-livre-1-do-gp-da-italia-da-f1-2026-horarios-e-onde-assistir.ghtml"
+            "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/09/04/stjd-condena-santos-a-pagar-multa-de-r-15-mil-por-cusparada-de-torcedores-em-reinaldo-do-mirassol.ghtml"
           }
         ],
-        "updatedAt": "2026-09-04T06:55:09.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/MGnzx9vfnC45rRsN3adE_nyusYI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/0/4/MCAzasTHyAoOX7tLoXtQ/gettyimages-2234008877.jpg"
+        "updatedAt": "2026-09-04T15:43:31.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/NZRJCIvjYUQPTdqE0MnQPX0w098=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/H/F/JQ0hBSRDm7b3gjBAjJnw/2.png"
       },
       {
-        "clusterId": "cf1b0e14418d2dbc",
-        "slug": "5983c3f5d4ddcd9e",
-        "titulo": "Presidente do Inter garante Paulo Pezzolano até domingo após eliminação",
-        "resumo": "O presidente Alessandro Barcellos afirmou que Paulo Pezzolano continuará no cargo até o fim do fim de semana, quando o Inter enfrenta o Santos. A decisão vem após a derrota por 3 a 1 para o Grêmio na Copa do Brasil, que eliminou o clube. Pezzolano descreveu a eliminação como o golpe mais duro do ano e expressou insatisfação com os resultados. O clube mantém a comissão técnica em espera até a próxima partida.",
-        "porQueImporta": "A continuidade de Pezzolano pode influenciar a estratégia do Inter nas competições restantes.",
+        "clusterId": "63e37a483044b007",
+        "slug": "45eca439fd962fa8",
+        "titulo": "STJD reduz suspensão de Cacá e mantém absolvição de Jean Lucas",
+        "resumo": "O Pleno do STJD reduziu a suspensão de Cacá, zagueiro do Vitória, para um jogo após ele ter tentado rasgar a camisa de Jean Lucas, meio-campista do Bahia, durante o Ba-Vi. A decisão mantém a absolvição de Jean Lucas. Cacá ficará fora da partida contra o Grêmio na 26ª rodada do Brasileirão.",
+        "porQueImporta": "A medida afeta a composição das equipes para a próxima rodada do campeonato.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/rs/futebol/times/internacional/noticia/2026/09/04/presidente-do-inter-garante-pezzolano-contra-o-santos-mas-muda-tom.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/internacional-futebol/presidente-do-inter-banca-pezzolano-e-faz-apelo-a-torcida-pela-camisa/"
+            "url": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/noticia/2026/09/04/pleno-do-stjd-reduz-pena-de-caca-do-vitoria-e-mantem-absolvicao-de-jean-lucas-do-bahia.ghtml"
           }
         ],
-        "updatedAt": "2026-09-04T04:28:36.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/cUiYJkkCkggb7inl1Ok_l5bYGhg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/K/C/IYjyiMTyqty5gWMiSRrA/whatsapp-image-2026-09-03-at-23.12.21.jpeg"
+        "updatedAt": "2026-09-04T15:38:26.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/pj6H08JuFbr4y0p5QHQOfExoGfc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/M/D/GCzn71T3a9vXP6EIQ9Lg/whatsapp-image-2026-09-04-at-09.37.17-1-.jpeg"
       },
       {
-        "clusterId": "d779fce5d3a27f60",
-        "slug": "fecba92e24768c78",
-        "titulo": "Grêmio vence Inter por 3 a 1 e avança para semifinal da Copa do Brasil",
-        "resumo": "O Grêmio derrotou o Internacional por 3 a 1 na Arena, com dois gols de Carlos Vinicius e um de Krovinović, garantindo vaga na semifinal. O técnico Luís Castro destacou a defesa e a escolha de Diego Caito na lateral direita, apesar de um problema no ombro. A partida contou com o maior público da história da Arena, 55.695 torcedores, e provocação musical após o fim do jogo.",
-        "porQueImporta": "A vitória consolida o Grêmio na fase decisiva da Copa do Brasil, enquanto o recorde de público reforça o apoio fervoroso dos torcedores.",
+        "clusterId": "47bd3eafd115949d",
+        "slug": "3fd109358d3e2ec6",
+        "titulo": "Churrasquinho do GE acompanha disputa entre Santos e Palmeiras pela última vaga na Copa do Brasil",
+        "resumo": "O evento Churrasquinho do GE, tradição em partidas importantes, foi realizado durante a partida entre Santos e Palmeiras que decidiu a última vaga na Copa do Brasil. O clima entre as torcidas foi mais contido, em contraste com o confronto anterior em que o Santos sofreu 3 a 0. O churrasco contou com produtos Aurora e reforçou a atmosfera festiva típica do estádio.",
+        "porQueImporta": "O evento reforça a tradição cultural do estádio e destaca a importância da partida para a classificação à Libertadores.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/rs/futebol/times/gremio/noticia/2026/09/04/analise-gremio-faz-do-inter-fregues-e-da-alivio-a-luis-castro-com-vaga-na-copa-do-brasil.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/luis-castro-revela-fator-decisivo-para-o-gremio-eliminar-o-inter/"
+            "url": "https://ge.globo.com/sp/campinas-e-regiao/especial-publicitario/aurora-alimentos-dicas-de-churrasco/noticia/2026/09/04/decisao-de-vaga-na-copa-do-brasil-fica-menos-tensa-com-churrasquinho-do-ge.ghtml"
           }
         ],
-        "updatedAt": "2026-09-04T04:20:43.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/td8Eb4HHqp4hYuWeXPRfjcsyQ-s=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/T/K/k1C80lQw2d4snZEey7yQ/agif26090323493544.jpg"
+        "updatedAt": "2026-09-04T15:38:06.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/c-6bdiG0n5wTN201uHjMaeh4wP4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/h/C/KuHE1HTLWxbZvBY1A1Xg/foto1-aurora.jpg"
       }
     ],
     "entretenimento": [
       {
-        "clusterId": "293471c4b0ffadcd",
-        "slug": "777d9e46ddf35c34",
-        "titulo": "Rock in Rio 2026 abre no Parque Olímpico com 190 shows e 1,3 mil artistas",
-        "resumo": "O festival acontece nos dias 4, 5, 6, 7, 11, 12 e 13 de setembro na Cidade do Rock, no Rio de Janeiro, com 190 apresentações em sete palcos e 91 horas de programação. A programação inclui artistas como Elton John, Gilberto Gil, Chitãozinho & Xororó, Péricles, Hot Milk e Capital Inicial, além de criadores de conteúdo como Ananda e Diogo Defante. Os restaurantes do evento cobram de R$12 a R$80, com opções que vão de batatas fritas a hambúrgueres e pokes. A prefeitura recomenda o uso do Expresso Rock in Rio e reduziu o expediente das repartições públicas para facilitar o fluxo.",
-        "porQueImporta": "O evento reúne grande público e artistas de diversos gêneros, exigindo planejamento logístico e opções de alimentação para milhares de visitantes.",
+        "clusterId": "bd39c9f085c3deb0",
+        "slug": "e3030db8f5b44c6e",
+        "titulo": "Rock in Rio 2026 abre nesta sexta com Foo Fighters e Rise Against",
+        "resumo": "O festival inicia no dia 4 de setembro com o palco Mundo, onde os Foo Fighters se apresentam às 0h05 e a banda Rise Against começa às 21h20. Os portões da Cidade do Rock abrem cedo, e os fãs organizam a fila escrevendo números nas mãos para evitar perdas de lugar. Crianças e adolescentes até 16 anos devem se cadastrar online para receber pulseiras de identificação. O evento contará com 190 shows, 1,3 mil artistas e 385 mil metros quadrados de área.",
+        "porQueImporta": "É o primeiro dia de um festival que reúne milhares de pessoas e artistas internacionais, exigindo organização e segurança para os participantes.",
         "category": "entretenimento",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/04/rock-in-rio-2026-veja-precos-de-restaurantes-e-lanchonetes-na-cidade-do-rock.ghtml"
+            "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/musica/rise-against-no-rock-in-rio-veja-provavel-setlist-para-o-show/"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/minhas-financas/vai-ao-rock-in-rio-veja-como-proteger-celular-e-dinheiro-durante-o-festival/"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/pop/rock-in-rio-2026-o-festival-ainda-tem-ingressos-disponiveis/"
+            "url": "https://exame.com/pop/foo-fighters-faz-7o-show-no-brasil-no-rock-in-rio-e-volta-ao-pais-em-2027/"
           }
         ],
-        "updatedAt": "2026-09-04T08:00:00.000Z",
+        "updatedAt": "2026-09-04T15:40:01.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/4FumOKj1yE6g7SDoSn7sjwYND5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/J/sdTM8fSzAgiALTo1XRJQ/rj1-limpo-20260901-1115-frame-179097.jpeg"
       },
       {
-        "clusterId": "bd501db7b68bc624",
-        "slug": "92546ed1e74f95a2",
-        "titulo": "Foo Fighters retornam ao Brasil pela sétima vez",
-        "resumo": "A banda norte‑americana Foo Fighters fará shows no Rock in Rio 2024, marcando sua sétima visita ao país. Em 2001, abriram para o R.E.M. no Rock in Rio, e em 2012 foram headliners no Lollapalooza, atraindo 75 mil fãs. O retorno reforça a relação da banda com o público brasileiro, que já viu a banda em eventos como a homenagem a Cássia Eller e a celebração de aniversários. O show será a primeira noite do festival, com a música ‘Everlong’ fechando a apresentação.",
-        "porQueImporta": "O retorno do Foo Fighters destaca a importância do festival como palco internacional e a continuidade da presença de grandes bandas no cenário musical brasileiro.",
+        "clusterId": "7dd2bf1a8f775a5d",
+        "slug": "43b0b64f65c93a12",
+        "titulo": "Disputa internacional por direitos autorais envolve sucesso 'Lovezinho'",
+        "resumo": "A música 'Lovezinho', gravada por Treyce, tornou-se viral em 2023 graças ao influenciador Xurrasco, que reproduziu a dancinha nas redes sociais. O hit alcançou destaque no TikTok, Instagram e nos blocos de Carnaval. A popularidade gerou uma disputa internacional sobre os direitos autorais da faixa. A controvérsia destaca a complexidade de proteger propriedade intelectual em plataformas digitais.",
+        "porQueImporta": "Ilustra como conteúdos virais podem gerar conflitos legais globais.",
         "category": "entretenimento",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/04/integrantes-do-rise-against-banda-que-toca-no-rock-in-rio-nao-bebem-nem-usam-drogas-entenda.ghtml"
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/09/04/20-hits-em-20-anos-dancinha-levou-lovezinho-ao-topo-e-sucesso-causou-disputa-por-direitos-autorais.ghtml"
           }
         ],
-        "updatedAt": "2026-09-04T03:02:22.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/UNSolrsBkTsmxLJ2tbjhqsack3Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Y/I/CMTgBpSeuqm6QLMpp1yA/rise-against-lollapalooza-2023.jpg"
+        "updatedAt": "2026-09-04T13:04:08.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/ocamTQKIR2ECQYgSB3dQLzgZJ1Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/D/Nwwj6sQB6rZFzYBObctQ/fotos-g1-1920-x-1080-px-2026-09-03t230642.571.png"
+      },
+      {
+        "clusterId": "92e4868c6fef567e",
+        "slug": "66ef23363e29d0d1",
+        "titulo": "Chitãozinho & Xororó lançam EP Meninos da roça vol. 2 com Almir Sater e outros artistas",
+        "resumo": "O duo sertanejo Chitãozinho & Xororó lançou o segundo volume do álbum audiovisual Meninos da roça, gravado ao vivo em Jaguariúna, SP, contendo 19 faixas. O EP conta com participações de Almir Sater, Matogrosso & Mathias, Rionegro & Solimões, entre outros artistas. O lançamento ocorreu em 4 de setembro de 2024, como parte de um projeto de três volumes. A dupla já foi anunciada como embaixadora da Festa do Peão de Barretos 2027 e futura atração do Rock in Rio.",
+        "porQueImporta": "Reforça a presença de artistas consagrados no cenário sertanejo e amplia o alcance de um projeto audiovisual de grande visibilidade.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/09/04/chitaozinho-and-xororo-se-unem-a-almir-sater-matogrosso-and-mathias-e-rionegro-and-solimoes-no-ep-meninos-da-roca-2.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-04T13:01:44.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/6BBDWVI2fJnnOV4NhSXNdRtX4TM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/r/M0xmRpRGmCA5AvYFuHEw/chitaozinho-xororo-almir-meninos-de-roca2.jpg"
+      },
+      {
+        "clusterId": "9678bd7d90af7cdc",
+        "slug": "bcea1bcc25dbb663",
+        "titulo": "Palco Mundo receberá telão de 2,4 mil metros quadrados no Rock in Rio 2026",
+        "resumo": "O novo Palco Mundo do Rock in Rio 2026 contará com um telão de LED de aproximadamente 2,4 mil metros quadrados, segundo a vice‑presidente da Rock World, Roberta Medina. A estrutura permitirá que cada artista transforme visualmente o espaço durante suas apresentações. A mudança faz parte de uma série de inovações tecnológicas que a empresa pretende trazer para o festival.",
+        "porQueImporta": "A ampliação visual do palco aumenta a experiência dos espectadores e destaca o investimento em tecnologia no evento.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/04/palco-mundo-telao-roberta-medina.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-04T12:13:22.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/jSYNcBRtbdBZyth2lwZ6aqC3JuE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/J/EZTRoiTXSIEjLW1mM6aA/bdrj-rir2.jpeg"
+      },
+      {
+        "clusterId": "8674c8ca51fedecf",
+        "slug": "d6e5900c67fa0e1c",
+        "titulo": "Ed Motta anuncia álbum autoral 'Toc-toc' com 11 faixas",
+        "resumo": "O cantor Ed Motta vai lançar em 25 de setembro o álbum ‘Toc-toc’, seu primeiro disco em português em 13 anos, contendo 11 músicas totalmente autorais. Três faixas já foram divulgadas como singles: ‘Eu quero ser feliz’, ‘Toc-toc’ e outra ainda não citada. O álbum será disponibilizado em CD e LP na Europa e no Japão, enquanto a edição em vinil chegará ao Brasil em data futura.",
+        "porQueImporta": "Representa retorno de Motta ao mercado brasileiro com obra inédita em português.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/09/04/ed-motta-alinha-11-musicas-em-toc-toc-veja-a-tracklist-e-a-capa-do-album-autoral-agendado-para-25-de-setembro.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-04T11:46:44.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/v2dvdDP46n2fjRFqUnnzRCDQuLo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/c/DAySCWTYaLfXvpgegEFQ/edmottatoctocapaalbumtoctoc.jpg"
+      },
+      {
+        "clusterId": "beccce237dbe7477",
+        "slug": "f639beadc429e88d",
+        "titulo": "Cristovão Bastos comemora 80 anos com shows, álbum e workshops",
+        "resumo": "O pianista, compositor e arranjador carioca Cristovão Bastos, nascido em 1946, celebra seu 80º aniversário em 3 de dezembro. Para marcar a data, ele realizará shows, lançará um álbum e conduzirá workshops. A programação destaca a trajetória musical de Bastos, que inclui composições como o bolero “Resposta ao tempo”. A celebração reforça sua influência na música popular brasileira.",
+        "porQueImporta": "O evento destaca a contribuição de Bastos para a MPB e mantém viva a memória de artistas centenários.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/09/04/cristovao-bastos-inicia-a-festa-dos-80-anos-com-shows-album-e-workshops.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-04T03:00:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/hsUliV-thOt-sse4HL2kojrzS1Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/K/WOBAxYStCEOnUZ4Bl9eA/cristovaomarcelocastellobranco.jpg"
       },
       {
         "clusterId": "45f968ba5edce724",
@@ -1374,70 +1419,6 @@
         ],
         "updatedAt": "2026-09-03T07:02:13.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/mSlCAw9nOvAbp52GRQFiy0WWDvc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/n/3GPfWbRaKAZcgYjaZbTg/show-amnd-credito-moodgate-4-1-.jpg"
-      },
-      {
-        "clusterId": "dd3c42c399acd45e",
-        "slug": "111fdd5b47c1fa05",
-        "titulo": "Desabamento de muro da casa de Simone Mendes causa danos em residência de músico em Barueri",
-        "resumo": "Em novembro de 2024, um muro em obra na residência de Simone Mendes desabou, gerando lama e escombros que atingiram a casa do guitarrista Leo Martinussi, integrante da banda Tihuana. A ação judicial exige a reconstrução do muro e a reparação dos danos, além de impedir a continuidade da obra devido à falta de sistema de drenagem. A cantora não compareceu à audiência de conciliação marcada pela Justiça.",
-        "porQueImporta": "O caso destaca a responsabilidade civil em obras de construção em condomínios de luxo e a necessidade de cumprimento de decisões judiciais.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/sertanejo/noticia/2026/09/03/piano-de-r-400-mil-lago-de-carpas-e-mais-o-que-foi-danificado-por-queda-de-muro-que-gerou-processo-contra-simone-mendes.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-03T07:00:40.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/BSKZsPQWYzc0SOVichk1Km0Maz0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/A/BykCNmQySQsc6iCPEmzg/montagem-horizontal-1200px-5-.jpg"
-      },
-      {
-        "clusterId": "5242c11d1f45c89d",
-        "slug": "cae335338df33443",
-        "titulo": "Gracindo Jr. morre aos 83 anos",
-        "resumo": "O ator e diretor Gracindo Jr. faleceu na noite de terça-feira, 1º, em casa no Rio de Janeiro, por causas naturais. Ele tinha 83 anos e dedicou mais de 50 anos à arte no teatro, rádio, televisão e cinema, participando da inauguração da TV Globo em 1965. O velório, aberto ao público, foi realizado no Crematório e Cemitério da Penitência, no Caju, reunindo amigos, familiares e fãs.",
-        "porQueImporta": "A perda de Gracindo Jr. representa a morte de um importante artista que contribuiu para a história da televisão e do cinema brasileiros.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/09/03/velorio-gracindo-jr.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-03T03:02:01.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/svXYJAcV8I8cw9gSAKiazx3oZqk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/8/8NTyvHRHC4YCTBLA0lwQ/img-7584.jpg"
-      },
-      {
-        "clusterId": "0cd6ce5223436702",
-        "slug": "f42ad9684967d77a",
-        "titulo": "Kiko Dinucci lança álbum 'Medusa' com capa de obra inédita de Tatiana Blass",
-        "resumo": "O terceiro álbum solo de Kiko Dinucci, intitulado 'Medusa', será lançado em 9 de setembro pelo selo Risco. A capa apresenta uma obra inédita da artista plástica Tatiana Blass, inspirada na faixa ‘Faca da Palavra’. A artista destaca que a obra reflete relações interpessoais com estranheza, algo que Kiko reconheceu em suas pinturas recentes.",
-        "porQueImporta": "O lançamento combina música e arte visual, ampliando a expressão criativa do artista.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/09/03/kiko-dinucci-expoe-obra-inedita-da-artista-plastica-tatiana-blass-na-capa-do-terceiro-album-solo-medusa.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-03T03:01:49.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/3EDO62b8TIeGytpfNjcGxpL_lUA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/s/5G2P2VRPa0VWpZlDDOsw/kiko-horizontal1-por-aline-belfort.jpg"
-      },
-      {
-        "clusterId": "6f9f9b8081ee58b4",
-        "slug": "f69f7764bd103076",
-        "titulo": "Lionel Richie recebe alta de hospital após passar mal em show",
-        "resumo": "O cantor de 77 anos foi internado na UTI de St. Louis depois de se sentir mal durante um show. Ele passou por exames e foi tratado por suspeita de desidratação. A alta foi concedida na quarta-feira, e ele retornou à sua residência em Los Angeles, onde está bem.",
-        "porQueImporta": "A recuperação de um artista de renome mundial demonstra a importância de cuidados médicos imediatos em eventos ao vivo.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/09/02/lionel-richie-recebe-alta-de-hospital-apos-passar-mal-em-show-e-ficar-internado-em-uti.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-02T21:23:25.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/jb-CpSAS96ah8aKae6tnNckurgA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/v/0/2GTzFOT8uDvqrLj0P1BA/lionel-richie-dsc01235-fabio-tito.jpg"
       }
     ]
   }
