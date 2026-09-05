@@ -1,46 +1,90 @@
 {
   "date": "2026-09-05",
-  "generatedAt": "2026-09-05T03:19:54.027Z",
+  "generatedAt": "2026-09-05T08:07:47.713Z",
   "home": [
     {
-      "clusterId": "1d5bb95ffc30bffb",
-      "slug": "1158ed01657c05ba",
-      "titulo": "Foo Fighters abre Rock in Rio 2026 com show no Palco Mundo",
-      "resumo": "O festival começou nesta sexta-feira (4) com o Foo Fighters como headliner, subindo ao Palco Mundo às 0h05 de sábado. Antes dele, o Rise Against tocou no Palco Mundo a partir das 21h20, apresentando um set de punk hardcore. Outros artistas, como Detonautas, Biquini Cavadão, The Hives e Hot Milk, também se apresentaram em palcos secundários, enquanto Diogo Defante e Nova Twins abriram o evento em palcos menores.",
-      "porQueImporta": "O início do festival contou com grandes nomes internacionais e nacionais, definindo o tom e a expectativa para os dias seguintes.",
-      "category": "entretenimento",
+      "clusterId": "b0f9d4d74f3d5a15",
+      "slug": "3955bbc7f5c150f4",
+      "titulo": "NVIDIA compra Hugging Face por US$ 12,93 bilhões",
+      "resumo": "A NVIDIA anunciou a aquisição da plataforma de inteligência artificial Hugging Face por US$ 12,93 bilhões, equivalente a cerca de R$ 66 bilhões. A Hugging Face conta com mais de 3 milhões de modelos, 500 mil conjuntos de dados e 1 milhão de aplicações, e é usada por mais de 18 milhões de desenvolvedores, pesquisadores e criadores. Aproximadamente 200 mil empresas também utilizam a plataforma para descobrir, avaliar e implementar sistemas de IA.",
+      "porQueImporta": "A compra fortalece a posição da NVIDIA no ecossistema de IA, ampliando seu acesso a recursos de desenvolvimento e adoção corporativa.",
+      "category": "tecnologia",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml"
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/business/global/por-que-o-ataque-a-hugging-face-deve-aumentar-sua-preocupacao-com-a-ia/"
         },
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/cultura/a-confusao-que-quase-fez-show-do-rise-against-no-rock-in-rio-ser-cancelado/"
+          "name": "Canaltech",
+          "url": "https://canaltech.com.br/mercado/nvidia-da-r-66-bilhoes-a-hugging-face-e-vira-dona-do-maior-polo-de-ia-do-mundo/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/09/03/nvidia-vai-comprar-plataforma-de-inteligencia-artificial-hugging-face-por-cerca-de-r-66-bilhoes.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-05T08:00:00.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/09/ROOSE-COLUMN.jpg?fit=231%2C300&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "7264a08aebd0030b",
+      "slug": "e992fa8ca53e0726",
+      "titulo": "Tufão Saudel causa inundações e desabamento de prédio em Fujian",
+      "resumo": "O tufão Saudel atingiu a província de Fujian, provocando chuvas torrenciais e inundações que levaram à evacuação de mais de 80 mil moradores, fechamento de escolas e suspensão do transporte público. Em Zhejiang, mais de 2,500 estudantes e professores ficaram presos. Um prédio de três andares desabou e foi arrastado pela água, mas não há informações sobre vítimas.",
+      "porQueImporta": "O evento destaca a vulnerabilidade de áreas costeiras chinesas a fenômenos climáticos extremos.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/deslizamento-apos-tufao-deixa-um-morto-e-11-desaparecidos-na-china"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/pop/musica/veja-os-famosos-que-marcaram-presenca-no-1o-dia-do-rock-in-rio-2026/"
+          "url": "https://www.cnnbrasil.com.br/internacional/deslizamento-deixa-ao-menos-1-morto-e-11-desaparecidos-apos-chuvas-na-china/"
         },
         {
-          "name": "Exame",
-          "url": "https://exame.com/pop/rock-in-rio-relembre-5-shows-que-deram-errado-no-festival/"
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/09/05/deslizamento-jiangxi-china.ghtml"
         }
       ],
-      "updatedAt": "2026-09-05T03:08:05.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/4FumOKj1yE6g7SDoSn7sjwYND5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/J/sdTM8fSzAgiALTo1XRJQ/rj1-limpo-20260901-1115-frame-179097.jpeg"
+      "updatedAt": "2026-09-05T07:00:33.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/09/gettyimages-2292405069.jpg"
     },
     {
-      "clusterId": "835d02e890c4373d",
-      "slug": "59c0fc3419deed4f",
-      "titulo": "ONU aprova uso de projeção cartográfica Equal Earth para mapas mundiais",
-      "resumo": "A Assembleia Geral da ONU aprovou, por 164 votos a favor, uma resolução que incentiva a adoção da projeção Equal Earth, que reduz distorções de tamanho dos continentes. A proposta, chamada \"Corrija o mapa\", foi proposta por países africanos e tem apoio da União Africana. Os Estados Unidos foram o único país a votar contra a resolução. O objetivo é representar melhor as diferenças de área entre os países.",
-      "porQueImporta": "A mudança visa melhorar a precisão visual dos mapas, influenciando educação, mídia e percepção pública sobre a geografia mundial.",
+      "clusterId": "57ef365f693799bb",
+      "slug": "9dde09ac327cd598",
+      "titulo": "Embaixada dos EUA emite alerta de saúde para Cuba",
+      "resumo": "A embaixada dos Estados Unidos em Havana alertou viajantes e moradores sobre um aumento de doenças intestinais e casos de diarreia na ilha, atribuindo o surto a problemas no abastecimento de água e energia elétrica. Os apagões frequentes têm dificultado o armazenamento adequado de alimentos e o controle de temperatura. O alerta foi emitido em meio ao bloqueio e sanções econômicas que afetam a infraestrutura cubana.",
+      "porQueImporta": "O alerta indica riscos à saúde pública que podem afetar a população e os visitantes em Cuba.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/eua-alertam-para-aumento-de-doencas-em-cuba-em-meio-a-bloqueio-e-sancoes/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/embaixada-dos-eua-alerta-para-surto-de-diarreia-em-cuba-devido-aos-apagoes"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/09/05/embaixada-dos-eua-emite-alerta-de-saude-para-cuba.ghtml"
+        }
+      ],
+      "updatedAt": "2026-09-05T05:31:37.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/cuba-crise.jpeg"
+    },
+    {
+      "clusterId": "ea12d2166bc5e156",
+      "slug": "b2c60ec6d01699c5",
+      "titulo": "ONU aprova mudança na representação do mapa-múndi para reduzir distorções",
+      "resumo": "A Assembleia Geral da ONU aprovou, por 164 votos a favor, uma resolução que incentiva a adoção de uma projeção cartográfica que representa melhor as dimensões reais dos continentes, reduzindo as distorções da projeção de Mercator. O projeto, chamado \"Corrija o mapa\", tem apoio da União Africana e foi liderado pelo Togo. Os Estados Unidos foram o único país a votar contra a proposta, enquanto seis países se abstiveram.",
+      "porQueImporta": "A mudança visa melhorar a precisão geográfica em mapas usados em educação, mídia e planejamento internacional.",
       "category": "mundo",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/educacao/noticia/2026/09/05/o-que-muda-no-mapa-mundi-apos-onu-aprovar-alteracao-de-distorcoes-nas-dimensoes-dos-continentes.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/09/05/projeto-ideologico-radical-por-que-os-eua-foram-o-unico-pais-a-votar-contra-mudanca-do-mapa-mundi-para-corrigir-distorcoes-na-onu.ghtml"
         },
         {
           "name": "BBC Brasil",
@@ -49,62 +93,34 @@
         {
           "name": "Olhar Digital",
           "url": "https://olhardigital.com.br/2026/09/04/pro/onu-aprova-mudanca-na-representacao-do-mapa-mundi-para-reduzir-distorcoes/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/a-groenlandia-nao-tem-o-tamanho-que-voce-pensa-veja-o-novo-mapa-mundi-da-onu/"
         }
       ],
-      "updatedAt": "2026-09-05T03:00:00.000Z",
+      "updatedAt": "2026-09-05T04:00:00.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/ABu2rDuzz3z9_uPHXN5OzYtdE_s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/n/iNtfbfQq20kAmBeu7o2g/equal-earth-map-0-pt-redimensionado-para-2000x1064.jpeg"
     },
     {
-      "clusterId": "ec1bd6e693073806",
-      "slug": "ccc84ba3504e86ab",
-      "titulo": "Vasco conquista título do Brasileirão Sub-20 pela primeira vez",
-      "resumo": "O Vasco venceu o Palmeiras por 2 a 0 no segundo jogo da final, após perder a ida por 1 a 0, e garantiu o título do Brasileirão Sub-20. Andrey marcou os dois gols e o goleiro Phillipe Gabriel fez defesas decisivas. O triunfo impede o Palmeiras de conquistar três títulos consecutivos. O clube equilibra a lista de campeões com um título, igualando outros clubes históricos.",
-      "porQueImporta": "O título marca a primeira conquista do clube no campeonato, consolidando sua presença no cenário juvenil do futebol brasileiro.",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/sp/campinas-e-regiao/futebol/brasileirao-sub-20/jogo/04-09-2026/palmeiras-vasco.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/vasco-e-campeao-do-brasileirao-sub-20-apos-superar-o-palmeiras-por-2-x-0"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/andrey-brilha-vasco-vence-palmeiras-e-conquista-o-brasileirao-sub-20/"
-        }
-      ],
-      "updatedAt": "2026-09-05T03:11:09.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/09/andrey-fernandes-palmeiras-x-vasco-brasileirao-sub-20.jpg"
-    },
-    {
-      "clusterId": "3b008257d4d6111b",
-      "slug": "26a35489178ae8a9",
-      "titulo": "Lula e Flávio Bolsonaro empatados em pesquisas de 2º turno",
-      "resumo": "Pesquisas da Quaest e da Datafolha apontam que Lula (PT) tem entre 42% e 48% das intenções de voto, enquanto Flávio Bolsonaro (PL) tem entre 41% e 46%, resultando em empate técnico dentro da margem de erro de 2 pontos. Em grupos específicos, como homens e eleitores de 35 a 59 anos, a diferença é mínima. A margem de erro faz com que ambos os candidatos estejam em posição igualitária para o 2º turno da eleição presidencial.",
-      "porQueImporta": "O empate indica que o resultado final dependerá de mobilização e de fatores externos que possam alterar a intenção de voto antes da eleição.",
-      "category": "politica",
+      "clusterId": "b89651f21e505588",
+      "slug": "34d4ffa28916eb3d",
+      "titulo": "Rock in Rio 2026: segundo dia apresenta vertentes do metal",
+      "resumo": "No segundo dia do festival, o Palco Mundo recebe Avenged Sevenfold, que volta ao palco após a estreia em 2024, e Bring Me The Horizon, que apresenta show cinematográfico com pirotecnia. Sepultura também está no programa, reforçando a presença do metal. O dia conta com outras bandas como Bad Omens, Machine Gun Kelly e Rise Against, completando um card forte para os fãs do gênero.",
+      "porQueImporta": "O foco no metal destaca a diversidade musical do Rock in Rio e atrai um público específico para o evento.",
+      "category": "entretenimento",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/05/quaest-veja-os-grupos-em-que-a-disputa-entre-lula-e-flavio-bolsonaro-esta-mais-apertada.ghtml"
+          "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/05/rock-in-rio-2o-dia-tem-vertentes-do-metal-com-avenged-sevenfold-bring-me-the-horizon-e-sepultura.ghtml"
         },
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/lula-dispara-contra-flavio-bolsonaro-usa-fake-news-para-enganar-o-brasil"
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/cultura/a-confusao-que-quase-fez-show-do-rise-against-no-rock-in-rio-ser-cancelado/"
         },
         {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss"
+          "name": "Exame",
+          "url": "https://exame.com/pop/rock-in-rio-relembre-5-shows-que-deram-errado-no-festival/"
         }
       ],
-      "updatedAt": "2026-09-05T03:00:01.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/2Ulq9d0pUghW9f_2vEIXOJ68Q6U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/9/hXLfAXSiq8lJgtPUn5Ag/lula-e-flavio.jpg"
+      "updatedAt": "2026-09-05T03:01:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/WN5sC8I7K1Skw1B-QyWWSJUXKlQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/y/vtDkI3Rb6Z3NaNz1WBwg/metal.jpg"
     },
     {
       "clusterId": "f2d861738a4b0d72",
@@ -131,30 +147,6 @@
       "imageUrl": "https://s2-g1.glbimg.com/3V-IcyOP5x0kTM5EwJK58mD6QN4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/T/nN7zFAS8WY6zscHa2BnQ/jh-jorn9-zema-imadeira-040926-20260904-0844-frame-201459.jpeg"
     },
     {
-      "clusterId": "88e260c60b808354",
-      "slug": "90eb9296fb92d480",
-      "titulo": "Explosão em base militar na Bolívia deixa mortos e feridos",
-      "resumo": "Uma explosão ocorreu em uma base militar em Viacha, a cerca de 30 km de La Paz, resultando em pelo menos 10 mortes e mais de 60 feridos, incluindo civis. A explosão também causou danos a casas próximas e provocou um incêndio que foi controlado. Sete pessoas foram reportadas como desaparecidas. A diretora de saúde local, Rita Nebraska, confirmou os números de vítimas.",
-      "porQueImporta": "O incidente destaca a vulnerabilidade de instalações militares e a necessidade de investigação sobre sua causa.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/explosao-em-base-militar-na-bolivia-deixa-mortos-e-feridos"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/explosao-em-base-militar-na-bolivia-deixa-mortos-diz-autoridade/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/09/04/video-quartel-militar-explode-na-bolivia-e-deixa-feridos.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-05T02:42:27.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/09/797672424-1747947569868028-8176816843092232333-n.jpg"
-    },
-    {
       "clusterId": "2d4196b52e25196c",
       "slug": "cc82136284d0434c",
       "titulo": "Deputado Nikolas Ferreira pede ajuda a banqueiro Vorcaro para liberar ativo minerário",
@@ -179,104 +171,68 @@
       "imageUrl": "https://s2-g1.glbimg.com/0ynDgQZaCkX31JFSFpauleHdW8M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/y/kBs72cQk6Y0Vaku1TiBw/img20230307163741984.jpg"
     },
     {
-      "clusterId": "06cf0f9281b02969",
-      "slug": "9264ff00f6e6fece",
-      "titulo": "PGR abre apuração sobre possível interferência em relatório da PF que liga Moraes a Vorcaro",
-      "resumo": "A Procuradoria-Geral da República informou ao ministro Edson Fachin que iniciou procedimento de controle externo para investigar a suposta interferência na produção do relatório da Polícia Federal. O documento, que aponta relação entre o ministro Alexandre de Moraes e o banqueiro Daniel Vorcaro, foi solicitado pelo ministro André Mendonça. A investigação visa esclarecer se a PF foi influenciada na elaboração do relatório.",
-      "porQueImporta": "A apuração pode afetar a credibilidade das instituições judiciais e policiais envolvidas.",
-      "category": "geral",
+      "clusterId": "3904b6617450bf42",
+      "slug": "24a40dfcb0e8fd62",
+      "titulo": "EUA e Venezuela anunciam acordo petrolífero de grande escala",
+      "resumo": "O presidente dos Estados Unidos, Donald Trump, descreveu o acordo como o maior da história, envolvendo a compra de petróleo venezuelano. O tratado prevê a transferência de tecnologia e investimento em refino, além de garantir preços fixos para o petróleo. A Venezuela, que enfrenta sanções internacionais, busca revitalizar sua indústria petrolífera. O acordo tem implicações geopolíticas e econômicas para a região.",
+      "porQueImporta": "O pacto pode alterar o equilíbrio energético e político na América Latina, influenciando mercados globais e relações internacionais.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/economia/noticia/2026/09/05/eua-fecham-acordo-pelo-petroleo-da-venezuela-o-que-trump-ganha-com-o-negocio.ghtml"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cp932r2k9kpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "updatedAt": "2026-09-05T08:00:00.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/IbSVj3F3xqVANhugnkHUS0eUGyU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/M/eTvVnHQb2EldWhMvGjUA/2026-01-06t171602z-854943521-rc2sviaaga9d-rtrmadp-3-global-oil.jpg"
+    },
+    {
+      "clusterId": "becba2fb53d30098",
+      "slug": "0831f7456a042deb",
+      "titulo": "Coordenador da campanha de Flávio Bolsonaro se reúne com ministro Gilmar Mendes no STF",
+      "resumo": "O senador Rogério Marinho, coordenador da campanha de Flávio Bolsonaro, encontrou-se com o ministro Gilmar Mendes no gabinete do Supremo Tribunal Federal em Brasília. A reunião foi confirmada pelas assessorias dos dois envolvidos e ocorreu na quarta-feira, 2 de setembro. O encontro foi interpretado como um gesto da campanha em relação ao STF. Marinho e outros membros do PL têm defendido publicamente o impeachment de ministros da Corte.",
+      "porQueImporta": "O encontro demonstra a aproximação de políticos do PL com o poder judiciário, influenciando discussões sobre a legitimidade e atuação dos ministros.",
+      "category": "politica",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/pgr-apura-possivel-interferencia-em-relatorio-da-pf-sobre-moraes-e-vorcaro"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/pgr-vai-investigar-possivel-interferencia-em-relatorio-da-pf-sobre-moraes/"
+          "url": "https://www.metropoles.com/colunas/igor-gadelha/marinho-se-reune-com-gilmar-e-diz-que-flavio-quer-ter-interlocucao-com-stf"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/09/04/pgr-informa-fachin-que-vai-apurar-conduta-da-pf-na-producao-do-relatorio-que-apontou-uma-relacao-entre-moraes-e-vorcaro.ghtml"
+          "url": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/09/04/em-gesto-ao-stf-coordenador-da-campanha-de-flavio-se-reune-com-gilmar-mendes.ghtml"
         }
       ],
-      "updatedAt": "2026-09-05T01:03:56.000Z",
-      "imageUrl": "https://images.metroimg.com/2025/11/06162434/PGR-Paulo-Gonet-durante-a-sessao-do-Supremo-Tribunal-Federal-STF-Metropoles-15.jpg"
+      "updatedAt": "2026-09-05T08:00:00.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/06/decano-do-stf-gilmar-mendes-lanca-seu-livro-estado-de-direito-e-jurisdicao-constitucional-em-evento-no-tribunal-metropoles-7-scaled.jpg"
     },
     {
-      "clusterId": "b4e69e62ceb048e3",
-      "slug": "54e427f6cc9217c5",
-      "titulo": "Resultado da Quina 7110 divulgado",
-      "resumo": "O concurso 7110 da Quina foi sorteado na sexta-feira, 4 de setembro, em São Paulo. Os cinco números premiados foram divulgados pela Caixa Econômica Federal. O prêmio total era de R$ 15.169.733,85. A Caixa também realizou os sorteios de Lotomania, Dupla Sena, Dia de Sorte e Super Sete.",
-      "porQueImporta": "O resultado informa quem pode reivindicar o prêmio e atualiza o público sobre a loteria nacional.",
-      "category": "geral",
+      "clusterId": "e8d412bc229918c8",
+      "slug": "52eb22bfd51751f7",
+      "titulo": "Novorizontino enfrenta Avaí na 26ª rodada da Série B",
+      "resumo": "O duelo entre Novorizontino e Avaí está marcado para sábado, às 16h, no estádio Jorge Ismael de Biasi, em Novo Horizonte. Novorizontino ocupa a melhor sequência da competição, com três vitórias consecutivas, e está no quarto lugar com 43 pontos. O jogo faz parte da 26ª rodada da Série B e pode influenciar a posição das equipes na tabela.",
+      "porQueImporta": "O resultado pode definir a trajetória das equipes na disputa pela promoção.",
+      "category": "esportes",
       "sources": [
         {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/confira-o-resultado-da-quina-7110-sorteada-nesta-sexta-4-9"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/juventude-x-atletico-go-horario-e-onde-assistir-ao-jogo-da-serie-b/"
         },
         {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7110-confira-o-resultado-sorteado-nesta-sexta-feira-4/"
-        },
-        {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/09/04/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7110-sexta-04-09/"
+          "name": "GE",
+          "url": "https://ge.globo.com/go/futebol/brasileirao-serie-b/noticia/2026/09/05/goias-x-fortaleza-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
         }
       ],
-      "updatedAt": "2026-09-05T00:05:26.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/07/quina.jpg"
-    },
-    {
-      "clusterId": "eee8b9a82a2308b7",
-      "slug": "9a35ac4a19e3bf1b",
-      "titulo": "Ibovespa permanece estável enquanto dólar sobe após dados de emprego dos EUA",
-      "resumo": "O Ibovespa encerrou a sessão em queda de 0,02%, mantendo-se quase estável, enquanto o dólar fechou em alta de 0,50%, cotado a R$ 5,13. A volatilidade foi impulsionada pelo relatório de empregos dos Estados Unidos, que superou expectativas. Fatores domésticos limitaram o impacto externo no mercado acionário.",
-      "porQueImporta": "A reação dos mercados brasileiros aos dados norte‑americanos influencia decisões de investimento e a percepção de risco na economia local.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/payroll-forte-pressiona-mercados-ibovespa-reage-apos-queda-inicial-entenda/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/invest/mercados/ibovespa-fecha-estavel-mas-sobe-54-na-semana-a-maior-alta-semanal-desde-janeiro/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/09/04/dolar-ibovespa.ghtml"
-        }
-      ],
-      "updatedAt": "2026-09-04T21:48:46.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/09/ibovespa-payroll-agosto-01.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      "updatedAt": "2026-09-05T07:30:46.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/XVFFPdgAU17FrExRawW-oL7zBks=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/x/v/bLHiuRRjAp4k1xSljfRA/whatsapp-image-2026-08-28-at-18.12.26-1-.jpeg"
     }
   ],
   "categorias": {
     "politica": [
-      {
-        "clusterId": "3b008257d4d6111b",
-        "slug": "26a35489178ae8a9",
-        "titulo": "Lula e Flávio Bolsonaro empatados em pesquisas de 2º turno",
-        "resumo": "Pesquisas da Quaest e da Datafolha apontam que Lula (PT) tem entre 42% e 48% das intenções de voto, enquanto Flávio Bolsonaro (PL) tem entre 41% e 46%, resultando em empate técnico dentro da margem de erro de 2 pontos. Em grupos específicos, como homens e eleitores de 35 a 59 anos, a diferença é mínima. A margem de erro faz com que ambos os candidatos estejam em posição igualitária para o 2º turno da eleição presidencial.",
-        "porQueImporta": "O empate indica que o resultado final dependerá de mobilização e de fatores externos que possam alterar a intenção de voto antes da eleição.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/05/quaest-veja-os-grupos-em-que-a-disputa-entre-lula-e-flavio-bolsonaro-esta-mais-apertada.ghtml"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/lula-dispara-contra-flavio-bolsonaro-usa-fake-news-para-enganar-o-brasil"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-09-05T03:00:01.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/2Ulq9d0pUghW9f_2vEIXOJ68Q6U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/9/hXLfAXSiq8lJgtPUn5Ag/lula-e-flavio.jpg"
-      },
       {
         "clusterId": "f2d861738a4b0d72",
         "slug": "dac3a19ee3b81291",
@@ -326,6 +282,46 @@
         "imageUrl": "https://s2-g1.glbimg.com/0ynDgQZaCkX31JFSFpauleHdW8M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/y/kBs72cQk6Y0Vaku1TiBw/img20230307163741984.jpg"
       },
       {
+        "clusterId": "becba2fb53d30098",
+        "slug": "0831f7456a042deb",
+        "titulo": "Coordenador da campanha de Flávio Bolsonaro se reúne com ministro Gilmar Mendes no STF",
+        "resumo": "O senador Rogério Marinho, coordenador da campanha de Flávio Bolsonaro, encontrou-se com o ministro Gilmar Mendes no gabinete do Supremo Tribunal Federal em Brasília. A reunião foi confirmada pelas assessorias dos dois envolvidos e ocorreu na quarta-feira, 2 de setembro. O encontro foi interpretado como um gesto da campanha em relação ao STF. Marinho e outros membros do PL têm defendido publicamente o impeachment de ministros da Corte.",
+        "porQueImporta": "O encontro demonstra a aproximação de políticos do PL com o poder judiciário, influenciando discussões sobre a legitimidade e atuação dos ministros.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/colunas/igor-gadelha/marinho-se-reune-com-gilmar-e-diz-que-flavio-quer-ter-interlocucao-com-stf"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/09/04/em-gesto-ao-stf-coordenador-da-campanha-de-flavio-se-reune-com-gilmar-mendes.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-05T08:00:00.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/06/decano-do-stf-gilmar-mendes-lanca-seu-livro-estado-de-direito-e-jurisdicao-constitucional-em-evento-no-tribunal-metropoles-7-scaled.jpg"
+      },
+      {
+        "clusterId": "027fba3f2a761b45",
+        "slug": "26a35489178ae8a9",
+        "titulo": "Lula e Flávio Bolsonaro empatados em pesquisas de 2º turno",
+        "resumo": "Pesquisas da Quaest e da Datafolha apontam que Lula (PT) tem entre 42% e 48% das intenções de voto, enquanto Flávio Bolsonaro (PL) tem entre 41% e 46%, resultando em empate técnico dentro da margem de erro de 2 pontos. Em grupos específicos, como homens e eleitores de 35 a 59 anos, a diferença é mínima. A margem de erro faz com que ambos os candidatos estejam em posição igualitária para o 2º turno da eleição presidencial.",
+        "porQueImporta": "O empate indica que o resultado final dependerá de mobilização e de fatores externos que possam alterar a intenção de voto antes da eleição.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/05/quaest-veja-os-grupos-em-que-a-disputa-entre-lula-e-flavio-bolsonaro-esta-mais-apertada.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-09-05T03:00:01.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/2Ulq9d0pUghW9f_2vEIXOJ68Q6U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/9/hXLfAXSiq8lJgtPUn5Ag/lula-e-flavio.jpg"
+      },
+      {
         "clusterId": "5ea1c20e68897ce8",
         "slug": "e23f34488cddbad5",
         "titulo": "Zema alerta sobre informações de Vorcaro e defende formalização de trabalhadores de aplicativos",
@@ -343,6 +339,26 @@
           }
         ],
         "updatedAt": "2026-09-05T02:10:05.000Z"
+      },
+      {
+        "clusterId": "bbc85f3110037aba",
+        "slug": "9264ff00f6e6fece",
+        "titulo": "PGR abre apuração sobre possível interferência em relatório da PF que liga Moraes a Vorcaro",
+        "resumo": "A Procuradoria-Geral da República informou ao ministro Edson Fachin que iniciou procedimento de controle externo para investigar a suposta interferência na produção do relatório da Polícia Federal. O documento, que aponta relação entre o ministro Alexandre de Moraes e o banqueiro Daniel Vorcaro, foi solicitado pelo ministro André Mendonça. A investigação visa esclarecer se a PF foi influenciada na elaboração do relatório.",
+        "porQueImporta": "A apuração pode afetar a credibilidade das instituições judiciais e policiais envolvidas.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/pgr-vai-investigar-possivel-interferencia-em-relatorio-da-pf-sobre-moraes/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/09/04/pgr-informa-fachin-que-vai-apurar-conduta-da-pf-na-producao-do-relatorio-que-apontou-uma-relacao-entre-moraes-e-vorcaro.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-05T01:01:53.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/03/54409792829_3c2876c10b_k.jpg"
       },
       {
         "clusterId": "9cbf020f87babbc5",
@@ -365,7 +381,7 @@
         "imageUrl": "https://s2-g1.glbimg.com/vLsZykbFSvYLb9BNPPf9OV9j4KY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/g/ELE1Q1Qzu1DIzEebGmTw/globo-canal-4-20260903-2000-frame-152353.jpeg"
       },
       {
-        "clusterId": "152150b748766dea",
+        "clusterId": "327ce60af269d024",
         "slug": "31a44c381f070524",
         "titulo": "Inquérito das fake news tem mais de sete anos, pressiona Moraes e ampliou crise no STF",
         "resumo": "Fachin defende fim do inquérito das fake news no STF O arquivamento do inquérito das fake news passou a ser discutido por ministros do Supremo Tribunal Federal (STF) e foi defendido pelo presidente da Corte, Edson Fachin nesta sexta-feira (4), como um caminho para arrefecer a crise provocada pelo embate entre os ministros Alexandre de Moraes e André Mendonça. Em discurso no Planalto, Fachin destacou que os fatos \"graves\" da \"crise Master\" que atinge o STF estão em apuração e que nenhuma autoridade está acima da Constituição Federal. \"Os acontecimentos recentes demonstram o acerto e a urgência…",
@@ -374,92 +390,37 @@
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/04/crise-no-stf-juristas-propoem-que-moraes-e-mendonca-sejam-afastados-temporariamente-de-processos-em-apuracao.ghtml"
+            "url": "https://g1.globo.com/politica/noticia/2026/09/04/inquerito-das-fake-news-tem-mais-de-sete-anos-pressiona-moraes-e-ampliou-crise-no-stf.ghtml"
           },
           {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/c305mmn2318o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-09-05T00:26:08.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/O6fX2N3Oz49IvwtBZN0T6K92itA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/n/Oq7BUuQfKaxuXdFgHlOA/globo-canal-4-20260904-2000-frame-114751.jpeg"
-      },
-      {
-        "clusterId": "f510017ef3f0e30e",
-        "slug": "35e98390999deba3",
-        "titulo": "Cláudio Castro e mensagens com Ricardo Magro revelam possível atuação pessoal",
-        "resumo": "Mensagens trocadas entre Cláudio Castro e Ricardo Magro, dono da Refit, foram obtidas pela Polícia Federal e indicam que o ex-governador teria se envolvido pessoalmente em negociações. Castro nega qualquer participação em esquema de vantagem indevida. A investigação busca esclarecer se houve favorecimento à Refit.",
-        "porQueImporta": "O caso pode revelar práticas de corrupção envolvendo ex-governador e empresas privadas.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-justica/claudio-castro-considerava-ricardo-magro-dono-da-refit-um-amigo/"
-          }
-        ],
-        "updatedAt": "2026-09-05T03:10:57.000Z"
-      },
-      {
-        "clusterId": "afe0f0a106d37850",
-        "slug": "21bcf5dd05f4b59e",
-        "titulo": "TSE conclui assinatura digital e lacra sistemas das urnas eletrônicas",
-        "resumo": "O Tribunal Superior Eleitoral concluiu a etapa de assinatura digital dos softwares que serão usados nas urnas eletrônicas e os lacrou, tanto digital quanto fisicamente, armazenando-os na sala‑cofre do tribunal. A cerimônia contou com a presença do presidente da Corte, do diretor da Polícia Federal, representantes da Ordem dos Advogados do Brasil e do Ministério Público Federal. A assinatura digital funciona como selo eletrônico de autenticidade, permitindo verificar a integridade do programa no futuro. O procedimento faz parte das medidas de segurança adotadas antes das eleições.",
-        "porQueImporta": "Garantir a integridade e a confiabilidade dos sistemas de votação eletrônica é essencial para a credibilidade do processo eleitoral.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/05/video-entenda-como-o-tse-testa-as-urnas-eletronicas-antes-das-eleicoes.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-05T03:00:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/tPW-bA4w71DYsp8uElmjZRh5BkE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/G/PVb7OQQJO6HvqiRfAnrA/globo-canal-4-20260904-2000-frame-132125.jpeg"
+        "updatedAt": "2026-09-04T15:46:38.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/ckuEbrmtrDM-qIZhst9DmGEko8A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/I/U4K30CR5qksNClhK8hhA/bbc-moraes.png"
       }
     ],
     "economia": [
       {
-        "clusterId": "eee8b9a82a2308b7",
-        "slug": "9a35ac4a19e3bf1b",
-        "titulo": "Ibovespa permanece estável enquanto dólar sobe após dados de emprego dos EUA",
-        "resumo": "O Ibovespa encerrou a sessão em queda de 0,02%, mantendo-se quase estável, enquanto o dólar fechou em alta de 0,50%, cotado a R$ 5,13. A volatilidade foi impulsionada pelo relatório de empregos dos Estados Unidos, que superou expectativas. Fatores domésticos limitaram o impacto externo no mercado acionário.",
-        "porQueImporta": "A reação dos mercados brasileiros aos dados norte‑americanos influencia decisões de investimento e a percepção de risco na economia local.",
+        "clusterId": "2f48777768c6c869",
+        "slug": "10c840742fc43def",
+        "titulo": "Lula vai citar petróleo na Margem Equatorial em mensagem aos EUA",
+        "resumo": "Especialistas consideram a Margem Equatorial um futuro polo de exploração petrolífera, destacando a importância das licenças ambientais do Ibama para avançar o setor. Em 7 de setembro, o presidente Lula enviará um recado aos Estados Unidos, no qual citará o petróleo na região e defenderá o livre comércio.",
+        "porQueImporta": "A decisão pode impulsionar investimentos e fortalecer a posição do Brasil no mercado global de energia.",
         "category": "economia",
         "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/infra/especialistas-apostam-em-margem-equatorial-como-futuro-polo-do-petroleo/"
+          },
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/payroll-forte-pressiona-mercados-ibovespa-reage-apos-queda-inicial-entenda/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/invest/mercados/ibovespa-fecha-estavel-mas-sobe-54-na-semana-a-maior-alta-semanal-desde-janeiro/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/09/04/dolar-ibovespa.ghtml"
+            "url": "https://www.infomoney.com.br/politica/em-7-de-setembro-lula-mandara-recado-aos-eua-e-citara-petroleo-na-margem-equatorial/"
           }
         ],
-        "updatedAt": "2026-09-04T21:48:46.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/09/ibovespa-payroll-agosto-01.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "068b2428f0640c77",
-        "slug": "8d0bf80176e86b55",
-        "titulo": "Feriado de 7 de setembro suspende rodízio de veículos em São Paulo",
-        "resumo": "No feriado nacional de 7 de setembro, o rodízio de veículos em São Paulo fica suspenso, mas o trânsito pode sofrer alterações. Trabalhadores que não trabalham nos fins de semana terão três dias consecutivos de folga, já que o feriado cai na segunda-feira. O dia marca a Independência do Brasil proclamada em 1822.",
-        "porQueImporta": "A suspensão do rodízio afeta a mobilidade urbana e a rotina de trabalhadores que dependem do transporte público.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/05/feriado-de-7-de-setembro-veja-o-que-abre-e-fecha-em-sp-rodizio-e-suspenso.ghtml"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/tem-rodizio-em-sp-no-feriado-de-7-de-setembro/"
-          }
-        ],
-        "updatedAt": "2026-09-05T03:00:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/LZ5yB_-_FlSSq-t8pAf-96AVDn0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/s/v/PyCGfEQ2CWdP6wl8VzGQ/fup20211027013.jpg"
+        "updatedAt": "2026-09-05T06:36:42.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/09/55506583176_2ac84268e8_c.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
         "clusterId": "b0d07a468c759c79",
@@ -481,110 +442,140 @@
         "updatedAt": "2026-09-05T01:21:06.000Z"
       },
       {
-        "clusterId": "646b3e53063d93ef",
-        "slug": "baefbd2ef0165f5f",
-        "titulo": "Dublador Ettore Zuim morre aos 66 anos",
-        "resumo": "Ettore Zuim, dublador de personagens como Batman, Hércules e Owen Wilson, faleceu em São Paulo. Ele estava internado na UTI da Santa Casa de Misericórdia com câncer de esôfago. Zuim também atuou como professor e diretor de dublagem. Sua morte foi confirmada pela irmã Christina e pela Associação Brasileira de Dubladores.",
-        "porQueImporta": "Sua carreira influenciou a dublagem de produções nacionais e internacionais, marcando gerações de fãs e profissionais.",
+        "clusterId": "e1ea7a783962b28c",
+        "slug": "9a35ac4a19e3bf1b",
+        "titulo": "Ibovespa permanece estável enquanto dólar sobe após dados de emprego dos EUA",
+        "resumo": "O Ibovespa encerrou a sessão em queda de 0,02%, mantendo-se quase estável, enquanto o dólar fechou em alta de 0,50%, cotado a R$ 5,13. A volatilidade foi impulsionada pelo relatório de empregos dos Estados Unidos, que superou expectativas. Fatores domésticos limitaram o impacto externo no mercado acionário.",
+        "porQueImporta": "A reação dos mercados brasileiros aos dados norte‑americanos influencia decisões de investimento e a percepção de risco na economia local.",
         "category": "economia",
         "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/04/ettore-zuim-dublador-de-batman-hercules-e-encantado-morre-aos-66-anos-em-sp.ghtml"
-          },
           {
             "name": "Exame",
-            "url": "https://exame.com/pop/lendario-ator-e-dublador-brasileiro-de-batman-simpsons-e-avatar-morre-aos-66-anos/"
-          }
-        ],
-        "updatedAt": "2026-09-05T00:47:28.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/iytEWsuG53rYSLtThcSWMb48Q7I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/1/DRaOSlS9ed034G8TQpYA/montagem-horizontal-1200px-7-.jpg"
-      },
-      {
-        "clusterId": "f9807e185893fd8f",
-        "slug": "22875980d6ef9e36",
-        "titulo": "Resultado do concurso 1290 da Dia de Sorte",
-        "resumo": "O concurso 1290 da Dia de Sorte foi realizado na sexta-feira, 4 de novembro. As dezenas sorteadas foram 10, 13, 14, 20, 23, 24 e 26, com o Mês da Sorte sendo novembro. Nenhum participante acertou os 7 números, fazendo a premiação acumular para R$ 700.000,00. Foram 27 apostas premiadas com 6 acertos, 882 com 5 acertos e 13.100 com 4 acertos.",
-        "porQueImporta": "O resultado influencia os ganhos de milhares de apostadores e demonstra o funcionamento do sistema de acumulação da loteria.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1290-sorteado-nesta-sexta-feira-4/"
+            "url": "https://exame.com/invest/mercados/ibovespa-fecha-estavel-mas-sobe-54-na-semana-a-maior-alta-semanal-desde-janeiro/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/09/04/dia-de-sorte-hoje-resultado-do-concurso-1290-e-numeros-sorteados.ghtml"
+            "url": "https://g1.globo.com/economia/noticia/2026/09/04/dolar-ibovespa.ghtml"
           }
         ],
-        "updatedAt": "2026-09-05T00:42:11.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-09-04T17:56:22.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/KbOg1q3fzRMd5YV3G82VDQOh1V0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/D/u/bIbO92QKm2Mwko6Uw45w/2025-08-13t150516z-1527003558-rc2e6gazlupi-rtrmadp-3-zelle-new-york.jpg"
       },
       {
-        "clusterId": "cf7819587ffe7a9d",
-        "slug": "edbce73b62931ca1",
-        "titulo": "Resultados dos concursos de loterias realizados em 4 de maio",
-        "resumo": "No concurso 895 da Super Sete, não houve ganhadores de 7 acertos e o prêmio acumulou R$ 7,5 milhões; 2 apostas premiaram 6 acertos, 75 premiaram 5 e 1.340 premiaram 4. No concurso 2972 da Lotomania, não houve ganhadores de 20 acertos e o prêmio acumulou R$ 5 milhões; 3 apostas premiaram 19 acertos, 47 premiaram 18 e 486 premiaram 17. No concurso 7110 da Quina, não houve ganhadores de 5 acertos e o prêmio acumulou R$ 17 milhões; 99 premiaram 4 acertos e 6.240 premiaram 3.",
-        "porQueImporta": "Os resultados informam os prêmios e a acumulação de cada loteria, relevantes para apostadores e interessados em jogos de azar.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/loterias/super-sete/noticia/2026/09/04/super-sete-hoje-resultado-do-concurso-895-e-numeros-sorteados.ghtml"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/consumo/lotomania-confira-o-resultado-do-concurso-2972-sorteado-nesta-sexta-feira-3/"
-          }
-        ],
-        "updatedAt": "2026-09-05T00:35:50.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/BYyDidVuVtPPeajEtT4wxvjcIFs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/K/wnXBMpQ7aEGIn4vBchIg/supersete-895-tzsoq.jpeg"
-      },
-      {
-        "clusterId": "18dfbbfbb8573b2e",
-        "slug": "2e25ca2ff18515a7",
-        "titulo": "IBGE aponta quase 2 milhões de brasileiros trabalhando por aplicativos",
-        "resumo": "O IBGE divulgou que 1,805 milhão de pessoas utilizam plataformas digitais como principal fonte de trabalho, totalizando quase 2 milhões de trabalhadores por aplicativos no Brasil em 2025. A maioria emprega veículos como carro, moto ou bicicleta para atender às demandas. A pesquisa destaca a expansão do trabalho por aplicativo em quase 40% nos últimos três anos.",
-        "porQueImporta": "Reflete o crescimento significativo da economia de aplicativos e suas implicações para o mercado de trabalho brasileiro.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/04/numero-de-brasileiros-que-trabalham-por-aplicativo-cresce-quase-40percent-em-3-anos-diz-ibge.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-05T01:12:03.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/HkK8td1JDEQ_KFhv6scBnVgI1eY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/Z/Dx3KSHTIiCGNXxaK3ddg/globo-canal-4-20260904-2000-frame-154198.jpeg"
-      },
-      {
-        "clusterId": "91092d7115330f57",
-        "slug": "03e0680a21cf0555",
-        "titulo": "Partido Novo pede arquivamento de investigação contra Mendonça",
-        "resumo": "O Partido Novo solicitou que a investigação sobre o ex-juiz José Mendonça seja arquivada, alegando que a redação do relatório teria sido feita por inteligência artificial. A solicitação foi feita junto ao Ministério Público. O partido argumenta que a suposta intervenção de IA compromete a validade do documento. A medida ainda aguarda decisão judicial.",
-        "porQueImporta": "A decisão pode influenciar a continuidade de processos judiciais contra o ex-juiz.",
+        "clusterId": "e99fe61b7ed78430",
+        "slug": "79de6dc6dfcc5bba",
+        "titulo": "Inflação mostra alívio pontual, mas fatores de risco permanecem",
+        "resumo": "Os dados recentes indicam uma queda nos preços, mas especialistas apontam que o recuo é temporário e pode reverter. A inflação ainda enfrenta pressões de custos de energia, salários e cadeias de suprimentos. Economistas destacam que o processo de estabilização será lento e que a política monetária deve permanecer cautelosa.",
+        "porQueImporta": "Entender a dinâmica da inflação ajuda a prever ajustes na taxa de juros e o impacto sobre o poder de compra dos consumidores.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/partido-novo-pede-arquivamento-de-investigacao-contra-mendonca/"
+            "url": "https://www.infomoney.com.br/economia/alivio-na-inflacao-e-pra-valer-tres-fatores-ainda-tiram-o-sono-de-economistas/"
           }
         ],
-        "updatedAt": "2026-09-05T00:59:40.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/04/52441529977_f3565b5d7d_o.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-09-05T08:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/09/inflacao-varejo-supermercado.jpg?fit=300%2C179&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "120e2ac73b3ab539",
+        "slug": "26fb646e6f677e8e",
+        "titulo": "Petrobras recebe autorização do Ibama para perfurar três novos poços na Foz do Amazonas",
+        "resumo": "O Ibama retificou a Licença de Operação nº 1684, permitindo que a Petrobras perfure os poços Manga, Crotalus e Morpho Extensão na Bacia da Foz do Amazonas. A companhia já concluiu a perfuração do poço Morpho e agora planeja as ações para os demais poços. O bloco FZA-M-59 fica na costa do Amapá e faz parte de um programa de quatro perfurações.",
+        "porQueImporta": "A autorização amplia a exploração de petróleo na região, podendo gerar produção em até sete anos.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/ap/amapa/noticia/2026/09/05/apos-licenca-do-ibama-petrobras-planeja-perfuracao-de-novos-pocos-na-foz-do-amazonas.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-05T07:00:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/ogSOyoY-o8dT7hqMUjUPh1KQvHY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/j/lLL4UuSxWfUKMz8edUrA/captura-de-tela-2026-08-14-205116.png"
+      },
+      {
+        "clusterId": "e8491c5c33ab0edc",
+        "slug": "a9ada636aa60cb24",
+        "titulo": "IA Gamma cria apresentações a partir de comando",
+        "resumo": "A ferramenta Gamma utiliza inteligência artificial para transformar ideias, textos ou documentos em apresentações estruturadas, gerando conteúdo, layout e elementos visuais automaticamente. O usuário fornece apenas um comando e a IA monta a apresentação completa, eliminando a necessidade de usar PowerPoint. A solução promete acelerar a criação de slides e facilitar a produção de material visual.",
+        "porQueImporta": "Simplifica e agiliza a produção de apresentações, reduzindo tempo e esforço dos usuários.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Exame",
+            "url": "https://exame.com/inteligencia-artificial/esqueca-o-powerpoint-conheca-a-ia-que-cria-apresentacoes-a-partir-de-um-comando/"
+          }
+        ],
+        "updatedAt": "2026-09-05T05:01:58.000Z"
+      },
+      {
+        "clusterId": "f2e070b475e698dd",
+        "slug": "e5e1c5c222c38809",
+        "titulo": "Lista de vilões que enfrentaram o Homem-Aranha no cinema",
+        "resumo": "A reportagem reúne todos os antagonistas que surgiram nas adaptações cinematográficas do Homem-Aranha, incluindo as trilogias de Tobey Maguire e Andrew Garfield, o Universo Cinematográfico Marvel e as animações com Miles Morales. O texto apresenta um ranking dos vilões considerados mais marcantes. A lista destaca a evolução dos personagens e a diversidade de abordagens nas diferentes franquias.",
+        "porQueImporta": "Permite aos fãs comparar e avaliar a representação dos antagonistas ao longo das diversas versões do personagem.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Exame",
+            "url": "https://exame.com/pop/quem-enfrentou-o-homem-aranha-no-cinema-veja-todos-os-viloes-e-o-ranking-de-melhores/"
+          }
+        ],
+        "updatedAt": "2026-09-05T04:01:49.000Z"
+      },
+      {
+        "clusterId": "d7468cbc09fab8b5",
+        "slug": "8d0bf80176e86b55",
+        "titulo": "Feriado de 7 de setembro suspende rodízio de veículos em São Paulo",
+        "resumo": "No feriado nacional de 7 de setembro, o rodízio de veículos em São Paulo fica suspenso, mas o trânsito pode sofrer alterações. Trabalhadores que não trabalham nos fins de semana terão três dias consecutivos de folga, já que o feriado cai na segunda-feira. O dia marca a Independência do Brasil proclamada em 1822.",
+        "porQueImporta": "A suspensão do rodízio afeta a mobilidade urbana e a rotina de trabalhadores que dependem do transporte público.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/05/feriado-de-7-de-setembro-veja-o-que-abre-e-fecha-em-sp-rodizio-e-suspenso.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-05T03:00:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/LZ5yB_-_FlSSq-t8pAf-96AVDn0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/s/v/PyCGfEQ2CWdP6wl8VzGQ/fup20211027013.jpg"
       }
     ],
     "mundo": [
       {
-        "clusterId": "835d02e890c4373d",
-        "slug": "59c0fc3419deed4f",
-        "titulo": "ONU aprova uso de projeção cartográfica Equal Earth para mapas mundiais",
-        "resumo": "A Assembleia Geral da ONU aprovou, por 164 votos a favor, uma resolução que incentiva a adoção da projeção Equal Earth, que reduz distorções de tamanho dos continentes. A proposta, chamada \"Corrija o mapa\", foi proposta por países africanos e tem apoio da União Africana. Os Estados Unidos foram o único país a votar contra a resolução. O objetivo é representar melhor as diferenças de área entre os países.",
-        "porQueImporta": "A mudança visa melhorar a precisão visual dos mapas, influenciando educação, mídia e percepção pública sobre a geografia mundial.",
+        "clusterId": "7264a08aebd0030b",
+        "slug": "e992fa8ca53e0726",
+        "titulo": "Tufão Saudel causa inundações e desabamento de prédio em Fujian",
+        "resumo": "O tufão Saudel atingiu a província de Fujian, provocando chuvas torrenciais e inundações que levaram à evacuação de mais de 80 mil moradores, fechamento de escolas e suspensão do transporte público. Em Zhejiang, mais de 2,500 estudantes e professores ficaram presos. Um prédio de três andares desabou e foi arrastado pela água, mas não há informações sobre vítimas.",
+        "porQueImporta": "O evento destaca a vulnerabilidade de áreas costeiras chinesas a fenômenos climáticos extremos.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/deslizamento-apos-tufao-deixa-um-morto-e-11-desaparecidos-na-china"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/deslizamento-deixa-ao-menos-1-morto-e-11-desaparecidos-apos-chuvas-na-china/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/09/05/deslizamento-jiangxi-china.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-05T07:00:33.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/09/gettyimages-2292405069.jpg"
+      },
+      {
+        "clusterId": "ea12d2166bc5e156",
+        "slug": "b2c60ec6d01699c5",
+        "titulo": "ONU aprova mudança na representação do mapa-múndi para reduzir distorções",
+        "resumo": "A Assembleia Geral da ONU aprovou, por 164 votos a favor, uma resolução que incentiva a adoção de uma projeção cartográfica que representa melhor as dimensões reais dos continentes, reduzindo as distorções da projeção de Mercator. O projeto, chamado \"Corrija o mapa\", tem apoio da União Africana e foi liderado pelo Togo. Os Estados Unidos foram o único país a votar contra a proposta, enquanto seis países se abstiveram.",
+        "porQueImporta": "A mudança visa melhorar a precisão geográfica em mapas usados em educação, mídia e planejamento internacional.",
         "category": "mundo",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/educacao/noticia/2026/09/05/o-que-muda-no-mapa-mundi-apos-onu-aprovar-alteracao-de-distorcoes-nas-dimensoes-dos-continentes.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/09/05/projeto-ideologico-radical-por-que-os-eua-foram-o-unico-pais-a-votar-contra-mudanca-do-mapa-mundi-para-corrigir-distorcoes-na-onu.ghtml"
           },
           {
             "name": "BBC Brasil",
@@ -593,34 +584,30 @@
           {
             "name": "Olhar Digital",
             "url": "https://olhardigital.com.br/2026/09/04/pro/onu-aprova-mudanca-na-representacao-do-mapa-mundi-para-reduzir-distorcoes/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/a-groenlandia-nao-tem-o-tamanho-que-voce-pensa-veja-o-novo-mapa-mundi-da-onu/"
           }
         ],
-        "updatedAt": "2026-09-05T03:00:00.000Z",
+        "updatedAt": "2026-09-05T04:00:00.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/ABu2rDuzz3z9_uPHXN5OzYtdE_s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/n/iNtfbfQq20kAmBeu7o2g/equal-earth-map-0-pt-redimensionado-para-2000x1064.jpeg"
       },
       {
-        "clusterId": "bfe837abd2c51d09",
-        "slug": "5fea73337a54a568",
-        "titulo": "Casa Branca lança jogos que simulam deportação de imigrantes",
-        "resumo": "Em 3 de setembro de 2026, o site oficial da Casa Branca disponibilizou jogos de estilo arcade em que o jogador captura pessoas que atravessaram a fronteira do Rio Grande e constrói muros. Os jogos incluem versões inspiradas em clássicos como Tetris e Snake, transformando a deportação em uma atividade lúdica. A iniciativa foi amplamente criticada por reduzir a questão migratória a uma brincadeira.",
-        "porQueImporta": "A ação evidencia a retórica anti‑imigração do governo e suscita debate sobre a representação de políticas públicas em mídias digitais.",
+        "clusterId": "3904b6617450bf42",
+        "slug": "24a40dfcb0e8fd62",
+        "titulo": "EUA e Venezuela anunciam acordo petrolífero de grande escala",
+        "resumo": "O presidente dos Estados Unidos, Donald Trump, descreveu o acordo como o maior da história, envolvendo a compra de petróleo venezuelano. O tratado prevê a transferência de tecnologia e investimento em refino, além de garantir preços fixos para o petróleo. A Venezuela, que enfrenta sanções internacionais, busca revitalizar sua indústria petrolífera. O acordo tem implicações geopolíticas e econômicas para a região.",
+        "porQueImporta": "O pacto pode alterar o equilíbrio energético e político na América Latina, influenciando mercados globais e relações internacionais.",
         "category": "mundo",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/tetris-nega-ter-relacao-com-jogo-criado-pela-casa-branca-contra-imigrantes"
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/09/05/eua-fecham-acordo-pelo-petroleo-da-venezuela-o-que-trump-ganha-com-o-negocio.ghtml"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/09/03/tetris-e-cobrinha-casa-branca-lanca-jogos-em-que-imigrantes-sao-cacados-para-deportacao.ghtml"
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cp932r2k9kpo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-09-05T03:15:56.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/09/jogos-trump-scaled.jpeg"
+        "updatedAt": "2026-09-05T08:00:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/IbSVj3F3xqVANhugnkHUS0eUGyU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/M/eTvVnHQb2EldWhMvGjUA/2026-01-06t171602z-854943521-rc2sviaaga9d-rtrmadp-3-global-oil.jpg"
       },
       {
         "clusterId": "b5f87bdff6a983b8",
@@ -643,24 +630,40 @@
         "imageUrl": "https://s2-g1.glbimg.com/BCnGulgkMDLMCfWPR7XCbSdWnUY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/h/FtvXtASUCWD81pQktyvg/copia-de-sem-nome-1200-x-900-px-5-1.jpg"
       },
       {
-        "clusterId": "e69a1a9dcb86a6e2",
-        "slug": "5073c188ce1ead5a",
-        "titulo": "Deputado mexicano encontrado morto com ferimento de bala em carro no estado de Veracruz",
-        "resumo": "O corpo do deputado federal Zenyazen Escobar, de 42 anos, foi localizado dentro de um carro em um acostamento de estrada em Veracruz, México. Ele estava no banco do motorista e apresentava um ferimento de bala. Uma arma de fogo foi encontrada no veículo, próxima ao corpo. As autoridades investigam as circunstâncias da morte.",
-        "porQueImporta": "A morte de um legislador federal destaca questões de segurança e violência no México.",
+        "clusterId": "e3f7535ea14cf258",
+        "slug": "90eb9296fb92d480",
+        "titulo": "Explosão em base militar na Bolívia deixa mortos e feridos",
+        "resumo": "Uma explosão ocorreu em uma base militar em Viacha, a cerca de 30 km de La Paz, resultando em pelo menos 10 mortes e mais de 60 feridos, incluindo civis. A explosão também causou danos a casas próximas e provocou um incêndio que foi controlado. Sete pessoas foram reportadas como desaparecidas. A diretora de saúde local, Rita Nebraska, confirmou os números de vítimas.",
+        "porQueImporta": "O incidente destaca a vulnerabilidade de instalações militares e a necessidade de investigação sobre sua causa.",
         "category": "mundo",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/parlamentar-do-partido-governista-do-mexico-e-encontrado-morto/"
+            "url": "https://www.cnnbrasil.com.br/internacional/explosao-em-base-militar-na-bolivia-deixa-mortos-diz-autoridade/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/09/04/deputado-federal-e-encontrado-morto-com-ferimento-a-bala-no-mexico.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/09/04/video-quartel-militar-explode-na-bolivia-e-deixa-feridos.ghtml"
           }
         ],
-        "updatedAt": "2026-09-04T23:42:53.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/gkVDGN1-WpGOTpDgDacji8lsAl8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/j/EeHtlJSliHzh2BqN4ACg/saveclip.app-657720416-18346426627210578-2109300951877029358-n.jpg"
+        "updatedAt": "2026-09-05T01:34:36.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/q_7KRav2F29w4ir6RILSdK_jk3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/U/uO1BPZShWITJKIuoNOpQ/viacha.jpg"
+      },
+      {
+        "clusterId": "49d62b95d2630d59",
+        "slug": "fe4e60e8333d7c04",
+        "titulo": "Campeonato de farmear aura se espalha pela América Latina",
+        "resumo": "O campeonato de farmear aura, criado no Brasil, foi realizado em 29 de agosto de 2026 na praia Las Sombrillas, em Lima, Peru, com dezenas de jovens dançando, posando e exibindo movimentos criativos. A competição também ocorreu recentemente no México, Argentina, Venezuela e Equador, reunindo participantes em busca de “aura”.",
+        "porQueImporta": "Ilustra a rápida difusão de tendências culturais originadas no Brasil pela comunidade jovem latino‑americana.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/09/05/farmear-aura-campeonato-criado-no-brasil-se-espalha-pela-america-latina.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-05T08:00:01.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/ztmj6MEorJ1Nz7p0_4yFsQtx3FI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/C/PJiN8sQXS5FNP0hl8KMg/ap26244765782598.jpg"
       },
       {
         "clusterId": "39c03d0569cf6def",
@@ -681,38 +684,6 @@
         ],
         "updatedAt": "2026-09-04T10:34:52.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/8bFVf90FBUl8FOdF3yu5O46-dP4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/s/2v7Mt5SfSPuLhHdJl8qw/afp-20260904-c7bt4g3-v1-midres-lebanonisraelusiranwarprisoners.jpg"
-      },
-      {
-        "clusterId": "a443fa595aab93c0",
-        "slug": "24a40dfcb0e8fd62",
-        "titulo": "EUA e Venezuela anunciam acordo petrolífero de grande escala",
-        "resumo": "O presidente dos Estados Unidos, Donald Trump, descreveu o acordo como o maior da história, envolvendo a compra de petróleo venezuelano. O tratado prevê a transferência de tecnologia e investimento em refino, além de garantir preços fixos para o petróleo. A Venezuela, que enfrenta sanções internacionais, busca revitalizar sua indústria petrolífera. O acordo tem implicações geopolíticas e econômicas para a região.",
-        "porQueImporta": "O pacto pode alterar o equilíbrio energético e político na América Latina, influenciando mercados globais e relações internacionais.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cp932r2k9kpo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-09-05T01:34:26.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/983b/live/d692e500-a8c9-11f1-aed2-8d6da8d75094.jpg"
-      },
-      {
-        "clusterId": "014962109ee5e0c6",
-        "slug": "9a512ed9b4c84ed7",
-        "titulo": "Dois trabalhadores resgatados de túnel de usina hidrelétrica no Nepal nove dias após avalanche",
-        "resumo": "Nove dias após a avalanche que causou mais de 1,3 mil mortes, equipes de resgate encontraram dois trabalhadores presos em um túnel subterrâneo da usina hidrelétrica Trishul 3A. Os homens foram retirados com vida, um relatou ter cantado mantras para sobreviver. A operação contou com apoio do Exército nepalês e especialistas em túneis. Ainda há suspeita de que outras pessoas possam estar no mesmo túnel.",
-        "porQueImporta": "O resgate demonstra a capacidade de resposta a desastres no Nepal e a importância de infraestrutura segura em regiões de risco.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/04/no-nepal-dois-homens-sao-resgatados-apos-ficarem-presos-durante-9-dias-em-um-tunel.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-05T00:49:03.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/z2kQ31HoTfr3FYRbcsK24JUzX0o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/f/Uaw0gJSQGe1kHoBuEwmg/globo-canal-4-20260904-2000-frame-157469.jpeg"
       },
       {
         "clusterId": "03d8ffd6ecebd06b",
@@ -736,6 +707,30 @@
       }
     ],
     "tecnologia": [
+      {
+        "clusterId": "b0f9d4d74f3d5a15",
+        "slug": "3955bbc7f5c150f4",
+        "titulo": "NVIDIA compra Hugging Face por US$ 12,93 bilhões",
+        "resumo": "A NVIDIA anunciou a aquisição da plataforma de inteligência artificial Hugging Face por US$ 12,93 bilhões, equivalente a cerca de R$ 66 bilhões. A Hugging Face conta com mais de 3 milhões de modelos, 500 mil conjuntos de dados e 1 milhão de aplicações, e é usada por mais de 18 milhões de desenvolvedores, pesquisadores e criadores. Aproximadamente 200 mil empresas também utilizam a plataforma para descobrir, avaliar e implementar sistemas de IA.",
+        "porQueImporta": "A compra fortalece a posição da NVIDIA no ecossistema de IA, ampliando seu acesso a recursos de desenvolvimento e adoção corporativa.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/business/global/por-que-o-ataque-a-hugging-face-deve-aumentar-sua-preocupacao-com-a-ia/"
+          },
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/mercado/nvidia-da-r-66-bilhoes-a-hugging-face-e-vira-dona-do-maior-polo-de-ia-do-mundo/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/tecnologia/noticia/2026/09/03/nvidia-vai-comprar-plataforma-de-inteligencia-artificial-hugging-face-por-cerca-de-r-66-bilhoes.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-05T08:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/09/ROOSE-COLUMN.jpg?fit=231%2C300&amp;quality=70&amp;strip=all"
+      },
       {
         "clusterId": "443469d2433ae358",
         "slug": "b47c30c82b3984e1",
@@ -802,24 +797,19 @@
         "updatedAt": "2026-09-05T00:40:20.000Z"
       },
       {
-        "clusterId": "08ff9ee23d977b36",
-        "slug": "3955bbc7f5c150f4",
-        "titulo": "NVIDIA compra Hugging Face por US$ 12,93 bilhões",
-        "resumo": "A NVIDIA anunciou a aquisição da plataforma de inteligência artificial Hugging Face por US$ 12,93 bilhões, equivalente a cerca de R$ 66 bilhões. A Hugging Face conta com mais de 3 milhões de modelos, 500 mil conjuntos de dados e 1 milhão de aplicações, e é usada por mais de 18 milhões de desenvolvedores, pesquisadores e criadores. Aproximadamente 200 mil empresas também utilizam a plataforma para descobrir, avaliar e implementar sistemas de IA.",
-        "porQueImporta": "A compra fortalece a posição da NVIDIA no ecossistema de IA, ampliando seu acesso a recursos de desenvolvimento e adoção corporativa.",
+        "clusterId": "aede031fd1b5513a",
+        "slug": "54e427f6cc9217c5",
+        "titulo": "Resultado da Quina 7110 divulgado",
+        "resumo": "O concurso 7110 da Quina foi sorteado na sexta-feira, 4 de setembro, em São Paulo. Os cinco números premiados foram divulgados pela Caixa Econômica Federal. O prêmio total era de R$ 15.169.733,85. A Caixa também realizou os sorteios de Lotomania, Dupla Sena, Dia de Sorte e Super Sete.",
+        "porQueImporta": "O resultado informa quem pode reivindicar o prêmio e atualiza o público sobre a loteria nacional.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/mercado/nvidia-da-r-66-bilhoes-a-hugging-face-e-vira-dona-do-maior-polo-de-ia-do-mundo/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/noticia/2026/09/03/nvidia-vai-comprar-plataforma-de-inteligencia-artificial-hugging-face-por-cerca-de-r-66-bilhoes.ghtml"
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/09/04/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7110-sexta-04-09/"
           }
         ],
-        "updatedAt": "2026-09-03T20:00:02.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/Z1zZQzYR2ysv9YubGatifOAUQPY=/0x0/filters:format(webp):quality(85)/8a78d06f-a31c-40eb-b591-5ab816bef361.png"
+        "updatedAt": "2026-09-04T23:40:00.000Z"
       },
       {
         "clusterId": "ca74032e2a1fd1d4",
@@ -851,21 +841,6 @@
         ],
         "updatedAt": "2026-09-04T22:34:00.000Z",
         "imageUrl": "https://tl.ctcdn.com.br/xMmnKn6Iv9a5T45uyBHg2O7m-M0=/0x0/filters:format(webp):quality(85)/69929e0c-646d-49ee-84fb-98ed79161337.jpg"
-      },
-      {
-        "clusterId": "6318a2e9ff4c0f28",
-        "slug": "9354ac491a812b96",
-        "titulo": "Until Dawn 2 tem data de lançamento em 28 de janeiro de 2027 e parceria com Dispatch",
-        "resumo": "O jogo Until Dawn 2 foi agendado para 28 de janeiro de 2027 no PlayStation 5, conforme anunciado no State of Play. A desenvolvedora Firesprite Games revelou que a AdHoc Studio, da Dispatch, colaborou na história, personagens e diálogos. A trama seguirá a equipe Dead True investigando o Sanatório Blackwood e gravando um episódio sobre eventos trágicos de mais de uma década.",
-        "porQueImporta": "A data e a colaboração com Dispatch ampliam o interesse e a expectativa dos fãs de jogos de terror.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/games/until-dawn-2-ganha-data-de-lancamento-e-parceria-improvavel-com-dispatch/"
-          }
-        ],
-        "updatedAt": "2026-09-04T22:09:00.000Z"
       }
     ],
     "ciencia": [
@@ -1091,119 +1066,7 @@
     ],
     "esportes": [
       {
-        "clusterId": "ec1bd6e693073806",
-        "slug": "ccc84ba3504e86ab",
-        "titulo": "Vasco conquista título do Brasileirão Sub-20 pela primeira vez",
-        "resumo": "O Vasco venceu o Palmeiras por 2 a 0 no segundo jogo da final, após perder a ida por 1 a 0, e garantiu o título do Brasileirão Sub-20. Andrey marcou os dois gols e o goleiro Phillipe Gabriel fez defesas decisivas. O triunfo impede o Palmeiras de conquistar três títulos consecutivos. O clube equilibra a lista de campeões com um título, igualando outros clubes históricos.",
-        "porQueImporta": "O título marca a primeira conquista do clube no campeonato, consolidando sua presença no cenário juvenil do futebol brasileiro.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/sp/campinas-e-regiao/futebol/brasileirao-sub-20/jogo/04-09-2026/palmeiras-vasco.ghtml"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/vasco-e-campeao-do-brasileirao-sub-20-apos-superar-o-palmeiras-por-2-x-0"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/andrey-brilha-vasco-vence-palmeiras-e-conquista-o-brasileirao-sub-20/"
-          }
-        ],
-        "updatedAt": "2026-09-05T03:11:09.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/09/andrey-fernandes-palmeiras-x-vasco-brasileirao-sub-20.jpg"
-      },
-      {
-        "clusterId": "9aaa87f21f326d64",
-        "slug": "7b1d73393c152cb5",
-        "titulo": "Premier League: Newcastle x Bournemouth e Manchester City x Coventry City na 3ª rodada",
-        "resumo": "Na segunda partida da 3ª rodada da Premier League, Newcastle e Bournemouth se enfrentam no estádio de Newcastle, com início previsto para 11h (horário de Brasília). Na primeira partida, Manchester City recebe Coventry City no Etihad Stadium, também às 11h (horário de Brasília). Ambas as partidas serão transmitidas ao vivo pela plataforma GE e podem ser acompanhadas em tempo real pelo site da GE.",
-        "porQueImporta": "Esses jogos marcam o início da temporada da Premier League, definindo a posição inicial das equipes na tabela.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/newcastle-x-bournemouth-horario-e-onde-assistir-ao-jogo-da-premier-league-2/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/09/05/manchester-city-x-coventry-city-na-premier-league-onde-assistir-ao-vivo-e-horario.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-05T03:10:24.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/NTEg5IcZF1jrmmUz7I2M6xdatUg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/I/W/4p0KnKR86EnGQ2m3RbIw/afp-20260828-c6rh4w4-v1-midres-fblengprcrystalpalacemancity.jpg"
-      },
-      {
-        "clusterId": "8df67166bfd07f20",
-        "slug": "e8627c226d4bd767",
-        "titulo": "Filipe Luís vence PSG com Monaco em virada",
-        "resumo": "O técnico brasileiro Filipe Luís conduziu o Monaco à vitória de 2 a 1 sobre o Paris Saint‑Germain na terceira rodada da Ligue 1, em Paris. O triunfo foi alcançado após um gol inicial de Marquinhos, mas o Monaco reagiu e marcou dois gols no segundo tempo. A vitória reforça a reputação de Luís no futebol europeu e mantém o time em 100 % de aproveitamento na competição. O treinador expressou apoio ao Flamengo e desejou uma revanche no Mundial.",
-        "porQueImporta": "A vitória demonstra a capacidade de Filipe Luís em comandar equipes de alto nível e aumenta sua credibilidade internacional.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/filipe-luis-atinge-feito-historico-no-monaco-e-e-elogiado-por-luis-enrique/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-frances/noticia/2026/09/04/filipe-conquista-paris-jornal-espanhol-destaca-vitoria-do-tecnico-brasileiro-sobre-o-psg-de-luis-enrique.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-05T00:04:02.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/UIBHUFqa5nN2OL8nr55PVj5rIoE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/x/6/7XSBdGSvuYb366xQszog/captura-de-tela-2026-09-04-184149.png"
-      },
-      {
-        "clusterId": "6a749b277e91f56a",
-        "slug": "df3d7a8a8a1e2328",
-        "titulo": "Mirassol volta Neto Moura ao time, Walter dúvida, enfrenta Coritiba",
-        "resumo": "O volante Neto Moura retorna ao elenco do Mirassol após cumprir suspensão pelo terceiro cartão amarelo na derrota por 2 a 0 para o Flamengo. O técnico Rafael Guanaes ainda tem dúvidas sobre a presença de Walter na escalação. O time permanece fora da zona de classificação no Campeonato Brasileiro. O próximo confronto será contra o Coritiba no estádio Couto Pereira.",
-        "porQueImporta": "A presença de Neto Moura pode influenciar o desempenho do Mirassol na partida decisiva contra o Coritiba.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/sp/tem-esporte/futebol/times/mirassol/noticia/2026/09/05/escalacao-do-mirassol-neto-moura-retorna-ao-time-enquanto-walter-e-duvida.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-05T03:15:59.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/qr9PbHCt2OXt6sJtpH0-7OZR0s4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/A/A/B5rdSrS7yAA6czFxBVFw/voce-agarra-no-gaaaaol-8-.png"
-      },
-      {
-        "clusterId": "2d96807d3e00aac3",
-        "slug": "10278c546abf49a6",
-        "titulo": "CRB vence América-MG por 3 a 1 e sobe para a quinta posição na Série B",
-        "resumo": "O CRB derrotou o América-MG por 3 a 1 no Estádio Rei Pelé, com gols de Crystopher, Mikael e Kevin. A vitória elevou o time à quinta colocação na tabela da Série B, consolidando sua posição como candidato ao acesso. O jogo contou com 11.476 torcedores, gerando R$ 120.030,30 de arrecadação bruta e R$ 16.696,66 de lucro líquido.",
-        "porQueImporta": "A conquista reforça a trajetória do CRB rumo ao acesso à Série A.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/al/futebol/brasileirao-serie-b/jogo/04-09-2026/crb-america-mg.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-05T03:10:59.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/aPzDP8jtIB0yzlBGxWCWX0XAYOI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/U/6/5JZkfJQrKBQvTLNAZgpw/whatsapp-image-2026-09-04-at-21.24.43-1-.jpeg"
-      },
-      {
-        "clusterId": "34cc19ac15935f6e",
-        "slug": "9830ae90c20b5f7d",
-        "titulo": "Athletic goleia Vila Nova e volta a vencer na Série B",
-        "resumo": "O Athletic venceu o Vila Nova por 5 a 0, encerrando uma sequência de três derrotas na Série B. O time dominou a partida do início ao fim, mantendo a invicta do Tigre. O técnico Guto Ferreira considerou a goleada uma noite desastrosa e afirmou que não há explicação para o desempenho abaixo do habitual. Ele destacou a necessidade de analisar o que faltou e recuperar o bom momento nas próximas partidas.",
-        "porQueImporta": "A vitória consolida a posição do Athletic na tabela e evidencia a fragilidade do Vila Nova na temporada.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/mg/zona-da-mata-centro-oeste/futebol/brasileirao-serie-b/jogo/04-09-2026/athletic-club-vila-nova.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-05T03:10:50.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/2_h9Xr2Mh6K2IGWMBGr0e48dewY=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/R/L/soteg8S8eMuaJHPm0PtQ/55433182144-7286e7073b-k.jpg"
-      },
-      {
-        "clusterId": "e8918072df0e6309",
+        "clusterId": "e8d412bc229918c8",
         "slug": "52eb22bfd51751f7",
         "titulo": "Novorizontino enfrenta Avaí na 26ª rodada da Série B",
         "resumo": "O duelo entre Novorizontino e Avaí está marcado para sábado, às 16h, no estádio Jorge Ismael de Biasi, em Novo Horizonte. Novorizontino ocupa a melhor sequência da competição, com três vitórias consecutivas, e está no quarto lugar com 43 pontos. O jogo faz parte da 26ª rodada da Série B e pode influenciar a posição das equipes na tabela.",
@@ -1211,37 +1074,169 @@
         "category": "esportes",
         "sources": [
           {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/juventude-x-atletico-go-horario-e-onde-assistir-ao-jogo-da-serie-b/"
+          },
+          {
             "name": "GE",
-            "url": "https://ge.globo.com/sp/tem-esporte/futebol/brasileirao-serie-b/noticia/2026/09/05/novorizontino-x-avai-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+            "url": "https://ge.globo.com/go/futebol/brasileirao-serie-b/noticia/2026/09/05/goias-x-fortaleza-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
           }
         ],
-        "updatedAt": "2026-09-05T03:01:00.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/pyrVh-EPN0_lkFhrFLr5hvQ6-4U=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/q/T/2CIzXSTWusCbKiXb5Mlw/whatsapp-image-2026-08-28-at-18.14.29.jpeg"
+        "updatedAt": "2026-09-05T07:30:46.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/XVFFPdgAU17FrExRawW-oL7zBks=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/x/v/bLHiuRRjAp4k1xSljfRA/whatsapp-image-2026-08-28-at-18.12.26-1-.jpeg"
       },
       {
-        "clusterId": "6d91f91f47be5048",
-        "slug": "43f0bbfd7b365761",
-        "titulo": "GP da Itália 2026 define grid de largada em Monza",
-        "resumo": "A sessão de treinos livres no Autódromo Nacional de Monza estabelece as posições iniciais para a 13ª etapa da temporada de Fórmula 1 2026. O fim de semana promete arquibancadas lotadas e disputa equilibrada pela pole position. A classificação será exibida às 11h no Sportv3.",
-        "porQueImporta": "Determina o grid de largada para a corrida, influenciando a estratégia das equipes.",
+        "clusterId": "f37950d0f77e6e95",
+        "slug": "dceb41a66e4f8149",
+        "titulo": "26ª rodada do Brasileirão: Bragantino-Bahia, São Paulo-Atlético-MG e Fluminense-Vasco",
+        "resumo": "Na 26ª rodada do Campeonato Brasileiro, o Bragantino enfrenta o Bahia às 16h no estádio Cícero de Souza Marques, em Bragança Paulista. O São Paulo joga contra o Atlético-MG às 18h30 (horário de Brasília) no Morumbi, com transmissão pelo Premiere. O clássico Fluminense-Vasco acontece às 21h no Maracanã, com cobertura ao vivo pelo Premiere e Sportv.",
+        "porQueImporta": "Esses confrontos determinam posições importantes na tabela, afetando a disputa pela Libertadores e a zona de rebaixamento.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/bragantino-x-bahia-horario-e-onde-assistir-ao-jogo-do-brasileirao/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/brasileirao-serie-a/noticia/2026/09/05/bragantino-x-bahia-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-05T07:00:29.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/bm10NywrzWkNifjLJykxDYnw0ms=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/8/6/TrSLAtQGqxjeV1zJ4LgQ/agif25110516085558.jpg"
+      },
+      {
+        "clusterId": "4635c814b6dd7eb1",
+        "slug": "33ad8dd361e706c1",
+        "titulo": "Partidas da Premier League na terceira rodada",
+        "resumo": "Na terceira rodada da Premier League, que acontece neste sábado (5), as equipes se enfrentam em quatro confrontos: Brentford x Sunderland, Nottingham Forest x Tottenham, Newcastle x Bournemouth e Manchester City x Coventry City. Os jogos são transmitidos ao vivo em canais esportivos e plataformas digitais, com horários de início em Brasília. Manchester City já lidera a tabela com duas vitórias, enquanto outras equipes buscam consolidar posições.",
+        "porQueImporta": "É o início da temporada, definindo o rumo das equipes na competição.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/brentford-x-sunderland-horario-e-onde-assistir-ao-jogo-da-premier-league-2/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/09/05/manchester-city-x-coventry-city-na-premier-league-onde-assistir-ao-vivo-e-horario.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-05T04:00:12.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/NTEg5IcZF1jrmmUz7I2M6xdatUg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/I/W/4p0KnKR86EnGQ2m3RbIw/afp-20260828-c6rh4w4-v1-midres-fblengprcrystalpalacemancity.jpg"
+      },
+      {
+        "clusterId": "6c6414c0fdedc43f",
+        "slug": "b549634e456f8873",
+        "titulo": "4 de Julho enfrenta Caiçara na primeira rodada do Campeonato Piauiense Série B 2026",
+        "resumo": "O 4 de Julho e o Caiçara disputarão partida na Arena Ytacoataria, em Piripiri, neste sábado, às 16h, válida pela primeira rodada da Série B do Campeonato Piauiense 2026. O 4 de Julho, rebaixado da elite em 2025, conta com o técnico Júnior Cearense e 20 jogadores contratados para a competição. A partida será arbitrada por Maurício Soares. O jogo será transmitido em tempo real pelo GE.",
+        "porQueImporta": "É o início da temporada da segunda divisão piauiense, marcando a volta do 4 de Julho ao campeonato estadual.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/motor/formula-1/noticia/2026/09/05/classificacao-do-gp-da-italia-da-f1-2026-horarios-e-onde-assistir.ghtml"
+            "url": "https://ge.globo.com/pi/futebol/piauiense-segunda-divisao/noticia/2026/09/05/4-de-julho-x-caicara-veja-provaveis-escalacoes-horario-e-arbitragem.ghtml"
           }
         ],
-        "updatedAt": "2026-09-05T03:01:00.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/cx53SsZqRRoK3jP1A7t5jAWVyXw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/R/g/3Q9XbmSZCkLU7KAiw4YQ/2026-09-04t110838z-1864141450-up1em940uyd1b-rtrmadp-3-motor-f1-italy.jpg"
+        "updatedAt": "2026-09-05T07:00:01.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/ct-bBzEIj8z7EgGOEtHIJiyg4sE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/y/y/qoLt20RhOsQWKcRFRGqA/new-project-2-.jpg"
+      },
+      {
+        "clusterId": "029562590439412a",
+        "slug": "7bf74e0d0e4e9921",
+        "titulo": "Nacional de Patos pretende manter pelo menos 80% do elenco da Copa Paraíba no Paraibano 2027",
+        "resumo": "O vice‑presidente Ramon Medeiros informou que o Nacional de Patos planeja usar pelo menos 80% do grupo que disputará a Copa Paraíba também no Campeonato Paraibano de 2027. Alguns jogadores serão contratados especificamente para a Copa, mas a maioria do elenco será mantida. O técnico do clube deverá chegar em outubro.",
+        "porQueImporta": "Garantir continuidade do elenco pode fortalecer a competitividade do clube no estadual.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/pb/futebol/times/nacional-de-patos/noticia/2026/09/05/nacional-de-patos-pretende-manter-pelo-menos-80percent-do-elenco-da-copa-paraiba-no-paraibano-2027.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-05T07:00:01.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/9Gi3m_UDRwvlUIiTR8TnGnXgNjg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/d/Q/rxA89wROuYJ6QGnScPvQ/whatsapp-image-2026-02-09-at-20.46.50.jpeg"
+      },
+      {
+        "clusterId": "97e687d70dfb1918",
+        "slug": "63e4822789f6b969",
+        "titulo": "Movimento Bora SSA propõe mês de atividades físicas e bem-estar",
+        "resumo": "O Bora SSA é um movimento que incentiva a prática de atividades físicas na capital baiana, usando a metodologia 30 x 30, que consiste em 30 minutos diários de exercício durante 30 dias consecutivos. O programa, que vai de 11 de setembro a 11 de outubro, conta com o nutricionista e atleta Daniel Cady como embaixador. O objetivo é eliminar desculpas e promover hábitos saudáveis entre os participantes.",
+        "porQueImporta": "Promove a saúde pública ao incentivar a prática regular de exercícios físicos em larga escala.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/ba/borassa/noticia/2026/09/05/movimento-bora-ssa-propoe-mes-de-atividades-fisicas-e-bem-estar-entenda-como-funciona.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-05T07:00:00.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/fq276Sb_sRz21ReqSQhgEPeI7ks=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/h/d/wMlCLBRyOf5aSNnqohMw/bora.jpg"
+      },
+      {
+        "clusterId": "e62958b5730fb694",
+        "slug": "a85ee9a90a484ac4",
+        "titulo": "Paraná Clube vence Athletico e quebra jejum de 18 anos no clássico",
+        "resumo": "Na estreia da Copa Paraná, o Paraná Clube derrotou o Athletico-PR por 2 a 1, encerrando um jejum de 18 anos sem vitória no clássico. O Tricolor mantém 100% de aproveitamento na competição. O Cascavel, que perdeu 3 a 1 para o Foz do Iguaçu, enfrentará o Paraná neste sábado, às 15h30, na Vila Capanema.",
+        "porQueImporta": "O resultado reviviu a rivalidade histórica entre os clubes e reforça a competitividade da Copa Paraná.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/pr/futebol/noticia/2026/09/05/parana-clube-x-cascavel-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-05T07:00:00.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/McMCmbpFL60Q_gdrInDeUK5Ytkw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/G/P/CzfNaqSWSDNumob2TI3A/img-8445.jpg"
+      },
+      {
+        "clusterId": "028d7162bfd4683d",
+        "slug": "6316b552b4143a66",
+        "titulo": "Santa Cruz inicia fase decisiva da Série C em busca de acesso",
+        "resumo": "A Série C entra na segunda fase, onde oito clubes competem por quatro vagas na Série B. Santa Cruz inicia o quadrangular final contra Botafogo-PB, na Arena de Pernambuco, buscando atingir o mínimo de sete pontos que historicamente garante o acesso. O técnico Cristian de Souza destaca a necessidade de equilíbrio e controle da ansiedade para alcançar a solidez defensiva e a vitória.",
+        "porQueImporta": "O resultado determinará se o Santa Cruz sobe para a Série B do Campeonato Brasileiro.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/pe/futebol/brasileirao-serie-c/noticia/2026/09/05/serie-c-inicia-segunda-fase-veja-pontuacao-para-conquistar-acesso.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-05T07:00:00.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/-WY92jjFngtP9z7hIR2FNyHPaBE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/r/t/M5mAMWRgyrR4vBKqge8A/agif26080818103629.jpg"
       }
     ],
     "entretenimento": [
       {
-        "clusterId": "1d5bb95ffc30bffb",
-        "slug": "1158ed01657c05ba",
-        "titulo": "Foo Fighters abre Rock in Rio 2026 com show no Palco Mundo",
-        "resumo": "O festival começou nesta sexta-feira (4) com o Foo Fighters como headliner, subindo ao Palco Mundo às 0h05 de sábado. Antes dele, o Rise Against tocou no Palco Mundo a partir das 21h20, apresentando um set de punk hardcore. Outros artistas, como Detonautas, Biquini Cavadão, The Hives e Hot Milk, também se apresentaram em palcos secundários, enquanto Diogo Defante e Nova Twins abriram o evento em palcos menores.",
-        "porQueImporta": "O início do festival contou com grandes nomes internacionais e nacionais, definindo o tom e a expectativa para os dias seguintes.",
+        "clusterId": "b89651f21e505588",
+        "slug": "34d4ffa28916eb3d",
+        "titulo": "Rock in Rio 2026: segundo dia apresenta vertentes do metal",
+        "resumo": "No segundo dia do festival, o Palco Mundo recebe Avenged Sevenfold, que volta ao palco após a estreia em 2024, e Bring Me The Horizon, que apresenta show cinematográfico com pirotecnia. Sepultura também está no programa, reforçando a presença do metal. O dia conta com outras bandas como Bad Omens, Machine Gun Kelly e Rise Against, completando um card forte para os fãs do gênero.",
+        "porQueImporta": "O foco no metal destaca a diversidade musical do Rock in Rio e atrai um público específico para o evento.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/05/rock-in-rio-2o-dia-tem-vertentes-do-metal-com-avenged-sevenfold-bring-me-the-horizon-e-sepultura.ghtml"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/cultura/a-confusao-que-quase-fez-show-do-rise-against-no-rock-in-rio-ser-cancelado/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/pop/rock-in-rio-relembre-5-shows-que-deram-errado-no-festival/"
+          }
+        ],
+        "updatedAt": "2026-09-05T03:01:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/WN5sC8I7K1Skw1B-QyWWSJUXKlQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/y/vtDkI3Rb6Z3NaNz1WBwg/metal.jpg"
+      },
+      {
+        "clusterId": "7355c1caaa193f94",
+        "slug": "0b146b8fa24e18e4",
+        "titulo": "Foo Fighters abre Rock in Rio 2026 com boa forma e nostalgia",
+        "resumo": "O Foo Fighters iniciou o Rock in Rio 2026 na madrugada de sexta para sábado, apresentando um setlist que incluiu sucessos como \"All My Life\" e \"Everlong\". Dave Grohl demonstrou boa forma vocal, apesar de questões de saúde passadas. O festival contou também com shows de Detonautas, Biquini Cavadão e Capital Inicial no Sunset, reforçando a mistura de novidades e veteranos. O evento, que acontece nos dias 4, 5, 6, 7, 11, 12 e 13 de setembro, destaca o retorno do Foo Fighters como headliner após sua última apresentação em 2023.",
+        "porQueImporta": "O show confirma a presença de um dos maiores nomes do rock internacional no festival, atraindo grande público e reforçando a relevância do evento para a cena musical brasileira.",
         "category": "entretenimento",
         "sources": [
           {
@@ -1249,20 +1244,64 @@
             "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml"
           },
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/cultura/a-confusao-que-quase-fez-show-do-rise-against-no-rock-in-rio-ser-cancelado/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/musica/veja-os-famosos-que-marcaram-presenca-no-1o-dia-do-rock-in-rio-2026/"
-          },
-          {
             "name": "Exame",
-            "url": "https://exame.com/pop/rock-in-rio-relembre-5-shows-que-deram-errado-no-festival/"
+            "url": "https://exame.com/pop/dave-grohl-do-nirvana-ao-foo-fighters-a-trajetoria-do-astro-que-volta-ao-rock-in-rio-hoje/"
           }
         ],
-        "updatedAt": "2026-09-05T03:08:05.000Z",
+        "updatedAt": "2026-09-05T05:08:08.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/4FumOKj1yE6g7SDoSn7sjwYND5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/J/sdTM8fSzAgiALTo1XRJQ/rj1-limpo-20260901-1115-frame-179097.jpeg"
+      },
+      {
+        "clusterId": "b24ed854f9e15b16",
+        "slug": "2fddac41a5683b99",
+        "titulo": "Rock in Rio 2026 anuncia line‑up com grandes nomes e artistas digitais",
+        "resumo": "O festival de 2026 contará com um line‑up de rock e metal que inclui artistas internacionais e brasileiros, distribuídos em seis palcos. Vários desses músicos já participaram do programa Tiny Desk, que destaca performances ao vivo sem superprodução. Além disso, o evento ampliará o espaço para artistas que construíram carreiras na internet, como Ananda, Diogo Defante e Lvcas, que integrarão o palco em diferentes momentos de suas trajetórias.",
+        "porQueImporta": "A programação reflete a diversidade musical e a integração entre música tradicional e cultura digital.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "Exame",
+            "url": "https://exame.com/pop/rock-in-rio-2026-confira-o-line-up-deste-sabado-5-de-setembro/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/04/rock-in-rio-2026-os-5-melhores-episodios-do-tiny-desk-com-artistas-do-line-up.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-05T05:01:14.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/9c1A0rAuN1FvgWiGlltSiXQN-RM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/h/F/CHnqGHTKSXvAl8BD8fmQ/joaogomes1.jpg"
+      },
+      {
+        "clusterId": "9596d474486f398a",
+        "slug": "707b67e62ddcfee9",
+        "titulo": "Previsão de chuva no Rock in Rio gera necessidade de estratégias de proteção",
+        "resumo": "A chegada de uma frente fria no fim de semana traz temperaturas máximas de 26°C e possibilidade de chuva, exigindo que os frequentadores planejem como se proteger sem perder os shows. Estruturas cobertas foram instaladas entre os palcos Mundo e Supernova para oferecer abrigo. O clima mais úmido e ventos fortes podem afetar a experiência dos participantes.",
+        "porQueImporta": "Os participantes precisam se preparar para manter a segurança e aproveitar o festival apesar das condições climáticas adversas.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/05/pe-dagua-no-rock-in-rio-veja-onde-se-proteger-da-chuva-sem-perder-os-shows.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-05T08:00:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/mq6q5hZOVFGCWQgy3sRQK68MeYo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/2/cA5fcBQS6jsWnXhlqNSw/chuva2.jpg"
+      },
+      {
+        "clusterId": "f3408f05a0b9e85e",
+        "slug": "334a92c5b04f1061",
+        "titulo": "Fãs organizam fila do Rock in Rio escrevendo números nas mãos",
+        "resumo": "Na expectativa pela abertura dos portões do Rock in Rio, os fãs já formaram fila perto do P5. Para evitar confusões, alguns escreveram números nas mãos indicando a ordem de chegada. A iniciativa surgiu para garantir que os ingressos não fossem perdidos ao sair do local. A organização foi liderada por participantes que chegaram cedo, como Felipe, de Resende.",
+        "porQueImporta": "Facilita a entrada ordenada dos participantes, reduzindo conflitos e perdas de ingressos.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/05/as-estrategias-para-driblar-o-calor-no-rock-in-rio.ghtml"
+          }
+        ],
+        "updatedAt": "2026-09-05T07:00:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/0dbxBLEdXiMbSl3Nh10ikQ2t-DI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/X/QhJvXIRAaZhwBdwG8asw/whatsapp-image-2026-09-05-at-00.09.54-1-.jpeg"
       },
       {
         "clusterId": "8dade1f034b2705f",
@@ -1311,70 +1350,6 @@
         ],
         "updatedAt": "2026-09-04T17:27:59.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/5jIdJEKxFTMTho3kDxW8Vu7zei0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/K/eoBYnoRwiHVB5Rct4lTQ/mariana-e-gabriele-cortada.jpg"
-      },
-      {
-        "clusterId": "5d46a30c63608841",
-        "slug": "649ac05aab367f56",
-        "titulo": "Foto falsa de aniversário de Clint Eastwood com atores famosos circula na internet",
-        "resumo": "Uma imagem que supostamente mostra Clint Eastwood celebrando 96 anos ao lado de Robert De Niro, Al Pacino, Anthony Hopkins, Jack Nicholson e Harrison Ford foi identificada como falsa. A foto apresenta Eastwood segurando um bolo com vela de 96 anos e referências a faroestes. O conteúdo foi divulgado nas redes sociais, mas não há evidências de sua veracidade.",
-        "porQueImporta": "Ilustra a propagação de conteúdo falso envolvendo personalidades do cinema.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/fato-ou-fake/noticia/2026/09/04/e-fake-foto-de-aniversario-de-clint-eastwood-com-atores-renomados.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-04T17:27:19.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/TGis29JOOHqrd2N4b2SRnK9CDb0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/4/i/6H1x5oTWmkuSRlvskXBw/france-cannes-2017-cl-fran.jpg"
-      },
-      {
-        "clusterId": "48a9a3df8c6de3c1",
-        "slug": "334a92c5b04f1061",
-        "titulo": "Fãs organizam fila do Rock in Rio escrevendo números nas mãos",
-        "resumo": "Na expectativa pela abertura dos portões do Rock in Rio, os fãs já formaram fila perto do P5. Para evitar confusões, alguns escreveram números nas mãos indicando a ordem de chegada. A iniciativa surgiu para garantir que os ingressos não fossem perdidos ao sair do local. A organização foi liderada por participantes que chegaram cedo, como Felipe, de Resende.",
-        "porQueImporta": "Facilita a entrada ordenada dos participantes, reduzindo conflitos e perdas de ingressos.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/04/espera-por-abertura-dos-portoes-do-rock-in-rio-tem-estrategias-para-driblar-calor-forte-e-numeros-nas-maos-para-organizar-fila.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-04T14:37:06.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/KvA_-6BZwhbOOKbh826tOkGDWtM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/R/MPbRzHT2WGPiZVhQ636g/g1-fila1.jpg"
-      },
-      {
-        "clusterId": "7dd2bf1a8f775a5d",
-        "slug": "43b0b64f65c93a12",
-        "titulo": "Disputa internacional por direitos autorais envolve sucesso 'Lovezinho'",
-        "resumo": "A música 'Lovezinho', gravada por Treyce, tornou-se viral em 2023 graças ao influenciador Xurrasco, que reproduziu a dancinha nas redes sociais. O hit alcançou destaque no TikTok, Instagram e nos blocos de Carnaval. A popularidade gerou uma disputa internacional sobre os direitos autorais da faixa. A controvérsia destaca a complexidade de proteger propriedade intelectual em plataformas digitais.",
-        "porQueImporta": "Ilustra como conteúdos virais podem gerar conflitos legais globais.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/09/04/20-hits-em-20-anos-dancinha-levou-lovezinho-ao-topo-e-sucesso-causou-disputa-por-direitos-autorais.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-04T13:04:08.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/ocamTQKIR2ECQYgSB3dQLzgZJ1Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/D/Nwwj6sQB6rZFzYBObctQ/fotos-g1-1920-x-1080-px-2026-09-03t230642.571.png"
-      },
-      {
-        "clusterId": "92e4868c6fef567e",
-        "slug": "66ef23363e29d0d1",
-        "titulo": "Chitãozinho & Xororó lançam EP Meninos da roça vol. 2 com Almir Sater e outros artistas",
-        "resumo": "O duo sertanejo Chitãozinho & Xororó lançou o segundo volume do álbum audiovisual Meninos da roça, gravado ao vivo em Jaguariúna, SP, contendo 19 faixas. O EP conta com participações de Almir Sater, Matogrosso & Mathias, Rionegro & Solimões, entre outros artistas. O lançamento ocorreu em 4 de setembro de 2024, como parte de um projeto de três volumes. A dupla já foi anunciada como embaixadora da Festa do Peão de Barretos 2027 e futura atração do Rock in Rio.",
-        "porQueImporta": "Reforça a presença de artistas consagrados no cenário sertanejo e amplia o alcance de um projeto audiovisual de grande visibilidade.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/09/04/chitaozinho-and-xororo-se-unem-a-almir-sater-matogrosso-and-mathias-e-rionegro-and-solimoes-no-ep-meninos-da-roca-2.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-04T13:01:44.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/6BBDWVI2fJnnOV4NhSXNdRtX4TM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/r/M0xmRpRGmCA5AvYFuHEw/chitaozinho-xororo-almir-meninos-de-roca2.jpg"
       }
     ]
   }
