@@ -1,10 +1,8 @@
 {
-  "ranAt": "2026-09-04T15:53:00.064Z",
-  "editionDate": "2026-09-04",
-  "hourUtc": 15,
-  "outcome": "generated",
-  "reason": "\"Crise no STF e volatilidade no mercado refletem tensões políticas e econômicas\" (4 parágrafos)",
-  "attempts": [
-    "ok"
-  ]
+  "ranAt": "2026-09-05T03:19:54.027Z",
+  "editionDate": "2026-09-05",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "attempts": []
 }
