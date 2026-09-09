@@ -1,11 +1,10 @@
 {
-  "ranAt": "2026-09-09T16:02:30.242Z",
+  "ranAt": "2026-09-09T22:18:11.304Z",
   "editionDate": "2026-09-09",
-  "hourUtc": 16,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 22,
+  "outcome": "generated",
+  "reason": "\"Centralização de investigações e ajustes fiscais marcam dia de decisões institucionais e tecnológicas\" (4 parágrafos)",
   "attempts": [
-    "reprovado — poucos parágrafos (1)",
-    "erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
+    "ok"
   ]
 }
