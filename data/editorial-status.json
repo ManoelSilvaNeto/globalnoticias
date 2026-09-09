@@ -1,10 +1,8 @@
 {
-  "ranAt": "2026-09-08T16:08:21.739Z",
-  "editionDate": "2026-09-08",
-  "hourUtc": 16,
-  "outcome": "generated",
-  "reason": "\"Instituições em foco: segurança, política e energia\" (3 parágrafos)",
-  "attempts": [
-    "ok"
-  ]
+  "ranAt": "2026-09-09T03:28:51.109Z",
+  "editionDate": "2026-09-09",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "attempts": []
 }
