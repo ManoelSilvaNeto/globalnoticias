@@ -1,8 +1,11 @@
 {
-  "ranAt": "2026-09-09T08:43:20.151Z",
+  "ranAt": "2026-09-09T16:02:30.242Z",
   "editionDate": "2026-09-09",
-  "hourUtc": 8,
-  "outcome": "skipped",
-  "reason": "fora da janela (8h < 11h UTC)",
-  "attempts": []
+  "hourUtc": 16,
+  "outcome": "not-generated",
+  "reason": "IA fora ou validação reprovou",
+  "attempts": [
+    "reprovado — poucos parágrafos (1)",
+    "erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
+  ]
 }
