@@ -1,11 +1,10 @@
 {
-  "ranAt": "2026-09-13T15:44:06.476Z",
+  "ranAt": "2026-09-13T18:34:28.928Z",
   "editionDate": "2026-09-13",
-  "hourUtc": 15,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 18,
+  "outcome": "generated",
+  "reason": "\"Transparência em foco enquanto esportes e geopolítica marcam o dia\" (4 parágrafos)",
   "attempts": [
-    "reprovado — poucos parágrafos (1)",
-    "erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
+    "ok"
   ]
 }
