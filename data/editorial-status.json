@@ -1,10 +1,8 @@
 {
-  "ranAt": "2026-09-20T15:34:57.178Z",
-  "editionDate": "2026-09-20",
-  "hourUtc": 15,
-  "outcome": "generated",
-  "reason": "\"Panorama do dia: eleições, esportes e decisões judiciais moldam o cenário nacional\" (3 parágrafos)",
-  "attempts": [
-    "ok"
-  ]
+  "ranAt": "2026-09-21T03:43:32.827Z",
+  "editionDate": "2026-09-21",
+  "hourUtc": 3,
+  "outcome": "skipped",
+  "reason": "fora da janela (3h < 11h UTC)",
+  "attempts": []
 }
