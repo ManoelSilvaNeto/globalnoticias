@@ -1,11 +1,10 @@
 {
-  "ranAt": "2026-09-22T16:25:59.782Z",
+  "ranAt": "2026-09-22T22:45:41.756Z",
   "editionDate": "2026-09-22",
-  "hourUtc": 16,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 22,
+  "outcome": "generated",
+  "reason": "\"Acidentes, investigações e disputas políticas marcam o dia\" (4 parágrafos)",
   "attempts": [
-    "reprovado — poucos parágrafos (1)",
-    "erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
+    "ok"
   ]
 }
