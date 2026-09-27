@@ -1,11 +1,10 @@
 {
-  "ranAt": "2026-09-27T13:34:07.074Z",
+  "ranAt": "2026-09-27T19:34:40.659Z",
   "editionDate": "2026-09-27",
-  "hourUtc": 13,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 19,
+  "outcome": "generated",
+  "reason": "\"Segurança, expressão e tecnologia dominam a pauta do dia\" (4 parágrafos)",
   "attempts": [
-    "reprovado — poucos parágrafos (1)",
-    "erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
+    "ok"
   ]
 }
