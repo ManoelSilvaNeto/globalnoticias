@@ -1,73 +1,189 @@
 {
   "date": "2026-10-01",
-  "generatedAt": "2026-10-01T15:09:31.731Z",
+  "generatedAt": "2026-10-01T20:50:06.896Z",
   "home": [
     {
-      "clusterId": "43eb30f303328879",
-      "slug": "c565f0d8030dae37",
-      "titulo": "TSE mantém proibição de posts que associam Flávio Bolsonaro a suposto plano de retirar Nossa Senhora Aparecida como padroeira do Brasil",
-      "resumo": "O Tribunal Superior Eleitoral decidiu manter a remoção de publicações que vinculam o candidato Flávio Bolsonaro a um suposto movimento de retirar Nossa Senhora Aparecida do título de padroeira do Brasil. O ministro André Mendonça alterou seu voto, permitindo a liberação de um post do humorista Antonio Tabet, mas a maioria dos ministros manteve a proibição para as demais postagens. A decisão faz parte de um debate sobre a extensão da censura de conteúdo falso e a proteção da liberdade de expressão.",
-      "porQueImporta": "A medida reflete o equilíbrio entre combater desinformação e preservar direitos fundamentais no contexto eleitoral.",
+      "clusterId": "6a456c9cf2b4310b",
+      "slug": "99d804293f524437",
+      "titulo": "Datafolha mostra Cleitinho Azevedo liderando disputa pelo governo de Minas Gerais",
+      "resumo": "A pesquisa Datafolha, realizada entre 28 de setembro e 1º de outubro, indica que Cleitinho Azevedo lidera o primeiro turno com 40% a 49% dos votos válidos, enquanto Patrus Ananias obtém 16% a 24% e Alexandre Kalil 11% a 20%. Nos cenários de segundo turno, Cleitinho enfrenta Patrus com 60% a 24% e Kalil com 56% a 27%. A margem de erro da pesquisa é de três pontos percentuais.",
+      "porQueImporta": "Os resultados refletem a forte preferência dos eleitores mineiros por Cleitinho, influenciando as estratégias dos demais candidatos.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/minas-gerais/datafolha-em-mg-no-2o-turno-cleitinho-vence-patrus-ananias-por-60-a-24"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/cleitinho-tem-49-dos-votos-validos-na-disputa-pelo-governo-de-mg/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/datafolha-cleitinho-tem-49-dos-votos-validos-no-1o-turno-em-mg-patrus-20/"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/datafolha-mg-cleitinho-tem-40-e-lidera-disputa-patrus-tem-16-e-kalil-11/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-cleitinho-tem-40-para-o-governo-de-minas-gerais-patrus-16/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/01/datafolha-governo-mg-segundo-turno-01-outubro.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-01T20:46:00.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/candidatos-governo-de-minas-propaganda-3x2-1.jpg"
+    },
+    {
+      "clusterId": "74f7c1f76ef68eca",
+      "slug": "bb947e34336c786c",
+      "titulo": "Datafolha mostra Tarcísio de Freitas com 56% das intenções de voto no 1º turno",
+      "resumo": "A pesquisa Datafolha entrevistou 1.610 eleitores entre 28 e 30 de setembro e registrou 56% de intenções de voto para o governador Tarcísio de Freitas, contra 37% para Fernando Haddad, considerando apenas votos válidos. A margem de erro é de 2 pontos percentuais. Em paralelo, 47% dos paulistas avaliam a gestão de Tarcísio como positiva.",
+      "porQueImporta": "Os resultados indicam uma vantagem significativa de Tarcísio, influenciando as expectativas para o primeiro turno das eleições de 2026 em São Paulo.",
       "category": "politica",
       "sources": [
         {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/justica/dino-encerra-acao-no-stf-apos-tse-manter-no-ar-post-de-tabet-sobre-nossa-senhora/"
+          "url": "https://www.cartacapital.com.br/politica/datafolha-tarcisio-tem-56-dos-votos-validos-no-1o-turno-haddad-37/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/datafolha-tarcisio-tem-56-e-haddad-37-governador-ganharia-em-1-turno"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/tarcisio-tem-56-contra-37-de-haddad-no-1o-turno-em-sp-diz-datafolha/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/dino-declara-perda-de-objeto-no-stf-apos-tse-liberar-post-sobre-padroeira/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/manoela-alcantara/dino-acao-dos-posts-de-nossa-senhora-fica-sem-objeto-com-decisao-do-tse"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/09/30/apos-mendonca-mudar-voto-tse-decide-liberar-post-de-humorista-sobre-nossa-senhora-aparecida.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-01T15:05:15.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/Flavio-Dino-foto-Alejandro-Zambrana-stf.jpg"
-    },
-    {
-      "clusterId": "cefd300fe6b4f725",
-      "slug": "b68119d622ec24fd",
-      "titulo": "Christa Pike sobrevive à execução com injeção letal no Tennessee",
-      "resumo": "Christa Pike, condenada à pena de morte em 1996 por assassinato de colega em 1995, sobreviveu à execução realizada em 30 de outubro de 2023 após a administração de duas doses de pentobarbital. O procedimento falhou, exigindo intervenção médica para estabilizá‑la. Se concluída, teria sido a primeira mulher executada no Tennessee em mais de 200 anos.",
-      "porQueImporta": "O caso destaca falhas no processo de execução e levanta questões sobre a aplicação da pena de morte nos Estados Unidos.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/entretenimento/christa-pike-serie-resgata-crime-de-mulher-que-sobreviveu-a-injecao-letal"
+          "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-tarcisio-tem-50-no-1o-turno-para-o-governo-de-sp-haddad-33/"
         },
         {
           "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/o-que-tem-na-injecao-letal-que-mulher-que-seria-executada-nos-eua-tomou-e-sobreviveu/"
-        },
-        {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/10/01/medicina-e-saude/execucao-com-injecao-letal-falha-apos-duas-doses-de-droga-nos-eua/"
+          "url": "https://veja.abril.com.br/politica/nova-pesquisa-datafolha-mostra-como-esta-disputa-entre-tarcisio-e-haddad-em-sp/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/01/video-mostra-christa-pike-durante-julgamento-que-a-condenou-a-morte-em-1996.ghtml"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cwdr78jg54jlo?at_medium=RSS&at_campaign=rss"
+          "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/01/datafolha-sp-avaliacao-governo-01-outubro.ghtml"
         }
       ],
-      "updatedAt": "2026-10-01T15:00:47.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/09/1788184750914.jpg"
+      "updatedAt": "2026-10-01T20:24:04.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/09/Tarcisio-de-Freitas-e-Fernando-Haddad-candidatos-ao-governo-de-Sao-Paulo-Foto-1-Fabio-Rodrigues-PozzebomAgencia-Brasil-Foto-2-Jose-CruzAgencia-Brasil.png"
     },
     {
-      "clusterId": "145f9954ccfb7b6f",
+      "clusterId": "74a0b9f6d62d9ca7",
+      "slug": "94fe0e35df180c4b",
+      "titulo": "Eduardo Paes lidera disputa pelo governo do Rio de Janeiro",
+      "resumo": "A pesquisa Datafolha, realizada entre 28 de setembro e 1º de outubro com 1.204 eleitores, mostra Eduardo Paes (PSD) com 42% das intenções de voto no primeiro turno, seguido por Douglas Ruas (PL) com 31%. No cenário de eventual segundo turno, Paes teria 52% das intenções, contra 38% de Ruas. A margem de erro da pesquisa é de três pontos percentuais.",
+      "porQueImporta": "Os resultados indicam a probabilidade de vitória de Paes no primeiro turno e a dinâmica de um possível segundo turno.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/eduardo-paes-lidera-disputa-pelo-governo-do-rj-diz-datafolha/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/datafolha-a-disputa-pelo-governo-do-distrito-federal-a-tres-dias-da-eleicao/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/datafolha-paes-tem-42-em-1-turno-ao-governo-do-rio-ruas-soma-31"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-rj-paes-tem-42-das-intencoes-de-votos-no-1o-turno-ruas-31/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/01/datafolha-no-rj-governo-1-outubro.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-01T20:42:44.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/03/celina-leao.jpg"
+    },
+    {
+      "clusterId": "80752b30dd197156",
+      "slug": "353611cc8ed96a4f",
+      "titulo": "Datafolha mostra Celina Leão liderando disputa pelo governo do DF",
+      "resumo": "A pesquisa Datafolha, realizada entre 28 de setembro e 1º de outubro com 910 eleitores, indica que Celina Leão (PP) lidera as intenções de voto, com valores entre 46% e 55% dependendo do cenário analisado. Leandro Grass (PT) aparece em segundo lugar, variando de 22% a 32%. Paula Belmonte (PSDB) registra cerca de 9% das intenções de voto. A margem de erro da pesquisa é de 3 pontos percentuais.",
+      "porQueImporta": "Os resultados refletem a forte posição de Celina Leão na corrida pelo reeleição, influenciando estratégias dos demais candidatos.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-celina-tem-55-no-2o-turno-pelo-governo-do-df-grass-22/"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/datafolha-celina-leao-tem-53-dos-votos-validos-no-df-grass-soma-26/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/grande-angular/datafolha-celina-tem-46-grass-soma-22-e-paula-chega-a-9"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/01/datafolha-df-avaliacao-governo-celina-1-outubro.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-01T20:35:28.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Eleicao-pelo-governo-do-Rio-tem-corrida-por-apoio-evangelico.png?fit=300%2C150&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "f893782aba1a68cf",
+      "slug": "5e5dcad96e698755",
+      "titulo": "Datafolha mostra empate técnico entre Marina Silva, André do Prado, Simone Tebet e Guilherme Derrite no Senado de São Paulo",
+      "resumo": "A pesquisa Datafolha, realizada entre 28 e 30 de setembro com 1.610 entrevistados, indica que Marina Silva lidera com 16%, seguida de André do Prado e Simone Tebet com 15% cada, e Guilherme Derrite com 14%. A diferença entre os quatro candidatos é de apenas 2%, dentro da margem de erro de dois pontos percentuais. O levantamento foi encomendado pela Globo e pela Folha de S.Paulo e tem nível de confiança de 95%.",
+      "porQueImporta": "Os resultados refletem a forte concorrência nas eleições para o Senado em São Paulo, onde dois senadores serão eleitos em 2026.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/datafolha-marina-prado-tebet-e-derrite-seguem-empatados-tecnicamente"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-sp-marina-tem-16-do-prado-e-tebet-15-derrite-14-ao-senado/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/01/datafolha-para-o-senado-em-sp-marina-16percent-andre-do-prado-15percent-tebet-15percent-e-derrite-14percent.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-01T20:46:15.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/09/marina-tebet-derrite-andre.jpeg"
+    },
+    {
+      "clusterId": "31cac186f42d6fd3",
+      "slug": "5ee454202353ec1e",
+      "titulo": "Portugal vence Dinamarca na Nations League sem Cristiano Ronaldo",
+      "resumo": "Portugal venceu a Dinamarca por 3 a 1 na Nations League, mantendo 100% de aproveitamento. João Cancelo abriu o placar com assistência de Gonçalo Ramos, que também marcou. Vitinha e João Félix completaram a vitória no segundo tempo. A partida ocorreu em Copenhague, sem a presença de Cristiano Ronaldo.",
+      "porQueImporta": "A vitória consolida a liderança de Portugal no Grupo A4 e destaca a capacidade da equipe sem seu principal jogador.",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/sem-cristiano-ronaldo-portugal-vence-dinamarca-e-segue-100-na-nations"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/futebol-internacional/liga-das-nacoes/jogo/01-10-2026/dinamarca-portugal.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/nations-portugal-vence-a-dinamarca-em-meio-a-crise-com-cristiano-ronaldo/"
+        }
+      ],
+      "updatedAt": "2026-10-01T20:46:10.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/gettyimages-2297554978.jpg"
+    },
+    {
+      "clusterId": "8e076cbb6d514a95",
       "slug": "b886ef30f4503f07",
       "titulo": "Ibovespa abre em alta enquanto investidores acompanham pesquisas eleitorais e cenário externo",
       "resumo": "O Ibovespa iniciou o pregão em alta, registrando ganhos de 0,42% no início do dia, impulsionado pela expectativa de novas pesquisas eleitorais e pelo cenário internacional. O dólar também subiu, cotado em torno de R$5,19, refletindo a volatilidade nos preços do petróleo e as tensões no Oriente Médio. Investidores observaram sinais de juros nos Estados Unidos, especialmente após a divulgação do PCE, indicador de inflação que influencia as decisões do Fed. A atenção ao contexto político brasileiro e às contas públicas também influenciou o desempenho do mercado.",
@@ -75,282 +191,290 @@
       "category": "economia",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/economia/ibovespa-abre-em-alta-com-eleicoes-e-cenario-externo-no-radar/"
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-economia/dolar-sobe-089-e-fecha-a-r-5220-ibovespa-tambem-teve-alta/"
         },
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-1-outubro-2026/"
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-01102026/"
         },
         {
           "name": "G1",
           "url": "https://g1.globo.com/economia/noticia/2026/10/01/dolar-ibovespa.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/invest/mercados/ibovespa-ibov-hoje-01-10-2026/"
         }
       ],
-      "updatedAt": "2026-10-01T14:30:56.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/11/GettyImages-1236444882-e1764968991535.jpg"
+      "updatedAt": "2026-10-01T20:40:29.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-18-125421.png?fit=300%2C201&amp;quality=70&amp;strip=all"
     },
     {
-      "clusterId": "30d250c4b86b27d3",
-      "slug": "98acdfd90fc82f37",
-      "titulo": "Cristiano Ronaldo abandona concentração de Portugal após divergência com Jorge Jesus",
-      "resumo": "O capitão da seleção portuguesa deixou a concentração em Copenhague após discussões com o técnico Jorge Jesus, que tentou convencê‑lo a permanecer. A decisão ocorreu antes da partida contra a Dinamarca na Liga das Nações. Como resultado, o treinador escalou Rafael Leão como novo camisa 7. A situação gerou repercussão nas redes sociais e debate sobre a gestão de atletas.",
-      "porQueImporta": "A saída de Cristiano Ronaldo pode afetar o desempenho e a dinâmica da equipe em competições internacionais.",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/blogs/blog-do-alliatti/post/2026/10/01/cristiano-ronaldo-vive-o-avesso-de-messi-em-crise-com-a-selecao.ghtml"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/selecao-portuguesa-define-quem-fica-com-a-camisa-7-de-cristiano-ronaldo/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/curiosidades/caso-cristiano-ronaldo-e-jorge-jesus-por-que-os-jogadores-de-futebol-ficam-concentrados-no-brasil-a-lei-restringe-a-liberdade-dos-atletas/"
-        }
-      ],
-      "updatedAt": "2026-10-01T15:00:23.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/MXpZjYS8q98wL2a1L9iRR2kX0cE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/A/G/FmeVa8QDmpAbKbBAMdlw/ce9f0c99b924d060dbd9396875fe21fadd79b493w.jpg"
-    },
-    {
-      "clusterId": "fedf65d61ad94835",
-      "slug": "9a5de02063e0ceb5",
-      "titulo": "Petrobras aumenta preço do querosene de aviação em outubro",
-      "resumo": "A partir de 1º de outubro, a Petrobras elevou os preços de venda do querosene de aviação (QAV) para as distribuidoras. O reajuste variou entre 11,6% e 12% nas principais bases de distribuição, como Guarulhos, Duque de Caxias e Betim. O ajuste faz parte da política mensal de revisão de preços da companhia.",
-      "porQueImporta": "O aumento impacta diretamente os custos operacionais das companhias aéreas e pode influenciar o preço das passagens.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/petrobras-eleva-preco-do-querosene-de-aviacao-em-outubro/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/economia/querosene-de-aviacao-sobe-ate-12-e-mantem-pressao-sobre-custos-das-aereas/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/10/01/petrobras-querosene.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-01T14:59:10.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/FPSO-P-67_Credito_Andre-Motta-de-Souza_Agencia-Petrobras.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "56371363d9c3b381",
-      "slug": "d06b57a587bedaf0",
-      "titulo": "Juíza dos EUA autoriza aquisição da Warner Bros. Discovery pela Paramount",
-      "resumo": "A juíza distrital Araceli Martínez‑Olguín aprovou o acordo de compra da Warner Bros. Discovery pela Paramount, encerrando um impasse de meses. A decisão foi tomada em meio a uma coalizão de 12 estados liderada pela Califórnia que alegava prejuízo à concorrência nos setores de cinema e televisão. A aquisição, avaliada em US$110 bilhões, inclui a criação de um conselho editorial pela Paramount.",
-      "porQueImporta": "A aprovação permite a consolidação de duas grandes empresas de mídia, alterando o panorama competitivo da indústria audiovisual nos EUA.",
+      "clusterId": "50fd1b492dfb02c0",
+      "slug": "1e711efc81ecae5f",
+      "titulo": "Datafolha mostra Michelle Bolsonaro liderando corrida pelo Senado no DF",
+      "resumo": "A pesquisa Datafolha, realizada entre 28 de setembro e 1º de outubro, indica que Michelle Bolsonaro (PL) lidera com 23% dos votos, seguida por Bia Kicis (PL) e Leila do Vôlei (PL) com 18% cada. Erika Kokay (PT) tem 13%. A margem de erro é de três pontos percentuais e 38% dos entrevistados estão indecisos.",
+      "porQueImporta": "Os resultados refletem a preferência dos eleitores para as duas vagas de senador no Distrito Federal nas eleições de outubro.",
       "category": "geral",
       "sources": [
         {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/justica-dos-eua-aprova-fusao-entre-paramount-e-warner-por-us-110-bi/"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/distrito-federal/datafolha-michelle-lidera-com-23-leila-e-bia-kicis-tem-18-e-erika-13"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/conheca-ynon-kreiz-novo-co-ceo-da-fusao-paramount-e-warner-bros-discovery/"
+          "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-senado-no-df-michelle-tem-23-bia-e-leila-18-erika-13/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/09/30/juiz-dos-eua-emite-ordem-permitindo-que-a-paramount-conclua-a-aquisicao-da-warner-bros.ghtml"
+          "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/01/datafolha-df-senador-1-outubro.ghtml"
         }
       ],
-      "updatedAt": "2026-10-01T14:56:24.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/XLxcz1UyKbUXmcv7b3G5oX6xC74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/M/KtLcBARgizAoYHZANpoA/260227-info-warner-paramount.jpg"
+      "updatedAt": "2026-10-01T20:36:14.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/senado-df-candidatas.jpeg"
     },
     {
-      "clusterId": "7c3999b4b8377bfc",
-      "slug": "3f12efd2c231cac9",
-      "titulo": "Produção de petróleo do Brasil bate recorde pelo 3º mês consecutivo em agosto",
-      "resumo": "Em agosto, a produção de petróleo brasileiro atingiu 4,615 milhões de barris por dia, superando o recorde anterior de 4,498 milhões de bpd registrado em julho. O aumento corresponde a 2,6% em relação a julho e 18,4% em relação ao mesmo mês do ano passado. A ANP apontou que o crescimento foi impulsionado principalmente pelos campos Búzios e Mero, na Bacia de Santos.",
-      "porQueImporta": "O crescimento contínuo da produção reforça a posição do Brasil como um dos maiores produtores de petróleo do mundo.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/producao-de-petroleo-do-brasil-bate-recorde-pelo-3o-mes-consecutivo-em-agosto/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/10/01/producao-de-petroleo-brasil.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/infra/producao-de-petroleo-do-brasil-bate-recorde-pelo-3o-mes-consecutivo/"
-        }
-      ],
-      "updatedAt": "2026-10-01T14:55:16.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/04/453226419-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "11bc9dc53acf9645",
-      "slug": "f1e43222fb0c3804",
-      "titulo": "Santos FC renova concessão do CT Rei Pelé por 40 anos",
-      "resumo": "O Santos Futebol Clube e o Governo Federal firmaram termo de conciliação para a cessão onerosa do terreno onde fica o CT Rei Pelé, em Santos, por 40 anos, com 20 anos de pagamento mensal e renovação automática pelos 20 anos seguintes. O clube deverá pagar mensalmente entre R$ 100.000 e R$ 145.167, valor que varia conforme as fontes. A área pertence à União e o acordo foi assinado no Palácio do Planalto. A assinatura do termo marca a continuidade do uso do CT pelo clube.",
-      "porQueImporta": "O contrato garante ao Santos o direito de uso do CT Rei Pelé por quatro décadas, assegurando estabilidade para suas atividades de treinamento.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-governo/lula-assina-acordo-e-santos-mantem-o-ct-rei-pele-por-20-anos/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/01/santos-fecha-acordo-com-governo-federal-e-deve-pagar-r-697-milhoes-para-manter-ct-rei-pele.ghtml"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/10/01/dirigentes-vao-a-brasilia-e-santos-renova-concessao-do-ct-rei-pele-por-mais-40-anos.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-01T14:48:32.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/-hHvLds4cjzyzYR8zngJD7W-Jkg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/l/9/az2KMzTByoeB7bxQkLPA/design-sem-nome-2025-07-25t161309.696.jpg"
-    },
-    {
-      "clusterId": "0ccecf5333e9df22",
-      "slug": "1614437b3ee00f8b",
-      "titulo": "Lynas compra projeto de terras raras em Minas Gerais por R$ 3,5 bi",
-      "resumo": "A empresa australiana Lynas Rare Earths concluiu a aquisição da Meteoric Resources, pagando cerca de R$ 3,5 bilhões em ações. A operação transfere o controle do projeto Caldeira, localizado em Minas Gerais, para a Lynas. O acordo depende de aprovação no Brasil e requer investimento adicional para o desenvolvimento da planta de refino. O projeto pode se tornar a maior unidade de separação de óxidos fora da China.",
-      "porQueImporta": "A compra fortalece a presença da Lynas no mercado global de terras raras e pode impulsionar a indústria brasileira de minerais críticos.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/economia/empresa-australiana-fecha-acordo-de-r-35-bi-por-projeto-de-terras-raras-em-mg/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/infra/lynas-planeja-planta-de-refino-de-terras-raras-em-mg-diz-ministro-a-cnn/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/10/01/lynas-terras-raras-minas-gerais.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-01T14:18:22.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/03/SI_485_Terras_raras.jpg"
-    },
-    {
-      "clusterId": "95a78dbae8b47304",
-      "slug": "0f81bf335621b01d",
-      "titulo": "Bolsonaro pede suspensão da pena e revisão criminal no STF",
-      "resumo": "A defesa de Jair Bolsonaro apresentou ao STF uma nova revisão criminal, solicitando a anulação da condenação de 27 anos e três meses pela trama golpista e a suspensão da execução da pena. O pedido cita um parecer técnico que aponta falhas na cadeia de custódia como prova nova. O ministro Kassio Nunes Marques já recebeu o pedido e deve relatar ao tribunal. A ação busca impedir a prisão de Bolsonaro enquanto a revisão é analisada.",
-      "porQueImporta": "A medida pode afetar a liberdade de Bolsonaro e a continuidade de seu processo judicial.",
+      "clusterId": "46309069ce28c2cc",
+      "slug": "19093710721a20d2",
+      "titulo": "Fachin rejeita pedido de afastamento de Dino de processos envolvendo Flávio Bolsonaro, Lula e eleições 2026",
+      "resumo": "O presidente do STF, Edson Fachin, negou o pedido da defesa de Flávio Bolsonaro de afastar o ministro Flávio Dino de processos relacionados ao senador, ao presidente Lula e às eleições de 2026. A decisão foi tomada em segredo de justiça e a íntegra não foi divulgada. A defesa alegou que a proximidade entre Dino e Lula comprometeria a imparcialidade do ministro.",
+      "porQueImporta": "A decisão afeta a percepção de imparcialidade do STF em casos de grande relevância política.",
       "category": "politica",
       "sources": [
         {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/fachin-rejeita-pedido-para-afastar-dino-de-processos-relacionados-a-flavio-lula-e-eleicoes-2026/"
+        },
+        {
           "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-justica/defesa-de-bolsonaro-pede-suspensao-da-condenacao-por-golpe/"
+          "url": "https://www.poder360.com.br/poder-justica/fachin-nega-pedido-do-pl-para-afastar-dino-de-acoes-eleitorais/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/10/01/defesa-de-bolsonaro-apresenta-nova-revisao-ao-stf-e-pede-suspensao-da-pena.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/defesa-de-bolsonaro-pede-anulacao-de-condenacao-relator-sera-kassio/"
+          "url": "https://g1.globo.com/politica/noticia/2026/10/01/fachin-rejeita-pedido-para-afastar-dino-de-processos-relacionados-a-flavio-lula-e-eleicoes-2026.ghtml"
         }
       ],
-      "updatedAt": "2026-10-01T13:11:22.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/RYgiOgj7p8h3Uzw-zpcqun1aj2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/N/E5A2pOSNmoQKmacsQNug/2.180802.jpg"
+      "updatedAt": "2026-10-01T20:35:52.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/09/edson-fachin-foto-gustavo-moreno-stf.jpg"
+    },
+    {
+      "clusterId": "26f9b9e38db6ecf3",
+      "slug": "1d2d0e980d4407cc",
+      "titulo": "Datafolha mostra Raquel Lyra com 46% no 1º turno e 50% no 2º turno em Pernambuco",
+      "resumo": "A pesquisa Datafolha, realizada entre 28 de setembro e 1º de outubro, indica que a governadora Raquel Lyra (PSD) tem 46% das intenções de voto no 1º turno, enquanto João Campos (PSB) tem 44%. No cenário do 2º turno, Lyra aparece com 50% das intenções e Campos com 46%, com margem de erro de três pontos percentuais. Além disso, 49% dos entrevistados avaliam a gestão de Lyra como positiva, 20% como negativa, 31% como regular e 1% não sabe.",
+      "porQueImporta": "Os resultados refletem a forte concorrência entre os candidatos e a percepção pública da gestão atual de Pernambuco.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-pe-raquel-lyra-tem-46-no-1o-turno-joao-campos-44/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/datafolha-raquel-lyra-marca-46-e-joao-campos-tem-44-no-1o-turno-em-pe"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/10/01/datafolha-pe-avaliacao-governadora-1-de-outubro.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-01T20:35:31.000Z",
+      "imageUrl": "https://images.metroimg.com/2025/09/29134406/img-4-2.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "43eb30f303328879",
-        "slug": "c565f0d8030dae37",
-        "titulo": "TSE mantém proibição de posts que associam Flávio Bolsonaro a suposto plano de retirar Nossa Senhora Aparecida como padroeira do Brasil",
-        "resumo": "O Tribunal Superior Eleitoral decidiu manter a remoção de publicações que vinculam o candidato Flávio Bolsonaro a um suposto movimento de retirar Nossa Senhora Aparecida do título de padroeira do Brasil. O ministro André Mendonça alterou seu voto, permitindo a liberação de um post do humorista Antonio Tabet, mas a maioria dos ministros manteve a proibição para as demais postagens. A decisão faz parte de um debate sobre a extensão da censura de conteúdo falso e a proteção da liberdade de expressão.",
-        "porQueImporta": "A medida reflete o equilíbrio entre combater desinformação e preservar direitos fundamentais no contexto eleitoral.",
+        "clusterId": "6a456c9cf2b4310b",
+        "slug": "99d804293f524437",
+        "titulo": "Datafolha mostra Cleitinho Azevedo liderando disputa pelo governo de Minas Gerais",
+        "resumo": "A pesquisa Datafolha, realizada entre 28 de setembro e 1º de outubro, indica que Cleitinho Azevedo lidera o primeiro turno com 40% a 49% dos votos válidos, enquanto Patrus Ananias obtém 16% a 24% e Alexandre Kalil 11% a 20%. Nos cenários de segundo turno, Cleitinho enfrenta Patrus com 60% a 24% e Kalil com 56% a 27%. A margem de erro da pesquisa é de três pontos percentuais.",
+        "porQueImporta": "Os resultados refletem a forte preferência dos eleitores mineiros por Cleitinho, influenciando as estratégias dos demais candidatos.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/minas-gerais/datafolha-em-mg-no-2o-turno-cleitinho-vence-patrus-ananias-por-60-a-24"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/cleitinho-tem-49-dos-votos-validos-na-disputa-pelo-governo-de-mg/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/datafolha-cleitinho-tem-49-dos-votos-validos-no-1o-turno-em-mg-patrus-20/"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/datafolha-mg-cleitinho-tem-40-e-lidera-disputa-patrus-tem-16-e-kalil-11/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-cleitinho-tem-40-para-o-governo-de-minas-gerais-patrus-16/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/01/datafolha-governo-mg-segundo-turno-01-outubro.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-01T20:46:00.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/08/candidatos-governo-de-minas-propaganda-3x2-1.jpg"
+      },
+      {
+        "clusterId": "74f7c1f76ef68eca",
+        "slug": "bb947e34336c786c",
+        "titulo": "Datafolha mostra Tarcísio de Freitas com 56% das intenções de voto no 1º turno",
+        "resumo": "A pesquisa Datafolha entrevistou 1.610 eleitores entre 28 e 30 de setembro e registrou 56% de intenções de voto para o governador Tarcísio de Freitas, contra 37% para Fernando Haddad, considerando apenas votos válidos. A margem de erro é de 2 pontos percentuais. Em paralelo, 47% dos paulistas avaliam a gestão de Tarcísio como positiva.",
+        "porQueImporta": "Os resultados indicam uma vantagem significativa de Tarcísio, influenciando as expectativas para o primeiro turno das eleições de 2026 em São Paulo.",
         "category": "politica",
         "sources": [
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/justica/dino-encerra-acao-no-stf-apos-tse-manter-no-ar-post-de-tabet-sobre-nossa-senhora/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/dino-declara-perda-de-objeto-no-stf-apos-tse-liberar-post-sobre-padroeira/"
+            "url": "https://www.cartacapital.com.br/politica/datafolha-tarcisio-tem-56-dos-votos-validos-no-1o-turno-haddad-37/"
           },
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/manoela-alcantara/dino-acao-dos-posts-de-nossa-senhora-fica-sem-objeto-com-decisao-do-tse"
+            "url": "https://www.metropoles.com/sao-paulo/datafolha-tarcisio-tem-56-e-haddad-37-governador-ganharia-em-1-turno"
           },
           {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/tarcisio-tem-56-contra-37-de-haddad-no-1o-turno-em-sp-diz-datafolha/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-tarcisio-tem-50-no-1o-turno-para-o-governo-de-sp-haddad-33/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/nova-pesquisa-datafolha-mostra-como-esta-disputa-entre-tarcisio-e-haddad-em-sp/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/09/30/apos-mendonca-mudar-voto-tse-decide-liberar-post-de-humorista-sobre-nossa-senhora-aparecida.ghtml"
+            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/01/datafolha-sp-avaliacao-governo-01-outubro.ghtml"
           }
         ],
-        "updatedAt": "2026-10-01T15:05:15.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/Flavio-Dino-foto-Alejandro-Zambrana-stf.jpg"
+        "updatedAt": "2026-10-01T20:24:04.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/09/Tarcisio-de-Freitas-e-Fernando-Haddad-candidatos-ao-governo-de-Sao-Paulo-Foto-1-Fabio-Rodrigues-PozzebomAgencia-Brasil-Foto-2-Jose-CruzAgencia-Brasil.png"
       },
       {
-        "clusterId": "95a78dbae8b47304",
-        "slug": "0f81bf335621b01d",
-        "titulo": "Bolsonaro pede suspensão da pena e revisão criminal no STF",
-        "resumo": "A defesa de Jair Bolsonaro apresentou ao STF uma nova revisão criminal, solicitando a anulação da condenação de 27 anos e três meses pela trama golpista e a suspensão da execução da pena. O pedido cita um parecer técnico que aponta falhas na cadeia de custódia como prova nova. O ministro Kassio Nunes Marques já recebeu o pedido e deve relatar ao tribunal. A ação busca impedir a prisão de Bolsonaro enquanto a revisão é analisada.",
-        "porQueImporta": "A medida pode afetar a liberdade de Bolsonaro e a continuidade de seu processo judicial.",
+        "clusterId": "74a0b9f6d62d9ca7",
+        "slug": "94fe0e35df180c4b",
+        "titulo": "Eduardo Paes lidera disputa pelo governo do Rio de Janeiro",
+        "resumo": "A pesquisa Datafolha, realizada entre 28 de setembro e 1º de outubro com 1.204 eleitores, mostra Eduardo Paes (PSD) com 42% das intenções de voto no primeiro turno, seguido por Douglas Ruas (PL) com 31%. No cenário de eventual segundo turno, Paes teria 52% das intenções, contra 38% de Ruas. A margem de erro da pesquisa é de três pontos percentuais.",
+        "porQueImporta": "Os resultados indicam a probabilidade de vitória de Paes no primeiro turno e a dinâmica de um possível segundo turno.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-justica/defesa-de-bolsonaro-pede-suspensao-da-condenacao-por-golpe/"
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/eduardo-paes-lidera-disputa-pelo-governo-do-rj-diz-datafolha/"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/10/01/defesa-de-bolsonaro-apresenta-nova-revisao-ao-stf-e-pede-suspensao-da-pena.ghtml"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/datafolha-a-disputa-pelo-governo-do-distrito-federal-a-tres-dias-da-eleicao/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/datafolha-paes-tem-42-em-1-turno-ao-governo-do-rio-ruas-soma-31"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/defesa-de-bolsonaro-pede-anulacao-de-condenacao-relator-sera-kassio/"
-          }
-        ],
-        "updatedAt": "2026-10-01T13:11:22.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/RYgiOgj7p8h3Uzw-zpcqun1aj2o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/N/E5A2pOSNmoQKmacsQNug/2.180802.jpg"
-      },
-      {
-        "clusterId": "00ff6c16e5c71e9f",
-        "slug": "a0af632e91733cc8",
-        "titulo": "Resumo das propostas dos candidatos à Presidência nas eleições de 2026",
-        "resumo": "Os 12 candidatos apresentam planos em oito áreas, incluindo economia, saúde, educação e tecnologia. Na saúde, 95 propostas foram avaliadas, sendo que mais da metade já existem no SUS. Em tecnologia, oito candidatos abordam IA e a nova economia digital. As propostas são analisadas pelo TSE e por pesquisas de opinião.",
-        "porQueImporta": "Esses dados ajudam os eleitores a comparar as plataformas dos candidatos e entender como suas políticas podem impactar áreas críticas do país.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cm2gryker9mo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/tecnologia/eleicoes-2026-resumo-das-propostas-dos-12-presidenciaveis-para-a-ia-e-tecnologia/"
+            "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-rj-paes-tem-42-das-intencoes-de-votos-no-1o-turno-ruas-31/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/mais-da-metade-das-propostas-dos-candidatos-a-presidencia-para-a-saude-ja-existem-no-sus-aponta-estudo.ghtml"
+            "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/01/datafolha-no-rj-governo-1-outubro.ghtml"
           }
         ],
-        "updatedAt": "2026-10-01T11:21:53.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5a81/live/3bb32a10-bd8a-11f1-babe-4199b0e7ccea.jpg"
+        "updatedAt": "2026-10-01T20:42:44.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/03/celina-leao.jpg"
       },
       {
-        "clusterId": "2ca00bb4449f2fbc",
-        "slug": "473562b1e89e64c6",
-        "titulo": "Debate presidencial da Globo acontece nesta quinta sem Lula",
-        "resumo": "A TV Globo transmitirá o último debate entre candidatos à Presidência das Eleições de 2026 na noite de quinta, 1º de outubro, às 21h20, após o Jornal Nacional. Os participantes confirmados são Flávio Bolsonaro (PL), Ronaldo Caiado (PSD), Augusto Cury (Avante) e Romeu Zema (Novo). O presidente Lula (PT), candidato à reeleição, informou que não participará do encontro. A programação inclui a divulgação de pesquisas eleitorais Datafolha antes do debate.",
-        "porQueImporta": "O debate marca a última oportunidade de confronto público entre os candidatos antes do primeiro turno das eleições.",
+        "clusterId": "46309069ce28c2cc",
+        "slug": "19093710721a20d2",
+        "titulo": "Fachin rejeita pedido de afastamento de Dino de processos envolvendo Flávio Bolsonaro, Lula e eleições 2026",
+        "resumo": "O presidente do STF, Edson Fachin, negou o pedido da defesa de Flávio Bolsonaro de afastar o ministro Flávio Dino de processos relacionados ao senador, ao presidente Lula e às eleições de 2026. A decisão foi tomada em segredo de justiça e a íntegra não foi divulgada. A defesa alegou que a proximidade entre Dino e Lula comprometeria a imparcialidade do ministro.",
+        "porQueImporta": "A decisão afeta a percepção de imparcialidade do STF em casos de grande relevância política.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/fachin-rejeita-pedido-para-afastar-dino-de-processos-relacionados-a-flavio-lula-e-eleicoes-2026/"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-justica/fachin-nega-pedido-do-pl-para-afastar-dino-de-acoes-eleitorais/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/10/01/fachin-rejeita-pedido-para-afastar-dino-de-processos-relacionados-a-flavio-lula-e-eleicoes-2026.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-01T20:35:52.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/09/edson-fachin-foto-gustavo-moreno-stf.jpg"
+      },
+      {
+        "clusterId": "34ba3edbb52f5042",
+        "slug": "30f85500dc6c1e67",
+        "titulo": "AGU solicita investigação sobre verba dos EUA destinada a extremismo de direita",
+        "resumo": "A Advocacia-Geral da União pediu que a Polícia Federal investigue a origem e o destino de US$ 1 milhão, supostamente destinado a um programa de extrema-direita no Brasil. A origem do dinheiro teria sido doações de um republicano americano, que teria transferido recursos originalmente destinados a direitos humanos para fins políticos no país. A investigação visa esclarecer se houve uso indevido de recursos federais e se há ligação com o ataque ao STF.",
+        "porQueImporta": "A investigação pode revelar interferência estrangeira em processos políticos internos e possíveis violações de leis de financiamento de campanhas.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-governo/agu-pede-investigacao-sobre-verba-dos-eua-a-extrema-direita/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/agu-pede-que-policia-federal-descubra-quem-recebeu-dinheiro-de-trump-para-atacar-o-stf/"
+          }
+        ],
+        "updatedAt": "2026-10-01T20:47:32.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2023/12/boneco-trump.jpg"
+      },
+      {
+        "clusterId": "8a95989a575c85a5",
+        "slug": "deb34c8f538a2e71",
+        "titulo": "Pesquisa Datafolha aponta empate quádruplo na corrida pelo Senado em São Paulo",
+        "resumo": "A pesquisa Datafolha, divulgada em 1º de maio, mostra que Marina Silva (Rede), Simonte Tebet (PSB), Guilherme Derlete (PP) e André do Prado (PL) estão empatados na margem de erro na disputa pelo Senado no maior colégio eleitoral do Brasil. O levantamento indica que os quatro candidatos têm chances semelhantes de serem eleitos. Em 2026, São Paulo elegirá dois senadores, exigindo que cada eleitor vote em dois candidatos diferentes.",
+        "porQueImporta": "O empate quádruplo destaca a competitividade e a imprevisibilidade da eleição senatorial em São Paulo.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/pesquisa-datafolha-mostra-empate-quadruplo-na-corrida-pelo-senado-no-maior-colegio-eleitoral-do-brasil/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/datafolha-mostra-empate-quadruplo-na-disputa-pelo-senado-em-sao-paulo/"
+          }
+        ],
+        "updatedAt": "2026-10-01T20:39:57.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/marina-tebet-andre-derrite.jpg"
+      },
+      {
+        "clusterId": "8f04fc46945e2228",
+        "slug": "8d2cf2c02abaccba",
+        "titulo": "Imprensa internacional destaca disputa acirrada entre Lula e Flávio Bolsonaro",
+        "resumo": "Jornais dos EUA e da Europa dedicam cobertura ampla à eleição presidencial brasileira, enfatizando a competição entre Lula e Flávio Bolsonaro, o cenário econômico do país e a possível influência de Donald Trump. O New York Times reservou página inteira à eleição, enquanto o presidente dos EUA afirmou estar acompanhando de perto o pleito. A imprensa internacional alerta para riscos à democracia, à economia e ao clima decorrentes do resultado.",
+        "porQueImporta": "A atenção internacional reflete preocupações sobre a estabilidade política e econômica do Brasil.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/nepobaby-vingativo-e-esquerdista-decrepito-o-que-jornais-la-fora-falam-sobre-eleicao-no-brasil/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/01/fator-trump-risco-a-democracia-e-costas-para-o-futuro-como-jornais-internacionais-destacam-a-eleicao-no-brasil.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-01T20:15:51.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/lula-flavio.jpg"
+      },
+      {
+        "clusterId": "c798b8fc1e9d4816",
+        "slug": "fbf8494d1a237328",
+        "titulo": "Debate presidencial da Globo 2026 acontece nesta quinta sem Lula",
+        "resumo": "O debate será transmitido pela TV Globo, direto dos Estúdios Globo, às 21h20, três dias antes do primeiro turno das eleições de 2026. O encontro será mediado por César Tralli e contará com a participação de Flávio Bolsonaro, Ronaldo Caiado, Augusto Cury e Romeu Zema. O presidente Lula, candidato à reeleição pelo PT, informou que não participará.",
+        "porQueImporta": "É o último debate televisado antes do primeiro turno, influenciando a percepção dos eleitores.",
         "category": "politica",
         "sources": [
           {
@@ -358,101 +482,45 @@
             "url": "https://www.bbc.com/portuguese/articles/cm0rekknz957o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/agenda-dos-candidatos-tem-lula-no-flow-e-adversarios-no-debate-da-globo/"
-          },
-          {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/datafolha-divulga-quinta-1o-de-outubro.ghtml"
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/debate-presidencial-da-globo-onde-assistir-e-qual-o-horario.ghtml"
           }
         ],
-        "updatedAt": "2026-10-01T11:19:39.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1838/live/46de37c0-bd14-11f1-babe-4199b0e7ccea.jpg"
-      },
-      {
-        "clusterId": "f292b77f4e9f5892",
-        "slug": "25b28e964f209d5b",
-        "titulo": "Lula e Flávio Bolsonaro visitam Rio de Janeiro e São Paulo antes do 1º turno",
-        "resumo": "O presidente Lula e o candidato Flávio Bolsonaro marcaram visitas ao Rio de Janeiro na sexta-feira e a São Paulo na sábado, antes da votação do primeiro turno. Ambos os candidatos escolheram São Paulo, o maior colégio eleitoral do país, como palco final de suas campanhas. As visitas visam ampliar a votação em regiões decisivas do Sudeste. Lula também criticou Flávio em entrevista, alegando falta de biografia e ligação com crime organizado.",
-        "porQueImporta": "A presença dos candidatos em estados com grande número de eleitores pode influenciar decisivamente o resultado do primeiro turno.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/de-olho-no-eleitor-do-sudeste-lula-e-flavio-visitam-mesmos-estados-na-reta-final-da-campanha/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/01/lula-e-flavio-bolsonaro-ultimo-ato-de-campanha.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-01T15:05:20.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/lula-flavio_1b4ea7.jpg"
-      },
-      {
-        "clusterId": "58faed8ebed7ddcd",
-        "slug": "e42f954318cb3089",
-        "titulo": "Eleitor pode levar colinha de papel, mas celular não entra na cabine",
-        "resumo": "Os eleitores de 2026 podem usar uma colinha de papel para registrar os números dos candidatos, mas não podem levar celulares à urna. A colinha deve conter os votos para presidente, governador, dois senadores, deputado federal e deputado estadual ou distrital. A ordem de votação na urna segue: deputado federal, deputado estadual/distrital, primeiro senador, segundo senador, presidente e governador. A colinha pode ser baixada e impressa antes do dia da votação.",
-        "porQueImporta": "Garantir que os eleitores saibam o que pode e não pode levar à urna ajuda a evitar irregularidades e a assegurar a lisura do processo eleitoral.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/eleicoes-2026-veja-o-que-e-permitido-e-proibido-no-dia-da-votacao/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/cola-eleitoral-veja-a-ordem-de-votacao-na-urna-e-baixe-a-colinha-para-levar-no-domingo-4.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-01T14:30:48.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/09/Eleições-Clima-Fotos-Arquivo-TSE00006.jpg"
-      },
-      {
-        "clusterId": "e0c5257faf4fe517",
-        "slug": "32f676c8da3efda4",
-        "titulo": "Horário eleitoral gratuito do 1º turno das Eleições 2026 termina nesta quinta",
-        "resumo": "O período de propaganda eleitoral gratuita no rádio e na televisão, que começou em 28 de agosto, encerra hoje, quinta-feira, 1º de outubro. O encerramento ocorre três dias antes do primeiro turno, que está marcado para domingo, 4 de outubro. Durante o período, candidatos aos cargos em disputa tiveram espaço reservado para apresentar suas campanhas.",
-        "porQueImporta": "O fim do horário eleitoral gratuito define o limite de tempo para que os candidatos transmitam suas mensagens sem custo ao eleitorado.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-horario-eleitoral-do-1o-turno-termina-nesta-quinta/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/horario-eleitoral-do-1oturno-das-eleicoes-2026-termina-hoje-entenda.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-01T14:11:31.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/IE5MoXQNimdOwODRvh2FAzP1xpc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/y/pYHVzkTjK0CyGMp2UhGQ/montagem-horizontal-1280x720px-8-.jpg"
-      },
-      {
-        "clusterId": "2418512da6d139ac",
-        "slug": "1353f9461bb30e3f",
-        "titulo": "Estudo aponta 95% de chance de segundo turno entre Lula e Flávio Bolsonaro",
-        "resumo": "O analista Bruno Soller, da Real Time Big Data, estima que há 95% de probabilidade de Lula e Flávio Bolsonaro avançarem para o segundo turno das eleições presidenciais. O instituto registrou 46% dos votos válidos para Lula e 41% para Flávio Bolsonaro em pesquisa com 2.000 eleitores entre 26 e 30 de setembro.",
-        "porQueImporta": "A alta probabilidade de segundo turno indica um cenário de disputa acirrada entre os dois candidatos.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/disputa-presidencial-tem-grandes-chances-de-2-turno-avalia-especialista/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/real-time-big-data-lula-tem-46-dos-votos-validos-no-1o-turno-flavio-bolsonaro-41/"
-          }
-        ],
-        "updatedAt": "2026-10-01T12:25:20.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/09/55507130775_995883fcd2_o.jpg"
+        "updatedAt": "2026-10-01T18:30:38.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/33db/live/1ba330d0-bdc6-11f1-a360-b3835f135e15.jpg"
       }
     ],
     "economia": [
       {
-        "clusterId": "145f9954ccfb7b6f",
+        "clusterId": "80752b30dd197156",
+        "slug": "353611cc8ed96a4f",
+        "titulo": "Datafolha mostra Celina Leão liderando disputa pelo governo do DF",
+        "resumo": "A pesquisa Datafolha, realizada entre 28 de setembro e 1º de outubro com 910 eleitores, indica que Celina Leão (PP) lidera as intenções de voto, com valores entre 46% e 55% dependendo do cenário analisado. Leandro Grass (PT) aparece em segundo lugar, variando de 22% a 32%. Paula Belmonte (PSDB) registra cerca de 9% das intenções de voto. A margem de erro da pesquisa é de 3 pontos percentuais.",
+        "porQueImporta": "Os resultados refletem a forte posição de Celina Leão na corrida pelo reeleição, influenciando estratégias dos demais candidatos.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/datafolha-celina-tem-55-no-2o-turno-pelo-governo-do-df-grass-22/"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/datafolha-celina-leao-tem-53-dos-votos-validos-no-df-grass-soma-26/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/colunas/grande-angular/datafolha-celina-tem-46-grass-soma-22-e-paula-chega-a-9"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/01/datafolha-df-avaliacao-governo-celina-1-outubro.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-01T20:35:28.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/09/Eleicao-pelo-governo-do-Rio-tem-corrida-por-apoio-evangelico.png?fit=300%2C150&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "8e076cbb6d514a95",
         "slug": "b886ef30f4503f07",
         "titulo": "Ibovespa abre em alta enquanto investidores acompanham pesquisas eleitorais e cenário externo",
         "resumo": "O Ibovespa iniciou o pregão em alta, registrando ganhos de 0,42% no início do dia, impulsionado pela expectativa de novas pesquisas eleitorais e pelo cenário internacional. O dólar também subiu, cotado em torno de R$5,19, refletindo a volatilidade nos preços do petróleo e as tensões no Oriente Médio. Investidores observaram sinais de juros nos Estados Unidos, especialmente após a divulgação do PCE, indicador de inflação que influencia as decisões do Fed. A atenção ao contexto político brasileiro e às contas públicas também influenciou o desempenho do mercado.",
@@ -460,212 +528,155 @@
         "category": "economia",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/economia/ibovespa-abre-em-alta-com-eleicoes-e-cenario-externo-no-radar/"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-economia/dolar-sobe-089-e-fecha-a-r-5220-ibovespa-tambem-teve-alta/"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-1-outubro-2026/"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-01102026/"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/economia/noticia/2026/10/01/dolar-ibovespa.ghtml"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/invest/mercados/ibovespa-ibov-hoje-01-10-2026/"
           }
         ],
-        "updatedAt": "2026-10-01T14:30:56.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/11/GettyImages-1236444882-e1764968991535.jpg"
+        "updatedAt": "2026-10-01T20:40:29.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-18-125421.png?fit=300%2C201&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "fedf65d61ad94835",
-        "slug": "9a5de02063e0ceb5",
-        "titulo": "Petrobras aumenta preço do querosene de aviação em outubro",
-        "resumo": "A partir de 1º de outubro, a Petrobras elevou os preços de venda do querosene de aviação (QAV) para as distribuidoras. O reajuste variou entre 11,6% e 12% nas principais bases de distribuição, como Guarulhos, Duque de Caxias e Betim. O ajuste faz parte da política mensal de revisão de preços da companhia.",
-        "porQueImporta": "O aumento impacta diretamente os custos operacionais das companhias aéreas e pode influenciar o preço das passagens.",
+        "clusterId": "746458a381006b88",
+        "slug": "17990b8220a3cf19",
+        "titulo": "Ibovespa volta a subir após dia volátil, impulsionado por Petrobras e Vale",
+        "resumo": "O índice Ibovespa encerrou o dia em alta, atingindo cerca de 187 mil pontos, impulsionado principalmente pelos ganhos das ações da Petrobras e da Vale. O mercado brasileiro se beneficiou de um cenário de alta nos preços do petróleo, que ultrapassou US$ 100, e de um dólar que disparou para R$ 5,22. Investidores observaram o dia como um termômetro para a eleição presidencial, aguardando o resultado do primeiro turno no domingo. Apesar da volatilidade, os índices dos EUA fecharam com ganhos, reforçando a confiança no mercado global.",
+        "porQueImporta": "A performance do Ibovespa reflete a reação do mercado brasileiro a fatores externos e internos, influenciando decisões de investimento e expectativas eleitorais.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/petrobras-eleva-preco-do-querosene-de-aviacao-em-outubro/"
+            "url": "https://www.infomoney.com.br/mercados/ibovespa-fecha-em-alta-com-petrobras-apos-dia-volatil-investidor-aguarda-eleicao/"
           },
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/economia/querosene-de-aviacao-sobe-ate-12-e-mantem-pressao-sobre-custos-das-aereas/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/10/01/petrobras-querosene.ghtml"
+            "name": "Exame",
+            "url": "https://exame.com/invest/mercados/ibovespa-ibov-fechamento-01-10-2026/"
           }
         ],
-        "updatedAt": "2026-10-01T14:59:10.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/FPSO-P-67_Credito_Andre-Motta-de-Souza_Agencia-Petrobras.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-10-01T20:41:42.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2021/11/DSC_2801.jpg?fit=300%2C163&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "7c3999b4b8377bfc",
-        "slug": "3f12efd2c231cac9",
-        "titulo": "Produção de petróleo do Brasil bate recorde pelo 3º mês consecutivo em agosto",
-        "resumo": "Em agosto, a produção de petróleo brasileiro atingiu 4,615 milhões de barris por dia, superando o recorde anterior de 4,498 milhões de bpd registrado em julho. O aumento corresponde a 2,6% em relação a julho e 18,4% em relação ao mesmo mês do ano passado. A ANP apontou que o crescimento foi impulsionado principalmente pelos campos Búzios e Mero, na Bacia de Santos.",
-        "porQueImporta": "O crescimento contínuo da produção reforça a posição do Brasil como um dos maiores produtores de petróleo do mundo.",
+        "clusterId": "0f00372ba37f3a7a",
+        "slug": "7fbd892e265b0b08",
+        "titulo": "Bitcoin sobe para US$ 84 mil e Citi aumenta projeção",
+        "resumo": "O Bitcoin registrou alta de 1,04%, atingindo US$ 84.748,01 na Binance. O banco Citi revisou a previsão de preço do BTC, elevando-a em 38% após a recente valorização. A atualização reflete expectativa de fluxo de capital para ETFs de Bitcoin e Ether.",
+        "porQueImporta": "A valorização e as projeções mais altas podem influenciar decisões de investimento e a adoção institucional de criptomoedas.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-opera-em-alta-e-atinge-us-84-mil/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/future-of-money/citi-eleva-previsao-do-preco-do-bitcoin-em-38-apos-alta-recente/"
+          }
+        ],
+        "updatedAt": "2026-10-01T20:28:46.000Z"
+      },
+      {
+        "clusterId": "78e939bb6dfc3e2e",
+        "slug": "668910994d9a5e63",
+        "titulo": "Camisa de Michael Jordan das finais da NBA de 1998 é vendida por R$ 70 milhões",
+        "resumo": "A camisa usada por Michael Jordan no terceiro jogo das finais da NBA de 1998 foi leiloada e arrematada por R$ 70 milhões, estabelecendo um novo recorde de preço para um artigo esportivo do ex-jogador. O valor ultrapassou a marca anterior de outro manto de Jordan de 1998 vendido em 2022. A venda confirma a alta demanda e o valor histórico dos itens de Jordan no mercado de colecionáveis esportivos.",
+        "porQueImporta": "O recorde demonstra o impacto duradouro de Jordan no esporte e no mercado de memorabilia.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/basquete/camisa-historica-do-ultimo-titulo-de-jordan-e-leiloada-por-valor-recorde/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/esporte/camisa-de-michael-jordan-das-finais-da-nba-de-1998-e-vendida-por-r-70-milhoes/"
+          }
+        ],
+        "updatedAt": "2026-10-01T19:39:57.000Z"
+      },
+      {
+        "clusterId": "d57b6093c0a8fbaa",
+        "slug": "44ca5839b3149f8a",
+        "titulo": "Bolsas de NY sobem com alívio em juros dos Treasuries, mas são limitadas por petróleo",
+        "resumo": "O índice Dow Jones subiu 0,04%, aos 50.927,33 pontos. O S&P 500 avançou 0,2%, a 7.666,65 pontos e o Nasdaq teve alta de 0,04%, encerrando em 26.871,60 pontos The post Bolsas de NY sobem com alívio em juros dos Treasuries, mas são limitadas por petróleo appeared first on InfoMoney.",
+        "porQueImporta": "",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/producao-de-petroleo-do-brasil-bate-recorde-pelo-3o-mes-consecutivo-em-agosto/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/10/01/producao-de-petroleo-brasil.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/infra/producao-de-petroleo-do-brasil-bate-recorde-pelo-3o-mes-consecutivo/"
+            "url": "https://www.infomoney.com.br/mercados/bolsas-de-ny-sobem-com-alivio-em-juros-dos-treasuries-mas-sao-limitadas-por-petroleo/"
           }
         ],
-        "updatedAt": "2026-10-01T14:55:16.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/04/453226419-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-10-01T20:49:11.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/02/2026-02-17T175434Z_1885400349_RC20BDASG5F7_RTRMADP_3_LIFTOFF-MOBILE-IPO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "0ccecf5333e9df22",
-        "slug": "1614437b3ee00f8b",
-        "titulo": "Lynas compra projeto de terras raras em Minas Gerais por R$ 3,5 bi",
-        "resumo": "A empresa australiana Lynas Rare Earths concluiu a aquisição da Meteoric Resources, pagando cerca de R$ 3,5 bilhões em ações. A operação transfere o controle do projeto Caldeira, localizado em Minas Gerais, para a Lynas. O acordo depende de aprovação no Brasil e requer investimento adicional para o desenvolvimento da planta de refino. O projeto pode se tornar a maior unidade de separação de óxidos fora da China.",
-        "porQueImporta": "A compra fortalece a presença da Lynas no mercado global de terras raras e pode impulsionar a indústria brasileira de minerais críticos.",
+        "clusterId": "fb77176a1704bb51",
+        "slug": "3340266d1d66d0d8",
+        "titulo": "STJ autoriza penhora de salário para pagamento de dívidas",
+        "resumo": "O Superior Tribunal de Justiça aprovou a possibilidade de penhora de salário quando não houver outros meios de execução. A medida pode ser aplicada a qualquer faixa salarial, desde que respeitados os limites legais. O desconto não pode ultrapassar 30% do salário líquido do devedor. A decisão visa garantir a efetividade das cobranças e evitar a inadimplência.",
+        "porQueImporta": "Permite que credores recuperem dívidas de forma mais eficaz, protegendo seus interesses financeiros.",
         "category": "economia",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/economia/empresa-australiana-fecha-acordo-de-r-35-bi-por-projeto-de-terras-raras-em-mg/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/infra/lynas-planeja-planta-de-refino-de-terras-raras-em-mg-diz-ministro-a-cnn/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/10/01/lynas-terras-raras-minas-gerais.ghtml"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/minhas-financas/stj-permite-penhora-de-salario-para-pagar-dividas-entenda-as-regras/"
           }
         ],
-        "updatedAt": "2026-10-01T14:18:22.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/03/SI_485_Terras_raras.jpg"
+        "updatedAt": "2026-10-01T20:49:09.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/03/stj.png?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "cd3fcc594efcc3e8",
-        "slug": "e05dd8bab4351fce",
-        "titulo": "Bill Gates alerta para riscos da IA e impacto no emprego no Brasil",
-        "resumo": "Bill Gates afirma que a inteligência artificial já pode causar mortes em massa e comprometer contas bancárias, destacando a necessidade de regulação e tributação das atividades dessas tecnologias. Ele observa que a falta de normas pode levar a consequências graves. No contexto brasileiro, Gates diferencia as economias de renda média das mais pobres, apontando que a IA pode afetar empregos e o acesso a serviços de forma desigual.",
-        "porQueImporta": "A declaração ressalta a urgência de políticas públicas que regulem a IA e protejam empregos e serviços essenciais no Brasil.",
+        "clusterId": "295ccf09b8ba63d6",
+        "slug": "b61bdb7e1640ae01",
+        "titulo": "GM perde espaço para Toyota nos EUA à medida que preços altos remodelam mercado",
+        "resumo": "Nos Estados Unidos, a General Motors tem perdido participação de mercado para a Toyota, enquanto a demanda por híbridos e modelos mais acessíveis cresce. O aumento nos preços dos veículos e dos combustíveis tem favorecido montadoras como Toyota, Hyundai e Honda. A GM enfrenta desafios para manter sua presença em um cenário de preços elevados.",
+        "porQueImporta": "Reflete a mudança de preferência dos consumidores e a pressão competitiva no setor automotivo americano.",
         "category": "economia",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/economia/ia-ja-e-capaz-de-matar-milhoes-de-pessoas-e-invadir-contas-bancarias-diz-bill-gates/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/inteligencia-artificial/como-a-ia-afetara-o-brasil-o-alerta-de-bill-gates-para-os-empregos-no-pais/"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/business/gm-perde-espaco-para-a-toyota-nos-eua-a-medida-que-precos-altos-remodelam-mercado/"
           }
         ],
-        "updatedAt": "2026-10-01T14:09:51.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/02/gettyimages-2174266986-594x594-1.jpg"
-      },
-      {
-        "clusterId": "aa934a0926fa597b",
-        "slug": "7127af8f4e5f0508",
-        "titulo": "Calendário de pagamentos do INSS em outubro de 2026",
-        "resumo": "O pagamento dos benefícios do INSS em outubro de 2026 começa em 26 de outubro para quem recebe até um salário mínimo e vai até 9 de novembro, seguindo a ordem dos números finais do benefício. Para quem recebe acima do salário mínimo, os depósitos iniciam em 3 de novembro e terminam no mesmo dia 9. O calendário anual foi divulgado pelo INSS e segue a mesma lógica de distribuição de pagamentos.",
-        "porQueImporta": "Essas datas são importantes para os beneficiários planejarem suas finanças e saberem quando receberão os valores.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/inss-confira-calendario-de-datas-dos-pagamentos-de-outubro/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/10/01/pagamento-do-inss-de-outubro-veja-calendario-e-datas.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-01T14:01:19.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/qUQAJZQdnQK65ZMxiOBcksrSjTc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/e/vxQIkUTNeJuZOa5471NA/58685ddf-9bca-46e3-9b3f-2e2fd43fa298.jpg"
-      },
-      {
-        "clusterId": "8ecc8b5bea52b867",
-        "slug": "e4427903a4850ca4",
-        "titulo": "Enquete mostra vantagem de Adryana, Daniel e Maíra na Roça de 'A Fazenda 18'",
-        "resumo": "A votação parcial revelou que Adryana Ribeiro, Daniel Erthal e Maíra Charken têm a maior probabilidade de permanecer na Roça. O resultado foi divulgado após a definição da Roça da semana, quando Serginho venceu a Prova do Fazendeiro. Os três concorrentes continuam em disputa para evitar a eliminação na próxima quinta-feira.",
-        "porQueImporta": "O resultado indica quem tem maior chance de continuar no reality, influenciando a dinâmica e a estratégia dos demais participantes.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/realities/a-fazenda-18-parcial-da-enquete-mostra-vantagem-impressionante-na-roca/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/pop/adryana-daniel-ou-maira-enquete-mostra-quem-sera-eliminado-de-a-fazenda-18-nesta-quinta/"
-          }
-        ],
-        "updatedAt": "2026-10-01T14:00:22.000Z"
-      },
-      {
-        "clusterId": "de41ee9b5d183749",
-        "slug": "84b2ae4914f2369c",
-        "titulo": "Bolsa Família de outubro já tem pagamento marcado",
-        "resumo": "O governo federal aumentou 15% o valor do Bolsa Família, elevando o piso de R$ 600 para R$ 691 e ampliando benefícios complementares. A Caixa Econômica Federal iniciará os pagamentos em outubro no dia 19, começando pelos beneficiários com NIS final 1. O reajuste foi anunciado em 17 de setembro, 17 dias antes das eleições.",
-        "porQueImporta": "O aumento garante maior poder de compra às famílias beneficiadas e reforça o apoio social antes das eleições.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/bolsa-familia-de-outubro-ja-tem-pagamento-marcado-veja-datas/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/10/01/bolsa-familia-2026-veja-calendario-de-pagamentos-em-outubro.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-01T13:14:23.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/PO0iKlR8KpT1zOOYPg35i2nBfHQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/X/p/m9WC1JRNGCSTELVKKrBA/fta20240801129.jpg"
+        "updatedAt": "2026-10-01T20:37:55.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/469642480.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "cefd300fe6b4f725",
-        "slug": "b68119d622ec24fd",
-        "titulo": "Christa Pike sobrevive à execução com injeção letal no Tennessee",
-        "resumo": "Christa Pike, condenada à pena de morte em 1996 por assassinato de colega em 1995, sobreviveu à execução realizada em 30 de outubro de 2023 após a administração de duas doses de pentobarbital. O procedimento falhou, exigindo intervenção médica para estabilizá‑la. Se concluída, teria sido a primeira mulher executada no Tennessee em mais de 200 anos.",
-        "porQueImporta": "O caso destaca falhas no processo de execução e levanta questões sobre a aplicação da pena de morte nos Estados Unidos.",
+        "clusterId": "746bbd3fdb77a383",
+        "slug": "dc3114c3188692ab",
+        "titulo": "Trump declara que acompanha eleições brasileiras de perto",
+        "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou que está acompanhando as eleições presidenciais no Brasil de \"muito de perto\" e que o pleito é \"muito importante\". Ele ressaltou a importância do país e elogiou o povo brasileiro, mas não indicou apoio a nenhum candidato. A declaração foi feita na Casa Branca antes da viagem ao Brasil.",
+        "porQueImporta": "A observação de um líder mundial sobre o processo eleitoral brasileiro pode influenciar a percepção internacional sobre a democracia do país.",
         "category": "mundo",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/entretenimento/christa-pike-serie-resgata-crime-de-mulher-que-sobreviveu-a-injecao-letal"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/o-que-tem-na-injecao-letal-que-mulher-que-seria-executada-nos-eua-tomou-e-sobreviveu/"
-          },
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/01/medicina-e-saude/execucao-com-injecao-letal-falha-apos-duas-doses-de-droga-nos-eua/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/01/video-mostra-christa-pike-durante-julgamento-que-a-condenou-a-morte-em-1996.ghtml"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-internacional/trump-diz-que-acompanha-as-eleicoes-do-brasil-bem-de-perto/"
           },
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cwdr78jg54jlo?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/articles/cwm2q2yd1jp8o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/01/trump-diz-que-esta-acompanhando-de-perto-eleicoes-do-brasil.ghtml"
           }
         ],
-        "updatedAt": "2026-10-01T15:00:47.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/09/1788184750914.jpg"
+        "updatedAt": "2026-10-01T19:42:58.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6b65/live/c118fa90-bdc6-11f1-babe-4199b0e7ccea.jpg"
       },
       {
-        "clusterId": "1fbc36911419a8bf",
+        "clusterId": "7016cda9c72ca7f5",
         "slug": "e9d374c8e474f9b6",
         "titulo": "Execução de mulher no Tennessee é suspensa antes de ocorrer",
         "resumo": "A execução de Christa Gail Pike, condenada por assassinato, foi suspensa cerca de uma hora antes do horário previsto, após pedido de mais tempo da Justiça para analisar alegações de abuso sexual e estupro na infância. O tribunal federal de apelações vai revisar essas alegações. A decisão mantém a execução em espera, enquanto o caso continua em análise.",
@@ -673,95 +684,19 @@
         "category": "mundo",
         "sources": [
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/onu-pede-ao-tennessee-para-nao-repetir-tentativa-de-execucao-apos-mulher-sobreviver-a-injecao/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/viralizou/mae-de-vitima-encarou-christa-pike-durante-tentativa-de-execucao"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/01/christa-pike-estava-ofegante-apos-tentativa-fracassada-de-execucao-no-tennessee-diz-testemunha.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/01/condenados-que-escaparam-da-injecao-letal-relembre-casos.ghtml"
           }
         ],
-        "updatedAt": "2026-10-01T14:56:23.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/09/EUA2.jpg"
+        "updatedAt": "2026-10-01T20:44:51.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/09/1788184750914.jpg"
       },
       {
-        "clusterId": "fd5357084218a0f3",
-        "slug": "7a41e5f2409db453",
-        "titulo": "Copiloto da FlyDubai esfaqueia piloto e tenta derrubar avião",
-        "resumo": "Um copiloto da FlyDubai esfaqueou o comandante durante um voo para Israel e tentou assumir o controle do avião. O incidente ocorreu na quarta-feira e o avião foi mantido em segurança. O primeiro-ministro de Israel, Benjamin Netanyahu, afirmou que o copiloto passou por um processo de radicalização islâmica. As autoridades israelenses estão investigando o caso.",
-        "porQueImporta": "O episódio destaca riscos de segurança em voos internacionais e a necessidade de monitoramento de ameaças internas.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/netanyahu-diz-que-copiloto-passou-por-doutrinacao-radical-islamica/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/01/copiloto-que-tentou-derrubar-aviao-da-flydubai-fez-processo-de-radicalizacao-islamica-diz-netanyahu.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-01T13:53:23.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/tZ9BakkjBv8UNhE2-7qCeqrdAXE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/V/0yfebyRpKMzwBWRv7AfA/2026-09-30t153849z-1608112834-rc2rtna5arxa-rtrmadp-3-israel-gulf-flight.jpg"
-      },
-      {
-        "clusterId": "62a150c7476bd4ef",
-        "slug": "cf00ba4e82bc12ea",
-        "titulo": "Pesquisas eleitorais mostram Lula com 41% e Flávio Bolsonaro com 38% nas intenções de voto para 2026",
-        "resumo": "As pesquisas agregadas pela BBC News Brasil indicam que Lula lidera com 41% das intenções de voto, enquanto Flávio Bolsonaro tem 38%. A disputa permanece próxima, com pequenas variações entre as sondagens. As últimas pesquisas são divulgadas antes do primeiro turno, que ocorrerá em 4 de outubro de 2026. A metodologia e limitações das pesquisas são discutidas pela BBC para contextualizar os resultados.",
-        "porQueImporta": "Esses dados ajudam a entender a dinâmica da corrida presidencial e a expectativa de votos antes da eleição.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cj3v4g4kze7lo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/pesquisas-presidente-primeiro-turno-quaest-datafolha.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-01T12:56:45.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cee5/live/46118cf0-bd98-11f1-babe-4199b0e7ccea.png"
-      },
-      {
-        "clusterId": "1e4e06e56d38f882",
-        "slug": "a75f090f037fee8f",
-        "titulo": "Piloto indiano esfaqueado em voo da FlyDubai para Israel",
-        "resumo": "O piloto Smit Machchhar, com quase 10 mil horas de voo, foi esfaqueado pelo copiloto durante o voo para Israel. Apesar das feridas graves, ele conseguiu abrir a porta da cabine, permitindo que a tripulação intercedesse e salvasse o voo. O incidente ocorreu em um voo da FlyDubai.",
-        "porQueImporta": "Ilustra a ameaça crescente à segurança aérea e a importância da prontidão da tripulação em situações de emergência.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c6dj4j9v4907o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/09/30/quem-e-o-piloto-esfaqueado-durante-atentado-em-voo-para-israel.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-01T09:50:32.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0723/live/4b013da0-bd4d-11f1-a52c-0511052dc036.jpg"
-      },
-      {
-        "clusterId": "2ad201932b9a7a55",
-        "slug": "12fc505b6bbb980c",
-        "titulo": "Suprema Corte dos EUA analisa detenção de imigrantes e permite deportações sem vínculo com país de origem",
-        "resumo": "A Suprema Corte dos Estados Unidos decidiu analisar se o governo Trump pode continuar detendo imigrantes em situação irregular. Ao mesmo tempo, a Corte autorizou o retorno das deportações para países diferentes do país de origem dos migrantes, sem exigir que eles apresentem riscos antes da transferência. A decisão suspende uma ordem de um juiz federal que havia impedido essas deportações.",
-        "porQueImporta": "Essas decisões afetam diretamente os direitos e a segurança de imigrantes e podem influenciar políticas migratórias nos EUA.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/01/suprema-corte-dos-eua-vai-decidir-se-prisoes-de-imigrantes-no-governo-trump-sao-ilegais.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-01T13:43:18.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/qIE22381ly-RhldldLsJAS3K6bk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/G/jIBumrQPqYlzxOBIws1w/f9ea44e0-3f41-11f1-bd52-e755d604ece4.jpg.webp"
-      },
-      {
-        "clusterId": "1928e17cc2c272eb",
+        "clusterId": "b2fdb07aa9a0171b",
         "slug": "467db179e4ff078b",
         "titulo": "Incidente em voo da FlyDubai com destino a Israel",
         "resumo": "Em 30 de setembro, o copiloto de um Boeing 737 da FlyDubai esfaqueou o piloto e tentou derrubar a aeronave, que perdeu o controle e despencou mais de 4 mil metros antes de ser desviado para a Arábia Saudita. Passageiros e dois pilotos de reserva conseguiram estabilizar a aeronave e realizar um pouso de emergência, sem feridos. O governo de Israel classifica o ataque como tentativa de terrorismo, enquanto os Emirados Árabes Unidos abriram investigação. O presidente de Israel, Isaac Herzog, planeja conceder prêmios de heroísmo a cinco passageiros que impediram a queda.",
@@ -769,287 +704,404 @@
         "category": "mundo",
         "sources": [
           {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/video-piloto-do-voo-flydubai-para-israel-e-retirado-apos-esfaqueamento/"
+          },
+          {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/01/israel-quer-condecorar-passageiros-que-evitaram-tragedia-em-voo-da-flydubai.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/01/video-simulacao-mostra-como-aviao-alvo-de-ataque-despencou-no-ar-perto-de-israel.ghtml"
           }
         ],
-        "updatedAt": "2026-10-01T13:35:56.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/SJtVkRNRlNkQ1ClqiXJt9arjAYU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/I/StiGliSx6KPXwmNfSDTg/2026-09-30t170213z-2-lop659230092026rp1-rtrmadp-baseimage-960x540-israel-gulf-flight-netanyahu-airport.jpg"
+        "updatedAt": "2026-10-01T20:31:17.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/LbSF32pPoA6m9bbNhfqz-4O-H5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/Q/XNwNHhRnqsjeUbCvEaBw/2026-09-30t153917z-408196494-rc2rtna8208m-rtrmadp-3-israel-gulf-flight.jpg"
       },
       {
-        "clusterId": "7e1d1c189925657e",
-        "slug": "4027f742ecf10f2c",
-        "titulo": "Incidente de esfaqueamento em voo gera debate político em Israel",
-        "resumo": "Um passageiro foi esfaqueado a bordo de um voo entre Dubai e Tel Aviv, mas o incidente foi evitado graças a passageiros que intervieram. O governo de Netanyahu investigou o caso como possível ato terrorista, enquanto opositores criticam a retórica do primeiro-ministro. A discussão se intensifica à medida que as eleições se aproximam, com o líder da oposição questionando a veracidade da ameaça. O episódio destaca a tensão política e a preocupação com segurança no país.",
-        "porQueImporta": "O caso reflete a polarização política e a preocupação com a segurança em Israel próximo às eleições.",
+        "clusterId": "eefa9c69613614ee",
+        "slug": "3f7decbf248a2956",
+        "titulo": "Putin alerta que pode usar armas nucleares para defender Kaliningrado",
+        "resumo": "O presidente russo Vladimir Putin afirmou que consideraria usar todos os tipos de armamento, incluindo armas nucleares, caso a OTAN ameaçasse o exclave de Kaliningrado. Ele declarou que a Rússia não pretende atacar, mas responderá a qualquer agressão. A mensagem foi enviada em documento à OTAN e reiterada em discurso no Fórum Valdai.",
+        "porQueImporta": "A declaração aumenta a tensão entre Rússia e OTAN e pode elevar o risco de conflito nuclear na região.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/putin-alerta-otan-que-pode-usar-armas-nucleares-para-defender-kaliningrado/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/01/putin-diz-que-uso-de-armas-de-destruicao-em-massa-nao-pode-ser-descartado-mas-deve-ser-evitado.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-01T20:25:07.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/pcQZ3xGJT9Jm3Wp1isQ4E6BAP_E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/0/LIBxvETRm4AoSilSjPQg/2026-10-01t155128z-1926957149-rc2funaaa121-rtrmadp-3-russia-putin.jpg"
+      },
+      {
+        "clusterId": "c44a4a9b5c130620",
+        "slug": "869533b00ddf1fd5",
+        "titulo": "Piloto de avião atacado com faca tem suspeita de ligação com Irã",
+        "resumo": "Um copiloto atacou o piloto de um avião com faca, levando a desvio de rota e intervenção de passageiros e tripulantes. O autor do ataque foi detido e está sendo interrogado. O presidente de Israel afirmou que o agressor pretendia derrubar o avião, que transportava maioria de passageiros israelenses. O governo israelense considera ainda cedo para confirmar envolvimento do Irã.",
+        "porQueImporta": "O incidente destaca preocupações de segurança em voos internacionais e possíveis conexões com atores externos.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-acreditar-que-autor-de-ataque-em-voo-tem-ligacao-com-ira/"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/ck1e5w1503jjo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-10-01T20:17:54.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5b93/live/dbd0ccb0-bd7a-11f1-a64c-550be9e3c66b.jpg"
+      },
+      {
+        "clusterId": "772ef74252920e0a",
+        "slug": "b68119d622ec24fd",
+        "titulo": "Christa Pike sobrevive à execução com injeção letal no Tennessee",
+        "resumo": "Christa Pike, condenada à pena de morte em 1996 por assassinato de colega em 1995, sobreviveu à execução realizada em 30 de outubro de 2023 após a administração de duas doses de pentobarbital. O procedimento falhou, exigindo intervenção médica para estabilizá‑la. Se concluída, teria sido a primeira mulher executada no Tennessee em mais de 200 anos.",
+        "porQueImporta": "O caso destaca falhas no processo de execução e levanta questões sobre a aplicação da pena de morte nos Estados Unidos.",
         "category": "mundo",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/10/01/drama-aereo-vira-municao-eleitoral-na-disputa-acirrada-em-israel.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/01/estado-de-saude-de-mulher-que-sobreviveu-a-duas-injecoes-letais-e-grave-diz-jornal.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cmqxvxez1exqo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-10-01T13:25:30.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/fRwa3laXpqxaWbHrUD9T_ZbKaN4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/8/2XogkbRnSA3jOztguthw/2026-09-29t000000z-231791642-mt1zuma000k26u1s-rtrmadp-3-zuma.jpg"
+        "updatedAt": "2026-10-01T19:05:05.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/85umJZTyvKs7l5T2SvK5yps2VJg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/z/vV6TuCRR20M0XhMDJprw/copia-de-sem-nome-1200-x-900-px-10-.png"
+      },
+      {
+        "clusterId": "8a2ae1c2916cb539",
+        "slug": "93a72991cbcb949a",
+        "titulo": "Suprema Corte dos EUA vai analisar detenções de imigrantes sem fiança",
+        "resumo": "A Suprema Corte dos Estados Unidos decidiu examinar se o governo de Donald Trump pode negar a imigrantes em processo de deportação o direito de solicitar liberdade sob fiança. O caso que motivou a decisão envolve a detenção de um brasileiro pelo ICE em um aeroporto. Desde o retorno de Trump à Casa Branca, as autoridades migratórias têm mantido certos imigrantes presos durante todo o processo de deportação, podendo durar anos.",
+        "porQueImporta": "A decisão pode mudar a política de detenção de imigrantes nos EUA.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/01/caso-de-brasileiro-leva-suprema-corte-dos-eua-a-revisar-detencoes-de-imigrantes-sem-fianca.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-01T19:59:39.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/FSmgfSvI8FuaJC9f-dZkAQTTvzY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/9/ScMZBNRTSIQsFO0yXoMg/ice.jpg"
+      },
+      {
+        "clusterId": "9f988fcd0a179f21",
+        "slug": "3402a36f19e76885",
+        "titulo": "Preferência religiosa reflete apoio a Lula e Flávio Bolsonaro",
+        "resumo": "Pesquisas mostram que católicos tendem a votar em Lula, enquanto evangélicos favorecem Flávio Bolsonaro, seguindo padrão de 2022. A diferença se mantém, mas com variações significativas em alguns grupos. Especialistas apontam fatores como discurso político e questões sociais como possíveis influenciadores.",
+        "porQueImporta": "A relação entre religião e voto pode indicar tendências eleitorais e influenciar estratégias de campanha.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cmx2z70jq94wo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-10-01T19:47:55.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5905/live/5a051640-bd67-11f1-a64c-550be9e3c66b.png"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "832b93f89d572094",
-        "slug": "f9326be3a7cd773e",
-        "titulo": "Irmãos Russo revelam duração e final surpreendente de Vingadores: Doutor Destino",
-        "resumo": "Os diretores Joe e Anthony Russo confirmaram que o filme Vingadores: Doutor Destino terá duração específica e que o final será surpreendente, preparando o terreno para a sequência Vingadores: Guerras Secretas. Eles não detalharam o enredo, mas asseguraram que o público ficará chocado com a conclusão.",
-        "porQueImporta": "O anúncio indica que o próximo grande evento da Marvel será impactante e que a trama se estenderá para o próximo filme.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/entretenimento/irmaos-russo-revelam-duracao-e-final-chocante-de-vingadores-doutor-destino/"
-          }
-        ],
-        "updatedAt": "2026-10-01T15:03:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/vSVmqUoy_UvgbLd9Y3GgnEwOcfk=/0x0/filters:format(webp):quality(85)/b6fcbf5f-548c-4841-9c18-9c8b224cd75a.png"
-      },
-      {
-        "clusterId": "4d22f25d7aca5004",
-        "slug": "8c5620ad8f3dea0f",
-        "titulo": "Team Liquid anuncia estande na BGS 2026 com ativações e descontos",
-        "resumo": "A Team Liquid, em parceria com a Visa, vai montar um estande de 152 m² na BGS 2026. O espaço contará com jogadores, criadores de conteúdo, meet & greets e estações de VALORANT, Fortnite e EA SPORTS FC 27. A empresa oferecerá descontos e experiências interativas para os visitantes.",
-        "porQueImporta": "A presença da Team Liquid reforça a importância dos eventos de e‑sports como plataformas de marketing e engajamento com o público gamer.",
+        "clusterId": "4eeeac4396f42af3",
+        "slug": "b82f06202f390381",
+        "titulo": "Marvel’s Wolverine disponível em promoções PS5 e emulador já roda jogo",
+        "resumo": "O jogo Marvel’s Wolverine, lançado recentemente para PlayStation 5, está em oferta na Amazon, atraindo atenção de jogadores que buscam renovar suas bibliotecas. Paralelamente, um emulador de PS5 já consegue executar o título, embora com limitações ao menu principal e bugs gráficos. O avanço do emulador demonstra o rápido desenvolvimento de softwares que permitem jogar jogos de console em PC antes do lançamento oficial.",
+        "porQueImporta": "Permite que jogadores tenham acesso antecipado ao jogo e explorem opções de compra em promoção.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/01/games-e-consoles/team-liquid-tera-ativacoes-e-descontos-na-bgs-2026/"
+            "url": "https://olhardigital.com.br/2026/10/01/reviews/wolverine-fc-27-e-mais-ps5-com-jogos-imperdiveis-em-oferta-agora/"
+          },
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/games/emulador-de-ps5-ja-consegue-rodar-marvels-wolverine-mas-cobra-caro-por-isso/"
           }
         ],
-        "updatedAt": "2026-10-01T14:41:42.000Z"
+        "updatedAt": "2026-10-01T19:00:00.000Z"
       },
       {
-        "clusterId": "fd20e1447f4c5b6d",
-        "slug": "6dea0c2c676f1986",
-        "titulo": "Amazon oferece promoções em mouses, monitores e notebooks para gamers e home office",
-        "resumo": "A Amazon disponibiliza descontos em três categorias de periféricos e equipamentos: mouses gamer sem fio, monitores com alta taxa de atualização e baixo tempo de resposta, e notebooks/ultrabooks compactos e acessíveis. Cada seleção destaca produtos com conectividade moderna, sensores precisos, tecnologias de sincronização e designs voltados para desempenho e produtividade. As ofertas são apresentadas em posts do Olhar Digital, que listam opções específicas e suas características principais.",
-        "porQueImporta": "Essas promoções permitem que usuários atualizem equipamentos de forma econômica, melhorando a experiência de jogo e a eficiência no trabalho remoto.",
+        "clusterId": "f4a03ad6ab552637",
+        "slug": "ae38e4c6ef8a0a17",
+        "titulo": "PS5 convencional recebe upscaling com IA",
+        "resumo": "A Sony anunciou que o PS5 convencional terá suporte a upscaling com IA, tecnologia desenvolvida em parceria com a AMD no Project Amethyst. O recurso promete melhorar a qualidade visual de jogos sem exigir hardware adicional. A atualização será disponibilizada por meio de firmware.",
+        "porQueImporta": "A novidade amplia a performance visual do console sem custo extra para os usuários.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/01/reviews/upgrade-no-setup-veja-uma-selecao-de-mouses-gamer-sem-fio-em-promocao-na-amazon-2/"
+            "url": "https://olhardigital.com.br/2026/10/01/games-e-consoles/ps5-convencional-recebe-upscaling-com-ia/"
           }
         ],
-        "updatedAt": "2026-10-01T14:40:00.000Z"
+        "updatedAt": "2026-10-01T20:21:09.000Z"
       },
       {
-        "clusterId": "551df5a00203031a",
-        "slug": "09de4d221676fa05",
-        "titulo": "Magalu reduz preço da geladeira Midea Inverter de 473 litros",
-        "resumo": "O Magalu está oferecendo a geladeira Midea Frost Free Duplex de 473 litros na cor inox por R$ 3.127,08, com frete grátis e pagamento via PIX. O modelo possui tecnologia Inverter, sistema Frost Free, é bivolt e inclui prateleira retrátil e gaveta hortifruti. A versão branca tem preço de R$ 3.062,11. A oferta destaca a possibilidade de adquirir um eletrodoméstico espaçoso por menos de R$ 4.000.",
-        "porQueImporta": "A redução de preço torna a geladeira acessível a consumidores que buscam qualidade e espaço sem ultrapassar o limite de R$ 4.000.",
+        "clusterId": "798c9d0ce105e758",
+        "slug": "8f35e049cee487f6",
+        "titulo": "Kia reduz preço do Sportage MHEV EX Prestige para competir com BYD e GWM",
+        "resumo": "O Sportage MHEV EX Prestige da Kia teve seu preço original de R$267.190 reduzido em R$20.000, ficando em R$247.190 à vista. A nova tarifa coloca o modelo em posição de destaque frente ao BYD Song Plus, que custa R$249.990, e ao GWM Haval H6 PHEV, que custa R$250.000. A promoção visa tornar o SUV mais competitivo no segmento de veículos híbridos e elétricos. A redução foi anunciada como parte de uma campanha promocional da marca.",
+        "porQueImporta": "A queda de preço aumenta a competitividade da Kia no mercado de SUVs híbridos, influenciando a escolha dos consumidores.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/eletro/magalu-derruba-preco-de-geladeira-midea-inverter-de-473-l/"
+            "url": "https://canaltech.com.br/carros/suv-da-kia-em-promocao-sai-mais-barato-que-rivais-de-byd-e-gwm/"
           }
         ],
-        "updatedAt": "2026-10-01T14:33:25.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/-Ab1XIr_al51KzFUW6fk6b9Qp5c=/0x0/filters:format(webp):quality(85)/1871edf8-b308-4ffa-a7b4-eb7fd93b11c7.png"
+        "updatedAt": "2026-10-01T20:01:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/ZxYITLclKf1fCJW5opqzs4bJq6o=/0x0/filters:format(webp):quality(85)/95ab1f10-a727-46c9-adf3-e0ace3433e61.jpg"
       },
       {
-        "clusterId": "18670ce5b69ee705",
-        "slug": "32ca4900607590d5",
-        "titulo": "Samsung planeja produção de Galaxy Z Fold 8 e reduz preço do Galaxy A37 5G",
-        "resumo": "A Samsung pretende fabricar cerca de 1,14 milhão de celulares dobráveis em outubro e novembro de 2026, com o Galaxy Z Fold 8 representando aproximadamente 44% da produção, seguido pelo Z Fold 8 Ultra. Em paralelo, o Galaxy A37 5G de 256 GB foi colocado em promoção no Mercado Livre por R$ 1.618,38 no Pix, com frete grátis. A oferta destaca a versão de 8 GB de RAM e 256 GB de armazenamento, tela Super AMOLED de 120 Hz, câmera principal de 50 MP e bateria de 5.000 mAh.",
-        "porQueImporta": "A estratégia de produção reforça a importância dos dobráveis na linha da Samsung, enquanto a redução de preço do A37 amplia o acesso a dispositivos de médio porte.",
+        "clusterId": "fa59a68c4b277611",
+        "slug": "7291ff71f6b13d0b",
+        "titulo": "XBOX pagou menos do que se pensava por jogo abandonado de Kojima",
+        "resumo": "A Microsoft adquiriu o projeto Physint da Kojima Productions por menos de US$ 200 milhões, muito abaixo da estimativa inicial de US$ 400 milhões. O jogo, que foi abandonado pela PlayStation, tem como objetivo reviver o gênero de espionagem nos videogames. A informação veio de vazamento interno confirmado por Chris Dring do The Game Business. A Microsoft demonstrou interesse em expandir seu portfólio com títulos de alto perfil.",
+        "porQueImporta": "A compra reflete a estratégia da Microsoft em fortalecer sua oferta de jogos exclusivos e competir com a PlayStation.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/smartphone/samsung-poe-galaxy-z-fold-8-a-frente-dos-outros-dobraveis/"
+            "url": "https://canaltech.com.br/games/xbox-pagou-bem-menos-do-que-se-pensava-por-jogo-abandonado-de-kojima/"
           }
         ],
-        "updatedAt": "2026-10-01T14:23:51.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/S1DTkkFiaoYULytlg4EPLgupOb8=/0x0/filters:format(webp):quality(85)/8184d6ae-e421-4b63-8a11-59383a5798f4.jpg"
+        "updatedAt": "2026-10-01T19:59:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/lGT8pG5nzCT9rSuUuy1ne44uteg=/0x0/filters:format(webp):quality(85)/e4e9b64a-8046-4931-af82-a249190995ab.jpg"
       },
       {
-        "clusterId": "2dd9eb68f050d8b3",
-        "slug": "50a65e6a8483b6eb",
-        "titulo": "Desenvolvedores de Gears of War: E-Day temem demissões após lançamento",
-        "resumo": "Funcionários da The Coalition relatam clima de insegurança depois de nova rodada de cortes no Xbox. Eles afirmam que o objetivo é apenas celebrar o lançamento do jogo. A preocupação surge em meio a demissões recentes na empresa.",
-        "porQueImporta": "Indica instabilidade no setor de desenvolvimento de jogos e possíveis impactos na equipe e na qualidade do produto.",
+        "clusterId": "2d9c70f7097f3b1d",
+        "slug": "919510be034a0578",
+        "titulo": "Amazon lança Kindles coloridos e capa com botões físicos",
+        "resumo": "A Amazon lançou novos modelos de Kindle com cores variadas e acabamento de toque suave, além de versões com estrutura de alumínio. Os dispositivos agora dispõem de capas que incluem botões físicos para facilitar o uso. A novidade amplia as opções de design e ergonomia para leitores digitais.",
+        "porQueImporta": "A atualização oferece mais opções de personalização e funcionalidade para usuários de e-readers.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/01/games-e-consoles/devs-de-gears-of-war-e-day-temem-demissoes-apos-lancamento/"
+            "url": "https://olhardigital.com.br/2026/10/01/reviews/amazon-lanca-kindles-coloridos-e-capa-com-botoes-fisicos/"
           }
         ],
-        "updatedAt": "2026-10-01T14:19:33.000Z"
+        "updatedAt": "2026-10-01T19:52:09.000Z"
       },
       {
-        "clusterId": "153e101ad42f17e0",
-        "slug": "9a7876751933fd66",
-        "titulo": "Amazon lança nova geração de Kindle com tela colorida e controle de página",
-        "resumo": "A Amazon lançou no Brasil uma nova linha de leitores Kindle, incluindo os modelos Kindle, Kindle Paperwhite e Kindle Colorsoft, com telas niveladas e acabamento uniforme. Os dispositivos apresentam corpos mais finos e leves, além de opções de armazenamento variadas. Algumas versões contam com controle de página e traseira de material diferenciado. Os preços começam em R$ 899 e chegam a R$ 1.749.",
-        "porQueImporta": "A atualização amplia as opções de leitores digitais, oferecendo tecnologia colorida e ergonomia aprimorada para os consumidores.",
+        "clusterId": "d6f370efdf3284f9",
+        "slug": "a15c8023e8d111d9",
+        "titulo": "IA pode ajudar na luta contra mudanças climáticas, mas existe um grande problema",
+        "resumo": "A inteligência artificial tem potencial para contribuir na mitigação das mudanças climáticas, mas seu uso também pode agravar o problema devido ao alto consumo de energia. Especialistas apontam que, embora a IA possa otimizar processos e reduzir emissões, os centros de dados que a suportam exigem grandes quantidades de eletricidade, muitas vezes proveniente de fontes fósseis. A discussão envolve equilibrar os benefícios tecnológicos com os impactos ambientais. O debate destaca a necessidade de desenvolver soluções de IA mais eficientes e sustentáveis.",
+        "porQueImporta": "O tema é relevante porque a tecnologia que pode ser usada para combater o aquecimento global também pode contribuir para ele, exigindo decisões conscientes sobre seu desenvolvimento e aplicação.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/10/01/inteligencia-artificial/ia-pode-resolver-mudancas-climaticas-mas-data-centers-seriam-problema/"
+          }
+        ],
+        "updatedAt": "2026-10-01T19:44:19.000Z"
+      },
+      {
+        "clusterId": "04871e33ae90c7dc",
+        "slug": "7fbd99690f0f993f",
+        "titulo": "Amazon oferece promoções em smartwatches, jogos Xbox e impressoras",
+        "resumo": "A Amazon Brasil está com descontos em três categorias distintas: smartwatches de marcas como Samsung e outras opções voltadas ao monitoramento de saúde e esportes; jogos Xbox, incluindo títulos clássicos e trilogias icônicas como The Witcher 3; e impressoras multifuncionais das principais marcas, como HP. Cada segmento apresenta três modelos em oferta, visando atender diferentes perfis de consumidores.",
+        "porQueImporta": "Essas promoções permitem que consumidores atualizem tecnologia pessoal e doméstica a preços mais acessíveis.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/10/01/reviews/smartwatches-em-promocao-na-amazon-veja-uma-selecao-que-vale-a-pena-conferir/"
+          }
+        ],
+        "updatedAt": "2026-10-01T19:40:00.000Z"
+      },
+      {
+        "clusterId": "0fff61185d263c18",
+        "slug": "4386ce969f9d3ad2",
+        "titulo": "AMD revela novo chip Gainsborough para o Steam Deck 2",
+        "resumo": "A AMD teria desenvolvido uma nova APU, denominada Gainsborough, destinada ao próximo Steam Deck 2. O codinome do chip se relaciona ao nome de Aerith, personagem de Final Fantasy VII, que também foi usado para a APU atual do Steam Deck. O anúncio veio de um vídeo do canal Moore’s Law is Dead, que apontou o novo hardware como parte dos planos de atualização do console. Ainda não há confirmação oficial da Valve ou da AMD sobre a data de lançamento.",
+        "porQueImporta": "Indica avanços tecnológicos que podem melhorar a performance e a portabilidade do próximo Steam Deck.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/e-reader/novo-kindle-ganha-tela-colorida-e-ate-controle-para-virar-paginas/"
+            "url": "https://canaltech.com.br/hardware/gainsborough-vazamento-revela-novo-chip-da-amd-que-vai-equipar-o-steam-deck-2/"
           }
         ],
-        "updatedAt": "2026-10-01T14:17:30.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/dqOJto4yEhFb3VEUSXuZZaJF04o=/0x0/filters:format(webp):quality(85)/eaea0190-88a8-4fc9-81d8-9dc1c489708a.png"
-      },
-      {
-        "clusterId": "5c4baa20acc2c3b2",
-        "slug": "ea6903f0e3ddd802",
-        "titulo": "Motorola lança Moto Watch Ultra com eSIM e integração Polar",
-        "resumo": "A Motorola lançou no Brasil o Moto Watch Ultra, smartwatch com suporte a eSIM e conexão 4G‑LTE, permitindo chamadas, mensagens e notificações sem smartphone. O relógio integra tecnologia da Polar, focada em esportes e bem‑estar. O modelo oferece recursos avançados de monitoramento físico e conectividade independente.",
-        "porQueImporta": "O dispositivo amplia as opções de wearables com conectividade própria, beneficiando usuários que buscam autonomia e recursos esportivos.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/smartwatch/motorola-lanca-moto-watch-ultra-no-brasil-com-esim-e-tecnologia-da-polar/"
-          }
-        ],
-        "updatedAt": "2026-10-01T14:06:24.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/1xXsCU_WdkwjzpIkjT0Rj671sgo=/0x0/filters:format(webp):quality(85)/727029be-268a-4909-9f1b-86e36aba3765.jpg"
+        "updatedAt": "2026-10-01T19:08:00.000Z"
       }
     ],
     "ciencia": [
       {
-        "clusterId": "836d98f9f8a5af54",
-        "slug": "b0ab0150ed9291f6",
-        "titulo": "Manuscrito Voynich permanece indecifrável após séculos de estudos",
-        "resumo": "O Manuscrito Voynich, um livro medieval escrito em um alfabeto desconhecido, contém ilustrações de plantas, figuras humanas e diagramas astronômicos. Apesar de ter sido analisado por linguistas, criptógrafos e cientistas, nenhuma equipe conseguiu decifrar seu conteúdo. O manuscrito continua sendo objeto de pesquisas e teorias sobre sua origem e propósito.",
-        "porQueImporta": "Ele representa um dos maiores mistérios da história da escrita e da ciência.",
+        "clusterId": "cccc1e58e6323b18",
+        "slug": "741435b08c8dc5c6",
+        "titulo": "Estudo revela que mais de 60% dos profissionais da linha materno-infantil não identificam etnias atendidas e aponta racismo institucional no parto de mulheres indígenas",
+        "resumo": "O estudo mostra que mais de 60% dos profissionais da linha materno-infantil não souberam identificar as etnias atendidas, evidenciando um silêncio institucional. A pesquisa aponta que o parto de mulheres indígenas sofre com práticas discriminatórias e falta de reconhecimento cultural. O silêncio e a desigualdade no atendimento refletem a persistência de racismo institucional no sistema de saúde brasileiro.",
+        "porQueImporta": "O resultado destaca a necessidade de políticas públicas que garantam o respeito e a inclusão das populações indígenas no cuidado materno-infantil.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/diversidade/o-parto-indigena-ainda-enfrenta-silencio-e-desigualdade-no-brasil/"
+          }
+        ],
+        "updatedAt": "2026-10-01T20:04:37.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/09/20260925_parto-1024x538.jpg"
+      },
+      {
+        "clusterId": "fd2d840c90843e5b",
+        "slug": "9fd285985d335635",
+        "titulo": "Envelhecimento, participação e transformação para futuro sustentável",
+        "resumo": "A professora Renata Eloah de Lucena Ferretti-Rebustini da USP destaca que o envelhecimento pode ser aliado à construção de um futuro sustentável quando os idosos participam ativamente da sociedade. Ela argumenta que a experiência e o conhecimento dos mais velhos são recursos valiosos para a inovação e a preservação ambiental. A autora enfatiza a necessidade de políticas inclusivas que valorizem a contribuição dos idosos em projetos sociais e ambientais.",
+        "porQueImporta": "O artigo mostra como a participação dos idosos pode impulsionar iniciativas sustentáveis e fortalecer a coesão social.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/artigos/envelhecer-participar-e-transformar-para-a-construcao-de-um-futuro-sustentavel/"
+          }
+        ],
+        "updatedAt": "2026-10-01T19:53:31.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20261001_renataferretti-rebustini-1024x538.jpg"
+      },
+      {
+        "clusterId": "5e1a40a585070c73",
+        "slug": "1246ed3a8625436c",
+        "titulo": "Revista do IEB publica dossiê sobre 70 anos de 'Grande Sertão: Veredas' e 'Corpo de Baile'",
+        "resumo": "A nova edição da Revista do Instituto de Estudos Brasileiros da USP traz um dossiê que celebra os 70 anos das obras-primas de João Guimarães Rosa, 'Grande Sertão: Veredas' e 'Corpo de Baile'. O material reúne análises e reflexões sobre a importância desses livros na literatura brasileira. O dossiê destaca a relevância histórica e cultural das obras, bem como seu impacto no cenário literário nacional.",
+        "porQueImporta": "O evento reconhece a influência duradoura de Guimarães Rosa na literatura brasileira e reforça a importância de preservar e estudar suas obras.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/cultura/revista-do-ieb-lembra-os-70-anos-de-duas-obras-primas-da-literatura/"
+          }
+        ],
+        "updatedAt": "2026-10-01T18:53:43.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/09/20260930_guimaraesrosa-posseabl-1024x538.jpg"
+      },
+      {
+        "clusterId": "3b8cf534cd96fef6",
+        "slug": "3f41b34b61644f58",
+        "titulo": "Modelo de previsão de tempestades avisa casos de alerta até 30 minutos antes",
+        "resumo": "Um sistema que combina rastreamento por radar com inteligência artificial consegue prever a evolução das chuvas em até meia hora. O modelo apresenta bons resultados e requer menor demanda computacional. Ele pode identificar situações de alerta com antecedência de até 30 minutos. A tecnologia integra dados de radar em tempo real para melhorar a precisão das previsões.",
+        "porQueImporta": "Permite que autoridades e população se preparem com mais antecedência, reduzindo riscos de inundações e danos.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/ciencias/modelo-de-previsao-de-tempestades-avisa-casos-de-alerta-ate-30-minutos-antes/"
+          }
+        ],
+        "updatedAt": "2026-10-01T18:51:40.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20261001_paisagemcidade-1024x538.jpg"
+      },
+      {
+        "clusterId": "0b64c0b8cb7171c4",
+        "slug": "7bf1e0b99c70fea4",
+        "titulo": "Dados do SAEB 2025 revelam desigualdade educacional e maior dificuldade em matemática na região de Ribeirão Preto",
+        "resumo": "A análise do SAEB 2025 apresentada pela Cátedra Sérgio Henrique Ferreira no 3º Simpósio Intermunicipal de Educação apontou disparidades significativas na aprendizagem entre escolas da região de Ribeirão Preto. Os resultados indicam que estudantes de áreas mais pobres apresentam desempenho mais baixo, especialmente em matemática. A pesquisa destaca a necessidade de políticas educacionais direcionadas para reduzir essas desigualdades.",
+        "porQueImporta": "Esses dados orientam decisões sobre alocação de recursos e estratégias de intervenção para melhorar a qualidade da educação na região.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/campus-ribeirao-preto/dados-mostram-desigualdade-educacional-e-maior-desafio-em-matematica-na-regiao-de-ribeirao-preto/"
+          }
+        ],
+        "updatedAt": "2026-10-01T17:51:09.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/07/20260713_sala-de-aula-1024x538.jpg"
+      },
+      {
+        "clusterId": "f464a73c6b730327",
+        "slug": "4562c572096b14d0",
+        "titulo": "Violência digital contra candidatas mulheres aumenta nas redes sociais",
+        "resumo": "Estudo da USP aponta que ataques nas redes sociais contra candidatas femininas vão além de críticas políticas, atingindo corpo, aparência, sexualidade, identidade de gênero e familiares. A pesquisa destaca o crescimento desses abusos e sua natureza multidimensional. A violência se manifesta em comentários, imagens e ameaças que comprometem a segurança e a participação política das mulheres.",
+        "porQueImporta": "Aumento da violência digital dificulta a participação política das mulheres e reforça desigualdades de gênero.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/radio-usp/redes-sociais-intensificam-a-violencia-contra-candidatas-mulheres/"
+          }
+        ],
+        "updatedAt": "2026-10-01T17:18:31.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20240513_maos-mulheres-internet-celulares-1024x538.jpg"
+      },
+      {
+        "clusterId": "46a6bfc09f5f6029",
+        "slug": "75ac943c5345bf61",
+        "titulo": "Evento híbrido debate direitos humanos e cidadania no esporte",
+        "resumo": "O evento reúne especialistas para analisar o combate à discriminação e a efetivação de direitos no esporte. A discussão será realizada em formato híbrido, combinando presença presencial e virtual. O prazo para submissão de artigos sobre o tema foi aberto.",
+        "porQueImporta": "A iniciativa amplia o debate sobre inclusão e igualdade no esporte, incentivando pesquisas e ações práticas.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/campus-ribeirao-preto/evento-debate-direitos-humanos-e-cidadania-no-esporte/"
+          }
+        ],
+        "updatedAt": "2026-10-01T17:16:38.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20261001_montagem-1024x538.jpg"
+      },
+      {
+        "clusterId": "4d26f29aa5d82ec4",
+        "slug": "2a05bb043bf097a4",
+        "titulo": "Pesquisadores da Unesp descobrem duas novas espécies de escorpiões na Amazônia",
+        "resumo": "Em Roraima, pesquisadores da Unesp identificaram duas espécies de escorpiões ainda desconhecidas pela ciência, utilizando luz ultravioleta para observá-los. A descoberta foi feita em áreas de floresta amazônica, onde os animais foram coletados e analisados em laboratório. As espécies apresentam características morfológicas distintas que as diferenciam das já conhecidas na região.",
+        "porQueImporta": "A descoberta amplia o conhecimento sobre a biodiversidade amazônica e pode contribuir para estudos de conservação e bioprospecção.",
         "category": "ciencia",
         "sources": [
           {
             "name": "Super Interessante",
-            "url": "https://super.abril.com.br/coluna/oraculo/o-que-e-o-manuscrito-voynich-e-por-que-ele-e-indecifravel/"
+            "url": "https://super.abril.com.br/ciencia/com-luz-ultravioleta-duas-novas-especies-de-escorpioes-sao-descobertas-na-amazonia/"
           }
         ],
-        "updatedAt": "2026-10-01T15:00:53.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/09/SI_491_Oraculo_Manuscrito_Voynich.jpg"
-      },
-      {
-        "clusterId": "d24bfd20e500202d",
-        "slug": "a42b874a0cc370e3",
-        "titulo": "Cine Cult USP exibe filme \"Branco Sai, Preto Fica\"",
-        "resumo": "O Cine Cult USP vai exibir o filme \"Branco Sai, Preto Fica\", dirigido por Adirley Queirós, em sessão gratuita no dia 14 de outubro, às 19h, no Teatro do Campus da USP em Ribeirão Preto. A programação faz parte das atividades culturais da universidade, oferecendo acesso gratuito a produções cinematográficas relevantes. O evento está aberto ao público geral e visa promover a discussão sobre temas sociais abordados no filme.",
-        "porQueImporta": "A exibição gratuita amplia o acesso cultural e incentiva o debate sobre questões raciais na comunidade universitária.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/cine-cult-usp-exibe-o-filme-branco-sai-preto-fica-de-adirley-queiros/"
-          }
-        ],
-        "updatedAt": "2026-10-01T13:11:59.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2025/06/20250625_cinema-1024x538.jpg"
-      },
-      {
-        "clusterId": "dec54533f58aae82",
-        "slug": "099d7bc2a1e9ea5d",
-        "titulo": "Sangramento nasal: quando é preciso procurar um médico",
-        "resumo": "O sangramento nasal costuma ser causado por fatores simples e, na maioria dos casos, não requer cuidados especiais. Contudo, episódios frequentes podem indicar problemas de saúde subjacentes. Quando o sangramento persiste ou ocorre em grandes quantidades, é recomendável buscar avaliação médica.",
-        "porQueImporta": "Identificar quando o sangramento nasal requer atenção médica ajuda a prevenir complicações e a tratar condições mais graves.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/saude/sangramento-nasal-quando-e-preciso-procurar-um-medico/"
-          }
-        ],
-        "updatedAt": "2026-10-01T13:00:49.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/09/sangramento-nasal-einstein.jpg"
-      },
-      {
-        "clusterId": "2585dfff8046a689",
-        "slug": "a6be9e2b719d3018",
-        "titulo": "USP destaca avanços em sustentabilidade e regeneração da natureza",
-        "resumo": "O ranking internacional mostra melhora no desempenho da USP em sustentabilidade. O livro do jornalista Fred Pearce reforça os progressos na regeneração da natureza. A universidade destaca iniciativas que contribuem para metas ambientais globais. O estudo evidencia a importância da pesquisa aplicada em ecologia.",
-        "porQueImporta": "Os resultados demonstram que a USP está contribuindo para a conservação ambiental e pode servir de modelo para outras instituições.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/radio-usp/ha-razoes-para-olhar-o-futuro-com-otimismo/"
-          }
-        ],
-        "updatedAt": "2026-10-01T12:07:06.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/03/pasta-dos-20230313_jose-eli--1024x1024.jpg"
-      },
-      {
-        "clusterId": "6933f57a6b24c396",
-        "slug": "8d6704f8e8470d02",
-        "titulo": "Pesquisa da FAPESP sobre procrastinação é acusada de manipulação de dados",
-        "resumo": "Um experimento conduzido pela FAPESP que avaliou se espaçar prazos de entrega reduz atrasos foi acusado de manipulação de dados. Os pesquisadores alegam que os resultados foram alterados para favorecer a hipótese de que prazos espaçados diminuem a procrastinação. A investigação aponta inconsistências nos registros de coleta e análise de dados. A comunidade científica questiona a validade dos resultados e a integridade do estudo.",
-        "porQueImporta": "A acusação pode comprometer a confiança em pesquisas financiadas pela FAPESP e afetar políticas de gestão de prazos em ambientes acadêmicos.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Pesquisa FAPESP",
-            "url": "https://revistapesquisa.fapesp.br/procrastinacao-duvidosa/?utm_source=rss&utm_medium=rss&utm_campaign=procrastinacao-duvidosa"
-          }
-        ],
-        "updatedAt": "2026-10-01T12:03:10.000Z"
-      },
-      {
-        "clusterId": "02c523492a83b866",
-        "slug": "0863348e0634e9d0",
-        "titulo": "Excesso de calorias, açúcar, carboidratos e sedentarismo contribuem para esteatose hepática",
-        "resumo": "O acúmulo de gordura no fígado não se deve apenas à ingestão de alimentos gordurosos. Estudos apontam que o consumo excessivo de calorias, açúcar e carboidratos, aliado ao sedentarismo, aumenta o risco de desenvolvimento da esteatose hepática. A condição pode evoluir para inflamação e danos hepáticos se não for controlada. Estratégias de alimentação balanceada e atividade física são recomendadas para prevenir a doença.",
-        "porQueImporta": "Prevenir a esteatose hepática reduz o risco de complicações graves, como cirrose e insuficiência hepática.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/gordura-no-figado-nao-vem-apenas-da-gordura-que-voce-come/"
-          }
-        ],
-        "updatedAt": "2026-10-01T12:00:04.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/09/20260930_gordura-figado-1024x538.jpg"
-      },
-      {
-        "clusterId": "54650a74ed5e6594",
-        "slug": "43161770a722dafc",
-        "titulo": "Pós-graduação em Controladoria e Contabilidade celebra 21 anos e debate desafios da pesquisa",
-        "resumo": "O programa da Faculdade de Economia, Administração e Contabilidade de Ribeirão Preto, que terá formato presencial, reúne professores, ex-coordenadores e egressos para discutir o futuro da pós-graduação. O evento marca 21 anos de existência e foca em temas de pesquisa e desenvolvimento acadêmico. A participação de ex-alunos destaca a continuidade e o impacto do curso na comunidade acadêmica.",
-        "porQueImporta": "A celebração reflete a maturidade e a relevância do programa para a formação de profissionais e pesquisadores na área.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/pos-graduacao-em-controladoria-e-contabilidade-celebra-21-anos-e-debate-desafios-da-pesquisa/"
-          }
-        ],
-        "updatedAt": "2026-10-01T11:58:33.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2024/04/20240412_fearp-1024x538.jpg"
-      },
-      {
-        "clusterId": "de360314653d0ec4",
-        "slug": "fc776924a7777c9f",
-        "titulo": "Workshop sobre Fonoaudiologia atrai estudantes do Ensino Médio",
-        "resumo": "No dia 24 de outubro, o campus de Ribeirão Preto sediou um workshop que apresentou a Fonoaudiologia a estudantes do Ensino Médio. O evento incluiu informações sobre o curso, formas de ingresso e permanência na Universidade, além de uma aula de redação no modelo Fuvest.",
-        "porQueImporta": "O encontro oferece orientação precoce sobre oportunidades acadêmicas em saúde, facilitando a escolha de carreira dos jovens.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/workshop-apresenta-a-fonoaudiologia-para-estudantes-do-ensino-medio/"
-          }
-        ],
-        "updatedAt": "2026-10-01T11:56:26.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2024/06/20240620_campus-ribeirao-1024x538.jpg"
+        "updatedAt": "2026-10-01T17:00:24.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/10/novas-especies-escorpioes-amazonia-unesp.png"
       }
     ],
     "saude": [
+      {
+        "clusterId": "9b5cc41781b2fe41",
+        "slug": "47a14a5db8a1439e",
+        "titulo": "Mais da metade das propostas de saúde dos candidatos à Presidência já existem no SUS",
+        "resumo": "Um estudo do Instituto de Estudos para Políticas de Saúde e da Umane analisou 95 propostas de saúde de seis candidatos com mais de 2% de intenção de voto. Descobriu que mais da metade dessas propostas já estão em vigor no Sistema Único de Saúde. O levantamento destaca a necessidade de recursos adicionais para implementar novas iniciativas, já que o orçamento atual é insuficiente.",
+        "porQueImporta": "Indica que os candidatos estão baseando suas plataformas em políticas já existentes, mas precisam de financiamento adequado para efetivar mudanças.",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/saude-publica/eleicoes-2026-o-que-os-candidatos-a-presidencia-pensam-sobre-a-estrategia-saude-da-familia/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/mais-da-metade-das-propostas-dos-candidatos-a-presidencia-para-a-saude-ja-existem-no-sus-aponta-estudo.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-01T19:00:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/WGFQ-gSpCsE60AGQMZKXTYw2Z6Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/f/y5MJIxQCAHBhm9YtSOFg/presidenciaveis.jpg"
+      },
+      {
+        "clusterId": "d22e0d38f9472317",
+        "slug": "c7169c115d687f06",
+        "titulo": "Hangxiety: ansiedade pós-consumo de álcool",
+        "resumo": "Após o consumo de álcool, além dos sintomas de ressaca, pode surgir ansiedade, denominada hangxiety. O fenômeno ocorre devido a alterações neuroquímicas e ao efeito de desidratação e desequilíbrio de neurotransmissores. A ansiedade pode se manifestar como inquietação, nervosismo e preocupação excessiva. O artigo explica as causas e oferece orientações para lidar com o sintoma.",
+        "porQueImporta": "Entender o hangxiety ajuda a reconhecer e tratar a ansiedade relacionada ao consumo de álcool, melhorando a saúde mental e física.",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/drogas-licitas-e-ilicitas/hangxiety-o-que-causa-a-ansiedade-depois-de-beber/"
+          }
+        ],
+        "updatedAt": "2026-10-01T20:11:07.000Z"
+      },
       {
         "clusterId": "8f1b985dd03fb9c8",
         "slug": "1c16e7c38e25b438",
@@ -1066,26 +1118,11 @@
         "updatedAt": "2026-09-30T21:31:00.000Z"
       },
       {
-        "clusterId": "68ed1b9d849c15fe",
-        "slug": "55e3891ea11378a8",
-        "titulo": "Propostas de saúde mental dos candidatos à Presidência já existem em grande parte no SUS",
-        "resumo": "Um estudo do Instituto de Estudos para Políticas de Saúde e da Umane analisou 95 propostas de saúde mental dos seis candidatos com mais de 2% de intenção de voto. Mais da metade dessas propostas já está em vigor no Sistema Único de Saúde. O levantamento destaca que o orçamento atual é insuficiente para atender a todas as demandas, podendo piorar com novas exigências. O relatório alerta para a necessidade de ajustes financeiros e de políticas públicas para garantir a efetividade das iniciativas.",
-        "porQueImporta": "A análise mostra que a maioria das propostas não requer mudanças estruturais, mas sim recursos adequados para sua implementação.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/saude-mental/eleicoes-2026-o-que-os-candidatos-a-presidencia-pensam-sobre-saude-mental/"
-          }
-        ],
-        "updatedAt": "2026-09-30T20:00:00.000Z"
-      },
-      {
         "clusterId": "da90718158214b59",
         "slug": "88bfadc735b3ff2d",
         "titulo": "Raiva na adolescência: como lidar com a emoção",
-        "resumo": "A raiva constante na adolescência pode levar a ações impulsivas com consequências negativas. O artigo apresenta estratégias mais saudáveis para lidar com esse sentimento. Ele destaca a importância de reconhecer e expressar a raiva de forma construtiva. O conteúdo oferece orientações práticas para adolescentes e responsáveis.",
-        "porQueImporta": "Ajuda adolescentes a evitar comportamentos prejudiciais e promove saúde emocional.",
+        "resumo": "A raiva constante na adolescência pode gerar ações impulsivas com consequências negativas. O artigo apresenta estratégias mais saudáveis para gerenciar esse sentimento. Ele destaca a importância de reconhecer e expressar a raiva de forma construtiva. O conteúdo oferece orientações práticas para adolescentes e responsáveis.",
+        "porQueImporta": "Ajuda a prevenir comportamentos de risco e promove o bem‑estar emocional na fase de desenvolvimento.",
         "category": "saude",
         "sources": [
           {
@@ -1098,9 +1135,9 @@
       {
         "clusterId": "625465272c97afa2",
         "slug": "b2c8db0358f8e697",
-        "titulo": "Infarto silencioso pode causar danos sem sintomas visíveis",
-        "resumo": "O infarto silencioso pode não apresentar dor torácica típica, mas pode causar cansaço, falta de ar e mal-estar. Esses sinais são indicativos de risco cardiovascular e exigem atenção médica. A condição pode passar despercebida, levando a danos cardíacos graves.",
-        "porQueImporta": "Detectar sinais atípicos de infarto é crucial para prevenir complicações cardíacas graves.",
+        "titulo": "Infarto silencioso pode passar despercebido e causar danos ao coração",
+        "resumo": "O infarto silencioso não apresenta sintomas clássicos, mas pode manifestar cansaço, falta de ar e mal-estar. Esses sinais, embora sutis, indicam risco de lesão cardíaca. Identificar o quadro precocemente é fundamental para evitar complicações graves.",
+        "porQueImporta": "Detectar infartos silenciosos evita danos irreversíveis ao coração.",
         "category": "saude",
         "sources": [
           {
@@ -1113,9 +1150,9 @@
       {
         "clusterId": "3ea6adedaff0de55",
         "slug": "025d7b43e847cbf2",
-        "titulo": "Riscos de ingerir alimentos vencidos",
-        "resumo": "Consumir alimentos com data de validade ultrapassada pode causar intoxicação alimentar, mesmo quando o produto aparenta estar em boas condições. Microrganismos patogênicos e toxinas podem se desenvolver ao longo do tempo, aumentando o risco de doenças. Especialistas recomendam descartar alimentos vencidos para evitar complicações de saúde.",
-        "porQueImporta": "Prevenir doenças e proteger a saúde pública.",
+        "titulo": "Riscos de consumir alimentos vencidos",
+        "resumo": "Consumir alimentos com data de validade ultrapassada pode causar problemas de saúde, mesmo quando os produtos aparentam estar em boas condições. Microrganismos e toxinas podem se desenvolver após o vencimento, aumentando o risco de intoxicação alimentar. Especialistas recomendam descartar alimentos vencidos para evitar complicações.",
+        "porQueImporta": "Garantir a segurança alimentar protege a saúde pública.",
         "category": "saude",
         "sources": [
           {
@@ -1129,8 +1166,8 @@
         "clusterId": "eceef4ae4365a5ef",
         "slug": "05b49f668b5562a1",
         "titulo": "Memória: o que é normal esquecer e o que pode ser considerado doença",
-        "resumo": "A memória permite reconhecer pessoas, aprender e organizar a vida. Falhas frequentes, como esquecer nomes ou tarefas, são comuns e não indicam necessariamente doença. Em idosos, a ocorrência de lapsos mais frequentes pode gerar preocupação. Avaliar o padrão de perda de memória ajuda a diferenciar o normal do possível início de demência.",
-        "porQueImporta": "Entender o que constitui memória normal ajuda a identificar precocemente problemas cognitivos.",
+        "resumo": "O texto explica que esquecimentos cotidianos, como não lembrar nomes ou tarefas, são comuns e fazem parte do funcionamento da memória. Entretanto, quando esses lapsos se tornam frequentes ou afetam a vida diária, especialmente em idosos, pode indicar uma condição patológica. O artigo destaca a importância de reconhecer a diferença entre memória normal e sinais de doença, como a demência.",
+        "porQueImporta": "Identificar falhas de memória que podem indicar doença ajuda na busca precoce por diagnóstico e tratamento.",
         "category": "saude",
         "sources": [
           {
@@ -1155,185 +1192,245 @@
           }
         ],
         "updatedAt": "2026-09-30T15:01:00.000Z"
-      },
-      {
-        "clusterId": "20025019a50caaa9",
-        "slug": "bd0ae5326fc1962d",
-        "titulo": "Vício em apostas online entre adolescentes",
-        "resumo": "O vício em apostas online entre adolescentes gera endividamento e problemas sociais e familiares. Os jovens podem sofrer consequências financeiras e afetar suas relações pessoais. O artigo destaca os riscos associados a esse comportamento e oferece orientações sobre como lidar com a dependência.",
-        "porQueImporta": "A prática pode comprometer o futuro financeiro e emocional dos jovens.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/videos/especiais/vicio-em-apostas-online-entre-adolescentes/"
-          }
-        ],
-        "updatedAt": "2026-09-30T00:01:00.000Z"
       }
     ],
     "esportes": [
       {
-        "clusterId": "30d250c4b86b27d3",
-        "slug": "98acdfd90fc82f37",
-        "titulo": "Cristiano Ronaldo abandona concentração de Portugal após divergência com Jorge Jesus",
-        "resumo": "O capitão da seleção portuguesa deixou a concentração em Copenhague após discussões com o técnico Jorge Jesus, que tentou convencê‑lo a permanecer. A decisão ocorreu antes da partida contra a Dinamarca na Liga das Nações. Como resultado, o treinador escalou Rafael Leão como novo camisa 7. A situação gerou repercussão nas redes sociais e debate sobre a gestão de atletas.",
-        "porQueImporta": "A saída de Cristiano Ronaldo pode afetar o desempenho e a dinâmica da equipe em competições internacionais.",
+        "clusterId": "31cac186f42d6fd3",
+        "slug": "5ee454202353ec1e",
+        "titulo": "Portugal vence Dinamarca na Nations League sem Cristiano Ronaldo",
+        "resumo": "Portugal venceu a Dinamarca por 3 a 1 na Nations League, mantendo 100% de aproveitamento. João Cancelo abriu o placar com assistência de Gonçalo Ramos, que também marcou. Vitinha e João Félix completaram a vitória no segundo tempo. A partida ocorreu em Copenhague, sem a presença de Cristiano Ronaldo.",
+        "porQueImporta": "A vitória consolida a liderança de Portugal no Grupo A4 e destaca a capacidade da equipe sem seu principal jogador.",
         "category": "esportes",
         "sources": [
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/blogs/blog-do-alliatti/post/2026/10/01/cristiano-ronaldo-vive-o-avesso-de-messi-em-crise-com-a-selecao.ghtml"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/sem-cristiano-ronaldo-portugal-vence-dinamarca-e-segue-100-na-nations"
           },
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/selecao-portuguesa-define-quem-fica-com-a-camisa-7-de-cristiano-ronaldo/"
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/liga-das-nacoes/jogo/01-10-2026/dinamarca-portugal.ghtml"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/curiosidades/caso-cristiano-ronaldo-e-jorge-jesus-por-que-os-jogadores-de-futebol-ficam-concentrados-no-brasil-a-lei-restringe-a-liberdade-dos-atletas/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/nations-portugal-vence-a-dinamarca-em-meio-a-crise-com-cristiano-ronaldo/"
           }
         ],
-        "updatedAt": "2026-10-01T15:00:23.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/MXpZjYS8q98wL2a1L9iRR2kX0cE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/A/G/FmeVa8QDmpAbKbBAMdlw/ce9f0c99b924d060dbd9396875fe21fadd79b493w.jpg"
+        "updatedAt": "2026-10-01T20:46:10.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/10/gettyimages-2297554978.jpg"
       },
       {
-        "clusterId": "b6b08f7f3fcac738",
-        "slug": "e258efaac9caba52",
-        "titulo": "Alcaraz vence Michelsen e avança para oitavas de final no ATP 500 de Tóquio",
-        "resumo": "Carlos Alcaraz venceu o americano Alex Michelsen por 2 sets a 1 no primeiro dia do ATP 500 de Tóquio, com parciais de 7(7)/6(1), 4/6 e 6/1. O espanhol superou problemas no saque e manteve a expectativa de defender o título no Japão. Alcaraz agora enfrentará o italiano Matteo Arnaldi nas oitavas de final.",
-        "porQueImporta": "A vitória mantém viva a possibilidade de Alcaraz defender seu título no torneio japonês.",
+        "clusterId": "fc526c7cf5f44072",
+        "slug": "f8475295e3dcdea8",
+        "titulo": "Alemanha vence Sérvia na Nations League",
+        "resumo": "A seleção alemã venceu a Sérvia por 2 a 0, com gols de Bischof e Wirtz, na Allianz Arena. O resultado garante a primeira vitória do time na competição e coloca a Alemanha na liderança do Grupo A2.",
+        "porQueImporta": "O triunfo consolida a posição da Alemanha na Nations League e reforça a campanha do técnico Jürgen Klopp.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/liga-das-nacoes/jogo/01-10-2026/alemanha-servia.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/alemanha-domina-servia-e-vence-pela-primeira-vez-na-nations-league"
+          }
+        ],
+        "updatedAt": "2026-10-01T20:44:50.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/10/alemanha-nations.jpg"
+      },
+      {
+        "clusterId": "50e523b0d187f405",
+        "slug": "3aa0c09f7a74ddb1",
+        "titulo": "Fred revela interesse do Palmeiras antes de acerto com Atlético-MG",
+        "resumo": "O volante Fred confirmou que o Palmeiras demonstrou interesse em sua contratação, com a presidente Leila Pereira expressando desejo de tê-lo no clube. Apesar disso, ele acabou firmando contrato com o Atlético-MG, onde já se destaca em 2026. A negociação foi direta e sem grandes obstáculos, embora o Fenerbahçe tenha sido mencionado como possível dificultador.",
+        "porQueImporta": "O caso ilustra como jogadores de destaque podem ser alvo de múltiplos clubes, influenciando decisões de carreira e estratégias de recrutamento.",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/tenis/alcaraz-estreia-com-vitoria-sobre-michelsen-e-avanca-no-atp-500-de-toquio/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/fred-revela-procura-do-palmeiras-antes-de-acerto-com-o-atletico-mg/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/tenis/noticia/2026/10/01/alcaraz-vence-alex-michelsen-em-toquio-e-vai-as-oitavas.ghtml"
+            "url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/10/01/fred-revela-busca-do-palmeiras-antes-de-fechar-com-o-atletico-mg-leila-queria.ghtml"
           }
         ],
-        "updatedAt": "2026-10-01T13:31:23.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/EwAMOPU4DKJP9jCZwB0Y-xaMzpc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/E/x/fd3AAqT9GEUDYCCff7KQ/afp-20261001-c9wg88p-v1-highres-tennisatpjpn.jpg"
+        "updatedAt": "2026-10-01T20:36:33.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/TWYnx5-kn7h7pCYzFeDZCzJOwMM=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/M/e/x4D0xpQcW8ovqNhnWA0Q/55561833307-6673cdf107-k.jpg"
       },
       {
-        "clusterId": "04a06415c9ed06a5",
-        "slug": "b6192b3892c4d79d",
-        "titulo": "Cuiabá garante classificação na semifinal da Copa FMF 2026",
-        "resumo": "O Cuiabá venceu o Cacerense por 2 a 0 na Arena Pantanal, alcançando 12 pontos e mantendo 100% de aproveitamento na competição. A vitória assegurou a equipe a vaga na semifinal da Copa FMF 2026. O jogo foi parte da 6ª rodada, enquanto outras partidas ocorreram na 5ª rodada.",
-        "porQueImporta": "A classificação confirma a posição de destaque do Cuiabá na competição estadual.",
+        "clusterId": "a00b4f34b6f61d33",
+        "slug": "efd366c14e03c1d3",
+        "titulo": "Jornal do Acre estreia sua primeira edição e Mogi Basquete viaja para Argentina",
+        "resumo": "O Jornal do Acre lançou sua primeira edição em 1º de outubro de 2026, com vídeos que destacam a cobertura regional. Paralelamente, o time de basquete de Mogi, Mogi Basquete, embarcou para a Argentina para sua estreia na Liga Sul-Americana. Ambas as iniciativas refletem a expansão de mídia local e o crescimento do esporte na região.",
+        "porQueImporta": "Esses acontecimentos mostram o fortalecimento da comunicação regional e a presença internacional de equipes brasileiras.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-1-edicao-desta-quinta-feira-1-de-outubro-de-2026.ghtml"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/10/01/veja-os-destaques-do-esporte-no-diario-tv-1a-edicao-desta-quinta-feira-1o-de-outubro.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-01T20:23:23.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/KLgLB4I9W9dwiq24HS8JdQjKm4s=/s01.video.glbimg.com/deo/vi/29/19/15011929"
+      },
+      {
+        "clusterId": "0d62f54e713987f8",
+        "slug": "cdd662bcfc13f2d9",
+        "titulo": "Vários jogos de futebol em 2026 em destaque",
+        "resumo": "O GloboEsporte disponibiliza informações sobre partidas de diferentes competições: Flamengo-PI x Comercial-PI no Campeonato Piauiense Série B, Fortaleza x Náutico no Campeonato Brasileiro Série B, Grêmio x Internacional no Campeonato Gaúcho Feminino e Juventude x Operário-PR, também no Brasileiro Série B. Para cada jogo, o site oferece escalações, fotos e detalhes do confronto.",
+        "porQueImporta": "Esses dados permitem aos torcedores acompanhar e planejar a visualização dos jogos de suas equipes favoritas.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/mt/futebol/copa-fmf/noticia/2026/10/01/cuiaba-garante-quarta-vitoria-seguida-e-classifica-na-copa-fmf-veja-resultados-da-rodada.ghtml"
+            "url": "https://ge.globo.com/pi/futebol/piauiense-segunda-divisao/jogo/01-10-2026/flamengo-pi-comercial-pi.ghtml"
           }
         ],
-        "updatedAt": "2026-10-01T14:59:56.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/Q2R7jasADP3zC0WQP2SZ_b56JAc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/S/B/KotjIMQGq9DB4vb8gsgg/55561866423-a1a410ca77-o.jpg"
+        "updatedAt": "2026-10-01T20:41:42.000Z"
       },
       {
-        "clusterId": "931d3590bbdf9aad",
-        "slug": "d516d847729838f4",
-        "titulo": "Colapinto reage a críticas de Norris após acidente em Baku",
-        "resumo": "Franco Colapinto ficou surpreso com as críticas de Lando Norris após o acidente que os levou a abandonar a prova no GP do Azerbaijão. O piloto argentino pediu que a polêmica fosse resolvida de forma pacífica e elogiou a performance de Max Verstappen como um verdadeiro herói. Colapinto destacou que a discussão ainda persiste e que ele espera que a situação seja esclarecida antes do GP do Bahrein.",
-        "porQueImporta": "O episódio pode influenciar a dinâmica entre equipes e a percepção pública dos pilotos na temporada.",
+        "clusterId": "0c2f915fe60df0d2",
+        "slug": "48280f045317104f",
+        "titulo": "TJD-MS julga pedido do Comercial-MS para ampliar Campeonato Sul-Mato-Grossense",
+        "resumo": "O Tribunal de Justiça Desportiva de Mato Grosso do Sul (TJD-MS) vai julgar, nesta quinta-feira, o pedido do Comercial-MS de que o Campeonato Sul-Mato-Grossense de 2027 seja composto por 12 clubes, com a promoção de quatro equipes da Série B deste ano. A sessão ocorrerá online às 19h, em segunda instância do TJD-MS. O Pantanal não concorda com a proposta e a Procuradoria já manifestou-se sobre o tema.",
+        "porQueImporta": "A decisão pode alterar a estrutura e a competitividade do campeonato estadual.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/motor/formula-1/noticia/2026/10/01/colapinto-se-diz-surpreso-com-comentarios-de-norris-e-elogia-verstappen-verdadeiro-heroi.ghtml"
+            "url": "https://ge.globo.com/ms/futebol/noticia/2026/10/01/tjd-ms-julga-pedido-do-comercial-ms-por-quatro-acessos-e-serie-a-com-12-clubes.ghtml"
           }
         ],
-        "updatedAt": "2026-10-01T14:55:20.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/OJv1yd8lpB2IkiZ9vQK8lHlr9Uo=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/G/y/8vH0EQQ8m6dpWKxRBIhg/afp-20260716-c2cx6dx-v3-highres-autoprixf1bel.jpg"
+        "updatedAt": "2026-10-01T20:38:18.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/G9tFr6lQO75nf-eoAa0UkwzvSfE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/p/D/TOlLLURHGXB8KAnhHZcw/comercial-ms-x-sao-gabriel.png"
       },
       {
-        "clusterId": "3efdccd0f38933be",
-        "slug": "a954e9c6af0ae7ef",
-        "titulo": "Criciúma lidera ranking de escudos entre clubes catarinenses",
-        "resumo": "O escudo do Criciúma recebeu média 4,46 em avaliação de 66 designers e ficou em 38ª posição no ranking geral, superando os demais clubes catarinenses. O Figueirense ocupou 49ª posição com média 3,91, seguido pelo Avaí em 52º. O levantamento incluiu 80 escudos de clubes nacionais, distribuídos entre as séries A, B, C e outras equipes.",
-        "porQueImporta": "O ranking destaca a percepção de qualidade visual dos símbolos dos clubes, influenciando identidade e marketing esportivo.",
+        "clusterId": "8d97e6f873ffa393",
+        "slug": "4bfe6db96622f9a5",
+        "titulo": "Luma Gabrielly conquista o Campeonato Carioca Sub-17 com o Flamengo",
+        "resumo": "A zagueira Luma Gabrielly, de 16 anos, liderou o Flamengo Sub-17 ao título do Campeonato Carioca Sub-17, vencendo o Vasco por 3 a 0 no segundo jogo e já tendo vencido o primeiro por 2 a 0. A conquista garante o título ao rubro-negro. Gabrielly integra a base do clube desde 2025 e já possui experiência em futsal.",
+        "porQueImporta": "O triunfo reforça a qualidade da base do Flamengo e destaca o talento emergente da jovem zagueira.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/sc/futebol/noticia/2026/10/01/criciuma-lidera-ranking-de-escudos-entre-catarinenses-veja-notas-e-vote-no-mais-bonito.ghtml"
+            "url": "https://ge.globo.com/ap/noticia/2026/10/01/luma-gabrielly-conquista-o-campeonato-carioca-com-o-flamengo-sub-17.ghtml"
           }
         ],
-        "updatedAt": "2026-10-01T14:53:32.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/Y9E8-loTJ1PA0aPgSvyelJAkR5A=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/D/A/E9zXWNTCAXL59Om5Mung/nsc-total.png"
+        "updatedAt": "2026-10-01T20:30:54.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/crR2BqhjkUWdB2pvBT6YtEIDL7o=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/U/7/ZjLnebQvy1etGbzkjZiQ/copia-de-aleixo-g1-2026-10-01t172609.801.png"
       },
       {
-        "clusterId": "8692c753821e378b",
-        "slug": "bfd69a3a97c573f3",
-        "titulo": "Livro de Ivan Ilitch dispara em livraria argentina após dica de Scarpa",
-        "resumo": "A edição de \"A Morte de Ivan Ilitch\" teve vendas em alta na livraria de Chajarí, Argentina, depois que o meia Gustavo Scarpa do Atlético-MG recomendou o livro em seu canal. A recomendação gerou interesse entre torcedores e leitores, levando a uma compra inesperada na região. A livraria ficou surpresa com o aumento repentino nas vendas.",
-        "porQueImporta": "Ilustra como influenciadores esportivos podem impactar o mercado editorial internacional.",
+        "clusterId": "b49ba524103c57cc",
+        "slug": "a17091bcd8976d8f",
+        "titulo": "Paysandu destaca símbolo histórico e busca acesso na Série C",
+        "resumo": "O escudo do Paysandu apresenta um pé com asas, elemento que remonta à fundação do clube e tem significado simbólico para a torcida. O clube, que ocupa a 48ª posição na avaliação de escudos do GE, enfrenta dificuldades no quadrangular de acesso à Série C, com apenas um ponto em quatro rodadas. Apesar da situação complicada, o time venceu a Ferroviária e mantém esperanças de ascensão. A torcida é convocada a lotar o estádio Curuzu para apoiar o clube.",
+        "porQueImporta": "A combinação de identidade simbólica e a luta por acesso à Série C reforça a importância do clube na comunidade e no cenário do futebol brasileiro.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/10/01/ate-no-exterior-dicas-de-scarpa-fazem-venda-de-livro-disparar-em-livraria-da-argentina.ghtml"
+            "url": "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/10/01/por-que-o-escudo-do-paysandu-tem-um-pe-com-asas-conheca-a-historia-e-o-significado-do-simbolo-bicolor.ghtml"
           }
         ],
-        "updatedAt": "2026-10-01T14:50:15.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/micHoXO3Dqko40l5kx_s-yegbhg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Q/q/J8n4piRKyL01s5BHTlnA/09173691-4003-4e14-b12d-0523bf146c47.jpg"
-      },
-      {
-        "clusterId": "16910b2bfd316095",
-        "slug": "c16e6a4a1cb9dfb5",
-        "titulo": "Porto prioriza base para Pernambucano e Sub-20 define quartas de final",
-        "resumo": "O Porto planeja montar o elenco do Campeonato Pernambucano 2026 com a maioria de jogadores da base, recebendo apenas quatro reforços. A equipe já iniciou treinamentos sob o comando de Roberto Neves, que também liderou a seleção Sub-20. Na fase de Sub-20, os confrontos das quartas de final foram definidos: Santa Cruz x América, Retrô x Vitória, Sport x Porto e Náutico x Ipojuca, com jogos agendados para 10 de outubro.",
-        "porQueImporta": "A estratégia de foco na base pode influenciar a competitividade do Porto e o desenvolvimento de talentos locais.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/pe/caruaru-regiao/futebol/times/porto-pe/noticia/2026/10/01/elenco-do-porto-para-o-pernambucano-deve-priorizar-a-base-e-receber-poucos-reforcos.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-01T14:47:43.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/U8W1jQNTmiaoiK2uj-TiDOsE9QU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/4/Q/l8B3NyRQesqAbfAISKJA/capa-nota-ge-32-.png"
-      },
-      {
-        "clusterId": "54650f0975fe4289",
-        "slug": "577d02d83b7160ec",
-        "titulo": "Rodriguinho deve desfalcar Bragantino contra o Atlético-MG",
-        "resumo": "O meia Rodriguinho do Red Bull Bragantino não participou dos treinos até quinta-feira e deve ficar de fora da partida de sábado contra o Atlético-MG. Ele está em tratamento por dores no joelho, condição que já o deixou fora de jogo no mês anterior. O clube tem duas opções para a posição: o lateral Juninho Capixaba e o atacante Wallace Yan, ambos suspensos na última rodada.",
-        "porQueImporta": "A ausência de Rodriguinho pode afetar a estratégia ofensiva do Bragantino na partida decisiva contra o Atlético-MG.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/times/bragantino/noticia/2026/10/01/com-dores-no-joelho-rodriguinho-deve-desfalcar-bragantino-contra-o-atletico-mg.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-01T14:44:19.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/ItjB5VgAAhQjQnibwzReqerzBT0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/U/h/MrVq7KTeAdn0BTXOQgCQ/a6d7e661-b8ce-4878-b49b-2e4e3dd29d8a.jpg"
+        "updatedAt": "2026-10-01T20:23:01.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/8Tu1WJJQ-PL9sCU94ntmzW6rbsM=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/b/K/WbBM94REuFQgiuMGAgWQ/whatsapp-image-2025-02-17-at-17-2-.jpeg"
       }
     ],
     "entretenimento": [
       {
-        "clusterId": "b6adeaedbb3d171c",
-        "slug": "232328e2c33116d0",
-        "titulo": "Shows de Kanye West cancelados na Rússia",
-        "resumo": "Os shows de Kanye West em São Petersburgo, programados para 10 e 11 de outubro, foram cancelados pela organizadora Say Agency. A decisão ocorreu em meio a reações internacionais às declarações antissemitas do artista, que já levaram a cancelamentos em outros países europeus. Os compradores podem solicitar reembolso.",
-        "porQueImporta": "Ilustra como declarações controversas podem afetar a agenda de artistas em nível internacional.",
+        "clusterId": "2163443593bdc144",
+        "slug": "17377a0de03524f5",
+        "titulo": "Galinha Pintadinha estreia no cinema com filme de equipe 100% brasileira",
+        "resumo": "O filme \"Galinha Pintadinha - O filme\" estreou na quarta-feira, marcando a estreia da personagem no cinema. A produção conta com equipe quase 100% brasileira e segue a trajetória da diva pop que já domina o YouTube e diversos produtos licenciados. A estreia acontece no aniversário de 20 anos da personagem, criada por Juliano Prado e Marcos Luporini.",
+        "porQueImporta": "Representa a consolidação de uma marca cultural brasileira no cinema, ampliando seu alcance para o público infantil.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/cultura/proposta-ousada-criador-da-galinha-pintadinha-fala-a-veja-sobre-primeiro-filme-da-franquia/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/10/01/galinha-pintadinha-o-filme-marca-estreia-da-diva-pop-animada-no-cinema-em-aniversario-de-20-anos.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-01T20:46:34.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/03.png"
+      },
+      {
+        "clusterId": "691eb9305b1c1e8d",
+        "slug": "0712bbb13074139a",
+        "titulo": "TV Globinho volta com edição especial reunindo antigos apresentadores",
+        "resumo": "O programa infantil TV Globinho será exibido em edição especial no dia 10 de outubro, durante a Maratona Esperança. Os apresentadores que participaram da série entre 2000 e 2015 – Geovanna Tominaga, Letícia Colin, Ícaro Silva e Paulo Mathias Jr. – se reencontram para a transmissão. A Globo divulgou fotos da reunião e destaca a importância do programa na memória afetiva do público.",
+        "porQueImporta": "Relembrar um ícone da cultura infantil brasileira e reforçar a tradição da emissora.",
         "category": "entretenimento",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/musica/shows-de-kanye-west-na-russia-estao-cancelados-diz-organizadora/"
+            "url": "https://www.cnnbrasil.com.br/pop/tv/tv-globinho-veja-por-onde-andam-apresentadores-da-edicao-especial/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/10/01/shows-de-kanye-west-sao-cancelados-na-russia-imprensa-cita-ordem-de-autoridades.ghtml"
+            "url": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2026/10/01/tv-globinho-reune-antigos-apresentadores-em-edicao-especial-veja-fotos.ghtml"
           }
         ],
-        "updatedAt": "2026-10-01T14:10:43.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/vT0n4cM5dgrZsMxlkYeoRsjxERU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/8/X/15hbVnQlGAOdDXzBAG9Q/kanye-presidente.jpg"
+        "updatedAt": "2026-10-01T19:29:31.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/0_27aJOEfeONZ26uH-v7q3Kd4AY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/F/v035P6TBAkrpEDy9NHvw/whatsapp-image-2026-10-01-at-14.41.36.jpeg"
+      },
+      {
+        "clusterId": "ebfdd522cd17ba1b",
+        "slug": "aa79ed6e0fc619f5",
+        "titulo": "Vocalista do Venom, Conrad 'Cronos' Lant morre aos 63 anos",
+        "resumo": "Conrad 'Cronos' Lant, vocalista e baixista da banda britânica Venom, faleceu aos 63 anos, conforme comunicado oficial do grupo. A causa da morte não foi divulgada. A banda destacou que Lant foi o coração do Venom por mais de quatro décadas, contribuindo com voz, baixo e visão que influenciaram o heavy metal.",
+        "porQueImporta": "A morte de Lant representa a perda de uma figura central na história do heavy metal, marcando o fim de uma era para a banda e para o gênero.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/10/01/conrad-cronos-lant-vocalista-do-venom-morre-aos-63-anos.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-01T18:52:01.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/OP7uG6JfSq55yWqoijL32opgnZU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/t/3BP5ylRnOfopbLdP2ZXQ/conrad-lant-venom.jpg"
+      },
+      {
+        "clusterId": "b6f1dec8c5c22811",
+        "slug": "f4a56fac031641c4",
+        "titulo": "Juliano Floss denuncia vídeo deepfake de sexo com ex-BBB",
+        "resumo": "Juliano Floss denunciou a circulação de um vídeo de 15 segundos, criado por inteligência artificial, que mostra cenas de sexo com o ex-BBB Jonas Sulzbach. O ator afirmou que está anotando os nomes dos responsáveis e pode processar quem espalhar o conteúdo. Ele expressou que não tem problema em buscar justiça contra os envolvidos.",
+        "porQueImporta": "A denúncia destaca a crescente ameaça de deepfakes à privacidade e reputação de celebridades.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/10/01/juliano-floss-reclama-de-video-deepfake-de-sexo-com-outro-ex-bbb-crime-contra-mim.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-01T18:48:52.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/oUJuyakbp917-yQfTYv9CzK5GjA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/d/BZArclTmioI0E4suwSmQ/juliano-floss.jpg"
+      },
+      {
+        "clusterId": "d80690b6bef6eca4",
+        "slug": "1c64e047b8190db7",
+        "titulo": "Modelo Evellin Nicomedes aparece em fotos com jogador Jorge Carrascal durante viagem à Cartagena",
+        "resumo": "O meia Jorge Carrascal, do Flamengo, postou fotos de sua viagem a Cartagena, na Colômbia, nas quais aparece ao lado da modelo brasileira Evellin Nicomedes. A modelo comentou a publicação com emojis de coração e repostou a selfie nos stories, adicionando a música “Gracias a Mi”. A postagem inclui também imagens do jogador com familiares.",
+        "porQueImporta": "Ilustra a relação pública entre atleta e modelo, gerando interesse dos fãs e da mídia esportiva.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/10/01/quem-e-evellin-nicomedes-modelo-brasileira-namorada-de-carrascal-do-flamengo.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-01T17:48:13.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/4B5jXDiXSw9h8wJqPTmpZFRhbTY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/z/6yeE2eRMOBGOSYxRTpuQ/design-sem-nome-2026-10-01t143126.586.png"
       },
       {
         "clusterId": "4b7960737e8de67a",
@@ -1368,84 +1465,20 @@
         "imageUrl": "https://s2-g1.glbimg.com/Vt_v0YfOHN0-PMkKz1IwsmUoBho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/n/sNOYdpTyazmcflL1BRMA/mayday.webp"
       },
       {
-        "clusterId": "06a85699b478b18a",
-        "slug": "2f0926bc6149c9ac",
-        "titulo": "Samba da Portela para Carnaval 2027 gravação com Paulinho da Viola, Teresa Cristina, Zeca Pagodinho e Diogo Nogueira",
-        "resumo": "A escola de samba Portela gravou o samba de enredo para o Carnaval de 2027 em estúdio na Barra Olímpica. O projeto contou com a participação de Paulinho da Viola, Teresa Cristina, Zeca Pagodinho e Diogo Nogueira, além de outros artistas. A gravação faz parte de uma tendência de escolas que convidam artistas ilustres para registrar seus sambas de enredo.",
-        "porQueImporta": "Mostra a valorização da cultura popular e a colaboração entre artistas consagrados e escolas de samba.",
+        "clusterId": "bdfc3d3d424e5610",
+        "slug": "232328e2c33116d0",
+        "titulo": "Shows de Kanye West cancelados na Rússia",
+        "resumo": "Os shows de Kanye West em São Petersburgo, programados para 10 e 11 de outubro, foram cancelados pela organizadora Say Agency. A decisão ocorreu em meio a reações internacionais às declarações antissemitas do artista, que já levaram a cancelamentos em outros países europeus. Os compradores podem solicitar reembolso.",
+        "porQueImporta": "Ilustra como declarações controversas podem afetar a agenda de artistas em nível internacional.",
         "category": "entretenimento",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/10/01/paulinho-da-viola-teresa-cristina-zeca-pagodinho-e-diogo-nogueira-gravam-o-samba-da-portela-em-tributo-a-monarco.ghtml"
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/10/01/shows-de-kanye-west-sao-cancelados-na-russia-imprensa-cita-ordem-de-autoridades.ghtml"
           }
         ],
-        "updatedAt": "2026-10-01T08:00:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/eIKd35gDMLi0z9IMwWPpptZLzDE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/u/gMamn2TimIJAjDm3z6Bw/portela2027.jpg"
-      },
-      {
-        "clusterId": "2803cc19fb16d71b",
-        "slug": "6ce156862b014c10",
-        "titulo": "Alaíde Costa recebe prêmio no 10º Women's Music Event Awards",
-        "resumo": "A cantora Alaíde Costa, 90 anos, foi homenageada na 10ª edição do Women's Music Event Awards, que ocorrerá em 15 de dezembro em São Paulo. O reconhecimento faz parte de uma reparação histórica à sua carreira, que tem sido valorizada nos últimos anos. O evento destaca a contribuição de mulheres na música brasileira.",
-        "porQueImporta": "O prêmio reforça a valorização de artistas femininas e corrige a invisibilidade histórica de suas contribuições.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/10/01/premio-para-alaide-costa-em-dezembro-da-continuidade-a-reparacao-historica-saboreada-pela-artista-nos-ultimos-anos.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-01T07:00:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/FOylh8HEj1wUfyPBHxCSkPVPs44=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/C/d/GyJnjVQqKgOHC65jKSow/alaide-costa-por-mualvesso-murilo-alvesso-leve-3383.jpg"
-      },
-      {
-        "clusterId": "53f9f997257a0c02",
-        "slug": "17377a0de03524f5",
-        "titulo": "Galinha Pintadinha estreia no cinema com filme de equipe 100% brasileira",
-        "resumo": "O filme \"Galinha Pintadinha - O filme\" estreou na quarta-feira, marcando a estreia da personagem no cinema. A produção conta com equipe quase 100% brasileira e segue a trajetória da diva pop que já domina o YouTube e diversos produtos licenciados. A estreia acontece no aniversário de 20 anos da personagem, criada por Juliano Prado e Marcos Luporini.",
-        "porQueImporta": "Representa a consolidação de uma marca cultural brasileira no cinema, ampliando seu alcance para o público infantil.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/10/01/galinha-pintadinha-o-filme-marca-estreia-da-diva-pop-animada-no-cinema-em-aniversario-de-20-anos.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-01T07:00:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/18WO-razR7RhlGY6z9BDaiCCv1Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/B/aEALxBQcqrBeBPeguLuQ/galinha-pintadinha-o-filme.png"
-      },
-      {
-        "clusterId": "005986406a0d527b",
-        "slug": "bc5ab6c2bf934220",
-        "titulo": "Lazzo Matumbi lança single do álbum ao vivo 'Matumbi canta a Bahia'",
-        "resumo": "O cantor Lazzo Matumbi vai lançar, em 2 de outubro, o primeiro single do álbum ao vivo intitulado 'Matumbi canta a Bahia', gravado em 24 de julho durante um show em Salvador, na Concha Acústica do Teatro Castro Alves. O espetáculo contou com a direção musical de Ubiratan Marques e a produção de Manno Góes, que também atuou como diretor artístico. O single apresenta a influência da África na música baiana e inclui composições da Bahia.",
-        "porQueImporta": "O lançamento destaca a valorização da cultura baiana e africana na música contemporânea.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/10/01/lazzo-matumbi-expoe-a-influencia-da-africa-em-single-de-album-audiovisual-em-que-canta-compositores-da-bahia.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-01T03:02:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/z7J8QQamOrmz9ZXjaQY41DMMK_E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/e/KrQJOSS1yAFzILcDsVjA/lazzofoto.jpeg"
-      },
-      {
-        "clusterId": "500776b352f5afa8",
-        "slug": "740ced085ccc0608",
-        "titulo": "Festival do Rio 2026 abre com mais de 300 filmes e sensação de Cannes",
-        "resumo": "O Festival do Rio 2026 iniciou nesta quinta-feira com uma programação de mais de 300 filmes, incluindo produções premiadas em festivais internacionais, premières mundiais e sessões gratuitas em vários pontos da cidade. A abertura foi com o filme espanhol “A Bola Preta”, premiado em Cannes e que representa a Espanha na disputa por uma vaga no Oscar 2027. Entre os destaques da edição está a primeira exibição mundial de “100 Dias”, novo filme de Carlos Saldanha, baseado no livro de Amyr Klink sobre sua travessia do Rio de Janeiro.",
-        "porQueImporta": "O evento destaca o cinema brasileiro e internacional, atraindo atenção global e potencializando o turismo cultural na cidade.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/guia/guia-rj/noticia/2026/10/01/festival-do-rio-2026-mais-de-300-filmes-em-cartaz-g1-lista-destaques.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-01T03:00:01.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/_1JeBpeEyp7tGaIhSEemhqlftY0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/n/OQ7fgFTKSbxzGudzNAiQ/whatsapp-image-2026-09-10-at-13.01.54.jpeg"
+        "updatedAt": "2026-10-01T10:50:01.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/vT0n4cM5dgrZsMxlkYeoRsjxERU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/8/X/15hbVnQlGAOdDXzBAG9Q/kanye-presidente.jpg"
       }
     ]
   }
