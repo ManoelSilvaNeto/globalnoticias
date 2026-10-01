@@ -1,10 +1,8 @@
 {
-  "ranAt": "2026-09-30T14:40:27.874Z",
-  "editionDate": "2026-09-30",
-  "hourUtc": 14,
-  "outcome": "generated",
-  "reason": "\"Mercado, segurança aérea e eleições dominam a agenda do dia\" (4 parágrafos)",
-  "attempts": [
-    "ok"
-  ]
+  "ranAt": "2026-10-01T04:34:11.298Z",
+  "editionDate": "2026-10-01",
+  "hourUtc": 4,
+  "outcome": "skipped",
+  "reason": "fora da janela (4h < 11h UTC)",
+  "attempts": []
 }
