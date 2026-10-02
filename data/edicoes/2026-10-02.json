@@ -1,65 +1,93 @@
 {
   "date": "2026-10-02",
-  "generatedAt": "2026-10-02T14:30:03.836Z",
+  "generatedAt": "2026-10-02T20:23:19.423Z",
   "home": [
     {
-      "clusterId": "22a27b90bd0d056a",
-      "slug": "b0039d3291f917b5",
-      "titulo": "Globo cancela debate presidencial após decisões do TSE e do STF",
-      "resumo": "A TV Globo cancelou o debate programado para 1º de outubro, após receber duas notificações judiciais: uma do TSE, que proibiu a exibição de um púlpito vazio com o nome de Lula, e outra do STF, que determinou a inclusão de Renan Santos no debate. Lula já havia anunciado que não participaria, enquanto Flávio Bolsonaro optou por não comparecer. A decisão gerou indignação de associações de imprensa e críticas de candidatos, que acusam a intervenção judicial de interferir nas regras previamente acordadas.",
-      "porQueImporta": "O cancelamento evidencia a influência de decisões judiciais sobre a cobertura de debates eleitorais, afetando a transparência e a participação dos candidatos.",
+      "clusterId": "f4d0da08c893486d",
+      "slug": "0bf547a6c8e3b615",
+      "titulo": "Fachin solicita à PF apuração sem exceção de fatos envolvendo ministros",
+      "resumo": "O presidente do STF, Luiz Fux, pediu à Polícia Federal que investigue, sem exceção, qualquer informação que envolva ministros da Corte, incluindo dados, documentos ou indícios. Ele destacou a necessidade de preservar a autonomia da PF e do Ministério Público. A solicitação faz parte do caso Master, em que há suspeitas de envolvimento de integrantes do STF.",
+      "porQueImporta": "Garantir a transparência e a integridade da Justiça em processos que podem afetar a confiança pública.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/justica/fachin-diz-a-pf-que-suspeitas-sobre-ministros-devem-ser-apuradas-sem-excecao/"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/fachin-diz-a-pf-que-fatos-envolvendo-ministros-devem-ser-apurados-sem-excecao/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/fachin-defende-apuracao-de-fatos-envolvendo-ministros-no-caso-master/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/caso-master-fachin-pede-a-pf-apuracao-sem-excecao-de-fatos-ligados-a-integrantes-do-stf/"
+        }
+      ],
+      "updatedAt": "2026-10-02T20:06:39.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/07/Foto-Rosinei-CoutinhoSTF-FACHIN.jpg"
+    },
+    {
+      "clusterId": "4029666c072fcc55",
+      "slug": "cecf28397e4d6612",
+      "titulo": "Fachin agenda reunião com Polícia Federal sobre menções a ministros no caso Master",
+      "resumo": "O presidente do Supremo Tribunal Federal, Edson Fachin, marcou reunião com o diretor-geral da Polícia Federal, Andrei Rodrigues, para discutir as menções a ministros do STF nas investigações do caso Banco Master. Fachin pediu que a PF investigue rigorosamente qualquer fato relevante envolvendo os ministros. A Polícia Federal está preparando relatório sobre a posição da corporação em relação às citações de ministros no caso.",
+      "porQueImporta": "A decisão pode influenciar a continuidade das investigações e a percepção de imparcialidade do STF.",
       "category": "politica",
       "sources": [
         {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.co.uk/portuguese/live/c9rk3kjvgy35t?at_medium=RSS&at_campaign=rss"
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-justica/fachin-marca-reuniao-com-andrei-para-tratar-do-caso-master/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/a-orientacao-de-fachin-a-pf-sobre-os-ministros-suspeitos-de-envolvimento-no-master/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/10/02/fachin-marca-reuniao-com-pf-para-tratar-de-mencoes-a-ministros-do-stf-no-master.ghtml"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/justica/pf-se-prepara-para-enviar-a-fachin-material-do-master-que-cita-ministros-do-stf/"
+        }
+      ],
+      "updatedAt": "2026-10-02T19:44:30.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/55561264401_5415c1db9b_c.jpg"
+    },
+    {
+      "clusterId": "bb194d908a5aa901",
+      "slug": "2a7ddfc74d062d82",
+      "titulo": "Governo brasileiro investigou ameaça que levou à suspensão dos serviços consulares dos EUA",
+      "resumo": "O governo Lula recebeu alerta de segurança sobre possíveis ameaças à embaixada dos Estados Unidos em Brasília e a seus consulados antes da suspensão dos serviços consulares. Autoridades brasileiras já estavam em contato com as autoridades americanas para avaliar a situação e tomar medidas de proteção. A suspensão dos serviços consulares permanece sem prazo definido para retomada. O governo continua investigando a natureza da ameaça apontada pelos EUA.",
+      "porQueImporta": "A medida afeta a prestação de serviços consulares aos brasileiros e pode indicar riscos à segurança diplomática no país.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-governo/governo-lula-agiu-antes-da-suspensao-dos-eua-e-ve-risco-na-embaixada/"
         },
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/mario-sabino/a-mao-peluda-de-ministros-do-stf-no-debate-da-rede-globo"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-midia/midia-tradicional-critica-stf-e-tse-por-melarem-debate-da-globo/"
+          "url": "https://www.metropoles.com/brasil/governo-lula-soube-antes-do-fechamento-da-embaixada-dos-eua-e-apura-ameacas"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/10/02/resumao-diario-2173-globo-cancela-debate-com-candidatos-a-presidencia-apos-decisoes-do-tse-e-do-stf-sobre-lula-e-renan-corpo-de-lito-sousa-sera-velado-na-zona-norte-de-sao-paulo.ghtml"
+          "url": "https://g1.globo.com/politica/noticia/2026/10/02/governo-eua-embaixada-brasilia.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/governo-brasileiro-soube-com-antecedencia-de-fechamento-da-embaixada-dos-eua/"
         }
       ],
-      "updatedAt": "2026-10-02T14:30:04.451Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b8/live/bf445da0-bdf2-11f1-babe-4199b0e7ccea.jpg"
+      "updatedAt": "2026-10-02T19:43:35.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/policiamento-embaixada-dos-eua-1.jpeg"
     },
     {
-      "clusterId": "032b61f08c96742c",
-      "slug": "c1ab97e111d799de",
-      "titulo": "TSE determina revisão de posts que vinculam Flávio Bolsonaro à retirada de Nossa Senhora Aparecida como padroeira",
-      "resumo": "O vice‑presidente do TSE, André Mendonça, ordenou que plataformas sociais revisem e excluam publicações que afirmem falsamente que Flávio Bolsonaro pretende retirar o título de padroeira de Nossa Senhora Aparecida. A decisão foi tomada após discussões internas e resultou na liberação de um post do humorista Antonio Tabet, que não fazia tal afirmação. O TSE manteve a proibição de conteúdos que associem o candidato ao boato, reforçando a necessidade de verificação de fatos nas redes.",
-      "porQueImporta": "A medida regula a disseminação de informações falsas sobre figuras públicas nas redes sociais.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/mendonca-determina-que-redes-revisem-remocao-de-publicacoes-sobre-nossa-senhora/"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-justica/mendonca-orienta-plataformas-sobre-posts-do-caso-nossa-senhora/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/10/02/mendonca-manda-redes-apagarem-posts-associando-flavio-bolsonaro-a-retirada-do-posto-de-padroeira-de-nossa-senhora.ghtml"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-10-02T14:21:22.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/04/52441529977_f3565b5d7d_o.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "17d92d50f1bc756b",
+      "clusterId": "e17400122f9914b0",
       "slug": "42f219e45700e7f6",
       "titulo": "Influenciador Lito Sousa morre aos 59 anos em São Paulo",
       "resumo": "O influenciador e ex-piloto Joselito Geraldo de Sousa, conhecido pelo canal Aviões e Músicas, faleceu nesta quinta-feira (1º) após ser diagnosticado com a doença de Creutzfeldt‑Jakob. A morte foi confirmada pelo Hospital Albert Einstein e pela família. O presidente Lula e outras personalidades públicas lamentaram sua perda. A comunidade de aviação e seguidores online se mobilizaram em homenagem ao seu legado.",
@@ -68,571 +96,211 @@
       "sources": [
         {
           "name": "Veja",
-          "url": "https://veja.abril.com.br/cultura/casados-por-10-anos-lito-sousa-e-esposa-se-conheceram-pela-internet/"
+          "url": "https://veja.abril.com.br/comportamento/lito-sousa-deixou-presente-de-valor-inestimavel-ao-filho-antes-de-morrer/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/ciencia/foram-dias-muito-dificeis-e-uma-doenca-avassaladora-diz-viuva-de-lito-sousa/"
         },
         {
           "name": "G1",
           "url": "https://g1.globo.com/pop-arte/noticia/2026/10/02/lito-sousa-caiu-em-pegadinha-do-faustao-antes-da-fama-na-internet-video.ghtml"
         },
         {
-          "name": "Exame",
-          "url": "https://exame.com/ciencia/lito-sousa-entenda-o-que-sao-prions-e-como-podem-provocar-doenca-que-levou-a-morte-do-influenciador/"
-        },
-        {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/cqz0z0epzdrxo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-10-02T13:54:47.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/litomila.jpg"
+      "updatedAt": "2026-10-02T19:38:03.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/unnamed-6.jpg"
     },
     {
-      "clusterId": "028adb0bf4d59af4",
-      "slug": "15828d3e5cf399c2",
-      "titulo": "Ibovespa passa de alta a estabilidade antes da eleição",
-      "resumo": "O índice Ibovespa iniciou o pregão com alta de 1,4% e, após o relatório de empregos dos EUA, encerrou em estabilidade. O payroll de setembro nos EUA ficou em 29 mil vagas, abaixo da expectativa, o que reduziu a pressão sobre os juros norte‑americanos. A produção industrial brasileira e a queda no preço do petróleo também influenciaram o mercado. A sessão pré‑eleição manteve volatilidade, mas o índice não avançou significativamente.",
-      "porQueImporta": "Reflete a sensibilidade do mercado brasileiro a indicadores econômicos globais e ao clima de incerteza política antes das eleições.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/ibovespa-payroll-rouba-a-cena-e-indice-sobe-forte-em-ultima-sessao-pre-eleicao/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/economia/ibovespa-sobe-073-apos-payroll-fraco-nos-eua-eleicao-mantem-cautela/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/invest/mercados/ibovespa-trava-no-ultimo-pregao-pre-eleicao-e-dolar-vai-a-r-522/"
-        }
-      ],
-      "updatedAt": "2026-10-02T14:06:53.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2021/11/DSC_2817.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "bc05f3a94b95ccfc",
-      "slug": "a9cad337b19ad915",
-      "titulo": "Pesquisa Real Time Big Data mostra líderes nas eleições de Paraíba e Tocantins",
-      "resumo": "A pesquisa Real Time Big Data, divulgada em 2 de maio, indica que o governador Lucas Ribeiro (PP) lidera os cenários de primeiro e segundo turno na Paraíba, com 50% das intenções de voto no segundo turno. No Tocantins, a senadora Professora Dorinha (União Brasil) aparece na frente nos cenários de primeiro e segundo turno. As análises também apontam disputas acirradas em outras cadeiras, como o Senado no Amazonas e na Paraíba.",
-      "porQueImporta": "Os resultados revelam as posições de destaque dos candidatos nas próximas eleições, influenciando estratégias de campanha e expectativas eleitorais.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/pesquisa-real-time-big-data-mostra-como-esta-corrida-ao-governo-da-paraiba/"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-eleicoes-2026/lucas-ribeiro-lidera-o-2o-turno-na-paraiba-diz-pesquisa/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/eduardo-gomes-lidera-corrida-pelo-senado-no-tocantins-aponta-pesquisa/"
-        }
-      ],
-      "updatedAt": "2026-10-02T13:30:52.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/Governador-da-Paraiba-Lucas-Ribeiro.jpg"
-    },
-    {
-      "clusterId": "36dfda8820c05ac1",
-      "slug": "c8a8b079761609ec",
-      "titulo": "Embaixada da Austrália fecha em Brasília após alerta de segurança dos EUA",
-      "resumo": "A embaixada da Austrália no Brasil anunciou o fechamento de suas instalações nesta sexta-feira (2 de outubro) por preocupações com a segurança. A decisão foi tomada após os Estados Unidos emitirem um alerta orientando cidadãos a evitarem instalações diplomáticas norte-americanas no país. Os EUA suspenderam o atendimento presencial na embaixada e em consulados em todo o Brasil na quinta-feira (1). A Austrália não divulgou detalhes adicionais sobre o motivo do fechamento.",
-      "porQueImporta": "O fechamento demonstra a influência dos alertas de segurança internacionais sobre operações diplomáticas no Brasil.",
+      "clusterId": "bc8e29383e694536",
+      "slug": "0795b995cb5600de",
+      "titulo": "Globo cancela debate presidencial antes do 1º turno",
+      "resumo": "A TV Globo cancelou o debate entre os candidatos à Presidência da República, após receber duas intimações judiciais que alteravam as regras previamente acordadas. A decisão foi motivada por determinações do TSE e do STF, que incluíram a proibição de um púlpito vazio para Lula e a inclusão de Renan Santos. Os candidatos que confirmaram presença lamentaram a interrupção, e entidades de imprensa expressaram indignação com a intervenção judicial.",
+      "porQueImporta": "O cancelamento afeta a transparência e a participação dos eleitores no debate pré-eleitoral.",
       "category": "politica",
       "sources": [
         {
           "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/embaixada-da-australia-suspende-servicos-apos-alerta-de-seguranca-dos-eua/"
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/midia-internacional-repercute-cancelamento-de-debate-da-globo/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/10/02/apos-aviso-dos-eua-embaixada-da-australia-anuncia-fechamento-por-questoes-de-seguranca.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/apos-alerta-dos-eua-australia-tambem-fecha-embaixada-em-brasilia-nesta-sexta/"
-        }
-      ],
-      "updatedAt": "2026-10-02T13:11:06.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/tf_K_IzaE3OTfacht5hlaZc2rZM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/F/vGAdAUTLCBGAZAeRQ7HQ/design-sem-nome-6-.png"
-    },
-    {
-      "clusterId": "6bf2d3d812810e01",
-      "slug": "0eaf93f84ec80997",
-      "titulo": "Telescópio VLT dispara lasers para criar estrelas artificiais no Atacama",
-      "resumo": "O Telescópio Muito Grande (VLT) no Chile utiliza lasers de alta potência que iluminam a atmosfera a cerca de 90 km de altitude, gerando estrelas artificiais. Essas estrelas servem como referências para corrigir distorções atmosféricas e melhorar a qualidade das imagens capturadas pelos telescópios. A operação envolve até quatro lasers simultâneos, uma primeira vez na história do VLT.",
-      "porQueImporta": "Permite observações astronômicas mais precisas ao compensar a turbulência atmosférica.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/10/02/ciencia-e-espaco/lasers-gigantes-criam-estrelas-artificiais-no-ceu-do-atacama/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ciencia/noticia/2026/10/02/por-que-astronomos-fabricam-estrelas-falsas-com-lasers-gigantes.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/02/debate-presidencial-cancelado-veja-o-que-falou-imprensa-internacional.ghtml"
         },
         {
           "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cm4gdg5n8e1vo?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.bbc.com/portuguese/articles/cm0rekknz957o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-10-02T12:59:04.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/WVc5PRbHcoBXO6UKLW9cEaJLnWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/s/zcpIAITUm4uACBtwAJag/f55ac736-53a9-409b-9acd-f616af86ff01.png"
+      "updatedAt": "2026-10-02T20:16:21.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/AbCk6IqEkYnJ7ACnfKfGo92y2J8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/G/q2CgvxR5quJPgFa39R5A/wp.png"
     },
     {
-      "clusterId": "48a23ad83b41d9c8",
-      "slug": "346063d4c9b2c49c",
-      "titulo": "Petrobras anuncia nova descoberta de petróleo na Bacia da Foz do Amazonas",
-      "resumo": "A Petrobras revelou a descoberta de petróleo em um intervalo mais profundo de um poço que já apresentava indícios de hidrocarbonetos em agosto. A descoberta ocorre na Bacia da Foz do Amazonas, região que tem atraído atenção de empresas do setor. O resultado reforça o potencial petrolífero da zona e pode ampliar a produção da estatal.",
-      "porQueImporta": "A descoberta pode aumentar a produção de petróleo da Petrobras e fortalecer a posição da empresa no mercado energético.",
+      "clusterId": "549c2bf1e8e4c2a5",
+      "slug": "c4e790469324cd99",
+      "titulo": "Cristiano Ronaldo enfrenta crise com Jorge Jesus e recebe apoio de craques",
+      "resumo": "O jogador abandonou a concentração da seleção portuguesa durante a Data Fifa, em meio a um desentendimento com o técnico Jorge Jesus. Em apoio a Cristiano Ronaldo, painéis foram exibidos em Portugal e figuras como Thierry Henry, Arturo Vidal e Rio Ferdinand defenderam o atleta. A situação ocorre enquanto o atleta, de 41 anos, mantém 979 gols oficiais e encara a reta final de sua carreira.",
+      "porQueImporta": "A tensão entre jogador e técnico pode afetar a participação de Ronaldo nas competições internacionais.",
       "category": "economia",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/economia/petrobras-anuncia-nova-descoberta-de-petroleo-na-bacia-da-foz-do-amazonas/"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-anuncia-nova-descoberta-de-petroleo-na-foz-do-amazonas/"
-        }
-      ],
-      "updatedAt": "2026-10-02T14:29:56.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/02/1-53218946902_a76f4eaed2_o.jpeg.jpg"
-    },
-    {
-      "clusterId": "f4ae4b3385851172",
-      "slug": "f0688b6988846744",
-      "titulo": "Starbucks abre lojas em Xinjiang e enfrenta críticas internacionais",
-      "resumo": "A rede de cafeterias Starbucks inaugurou duas unidades em Urumqi, capital da região de Xinjiang, na China, em 29 de março. A expansão ocorreu em meio a denúncias de violações de direitos humanos contra a população uigur. O movimento foi alvo de críticas de um congressista americano e de um grupo de defesa dos direitos humanos. A ONU já havia alertado em 2022 sobre possíveis crimes de guerra na região.",
-      "porQueImporta": "A decisão da Starbucks pode influenciar a percepção global sobre responsabilidade corporativa em áreas de conflito.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/economia/starbucks-abre-lojas-em-regiao-da-china-e-vira-alvo-de-criticas-nos-eua/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/economia/noticia/2026/10/02/starbucks-china-lojas.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-02T14:27:18.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2023/06/GettyImages-498869403.jpg"
-    },
-    {
-      "clusterId": "ea851dfb31354868",
-      "slug": "85ac6d09afc14c2c",
-      "titulo": "Haddad critica falta de tempo de TV de Tarcísio e destaca queda de apoio",
-      "resumo": "O candidato a governador de São Paulo, Fernando Haddad, afirmou que a falta de tempo de TV de Tarcísio de Freitas prejudicou os eleitores. Ele apontou que o governador tem se afastado dos debates. Em pesquisa da Datafolha, Tarcísio lidera com 50% dos votos, enquanto Haddad tem 33%. A diferença de apoio reflete a percepção de atenção dos candidatos à campanha.",
-      "porQueImporta": "O desempenho na mídia e a diferença de apoio podem influenciar o resultado do primeiro turno das eleições de 2026.",
-      "category": "politica",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/haddad-se-queixa-de-tempo-de-tv-e-critica-sumico-de-tarcisio-em-debates"
+          "url": "https://www.metropoles.com/esportes/craques-defendem-cristiano-ronaldo-em-meio-a-crise-com-jorge-jesus"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/paineis-em-apoio-a-cristiano-ronaldo-sao-vistos-em-portugal-apos-polemica/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/esporte/a-reta-final-da-carreira-de-cristiano-ronaldo-entre-os-recordes-e-o-racha-com-jorge-jesus/"
+        }
+      ],
+      "updatedAt": "2026-10-02T20:10:25.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/cristiano-ronaldo.jpg"
+    },
+    {
+      "clusterId": "053dcf311b4e5649",
+      "slug": "e78c784f0c4112df",
+      "titulo": "Moro e Sandro Alex empatam no 2º turno no Paraná",
+      "resumo": "A pesquisa Real Time Big Data, com 1.600 eleitores, indica que no 1º turno Sergio Moro liderou com 37% e Sandro Alex ficou em 29%. No 2º turno, ambos chegaram a 42% cada, empatando. Na disputa ao Senado, Dallagnol lidera com 21%, enquanto Alexandre Curi e Filipe Barros têm 19% cada. A margem de erro é de dois pontos percentuais.",
+      "porQueImporta": "Os resultados revelam a forte concorrência entre os candidatos e a polarização nas intenções de voto no Paraná.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-moro-e-sandro-empatam-no-2o-turno-com-42-cada/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/carta-capital/dallagnol-lidera-disputa-pelo-senado-no-parana-com-21-diz-real-time-big-data/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/pesquisa-real-time-aziz-lidera-1o-turno-com-36-no-amazonas/"
+        }
+      ],
+      "updatedAt": "2026-10-02T20:06:23.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/04/PR.jpg"
+    },
+    {
+      "clusterId": "9b7d789dcbe7a0d1",
+      "slug": "af3dd7fc36dc54aa",
+      "titulo": "Ivete Sangalo homenageia filho Marcelo no aniversário de 17 anos",
+      "resumo": "A cantora Ivete Sangalo postou nas redes sociais uma mensagem e fotos celebrando o aniversário de 17 anos de seu filho Marcelo. Ela destacou que a chegada dele mudou sua vida, trazendo alegria, orgulho e um caminho mais luminoso. O filho foi homenageado em postagens que incluíram fotos da família e palavras de gratidão. A mensagem reforçou o papel central de Marcelo na vida da artista.",
+      "porQueImporta": "Mostra a importância da família na vida pública de uma figura de destaque no cenário musical brasileiro.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/cultura/namorado-de-ivete-parabeniza-marcelo-sangalo-mora-no-meu-coracao/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/lucas-pasin/ivete-sangalo-se-declara-para-o-filho-grande-projeto-da-minha-vida"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/01/datafolha-sp-governador-01-outubro.ghtml"
+          "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/02/aniversario-marcelo-sangalo.ghtml"
         }
       ],
-      "updatedAt": "2026-10-02T14:14:06.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/10/design-sem-nome-2026-10-02t105600-409-1.png"
+      "updatedAt": "2026-10-02T20:04:51.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/Design-sem-nome-4.jpg"
+    },
+    {
+      "clusterId": "d68b89ad999051af",
+      "slug": "2376794e35dac074",
+      "titulo": "Polícia Federal cumpre mandados de busca e apreensão contra suspeitos de plano contra Embaixada dos EUA",
+      "resumo": "A Polícia Federal executou dois mandados de busca e apreensão em São Paulo e no entorno do Distrito Federal, visando dois suspeitos envolvidos em um suposto plano de ataque à Embaixada e consulados dos Estados Unidos no Brasil. A operação foi autorizada por um juiz de primeiro grau do Distrito Federal e faz parte de uma investigação mais ampla. Até o momento, não foram encontradas provas de risco efetivo às instalações consulares americanas.",
+      "porQueImporta": "A ação demonstra a atuação das autoridades na prevenção de ameaças à diplomacia internacional no país.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/pf-cumpre-2-mandados-em-caso-sobre-suposto-plano-contra-embaixada-dos-eua/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/10/02/pf-cumpre-dois-mandados-de-busca-e-apreensao-em-investigacao-sobre-suposto-plano-contra-embaixada-dos-eua.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/pf-realiza-busca-e-apreensao-em-sp-e-df-contra-suspeitos-de-ameacar-embaixada-e-consulados-dos-eua/"
+        }
+      ],
+      "updatedAt": "2026-10-02T20:01:34.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/bfKHR_aTbBAXlDIGuN9IJw9wh-c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/u/6r4yUESxyyYEHh0TIVsw/embaixada-dos-eua-em-brasilia.jpg"
+    },
+    {
+      "clusterId": "3464215999b50df5",
+      "slug": "a15875351a1127bd",
+      "titulo": "Pesquisa Latinobarómetro 2026 mostra influência chinesa mais positiva que a dos EUA na América Latina",
+      "resumo": "A pesquisa Latinobarómetro 2026 indica que 65% dos latino-americanos avaliam positivamente a influência da China, enquanto a avaliação positiva dos Estados Unidos caiu para 57%. O índice de aprovação chinesa aumentou de 48% em 2020 para 65% em 2026, marcando a primeira vez que a China supera os EUA em percepção regional. A mudança reflete a percepção de produtos baratos e a influência de políticas externas, como o “fator Trump”.",
+      "porQueImporta": "A mudança na percepção demonstra um realinhamento de influências geopolíticas na região.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/pela-primeira-vez-america-latina-ve-influencia-da-china-de-forma-mais-positiva-que-a-dos-eua/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/mundo/america-latina-ve-influencia-da-china-como-mais-positiva-que-a-dos-eua-diz-pesquisa/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/02/america-latina-ve-influencia-da-china-mais-positiva-que-a-dos-eua-pela-1a-vez-diz-pesquisa.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-02T19:55:29.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/02/gettyimages-871865920-594x594-1.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "22a27b90bd0d056a",
-        "slug": "b0039d3291f917b5",
-        "titulo": "Globo cancela debate presidencial após decisões do TSE e do STF",
-        "resumo": "A TV Globo cancelou o debate programado para 1º de outubro, após receber duas notificações judiciais: uma do TSE, que proibiu a exibição de um púlpito vazio com o nome de Lula, e outra do STF, que determinou a inclusão de Renan Santos no debate. Lula já havia anunciado que não participaria, enquanto Flávio Bolsonaro optou por não comparecer. A decisão gerou indignação de associações de imprensa e críticas de candidatos, que acusam a intervenção judicial de interferir nas regras previamente acordadas.",
-        "porQueImporta": "O cancelamento evidencia a influência de decisões judiciais sobre a cobertura de debates eleitorais, afetando a transparência e a participação dos candidatos.",
+        "clusterId": "4029666c072fcc55",
+        "slug": "cecf28397e4d6612",
+        "titulo": "Fachin agenda reunião com Polícia Federal sobre menções a ministros no caso Master",
+        "resumo": "O presidente do Supremo Tribunal Federal, Edson Fachin, marcou reunião com o diretor-geral da Polícia Federal, Andrei Rodrigues, para discutir as menções a ministros do STF nas investigações do caso Banco Master. Fachin pediu que a PF investigue rigorosamente qualquer fato relevante envolvendo os ministros. A Polícia Federal está preparando relatório sobre a posição da corporação em relação às citações de ministros no caso.",
+        "porQueImporta": "A decisão pode influenciar a continuidade das investigações e a percepção de imparcialidade do STF.",
         "category": "politica",
         "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.co.uk/portuguese/live/c9rk3kjvgy35t?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/mario-sabino/a-mao-peluda-de-ministros-do-stf-no-debate-da-rede-globo"
-          },
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-midia/midia-tradicional-critica-stf-e-tse-por-melarem-debate-da-globo/"
+            "url": "https://www.poder360.com.br/poder-justica/fachin-marca-reuniao-com-andrei-para-tratar-do-caso-master/"
           },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/10/02/resumao-diario-2173-globo-cancela-debate-com-candidatos-a-presidencia-apos-decisoes-do-tse-e-do-stf-sobre-lula-e-renan-corpo-de-lito-sousa-sera-velado-na-zona-norte-de-sao-paulo.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-02T14:30:04.451Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09b8/live/bf445da0-bdf2-11f1-babe-4199b0e7ccea.jpg"
-      },
-      {
-        "clusterId": "032b61f08c96742c",
-        "slug": "c1ab97e111d799de",
-        "titulo": "TSE determina revisão de posts que vinculam Flávio Bolsonaro à retirada de Nossa Senhora Aparecida como padroeira",
-        "resumo": "O vice‑presidente do TSE, André Mendonça, ordenou que plataformas sociais revisem e excluam publicações que afirmem falsamente que Flávio Bolsonaro pretende retirar o título de padroeira de Nossa Senhora Aparecida. A decisão foi tomada após discussões internas e resultou na liberação de um post do humorista Antonio Tabet, que não fazia tal afirmação. O TSE manteve a proibição de conteúdos que associem o candidato ao boato, reforçando a necessidade de verificação de fatos nas redes.",
-        "porQueImporta": "A medida regula a disseminação de informações falsas sobre figuras públicas nas redes sociais.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/mendonca-determina-que-redes-revisem-remocao-de-publicacoes-sobre-nossa-senhora/"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-justica/mendonca-orienta-plataformas-sobre-posts-do-caso-nossa-senhora/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/10/02/mendonca-manda-redes-apagarem-posts-associando-flavio-bolsonaro-a-retirada-do-posto-de-padroeira-de-nossa-senhora.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cmvgy277qg5po?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-10-02T14:21:22.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/04/52441529977_f3565b5d7d_o.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "bc05f3a94b95ccfc",
-        "slug": "a9cad337b19ad915",
-        "titulo": "Pesquisa Real Time Big Data mostra líderes nas eleições de Paraíba e Tocantins",
-        "resumo": "A pesquisa Real Time Big Data, divulgada em 2 de maio, indica que o governador Lucas Ribeiro (PP) lidera os cenários de primeiro e segundo turno na Paraíba, com 50% das intenções de voto no segundo turno. No Tocantins, a senadora Professora Dorinha (União Brasil) aparece na frente nos cenários de primeiro e segundo turno. As análises também apontam disputas acirradas em outras cadeiras, como o Senado no Amazonas e na Paraíba.",
-        "porQueImporta": "Os resultados revelam as posições de destaque dos candidatos nas próximas eleições, influenciando estratégias de campanha e expectativas eleitorais.",
-        "category": "politica",
-        "sources": [
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/pesquisa-real-time-big-data-mostra-como-esta-corrida-ao-governo-da-paraiba/"
+            "url": "https://veja.abril.com.br/brasil/a-orientacao-de-fachin-a-pf-sobre-os-ministros-suspeitos-de-envolvimento-no-master/"
           },
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/lucas-ribeiro-lidera-o-2o-turno-na-paraiba-diz-pesquisa/"
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/10/02/fachin-marca-reuniao-com-pf-para-tratar-de-mencoes-a-ministros-do-stf-no-master.ghtml"
           },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/eduardo-gomes-lidera-corrida-pelo-senado-no-tocantins-aponta-pesquisa/"
+            "url": "https://www.cartacapital.com.br/justica/pf-se-prepara-para-enviar-a-fachin-material-do-master-que-cita-ministros-do-stf/"
           }
         ],
-        "updatedAt": "2026-10-02T13:30:52.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/Governador-da-Paraiba-Lucas-Ribeiro.jpg"
+        "updatedAt": "2026-10-02T19:44:30.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/55561264401_5415c1db9b_c.jpg"
       },
       {
-        "clusterId": "36dfda8820c05ac1",
-        "slug": "c8a8b079761609ec",
-        "titulo": "Embaixada da Austrália fecha em Brasília após alerta de segurança dos EUA",
-        "resumo": "A embaixada da Austrália no Brasil anunciou o fechamento de suas instalações nesta sexta-feira (2 de outubro) por preocupações com a segurança. A decisão foi tomada após os Estados Unidos emitirem um alerta orientando cidadãos a evitarem instalações diplomáticas norte-americanas no país. Os EUA suspenderam o atendimento presencial na embaixada e em consulados em todo o Brasil na quinta-feira (1). A Austrália não divulgou detalhes adicionais sobre o motivo do fechamento.",
-        "porQueImporta": "O fechamento demonstra a influência dos alertas de segurança internacionais sobre operações diplomáticas no Brasil.",
+        "clusterId": "bc8e29383e694536",
+        "slug": "0795b995cb5600de",
+        "titulo": "Globo cancela debate presidencial antes do 1º turno",
+        "resumo": "A TV Globo cancelou o debate entre os candidatos à Presidência da República, após receber duas intimações judiciais que alteravam as regras previamente acordadas. A decisão foi motivada por determinações do TSE e do STF, que incluíram a proibição de um púlpito vazio para Lula e a inclusão de Renan Santos. Os candidatos que confirmaram presença lamentaram a interrupção, e entidades de imprensa expressaram indignação com a intervenção judicial.",
+        "porQueImporta": "O cancelamento afeta a transparência e a participação dos eleitores no debate pré-eleitoral.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-internacional/embaixada-da-australia-suspende-servicos-apos-alerta-de-seguranca-dos-eua/"
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/midia-internacional-repercute-cancelamento-de-debate-da-globo/"
           },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/10/02/apos-aviso-dos-eua-embaixada-da-australia-anuncia-fechamento-por-questoes-de-seguranca.ghtml"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/apos-alerta-dos-eua-australia-tambem-fecha-embaixada-em-brasilia-nesta-sexta/"
-          }
-        ],
-        "updatedAt": "2026-10-02T13:11:06.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/tf_K_IzaE3OTfacht5hlaZc2rZM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/F/vGAdAUTLCBGAZAeRQ7HQ/design-sem-nome-6-.png"
-      },
-      {
-        "clusterId": "ea851dfb31354868",
-        "slug": "85ac6d09afc14c2c",
-        "titulo": "Haddad critica falta de tempo de TV de Tarcísio e destaca queda de apoio",
-        "resumo": "O candidato a governador de São Paulo, Fernando Haddad, afirmou que a falta de tempo de TV de Tarcísio de Freitas prejudicou os eleitores. Ele apontou que o governador tem se afastado dos debates. Em pesquisa da Datafolha, Tarcísio lidera com 50% dos votos, enquanto Haddad tem 33%. A diferença de apoio reflete a percepção de atenção dos candidatos à campanha.",
-        "porQueImporta": "O desempenho na mídia e a diferença de apoio podem influenciar o resultado do primeiro turno das eleições de 2026.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/sao-paulo/haddad-se-queixa-de-tempo-de-tv-e-critica-sumico-de-tarcisio-em-debates"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/01/datafolha-sp-governador-01-outubro.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-02T14:14:06.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/10/design-sem-nome-2026-10-02t105600-409-1.png"
-      },
-      {
-        "clusterId": "7f6bfda7c4fc7286",
-        "slug": "66ff1d47428bb58b",
-        "titulo": "Transporte coletivo gratuito no primeiro turno das eleições em cidades da Zona da Mata e do Campo das Vertentes",
-        "resumo": "O Tribunal Superior Eleitoral (TSE) decretou transporte coletivo gratuito no domingo de 4 de outubro, dia do primeiro turno das eleições, em municípios da Zona da Mata e do Campo das Vertentes. Cada cidade terá regras específicas quanto a horários, linhas e necessidade de comprovação de votação. A medida visa facilitar o deslocamento dos eleitores até os locais de votação, garantindo que cheguem com antecedência.",
-        "porQueImporta": "Facilita a participação dos eleitores, contribuindo para a regularidade e acessibilidade do processo eleitoral.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/10/02/veja-cidades-da-zona-da-mata-e-vertentes-que-vao-ter-transporte-gratuito-no-domingo-de-eleicoes.ghtml"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/radar-carta/transporte-gratuito-no-primeiro-turno-das-eleicoes-veja-como-vai-funcionar/"
-          }
-        ],
-        "updatedAt": "2026-10-02T14:06:03.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/rvVn8OxEOeGgDQNAU6lU_bfHp6o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/W/T/3gC2sWREeU3V3uyIRKQA/still1216-00003.jpg"
-      },
-      {
-        "clusterId": "8845bfe712f10fa1",
-        "slug": "bc2918405de2c138",
-        "titulo": "Lula e Flávio Bolsonaro concentram última fase de campanha no Sudeste",
-        "resumo": "Os candidatos Lula e Flávio Bolsonaro escolheram São Paulo para os últimos atos eleitorais, focando no Sudeste, região com maior colégio eleitoral. Lula registrou aumento de cinco pontos na Datafolha, passando de 35% para 40%, enquanto Bolsonaro subiu de 37% para 39%, mantendo a competição acirrada. Ministros e aliados do presidente se afastaram temporariamente de cargos para reforçar a campanha. A equipe de Lula já planeja estratégias para um eventual segundo turno, destacando a necessidade de apresentar rigor fiscal.",
-        "porQueImporta": "A concentração de esforços no Sudeste pode definir a dinâmica da eleição e influenciar a decisão dos eleitores nessa região decisiva.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/02/lula-e-flavio-bolsonaro-focam-reta-final-no-sudeste-onde-petista-avanca-e-anima-campanha.ghtml"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/a-operacao-do-time-de-lula-para-evitar-ampla-adesao-a-campanha-de-flavio-no-segundo-turno/"
-          }
-        ],
-        "updatedAt": "2026-10-02T13:43:40.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/6xTMiNTkCJRup5BHAqVyYfBk_Io=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/j/bAgtokQzyKDFHHh9PvJg/montagem-horizontal-1280x720px-1-.jpg"
-      },
-      {
-        "clusterId": "bf0862b0a956f07c",
-        "slug": "958aa1c8d7ec5493",
-        "titulo": "EUA suspendem serviços consulares no Brasil por questões de segurança",
-        "resumo": "Os Estados Unidos suspenderam o atendimento presencial na Embaixada em Brasília e em todos os consulados brasileiros, sem detalhar as ameaças que motivaram a medida. Funcionários foram orientados a trabalhar remotamente. A decisão foi anunciada em comunicado na quinta-feira, 1º de outubro. O governo norte‑americano não especificou quais serviços consulares foram afetados.",
-        "porQueImporta": "A suspensão pode afetar cidadãos americanos e brasileiros que dependem de serviços consulares no país.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/eua-suspendem-servicos-consulares-no-brasil-por-questoes-de-seguranca/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/02/eua-suspendem-atendimento-na-embaixada-e-consulados-do-brasil.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-02T12:01:02.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/embaixada-dos-eua-em-brasilia-foto-reproducao-embaixada-dos-eua.jpg"
-      }
-    ],
-    "economia": [
-      {
-        "clusterId": "028adb0bf4d59af4",
-        "slug": "15828d3e5cf399c2",
-        "titulo": "Ibovespa passa de alta a estabilidade antes da eleição",
-        "resumo": "O índice Ibovespa iniciou o pregão com alta de 1,4% e, após o relatório de empregos dos EUA, encerrou em estabilidade. O payroll de setembro nos EUA ficou em 29 mil vagas, abaixo da expectativa, o que reduziu a pressão sobre os juros norte‑americanos. A produção industrial brasileira e a queda no preço do petróleo também influenciaram o mercado. A sessão pré‑eleição manteve volatilidade, mas o índice não avançou significativamente.",
-        "porQueImporta": "Reflete a sensibilidade do mercado brasileiro a indicadores econômicos globais e ao clima de incerteza política antes das eleições.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/ibovespa-payroll-rouba-a-cena-e-indice-sobe-forte-em-ultima-sessao-pre-eleicao/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/economia/ibovespa-sobe-073-apos-payroll-fraco-nos-eua-eleicao-mantem-cautela/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/invest/mercados/ibovespa-trava-no-ultimo-pregao-pre-eleicao-e-dolar-vai-a-r-522/"
-          }
-        ],
-        "updatedAt": "2026-10-02T14:06:53.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2021/11/DSC_2817.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "48a23ad83b41d9c8",
-        "slug": "346063d4c9b2c49c",
-        "titulo": "Petrobras anuncia nova descoberta de petróleo na Bacia da Foz do Amazonas",
-        "resumo": "A Petrobras revelou a descoberta de petróleo em um intervalo mais profundo de um poço que já apresentava indícios de hidrocarbonetos em agosto. A descoberta ocorre na Bacia da Foz do Amazonas, região que tem atraído atenção de empresas do setor. O resultado reforça o potencial petrolífero da zona e pode ampliar a produção da estatal.",
-        "porQueImporta": "A descoberta pode aumentar a produção de petróleo da Petrobras e fortalecer a posição da empresa no mercado energético.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/economia/petrobras-anuncia-nova-descoberta-de-petroleo-na-bacia-da-foz-do-amazonas/"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-anuncia-nova-descoberta-de-petroleo-na-foz-do-amazonas/"
-          }
-        ],
-        "updatedAt": "2026-10-02T14:29:56.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/02/1-53218946902_a76f4eaed2_o.jpeg.jpg"
-      },
-      {
-        "clusterId": "f4ae4b3385851172",
-        "slug": "f0688b6988846744",
-        "titulo": "Starbucks abre lojas em Xinjiang e enfrenta críticas internacionais",
-        "resumo": "A rede de cafeterias Starbucks inaugurou duas unidades em Urumqi, capital da região de Xinjiang, na China, em 29 de março. A expansão ocorreu em meio a denúncias de violações de direitos humanos contra a população uigur. O movimento foi alvo de críticas de um congressista americano e de um grupo de defesa dos direitos humanos. A ONU já havia alertado em 2022 sobre possíveis crimes de guerra na região.",
-        "porQueImporta": "A decisão da Starbucks pode influenciar a percepção global sobre responsabilidade corporativa em áreas de conflito.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/economia/starbucks-abre-lojas-em-regiao-da-china-e-vira-alvo-de-criticas-nos-eua/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/10/02/starbucks-china-lojas.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-02T14:27:18.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2023/06/GettyImages-498869403.jpg"
-      },
-      {
-        "clusterId": "c8c9dff0875c73ea",
-        "slug": "e17374ba6d6fa5ae",
-        "titulo": "Anvisa solicita recolhimento de gel íntimo falsificado vendido na Shopee",
-        "resumo": "A Anvisa identificou um lote falsificado de gel íntimo com embalagem diferente da original sendo vendido na plataforma Shopee. O órgão requisitou o recolhimento imediato dos produtos e registrou a apreensão de um antitranspirante com irregularidades na embalagem. As medidas foram publicadas no Diário Oficial da União. A ação visa impedir a circulação de produtos de origem desconhecida e garantir a segurança do consumidor.",
-        "porQueImporta": "Protege consumidores contra produtos potencialmente inseguros e evita fraudes no comércio eletrônico.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/consumo/anvisa-determina-recolhimento-gel-intimo-hidrafemme/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/anvisa-proibe-lote-falsificado-de-gel-intimo-e-apreende-antitranspirante-veja-quais/"
-          }
-        ],
-        "updatedAt": "2026-10-02T13:58:43.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/anvisa-produtos-irregulares.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "bef23ac30c3e8317",
-        "slug": "f1fe7e2d1de547ae",
-        "titulo": "Dólar sobe em pregão antes do primeiro turno das eleições brasileiras",
-        "resumo": "O dólar fechou em alta de cerca de 0,9% no último pregão, cotado a R$ 5,22. A valorização foi impulsionada por dados de emprego nos EUA e pela expectativa de resultados das eleições presidenciais no Brasil. O Ibovespa também avançou, em parte graças ao aumento das ações da Petrobras. O mercado de energia manteve pressão devido a tensões no Oriente Médio.",
-        "porQueImporta": "A valorização do dólar afeta o custo de importação e a competitividade das exportações brasileiras, enquanto os resultados eleitorais podem influenciar a política econômica futura.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-02102026/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/10/02/dolar-ibovespa.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-02T13:45:15.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Captura-de-tela-2026-08-18-125421.png?fit=300%2C201&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "8311cab8edb02919",
-        "slug": "4bc1effd16f651a5",
-        "titulo": "Inovação em IA, conectividade e biocombustíveis impulsionam segurança alimentar",
-        "resumo": "Executivos do setor agrícola destacam que a adoção de inteligência artificial, o acesso ampliado a dados e o desenvolvimento de biocombustíveis são fundamentais para garantir a segurança alimentar global. A conectividade entre máquinas permite monitoramento em tempo real e predição de safras, enquanto a democratização dos dados facilita decisões mais precisas. A produção de biocombustíveis, por sua vez, oferece alternativas sustentáveis para energia e pode reduzir a dependência de combustíveis fósseis.",
-        "porQueImporta": "Essas tecnologias podem aumentar a produtividade e a sustentabilidade na agricultura, atendendo à crescente demanda por alimentos.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/business/conectividade-dados-e-predicao-seguranca-alimentar-passa-pela-inovacao-das-maquinas/"
-          }
-        ],
-        "updatedAt": "2026-10-02T14:21:51.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/GAFFFF.jpg?fit=300%2C225&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "68befa11e5607803",
-        "slug": "48acc556d3d5b3cf",
-        "titulo": "Ibovespa registra volatilidade na última sessão antes das eleições",
-        "resumo": "O índice Ibovespa apresentou alta volatilidade na última sessão antes das eleições, refletindo incertezas no cenário político. Enquanto isso, as bolsas dos Estados Unidos avançaram após dados de emprego abaixo do esperado. A movimentação no mercado brasileiro foi influenciada por expectativas de mudanças regulatórias e políticas eleitorais. A reação dos investidores ao cenário internacional também impactou o desempenho do Ibovespa.",
-        "porQueImporta": "A volatilidade do Ibovespa pode afetar investimentos e a percepção de risco no mercado brasileiro.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-02102026/"
-          }
-        ],
-        "updatedAt": "2026-10-02T14:02:37.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Ibovespa-ao-vivo-25.webp?fit=300%2C169&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "bbc26c4c98651928",
-        "slug": "2c575ec74007ac96",
-        "titulo": "Decisão de Gilmar impede Renan Santos em debate antes do 1º turno",
-        "resumo": "O decano Gilmar impôs a Renan Santos a participação em debate, mas a decisão foi anulada por ter se baseado em ação antiga no STF. O cancelamento do debate ocorreu antes do primeiro turno das eleições. A medida foi motivada por questões processuais que não se aplicam ao contexto atual.",
-        "porQueImporta": "A decisão afeta a visibilidade de um candidato nas eleições, influenciando a dinâmica do debate pré-eleitoral.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/decisao-de-gilmar-que-impos-renan-santos-em-debate-pegou-carona-em-acao-antiga-no-stf/"
-          }
-        ],
-        "updatedAt": "2026-10-02T13:41:44.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/09/55530341958_3504b593b4_c.jpg?fit=300%2C170&amp;quality=70&amp;strip=all"
-      }
-    ],
-    "mundo": [
-      {
-        "clusterId": "9772c2312ccc89a0",
-        "slug": "bf9aa5f207778a5b",
-        "titulo": "Globo cancela debate sobre decisões de Gilmar Mendes e Estela Aranha",
-        "resumo": "A emissora cancelou o debate programado sobre as decisões de Gilmar Mendes, do STF, e Estela Aranha, do TSE, alegando insegurança jurídica. A mudança de formato, que incluía Renan Santos e proibia a exibição de púlpitos vazios, foi considerada inviável. O cancelamento reflete a tensão entre a mídia e o poder judiciário no contexto de decisões controversas.",
-        "porQueImporta": "Ilustra a crescente preocupação da mídia com a estabilidade jurídica em debates sobre decisões judiciais.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/reinaldo-azevedo/sem-debate-flavio-e-a-globo-fogem-de-renan-gilmar-e-aranha-cumprem-a-lei"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cwddvdpm19q6o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-10-02T14:01:30.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/10/globo-e-flavio-fogem.jpg"
-      },
-      {
-        "clusterId": "17edb2707a2ae5b9",
-        "slug": "deacb1c6a5c76a47",
-        "titulo": "Imprensa chinesa destaca preferência por Lula e cautela ao criticar Flávio",
-        "resumo": "Jornais controlados pelo governo de Pequim enfatizam a importância da economia nas relações Brasil-China, independentemente do partido do presidente. A cobertura destaca a preferência do público chinês por Lula e a necessidade de evitar críticas diretas a Flávio Bolsonaro. A imprensa local ressalta a relevância do Brasil como parceiro comercial e aliado nos Brics. A cobertura reflete a influência dos interesses econômicos na narrativa eleitoral.",
-        "porQueImporta": "A cobertura chinesa influencia a percepção internacional sobre a eleição brasileira e suas relações comerciais.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/02/preferencia-por-lula-cautela-ao-criticar-flavio-como-a-china-e-a-imprensa-local-ve-a-eleicao-no-brasil.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c693e0lddp4po?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-10-02T14:00:33.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/H4k_Nl4_qqQdPwLOi7m_w6_8Icw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/g/jA0yeBR5ie3uFc2oJncw/design-sem-nome-2026-10-02t105914.580.jpg"
-      },
-      {
-        "clusterId": "bc72dec55fec3aed",
-        "slug": "305bb958b34fd9cb",
-        "titulo": "Debate presidencial da Globo é cancelado",
-        "resumo": "A emissora Globo cancelou o debate dos candidatos à Presidência da República, alegando insegurança jurídica devido a decisões judiciais. O cancelamento ocorreu após liminares e a desistência de Lula e Flávio Bolsonaro, que lideram as pesquisas. A decisão gerou reações negativas, com Romeu Zema chamando o episódio de \"vergonha nacional\". A imprensa internacional também comentou a medida.",
-        "porQueImporta": "O cancelamento pode afetar a transparência e a informação dos eleitores antes das eleições.",
-        "category": "mundo",
-        "sources": [
           {
             "name": "G1",
             "url": "https://g1.globo.com/mundo/noticia/2026/10/02/debate-presidencial-cancelado-veja-o-que-falou-imprensa-internacional.ghtml"
@@ -642,95 +310,486 @@
             "url": "https://www.bbc.com/portuguese/articles/cm0rekknz957o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-10-02T12:55:10.000Z",
+        "updatedAt": "2026-10-02T20:16:21.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/AbCk6IqEkYnJ7ACnfKfGo92y2J8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/G/q2CgvxR5quJPgFa39R5A/wp.png"
       },
       {
-        "clusterId": "bbeed160a8529d6f",
-        "slug": "e9d374c8e474f9b6",
-        "titulo": "Execução de Christa Pike falha e ela permanece viva",
-        "resumo": "Christa Pike, condenada à morte no Tennessee, sobreviveu a uma tentativa de execução por injeção letal que exigiu duas doses de pentobarbital. A prisioneira foi levada ao hospital em estado crítico, com relatos de que recebeu múltiplas agulhas e ficou ofegante. A falha ocorreu após a suspensão da execução a última hora, em razão de alegações de abuso na infância. O caso reacende o debate sobre a eficácia e a moralidade da pena de morte nos Estados Unidos.",
-        "porQueImporta": "A falha destaca problemas no método de execução e alimenta discussões sobre a aplicação da pena de morte.",
+        "clusterId": "31a15c646ed3ddba",
+        "slug": "639fa60f265d8f20",
+        "titulo": "Lula lidera pesquisa Datafolha com 42% contra 38% de Flávio Bolsonaro",
+        "resumo": "A última pesquisa Datafolha, divulgada três dias antes do 1º turno, mostra Lula com 42% das intenções de voto e Flávio Bolsonaro com 38%, mantendo uma margem de quatro pontos percentuais. O agregador de pesquisas da BBC Brasil indica uma diferença de apenas três pontos. Em regiões estratégicas como o Sudeste, a diferença diminuiu para quase zero, com Lula ligeiramente à frente. Cerca de 82% dos eleitores já estão decididos, sendo os candidatos de Lula e Bolsonaro os mais convictos.",
+        "porQueImporta": "Os números refletem a competitividade da corrida e a importância de estratégias finais nas regiões decisivas.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/cartaexpressa/os-detalhes-da-ultima-pesquisa-datafolha-sobre-lula-x-flavio-bolsonaro-no-1o-turno/"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/02/lula-e-flavio-bolsonaro-focam-reta-final-no-sudeste-onde-petista-avanca-e-anima-campanha.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-02T17:55:43.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/09/Lula-e-Flavio-Bolsonaro-Foto-1_-Ricardo-Stuckert_PR-_-Foto-2_-Carlos-Moura_Agencia-Senado.png"
+      },
+      {
+        "clusterId": "3539a5ee07c3ec5c",
+        "slug": "5365cfe18648d849",
+        "titulo": "Polícia Federal investiga empréstimo do BRB a Flávio Bolsonaro para compra de mansão",
+        "resumo": "A Polícia Federal abriu investigação sobre um empréstimo de R$ 3,1 milhões concedido pelo Banco de Brasília (BRB) ao senador Flávio Bolsonaro, que foi usado para adquirir uma mansão de R$ 6 milhões em Brasília. O imóvel, localizado no Setor de Mansões Dom Bosco, possui 2,4 mil metros quadrados. O caso faz parte de um inquérito mais amplo que examina operações de crédito envolvendo políticos.",
+        "porQueImporta": "A investigação destaca possíveis irregularidades em financiamentos públicos a figuras políticas.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/pf-investiga-financiamento-do-brb-a-flavio-bolsonaro-para-compra-de-mansao-de-r-6-milhoes/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/10/02/pf-investiga-emprestimo-do-brb-a-flavio-bolsonaro-para-compra-de-uma-mansao-avaliada-em-r-6-milhoes.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-02T20:18:35.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/AFP__20260925__C9DD7DD__v1__MidRes__BrazilElectionMilitaryPoliceGraduation.jpg"
+      },
+      {
+        "clusterId": "b8b98e5f31bd01a5",
+        "slug": "b4a8f78328f7441e",
+        "titulo": "Incêndio na casa de Leandro Paredes e visita do Papa à Argentina",
+        "resumo": "Um incêndio atingiu a residência do jogador argentino Leandro Paredes em Buenos Aires, mas não se espalhou e foi rapidamente controlado pelos bombeiros. O fogo não causou danos extensos à cidade. Enquanto isso, o Papa Francisco planeja visitar a Argentina entre 8 e 11 de novembro, em meio a crises políticas e sociais no país. A visita ocorre em um contexto de tensão e busca por diálogo.",
+        "porQueImporta": "A ocorrência demonstra a atenção da imprensa a eventos de interesse público e a importância da presença papal em um país em crise.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/casa-de-leandro-paredes-jogador-da-argentina-pega-fogo-em-buenos-aires"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/mundo/papa-encontrara-argentina-ferida-e-em-crise-diz-arcebispo-de-buenos-aires/"
+          }
+        ],
+        "updatedAt": "2026-10-02T20:01:24.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/07/leandro-paredes-argentina.jpeg"
+      },
+      {
+        "clusterId": "2c89938678f3c3a5",
+        "slug": "8eb7606f6984462a",
+        "titulo": "Frejat repudia uso de \"Bete Balanço\" por Renan Santos",
+        "resumo": "O cantor Frejat denunciou o uso da música \"Bete Balanço\" pelo candidato Renan Santos em atos de campanha, alegando falta de respeito. Renan Santos respondeu de forma provocativa, dizendo que Frejat teria que lidar com a situação. O episódio gerou repercussão nas redes sociais e na mídia especializada.",
+        "porQueImporta": "Ilustra a tensão entre artistas e políticos sobre direitos autorais e uso de obras culturais em campanhas eleitorais.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/frejat-repudia-uso-de-bete-balanco-por-renan-que-rebate/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/cartaexpressa/frejat-repudia-uso-de-bete-balanco-por-renan-santos-falta-de-respeito/"
+          }
+        ],
+        "updatedAt": "2026-10-02T19:55:14.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/frejat_renan_santos.jpg"
+      },
+      {
+        "clusterId": "ad74fc5b3bd41040",
+        "slug": "85ac6d09afc14c2c",
+        "titulo": "Haddad critica falta de tempo de TV de Tarcísio e destaca queda de apoio",
+        "resumo": "O candidato a governador de São Paulo, Fernando Haddad, afirmou que a falta de tempo de TV de Tarcísio de Freitas prejudicou os eleitores. Ele apontou que o governador tem se afastado dos debates. Em pesquisa da Datafolha, Tarcísio lidera com 50% dos votos, enquanto Haddad tem 33%. A diferença de apoio reflete a percepção de atenção dos candidatos à campanha.",
+        "porQueImporta": "O desempenho na mídia e a diferença de apoio podem influenciar o resultado do primeiro turno das eleições de 2026.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/futura-tarcisio-tem-573-no-1o-turno-em-sp-haddad-328/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/01/datafolha-sp-avaliacao-governo-01-outubro.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-02T19:54:35.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/CjKw7OG5d4KaBzB3T507ZekD2Z0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/k/RtTBjSSkeiokQtl1Vt3A/tarcisio-de-freitas-coletiva.jpeg"
+      },
+      {
+        "clusterId": "c51c1b90cc22faa1",
+        "slug": "8f621bf92c93d618",
+        "titulo": "MPE pede que TSE mantenha candidatura de Deltan Dallagnol ao Senado",
+        "resumo": "A Procuradoria-Geral Eleitoral defende que o Tribunal Superior Eleitoral (TSE) mantenha a candidatura de Deltan Dallagnol ao Senado pelo Paraná, alegando que a decisão de inelegibilidade de 2022 não se aplica ao pleito de 2026. O Tribunal Regional Eleitoral do Paraná (TRE-PR) já validou a candidatura em setembro, mas a Coligação Paraná Para Todos e a Federação Brasil da Esperança recorreram ao TSE. A discussão gira em torno da cassação de 2023 que anulou o registro de candidatura de Deltan quando ele era do Podemos.",
+        "porQueImporta": "A decisão pode influenciar a composição do Senado e a participação de Deltan Dallagnol no processo legislativo.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/mpe-defende-manutencao-de-candidatura-de-deltan-dallagnol-ao-senado/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/02/mpe-defende-que-o-tse-mantenha-candidatura-de-deltan-dallagnol-ao-senado.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-02T19:39:38.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/53584623584_09d4f5416c_b.jpg"
+      }
+    ],
+    "economia": [
+      {
+        "clusterId": "f4d0da08c893486d",
+        "slug": "0bf547a6c8e3b615",
+        "titulo": "Fachin solicita à PF apuração sem exceção de fatos envolvendo ministros",
+        "resumo": "O presidente do STF, Luiz Fux, pediu à Polícia Federal que investigue, sem exceção, qualquer informação que envolva ministros da Corte, incluindo dados, documentos ou indícios. Ele destacou a necessidade de preservar a autonomia da PF e do Ministério Público. A solicitação faz parte do caso Master, em que há suspeitas de envolvimento de integrantes do STF.",
+        "porQueImporta": "Garantir a transparência e a integridade da Justiça em processos que podem afetar a confiança pública.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/justica/fachin-diz-a-pf-que-suspeitas-sobre-ministros-devem-ser-apuradas-sem-excecao/"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/fachin-diz-a-pf-que-fatos-envolvendo-ministros-devem-ser-apurados-sem-excecao/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/fachin-defende-apuracao-de-fatos-envolvendo-ministros-no-caso-master/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/caso-master-fachin-pede-a-pf-apuracao-sem-excecao-de-fatos-ligados-a-integrantes-do-stf/"
+          }
+        ],
+        "updatedAt": "2026-10-02T20:06:39.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/07/Foto-Rosinei-CoutinhoSTF-FACHIN.jpg"
+      },
+      {
+        "clusterId": "549c2bf1e8e4c2a5",
+        "slug": "c4e790469324cd99",
+        "titulo": "Cristiano Ronaldo enfrenta crise com Jorge Jesus e recebe apoio de craques",
+        "resumo": "O jogador abandonou a concentração da seleção portuguesa durante a Data Fifa, em meio a um desentendimento com o técnico Jorge Jesus. Em apoio a Cristiano Ronaldo, painéis foram exibidos em Portugal e figuras como Thierry Henry, Arturo Vidal e Rio Ferdinand defenderam o atleta. A situação ocorre enquanto o atleta, de 41 anos, mantém 979 gols oficiais e encara a reta final de sua carreira.",
+        "porQueImporta": "A tensão entre jogador e técnico pode afetar a participação de Ronaldo nas competições internacionais.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/craques-defendem-cristiano-ronaldo-em-meio-a-crise-com-jorge-jesus"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/paineis-em-apoio-a-cristiano-ronaldo-sao-vistos-em-portugal-apos-polemica/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/esporte/a-reta-final-da-carreira-de-cristiano-ronaldo-entre-os-recordes-e-o-racha-com-jorge-jesus/"
+          }
+        ],
+        "updatedAt": "2026-10-02T20:10:25.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/10/cristiano-ronaldo.jpg"
+      },
+      {
+        "clusterId": "053dcf311b4e5649",
+        "slug": "e78c784f0c4112df",
+        "titulo": "Moro e Sandro Alex empatam no 2º turno no Paraná",
+        "resumo": "A pesquisa Real Time Big Data, com 1.600 eleitores, indica que no 1º turno Sergio Moro liderou com 37% e Sandro Alex ficou em 29%. No 2º turno, ambos chegaram a 42% cada, empatando. Na disputa ao Senado, Dallagnol lidera com 21%, enquanto Alexandre Curi e Filipe Barros têm 19% cada. A margem de erro é de dois pontos percentuais.",
+        "porQueImporta": "Os resultados revelam a forte concorrência entre os candidatos e a polarização nas intenções de voto no Paraná.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-moro-e-sandro-empatam-no-2o-turno-com-42-cada/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/carta-capital/dallagnol-lidera-disputa-pelo-senado-no-parana-com-21-diz-real-time-big-data/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/pesquisa-real-time-aziz-lidera-1o-turno-com-36-no-amazonas/"
+          }
+        ],
+        "updatedAt": "2026-10-02T20:06:23.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/04/PR.jpg"
+      },
+      {
+        "clusterId": "d68b89ad999051af",
+        "slug": "2376794e35dac074",
+        "titulo": "Polícia Federal cumpre mandados de busca e apreensão contra suspeitos de plano contra Embaixada dos EUA",
+        "resumo": "A Polícia Federal executou dois mandados de busca e apreensão em São Paulo e no entorno do Distrito Federal, visando dois suspeitos envolvidos em um suposto plano de ataque à Embaixada e consulados dos Estados Unidos no Brasil. A operação foi autorizada por um juiz de primeiro grau do Distrito Federal e faz parte de uma investigação mais ampla. Até o momento, não foram encontradas provas de risco efetivo às instalações consulares americanas.",
+        "porQueImporta": "A ação demonstra a atuação das autoridades na prevenção de ameaças à diplomacia internacional no país.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/pf-cumpre-2-mandados-em-caso-sobre-suposto-plano-contra-embaixada-dos-eua/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/10/02/pf-cumpre-dois-mandados-de-busca-e-apreensao-em-investigacao-sobre-suposto-plano-contra-embaixada-dos-eua.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/pf-realiza-busca-e-apreensao-em-sp-e-df-contra-suspeitos-de-ameacar-embaixada-e-consulados-dos-eua/"
+          }
+        ],
+        "updatedAt": "2026-10-02T20:01:34.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/bfKHR_aTbBAXlDIGuN9IJw9wh-c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/u/6r4yUESxyyYEHh0TIVsw/embaixada-dos-eua-em-brasilia.jpg"
+      },
+      {
+        "clusterId": "178790fbf24cd99d",
+        "slug": "f1fe7e2d1de547ae",
+        "titulo": "Dólar sobe em pregão antes do primeiro turno das eleições brasileiras",
+        "resumo": "O dólar fechou em alta de cerca de 0,9% no último pregão, cotado a R$ 5,22. A valorização foi impulsionada por dados de emprego nos EUA e pela expectativa de resultados das eleições presidenciais no Brasil. O Ibovespa também avançou, em parte graças ao aumento das ações da Petrobras. O mercado de energia manteve pressão devido a tensões no Oriente Médio.",
+        "porQueImporta": "A valorização do dólar afeta o custo de importação e a competitividade das exportações brasileiras, enquanto os resultados eleitorais podem influenciar a política econômica futura.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/economia/ibovespa-dispara-e-supera-190-mil-pontos-no-ultimo-pregao-antes-das-eleicoes/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/10/02/dolar-ibovespa.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-02T20:19:05.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/03/GettyImages-2189881448.jpg.jpg"
+      },
+      {
+        "clusterId": "09e0fffa237e55fe",
+        "slug": "2f998582231d279a",
+        "titulo": "Petrobras confirma petróleo de boa qualidade em duas profundidades no poço Morpho",
+        "resumo": "A Petrobras confirmou a presença de petróleo em duas profundidades distintas no poço Morpho, na Foz do Amazonas. A descoberta, considerada de boa qualidade, foi divulgada pela presidente Magda Chambriard em coletiva de imprensa. A empresa planeja concluir a perfuração até o fim de outubro. A descoberta reforça o potencial de reservas na região.",
+        "porQueImporta": "A confirmação de petróleo de boa qualidade em múltiplas profundidades aumenta o valor estratégico da região para a Petrobras e o Brasil.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/ceo-poco-da-petrobras-na-foz-do-amazonas-mostra-que-ha-petroleo-em-2-profundidades/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/10/02/coletiva-chambriard-petrobras.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-02T19:56:43.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Captura-de-tela-2026-10-02-165424.png?fit=300%2C206&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "dbce38f4a4c87c47",
+        "slug": "41bcc27decf86714",
+        "titulo": "Omoda e Jaecoo anunciam sete lançamentos no Brasil para 2027",
+        "resumo": "A Omoda&Jaecoo planeja lançar sete modelos no Brasil em 2027, com o Omoda 4 liderando a lista. Entre os novos veículos, o Omoda QQ elétrico e o Jaecoo 8 híbrido são destacados como apostas principais. O Jaecoo 5, já presente no mercado, busca superar o Hyundai Creta e o VW T-Cross com preço competitivo e desempenho econômico.",
+        "porQueImporta": "Os lançamentos refletem a crescente presença de marcas chinesas no mercado brasileiro, oferecendo opções mais acessíveis e tecnológicas para os consumidores.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/auto/omoda-jaecoo-confirma-7-lancamentos-no-brasil-para-2027-omoda-4-lidera/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/carros/noticia/2026/10/01/jaecoo-5-mira-sucesso-do-omoda-5-e-quer-desbancar-hyundai-creta-e-vw-t-cross-sera-que-consegue.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-02T19:43:46.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/vHDFidf1fsO9aBYlVboTJPYOm4A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/W/2Aw2GFTPiEMvPqruAQcg/leo3530.jpg"
+      },
+      {
+        "clusterId": "41b2687fe511c619",
+        "slug": "c62797e66e24e487",
+        "titulo": "Petrobras descobre petróleo em duas camadas no Amapá",
+        "resumo": "A Petrobras identificou petróleo em duas camadas no poço Morpho, localizado na costa do Amapá, na Margem Equatorial. A perfuração alcançou águas ultraprofundas, aproximadamente 2,9 km de profundidade. O presidente da estatal, Magda, afirmou que a descoberta aumenta o valor das áreas exploratórias na região, mas que o desenvolvimento depende de avaliações adicionais. A perfuração do Morpho deverá ser concluída até o fim de outubro, com a sonda seguindo para a Bacia Potiguar, no Rio Grande do Norte.",
+        "porQueImporta": "A descoberta reforça o potencial de produção de petróleo no litoral brasileiro e pode impactar a economia regional.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/infra/amapa-esta-ficando-mais-valioso-diz-magda-apos-descoberta-de-petroleo/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/10/02/petrobras-petroleo-costa-do-amapa.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-02T19:42:51.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/VvcirpsLWPYHe23DzKfU3D15mgM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/g/LNTdwAQxyYvjkEZzLAyA/whatsapp-image-2026-08-17-at-08.56.59.jpeg"
+      }
+    ],
+    "mundo": [
+      {
+        "clusterId": "70adf9fd3aed9ed9",
+        "slug": "4adc758961079f26",
+        "titulo": "Argentina lança programa de cidadania por investimento",
+        "resumo": "O governo argentino anunciou um programa que permite a estrangeiros solicitar a cidadania em troca de investimentos considerados relevantes no país. O anúncio foi feito em Paris, durante a Argentina Week, pelos ministros da Economia e do Interior. O investimento mínimo exigido é de R$ 1,8 milhão, equivalente a aproximadamente US$ 350 mil. O programa visa atrair capital estrangeiro para a economia argentina.",
+        "porQueImporta": "O esquema pode impulsionar o investimento estrangeiro e fortalecer a economia do país.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/golden-visa-argentino-milei-oferece-cidadania-a-estrangeiros-que-investirem-r-18-milhao/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/02/argentina-cria-programa-para-dar-cidadania-a-estrangeiros-que-investirem-no-pais.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-02T20:01:59.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/08/GettyImages-2256948360.jpg.jpg"
+      },
+      {
+        "clusterId": "4a233c9a707e800a",
+        "slug": "5302eead75f7289d",
+        "titulo": "Ataque interno em voo da Flydubai para Israel leva a investigação dos Emirados Árabes",
+        "resumo": "Em um voo da Flydubai que partiu dos Emirados Árabes Unidos em direção a Israel, o copiloto esfaqueou o comandante, provocando queda de cerca de 4.300 metros em 30 segundos. O incidente foi classificado como ato terrorista pelo conselheiro do presidente Anwar Gargash e está sendo investigado pelas autoridades dos Emirados. A investigação busca determinar se o ataque está relacionado a atividades terroristas. Dados de voo do Flightradar24 foram usados para simular a queda.",
+        "porQueImporta": "O caso destaca a segurança aérea e a possibilidade de ameaças terroristas em rotas internacionais.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/emirados-arabes-dizem-que-ataque-em-voo-da-flydubai-para-israel-foi-ato-terrorista/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/01/video-simulacao-mostra-como-aviao-alvo-de-ataque-despencou-no-ar-perto-de-israel.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-02T19:06:24.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/AFP__20260907__C7JK4VV__v1__HighRes__UaeIranUsIsraelWarEconomy-640x400-1.webp"
+      },
+      {
+        "clusterId": "ea14e53fcde73cdc",
+        "slug": "d0c29f454b1a5384",
+        "titulo": "Copiloto da FlyDubai esfaqueia piloto e tenta derrubar avião",
+        "resumo": "Um copiloto da FlyDubai, que viajava de Dubai a Tel Aviv, esfaqueou o capitão e tentou assumir o controle da aeronave, acionando códigos de emergência 7700 e 7500. O incidente foi interrompido quando o avião desviou para a Arábia Saudita, onde o agressor foi preso. Israel e os Emirados Árabes Unidos investigam o caso, com Israel participando do interrogatório do copiloto. O primeiro-ministro de Israel afirmou que o agressor passou por radicalização islâmica, mas ainda não há conclusões sobre possíveis cúmplices.",
+        "porQueImporta": "O episódio destaca riscos de segurança em voos internacionais e a necessidade de cooperação entre países na investigação de ataques terroristas.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/israel-interrogara-homem-que-tentou-derrubar-voo-da-flydubai-diz-agencia/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/02/autoridades-de-israel-vao-interrogar-copiloto-que-tentou-derrubar-voo-da-flydubai-diz-agencia.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-02T18:58:37.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/95fEICl8roBBL0rFbJqSZO_MB34=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/9/ek7oTVRvOoDavrm3fqlg/design-sem-nome-2026-09-30t093855.118.jpg"
+      },
+      {
+        "clusterId": "f4d2ce13f05e395a",
+        "slug": "cc6e5c9fdc70d1c9",
+        "titulo": "Christa Pike sobrevive a tentativa de execução por injeção letal no Tennessee",
+        "resumo": "A prisioneira Christa Pike, condenada à morte por assassinato em 1995, não morreu após a administração de duas doses de pentobarbital. Ela foi levada ao hospital em estado crítico e continua inconsciente, recebendo tratamento para remover a substância letal. A falha ocorreu em 30 de setembro, quando a execução deveria ter sido a primeira mulher executada no estado em mais de 200 anos. Autoridades e a ONU pediram que não haja nova tentativa de execução.",
+        "porQueImporta": "O caso destaca falhas no método de injeção letal e provoca debate sobre a aplicação da pena de morte nos EUA.",
         "category": "mundo",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/02/estou-pronta-para-ser-livre-christa-pike-ultimas-palavras-cronologia-execucao-falhou-eua.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/02/christa-pike-respira-com-ajuda-de-aparelhos-apos-sobreviver-a-tentativa-de-execucao-nos-eua.ghtml"
           },
           {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/ck24j48llm9yo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-10-02T12:18:09.000Z",
+        "updatedAt": "2026-10-02T18:56:23.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/HDK2ke8q3xiVWdFGMTwrMZisG2M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/W/XLzzudQs295Kyy1E4Blw/2026-10-01t075544z-184107085-rc2ptnayxsrm-rtrmadp-3-tennessee-execution.jpg"
       },
       {
-        "clusterId": "f9f57b2c140857ac",
-        "slug": "9f6cd77162c3342c",
-        "titulo": "Governos dos EUA e Austrália fecham embaixadas e consulados no Brasil antes da eleição",
-        "resumo": "Os escritórios diplomáticos dos Estados Unidos e da Austrália em Brasília, São Paulo, Rio de Janeiro, Porto Alegre, Recife e Belo Horizonte foram fechados. Nenhuma previsão de reabertura foi divulgada pelas autoridades. O fechamento ocorre nas vésperas da eleição brasileira. As medidas refletem preocupações de segurança e logística dos governos estrangeiros.",
-        "porQueImporta": "O encerramento de serviços consulares pode afetar cidadãos brasileiros e estrangeiros que dependem de apoio diplomático durante o período eleitoral.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cmewellkk7zyo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-10-02T13:54:39.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e5fb/live/a34a7e80-be52-11f1-8828-9d9deece30a1.jpg"
-      },
-      {
-        "clusterId": "75603bfa952ada69",
-        "slug": "ba818e2509d49e42",
-        "titulo": "Luigi Mangione admite mentir sobre nome durante prisão",
-        "resumo": "Luigi Mangione, acusado de matar o CEO de uma companhia de seguros em Nova York, confessou ter mentido sobre seu nome ao ser detido na Pensilvânia. A polícia divulgou vídeo da abordagem e prisão, usado pela promotoria em sua acusação. O caso destaca a importância da veracidade nas declarações policiais.",
-        "porQueImporta": "A confissão de Mangione reforça a necessidade de honestidade nas interações com a lei e pode influenciar o processo judicial.",
+        "clusterId": "ccb64344f5bda664",
+        "slug": "0c20079d8bfe38f0",
+        "titulo": "Nova onda de protestos estudantis assusta governo francês",
+        "resumo": "A recente onda de protestos estudantis na França, iniciada há quase duas semanas, se espalhou rapidamente pelo país. O governo teme a mobilização juvenil, lembrando os protestos de 1968 que foram considerados caóticos. Os movimentos são vistos como imprevisíveis e sem estrutura clara, o que aumenta a preocupação das autoridades.",
+        "porQueImporta": "A reação do governo reflete a importância histórica dos protestos estudantis na política francesa.",
         "category": "mundo",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/02/luigi-mangione-que-matou-ceo-em-nova-york-novo-video-ao-ser-preso.ghtml"
+            "url": "https://g1.globo.com/educacao/noticia/2026/10/02/por-que-a-nova-onda-de-protestos-estudantis-assusta-o-governo-frances.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cwm26n81jl0lo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-10-02T12:17:18.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/c_1uwP-tTkOEQZMk5jpKlbi-DnY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/t/pgwfgmQhWkhlO1UbbpgA/imagem-1200x800-4-.jpg"
+        "updatedAt": "2026-10-02T17:52:39.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/7KJuyyxoNI8iZpV6Z-BLThqpQ6M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/8/Pe0w8hTFKBIzAigA3FjQ/9d40a161-be52-4f6f-b7f4-5012052843d2.png"
       },
       {
-        "clusterId": "51d9b473af13ca60",
-        "slug": "a613264bc0677e19",
-        "titulo": "Antropóloga critica discurso de esquerda sobre trabalhadores MEI",
-        "resumo": "A antropóloga Rosana Pinheiro-Machado afirma que as redes sociais ampliaram as aspirações de muitos brasileiros, mas que a direita radical domina a linguagem usada para se comunicar com esse público. Ela argumenta que a esquerda que se diverte com o termo ‘CEO de MEI’ não compreende os sonhos dos novos trabalhadores. A crítica destaca a desconexão entre discurso político e realidade dos trabalhadores autônomos.",
-        "porQueImporta": "A análise revela como discursos políticos podem distorcer a percepção das necessidades reais dos trabalhadores informais.",
+        "clusterId": "a2c6ea8a09ef9d7c",
+        "slug": "0db15750d0d2055c",
+        "titulo": "Repórter e cinegrafista são atropelados durante transmissão ao vivo em Monterrey",
+        "resumo": "Um repórter e um cinegrafista da Gamavisión foram atropelados por uma caminhonete enquanto cobriam os impactos da chuva em Monterrey, México. Os dois, identificados como Alma de la Rosa e Cristo Morales, foram atendidos no local pela Defesa Civil. O incidente ocorreu durante uma transmissão ao vivo na sexta-feira, 2 de maio.",
+        "porQueImporta": "O acidente destaca os riscos enfrentados por profissionais de mídia em situações de cobertura de eventos naturais.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/02/video-reporter-e-cinegrafista-sao-atropelados-durante-entrava-ao-vivo-no-mexico.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-02T20:12:10.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/OEmkf3cMmdkaVDCkIlNYvGeB-Ts=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/6/BOP1GuRxCQQwP2L1qFkg/fotojet-21-.jpg"
+      },
+      {
+        "clusterId": "2c23541becf33242",
+        "slug": "b0a6d159aef06da0",
+        "titulo": "Imprensa russa cobre pouco eleição brasileira",
+        "resumo": "A cobertura da imprensa russa sobre a eleição brasileira foi mínima, segundo analistas. Esse baixo nível de atenção sugere que o Kremlin não pretende divulgar sua perspectiva sobre o pleito ao público russo. A análise indica que o governo de Putin não considera relevante que a população russa conheça a visão do Estado sobre a eleição brasileira.",
+        "porQueImporta": "Revela a estratégia de comunicação do Kremlin em relação a eventos políticos internacionais.",
         "category": "mundo",
         "sources": [
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cjn5d90edrppo?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/articles/cwdr714gj6e1o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-10-02T10:54:31.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f0d/live/994d4d70-be4f-11f1-a64c-550be9e3c66b.png"
+        "updatedAt": "2026-10-02T20:01:10.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6f0c/live/d0d2b000-bcbf-11f1-a64c-550be9e3c66b.jpg"
       },
       {
-        "clusterId": "df7802b04ecf163c",
-        "slug": "0ea15f573f6c32b9",
-        "titulo": "Mapa interativo mostra resultados das eleições de 2026 em tempo real",
-        "resumo": "O site da BBC Brasil disponibiliza um mapa interativo que permite acompanhar a apuração dos votos para presidente e governador por estado e município. Os resultados são atualizados em tempo real, possibilitando ao eleitor visualizar a evolução das contagens à medida que chegam os dados. A ferramenta oferece visualização clara e imediata dos resultados em cada localidade.",
-        "porQueImporta": "Facilita o acesso rápido e transparente às informações eleitorais, promovendo a participação cidadã.",
+        "clusterId": "fb94ec5a00568e32",
+        "slug": "63ad5973a8d3804e",
+        "titulo": "Piloto indiano relata ataque a facadas em voo para Israel",
+        "resumo": "O capitão Smit Machchhar foi esfaqueado durante um voo para Israel e descreveu o ataque em conversa com o primeiro‑ministro indiano, Narendra Modi. Ele afirmou que tentou impedir que os demais passageiros morressem. O incidente ocorreu em pleno ar, antes da chegada ao destino. O caso foi coberto pela BBC Brasil.",
+        "porQueImporta": "O ataque demonstra a crescente ameaça de violência em voos internacionais.",
         "category": "mundo",
         "sources": [
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/articles/cqgk5kl4j7z0o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-10-02T10:39:09.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9533/live/7b3289f0-bc19-11f1-bd21-bdf910f2cec6.jpg"
+        "updatedAt": "2026-10-02T18:13:30.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8316/live/441b8c40-be3b-11f1-a64c-550be9e3c66b.jpg"
       }
     ],
     "tecnologia": [
+      {
+        "clusterId": "9c476c2d10fb5768",
+        "slug": "764bedd8ad16ea34",
+        "titulo": "Sony libera tecnologia QSSR de upscaling por IA para PS5 base",
+        "resumo": "A Sony Interactive Entertainment anunciou que o upscaler de IA QSSR, derivado do PSSR do PS5 Pro, agora está disponível para o modelo padrão do PS5. A atualização já pode ser instalada nos jogos Marvel’s Wolverine e Ghost of Yōtei, trazendo melhorias visuais. A empresa indica que mais títulos, incluindo first‑party e grandes lançamentos AAA, receberão suporte em breve.",
+        "porQueImporta": "A novidade amplia a qualidade gráfica do PS5 base, permitindo que mais usuários desfrutem de imagens aprimoradas sem precisar de hardware adicional.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/10/02/games-e-consoles/sony-anuncia-qssr-nova-tecnologia-de-upscaling-para-ps5/"
+          },
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/games/sony-libera-upscaler-de-ia-para-o-ps5-base-conheca-o-qssr/"
+          }
+        ],
+        "updatedAt": "2026-10-02T18:50:07.000Z"
+      },
       {
         "clusterId": "cdf2bba22181750e",
         "slug": "095b64562c1cf203",
@@ -752,242 +811,263 @@
         "imageUrl": "https://tl.ctcdn.com.br/lzultU21pta3fCIGXyDQpo4DVHo=/0x0/filters:format(webp):quality(85)/dab63238-8963-465b-84d9-266cc1ff9000.jpg"
       },
       {
-        "clusterId": "173bd5c6f41b08ae",
-        "slug": "cf2de394093f1163",
-        "titulo": "Edits do Instagram lança assistente de IA para analisar Reels",
-        "resumo": "O aplicativo de edição de vídeos do Instagram, Edits, introduziu um assistente de inteligência artificial que avalia o desempenho dos Reels de cada criador, indicando fatores que influenciam a retenção de público. O recurso, chamado Edits Assistant, funciona como um chatbot dentro do app e acessa dados como visualizações, novos seguidores, retenção, curtidas e compartilhamentos. A funcionalidade já está disponível nos Estados Unidos, sem data prevista para lançamento no Brasil.",
-        "porQueImporta": "Permite que criadores otimizem seu conteúdo com base em métricas precisas, potencializando engajamento e alcance.",
+        "clusterId": "2745cce3334c6eb0",
+        "slug": "016c6fe8fb5c2442",
+        "titulo": "Midea lança conceito Space Master no Brasil",
+        "resumo": "A Midea apresenta no Brasil o conceito Space Master, que oferece eletrodomésticos compactos com maior capacidade interna. O portfólio inicial inclui geladeira multidoor de 672 L, lava-louças de 16 serviços e lava e seca de 13 kg em formato slim. O objetivo é atender a cozinhas e apartamentos menores, mantendo dimensões externas reduzidas.",
+        "porQueImporta": "Permite otimizar o uso de espaço em ambientes domésticos compactos.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/apps/edits-do-instagram-ganha-ia-que-faz-raio-x-dos-seus-reels-e-ensina-a-reter-publico/"
+            "url": "https://canaltech.com.br/eletro/midea-aposta-em-eletrodomesticos-compactos-com-mais-espaco-interno/"
           }
         ],
-        "updatedAt": "2026-10-02T14:30:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/T8u0v4c_mhoNUQZrEMEZr17J_s8=/0x0/filters:format(webp):quality(85)/9f7608ca-47cd-4b83-9cbd-1b0b9391ce7e.jpg"
+        "updatedAt": "2026-10-02T20:08:40.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/VNfv1Wno5ATRLoN2rC_IPCyQ2K8=/0x0/filters:format(webp):quality(85)/d7b4adff-320d-4e6a-9d2e-2dbd7ce36564.webp"
       },
       {
-        "clusterId": "dec687efd7b7acde",
-        "slug": "fac3a2b08206a8e3",
-        "titulo": "Steam inicia promoção de primavera com descontos de até 90%",
-        "resumo": "A Valve lançou a promoção de primavera no Steam, válida de 2 a 8 de outubro, com centenas de jogos em oferta. Descontos chegam a mais de 90% em títulos variados, enquanto grandes lançamentos de 2026 têm reduções de até 30%, custando entre R$ 200 e R$ 240. A campanha abrange jogos de diferentes gêneros e tamanhos.",
-        "porQueImporta": "Oferece oportunidades de aquisição de jogos a preços reduzidos, beneficiando consumidores e impulsionando vendas no mercado de jogos digitais.",
+        "clusterId": "b9fda7d541bddb8a",
+        "slug": "fca87abc2af27d5e",
+        "titulo": "10 SUVs com preços reduzidos em outubro",
+        "resumo": "No início de outubro, pelo menos 10 modelos de SUVs foram anunciados com preços mais baixos, abrangendo marcas tradicionais como Volkswagen e novos lançamentos como Jeep Avenger. Fabricantes ajustaram valores de modelos específicos, como a Fiat Pulse Drive 1.3 CVT e Fastback T200 CVT, e a Citroën reforçou sua linha. Essas reduções beneficiam principalmente clientes PcD, que se enquadram na legislação de incentivos. As mudanças refletem estratégias de mercado para atrair consumidores em busca de veículos novos.",
+        "porQueImporta": "Reduções de preço tornam SUVs mais acessíveis, especialmente para clientes PcD, ampliando opções de mobilidade.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/games/promocao-de-primavera-do-steam-comeca-com-grandes-jogos-a-preco-de-pinga/"
+            "url": "https://canaltech.com.br/carros/10-suvs-que-comecam-outubro-com-precos-no-chao-veja-condicoes/"
           }
         ],
-        "updatedAt": "2026-10-02T14:04:00.000Z"
+        "updatedAt": "2026-10-02T20:06:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/SHl3bkdbtBnX58JygadbOL3vNCU=/0x0/filters:format(webp):quality(85)/40f7e7c3-b963-4e3b-9544-32ec9f20380c.jpg"
       },
       {
-        "clusterId": "1e8f2e5101174429",
-        "slug": "5e7c27e176f2daca",
-        "titulo": "Descontos de até 63% em tecnologia",
-        "resumo": "A Olhar Digital identificou seis ofertas com descontos que chegam a 63% em produtos de tecnologia, incluindo caixa de som Bluetooth Karaokê 600W, Smart TV Samsung QLED 43″ 2025 com Xbox Cloud Gaming e iPhone 16e. As promoções abrangem itens populares e variam em categorias de eletrônicos.",
-        "porQueImporta": "Oferece oportunidades de economia significativa para consumidores interessados em tecnologia.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/02/reviews/ofertas-dia-iphone-16e-oppo-find-x9-pro-starfox-hisense-samsung-qled-caixa/"
-          }
-        ],
-        "updatedAt": "2026-10-02T14:02:00.000Z"
-      },
-      {
-        "clusterId": "10009ecb128ae351",
-        "slug": "fdb4ca41d08ff03c",
-        "titulo": "Novo Fiat Argo X já aparece em testes no Brasil",
-        "resumo": "O Fiat Argo X foi flagrado em testes em Minas Gerais, revelando que seu design frontal e proporções se baseiam na arquitetura global da Stellantis, derivada do Grande Panda europeu. O modelo utiliza a mesma plataforma do Citroën C3 e mede cerca de 3,99 metros. As fotos divulgadas no Instagram do Placa Verde mostram o veículo parcialmente camuflado, mas já evidenciam suas semelhanças com o Grande Panda.",
-        "porQueImporta": "Indica que o novo Argo X segue a estratégia da Stellantis de compartilhar plataformas entre marcas, podendo influenciar preços e disponibilidade no mercado brasileiro.",
+        "clusterId": "840851781b2058b9",
+        "slug": "7d167cb77309d74d",
+        "titulo": "Ken Kutaragi critica estagnação criativa da indústria de jogos",
+        "resumo": "O criador do PlayStation, Ken Kutaragi, afirmou que a indústria de jogos está estagnada criativamente, apesar dos avanços em escala e gráficos. Ele acredita que os títulos não evoluíram em conteúdo e que a área ainda não atingiu maturidade. Kutaragi destacou que existem barreiras significativas a serem superadas para um progresso real.",
+        "porQueImporta": "A opinião de um pioneiro da indústria pode influenciar expectativas sobre inovação futura nos jogos.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/carros/flagra-mostra-que-novo-fiat-argo-x-e-mais-parecido-com-grande-panda-do-que-esperavamos/"
+            "url": "https://canaltech.com.br/games/criador-do-playstation-aponta-que-industria-de-jogos-esta-estagnada/"
           }
         ],
-        "updatedAt": "2026-10-02T14:00:02.000Z"
+        "updatedAt": "2026-10-02T20:01:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/Mn3iFLrgN_93ypVpwHw4aasJ3kA=/0x0/filters:format(webp):quality(85)/1b281f3e-3d57-4adf-b302-640c650ff4cc.jpg"
       },
       {
-        "clusterId": "ca43d7b8ec8e7e8d",
-        "slug": "072c1198b758eaf0",
-        "titulo": "OFFBEAT review: produção musical de verdade, para poucos",
-        "resumo": "O jogo OFFBEAT permite ao jogador montar um estúdio dos anos 1980 com instrumentos incomuns e compor músicas originais. A experiência enfatiza a criatividade musical em um ambiente retro, oferecendo uma alternativa ao típico simulador de produção musical. O título foi avaliado pelo Olhar Digital, que destaca a originalidade e a acessibilidade do jogo.",
-        "porQueImporta": "O jogo oferece uma nova forma de interação com a música, atraindo tanto fãs de jogos quanto de produção musical.",
+        "clusterId": "b9c33b0cbc2de010",
+        "slug": "50e26ad5e6efdbbf",
+        "titulo": "Cervejeira Midea Frost Free 82 Litros funciona de -4°C a 18°C e conserva vinhos e espumantes",
+        "resumo": "A Cervejeira Frost Free 82 Litros Preta Midea oferece temperatura de -4°C a 18°C, permitindo armazenar cervejas, vinhos e espumantes em condições ideais. O aparelho possui controle preciso e modos dedicados a cada tipo de bebida, facilitando a organização doméstica. A ampla faixa de temperatura torna o eletrodoméstico versátil para uso diário e eventos especiais.",
+        "porQueImporta": "Permite ao consumidor otimizar espaço e manter diferentes bebidas na temperatura correta, sem precisar de múltiplos refrigeradores.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/02/games-e-consoles/offbeat-vale-a-pena-confira-nossa-review-do-jogo-musical/"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/eletro/cervejeira-midea-vai-de-4-c-a-18-c-e-tambem-conserva-vinhos-e-espumantes/"
           }
         ],
-        "updatedAt": "2026-10-02T14:00:00.000Z"
+        "updatedAt": "2026-10-02T19:58:44.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/m7Geas79bmlVO8fP0V4AjWXCIec=/0x0/filters:format(webp):quality(85)/a6796042-569c-4ba1-b1e0-88ad3ffe0070.webp"
       },
       {
-        "clusterId": "61764d725cf1bd3b",
-        "slug": "14ad621ef0a6862c",
-        "titulo": "Amazon oferece promoções em notebooks e smartwatches",
-        "resumo": "A Amazon disponibiliza descontos em notebooks, incluindo modelos gerais e gamers de marcas como Samsung, ASUS, Lenovo e Alienware. Também há ofertas em smartwatches que monitoram saúde e permitem ligações. Os consumidores podem aproveitar preços competitivos e escolher entre diferentes configurações e funcionalidades.",
-        "porQueImporta": "Essas promoções permitem que usuários atualizem equipamentos de informática e dispositivos wearables com custos reduzidos.",
+        "clusterId": "e2755e555dbb8d1e",
+        "slug": "6c8d7ef94e8390d5",
+        "titulo": "Claude Code lança suporte a mods para personalização",
+        "resumo": "A Anthropic introduziu mods no Claude Code, permitindo que usuários alterem a funcionalidade e aparência da ferramenta por meio de extensões em TypeScript. Os mods podem ser instalados via comando /plugin e já estão disponíveis no aplicativo desktop e na interface de linha de comando. Cada mod funciona como um plugin que pode ser compartilhado e customizado.",
+        "porQueImporta": "Facilita a adaptação do Claude Code às necessidades específicas dos usuários e estimula a criação de extensões comunitárias.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/02/reviews/hora-de-renovar-o-setup-selecionamos-otimas-opcoes-de-notebooks-em-promocao-na-amazon/"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/inteligencia-artificial/claude-code-ganha-suporte-a-mods-veja-como-personalizar-terminal-e-mais/"
           }
         ],
-        "updatedAt": "2026-10-02T14:00:00.000Z"
+        "updatedAt": "2026-10-02T19:58:36.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/7e_rpyif-V2yS_RMG1aN-EM9--I=/0x0/filters:format(webp):quality(85)/4c03a197-4217-4ac2-aba7-761c16cb8d12.png"
       },
       {
-        "clusterId": "6294eedda8eb21b2",
-        "slug": "2c7e41499d535168",
-        "titulo": "Michael Burry aposta em queda de ações de IA",
-        "resumo": "O investidor que previu a crise de 2008, Michael Burry, mudou suas posições e agora aposta na queda de ações de inteligência artificial. Ele citou sinais de sobrevalorização e riscos regulatórios como motivos para essa mudança. Burry destaca que a valorização excessiva das empresas de IA pode indicar uma bolha em formação.",
-        "porQueImporta": "A mudança de posição de um investidor de renome sinaliza alerta sobre possíveis riscos no mercado de IA.",
+        "clusterId": "ca0cb7ae3534f3db",
+        "slug": "a8b8f3be3e89a704",
+        "titulo": "Midea lança Air Fryer Oven 12L com formato oven e duas bandejas",
+        "resumo": "A Midea apresenta a Air Fryer Oven 12L Digital, modelo de formato oven com capacidade total de 12 litros. O aparelho inclui duas bandejas, permitindo cozinhar diferentes alimentos simultaneamente. A proposta visa atender famílias com porções maiores e maior versatilidade na cozinha. A novidade mantém a praticidade típica das air fryers, ampliando as opções de preparo.",
+        "porQueImporta": "Oferece uma alternativa prática e espaçosa para famílias que buscam versatilidade na cozinha.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/02/pro/investidor-que-previu-crise-de-2008-aposta-em-queda-de-acoes-de-ia/"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/eletro/air-fryer-oven-12l-da-midea-aposta-em-tamanho-familia-e-versatilidade/"
           }
         ],
-        "updatedAt": "2026-10-02T13:59:02.000Z"
+        "updatedAt": "2026-10-02T19:57:24.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/8bcA_B2pjt9UCTmMolFWA6bRQPs=/0x0/filters:format(webp):quality(85)/b8bd7f88-f410-4eb2-9a45-710440154b27.webp"
       }
     ],
     "ciencia": [
       {
-        "clusterId": "e457cab8364bb091",
-        "slug": "f3ac069659333a8c",
-        "titulo": "Grupos religiosos na política reacendem debate sobre separação Igreja e Estado",
-        "resumo": "A presença de grupos religiosos nas eleições brasileiras provocou polêmicas que renovam o debate sobre os limites da participação religiosa na política. A discussão gira em torno da compatibilidade entre a atuação de entidades religiosas e a neutralidade do Estado. O tema envolve questões de liberdade religiosa e de manutenção da laicidade institucional. A controvérsia reflete a tensão entre tradição religiosa e princípios democráticos no país.",
-        "porQueImporta": "A questão influencia a forma como a democracia brasileira lida com a influência religiosa nas decisões públicas.",
+        "clusterId": "08eef0c0daca2ef9",
+        "slug": "a0f4fd2ae33c6371",
+        "titulo": "Candidatos à Presidência apresentam propostas sobre meio ambiente, Amazônia, IA e tecnologia",
+        "resumo": "Nove dos 12 candidatos à Presidência incluem programas ambientais e climáticos em seus planos de governo, enquanto oito abordam inteligência artificial, tecnologia e a nova economia digital. As propostas variam em foco e detalhamento, refletindo diferentes prioridades entre os candidatos. Os especialistas destacam a importância desses temas para o futuro do país.",
+        "porQueImporta": "As escolhas dos candidatos sobre meio ambiente e tecnologia podem influenciar políticas críticas para o desenvolvimento sustentável e inovação no Brasil.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/ciencia/eleicoes-2026-resumo-das-propostas-dos-12-presidenciaveis-para-meio-ambiente-e-amazonia/"
+          }
+        ],
+        "updatedAt": "2026-10-02T20:08:46.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2024/05/2405-rio-amazonas-super-site.jpg"
+      },
+      {
+        "clusterId": "0c1b3aa4c2a69c3a",
+        "slug": "6b03b8e06fd2694f",
+        "titulo": "Centro de Energia Nuclear da USP amplia pesquisas em rastreamento de elementos radioativos e nutrição animal",
+        "resumo": "O Centro de Energia Nuclear na Agricultura da USP desenvolve técnicas analíticas avançadas para rastrear elementos radioativos em alimentos e investigar a nutrição animal. A pesquisa inclui aplicação de métodos de química analítica para garantir segurança e qualidade na cadeia alimentar. O instituto colabora com outras áreas da universidade, ampliando o impacto científico e tecnológico.",
+        "porQueImporta": "Essas pesquisas contribuem para a segurança alimentar e o avanço da ciência aplicada na agricultura.",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/noticias/presenca-de-grupos-religiosos-na-politica-coloca-em-debate-separacao-entre-igreja-e-estado/"
+            "url": "https://jornal.usp.br/universidade/no-rastro-dos-atomos-o-desenvolvimento-e-a-aplicacao-de-tecnicas-analiticas-em-um-instituto-especializado-da-usp/"
           }
         ],
-        "updatedAt": "2026-10-02T13:40:04.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20261001_igrejatrancada-1024x538.jpg"
+        "updatedAt": "2026-10-02T19:04:26.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20261002_aquarelas_Klaus_1996_campo_girassois-1024x538.jpg"
       },
       {
-        "clusterId": "1be84b97e355f0fd",
-        "slug": "b4818675b314edbb",
-        "titulo": "ShowMed apresenta espetáculo sobre motivação no Teatro Auxiliadora",
-        "resumo": "O evento ShowMed, que ocorrerá no Teatro Auxiliadora de Ribeirão Preto, tem como objetivo motivar profissionais e pessoas em geral a enfrentar desafios da vida profissional e pessoal. O programa incluirá apresentações de teatro, dança, poesia e música.",
-        "porQueImporta": "A iniciativa oferece recursos culturais e motivacionais que podem contribuir para o bem‑estar e desempenho dos participantes.",
+        "clusterId": "1ccc0aa582485d4f",
+        "slug": "a920a1e3924442ca",
+        "titulo": "USP orienta análise de variantes genéticas para diagnóstico de doenças raras",
+        "resumo": "O protocolo da USP fornece diretrizes para a interpretação de variantes genéticas em exames de sequenciamento. O documento visa apoiar profissionais de saúde na identificação de doenças raras. A iniciativa acompanha a expansão do uso de sequenciamento genético no SUS. A publicação é de acesso aberto, facilitando a consulta pelos usuários.",
+        "porQueImporta": "Ajuda a melhorar o diagnóstico de doenças raras no sistema público de saúde.",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/showmed-traz-espetaculo-sobre-motivacao-para-enfrentar-os-desafios-da-vida-profissional-e-pessoal/"
+            "url": "https://jornal.usp.br/radio-usp/protocolo-da-usp-orienta-analise-de-variantes-geneticas-para-diagnostico-de-doencas-raras/"
           }
         ],
-        "updatedAt": "2026-10-02T13:24:36.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20261002_adastra.jpg-1024x538.jpeg"
+        "updatedAt": "2026-10-02T18:59:23.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2025/02/20200324_genes1-1024x538.jpg"
       },
       {
-        "clusterId": "560ea73efe8f4f90",
-        "slug": "81fd9959c8af32ea",
-        "titulo": "USP seleciona voluntários pós-AVC para estudo de telereabilitação em casa",
-        "resumo": "A Universidade de São Paulo (USP) iniciou um estudo do Programa de Pós-Graduação em Neurologia que avalia a eficácia da telereabilitação para recuperar a função dos membros superiores em pacientes que sofreram AVC. O projeto recrutará voluntários de Ribeirão Preto e região para participar de sessões de reabilitação motora realizadas em suas residências. Os dados coletados ajudarão a determinar se o tratamento remoto pode ser uma alternativa viável ao acompanhamento presencial tradicional.",
-        "porQueImporta": "O estudo pode ampliar o acesso a terapias de reabilitação para pacientes que têm dificuldade de deslocamento.",
+        "clusterId": "3421398cadaed812",
+        "slug": "24200f94d318aadc",
+        "titulo": "USP lança plataforma para discutir futuro do futebol feminino",
+        "resumo": "A Universidade de São Paulo criou a plataforma PermeÖ Copa 2027, que reúne experiências e conhecimentos sobre o futebol feminino. O espaço está aberto ao público e convida atletas, profissionais, pesquisadores, torcedores e demais interessados a compartilhar informações e perspectivas. A iniciativa visa facilitar a reflexão coletiva sobre o desenvolvimento e a promoção do esporte feminino no país.",
+        "porQueImporta": "Promove diálogo inclusivo e contribui para o planejamento estratégico do futebol feminino no Brasil.",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/usp-seleciona-voluntarios-pos-avc-para-estudo-sobre-reabilitacao-motora-em-casa/"
+            "url": "https://jornal.usp.br/diversidade/plataforma-criada-na-usp-reune-experiencias-para-ajudar-a-pensar-o-futuro-do-futebol-feminino/"
           }
         ],
-        "updatedAt": "2026-10-02T12:45:31.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2024/10/20241024_fisio-1024x538.jpg"
+        "updatedAt": "2026-10-02T18:54:49.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20261002_futebol-1024x538.jpg"
       },
       {
-        "clusterId": "bdb50afae8fbf738",
-        "slug": "15532140c2b2f28e",
-        "titulo": "Prêmio Capes de Tese reflete qualidade dos Programas de Pós-Graduação da USP",
-        "resumo": "O boletim \"Por Dentro da USP\" contou com a presença do pró-reitor de Pós-Graduação, Carlos Eduardo Ambrósio, que destacou a importância do Prêmio Capes de Tese para reconhecer a excelência dos programas de pós-graduação da universidade. Ele ressaltou que o prêmio reflete o nível de qualidade e o impacto das pesquisas desenvolvidas na USP. A premiação também serve como incentivo para a continuidade e expansão das atividades acadêmicas e de pesquisa.",
-        "porQueImporta": "O reconhecimento reforça a reputação da USP como referência em pesquisa e formação de pesquisadores de alto nível.",
+        "clusterId": "1c792aed95d3f4a9",
+        "slug": "8af371a0f229734b",
+        "titulo": "Edusp publica livro sobre a trajetória espiritual de Murilo Mendes",
+        "resumo": "A Editora da USP lançou \"De Murilo Mendes para a eternidade – Correspondências do poeta católico\", que reúne materiais que ilustram o percurso espiritual do escritor mineiro e os contextos socioculturais que o influenciaram. O volume traz correspondências e documentos que revelam a formação religiosa e a relação de Mendes com a literatura e a fé. A obra oferece uma visão inédita sobre a vida e obra do poeta, destacando sua contribuição para a cultura brasileira.",
+        "porQueImporta": "O livro amplia o conhecimento sobre a influência da espiritualidade na obra de Murilo Mendes e sua relevância na literatura brasileira.",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/comunicados/premio-capes-de-tese-reflete-a-qualidade-dos-programas-de-pos-graduacao-da-usp-falta-audio/"
+            "url": "https://jornal.usp.br/cultura/de-murilo-mendes-para-a-eternidade-correspondencias-do-poeta-catolico/"
           }
         ],
-        "updatedAt": "2026-10-02T12:30:17.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/04/20260415_por-dentro-da-usp-4--1024x538.jpg"
+        "updatedAt": "2026-10-02T18:20:12.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20261002_murilodestaque-1024x538.jpg"
       },
       {
-        "clusterId": "731a3a11b9e46fa0",
-        "slug": "fcd3e7ba28af71b4",
-        "titulo": "SUS amplia arsenal de medicamentos para câncer pulmonar",
-        "resumo": "O Sistema Único de Saúde passou a disponibilizar três novos fármacos de alta tecnologia: brigatinibe, gefitinibe e durvalumabe. Cada medicamento é indicado para diferentes estágios do tratamento do câncer pulmonar. A inclusão desses fármacos visa melhorar a eficácia terapêutica e ampliar opções de tratamento para os pacientes.",
-        "porQueImporta": "A ampliação do acesso a terapias avançadas pode aumentar a taxa de sobrevida e melhorar a qualidade de vida dos pacientes com câncer pulmonar.",
+        "clusterId": "eed151d227cef047",
+        "slug": "6db4eef9b22fd814",
+        "titulo": "Livro propõe metodologia integrada para estudos de público em museus",
+        "resumo": "Pesquisadores do Museu de Arqueologia e Etnologia da USP lançaram uma obra que combina monitoramento espacial e perfis de público em museus. O livro apresenta uma abordagem integrada para analisar o comportamento dos visitantes. A obra está disponível gratuitamente no Portal de Livros Abertos da USP.",
+        "porQueImporta": "Facilita pesquisas mais completas sobre o público museológico, contribuindo para a gestão e planejamento de experiências culturais.",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/sus-passa-a-oferecer-tres-novos-medicamentos-de-alta-tecnologia-para-o-tratamento-de-cancer-pulmonar/"
+            "url": "https://jornal.usp.br/universidade/livro-propoe-metodologia-integrada-para-estudos-de-publico-em-museus/"
           }
         ],
-        "updatedAt": "2026-10-02T12:30:03.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20261001_remedios-1024x538.jpg"
+        "updatedAt": "2026-10-02T16:46:56.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2025/09/20250918_00_museu_do_ipiranga_visitas_monitoradas-1024x538.jpg"
       },
       {
-        "clusterId": "793eeb4826d9d608",
-        "slug": "e6ee227af80a61e2",
-        "titulo": "Pesquisa FAPESP mostra que pisar em cobras pode render Ig Nobel para brasileiro",
-        "resumo": "Um estudo da FAPESP revelou que o ato de pisar em cobras pode levar a uma premiação Ig Nobel. A pesquisa destaca a tradição e o humor presentes na cultura brasileira. O trabalho também menciona outras homenagens, eventos e publicações relacionadas ao tema.",
-        "porQueImporta": "Ilustra como curiosidades culturais podem ganhar reconhecimento internacional.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Pesquisa FAPESP",
-            "url": "https://revistapesquisa.fapesp.br/tradicao-e-bom-humor/?utm_source=rss&utm_medium=rss&utm_campaign=tradicao-e-bom-humor"
-          }
-        ],
-        "updatedAt": "2026-10-02T11:57:06.000Z"
-      },
-      {
-        "clusterId": "64aa29de0d8de065",
-        "slug": "08876547a1036b06",
-        "titulo": "Técnica de laser detecta resíduos de pesticida em objetos de museu",
-        "resumo": "A espectroscopia Raman aprimorada por superfície (SERS) foi usada para identificar resíduos de permethrin em objetos de patrimônio cultural. O método emprega um laser para excitar vibrações moleculares, permitindo a detecção de resíduos em superfícies delicadas. A técnica mostrou alta sensibilidade e não requer preparação invasiva dos objetos.",
-        "porQueImporta": "Permite conservar obras de arte ao identificar contaminantes sem danificá‑las.",
+        "clusterId": "eb8bbf674bb0337e",
+        "slug": "86967f1bbf728aca",
+        "titulo": "Novo método facilita verificação de caos em sistemas dinâmicos",
+        "resumo": "Um estudo recente apresenta um método simplificado para identificar a presença de comportamento caótico em sistemas dinâmicos, mesmo quando esses sistemas são matematicamente simples. A abordagem proposta oferece regras claras que permitem determinar se o caos está presente, reduzindo a complexidade da análise. O trabalho destaca que, apesar da simplicidade dos modelos, o caos pode surgir de forma inesperada.",
+        "porQueImporta": "A ferramenta pode acelerar pesquisas em física, biologia e engenharia, onde a detecção precoce de caos é crucial.",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/uspnews/laser-technique-detects-organic-pesticide-residues-in-museum-objects/"
+            "url": "https://jornal.usp.br/ciencias/ate-o-caos-tem-regras-novo-metodo-para-verificar-a-existencia-de-caos-em-sistemas-dinamicos/"
           }
         ],
-        "updatedAt": "2026-10-02T11:48:57.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/09/20260917_anacarolina-1024x538.jpg"
+        "updatedAt": "2026-10-02T15:30:50.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20261002_caos-1024x537.jpg"
       },
       {
-        "clusterId": "58d14f8a80d04273",
-        "slug": "1f46731a3715ab8e",
-        "titulo": "Projeto usa dados do SUS para estimar risco de violência contra a mulher",
-        "resumo": "Um estudo premiado internacionalmente utilizou dados do Sistema Único de Saúde (SUS) para mapear regiões brasileiras com maior incidência de violência física, sexual e psicológica contra a mulher. O trabalho identificou que níveis mais baixos de escolaridade, falta de rede de apoio e menor acesso a serviços de saúde estão associados a um risco maior de violência. Os resultados foram obtidos a partir da análise de registros de atendimentos médicos e de dados sociodemográficos. A pesquisa oferece uma base quantitativa para orientar políticas públicas de prevenção e proteção.",
-        "porQueImporta": "Os dados ajudam a direcionar recursos e ações de prevenção onde a violência contra a mulher é mais prevalente.",
+        "clusterId": "37ad94abefe6f5c3",
+        "slug": "61833887fd9c82e5",
+        "titulo": "USP desenvolve treinamento gratuito para prevenção do suicídio em idosos",
+        "resumo": "Pesquisadoras da USP lançaram um curso gratuito na Escola de Enfermagem de Ribeirão Preto, focado na prevenção do suicídio entre a população idosa. O material abrange formação de estudantes e profissionais de saúde, além de orientar cuidadores sobre a saúde mental dos idosos. O treinamento visa melhorar a identificação e intervenção em situações de risco.",
+        "porQueImporta": "O programa contribui para reduzir a mortalidade por suicídio em idosos, um grupo vulnerável.",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/ciencias/projeto-usa-dados-do-sus-para-estimar-risco-de-violencia-contra-a-mulher/"
+            "url": "https://jornal.usp.br/campus-ribeirao-preto/pesquisadoras-da-usp-criam-treinamento-para-prevencao-do-suicidio-em-idosos/"
           }
         ],
-        "updatedAt": "2026-10-02T11:21:33.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20260930_mulhercodigos-1024x538.jpg"
+        "updatedAt": "2026-10-02T15:30:15.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2024/07/20240716_casal-de-idosos-1024x538.jpg"
       }
     ],
     "saude": [
+      {
+        "clusterId": "6c0918ae1e2ab0f1",
+        "slug": "ee286c2b2ea6bdae",
+        "titulo": "Medicamentos para perda de peso não devem ser usados durante a gestação",
+        "resumo": "Medicamentos que promovem perda de peso não são recomendados para gestantes, pois podem afetar o desenvolvimento fetal. A recomendação baseia-se em evidências de risco potencial para o feto. Gestantes devem buscar alternativas seguras e consultar profissionais de saúde antes de usar qualquer medicação.",
+        "porQueImporta": "Garantir a saúde do feto e evitar complicações maternas.",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/mulher/gravidez-e-canetas-emagrecedoras-por-que-gestantes-devem-evitar-o-uso/"
+          }
+        ],
+        "updatedAt": "2026-10-02T20:20:58.000Z"
+      },
+      {
+        "clusterId": "42e558762920d8d5",
+        "slug": "ecc0562757697782",
+        "titulo": "Sociedades médicas lançam diretriz sobre diagnóstico e tratamento do hipogonadismo masculino",
+        "resumo": "Sociedades médicas publicaram diretriz que orienta o diagnóstico e tratamento do hipogonadismo masculino. O documento alerta para os riscos do uso de testosterona sem indicação adequada. A diretriz busca melhorar a prática clínica e reduzir complicações associadas ao tratamento hormonal.",
+        "porQueImporta": "A orientação ajuda a evitar uso indevido de testosterona e melhora a saúde dos homens com hipogonadismo.",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/endocrinologia/testosterona-baixa-quando-e-sinal-de-problema-de-saude/"
+          }
+        ],
+        "updatedAt": "2026-10-02T18:00:00.000Z"
+      },
       {
         "clusterId": "d22e0d38f9472317",
         "slug": "c7169c115d687f06",
@@ -1004,11 +1084,11 @@
         "updatedAt": "2026-10-01T20:11:07.000Z"
       },
       {
-        "clusterId": "05e1e0bead17bd00",
-        "slug": "346503fadabacede",
-        "titulo": "Candidatos à Presidência 2026 apresentam propostas sobre Estratégia Saúde da Família e saúde mental",
-        "resumo": "Os candidatos à presidência de 2026 foram questionados sobre a Estratégia Saúde da Família, destacando a importância de equipes multidisciplinares para garantir acesso universal aos serviços de saúde. Em relação à saúde mental, os planos de governo incluem medidas para ampliar o cuidado e enfrentar o crescente desafio da saúde mental no país. As respostas refletem a prioridade que os candidatos dão a políticas públicas de saúde.",
-        "porQueImporta": "As propostas dos candidatos influenciarão as políticas de saúde pública e o bem‑estar da população nas próximas eleições.",
+        "clusterId": "8a457487fba8c857",
+        "slug": "68418da935a0c67a",
+        "titulo": "Candidatos à Presidência discutem Estratégia Saúde da Família nas Eleições 2026",
+        "resumo": "Os candidatos à Presidência do Brasil foram questionados sobre a Estratégia Saúde da Família, que reúne equipes multidisciplinares para garantir o acesso universal aos serviços de saúde. Cada candidato apresentou sua visão sobre a continuidade e possíveis ajustes na política. A discussão destaca a importância do tema para a agenda de saúde pública nas próximas eleições.",
+        "porQueImporta": "O debate reflete a prioridade da saúde na plataforma política dos candidatos.",
         "category": "saude",
         "sources": [
           {
@@ -1019,11 +1099,11 @@
         "updatedAt": "2026-10-01T19:00:00.000Z"
       },
       {
-        "clusterId": "caf2b7870ffa2526",
-        "slug": "88bfadc735b3ff2d",
-        "titulo": "Raiva na adolescência: como lidar com a emoção",
-        "resumo": "A raiva constante na adolescência pode gerar ações impulsivas com consequências negativas. O artigo apresenta estratégias mais saudáveis para gerenciar esse sentimento. Ele destaca a importância de reconhecer e expressar a raiva de forma construtiva. O conteúdo oferece orientações práticas para adolescentes e responsáveis.",
-        "porQueImporta": "Ajuda a prevenir comportamentos de risco e promove o bem‑estar emocional na fase de desenvolvimento.",
+        "clusterId": "8f1b985dd03fb9c8",
+        "slug": "1c16e7c38e25b438",
+        "titulo": "Solidão na adolescência e como fazer novas amizades",
+        "resumo": "A solidão pode ser comum na adolescência, mas é possível superá-la aprofundando relações e buscando novas conexões. Estratégias incluem participar de atividades em grupo, mostrar interesse genuíno pelos outros e manter contato regular. A construção de amizades requer esforço consciente e abertura para novas experiências.",
+        "porQueImporta": "Entender como lidar com a solidão ajuda adolescentes a desenvolver habilidades sociais e bem‑estar emocional.",
         "category": "saude",
         "sources": [
           {
@@ -1032,221 +1112,222 @@
           }
         ],
         "updatedAt": "2026-09-30T21:31:00.000Z"
-      },
-      {
-        "clusterId": "625465272c97afa2",
-        "slug": "b2c8db0358f8e697",
-        "titulo": "Infarto silencioso pode passar despercebido e causar danos ao coração",
-        "resumo": "O infarto silencioso não apresenta sintomas clássicos, mas pode manifestar cansaço, falta de ar e mal-estar. Esses sinais, embora sutis, indicam risco de lesão cardíaca. Identificar o quadro precocemente é fundamental para evitar complicações graves.",
-        "porQueImporta": "Detectar infartos silenciosos evita danos irreversíveis ao coração.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/ambulatorio/infarto/infarto-silencioso-veja-quais-sao-os-sinais-riscos-e-como-identificar/"
-          }
-        ],
-        "updatedAt": "2026-09-30T19:00:00.000Z"
-      },
-      {
-        "clusterId": "3ea6adedaff0de55",
-        "slug": "025d7b43e847cbf2",
-        "titulo": "Riscos de consumir alimentos vencidos",
-        "resumo": "Consumir alimentos com data de validade ultrapassada pode causar problemas de saúde, mesmo quando os produtos aparentam estar em boas condições. Microrganismos e toxinas podem se desenvolver após o vencimento, aumentando o risco de intoxicação alimentar. Especialistas recomendam descartar alimentos vencidos para evitar complicações.",
-        "porQueImporta": "Garantir a segurança alimentar protege a saúde pública.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/alimentacao/de-olho-na-data-de-validade-quais-os-riscos-de-ingerir-alimentos-vencidos/"
-          }
-        ],
-        "updatedAt": "2026-09-30T18:00:00.000Z"
-      },
-      {
-        "clusterId": "eceef4ae4365a5ef",
-        "slug": "05b49f668b5562a1",
-        "titulo": "Memória: o que é normal esquecer e o que pode ser considerado doença",
-        "resumo": "O texto explica que esquecimentos cotidianos, como não lembrar nomes ou tarefas, são comuns e fazem parte do funcionamento da memória. Entretanto, quando esses lapsos se tornam frequentes ou afetam a vida diária, especialmente em idosos, pode indicar uma condição patológica. O artigo destaca a importância de reconhecer a diferença entre memória normal e sinais de doença, como a demência.",
-        "porQueImporta": "Identificar falhas de memória que podem indicar doença ajuda na busca precoce por diagnóstico e tratamento.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/bemestar/podcast/noticia/2026/09/30/bem-estar-370-memoria-o-que-e-normal-esquecer-e-o-que-pode-ser-considerado-doenca.ghtml"
-          }
-        ],
-        "updatedAt": "2026-09-30T15:06:52.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/HHL05yzEHaC1di4rlruXwpDUQbg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/1/x/wJsKAlTgqj53gnrITItQ/captura-de-tela-2024-06-26-084704.png"
-      },
-      {
-        "clusterId": "8cfb5975b5e6dd60",
-        "slug": "e91b2a5c8311db32",
-        "titulo": "Como adolescentes podem diferenciar a tristeza da depressão",
-        "resumo": "A depressão pode se manifestar de várias formas na adolescência, diferindo da tristeza comum. Os sintomas incluem persistência de humor deprimido, perda de interesse em atividades, alterações no sono e no apetite, e pensamentos negativos. A distinção é importante para buscar ajuda adequada e evitar complicações.",
-        "porQueImporta": "Reconhecer a depressão precocemente ajuda a prevenir consequências graves na saúde mental dos jovens.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/videos/especiais/como-adolescentes-podem-diferenciar-a-tristeza-da-depressao/"
-          }
-        ],
-        "updatedAt": "2026-09-30T15:01:00.000Z"
       }
     ],
     "esportes": [
       {
-        "clusterId": "2892531312213192",
-        "slug": "ad29c4f25c12101e",
-        "titulo": "Homem com histórico de homicídio e assalto é preso em Santarém",
-        "resumo": "Reinaldo Marques Vasconcelos, com antecedentes criminais por homicídio e assalto, foi detido e apresentado na 16ª Seccional Urbana de Polícia Civil de Santarém após abordagem do 35º Batalhão de Polícia Militar. A prisão ocorreu no fim da tarde de quinta-feira, 1º de outubro.",
-        "porQueImporta": "A prisão reforça o controle de indivíduos com histórico criminal na região.",
+        "clusterId": "f2fd758009f1f65c",
+        "slug": "c2252e447ca555eb",
+        "titulo": "Santa Cruz enfrenta Maringá em jogo decisivo da Série C",
+        "resumo": "A torcida do Santa Cruz esgotou todos os ingressos para o confronto com o Maringá, que pode garantir vaga na Série B em caso de empate. O jogo está marcado para sábado, 3 de maio, no estádio do Santa Cruz. A partida faz parte da quinta rodada da segunda fase da Série C.",
+        "porQueImporta": "O resultado pode determinar a promoção do Santa Cruz à Série B.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/pa/santarem-regiao/futsal/noticia/2026/10/02/copa-santarem-de-futsal-confira-os-resultados-de-quinta-1o-e-os-tres-jogos-desta-sexta-2.ghtml"
+            "url": "https://ge.globo.com/pe/futebol/brasileirao-serie-c/jogo/03-10-2026/santa-cruz-maringa.ghtml"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/10/02/pm-prende-homem-com-historico-de-homicidio-e-assalto-em-santarem.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/torcida-do-santa-cruz-esgota-ingressos-para-jogo-do-acesso-na-serie-c/"
           }
         ],
-        "updatedAt": "2026-10-02T14:08:11.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/GU47ekKcI8W38KtMWpwKDkrgsfA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/h/c/Bj1VctSSeT5IRq2FdBdA/whatsapp-image-2026-09-25-at-11.46.23.jpeg"
+        "updatedAt": "2026-10-02T20:01:23.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/Dk4BalYIXu-CdEouIC0-FIIqtk0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/E/e/QeES4HRtyiiepRDuoGJQ/whatsapp-image-2026-09-26-at-18.25.00.jpeg"
       },
       {
-        "clusterId": "e63fd1c32e4b63c1",
-        "slug": "6ce2cadd09ab6d00",
-        "titulo": "Grêmio Prudente enfrenta União São João na decisão da Copa Paulista",
-        "resumo": "O Grêmio Prudente e o União São João empataram 0 a 0 no jogo de ida da semifinal da Copa Paulista. A partida decisiva será realizada fora de casa, onde o Prudente precisa vencer para avançar. Caso haja novo empate, a vaga será decidida nos pênaltis. O técnico Epitácio destaca que a diferença de rendimento entre jogos em casa e fora não se deve apenas ao aspecto emocional.",
-        "porQueImporta": "A partida determinará quem chega à final da Copa Paulista, importante para o clube e seus torcedores.",
+        "clusterId": "bf31ea805d2ba271",
+        "slug": "34843c9016efb9c2",
+        "titulo": "Vila Nova anuncia parceria com montadora chinesa como patrocinador master",
+        "resumo": "O clube Vila Nova, líder da Série B, encerrou contrato com a Bet e firmou novo acordo com a concessionária da BYD, montadora chinesa, que terá sua marca na parte principal da camisa. O patrocínio tem duração até o fim da temporada e representa o maior acordo já fechado pelo clube, embora os valores não tenham sido divulgados. A decisão foi tomada pela diretoria e a torcida já planeja viagem para Ribeirão Preto.",
+        "porQueImporta": "A mudança de patrocinador reflete a busca do clube por maior investimento e estabilidade financeira.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/lider-da-serie-b-abadona-bet-e-anuncia-byd-como-novo-patrocinador-master/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/10/02/lider-da-serie-b-vila-nova-anuncia-patrocinio-com-montadora-chinesa.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-02T19:42:40.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/QGWC_hZPuPqh8GDbx7U_GUNJlaU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/D/B/wofCbHS3GlQt9kJF7deA/vila-byd.png"
+      },
+      {
+        "clusterId": "078dc6df36d8bf65",
+        "slug": "45942772b4b6ddeb",
+        "titulo": "Djokovic iguala recorde de Nadal em sequência invicta no ATP 500 de Pequim",
+        "resumo": "Novak Djokovic venceu Bu Yunchaokete de virada, mantendo invencibilidade de 31 jogos no ATP 500 de Pequim, igualando o recorde de Rafael Nadal. O tenista sérvio, 39 anos, avançou às quartas de final. A vitória ocorreu após parciais de 4/6, 7/6(2) e 6/2. O resultado reforça a consistência de Djokovic em torneios de alto nível.",
+        "porQueImporta": "A igualdade do recorde demonstra a longevidade e competitividade de Djokovic em torneios de elite.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/tenis/djokovic-pode-ultrapassar-recorde-que-nadal-estabeleceu-em-roland-garros/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/tenis/noticia/2026/10/02/novak-djokovic-vence-de-virada-vai-as-quartas-de-final-em-pequim-e-iguala-recorde-de-rafael-nadal.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-02T19:25:06.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/lNobb42jCKWCbu-eOzvCgAIv6V8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/g/N/wSwhBaTzuO8ZkrewtuQg/2026-10-02t154024z-692009911-up1ema217japj-rtrmadp-3-tennis-beijing.jpg"
+      },
+      {
+        "clusterId": "7608ae7a8c0c6964",
+        "slug": "c6186a43a3cf63e0",
+        "titulo": "Yuri Alberto liberado para voltar a jogar pelo Corinthians",
+        "resumo": "O atacante Yuri Alberto concluiu o período de transição física e voltou a treinar integralmente com o elenco do Corinthians. Ele se recuperou de lesão muscular na coxa direita, que havia regressado durante o tratamento. A equipe confirma que ele está apto para participar do próximo jogo contra o Internacional, na 29ª rodada do Campeonato Brasileiro.",
+        "porQueImporta": "A liberação de Yuri Alberto reforça o ataque do Corinthians para a próxima partida importante do campeonato.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/yuri-alberto-faz-treino-integral-e-e-liberado-para-voltar-ao-corinthians/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/02/yuri-alberto-faz-treino-integral-com-elenco-do-corinthians-e-e-liberado-para-voltar-a-jogar.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-02T19:07:05.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/Vj5i5-9T4tcx398BiAZ0deLiDXg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/z/S/Z3JcpNTdyBsGpqrVbCtw/249425.jpg"
+      },
+      {
+        "clusterId": "16c643bb6ac8214b",
+        "slug": "d348ef71f29505ed",
+        "titulo": "Partidas da Liga das Nações 2026/27: França x Itália e Croácia x Inglaterra",
+        "resumo": "Na primeira rodada da Liga das Nações 2026/27, a França enfrentará a Itália em partida ao vivo, com escalação e informações disponíveis no globoesporte.com. Na terceira rodada do Grupo A3, a Croácia jogará contra a Inglaterra no Stadium Rujevica, às 13h (horário de Brasília). Ambas as seleções têm três pontos, enquanto a Espanha lidera o grupo com 100% de aproveitamento, tornando o confronto decisivo para as primeiras posições.",
+        "porQueImporta": "Esses jogos determinam posições críticas na classificação do grupo e influenciam a trajetória das equipes rumo à fase final da competição.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/sp/tem-esporte/futebol/times/gremio-prudente/noticia/2026/10/02/epitacio-mostra-otimismo-do-gremio-prudente-em-decisao-fora-de-casa-temos-totais-condicoes.ghtml"
+            "url": "https://ge.globo.com/futebol/futebol-internacional/liga-das-nacoes/jogo/02-10-2026/franca-italia.ghtml"
           }
         ],
-        "updatedAt": "2026-10-02T14:19:52.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/rZd6Hozeia-2URc9c66pKS_s-9M=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/6/M/aBRjsiSjC5WheXI3Awuw/20261001-145011.jpg"
+        "updatedAt": "2026-10-02T20:13:37.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/P5SfoB8z1bupqMGIrC-4AeY7xLU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/B/h/yw3BAaSM6AdlpCMTO7Mg/2026-09-29t185310z-1045662089-up1em9t1ggl7m-rtrmadp-3-soccer-uefanations-cze-eng.jpg"
       },
       {
-        "clusterId": "48a0d28d8c188e6e",
-        "slug": "6945b3a057828a1b",
-        "titulo": "São José conquista Copa Norte de Futsal masculina",
-        "resumo": "O São José-AP venceu o Coari-AM por 6 a 4 na final da 18ª Copa Norte de Futsal Masculino, realizada no Ginásio Cláudio Coutinho, em Porto Velho. O time amapaense manteve a invencibilidade ao longo do torneio, iniciando o jogo com 3 a 0 no primeiro tempo e ampliando o placar para 4 a 0 antes do intervalo. A partida terminou com o título do São José, que se destaca como campeão da região.",
-        "porQueImporta": "O resultado reforça a posição dominante do São José no futsal norte‑nacional e demonstra a competitividade do esporte na região.",
+        "clusterId": "3a4832cd91fb9dcb",
+        "slug": "3a436a4ebe55124b",
+        "titulo": "Sophia Medina perde para surfista japonesa nas oitavas de final do CS de Maresias",
+        "resumo": "Na competição de CS de Maresias, Sophia Medina foi derrotada pela surfista japonesa Kana Nakashio nas oitavas de final. A pontuação final de Nakashio foi 7,60 (4,83 + 2,77) contra 7,03 de Sophia (3,83 + 3,20). Sophia precisou de 3,78 na última bateria para vencer, mas não conseguiu.",
+        "porQueImporta": "A derrota de Sophia Medina, irmã de campeão mundial Gabriel Medina, afeta sua posição na classificação geral do campeonato.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/ac/noticia/2026/10/02/copa-norte-de-futsal-acre-tem-artilheiro-2o-melhor-ataque-maior-goleada-pior-ataque-e-lanterna.ghtml"
+            "url": "https://ge.globo.com/sp/vale-do-paraiba-regiao/surfe/noticia/2026/10/02/sophia-medina-perde-para-surfista-japonesa-e-se-despede-do-cs-de-maresias-nas-oitavas-de-final.ghtml"
           }
         ],
-        "updatedAt": "2026-10-02T14:17:51.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/aylLdyQpvfVlMAj3y1bxyGtJnVA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/S/u/ATaEvMTOKxnABrftcP4g/saveclip.app-825269598-18178305550430241-8975452739611307379-n.jpg"
+        "updatedAt": "2026-10-02T20:13:31.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/TlQY2vQuzbNAftT70P1dGuR0U3k=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/a/w/yeWU4RROA4EYwBo4AB8g/sophia.jpg"
       },
       {
-        "clusterId": "ce721d76f1e74108",
-        "slug": "a052305acbe7d76d",
-        "titulo": "Crise entre Cristiano Ronaldo e Jorge Jesus gera polêmica e intervenção policial",
-        "resumo": "A tensão entre o capitão Cristiano Ronaldo e o técnico Jorge Jesus provocou discussões entre torcedores no Aeroporto Francisco Sá Carneiro, exigindo intervenção policial. A Federação Portuguesa de Futebol pretende mediar a situação para evitar um rompimento definitivo. Celebridades do futebol internacional, como Thierry Henry, Rio Ferdinand e Arturo Vidal, defenderam Ronaldo, enquanto a conta oficial da seleção perdeu 1,5 milhão de seguidores após a crise.",
-        "porQueImporta": "O conflito pode afetar a coesão da equipe e o desempenho em competições internacionais.",
+        "clusterId": "cea8ca48d72e3870",
+        "slug": "b7765759bae144ff",
+        "titulo": "Federação Alagoana apresenta Ranking Digital dos clubes",
+        "resumo": "A Federação Alagoana de Futebol, em parceria com a Yellow Kite, divulgou o Ranking Digital dos clubes alagoanos, que avalia o desempenho diário no Instagram. No primeiro mês, o CRB lidera com 126 mil interações, seguido pelo CSA com 101 mil e o ASA com 34 mil. O projeto monitora apenas perfis públicos da rede social.",
+        "porQueImporta": "O ranking mostra a presença digital dos clubes, refletindo engajamento e visibilidade junto aos torcedores.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/02/discussao-entre-torcedores-por-cr7-e-jorge-jesus-termina-com-intervencao-policial-em-portugal.ghtml"
+            "url": "https://ge.globo.com/al/futebol/campeonato-alagoano/noticia/2026/10/02/quem-tem-a-torcida-mais-engajada-federacao-alagoana-apresenta-ranking-digital-dos-clubes.ghtml"
           }
         ],
-        "updatedAt": "2026-10-02T14:04:48.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/pHAeE50iwSEIGD92m4OxHnVVCX8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/0/b/JSVShCTlKbsuXrBAAgVw/afp-20260930-c9v4963-v1-midres.jpg"
+        "updatedAt": "2026-10-02T20:12:47.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/PkOJ2UM4bOF4kVyIXRflG2GDVJk=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/n/f/icGoaHScmuFg355CTdEw/55134469818-cf98885509-k.jpg"
       },
       {
-        "clusterId": "edf1b6c3f17b6275",
-        "slug": "d7a38e15be5c2b5e",
-        "titulo": "Cobertura de partidas da temporada 2026/27",
-        "resumo": "Não há informações disponíveis nos links fornecidos para detalhar os jogos de Manchester United x Tottenham, Chelsea x Bournemouth, Arsenal x Leeds United, São Paulo x Santos e Atlético-MG x Bragantino.",
-        "porQueImporta": "Sem dados concretos, não é possível avaliar a relevância dos resultados.",
+        "clusterId": "06e147f2b71fbcf9",
+        "slug": "c539d34cc6dc4a5e",
+        "titulo": "Franclim Carvalho relata dificuldades de adaptação no Botafogo",
+        "resumo": "O ex-técnico Franclim Carvalho descreveu desafios enfrentados ao assumir o Botafogo, incluindo a necessidade de adaptar o modelo de jogo e lidar com um elenco que não atendia às suas exigências. Ele destacou a dificuldade de encontrar jogadores com as características desejadas, especialmente para as laterais, devido ao fechamento do mercado de transferências. O treinador também falou sobre o trabalho de formação nas categorias de base do clube.",
+        "porQueImporta": "A experiência de Franclim oferece insights sobre os obstáculos que técnicos podem enfrentar ao integrar novos sistemas em clubes com recursos limitados.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/jogo/10-10-2026/Manchesterunited-Tottenham.ghtml"
+            "url": "https://ge.globo.com/futebol/times/botafogo/noticia/2026/10/02/franclim-carvalho-comenta-dificuldades-em-passagem-pelo-botafogo-sou-muito-teimoso.ghtml"
           }
         ],
-        "updatedAt": "2026-10-02T14:04:16.000Z"
-      },
-      {
-        "clusterId": "0c301113f873284a",
-        "slug": "64859625d65c211d",
-        "titulo": "Ceará e Avaí se preparam para duelo na Série B com desfalques",
-        "resumo": "O Ceará enfrenta o Avaí na 31ª rodada da Série B com cinco desfalques e três retornos, incluindo Richardson e Zanocelo. O Avaí, por sua vez, conta com quatro mudanças, pois Gabriel Simples, Paulo Vitor, Zé Ricardo e Rildo estão indisponíveis. Ambos os times precisam ajustar suas formações para evitar o rebaixamento.",
-        "porQueImporta": "O resultado pode definir a posição de cada equipe na tabela de classificação da Série B.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/ce/futebol/times/ceara/noticia/2026/10/02/escalacao-com-cinco-desfalques-ceara-tera-mudancas-para-duelo-contra-avai.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-02T14:02:31.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/ziuxhpHpaKKFfM0Lo01je7DhlP0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/U/7/7qnRlNSdCPN0PZiV4bcg/img-8363.jpg.jpeg"
-      },
-      {
-        "clusterId": "91d82012d1877d6a",
-        "slug": "ac66e010f0711997",
-        "titulo": "Argentina enfrenta Benim em amistoso 2026",
-        "resumo": "O jogo amistoso entre Argentina e Benim está programado para 2026, com foco em preparação e testes de escalação. A partida será coberta pelo globoesporte.com, que oferece escalação, fotos e informações detalhadas. O encontro serve como oportunidade para avaliar jogadores e estratégias antes de competições oficiais.",
-        "porQueImporta": "Permite à seleção argentina testar formações e talentos em ambiente competitivo antes de torneios importantes.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/jogo/06-10-2026/argentina-benin.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-02T14:01:12.000Z"
-      },
-      {
-        "clusterId": "03dde83eb35ff1a2",
-        "slug": "cda351e11322ef8d",
-        "titulo": "Auto Esporte-PB vira na 6ª rodada da Segundona do Paraibano 2026",
-        "resumo": "Na 6ª rodada da segunda divisão do Campeonato Paraibano 2026, o Auto Esporte-PB venceu o São Paulo Crystal, mudando a liderança da competição. O jogo, marcado por um apagão no Estádio Almeidão, terminou com um saldo de gols elevado e encerrou a invencibilidade da Desportiva Guarabira.",
-        "porQueImporta": "A mudança de liderança pode influenciar a classificação final e a disputa pelo acesso à primeira divisão.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/pb/futebol/paraibano-segunda-divisao/noticia/2026/10/02/rolou-na-segundona-6a-rodada-tem-auto-esporte-pb-lider-fim-de-invencibilidade-e-jogo-com-apagao.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-02T14:00:00.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/8ePHLoE_TbdhhrNRzViY590YNHY=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/3/9/9BBjx9RAqBNoSXtK9kAw/whatsapp-image-2026-10-02-at-10.03.00.jpeg"
+        "updatedAt": "2026-10-02T20:12:27.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/r0TCHI0wRawRr897UEnYNYmlmTg=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Z/w/BZPbqITsSoBtvBRAuU1g/55432439932-25a39e5f19-k.jpg"
       }
     ],
     "entretenimento": [
       {
-        "clusterId": "6e249d5b7533e3e0",
-        "slug": "357532d3456d65d8",
-        "titulo": "Olivier Martinez move ação contra Halle Berry alegando agressão ao filho",
-        "resumo": "O ator Olivier Martinez entrou com uma ação judicial na Califórnia, acusando a ex-esposa Halle Berry de ter agredido seu filho de 12 anos, alegando que a atriz teria estrangulado e saltado sobre a criança. Ele também solicitou uma medida restritiva contra Berry. O processo foi protocolado em tribunal local e baseia-se em relatos de um incidente ocorrido em 26 de outubro de 2023.",
-        "porQueImporta": "A acusação envolve figuras públicas e pode afetar a reputação e a vida familiar dos envolvidos.",
+        "clusterId": "79caa591ee958e9b",
+        "slug": "0712bbb13074139a",
+        "titulo": "TV Globinho volta com edição especial reunindo antigos apresentadores",
+        "resumo": "O programa infantil TV Globinho será exibido em edição especial no dia 10 de outubro, durante a Maratona Esperança. Os apresentadores que participaram da série entre 2000 e 2015 – Geovanna Tominaga, Letícia Colin, Ícaro Silva e Paulo Mathias Jr. – se reencontram para a transmissão. A Globo divulgou fotos da reunião e destaca a importância do programa na memória afetiva do público.",
+        "porQueImporta": "Relembrar um ícone da cultura infantil brasileira e reforçar a tradição da emissora.",
         "category": "entretenimento",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/cultura/halle-berry-acusada-de-agredir-o-filho-entenda-a-briga-com-o-ex-marido-na-justica/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/tv/tv-globinho-edicao-especial-tera-exibicao-de-tres-espias-demais/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/10/01/olivier-martinez-acusa-halle-berry-de-agressao-contra-filho-e-pede-medida-restritiva-na-justica.ghtml"
+            "url": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2026/10/01/tv-globinho-reune-antigos-apresentadores-em-edicao-especial-veja-fotos.ghtml"
           }
         ],
-        "updatedAt": "2026-10-02T13:05:18.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/04/GettyImages-2207631580.jpg"
+        "updatedAt": "2026-10-02T19:53:21.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/0_27aJOEfeONZ26uH-v7q3Kd4AY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/F/v035P6TBAkrpEDy9NHvw/whatsapp-image-2026-10-01-at-14.41.36.jpeg"
+      },
+      {
+        "clusterId": "d221596a86670ea8",
+        "slug": "05be88149e33e65d",
+        "titulo": "Isabela nasce, primeira filha de Mari Fernandez e Julia Ribeiro",
+        "resumo": "A cantora Mari Fernandez e a influencer Julia Ribeiro anunciaram o nascimento de Isabela, nascida em 1º de outubro de 2026. O casal divulgou a notícia nas redes sociais, destacando a data e horário do parto. Mari elogiou a força de Julia durante o parto em mensagem nos Stories. A celebração foi marcada como um presente para o casal.",
+        "porQueImporta": "O nascimento de Isabela representa a expansão da família de figuras públicas no cenário de entretenimento e mídia.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/sertanejo/noticia/2026/10/02/nasce-1a-filha-de-mari-fernandez-e-julia-ribeiro-cantora-enaltece-mulher-apos-parto-nao-aguentaria-metade-do-que-aguentou.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-02T15:00:06.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/CGyMhTrdl0iFhfLCOlDD6UyHADw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/G/4hwb0JSg6DByUmNUuHyA/novo-projeto-40-.jpg"
+      },
+      {
+        "clusterId": "c5c232a2f1ec3a64",
+        "slug": "ef4e83fa64415e0b",
+        "titulo": "Rapper Rashid alerta para afastamento dos valores originais do hip hop",
+        "resumo": "Rapper Rashid participou do programa g1 Ouviu em 30 de setembro, onde criticou o distanciamento da cena rap nacional dos valores que fundamentaram o movimento hip hop. Ele destacou a importância da memória coletiva e da preservação da mensagem e do território do gênero. Rashid ressaltou que a lembrança dos pioneiros continua sendo tema recorrente no rap contemporâneo.",
+        "porQueImporta": "A fala de Rashid destaca a necessidade de manter a identidade cultural do hip hop diante de mudanças na indústria musical.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/podcast/g1-ouviu/noticia/2026/10/02/g1-ouviu-335-rashid-e-sua-luta-contra-o-distanciando-dos-valores-que-fundamentaram-o-movimento-hip-hop.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-02T14:29:15.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/WvLztlMqOxcR915PORyvlukIp6A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/t/9vNtRsTCO70LPWmBg2nQ/foto-rashid-rafael-peixoto-2.jpg"
+      },
+      {
+        "clusterId": "3295090c1d8c2aab",
+        "slug": "a5dbe2855254270d",
+        "titulo": "Gypsy Rose Blanchard comenta morte de companheiro Ken Urker",
+        "resumo": "Gypsy Rose Blanchard falou pela primeira vez após a morte de Ken Urker, que foi encontrado morto em 1º de maio, dia de seu 34º aniversário. Ela afirmou que Urker sofria problemas psicológicos e teria feito overdose. Blanchard destacou que ele enfrentou intenso escrutínio público e cyberbullying nas redes sociais, como TikTok e Reddit.",
+        "porQueImporta": "A declaração traz à luz o impacto do cyberbullying em casos de saúde mental e a atenção pública sobre o caso de Blanchard.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/10/02/apos-morte-de-companheiro-gypsy-rose-diz-que-ele-foi-alvo-de-cyberbullying-nas-redes.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-02T13:53:49.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/uqsziP1e7-3EH-1WTel6i2EaMFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/q/TuBMgLSxC76yLEOQiPRA/gypsy-rose-blanchard-ken-urker-.webp"
       },
       {
         "clusterId": "a9b490a74c366657",
@@ -1311,54 +1392,6 @@
         ],
         "updatedAt": "2026-10-02T07:00:00.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/EJRQVvGuCCH7gkXq1yl1jatMDQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/o/dCoGd5SqKWfXyw65AEyA/pabllolost.jpg"
-      },
-      {
-        "clusterId": "2762de4c44338390",
-        "slug": "8e70ab8585831c5d",
-        "titulo": "Filme 'Funk' estreia no Festival do Rio com Duda Santos como MC Sabrina",
-        "resumo": "O longa‑metragem de ficção 'Funk', dirigido por Aly Muritiba, apresenta a atriz Duda Santos no papel de MC Sabrina, uma jovem funkeira. O filme será exibido pela primeira vez no Brasil durante o Festival do Rio 2026, na sessão Première Brasil. Duda Santos já é conhecida por papéis em novelas como 'Garota do Momento' e 'A Nobreza do Amor'. 'Funk' faz parte de uma programação que inclui vários documentários sobre ícones da música brasileira.",
-        "porQueImporta": "A estreia marca a presença de um filme de ficção focado na cultura do funk no principal festival de cinema do país.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/10/02/funk-filme-de-ficcao-estrelado-pela-atriz-duda-santos-como-mc-sabrina-estreia-no-brasil-no-festival-do-rio.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-02T03:02:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/ZGOvEnbuisSs4wuuqYbR0FHjXUA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/0/OTBCBIQFe3sNYIVMNecA/funkdivulgacao.jpg"
-      },
-      {
-        "clusterId": "75c7ae09fa7d146e",
-        "slug": "66c999ca4cef0be3",
-        "titulo": "Música inédita de Luiz Melodia ganha nova vida com BaianaSystem",
-        "resumo": "A letra de \"Brasil zerado\", escrita por Luiz Melodia há cerca de 15 anos, foi musicada postumamente por Russo Passapusso, vocalista da BaianaSystem. A composição será lançada na segunda quinzena de outubro. O projeto reúne a obra de Melodia com o estilo da banda BaianaSystem, trazendo à tona uma pérola negra do repertório do cantor. A iniciativa destaca a continuidade da influência de Melodia na música brasileira.",
-        "porQueImporta": "Revela como a obra de um artista pode ser revitalizada e apreciada por novas gerações.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/10/01/luiz-melodia-vira-parceiro-postumo-de-russo-passapusso-em-musica-inedita-gravada-pela-banda-baianasystem.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-01T21:22:55.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/HzWUPHvW-Jq4XDaA_ylmVL2Ob5Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/k/MZASnPRwynhhLALkMSMw/luiz-melodia-foto-daryan-dornelles.jpg"
-      },
-      {
-        "clusterId": "44d3c3d34b8b68bf",
-        "slug": "dbfe9d3807add291",
-        "titulo": "Processo por alegação de plágio contra Olivia Dean",
-        "resumo": "A empresa Mattie Music Group, responsável pelo catálogo de Bill Withers, abriu processo alegando que a música \"I've Seen It\" de Olivia Dean copia a faixa \"Just the Two of Us\". A ação não cita a artista, mas sim a gravadora Capitol Records. Os advogados apontam similaridades \"óbvias\" entre as composições.",
-        "porQueImporta": "O caso destaca questões de direitos autorais na indústria musical.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/10/01/sucesso-de-olivia-dean-ive-seen-it-e-acusada-de-copiar-just-the-two-of-us.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-01T20:48:17.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/5z3F6-E_7TDGSHtTlhNpjmWVLCw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/Z/WuO98gT3iVDZgoeid6xw/2026-02-02t020230z-1972772348-hp1em2205o4jm-rtrmadp-3-awards-grammys.jpg"
       }
     ]
   }
