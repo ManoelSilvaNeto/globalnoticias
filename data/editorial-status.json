@@ -1,11 +1,10 @@
 {
-  "ranAt": "2026-10-03T13:07:32.392Z",
+  "ranAt": "2026-10-03T19:02:36.742Z",
   "editionDate": "2026-10-03",
-  "hourUtc": 13,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 19,
+  "outcome": "generated",
+  "reason": "\"Combate a fraudes e mobilização política acompanham vitórias esportivas e crises sociais\" (4 parágrafos)",
   "attempts": [
-    "reprovado — poucos parágrafos (1)",
-    "erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
+    "ok (entidades fora do material toleradas: espanha)"
   ]
 }
