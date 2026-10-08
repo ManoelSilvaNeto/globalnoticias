@@ -1,11 +1,10 @@
 {
-  "ranAt": "2026-10-08T15:16:10.379Z",
+  "ranAt": "2026-10-08T21:03:43.508Z",
   "editionDate": "2026-10-08",
-  "hourUtc": 15,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 21,
+  "outcome": "generated",
+  "reason": "\"Decisões judiciais e movimentos de mercado marcam o dia\" (3 parágrafos)",
   "attempts": [
-    "reprovado — poucos parágrafos (1)",
-    "erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
+    "ok"
   ]
 }
