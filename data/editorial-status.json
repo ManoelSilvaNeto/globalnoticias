@@ -1,10 +1,8 @@
 {
-  "ranAt": "2026-10-08T21:03:43.508Z",
-  "editionDate": "2026-10-08",
-  "hourUtc": 21,
-  "outcome": "generated",
-  "reason": "\"Decisões judiciais e movimentos de mercado marcam o dia\" (3 parágrafos)",
-  "attempts": [
-    "ok"
-  ]
+  "ranAt": "2026-10-09T04:56:46.490Z",
+  "editionDate": "2026-10-09",
+  "hourUtc": 4,
+  "outcome": "skipped",
+  "reason": "fora da janela (4h < 11h UTC)",
+  "attempts": []
 }
