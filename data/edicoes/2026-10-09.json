@@ -1,530 +1,544 @@
 {
   "date": "2026-10-09",
-  "generatedAt": "2026-10-09T04:56:46.490Z",
+  "generatedAt": "2026-10-09T15:01:09.818Z",
   "home": [
     {
-      "clusterId": "acbf0350ed380ba1",
-      "slug": "eaf9d6453145ba6d",
-      "titulo": "TSE anula votos de Garotinho e reconhece derrota de Paes, deixando Ruas como vencedor no primeiro turno",
-      "resumo": "O Tribunal Superior Eleitoral anulou 274.411 votos de Anthony Garotinho, o que faz Douglas Ruas ultrapassar 50% dos votos válidos e garantir a vitória no primeiro turno. Eduardo Paes reconheceu a decisão e afirmou que respeitará a Justiça. O recurso de Paes ao STF foi negado pelo ministro Cristiano Zanin.",
-      "porQueImporta": "A decisão evita um segundo turno e define o governador do Rio de Janeiro.",
-      "category": "politica",
+      "clusterId": "13a806db9a967961",
+      "slug": "ae87df31dc9d7a0f",
+      "titulo": "Douglas Ruas pode ser declarado governador do Rio de Janeiro após anulação de votos de Anthony Garotinho",
+      "resumo": "O Tribunal Superior Eleitoral anulou 274.411 votos de Anthony Garotinho, o que elimina a necessidade de segundo turno e dá a Douglas Ruas, do PL, mais de 50% dos votos válidos no primeiro turno. O Tribunal Regional Eleitoral do Rio de Janeiro já programou a retotalização dos votos para sábado. Ruas afirmou que aguardará a retotalização antes de fazer declarações oficiais, mas já prometeu combater o crime organizado e atuar nos municípios.",
+      "porQueImporta": "A decisão pode mudar o resultado da eleição e definir o próximo governador do estado.",
+      "category": "geral",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/09/paes-aceita-decisao-da-justica-ruas-deve-ser-declarado-governador-do-rj-entenda.ghtml"
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/prestes-a-oficializar-vitoria-de-douglas-ruas-tre-suspende-propaganda-eleitoral-no-rio/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/lucas-pasin/vice-de-douglas-ruas-no-rio-e-ex-zorra-foi-miss-e-ja-criticou-ludmilla"
         },
         {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/c8zxl5365315o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/apos-zanin-enterrar-recurso-paes-reconhece-derrota-contra-ruas/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/eduardo-paes-reconhece-derrota-para-douglas-ruas-no-rio/"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/zanin-nega-recurso-de-eduardo-paes-e-mantem-anulacao-de-votos-de-garotinho/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/paes-reconhece-derrota-no-rio-apos-stf-negar-recurso-a-eleicao-termina"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/paes-diz-que-justica-contrariou-eleitores-mas-reconhece-derrota-a-ruas/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/zanin-rejeita-pedido-de-paes-para-suspender-exclusao-de-votos-de-garotinho-no-rio/"
-        }
-      ],
-      "updatedAt": "2026-10-09T03:00:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/AehYeZLMa5JQwwM4R3dev1lS_cQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/H/VrmwymT9qKXODBWEkj0w/ruas3.jpeg"
-    },
-    {
-      "clusterId": "9bd8eb68539c2fa5",
-      "slug": "ad3bc5a78d76b0bd",
-      "titulo": "Pesquisas apontam leve vantagem de Flávio Bolsonaro no 2º turno",
-      "resumo": "A pesquisa Vox Brasil, realizada entre 5 e 7 de outubro, indica que Flávio Bolsonaro tem 49,14% das intenções de voto, enquanto Lula tem 50,86% dos votos válidos, com margem de erro de 2,15 pontos percentuais. A mesma pesquisa mostra que 45,2% dos eleitores rejeitam Lula e 44,2% rejeitam Flávio. A Datafolha, divulgada em 8 de outubro, apresenta Flávio com 49% das intenções de voto e Lula com 45%, considerando empate técnico dentro da margem de erro de dois pontos percentuais. Ambas as pesquisas refletem a estreita disputa entre os candidatos.",
-      "porQueImporta": "Os resultados mostram a proximidade do eleitorado, influenciando estratégias de campanha e expectativas de vitória.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/vox-brasil-no-2o-turno-lula-tem-5086-e-flavio-4914-dos-votos-validos"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/vox-634-nao-vao-seguir-declaracao-de-voto-dos-candidatos-do-1o-turno/"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-442-e-flavio-427-no-2o-turno-diz-vox-brasil/"
-        },
-        {
           "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/09/datafolha-presidente-8-outubro-recortes.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/pesquisa-datafolha-2o-turno-flavio-bolsonaro-tem-52-e-lula-48-dos-votos-validos/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/08/douglas-ruas-tse-votos-garotinho.ghtml"
         }
       ],
-      "updatedAt": "2026-10-09T03:06:43.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/09/lula-flavio.jpeg"
+      "updatedAt": "2026-10-09T14:41:08.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/IMG_6065.jpg"
     },
     {
-      "clusterId": "e4c174e2f768a421",
-      "slug": "5ed91ca8e0efd864",
-      "titulo": "Fluminense goleia Coritiba por 4 a 0 no Maracanã",
-      "resumo": "O Fluminense venceu o Coritiba por 4 a 0 na 29ª rodada do Brasileirão, com hat-trick de Savarino e gol de Lucho Acosta nos acréscimos. O resultado elevou o Tricolor à terceira colocação, ultrapassando o Athletico. O Coritiba, que chegou a quatro jogos sem vencer, sofreu 14 gols em quatro partidas, sendo nove nas duas últimas. O técnico Fernando Seabra reconheceu a fragilidade defensiva do time.",
-      "porQueImporta": "A vitória reforça a posição do Fluminense na tabela e evidencia a crise defensiva do Coritiba.",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/pr/futebol/times/coritiba/noticia/2026/10/09/seabra-admite-queda-do-coritiba-e-liga-alerta-com-alto-numero-de-gols-sofridos.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/fluminense-4-x-0-coritiba-veja-os-melhores-momentos-pelo-brasileirao/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/esporte/com-hat-trick-de-savarino-fluminense-goleia-coritiba-no-maracana/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/com-tres-gols-de-savarino-fluminense-bate-o-coritiba-no-maracana-por-4-x-0"
-        }
-      ],
-      "updatedAt": "2026-10-09T04:07:03.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/9CBWI9mci-9KRZMwR2Ok7uAoNzQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/0/i/O6pRGARtmY5A7VXjVrqA/agif26100821473348.jpg"
-    },
-    {
-      "clusterId": "bd9716ccaac9e75c",
-      "slug": "fd7e2bd0a78262ec",
-      "titulo": "Athletico-PR e Atlético-MG empatam 2 a 2 na Arena da Baixada",
-      "resumo": "O jogo terminou empatado em 2 a 2, com gols de Kerwin Vargas e Viveros para o Furacão e Bernard e Lyanco para o Galo. A partida ficou eletrizante, especialmente após a expulsão de Tomás Pérez, que abriu espaço para o Furacão buscar a vitória. Nos minutos finais, Lyanco marcou o gol que garantiu o empate para o Galo.",
-      "porQueImporta": "O empate mantém ambos os times no G-4 do Brasileirão, influenciando a classificação final da temporada.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/pr/futebol/brasileirao-serie-a/jogo/08-10-2026/atletico-pr-atletico-mg.ghtml"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/esporte/athletico-e-atletico-mg-empatam-em-jogo-eletrizante/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/com-gols-no-fim-athletico-pr-e-atletico-mg-empatam-em-2-x-2-no-brasileirao"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/com-final-eletrizante-athletico-pr-e-atletico-mg-empatam-pelo-brasileirao/"
-        }
-      ],
-      "updatedAt": "2026-10-09T02:18:44.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/55577854549_0ae6ffc474_o-1024x683.jpg"
-    },
-    {
-      "clusterId": "300af975ced57547",
-      "slug": "e647b5bdaa646220",
-      "titulo": "Morte de funcionária de laboratório de pesquisa sobre peste na Rússia gera investigação internacional",
-      "resumo": "Uma mulher de 28 anos que trabalhava em um instituto de pesquisa sobre peste na Sibéria morreu de pneumonia de causa desconhecida, após supostamente quebrar um tubo de ensaio. A OMS solicitou mais informações e vários países pediram transparência da Rússia. O governo russo afirmou que não há risco epidêmico e que forneceu dados à OMS, enquanto a Mongólia aumentou a vigilância na região.",
-      "porQueImporta": "O caso pode indicar risco de disseminação de peste pneumônica e levanta questões sobre segurança em laboratórios de agentes patogênicos.",
+      "clusterId": "549826ed05b7b71a",
+      "slug": "15fced1c9394c6cb",
+      "titulo": "Navi Pillay recebe Nobel da Paz 2026",
+      "resumo": "A jurista sul-africana Navanethem “Navi” Pillay, de 85 anos, foi premiada com o Nobel da Paz em 2026 pelo Comitê Norueguês do Nobel. Pillay atuou como Alta Comissária das Nações Unidas para Direitos Humanos, lutou contra o apartheid e presidiu comissões que identificaram genocídio em Ruanda e em Gaza. Atualmente, ela serve como juíza na Corte Internacional de Justiça. O prêmio reconheceu sua coragem, integridade e esforços para promover a paz e o direito internacional.",
+      "porQueImporta": "O reconhecimento destaca a importância de líderes jurídicos na promoção dos direitos humanos e na prevenção de conflitos globais.",
       "category": "mundo",
       "sources": [
         {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/10/08/videos/caso-de-peste-na-russia-entenda-o-caso-e-se-ha-risco-para-o-brasil/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/ciencia/morte-de-cientista-na-russia-levanta-suspeita-de-peste-e-preocupa-especialistas-o-que-se-sabe/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/07/trump-diz-nao-acreditar-que-morte-causada-por-peste-na-russia-tenha-sido-resultado-de-arma-biologica.ghtml"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/presidente-da-africa-do-sul-cyril-ramaphosa-elogia-nobel-de-navi-pillay/"
         },
         {
           "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/c3j479x2lwg2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-10-09T02:01:18.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/q_X9bDngvtfwfoZNgVt7BAbAfEI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/B/ds967IQEiSI3hs7NvFTA/2026-10-07t180124z-1019285318-rc2iyna3g6ts-rtrmadp-3-usa-trump.jpg"
-    },
-    {
-      "clusterId": "d88d9ae9699cef8e",
-      "slug": "b6af52bb1457b85f",
-      "titulo": "Augusto Cury apoia Flávio Bolsonaro no segundo turno e mantém independência política",
-      "resumo": "O ex-candidato à Presidência Augusto Cury, do Avante, anunciou apoio ao candidato do PL, Flávio Bolsonaro, para o segundo turno das eleições de 2026, afirmando que não há troca de cargos ou acordos de governo. Cury destacou que a decisão foi tomada após conversa direta com o senador e que sua independência de pensamento será inegociável. O apoio de Cury foi acompanhado por declarações de outros partidos, como Podemos, Republicanos e Novo, que também se posicionaram a favor de Flávio Bolsonaro.",
-      "porQueImporta": "O apoio de um candidato de destaque e de vários partidos pode influenciar a dinâmica do segundo turno e a composição de possíveis alianças políticas.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/10/08/cury-diz-que-apoio-a-flavio-bolsonaro-nao-e-cheque-em-branco-eu-e-todo-o-povo-brasileiro-iremos-cobrar.ghtml"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/augusto-cury-declara-apoio-a-flavio-bolsonaro-no-segundo-turno/"
+          "url": "https://www.bbc.com/portuguese/articles/cr3wv8p8x6g8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/augusto-cury-anuncia-apoio-a-flavio-bolsonaro-no-2o-turno/"
+          "url": "https://www.cartacapital.com.br/mundo/jurista-sul-africana-navi-pillay-ganha-o-nobel-da-paz/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/09/quem-e-navi-pillay-vencedora-premio-nobel-da-paz-2026.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-09T12:47:31.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4939/live/903da2b0-c3c8-11f1-8fc5-335d62f6730b.jpg"
+    },
+    {
+      "clusterId": "5f5ec9c7753e3d81",
+      "slug": "ad55d38362c15de6",
+      "titulo": "Ibovespa atinge novo patamar próximo a 210 mil pontos",
+      "resumo": "O índice Ibovespa subiu, renovando seu máximo histórico e aproximando-se dos 210 mil pontos. O dólar caiu para menos de R$5, refletindo a valorização do real. O mercado foi impulsionado por otimismo em relação à inteligência artificial, queda no preço do petróleo e expectativas de redução de juros futuros, enquanto ainda acompanha os resultados da inflação de setembro. A alta do índice coincidiu com a proximidade das eleições e o cenário de reprecificação de ativos brasileiros.",
+      "porQueImporta": "A valorização do Ibovespa indica confiança dos investidores no mercado brasileiro, influenciada por fatores macroeconômicos e políticos.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09102026/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-9-outubro-2026/"
         },
         {
           "name": "Exame",
-          "url": "https://exame.com/brasil/cury-declara-apoio-a-flavio-bolsonaro-no-2o-turno-e-diz-que-lula-ja-deu/"
+          "url": "https://exame.com/invest/mercados/ibovespa-sobe-e-fica-perto-dos-210-mil-pontos-dolar-cai-abaixo-de-r-5/"
         }
       ],
-      "updatedAt": "2026-10-09T00:35:57.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/kskIZhnCytEBX3OWjV1e528whsk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/U/3nMMyxQHuHNLpNRttBAA/design-sem-nome.jpg"
+      "updatedAt": "2026-10-09T14:56:14.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-65.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
-      "clusterId": "1a69bf1eb8966280",
-      "slug": "4a13d62ce1db30ee",
-      "titulo": "Palmeiras vence Bahia por 1 a 0 na 29ª rodada do Brasileirão",
-      "resumo": "O Palmeiras derrotou o Bahia por 1 a 0 no Nubank Parque, com gol de cabeça de Flaco López aos sete minutos do primeiro tempo. O triunfo mantém o Alviverde próximo à liderança, a um ponto do Flamengo. O Bahia permanece na sexta posição e continua em busca de vaga direta na Libertadores 2027.",
-      "porQueImporta": "O resultado afeta a posição na tabela e a corrida pela Libertadores.",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/brasileirao-confira-os-melhores-momentos-dessa-quinta-feira-8-10"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-1-x-0-bahia-veja-os-melhores-momentos-pelo-brasileirao/"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/ba/futebol/times/bahia/noticia/2026/10/09/ceni-lamenta-jogo-ruim-do-bahia-em-derrota-diante-do-palmeiras-fizemos-muito-pouco.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-09T04:39:06.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/10/santos-flamengo.jpg"
-    },
-    {
-      "clusterId": "48102b89f604527c",
-      "slug": "f547d24ddade978a",
-      "titulo": "Ato pró-Lula em Sergipe interrompido após homem disparar para o alto",
-      "resumo": "Manifestação pró-Lula no campus da Universidade Federal de Sergipe foi interrompida quando um homem armado disparou para o alto, gerando pânico entre os participantes. A polícia iniciou investigação sobre o incidente e registrou vídeos do episódio. Não há relatos de feridos, mas a presença de arma e disparo provocou a dispersão dos manifestantes. O evento foi amplamente divulgado nas redes sociais, gerando debate sobre segurança em atos políticos.",
-      "porQueImporta": "O episódio destaca a tensão e a violência que podem surgir em manifestações políticas no Brasil.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/nacional/nordeste/se/ato-pro-lula-em-sergipe-e-interrompido-apos-relatos-de-homem-armado-e-tiros/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/policia-investiga-denuncia-de-disparos-em-manifestacao-pro-lula-em-sergipe"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/bolsonarista-saca-arma-e-da-tiro-pra-cima-durante-ato-pro-lula-em-sergipe/"
-        }
-      ],
-      "updatedAt": "2026-10-09T03:11:19.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/10/saveclip-app-836703380-18168450592469428-6000437148709307949-n.jpg"
-    },
-    {
-      "clusterId": "a50de0db88f5a5a6",
-      "slug": "9973d6b0994c1475",
-      "titulo": "Flamengo empata 2 a 2 com Santos e perde pontos",
-      "resumo": "O Flamengo terminou 2 a 2 com o Santos na Vila Belmiro, após abrir o placar 2 a 0 no primeiro tempo. O técnico Leonardo Jardim assumiu responsabilidade pelos gols sofridos na segunda etapa e contestou decisões da arbitragem, especialmente em lance envolvendo Carrascal. Ele reconheceu erros do time e afirmou que a equipe continuará em disputa até o fim da temporada, principalmente contra o Palmeiras.",
-      "porQueImporta": "O resultado afeta a posição do Flamengo na tabela e sua campanha na Libertadores.",
+      "clusterId": "2feab6fd8107d512",
+      "slug": "9350708ea875bde8",
+      "titulo": "Lula critica postura de Flávio Bolsonaro sobre escala 6x1",
+      "resumo": "O presidente Lula questionou em vídeo a posição de Flávio Bolsonaro sobre a proposta de fim da escala 6x1, pedindo esclarecimentos sobre como votaria e orientaria o PL. Flávio e o PL têm tentado adiar a votação, defendendo uma alternativa de negociação livre. A discussão ocorre enquanto a campanha do segundo turno se intensifica.",
+      "porQueImporta": "A escala 6x1 é tema central de debate entre os candidatos e pode influenciar a percepção dos eleitores sobre políticas trabalhistas.",
       "category": "politica",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/leonardo-jardim-reclama-da-arbitragem-e-lamenta-perda-de-pontos-do-flamengo"
+          "url": "https://www.metropoles.com/colunas/neila-guimaraes/lula-usa-escala-6x1-para-pressionar-flavio-no-segundo-turno"
         },
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/jardim-lamenta-empate-do-flamengo-com-o-santos-nossa-responsabilidade/"
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/lula-diz-que-pl-e-flavio-nao-querem-assumir-compromisso-com-fim-da-escala-6x1-e-defende-votacao.ghtml"
         },
         {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/esporte/apos-tropeco-na-vila-belmiro-leonardo-jardim-fala-em-disputa-ate-o-fim-com-o-palmeiras/"
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/c34g1vgly2deo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-10-09T02:59:15.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/10/gettyimages-2298660426.jpg"
+      "updatedAt": "2026-10-09T14:51:39.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/luiz-inacio-lula-da-silva-se-pronunciou-sobre-o-fim-da-escala-6x1-durante-agenda-no-qg-de-campanha-eleicoes-2026-metropoles-1-scaled.jpeg"
     },
     {
-      "clusterId": "0da802fad35b68b5",
-      "slug": "09df0eca3cf78e90",
-      "titulo": "Santos empata 2 a 2 com Flamengo na Vila Belmiro",
-      "resumo": "O Santos recuperou o empate com dois gols de pênalti de Neymar, após abrir a vantagem 2 a 0 para o Flamengo no primeiro tempo. O jogo terminou 2 a 2, com o Santos mantendo sua sequência de invencibilidade na competição. O empate deixa o Peixe na oitava colocação, a três pontos da zona de permanência na Série A.",
-      "porQueImporta": "O resultado mantém o Santos na zona de segurança do Brasileirão e destaca a performance de Neymar como decisivo no jogo.",
+      "clusterId": "3c9dad91f3fdd387",
+      "slug": "0ade45953c60bdcc",
+      "titulo": "VAR paralisa partida Santos x Flamengo por quase 10 minutos",
+      "resumo": "O VAR interrompeu o jogo por quase dez minutos para decidir a expulsão de Jorginho e a conversão de falta em pênalti, que resultou em gol de Neymar. O árbitro Anderson Daronco foi alvo de críticas por sua atuação. O Flamengo abriu 2 a 0 no primeiro tempo, mas o empate 2 a 2 foi marcado por insatisfação com a arbitragem.",
+      "porQueImporta": "O episódio destaca a influência do VAR nas decisões críticas e a repercussão entre clubes e torcedores.",
       "category": "esportes",
       "sources": [
         {
-          "name": "GE",
-          "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/brasileirao-serie-a/jogo/08-10-2026/santos-flamengo.ghtml"
-        },
-        {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/cuca-exalta-jogo-de-neymar-e-celebra-momento-do-santos-fico-muito-feliz"
+          "url": "https://www.metropoles.com/esportes/brasileirao-var-leva-quase-10-minutos-em-santos-x-flamengo-e-bate-recorde"
         },
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/cuca-analisa-empate-do-santos-com-o-flamengo-poderia-ser-pior/"
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/esporte/as-criticas-a-arbitragem-de-anderson-daronco-em-flamengo-x-santos/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/09/revolta-do-flamengo-com-arbitragem-e-encontro-com-os-ex-do-santos-o-que-o-ge-viu-do-campo.ghtml"
         }
       ],
-      "updatedAt": "2026-10-09T02:45:32.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/10/neymar-santos-x-flamengo-2.jpg"
+      "updatedAt": "2026-10-09T14:45:20.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/jorginho-daronco-expulsao-flamengo-santos.jpg"
+    },
+    {
+      "clusterId": "017be159f2ecfbf2",
+      "slug": "849dc6a547ec2bc0",
+      "titulo": "Homem de 28 anos é baleado por agente do ICE em Nova York",
+      "resumo": "Um agente do ICE atirou em um homem de 28 anos no pescoço enquanto ele estava dentro de um carro em Nova York, na presença de uma criança de 5 anos. O homem sobreviveu ao disparo e foi levado ao hospital. A operação contou com agentes mascarados que cercaram o veículo antes dos tiros. O incidente gerou tensão entre o governo federal e o prefeito da cidade.",
+      "porQueImporta": "O caso destaca a tensão entre autoridades federais e municipais sobre a atuação do ICE em Nova York.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/agente-do-ice-atira-em-homem-na-frente-de-crianca-de-5-anos-em-nova-york/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/09/homem-baleado-por-agente-do-ice-nova-york.ghtml"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/mundo/homem-e-baleado-por-agente-do-ice-em-nova-york/"
+        }
+      ],
+      "updatedAt": "2026-10-09T14:40:51.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/gettyimages-2298640465-594x594-1.jpg"
+    },
+    {
+      "clusterId": "6fa6a3c503d349d9",
+      "slug": "ac1155d9d252d934",
+      "titulo": "Augusto Cury apoia Flávio Bolsonaro no segundo turno das eleições 2026",
+      "resumo": "O escritor e ex-candidato à Presidência, Augusto Cury, declarou apoio a Flávio Bolsonaro no segundo turno, afirmando que a decisão foi tomada após conversas profundas e que ele não participaria do governo. Cury destacou que seu apoio não é um cheque em branco e que manterá sua independência de pensamento. Ele também criticou a \"guerra de ódios\" e prometeu se pronunciar em breve sobre projetos para os eleitores.",
+      "porQueImporta": "O apoio de Cury pode influenciar a votação de seus seguidores e impactar o resultado do segundo turno.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/matheus-leitao/augusto-cury-o-vendedor-de-sonhos-que-comprou-um-dark-horse"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-flavio-divulga-video-de-apoio-de-augusto-cury/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/10/08/cury-diz-que-apoio-a-flavio-bolsonaro-nao-e-cheque-em-branco-eu-e-todo-o-povo-brasileiro-iremos-cobrar.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-09T14:33:52.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/08/candidato-do-avante-a-presidencia-da-republica-escritor-augusto-cury-e-entrevistado-no-estudio-metropoles-1-scaled.jpg"
+    },
+    {
+      "clusterId": "9af9134d2e2b960a",
+      "slug": "51fe3d63b9e48526",
+      "titulo": "Netanyahu convida Flávio Bolsonaro a visitar Israel para renovar amizade",
+      "resumo": "O primeiro‑ministro israelense Benjamin Netanyahu ligou para o candidato à presidência Flávio Bolsonaro, convidando-o a visitar Israel. O convite foi feito na noite de quinta-feira e o gabinete israelense destacou a intenção de \"renovar a profunda amizade\" entre os dois países. O senador Eduardo Bolsonaro também participou da ligação, recebendo elogios pelo resultado do primeiro turno.",
+      "porQueImporta": "O encontro reforça laços diplomáticos e pode influenciar relações bilaterais entre Brasil e Israel.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/netanyahu-liga-para-flavio-e-o-convida-a-visitar-israel-para-renovar-amizade/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/09/netanyahu-liga-para-flavio-bolsonaro-convida-visitar-israel.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/mundo/netanyahu-convida-flavio-bolsonaro-para-visita-em-israel/"
+        }
+      ],
+      "updatedAt": "2026-10-09T14:14:21.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-01-27-102922.avif?resize=300,241"
+    },
+    {
+      "clusterId": "3441ab06778282fd",
+      "slug": "83cddbd1771df333",
+      "titulo": "IPCA sobe 0,82% em setembro, ultrapassa meta",
+      "resumo": "O Índice Nacional de Preços ao Consumidor Amplo (IPCA) registrou alta de 0,82% em setembro, o maior ganho mensal desde 2021. A variação foi impulsionada principalmente pelos setores de habitação, devido ao fim do bônus de Itaipu, e transportes. Em agosto, o índice apresentou deflação de 0,32%, a maior queda desde 2022. A inflação acumulada de janeiro a setembro foi de 3,95%.",
+      "porQueImporta": "O aumento da inflação afeta o poder de compra da população e pode levar o Banco Central a ajustar a taxa de juros.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/economia/inflacao-oficial-de-setembro-fica-em-082-mostra-ibge/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-economia/inflacao-da-baixa-renda-fica-em-082-em-setembro/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/09/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-em-setembro.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-09T13:56:07.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2012/06/din-1.jpg"
+    },
+    {
+      "clusterId": "3f847503cde53104",
+      "slug": "a776a321720cfb68",
+      "titulo": "Argentina não pode aposentar a camisa 10 de Messi",
+      "resumo": "Lionel Messi se despediu da seleção argentina com um último gol e lágrimas, encerrando uma carreira repleta de títulos e recordes. Apesar do legado, a FIFA impõe regras de numeração que impedem a Argentina de retirar permanentemente o número 10. A decisão se baseia em critérios que exigem que a numeração seja mantida em competições internacionais. A medida reflete a necessidade de cumprir regulamentos globais do futebol.",
+      "porQueImporta": "A regra demonstra como normas internacionais podem limitar homenagens a ídolos do esporte.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/argentina-nao-podera-aposentar-camisa-10-apos-despedida-de-messi-entenda/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/esporte/imprensa-espanhola-ve-giay-entre-futuros-protagonistas-da-argentina-pos-messi-novo-zanetti/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/09/entenda-por-que-a-argentina-nao-pode-aposentar-a-camisa-10-de-messi.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-09T13:37:38.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/palmeiras-v-ldu-quito-copa-conmebol-libertadores-1024x683.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "acbf0350ed380ba1",
-        "slug": "eaf9d6453145ba6d",
-        "titulo": "TSE anula votos de Garotinho e reconhece derrota de Paes, deixando Ruas como vencedor no primeiro turno",
-        "resumo": "O Tribunal Superior Eleitoral anulou 274.411 votos de Anthony Garotinho, o que faz Douglas Ruas ultrapassar 50% dos votos válidos e garantir a vitória no primeiro turno. Eduardo Paes reconheceu a decisão e afirmou que respeitará a Justiça. O recurso de Paes ao STF foi negado pelo ministro Cristiano Zanin.",
-        "porQueImporta": "A decisão evita um segundo turno e define o governador do Rio de Janeiro.",
+        "clusterId": "2feab6fd8107d512",
+        "slug": "9350708ea875bde8",
+        "titulo": "Lula critica postura de Flávio Bolsonaro sobre escala 6x1",
+        "resumo": "O presidente Lula questionou em vídeo a posição de Flávio Bolsonaro sobre a proposta de fim da escala 6x1, pedindo esclarecimentos sobre como votaria e orientaria o PL. Flávio e o PL têm tentado adiar a votação, defendendo uma alternativa de negociação livre. A discussão ocorre enquanto a campanha do segundo turno se intensifica.",
+        "porQueImporta": "A escala 6x1 é tema central de debate entre os candidatos e pode influenciar a percepção dos eleitores sobre políticas trabalhistas.",
         "category": "politica",
         "sources": [
           {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/colunas/neila-guimaraes/lula-usa-escala-6x1-para-pressionar-flavio-no-segundo-turno"
+          },
+          {
             "name": "G1",
-            "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/09/paes-aceita-decisao-da-justica-ruas-deve-ser-declarado-governador-do-rj-entenda.ghtml"
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/lula-diz-que-pl-e-flavio-nao-querem-assumir-compromisso-com-fim-da-escala-6x1-e-defende-votacao.ghtml"
           },
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c8zxl5365315o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/articles/c34g1vgly2deo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-10-09T14:51:39.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/10/luiz-inacio-lula-da-silva-se-pronunciou-sobre-o-fim-da-escala-6x1-durante-agenda-no-qg-de-campanha-eleicoes-2026-metropoles-1-scaled.jpeg"
+      },
+      {
+        "clusterId": "017be159f2ecfbf2",
+        "slug": "849dc6a547ec2bc0",
+        "titulo": "Homem de 28 anos é baleado por agente do ICE em Nova York",
+        "resumo": "Um agente do ICE atirou em um homem de 28 anos no pescoço enquanto ele estava dentro de um carro em Nova York, na presença de uma criança de 5 anos. O homem sobreviveu ao disparo e foi levado ao hospital. A operação contou com agentes mascarados que cercaram o veículo antes dos tiros. O incidente gerou tensão entre o governo federal e o prefeito da cidade.",
+        "porQueImporta": "O caso destaca a tensão entre autoridades federais e municipais sobre a atuação do ICE em Nova York.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/agente-do-ice-atira-em-homem-na-frente-de-crianca-de-5-anos-em-nova-york/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/09/homem-baleado-por-agente-do-ice-nova-york.ghtml"
           },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/apos-zanin-enterrar-recurso-paes-reconhece-derrota-contra-ruas/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/eduardo-paes-reconhece-derrota-para-douglas-ruas-no-rio/"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/zanin-nega-recurso-de-eduardo-paes-e-mantem-anulacao-de-votos-de-garotinho/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/paes-reconhece-derrota-no-rio-apos-stf-negar-recurso-a-eleicao-termina"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/paes-diz-que-justica-contrariou-eleitores-mas-reconhece-derrota-a-ruas/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/zanin-rejeita-pedido-de-paes-para-suspender-exclusao-de-votos-de-garotinho-no-rio/"
+            "url": "https://www.cartacapital.com.br/mundo/homem-e-baleado-por-agente-do-ice-em-nova-york/"
           }
         ],
-        "updatedAt": "2026-10-09T03:00:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/AehYeZLMa5JQwwM4R3dev1lS_cQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/H/VrmwymT9qKXODBWEkj0w/ruas3.jpeg"
+        "updatedAt": "2026-10-09T14:40:51.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/gettyimages-2298640465-594x594-1.jpg"
       },
       {
-        "clusterId": "9bd8eb68539c2fa5",
-        "slug": "ad3bc5a78d76b0bd",
-        "titulo": "Pesquisas apontam leve vantagem de Flávio Bolsonaro no 2º turno",
-        "resumo": "A pesquisa Vox Brasil, realizada entre 5 e 7 de outubro, indica que Flávio Bolsonaro tem 49,14% das intenções de voto, enquanto Lula tem 50,86% dos votos válidos, com margem de erro de 2,15 pontos percentuais. A mesma pesquisa mostra que 45,2% dos eleitores rejeitam Lula e 44,2% rejeitam Flávio. A Datafolha, divulgada em 8 de outubro, apresenta Flávio com 49% das intenções de voto e Lula com 45%, considerando empate técnico dentro da margem de erro de dois pontos percentuais. Ambas as pesquisas refletem a estreita disputa entre os candidatos.",
-        "porQueImporta": "Os resultados mostram a proximidade do eleitorado, influenciando estratégias de campanha e expectativas de vitória.",
+        "clusterId": "6fa6a3c503d349d9",
+        "slug": "ac1155d9d252d934",
+        "titulo": "Augusto Cury apoia Flávio Bolsonaro no segundo turno das eleições 2026",
+        "resumo": "O escritor e ex-candidato à Presidência, Augusto Cury, declarou apoio a Flávio Bolsonaro no segundo turno, afirmando que a decisão foi tomada após conversas profundas e que ele não participaria do governo. Cury destacou que seu apoio não é um cheque em branco e que manterá sua independência de pensamento. Ele também criticou a \"guerra de ódios\" e prometeu se pronunciar em breve sobre projetos para os eleitores.",
+        "porQueImporta": "O apoio de Cury pode influenciar a votação de seus seguidores e impactar o resultado do segundo turno.",
         "category": "politica",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/vox-brasil-no-2o-turno-lula-tem-5086-e-flavio-4914-dos-votos-validos"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/vox-634-nao-vao-seguir-declaracao-de-voto-dos-candidatos-do-1o-turno/"
+            "url": "https://www.metropoles.com/colunas/matheus-leitao/augusto-cury-o-vendedor-de-sonhos-que-comprou-um-dark-horse"
           },
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-442-e-flavio-427-no-2o-turno-diz-vox-brasil/"
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-flavio-divulga-video-de-apoio-de-augusto-cury/"
           },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/09/datafolha-presidente-8-outubro-recortes.ghtml"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/pesquisa-datafolha-2o-turno-flavio-bolsonaro-tem-52-e-lula-48-dos-votos-validos/"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-10-09T03:06:43.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/09/lula-flavio.jpeg"
-      },
-      {
-        "clusterId": "d88d9ae9699cef8e",
-        "slug": "b6af52bb1457b85f",
-        "titulo": "Augusto Cury apoia Flávio Bolsonaro no segundo turno e mantém independência política",
-        "resumo": "O ex-candidato à Presidência Augusto Cury, do Avante, anunciou apoio ao candidato do PL, Flávio Bolsonaro, para o segundo turno das eleições de 2026, afirmando que não há troca de cargos ou acordos de governo. Cury destacou que a decisão foi tomada após conversa direta com o senador e que sua independência de pensamento será inegociável. O apoio de Cury foi acompanhado por declarações de outros partidos, como Podemos, Republicanos e Novo, que também se posicionaram a favor de Flávio Bolsonaro.",
-        "porQueImporta": "O apoio de um candidato de destaque e de vários partidos pode influenciar a dinâmica do segundo turno e a composição de possíveis alianças políticas.",
-        "category": "politica",
-        "sources": [
           {
             "name": "G1",
             "url": "https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/10/08/cury-diz-que-apoio-a-flavio-bolsonaro-nao-e-cheque-em-branco-eu-e-todo-o-povo-brasileiro-iremos-cobrar.ghtml"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/augusto-cury-declara-apoio-a-flavio-bolsonaro-no-segundo-turno/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/augusto-cury-anuncia-apoio-a-flavio-bolsonaro-no-2o-turno/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/cury-declara-apoio-a-flavio-bolsonaro-no-2o-turno-e-diz-que-lula-ja-deu/"
           }
         ],
-        "updatedAt": "2026-10-09T00:35:57.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/kskIZhnCytEBX3OWjV1e528whsk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/U/3nMMyxQHuHNLpNRttBAA/design-sem-nome.jpg"
+        "updatedAt": "2026-10-09T14:33:52.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/08/candidato-do-avante-a-presidencia-da-republica-escritor-augusto-cury-e-entrevistado-no-estudio-metropoles-1-scaled.jpg"
       },
       {
-        "clusterId": "48102b89f604527c",
-        "slug": "f547d24ddade978a",
-        "titulo": "Ato pró-Lula em Sergipe interrompido após homem disparar para o alto",
-        "resumo": "Manifestação pró-Lula no campus da Universidade Federal de Sergipe foi interrompida quando um homem armado disparou para o alto, gerando pânico entre os participantes. A polícia iniciou investigação sobre o incidente e registrou vídeos do episódio. Não há relatos de feridos, mas a presença de arma e disparo provocou a dispersão dos manifestantes. O evento foi amplamente divulgado nas redes sociais, gerando debate sobre segurança em atos políticos.",
-        "porQueImporta": "O episódio destaca a tensão e a violência que podem surgir em manifestações políticas no Brasil.",
+        "clusterId": "40016644e7c5164e",
+        "slug": "04e11dd20e5274e0",
+        "titulo": "Flávio Bolsonaro lidera pesquisas de intenção de voto no segundo turno contra Lula",
+        "resumo": "A primeira pesquisa Datafolha do segundo turno mostra Flávio Bolsonaro com 49% das intenções de voto, enquanto Lula tem 45%, com margem de erro de dois pontos percentuais, indicando empate técnico. A diferença de quatro pontos em votos válidos favorece Flávio, que espera ampliar a distância nas próximas semanas. Lula destaca a necessidade de manter programas sociais caso seja reeleito, enquanto Flávio aposta em discurso de mudança e foco no cotidiano dos eleitores. A campanha digital intensifica mobilização de apoiadores em redes sociais, com ambos os candidatos organizando “tropas” para reduzir a abstenção.",
+        "porQueImporta": "Os resultados das pesquisas indicam a proximidade da disputa e a importância das estratégias de campanha para o resultado final das eleições.",
         "category": "politica",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/nacional/nordeste/se/ato-pro-lula-em-sergipe-e-interrompido-apos-relatos-de-homem-armado-e-tiros/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/policia-investiga-denuncia-de-disparos-em-manifestacao-pro-lula-em-sergipe"
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/09/volta-do-horario-eleitoral-flavio-bolsonaro-vai-focar-na-vida-real-lula-na-estrategia-do-medo.ghtml"
           },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/bolsonarista-saca-arma-e-da-tiro-pra-cima-durante-ato-pro-lula-em-sergipe/"
+            "url": "https://www.cartacapital.com.br/cartaexpressa/a-1a-pesquisa-nacional-da-quaest-sobre-lula-x-flavio-bolsonaro-no-2o-turno/"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c84g120zwq1zo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-10-09T03:11:19.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/10/saveclip-app-836703380-18168450592469428-6000437148709307949-n.jpg"
+        "updatedAt": "2026-10-09T13:25:53.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/057Oc-GDYcqWxz1w_HIAsOuegTk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/O/qlhcI9R8iSGr47FhRFyg/79586024-1004.jpg"
       },
       {
-        "clusterId": "a50de0db88f5a5a6",
-        "slug": "9973d6b0994c1475",
-        "titulo": "Flamengo empata 2 a 2 com Santos e perde pontos",
-        "resumo": "O Flamengo terminou 2 a 2 com o Santos na Vila Belmiro, após abrir o placar 2 a 0 no primeiro tempo. O técnico Leonardo Jardim assumiu responsabilidade pelos gols sofridos na segunda etapa e contestou decisões da arbitragem, especialmente em lance envolvendo Carrascal. Ele reconheceu erros do time e afirmou que a equipe continuará em disputa até o fim da temporada, principalmente contra o Palmeiras.",
-        "porQueImporta": "O resultado afeta a posição do Flamengo na tabela e sua campanha na Libertadores.",
+        "clusterId": "bb466d888ff19186",
+        "slug": "af18f8669a441fbb",
+        "titulo": "TSE determina retirada de posts críticos a Flávio Bolsonaro",
+        "resumo": "O Tribunal Superior Eleitoral ordenou a remoção de publicações nas redes sociais de Lula, Janja, André Janones e Lindbergh Farias que criticavam Flávio Bolsonaro. A decisão foi tomada em quatro processos movidos por Flávio e se baseou em liminares concedidas pelos ministros Kassio Nunes Marques e André Mendonça. As publicações afetadas incluíam comentários e alegações que o tribunal considerou inadequados. A medida visa garantir a integridade das informações circulantes sobre o candidato.",
+        "porQueImporta": "A decisão influencia a divulgação de conteúdo político nas redes sociais e reflete o controle judicial sobre a propaganda eleitoral.",
         "category": "politica",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/leonardo-jardim-reclama-da-arbitragem-e-lamenta-perda-de-pontos-do-flamengo"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/a-vitoria-de-flavio-na-justica-eleitoral-contra-janones-e-lindbergh-farias/"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/jardim-lamenta-empate-do-flamengo-com-o-santos-nossa-responsabilidade/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/esporte/apos-tropeco-na-vila-belmiro-leonardo-jardim-fala-em-disputa-ate-o-fim-com-o-palmeiras/"
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/tse-manda-retirar-publicacoes-de-lula-janja-e-aliados-contra-flavio-bolsonaro.ghtml"
           }
         ],
-        "updatedAt": "2026-10-09T02:59:15.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/10/gettyimages-2298660426.jpg"
+        "updatedAt": "2026-10-09T14:02:10.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/flavio-bolsonaro_c02bfb.jpg"
       },
       {
-        "clusterId": "ae6633157742d651",
-        "slug": "a1191bf24e7a792c",
-        "titulo": "Flamengo e Fluminense protestam contra proibição de apostas",
-        "resumo": "Flamengo e Fluminense organizaram protesto conjunto no FlaxFlu para contestar a proibição das casas de apostas no Brasil. O presidente do Fluminense, Mattheus Montenegro, anunciou a ação que ocorrerá no domingo. O Flamengo entrou em campo com a mensagem “Proibir não é proteger” em sua camisa, patrocinado pela Betano.",
-        "porQueImporta": "O protesto destaca a tensão entre clubes e regulamentação estatal sobre apostas esportivas.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/flamengo-e-fluminense-farao-protesto-conjunto-contra-a-proibicao-das-bets"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-sportsmkt/flamengo-entra-em-campo-com-mensagem-contra-proibicao-das-bets/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/esporte/flamengo-protesta-contra-proibicao-das-bets-em-campo/"
-          }
-        ],
-        "updatedAt": "2026-10-09T02:09:00.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/10/flamengo-x-fluminense.jpg"
-      },
-      {
-        "clusterId": "53feadda06960e8f",
-        "slug": "96ca0d93e28a0cc2",
-        "titulo": "Flávio Bolsonaro e Lula retomam campanha com foco em programas sociais e privatizações",
-        "resumo": "Flávio Bolsonaro, candidato do PL, mantém discurso de mudança e nega privatizações, enquanto Lula reforça a defesa dos programas sociais. O coordenador econômico de Flávio, ex-ministro Adolfo Sachsida, afirmou que ajustes fiscais futuros seriam direcionados a excessos do governo Lula. Lula, por sua vez, alerta que uma vitória de Flávio colocaria em risco programas como Pé-de-Meia, Farmácia Popular e Minha Casa, Minha Vida.",
-        "porQueImporta": "A disputa destaca diferenças claras nas políticas sociais e econômicas dos candidatos, influenciando a decisão dos eleitores.",
+        "clusterId": "4df5945d93b9b783",
+        "slug": "2316470108217d9a",
+        "titulo": "Ministro Flávio Dino denuncia ameaças de assassinato e afirma que não afetará sua atuação",
+        "resumo": "O ministro Flávio Dino do STF informou ter recebido trechos de um relatório de segurança da Corte que contém milhares de mensagens com ameaças de assassinato e agressões contra ele. Ele declarou que as ameaças não mudarão sua atuação como juiz e que um juiz não pode deixar de decidir por medo de perseguição. Dino ressaltou que a possibilidade de um juiz recuar por medo compromete a existência do Poder Judiciário.",
+        "porQueImporta": "A situação evidencia a vulnerabilidade de membros do judiciário e a importância de garantir decisões imparciais sem medo de retaliações.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-flavio-aciona-tse-contra-janja-por-video-nas-redes/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-aciona-tse-e-acusa-janja-de-fake-news-sobre-fim-de-programas-sociais/"
+            "url": "https://www.poder360.com.br/poder-justica/se-um-juiz-passar-a-ter-medo-nao-existe-mais-judiciario-diz-dino/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/nas-redes-lula-celebra-dia-do-nordestino-e-diz-que-se-flavio-for-eleito-cortara-pe-de-meia-e-outros-programas-sociais.ghtml"
+            "url": "https://g1.globo.com/politica/noticia/2026/10/09/dino-relata-ameacas-e-diz-se-juiz-passar-a-ter-medo-de-decidir-nao-existe-mais-poder-judiciario.ghtml"
           }
         ],
-        "updatedAt": "2026-10-09T01:58:09.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/WTV2YqXV5wYgVOaMgAfpBNO7hng=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/u/F1y0T3Rc69PB3eQfMKVg/55569759336-1e60ae413f-k.jpg"
+        "updatedAt": "2026-10-09T13:55:27.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/KbcXdrh7h7oBIOLuty1nctMId94=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/q/8ByuCpTfOS9qdAXH4seQ/55530389414-251dea7285-k.jpg"
       },
       {
-        "clusterId": "b50122e276e4efe4",
-        "slug": "4050d69f6b13c861",
-        "titulo": "TSE aciona Polícia Federal para investigar ataques a servidores da Justiça Eleitoral",
-        "resumo": "O Tribunal Superior Eleitoral acionou a Polícia Federal e o Ministério Público para investigar ataques nas redes sociais contra servidores da Justiça Eleitoral. Foram registradas cerca de 30 mil manifestações contendo desinformação, exposição indevida de dados pessoais, discurso de ódio e ameaças veladas, inclusive contra familiares. O presidente da Corte solicitou a abertura de investigação. A ação visa proteger a integridade dos servidores e garantir a segurança das informações eleitorais.",
-        "porQueImporta": "A investigação busca prevenir ameaças à segurança dos servidores e preservar a integridade do processo eleitoral.",
+        "clusterId": "934e80bd68f9b86e",
+        "slug": "bd960628e7670153",
+        "titulo": "Advogados pedem investigação sobre suposta articulação entre Vorcaro e campanha de Flávio Bolsonaro",
+        "resumo": "Advogados Marco Aurélio de Carvalho e Reinaldo Santos de Almeida solicitaram que a autoridade investigue a origem de um depoimento atribuído ao dono do Banco Master, que contém acusações contra Lula e membros do governo. Eles alegam que a gravação pode ter sido usada pela campanha de Flávio Bolsonaro para atacar o ex-presidente. Os advogados afirmam que não há provas que sustentem as acusações.",
+        "porQueImporta": "A investigação pode esclarecer se houve uso indevido de gravações para fins políticos.",
         "category": "politica",
         "sources": [
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/tse-aciona-pf-apos-ataques-a-servidores-da-justica-eleitoral/"
+            "url": "https://www.cartacapital.com.br/justica/advogados-acionam-pf-para-investigar-suspeita-de-articulacao-entre-vorcaro-e-campanha-de-flavio-bolsonaro/"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/tse-aciona-pf-para-investigar-ataques-a-servidores-da-justica-eleitoral/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/tse-aciona-pf-para-invetsigar-ataques-e-ameacas-a-servidores-da-justica-eleitoral.ghtml"
+            "url": "https://www.cnnbrasil.com.br/politica/prerrogativas-aciona-pf-e-ve-articulacao-de-vorcaro-e-flavio-contra-lula/"
           }
         ],
-        "updatedAt": "2026-10-09T00:29:58.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2024/05/TSE.png"
+        "updatedAt": "2026-10-09T12:31:03.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/flavio_bolsonaro_e_daniel_vorcaro.jpg"
+      },
+      {
+        "clusterId": "937895b01f074e12",
+        "slug": "71995c26d87cf378",
+        "titulo": "Tesouro faz maior leilão de prefixados desde 2020",
+        "resumo": "O Tesouro Nacional realizou o maior leilão de títulos prefixados desde 2020, captando R$ 33,3 bilhões. O leilão ocorreu em meio ao otimismo eleitoral e à expectativa de melhora fiscal. A curva de juros registrou queda significativa após o primeiro turno das eleições.",
+        "porQueImporta": "O aumento da captação demonstra confiança do mercado na política fiscal e influencia as taxas de juros no país.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-economia/com-o-otimismo-eleitoral-tesouro-faz-maior-leilao-de-prefixados-desde-2020/"
+          }
+        ],
+        "updatedAt": "2026-10-09T14:49:08.000Z"
       }
     ],
     "economia": [
       {
-        "clusterId": "341c09b300a0d0b4",
+        "clusterId": "5f5ec9c7753e3d81",
+        "slug": "ad55d38362c15de6",
+        "titulo": "Ibovespa atinge novo patamar próximo a 210 mil pontos",
+        "resumo": "O índice Ibovespa subiu, renovando seu máximo histórico e aproximando-se dos 210 mil pontos. O dólar caiu para menos de R$5, refletindo a valorização do real. O mercado foi impulsionado por otimismo em relação à inteligência artificial, queda no preço do petróleo e expectativas de redução de juros futuros, enquanto ainda acompanha os resultados da inflação de setembro. A alta do índice coincidiu com a proximidade das eleições e o cenário de reprecificação de ativos brasileiros.",
+        "porQueImporta": "A valorização do Ibovespa indica confiança dos investidores no mercado brasileiro, influenciada por fatores macroeconômicos e políticos.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-09102026/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-9-outubro-2026/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/invest/mercados/ibovespa-sobe-e-fica-perto-dos-210-mil-pontos-dolar-cai-abaixo-de-r-5/"
+          }
+        ],
+        "updatedAt": "2026-10-09T14:56:14.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/Ibovespa-ao-vivo-65.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "9af9134d2e2b960a",
+        "slug": "51fe3d63b9e48526",
+        "titulo": "Netanyahu convida Flávio Bolsonaro a visitar Israel para renovar amizade",
+        "resumo": "O primeiro‑ministro israelense Benjamin Netanyahu ligou para o candidato à presidência Flávio Bolsonaro, convidando-o a visitar Israel. O convite foi feito na noite de quinta-feira e o gabinete israelense destacou a intenção de \"renovar a profunda amizade\" entre os dois países. O senador Eduardo Bolsonaro também participou da ligação, recebendo elogios pelo resultado do primeiro turno.",
+        "porQueImporta": "O encontro reforça laços diplomáticos e pode influenciar relações bilaterais entre Brasil e Israel.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/netanyahu-liga-para-flavio-e-o-convida-a-visitar-israel-para-renovar-amizade/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/09/netanyahu-liga-para-flavio-bolsonaro-convida-visitar-israel.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/mundo/netanyahu-convida-flavio-bolsonaro-para-visita-em-israel/"
+          }
+        ],
+        "updatedAt": "2026-10-09T14:14:21.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/captura-de-tela-2026-01-27-102922.avif?resize=300,241"
+      },
+      {
+        "clusterId": "3441ab06778282fd",
+        "slug": "83cddbd1771df333",
+        "titulo": "IPCA sobe 0,82% em setembro, ultrapassa meta",
+        "resumo": "O Índice Nacional de Preços ao Consumidor Amplo (IPCA) registrou alta de 0,82% em setembro, o maior ganho mensal desde 2021. A variação foi impulsionada principalmente pelos setores de habitação, devido ao fim do bônus de Itaipu, e transportes. Em agosto, o índice apresentou deflação de 0,32%, a maior queda desde 2022. A inflação acumulada de janeiro a setembro foi de 3,95%.",
+        "porQueImporta": "O aumento da inflação afeta o poder de compra da população e pode levar o Banco Central a ajustar a taxa de juros.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/economia/inflacao-oficial-de-setembro-fica-em-082-mostra-ibge/"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-economia/inflacao-da-baixa-renda-fica-em-082-em-setembro/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/09/preco-dos-alimentos-o-que-ficou-mais-caro-e-o-que-barateou-em-setembro.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-09T13:56:07.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2012/06/din-1.jpg"
+      },
+      {
+        "clusterId": "7ba03b4bcd88c541",
+        "slug": "700f488050ff56e1",
+        "titulo": "PGR nega depoimento oral de Vorcaro e campanha de Lula chama de farsa",
+        "resumo": "A Procuradoria-Geral da República afirmou que não houve depoimento oral de Daniel Vorcaro em processo de delação, alegando que as tratativas ocorreram por meio de advogados. Vorcaro teria alegado que o ex-tesoureiro do PT, Vaccari Neto, cobrou R$ 30 milhões para acesso a fundos de pensão de estatais e para produção de um filme sobre Lula. A campanha de Lula rejeita as acusações, chamando-as de farsa, e pretende buscar reparação judicial. A PGR não avançou com as acusações por falta de provas.",
+        "porQueImporta": "A disputa envolve acusações de corrupção e a credibilidade das investigações sobre o ex-presidente Lula.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/pgr-nega-depoimento-oral-de-vorcaro-em-processo-de-delacao/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/campanha-de-lula-nega-noticia-sobre-ligacao-com-vorcaro-e-diz-que-vai-a-justica/"
+          }
+        ],
+        "updatedAt": "2026-10-09T14:58:49.000Z"
+      },
+      {
+        "clusterId": "cb8be828d346748b",
+        "slug": "2ca57a985683a8ff",
+        "titulo": "Setor de IA deve impulsionar ganhos nos balanços dos EUA no 3º trimestre",
+        "resumo": "Analistas projetam aumento de 31% nos lucros do S&P 500 no terceiro trimestre em relação ao mesmo período do ano anterior. Dois terços desse crescimento devem vir do setor de tecnologia, especialmente das gigantes da IA como Alphabet, Amazon e Meta. O crescimento esperado reflete a forte performance das empresas de IA nos resultados trimestrais.",
+        "porQueImporta": "O desempenho das empresas de IA influencia significativamente o mercado acionário e a economia americana.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/setor-de-ia-deve-impulsionar-maior-parte-dos-ganhos-nos-balancos-dos-eua-no-3o-tri/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/setor-de-ia-deve-impulsionar-ganhos-nos-balancos-dos-eua-no-3o-tri/"
+          }
+        ],
+        "updatedAt": "2026-10-09T14:57:29.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-05T231429Z_578240804_RC2UFZ9XMMP0_RTRMADP_3_OPENAI-ROGUE-AGENTS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "707c97469cd443c0",
         "slug": "6e8789bcda5a4ccf",
         "titulo": "Mega-Sena 3068 acumula e prêmio chega a R$ 112 milhões",
         "resumo": "No concurso 3068, realizado em 8 de outubro, não houve ganhadores na faixa principal, fazendo o prêmio acumular para R$ 112 milhões. Os números sorteados foram 07, 10, 39, 40, 43 e 57. Foram 62 apostas que acertaram cinco dezenas, cada uma recebendo R$ 51.808,94, e 4.884 apostas que acertaram quatro dezenas, cada uma recebendo R$ 1.084,10.",
@@ -532,188 +546,149 @@
         "category": "economia",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/mega-sena-3068-acumula-e-premio-chega-a-r-112-milhoes-veja-resultado"
+            "name": "G1",
+            "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/09/aposta-de-sao-jose-dos-campos-acerta-5-dos-6-numeros-e-ganha-r-518-mil-na-mega-sena.ghtml"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-brasil/mega-sena-acumula-e-chega-a-r-112-milhoes-leia-os-numeros-sorteados/"
+          }
+        ],
+        "updatedAt": "2026-10-09T14:49:44.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/jpj93TvEzRokFMbPgZBNwyhs5fY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/M/c3yaQ3SqqpphvLcPI0JA/mega-sena-volante-rafa-neddermeyer-agencia-brasil.jpg"
+      },
+      {
+        "clusterId": "0521bb3028d01f43",
+        "slug": "c6f1a9df20d89f10",
+        "titulo": "Inflação de setembro sobe 0,82% e ultrapassa meta",
+        "resumo": "O índice de preços ao consumidor aumentou 0,82% em setembro, acima da previsão de 0,73%. A variação anual ficou em 4,58%, também superior ao limite estabelecido. O aumento foi impulsionado pelo fim do bônus de Itaipu, que pressionou o preço da energia.",
+        "porQueImporta": "O resultado indica pressões inflacionárias que podem afetar decisões de política monetária e o custo de vida.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/economia/acima-do-esperado-ipca-sobe-082-em-setembro-e-supera-meta/"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/onde-investir/taxas-do-tesouro-direto-caem-mesmo-com-ipca-de-setembro-acima-do-esperado/"
+          }
+        ],
+        "updatedAt": "2026-10-09T14:32:12.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2022/06/GettyImages-1398212433.jpg"
+      },
+      {
+        "clusterId": "b73f918e7808ea2d",
+        "slug": "1332f9f9584060c0",
+        "titulo": "Volkswagen Tera 2027 recebe motor 1.0 turbo de 128 cv e novos preços",
+        "resumo": "O Tera 2027, fabricado em Taubaté, passa a contar com motor 1.0 turbo de três cilindros com 128 cv e 20,4 kgfm de torque, substituindo o motor de 116 cv. O câmbio automático passa de seis para oito marchas. As versões Comfort e Highline custam R$ 134.790 e R$ 147.190, respectivamente, representando aumentos de R$ 1.600 e R$ 1.000. O veículo continua sendo exportado para vários países da América Latina.",
+        "porQueImporta": "A atualização de potência e preço afeta consumidores e a competitividade do modelo no mercado de SUVs compactos.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/auto/volkswagen-tera-2027-ganha-motor-mais-potente-e-tem-novos-precos-confira/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/08/mega-sena-concurso-3068-confira-os-numeros-sorteados.ghtml"
+            "url": "https://g1.globo.com/carros/noticia/2026/10/08/volkswagen-tera-2027.ghtml"
           }
         ],
-        "updatedAt": "2026-10-09T01:26:19.000Z",
-        "imageUrl": "https://images.metroimg.com/2025/11/11224122/Mega-Sena-.jpg"
-      },
-      {
-        "clusterId": "9643220eb9a8a886",
-        "slug": "da65d117f20af98a",
-        "titulo": "Resultados dos concursos de loterias do G1 e InfoMoney",
-        "resumo": "No concurso 2451 da Timemania, os números sorteados foram 4, 6, 34, 38, 53, 58 e 69, com 4 apostas premiadas em 6 acertos e 133 em 5 acertos; no concurso 1312 da Dia de Sorte, os números foram 2, 8, 15, 16, 19, 27 e 30, com 39 apostas premiadas em 6 acertos e 1.919 em 5 acertos; no concurso 2984 da Lotomania, os 20 números sorteados foram 3, 5, 6, 12, 20, 22, 23, 25, 26, 28, 41, 53, 68, 70, 73, 76, 79, 82, 86 e 90, com 7 apostas premiadas em 19 acertos; no concurso 3794 da Lotofácil, os números foram 1, 3, 4, 5, 6, 8, 10, 12, 13, 15, 18, 19, 21, 23 e 24, com 3 apostas premiadas em 15 acertos; e no concurso 7138 da Quina, os números foram 14, 16, 27, 34 e 52, com 100 apostas premiadas em 4 acertos.",
-        "porQueImporta": "Esses resultados informam os jogadores sobre os números sorteados e os prêmios disponíveis, permitindo decisões de apostas futuras.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/loterias/timemania/noticia/2026/10/08/timemania-hoje-resultado-do-concurso-2451-e-numeros-sorteados.ghtml"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1318-sorteado-nesta-quinta-feira-8/"
-          }
-        ],
-        "updatedAt": "2026-10-09T00:31:03.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/9yZKvrIaxqwYla4PumtUNz4-HqE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/V/fAJZXcQvqaFIBFvf7ebQ/timemania-2451-fbkxx.jpeg"
-      },
-      {
-        "clusterId": "5446cec317e2e336",
-        "slug": "c19ed8049e6dc699",
-        "titulo": "Ibovespa e dólar se movem em meio a expectativas de pesquisa eleitoral e preços do petróleo",
-        "resumo": "O Ibovespa registrou alta de cerca de 1% enquanto o dólar manteve estabilidade em torno de R$5,01. Investidores observaram a subida dos preços do petróleo, influenciada por possíveis ataques ao Irã, e os rendimentos dos Treasuries nos EUA. A expectativa de uma nova pesquisa eleitoral no Brasil e os dados do mercado de trabalho americano também foram foco dos participantes do mercado.",
-        "porQueImporta": "As variações refletem a sensibilidade dos mercados brasileiro e global a eventos geopolíticos e indicadores econômicos, impactando decisões de investimento.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Exame",
-            "url": "https://exame.com/invest/mercados/ibovespa-fecha-em-alta-de-1-com-petrobras-e-pesquisas-do-2o-turno-dolar-vai-a-r-502/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/10/08/dolar-ibovespa.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-08T17:34:57.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/WWDRGDMxGNQZCy9ypuF1ackcQ90=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/S/u3TO0vRgyBsplTZYCmeA/2025-02-04t203004z-2-lynxmpel130tf-rtroptp-4-usa-trump-migration-colombia.jpg"
-      },
-      {
-        "clusterId": "17fb98a33a54c78f",
-        "slug": "0766d4d0193184c1",
-        "titulo": "Justiça federal de SP autoriza bet a operar até 25 de outubro após MP de Lula vetar",
-        "resumo": "A Justiça Federal do Estado de São Paulo autorizou a operação de apostas esportivas (bet) até 25 de outubro, mesmo após a Medida Provisória de Lula que proíbe o funcionamento de bets no país desde 5 de outubro. A decisão permite que as empresas continuem operando enquanto o processo de veto é analisado. O prazo estabelecido visa evitar interrupções abruptas nas atividades de apostas. A medida reflete a tensão entre a legislação federal e as decisões judiciais sobre o setor.",
-        "porQueImporta": "A autorização mantém o mercado de apostas em funcionamento, impactando consumidores e empresas do setor.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/justica-federal-de-sp-autoriza-bet-a-operar-ate-25-de-outubro-apos-mp-de-lula-vetar/"
-          }
-        ],
-        "updatedAt": "2026-10-09T00:51:12.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/09/bets-apostas-eletronicas-foto-bruno-peres-agencia-brasil.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "c30ab482d1451ec8",
-        "slug": "a19129463a2d3da1",
-        "titulo": "Lollapalooza 2027 reúne artistas de rock e nacionais no Autódromo de Interlagos",
-        "resumo": "O festival, marcado para 19 a 21 de março de 2027, contará com atrações internacionais como The Killers, Queens of the Stone Age e Cage the Elephant, além de artistas brasileiros como Criolo, Amaro e Dino. A programação mistura diferentes vertentes do rock e da música afro‑atlântica, rap, samba e jazz.",
-        "porQueImporta": "É o principal evento de música ao vivo em São Paulo, atraindo grandes públicos e reforçando a cena musical local.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Exame",
-            "url": "https://exame.com/pop/lollapalooza-2027-veja-as-atracoes-de-rock-do-festival/"
-          }
-        ],
-        "updatedAt": "2026-10-09T00:06:00.000Z"
-      },
-      {
-        "clusterId": "78683cb19b85f7d5",
-        "slug": "942914b9c22d7e08",
-        "titulo": "Resultado da Mega-Sena concurso 3068",
-        "resumo": "No concurso 3068 da Mega-Sena, realizado na quinta-feira, 8 de outubro, foram sorteados os números 02, 07, 12, 23, 32 e 43. O prêmio acumulado era de R$ 100.040.038,10. Os apostadores que acertarem os seis números receberão o valor total, enquanto os que acertarem cinco receberão o segundo prêmio. O concurso segue a estrutura padrão da loteria, com distribuição de prêmios conforme a quantidade de acertos.",
-        "porQueImporta": "O resultado determina quem pode receber um dos maiores prêmios da loteria brasileira, impactando milhares de apostadores.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/consumo/mega-sena-hoje-concurso-3068-confira-o-resultado-sorteado-nesta-quinta-feira-8/"
-          }
-        ],
-        "updatedAt": "2026-10-09T00:03:50.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2019/06/cropped-mega-sena-2.jpg?fit=225%2C300&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "04f1d690acaa43e7",
-        "slug": "7e0bf1a5b0ab01ae",
-        "titulo": "Ministro Moraes enfrenta críticas por decisão contra Eduardo durante eleição",
-        "resumo": "O ministro Moraes foi acusado de tentar criar um fatoide ao julgar Eduardo, enquanto a eleição para a maioria à direita no Senado já teria sido decidida pelo povo. A decisão foi vista como controversa e questionada por especialistas e pela imprensa. A situação gerou debate sobre a imparcialidade do ministro em meio ao processo eleitoral.",
-        "porQueImporta": "A decisão pode influenciar a percepção pública sobre a imparcialidade do poder judiciário durante eleições.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/flavio-sobre-decisao-contra-eduardo-moraes-tenta-criar-factoide-em-meio-a-eleicao/"
-          }
-        ],
-        "updatedAt": "2026-10-08T23:59:33.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-05T011437Z_1494348956_RC2OWNAYY1DJ_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C213&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "94e6a33e77c10c1c",
-        "slug": "84cc94386d2f378e",
-        "titulo": "Ministro da Fazenda adianta discussão das alíquotas do imposto seletivo para depois das eleições",
-        "resumo": "O ministro da Fazenda, Dario Durigan, informou que as alíquotas do imposto seletivo, chamado de \"imposto do pecado\", só serão discutidas após as eleições. Ele afirmou que o acordo com os setores afetados foi concluído na semana anterior e que será enviado ao Congresso na próxima semana. O governo se compromete a encaminhar o acordo ao Congresso. A discussão das alíquotas ficará para depois das eleições.",
-        "porQueImporta": "A definição das alíquotas afetará a arrecadação e a política fiscal do país.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/10/08/imposto-do-pecado-discussao-sobre-aliquotas-ficara-para-depois-das-eleicoes-diz-ministro-da-fazenda.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-08T23:07:49.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/F4QMPYcynwWugwJ06Elpiqtptpw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/n/YkLadSSBCaNO0AUWO5oA/610f8480-e586-11ef-bd1b-d536627785f2.jpg.webp"
+        "updatedAt": "2026-10-09T12:52:56.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/QgqBr4s4Qy3w_-SfH_JjTWjfQcI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/e/v3EMJzT1ihzrA9NiB0Ow/vw-tera-high-pacote-outfit-02.jpg"
       }
     ],
     "mundo": [
       {
-        "clusterId": "300af975ced57547",
-        "slug": "e647b5bdaa646220",
-        "titulo": "Morte de funcionária de laboratório de pesquisa sobre peste na Rússia gera investigação internacional",
-        "resumo": "Uma mulher de 28 anos que trabalhava em um instituto de pesquisa sobre peste na Sibéria morreu de pneumonia de causa desconhecida, após supostamente quebrar um tubo de ensaio. A OMS solicitou mais informações e vários países pediram transparência da Rússia. O governo russo afirmou que não há risco epidêmico e que forneceu dados à OMS, enquanto a Mongólia aumentou a vigilância na região.",
-        "porQueImporta": "O caso pode indicar risco de disseminação de peste pneumônica e levanta questões sobre segurança em laboratórios de agentes patogênicos.",
+        "clusterId": "549826ed05b7b71a",
+        "slug": "15fced1c9394c6cb",
+        "titulo": "Navi Pillay recebe Nobel da Paz 2026",
+        "resumo": "A jurista sul-africana Navanethem “Navi” Pillay, de 85 anos, foi premiada com o Nobel da Paz em 2026 pelo Comitê Norueguês do Nobel. Pillay atuou como Alta Comissária das Nações Unidas para Direitos Humanos, lutou contra o apartheid e presidiu comissões que identificaram genocídio em Ruanda e em Gaza. Atualmente, ela serve como juíza na Corte Internacional de Justiça. O prêmio reconheceu sua coragem, integridade e esforços para promover a paz e o direito internacional.",
+        "porQueImporta": "O reconhecimento destaca a importância de líderes jurídicos na promoção dos direitos humanos e na prevenção de conflitos globais.",
         "category": "mundo",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/08/videos/caso-de-peste-na-russia-entenda-o-caso-e-se-ha-risco-para-o-brasil/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/ciencia/morte-de-cientista-na-russia-levanta-suspeita-de-peste-e-preocupa-especialistas-o-que-se-sabe/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/07/trump-diz-nao-acreditar-que-morte-causada-por-peste-na-russia-tenha-sido-resultado-de-arma-biologica.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/presidente-da-africa-do-sul-cyril-ramaphosa-elogia-nobel-de-navi-pillay/"
           },
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c3j479x2lwg2o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/articles/cr3wv8p8x6g8o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/mundo/jurista-sul-africana-navi-pillay-ganha-o-nobel-da-paz/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/09/quem-e-navi-pillay-vencedora-premio-nobel-da-paz-2026.ghtml"
           }
         ],
-        "updatedAt": "2026-10-09T02:01:18.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/q_X9bDngvtfwfoZNgVt7BAbAfEI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/B/ds967IQEiSI3hs7NvFTA/2026-10-07t180124z-1019285318-rc2iyna3g6ts-rtrmadp-3-usa-trump.jpg"
+        "updatedAt": "2026-10-09T12:47:31.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4939/live/903da2b0-c3c8-11f1-8fc5-335d62f6730b.jpg"
       },
       {
-        "clusterId": "2f0cd00fcb96eff9",
-        "slug": "d4d97f13ea15e172",
-        "titulo": "Estudantes franceses ocupam ruas em protesto contra falta de professores",
-        "resumo": "Estudantes nas ruas da França exigem mais professores, alegando que a falta de profissionais tem causado semanas sem aulas. A mobilização reflete problemas concretos nas escolas e a tradição francesa de protestar nas ruas. As manifestações visam pressionar o governo a resolver a escassez de docentes.",
-        "porQueImporta": "A crise de professores pode afetar a qualidade e continuidade da educação no país.",
+        "clusterId": "8317bd54edb35e5a",
+        "slug": "057d5a44fa596f88",
+        "titulo": "Árbitro de 75 anos morre após golpe proibido em luta livre no México",
+        "resumo": "Gerardo Germán Pineda, árbitro de 75 anos, faleceu depois de receber um golpe de martinete durante uma apresentação de luta livre em Mineral de la Reforma, Hidalgo. O golpe, considerado ilegal e de alto risco, foi aplicado pelo lutador independente Hijo de Fishman. O lutador foi detido e está sendo investigado pela morte do árbitro. A ocorrência gerou repercussão nas redes sociais e na imprensa mexicana.",
+        "porQueImporta": "O caso destaca a necessidade de regulamentação e segurança em eventos de luta livre.",
         "category": "mundo",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/08/estudantes-voltam-as-ruas-na-franca-em-protestos-por-melhores-condicoes-no-ensino-publico.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/lutas/morte-de-arbitro-apos-golpe-ilegal-abala-o-mexico-veja-o-que-se-sabe/"
           },
           {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c6m24vx9x2ydo?at_medium=RSS&at_campaign=rss"
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/09/arbitro-de-75-anos-morre-apos-golpe-durante-luta-livre-no-mexico-lutador-e-detido.ghtml"
           }
         ],
-        "updatedAt": "2026-10-09T00:50:30.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/VRG89bMzZMiWz81lCzBNFZM92ks=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/w/NIcjSxRdyiyYrrjz57NA/globo-canal-4-20261008-2000-frame-53048.jpeg"
+        "updatedAt": "2026-10-09T14:55:37.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/enqAVWMD7Ez1hNtrvs2WVttVdLk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/q/5A9BMuSYKGwS2DgTduew/captura-de-tela-2026-10-09-085420-2-.jpg"
       },
       {
-        "clusterId": "9aa3ffb446990c6a",
+        "clusterId": "5df569324c8589f5",
+        "slug": "e5e8951a3d76c2bf",
+        "titulo": "Israel critica escolha de Navi Pillay como vencedora do Nobel da Paz 2026",
+        "resumo": "O Ministério das Relações Exteriores de Israel condenou a premiação da jurista sul-africana Navi Pillay, que presidiu o comitê que acusou Israel de genocídio, afirmando que o prêmio legitima o ódio e o preconceito anti-Israel. Pillay, surpresa com a escolha, alfinetou o presidente dos EUA, Donald Trump, em discurso de agradecimento. O comunicado de Israel destaca que a decisão do Nobel reforça a crítica ao país e à ONU.",
+        "porQueImporta": "A crítica reflete a tensão entre Israel e a comunidade internacional sobre a investigação de Gaza e a percepção de parcialidade nas premiações globais.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/israel-critica-nobel-da-paz"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/09/israel-critica-nobel-da-paz-a-navi-pillay-que-investigou-guerra-em-gaza-e-acusa-premio-de-instrumentalizacao-anti-israel-grotesca.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-09T14:29:48.000Z",
+        "imageUrl": "https://images.metroimg.com/2025/12/16040237/GettyImages-2249866002.jpg"
+      },
+      {
+        "clusterId": "e343e8e6f572897f",
+        "slug": "773569948e06acb5",
+        "titulo": "Christa Pike sobrevive a tentativa de execução no Tennessee",
+        "resumo": "Christa Pike, condenada à morte pelo assassinato de Colleen Slemmer em 1995, sobreviveu a duas injeções letais de pentobarbital em 30 de setembro. Ela recuperou a consciência quase seis dias depois e agora consegue caminhar. Seus advogados solicitaram investigação e acesso às seringas usadas na tentativa de execução.",
+        "porQueImporta": "O caso destaca falhas no procedimento de execução capital nos EUA.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/fuzilamento-ao-vivo-christa-pike-entenda-como-e-pena-de-morte-nos-eua/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/08/christa-pike-ja-consegue-caminhar-apos-sobreviver-a-execucao-fracassada-diz-advogado.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-09T14:10:30.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/HDK2ke8q3xiVWdFGMTwrMZisG2M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/W/XLzzudQs295Kyy1E4Blw/2026-10-01t075544z-184107085-rc2ptnayxsrm-rtrmadp-3-tennessee-execution.jpg"
+      },
+      {
+        "clusterId": "fa6d90f6494b091f",
         "slug": "6adbf3d03f5ea14a",
         "titulo": "EUA apresentam novas acusações de tortura contra Nicolás Maduro e Cilia Flores",
         "resumo": "Promotores do Departamento de Justiça dos Estados Unidos apresentaram acusações contra Nicolás Maduro e sua esposa, Cilia Flores, em tribunal de Nova York. As acusações alegam que o casal teria ordenado tortura de opositores políticos, incluindo cidadãos americanos, como forma de manter o poder. A ação faz parte de investidas anteriores do governo Trump contra o casal.",
@@ -721,380 +696,338 @@
         "category": "mundo",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/08/justica-dos-eua-apresenta-novas-acusacoes-contra-o-ex-ditador-da-venezuela-maduro-e-a-mulher.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cwly3xvgnj3vo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-10-09T00:43:03.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/nu-PNHjbsreB4WU0FIj6fpJjqTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/d/ZGCVhFTI6xUrw3QbxH2Q/globo-canal-4-20261008-2000-frame-47735.jpeg"
-      },
-      {
-        "clusterId": "a34bdc5e2b4910b4",
-        "slug": "34503cd82a94c86e",
-        "titulo": "Ex-major do Exército americano será executado nos EUA",
-        "resumo": "O ex-major Nidal Malik Hasan, responsável pelo ataque em Fort Hood em 2009 que matou 13 soldados desarmados e feriu 32, será executado por fuzilamento, a primeira execução militar nos EUA desde a Segunda Guerra Mundial. O Pentágono informou que a recomendação veio do secretário de Defesa Pete Hegseth e que o presidente Donald Trump aprovou a medida. A execução está marcada para o futuro próximo.",
-        "porQueImporta": "Revela a aplicação de punições militares severas em casos de terrorismo interno.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/08/quem-e-e-qual-o-crime-do-primeiro-militar-que-vai-ser-executado-nos-eua-desde-a-segunda-guerra-mundial.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cq70p4p76j2ro?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-10-08T10:09:55.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/J2ktclpF_zxoqE54YSrvskewi94=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/V/ZpbSHNSAA4K1B46X2eCg/2431ba60-c171-11f1-a64c-550be9e3c66b.jpg-1-.jpg"
-      },
-      {
-        "clusterId": "448b951e32070d3e",
-        "slug": "fa2da9b70638166d",
-        "titulo": "Prêmio Nobel da Paz 2026 será anunciado nesta sexta-feira em Oslo",
-        "resumo": "O comitê norueguês anunciará o vencedor do Nobel da Paz 2026 na manhã de 9 de outubro, em Oslo. Foram indicados 287 candidatos, incluindo 208 pessoas e 79 organizações, mas a lista permanece secreta por 50 anos. Entre os nomes citados como favoritos estão o Papa Leão XIV, o jornalista Jimmy Lai, o economista Ilham Tohti, a relatora Francesca Albanese, o ex‑prêmio Mark Carney e o ativista ucraniano Mykola Kuleba. O presidente dos EUA, Donald Trump, também reivindicou ter recebido a medalha em 2025 e continua defendendo sua candidatura.",
-        "porQueImporta": "O anúncio do vencedor do Nobel da Paz tem impacto global e reflete as prioridades internacionais de paz e justiça.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/09/nobel-da-paz-2026-entenda-como-o-vencedor-e-escolhido.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-09T03:00:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/5t9FJlLimkHKXwXYYEUloL2BppI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/z/A/Q83u20Sh2VSOuBjegAmQ/ap22167749835117.jpg"
-      },
-      {
-        "clusterId": "a6a83845a20f8ac1",
-        "slug": "f423fad9f90c88c4",
-        "titulo": "Grupo de dança de crianças africanas apaga vídeo pró-Flávio Bolsonaro",
-        "resumo": "Um grupo de dança infantil de Uganda publicou um vídeo em apoio a Flávio Bolsonaro, mas posteriormente apagou o conteúdo. O grupo afirmou que não tem interesse em se envolver em política e que os tokens avaliados em US$ 20 mil seriam destinados à construção de uma casa. Especialistas apontam possíveis ilegalidades na campanha de arrecadação de fundos.",
-        "porQueImporta": "A ação destaca a interseção entre mídias sociais, política e questões de responsabilidade legal em campanhas de financiamento.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cjzxl549wr3xo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-10-09T01:53:20.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8c47/live/807ea420-c371-11f1-9d73-99516d7dff71.jpg"
-      },
-      {
-        "clusterId": "2707dcbc9e51682f",
-        "slug": "0e322e408ce6a72b",
-        "titulo": "Morte de Maricarmen Abascal, idosa expulsa de apartamento em Madri",
-        "resumo": "Maricarmen Abascal, 87 anos, morreu em 7 de outubro de 2026 após ser despejada do apartamento onde vivia há 70 anos, no centro de Madri. Ela havia sido internada no Hospital Gregorio Marañón desde 23 de setembro, quando teve que deixar o local. A morte foi confirmada pelo Sindicato de Inquilinos da Espanha e pela família. A causa da morte não foi divulgada.",
-        "porQueImporta": "A sua morte simboliza a crise de moradia e os protestos contra despejos que têm ocorrido na Espanha.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cmvgxr52xjw2o?at_medium=RSS&at_campaign=rss"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/delcy-rodriguez-adianta-natal/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/07/morre-aos-87-anos-mulher-que-se-tornou-simbolo-da-luta-contra-despejos-na-espanha.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/08/novas-acusacoes-contra-maduro-e-esposa-audiencia-nova-york.ghtml"
           }
         ],
-        "updatedAt": "2026-10-07T19:56:05.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bcd8/live/5b716f40-bbed-11f1-9074-3d74885a19d6.jpg"
+        "updatedAt": "2026-10-09T13:16:03.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/wi1_VbwrzE3fNqUSfxcjXP-SIew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/E/FaUFxIQeWN1zo6d7I4BQ/fotojet-66-.jpg"
       },
       {
-        "clusterId": "edc6c024c29544e8",
-        "slug": "97e54b5f06980c62",
-        "titulo": "Ataques russos em Kramatorsk e Pryluky causam mortes e feridos",
-        "resumo": "Em 8 de outubro, a Rússia bombardeou um ônibus com civis em Kramatorsk, resultando em 33 mortos e 18 feridos. No dia anterior, um ataque aéreo em Pryluky matou 24 pessoas e deixou dezenas feridas, principalmente em um edifício residencial. O presidente ucraniano Zelensky acusou Moscou de atacar deliberadamente civis e prometeu resposta.",
-        "porQueImporta": "Os ataques aumentam a tensão e a violência na região, afetando civis e infraestrutura crítica.",
+        "clusterId": "1689ab01478f4caf",
+        "slug": "789f61cf60647e1e",
+        "titulo": "Execução de ex-militar condenado à morte será transmitida ao vivo nos EUA",
+        "resumo": "O Departamento de Defesa dos Estados Unidos anunciou que a execução de Nidal Hasan, ex-militar condenado à morte por um massacre em 2009, será realizada por fuzilamento e transmitida ao vivo em 3 de dezembro. A decisão marca a primeira execução militar desde 1961. A ONU classificou a transmissão como forma de tortura. A medida tem gerado controvérsia internacional.",
+        "porQueImporta": "A transmissão ao vivo de uma execução militar suscita debates sobre direitos humanos e transparência governamental.",
         "category": "mundo",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/08/russia-volta-a-bombardear-alvos-civis-na-ucrania-mais-de-30-pessoas-morrem.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/09/onu-denuncia-como-tortura-a-execucao-ao-vivo-anunciada-nos-eua.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c6wydpqexn5do?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-10-09T00:55:34.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/0ZjdNZxVV5fmtTqK2cRSdOQ-b3g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/Y/BjwhWdQcG3ty5SydWBHw/globo-canal-4-20261008-2000-frame-53304.jpeg"
+        "updatedAt": "2026-10-09T12:54:12.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/OEMHf7VNMkiaTl1w5sKmWOMre7I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/6/wbnptaTH2IwkLKWNmdsQ/2013-639684210-20130823144504620rts.jpg-20130823.jpg"
+      },
+      {
+        "clusterId": "338022b74a753564",
+        "slug": "5789db81a80543f1",
+        "titulo": "EUA intensificam militarização na América Latina como parte da nova guerra às drogas",
+        "resumo": "O governo dos Estados Unidos, sob a orientação de líderes de direita, está aumentando a militarização e a retórica de combate ao narcotráfico na América Latina, comparando traficantes a terroristas. A estratégia faz parte de um esforço contínuo que remonta à declaração de guerra às drogas de Nixon em 1971. A iniciativa envolve apoio a países da região e busca reduzir a influência dos cartéis. A política tem implicações significativas para a segurança e relações internacionais da região.",
+        "porQueImporta": "A mudança na abordagem dos EUA pode alterar o equilíbrio de poder e a dinâmica de segurança na América Latina.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/ck87zdg420nro?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/09/a-nova-era-da-guerra-as-drogas-no-centro-da-estrategia-de-trump-para-a-america-latina.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-09T11:25:54.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a072/live/4d6b2d10-c3c1-11f1-9798-abffda1e61e7.jpg"
+      },
+      {
+        "clusterId": "c2515c6510e6c2fc",
+        "slug": "9b3cae61e90634ce",
+        "titulo": "Casal acusado de abusar de crianças nascidas de barriga de aluguel na Califórnia",
+        "resumo": "Guojun Xuan e Silvia Zhang, proprietários de uma empresa de gestação por substituição, foram presos em sua mansão em Arcadia, Califórnia, sob acusações de abusos físicos e psicológicos contra pelo menos 14 crianças nascidas de barriga de aluguel, algumas com apenas dois meses de idade. O promotor de Los Angeles, Nathan J. Hochman, afirmou que o número de vítimas é sem precedentes. Além do abuso, o casal também é acusado de enganar mulheres que atuaram como mães substitutas.",
+        "porQueImporta": "O caso destaca a necessidade de maior fiscalização e proteção em programas de barriga de aluguel.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/09/casa-dos-horrores-o-casal-acusado-de-abusar-na-sua-mansao-na-california-de-pelo-menos-14-criancas-nascidas-de-barriga-de-aluguel.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cm86zwwg3l5qo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-10-09T10:46:33.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/jMb0YCouQuZsuY-C_68g3GAkTlk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/3/P2Xi18Q92WpzTI92tPXg/d3113463-cb83-4a84-aac4-4a28121150da-1-.png"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "d2ad901924945d2c",
-        "slug": "8662ba8d6a32a102",
-        "titulo": "OpenAI afirma que novo modelo interno gerou 377 resultados matemáticos complexos",
-        "resumo": "O modelo interno da OpenAI produziu 377 soluções em áreas como álgebra, teoria dos números, lógica matemática, topologia e ciência da computação teórica, incluindo respostas a problemas ainda sem solução. A divulgação gerou reações variadas entre matemáticos, desde entusiasmo até preocupação com o futuro da profissão. A OpenAI destacou avanços em questões que pesquisadores tentavam resolver há décadas.",
-        "porQueImporta": "Demonstram o potencial da IA para acelerar descobertas matemáticas e levantam debates sobre impacto na comunidade científica.",
+        "clusterId": "a4d92b298c0acd14",
+        "slug": "b7987852948fa3c9",
+        "titulo": "Rockstar confirma Flash FM e anuncia seis estações de rádio em GTA 6",
+        "resumo": "A Rockstar Games revelou que o próximo título da série GTA 6 incluirá a rede de rádio Flash FM, além de seis novas estações de rádio. As estações cobrem gêneros como pop, reggaeton, country, metal e hip‑hop, e também contarão com podcasts. Os personagens poderão ouvir as músicas usando fones de ouvido ou earbuds conectados ao celular, sem precisar estar em um veículo.",
+        "porQueImporta": "A expansão da oferta de rádio aumenta a imersão e a variedade de conteúdo musical no jogo.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/08/ciencia-e-espaco/soco-no-estomago-matematicos-reagem-a-descobertas-divulgadas-pela-openai/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/educacao/noticia/2026/10/07/openai-resultados-matematicos.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-09T01:53:17.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/Pd2ULYsvllGUOE_R-1L7SHUkUQY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/P/hUB2UURJKSoVNG2572Eg/pexels-googledeepmind-17483850.jpg"
-      },
-      {
-        "clusterId": "cb934587b05b74f4",
-        "slug": "d73c665235b427c5",
-        "titulo": "Resultados dos concursos de loteria da última semana",
-        "resumo": "No concurso 3018 da Dupla Sena, os números sorteados foram 18, 21, 26, 28, 48, 49 no primeiro sorteio e 5, 11, 35, 38, 39, 49 no segundo. Nenhum participante acertou os seis números, acumulando R$ 7,5 milhões. Para o concurso 3068 da Mega‑Sena, o sorteio de R$ 100 milhões foi realizado em São Paulo, com os seis números premiados ainda a serem divulgados. Os ganhadores podem resgatar seus prêmios conforme instruções oficiais.",
-        "porQueImporta": "Esses resultados informam os participantes sobre ganhos e acumulados, influenciando decisões de apostas e resgates.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/loterias/dupla-sena/noticia/2026/10/08/dupla-sena-hoje-resultado-do-concurso-3018-e-numeros-sorteados.ghtml"
-          },
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/08/internet-e-redes-sociais/resultado-da-mega-sena-de-hoje-veja-numeros-e-ganhadores-do-concurso-3068-quinta-08-10/"
-          }
-        ],
-        "updatedAt": "2026-10-09T00:30:21.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/QdtGvZ4eSw40zm6eUewRhFwag20=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/t/kufdIkR9uBaSSTs2PgfA/duplasena-3018-vkfji.jpeg"
-      },
-      {
-        "clusterId": "f4b0d26b0b97225d",
-        "slug": "f6b7d865a4a4aa8f",
-        "titulo": "Camil e Samsung apresentam resultados financeiros distintos no segundo e terceiro trimestres de 2026",
-        "resumo": "A Camil registrou lucro líquido de R$ 41 milhões no segundo trimestre de 2026, com receita líquida de R$ 2,76 bilhões, em queda de 7,2% em relação ao ano anterior, e Ebitda reduzido 10,1%. Em contraste, a Samsung projetou lucro operacional de US$ 80,17 bilhões (cerca de R$ 428 bilhões) para o terceiro trimestre de 2026, um aumento de 782,5% em relação ao mesmo período do ano passado, impulsionado pela demanda por chips de inteligência artificial.",
-        "porQueImporta": "Os resultados refletem o desempenho divergente de empresas de setores distintos, destacando a força do mercado de IA e a volatilidade do setor de alimentos.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/agro/camil-registra-lucro-liquido-de-r-41-milhoes-no-2o-trimestre-de-2026/"
+            "url": "https://olhardigital.com.br/2026/10/09/games-e-consoles/gta-6-revela-seis-radios-e-18-musicas-flash-fm-esta-de-volta/"
           },
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/mercado/samsung-preve-lucro-historico-de-us-80-bilhoes-gracas-a-corrida-da-ia/"
+            "url": "https://canaltech.com.br/games/rockstar-confirma-flash-fm-em-gta-6-e-revela-primeiras-estacoes-de-radio-conheca/"
           }
         ],
-        "updatedAt": "2026-10-09T00:13:52.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/nOGtMNff7KA-UtsMlhOPACAASKc=/0x0/filters:format(webp):quality(85)/53d40eaf-7e71-47f7-9aaa-b30487c5434f.jpeg"
+        "updatedAt": "2026-10-09T14:33:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/iU5VcDUdd2FFYUDbvWWq97AfULs=/0x0/filters:format(webp):quality(85)/f2fbaa49-fb6e-4a83-9072-cb5060ff0003.png"
       },
       {
-        "clusterId": "a39c5a43b1f8db62",
-        "slug": "22be8e81c29749c4",
-        "titulo": "Perda de prazo de saque em apostas esportivas pode ser recuperada",
-        "resumo": "Usuários que perderam o prazo de saque em plataformas de apostas esportivas podem ainda conseguir recuperar o dinheiro, dependendo das políticas da empresa. O artigo explica os procedimentos e requisitos para solicitar a devolução. É importante verificar o prazo e as regras específicas de cada site para evitar perdas permanentes.",
-        "porQueImporta": "Garantir o acesso ao dinheiro pode evitar prejuízos financeiros para os apostadores.",
+        "clusterId": "7c98eb557aa22f60",
+        "slug": "4047db299d5396bd",
+        "titulo": "Echo Dot 5ª geração em promoção abaixo de R$300",
+        "resumo": "A Amazon reduziu o preço da Echo Dot de 5ª geração de R$329 para R$299, usando o cupom PRIMEDOT, disponível para assinantes Prime. O valor pode ser parcelado em até 6 vezes sem juros, resultando em parcelas de aproximadamente R$49,83. O modelo está preparado para acesso antecipado à Alexa+, a nova geração do assistente com recursos de IA avançados.",
+        "porQueImporta": "A oferta torna a tecnologia de assistente doméstico mais acessível para consumidores que já são assinantes Prime.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/08/videos/confira-o-olhar-digital-news-na-integra-08-10-2026/"
-          }
-        ],
-        "updatedAt": "2026-10-09T02:56:22.000Z"
-      },
-      {
-        "clusterId": "2220f5be1d5d3f10",
-        "slug": "f0c4fbd656dc2cfe",
-        "titulo": "Ex-funcionários de segurança da OpenAI contestam demissões",
-        "resumo": "Três ex-funcionários de segurança da OpenAI escreveram uma carta aberta negando acusações de má conduta que levaram às suas demissões. Eles alegam que os desligamentos podem prejudicar o trabalho de segurança em inteligência artificial. A carta destaca a importância de manter profissionais experientes na área para garantir a segurança dos sistemas de IA.",
-        "porQueImporta": "A disputa levanta questões sobre práticas de gestão de segurança em empresas de IA.",
-        "category": "tecnologia",
-        "sources": [
+            "url": "https://olhardigital.com.br/2026/10/09/reviews/ofertas-dia-iphone-16-tv-tcl-qled-echo-dot-ipad-philips-soundcore/"
+          },
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/08/pro/ex-funcionarios-de-seguranca-da-openai-contestam-demissoes/"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/casa-conectada/amazon-vende-echo-dot-preparada-para-alexa-por-menos-de-r-300-e-ainda-parcela/"
           }
         ],
-        "updatedAt": "2026-10-09T01:04:08.000Z"
+        "updatedAt": "2026-10-09T13:27:03.000Z"
       },
       {
-        "clusterId": "590799fb0e257e6a",
-        "slug": "908cb19b745b8509",
-        "titulo": "Resultado da Lotofácil do concurso 3800",
-        "resumo": "O sorteio do concurso 3800 da Lotofácil ocorreu na noite de quinta-feira, 8 de outubro, às 21h. O prêmio estimado era de R$ 6 milhões. Os números sorteados e os ganhadores foram divulgados pela plataforma Olhar Digital.",
-        "porQueImporta": "Informação relevante para participantes e interessados no jogo.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/08/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3800-quinta-08-10/"
-          }
-        ],
-        "updatedAt": "2026-10-08T23:40:00.000Z"
-      },
-      {
-        "clusterId": "51874c8e0de43f66",
-        "slug": "9052bb5989e6bdd5",
-        "titulo": "Resultado da Quina do concurso 7138",
-        "resumo": "O sorteio da Quina, realizado em São Paulo, premiou cinco números e distribuiu R$ 28,3 milhões. Os ganhadores foram anunciados e instruções sobre como resgatar o prêmio foram disponibilizadas. A loteria continua em vigor e os resultados são divulgados diariamente.",
-        "porQueImporta": "Informa quem pode ganhar e como receber o prêmio, relevante para participantes da loteria.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/08/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7138-quinta-08-10/"
-          }
-        ],
-        "updatedAt": "2026-10-08T23:40:00.000Z"
-      },
-      {
-        "clusterId": "d2cd609ca3f539b9",
-        "slug": "6bab0c1f8444507e",
-        "titulo": "Margaret Hamilton, pioneira da engenharia de software, morre aos 90 anos",
-        "resumo": "A cientista da computação Margaret Hamilton faleceu em 30 de setembro, aos 90 anos. Ela liderou a equipe que desenvolveu os softwares das missões Apollo da NASA, incluindo a primeira viagem tripulada à Lua em 1969. Hamilton popularizou o termo \"engenharia de software\" e argumentou que o desenvolvimento de programas deveria ter o mesmo reconhecimento que outras áreas da engenharia.",
-        "porQueImporta": "Seu trabalho estabeleceu fundamentos essenciais para o desenvolvimento de software confiável em missões espaciais e em sistemas críticos.",
+        "clusterId": "e985d53bfeb051d8",
+        "slug": "98fc55278bb31514",
+        "titulo": "Garmin confirma falha no Fenix 8 que drena bateria",
+        "resumo": "A Garmin reconheceu que o smartwatch Fenix 8 pode manter a tela no brilho máximo após sair de ambientes ensolarados, caso o Always On Display esteja ativado e os gestos de ativação desativados. A falha aumenta o consumo de energia e reduz a autonomia do dispositivo. Usuários relataram o problema em fóruns da marca.",
+        "porQueImporta": "O defeito pode comprometer a duração da bateria, afetando a experiência de uso dos consumidores.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/software/inventora-da-engenharia-de-software-morre-aos-90-anos-conheca-margaret-hamilton/"
+            "url": "https://canaltech.com.br/smartwatch/garmin-confirma-falha-no-fenix-8-que-drena-bateria-do-smartwatch/"
           }
         ],
-        "updatedAt": "2026-10-08T22:00:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/G2gq7jGv9rXeShBsmqF8w0nJDp8=/0x0/filters:format(webp):quality(85)/5c35cb7a-2c7a-45ab-95c4-383da0688371.png"
+        "updatedAt": "2026-10-09T14:27:33.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/HpUscByTVI8ClIszkkg5ubzNUeE=/0x0/filters:format(webp):quality(85)/7203da00-8b72-4304-b526-f8402a95ba3a.jpg"
+      },
+      {
+        "clusterId": "917b7a679bcba0b8",
+        "slug": "2be8b31c8904e469",
+        "titulo": "Amazon oferece promoções em monitores e notebooks gamer",
+        "resumo": "A Amazon disponibiliza ofertas em três monitores gamer com painéis IPS, altas taxas de atualização e suporte a tecnologias de sincronização, além de três notebooks gamer com processadores Intel Core i5 e configurações robustas. As promoções visam atender usuários que buscam melhorar a experiência de jogo, trabalho ou edição. Os modelos selecionados destacam-se pelo custo-benefício e desempenho competitivo.",
+        "porQueImporta": "Essas promoções permitem que gamers e profissionais atualizem equipamentos com boa relação custo‑benefício.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/10/09/reviews/quer-turbinar-seu-setup-confira-uma-selecao-de-monitores-gamer-em-promocao-na-amazon-4/"
+          }
+        ],
+        "updatedAt": "2026-10-09T14:20:00.000Z"
+      },
+      {
+        "clusterId": "2e7945fe50fb3cd5",
+        "slug": "6568352d26b83f4f",
+        "titulo": "Empresas de apostas esportivas buscam alternativas para manter atividades no Brasil",
+        "resumo": "Apesar da proibição das apostas esportivas pelo MP nº 1.394/2026, algumas empresas conseguiram autorização judicial para operar até 25 de outubro. Outras mantêm presença no futebol brasileiro usando marcas de serviços de estatísticas. A medida proibiu a oferta e publicidade de apostas e cassinos online no país.",
+        "porQueImporta": "A estratégia mostra como o setor tenta contornar a legislação e continuar influenciando o mercado esportivo.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/mercado/como-as-bets-estao-dando-um-jeitinho-para-continuarem-ativas-no-brasil/"
+          }
+        ],
+        "updatedAt": "2026-10-09T14:15:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/Nf9SojN4ufYByOndUsUU-6PDrC0=/0x0/filters:format(webp):quality(85)/4ce707c5-b29d-40ae-b5b8-aa4fd7de5652.png"
+      },
+      {
+        "clusterId": "303d4c8d64f2f8d1",
+        "slug": "fd2588801613b4ed",
+        "titulo": "Forza Horizon 6 chega ao PlayStation 5 em 26 de janeiro de 2027",
+        "resumo": "O jogo Forza Horizon 6, já disponível para Xbox e PC, será lançado no PlayStation 5 em 26 de janeiro de 2027. A pré‑venda já está aberta e a edição Premium permite acesso antecipado em 21 de janeiro. A versão padrão custa R$ 299, a Deluxe R$ 499 e a Premium inclui expansões e pacotes de carros.",
+        "porQueImporta": "A chegada de Forza Horizon 6 ao PS5 amplia a oferta de títulos de corrida para os usuários da plataforma, aumentando opções de entretenimento.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/games/forza-horizon-6-finalmente-ganha-data-no-ps5-jogo-vira-com-grande-expansao/"
+          }
+        ],
+        "updatedAt": "2026-10-09T14:08:00.000Z"
+      },
+      {
+        "clusterId": "d150f624ae9039ba",
+        "slug": "bae4b67e409338b6",
+        "titulo": "Jogo gratuito permite comparar riqueza de Elon Musk com compras do cotidiano",
+        "resumo": "Um jogo interativo gratuito foi lançado para demonstrar a dimensão da fortuna de Elon Musk, convertendo US$ 1 trilhão em itens de consumo diário. O usuário pode ver como esse montante se traduz em compras comuns, como roupas, carros e viagens. O objetivo é tornar a ideia de riqueza extrema mais tangível e compreensível.",
+        "porQueImporta": "Ilustra de forma prática a escala da riqueza de Musk, facilitando a compreensão pública sobre finanças de alto nível.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/10/09/pro/jogo-gratuito-desafia-o-usuario-a-zerar-os-us-1-tri-de-elon-musk/"
+          }
+        ],
+        "updatedAt": "2026-10-09T14:02:03.000Z"
+      },
+      {
+        "clusterId": "974d0a310833aa90",
+        "slug": "5a3738b37a499db1",
+        "titulo": "Amazon oferece promoções em notebooks e smartwatches",
+        "resumo": "A Amazon Brasil disponibiliza descontos em três modelos de notebooks, variando do básico ao intermediário, para quem pretende renovar ou adquirir um novo computador. Em paralelo, a plataforma também apresenta três smartwatches em promoção, com opções que atendem a diferentes necessidades de monitoramento de saúde e estilo de vida. Ambas as seleções foram publicadas no site Olhar Digital e visam orientar consumidores sobre as melhores ofertas disponíveis no momento.",
+        "porQueImporta": "Essas promoções permitem que consumidores atualizem seus dispositivos tecnológicos com preços mais acessíveis.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/10/09/reviews/hora-de-trocar-de-notebook-selecionamos-otimas-opcoes-em-promocao-na-amazon-5/"
+          }
+        ],
+        "updatedAt": "2026-10-09T14:00:00.000Z"
       }
     ],
     "ciencia": [
       {
-        "clusterId": "fd4119b52968f930",
-        "slug": "c2c7a9cc3e0eaf63",
-        "titulo": "Nobel de Química 2026 concedido a Henri Kagan e Kenso Soai por descobertas em reações químicas assimétricas",
-        "resumo": "O Prêmio Nobel de Química de 2026 foi atribuído ao francês Henri B. Kagan e ao japonês Kenso Soai por elucidarem como reações químicas favorecem a formação de moléculas quirais em uma única configuração, em vez de suas imagens espelhadas. A pesquisa revelou efeitos não lineares e autocatálise que explicam a homoquiralidade, fenômeno observado em aminoácidos e outras moléculas biológicas. A descoberta tornou-se ferramenta essencial na síntese de medicamentos e no entendimento da origem da vida.",
-        "porQueImporta": "A descoberta oferece uma base científica para a produção de fármacos com maior eficiência e esclarece um dos mistérios fundamentais da biologia.",
+        "clusterId": "f79ab454b4739e52",
+        "slug": "77acf417a06b3ca5",
+        "titulo": "Superinteligência autônoma ainda enfrenta limites técnicos e econômicos",
+        "resumo": "O autoaperfeiçoamento recursivo das inteligências artificiais mostra rendimentos decrescentes, escassez de dados e alto consumo de recursos computacionais. Esses fatores dificultam avanços significativos no curto prazo. A pesquisa destaca que a superinteligência autônoma ainda não ultrapassou barreiras fundamentais de eficiência e viabilidade econômica.",
+        "porQueImporta": "Esses desafios indicam que a promessa de IA superinteligente ainda está distante, impactando expectativas e investimentos no setor.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/radio-usp/superinteligencia-autonoma-ainda-esbarra-em-limites-tecnicos-e-economicos/"
+          }
+        ],
+        "updatedAt": "2026-10-09T12:35:32.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2016/09/colunista_radioUSP-marceloFinger-3-1024x1024.jpg"
+      },
+      {
+        "clusterId": "78d3debc6dce8629",
+        "slug": "4a9be405a0dd3f28",
+        "titulo": "Gatos são territoriais por herança genética e uso do cheiro",
+        "resumo": "Os gatos demonstram territorialidade principalmente através do odor, um traço herdado geneticamente. O cheiro marca o território e ajuda a evitar conflitos com outros felinos. Esse comportamento é uma adaptação evolutiva que garante recursos e segurança.",
+        "porQueImporta": "Entender a origem da territorialidade ajuda no manejo e cuidado adequado dos gatos domésticos.",
         "category": "ciencia",
         "sources": [
           {
             "name": "Super Interessante",
-            "url": "https://super.abril.com.br/ciencia/nobel-de-quimica-de-2026-vai-para-pesquisa-sobre-moleculas-espelhadas/"
-          },
+            "url": "https://super.abril.com.br/mundo-estranho/por-que-os-gatos-sao-tao-territoriais/"
+          }
+        ],
+        "updatedAt": "2026-10-09T12:19:03.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/10/ME_gatos-territoriais_site.jpg"
+      },
+      {
+        "clusterId": "be9787804b01619a",
+        "slug": "bd5ed9abcfbc5bd1",
+        "titulo": "Partidos digitais não fazem um governo",
+        "resumo": "A ascensão de agrupamentos políticos nas redes sociais gera dúvidas sobre sua capacidade de transformar mobilização eleitoral em projetos coletivos e sustentáveis de governo. O artigo destaca que, embora esses partidos tenham forte presença digital, eles carecem de estrutura institucional e de mecanismos de governança que garantam a implementação de políticas públicas. A discussão aponta que a falta de experiência em administração pública pode limitar a efetividade desses grupos no cenário político tradicional.",
+        "porQueImporta": "Esses partidos podem influenciar eleições, mas sua efetividade governamental ainda é questionável.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/radio-usp/partidos-digitais-nao-fazem-um-governo/"
+          }
+        ],
+        "updatedAt": "2026-10-09T12:00:56.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/03/pasta-dos-20230313_marilia--1024x1024.jpg"
+      },
+      {
+        "clusterId": "df56afa9e4181665",
+        "slug": "fc7ace4b56203817",
+        "titulo": "IA gera referências bibliográficas falsas em pesquisas acadêmicas",
+        "resumo": "Pesquisadores da FAPESP identificaram que sistemas de inteligência artificial podem criar listas de referências bibliográficas que não correspondem a publicações reais, gerando \"fantasmas\" acadêmicos. O fenômeno ocorre quando algoritmos geram citações para preencher lacunas em textos, mas sem verificar a existência dos documentos citados. A prática pode comprometer a credibilidade de artigos e a integridade da literatura científica. A FAPESP alerta para a necessidade de revisão manual e validação de referências geradas por IA.",
+        "porQueImporta": "A geração automática de referências falsas pode distorcer a base de conhecimento científico e afetar a confiança em pesquisas acadêmicas.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Pesquisa FAPESP",
+            "url": "https://revistapesquisa.fapesp.br/o-milagre-da-multiplicacao-de-referencias-bibliograficas-fantasmas/?utm_source=rss&utm_medium=rss&utm_campaign=o-milagre-da-multiplicacao-de-referencias-bibliograficas-fantasmas"
+          }
+        ],
+        "updatedAt": "2026-10-09T11:57:05.000Z"
+      },
+      {
+        "clusterId": "72cbd413e9a0f6ed",
+        "slug": "35ed1b82452036ce",
+        "titulo": "Ex-vice-reitor da USP assume presidência da Academia de Ciências de São Paulo",
+        "resumo": "Antonio Carlos Hernandes, ex-vice-reitor da USP, foi eleito presidente da Academia de Ciências do Estado de São Paulo para o triênio 2026‑2029. A cerimônia de posse contou também com a nomeação de novos diretores e conselheiros. O evento destaca a importância da liderança acadêmica na promoção da ciência e no combate à desinformação.",
+        "porQueImporta": "A escolha de Hernandes reforça a ligação entre universidades e instituições científicas, contribuindo para a qualidade e integridade da pesquisa no estado.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/institucional/o-combate-a-desinformacao-e-um-desafio-transversal-a-todas-as-areas-do-conhecimento/"
+          }
+        ],
+        "updatedAt": "2026-10-09T11:30:16.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20261008_Posse_Aciesp_Auditorio_Antonio-Carlos-Hernandes_201-26_Foto-Marcos-Santos_Usp-Imagens-23-1024x538.jpg"
+      },
+      {
+        "clusterId": "a46d58c99dc59676",
+        "slug": "fc2aa931d527c979",
+        "titulo": "Transformação de rios em São Paulo apagou sua presença na memória coletiva",
+        "resumo": "Um estudo de doutorado revelou que a hidrologia de São Paulo foi alterada por obras de drenagem e urbanização, resultando na submersão de rios e na perda de referências naturais na cidade. A pesquisa destaca como a engenharia hidrológica apagou a presença desses cursos d’água do cotidiano e da memória dos paulistanos. Os autores apontam que a invisibilidade dos rios contribui para a desconexão entre a população e o meio‑ambiente urbano.",
+        "porQueImporta": "Entender a história dos rios ajuda a repensar políticas de preservação e de conexão entre a população e o ambiente natural.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/ciencias/rios-enterrados-cidade-em-disputa-a-historia-dos-rios-que-sao-paulo-escondeu/"
+          }
+        ],
+        "updatedAt": "2026-10-09T11:10:18.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20261006_capa-1024x538.jpg"
+      },
+      {
+        "clusterId": "64cc18f6a179125d",
+        "slug": "6d8e896f3933bd32",
+        "titulo": "Turismo de bem-estar cresce após pandemia",
+        "resumo": "O turismo de bem-estar, ou Wellness Tourism, consolidou-se como um setor em expansão, movimentando bilhões de reais. A pandemia acelerou a demanda por experiências que combinam descanso, saúde e conexão com a natureza. O professor Alexandre Panoso Neto destaca que essa modalidade altera a percepção do viajante sobre tempo e ambiente. O crescimento reflete mudanças nos hábitos de consumo e na valorização do autocuidado.",
+        "porQueImporta": "O aumento desse segmento indica uma nova tendência de consumo que impacta a economia e a oferta de serviços turísticos.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/atualidades/muito-alem-do-descanso-o-crescimento-do-turio-de-bem-estar-apos-a-pandemia__trashed/"
+          }
+        ],
+        "updatedAt": "2026-10-09T10:03:21.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/01/20230127_natureza-1024x538.jpg"
+      },
+      {
+        "clusterId": "60961d07574ed8fd",
+        "slug": "bd34b8025f85c8f6",
+        "titulo": "Pessoas tendem a caminhar em sentido anti-horário em espaços fechados",
+        "resumo": "Estudo realizado durante a pandemia de COVID‑19 observou que quase todos os participantes caminhavam em círculos anti-horários em ambientes fechados, sem perceberem a direção. A pesquisa, iniciada por acaso ao analisar a movimentação para manter distância, revelou um padrão de orientação natural. Os pesquisadores ainda não identificaram a causa desse comportamento.",
+        "porQueImporta": "Entender padrões de movimento pode melhorar o design de espaços públicos e a gestão de fluxos de pessoas.",
+        "category": "ciencia",
+        "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/ciencia/noticia/2026/10/07/o-que-e-o-misterio-da-assimetria-da-vida-que-rendeu-nobel-de-quimica-a-cientistas.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cq4g17grdy2zo?at_medium=RSS&at_campaign=rss"
+            "url": "https://g1.globo.com/ciencia/noticia/2026/10/09/quase-todo-mundo-vira-naturalmente-para-a-esquerda-ao-caminhar-e-ainda-nao-fazemos-ideia-do-porque.ghtml"
           }
         ],
-        "updatedAt": "2026-10-07T18:14:34.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_nobel-quimica_site.jpg"
-      },
-      {
-        "clusterId": "02bcf26393cc486d",
-        "slug": "57c7765f8328b40b",
-        "titulo": "Guerra dos Cem Anos entre França e Inglaterra",
-        "resumo": "A Guerra dos Cem Anos foi um conflito prolongado entre França e Inglaterra que durou mais de um século. O confronto envolveu várias batalhas e alianças que mudaram o equilíbrio de poder na Europa. O conflito teve início em 1337 e terminou em 1453, com a vitória francesa.",
-        "porQueImporta": "O conflito influenciou a formação dos estados modernos e o desenvolvimento das armadas europeias.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/ciencia/o-que-foi-a-guerra-dos-cem-anos-afinal/"
-          }
-        ],
-        "updatedAt": "2026-10-09T01:00:20.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2018/07/56605f5c82bee174ca014443galeriacemanos1t1.jpeg"
-      },
-      {
-        "clusterId": "291d7a94335e1e5e",
-        "slug": "beaceab51c258749",
-        "titulo": "Museus e espaços da USP oferecem programação gratuita para o Dia das Crianças",
-        "resumo": "Durante o fim de semana, crianças podem participar de atividades lúdicas e gratuitas em museus e espaços da USP, incluindo oficinas de astronomia e contação de histórias sobre lendas. A programação combina ciência e diversão, incentivando o aprendizado de forma interativa. Os eventos são abertos ao público infantil e não cobram entrada.",
-        "porQueImporta": "Promove o acesso gratuito à cultura e ciência para crianças, estimulando o interesse e a educação desde cedo.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/universidade/entre-ciencia-e-diversao-museus-e-espacos-da-usp-tem-programacao-para-o-dia-das-criancas/"
-          }
-        ],
-        "updatedAt": "2026-10-08T21:15:52.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20250925_00_museu_de_geociencias_usp-1024x538.jpg"
-      },
-      {
-        "clusterId": "47d0f3f1eb3de16e",
-        "slug": "c46b4081e50cf44b",
-        "titulo": "Exposição Pioneiros & Empreendedores abre na Escola Superior de Agricultura Luiz de Queiroz",
-        "resumo": "A Esalq inaugurou a exposição “Pioneiros & Empreendedores”, que ficará aberta ao público até 2027. Junto à mostra, a instituição lançou um livro comemorativo pelos 125 anos de existência e o Portal Luiz de Queiroz, plataforma digital de divulgação. A exposição destaca a história e o impacto dos pioneiros e empreendedores na agricultura brasileira.",
-        "porQueImporta": "A iniciativa reforça a valorização da história agrícola e amplia o acesso público ao conhecimento científico da universidade.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/institucional/exposicao-pioneiros-empreendedores-chega-a-escola-superior-de-agricultura-luiz-de-queiroz/"
-          }
-        ],
-        "updatedAt": "2026-10-08T21:07:49.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20261008_exposicao-esalq-1-1024x538.jpg"
-      },
-      {
-        "clusterId": "97bca039a8d39476",
-        "slug": "a7dc5ec86eda41dc",
-        "titulo": "Primeiro animal a produzir som voluntariamente",
-        "resumo": "Estudos indicam que o primeiro animal a emitir som de forma voluntária foi o morcego, que usa vocalizações para comunicação e navegação. A pesquisa analisou registros fósseis e comportamentos modernos, mostrando que a capacidade vocal evoluiu antes do desenvolvimento de estruturas complexas de fala. Essa descoberta ajuda a compreender a evolução da comunicação animal.",
-        "porQueImporta": "Revela como a comunicação vocal se originou na vida animal, oferecendo insights sobre a evolução da linguagem.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/coluna/oraculo/qual-foi-o-primeiro-animal-a-fazer-som-voluntariamente/"
-          }
-        ],
-        "updatedAt": "2026-10-08T21:00:37.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_492_Oraculo_primeiro_animal_a_produzir_som_voluntariamente.jpg"
-      },
-      {
-        "clusterId": "2caecda3220cac3a",
-        "slug": "2b4a55bbb28d0568",
-        "titulo": "Política para ecossistemas de inovação: elementos e dimensões estruturantes",
-        "resumo": "O artigo de Marcelo Caldeira Pedroso analisa os componentes que compõem a política de ecossistemas de inovação, destacando as dimensões estruturantes que influenciam seu funcionamento. Ele identifica fatores como infraestrutura, governança, financiamento e cultura empreendedora como essenciais para a criação e consolidação desses ecossistemas. O autor discute como políticas públicas podem ser desenhadas para apoiar a interação entre atores privados e públicos, promovendo inovação e crescimento econômico.",
-        "porQueImporta": "Entender esses elementos ajuda a formular políticas mais eficazes para fomentar inovação e desenvolvimento regional.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/articulistas/marcelo-caldeira-pedroso/politica-para-ecossistemas-de-inovacao-elementos-e-dimensoes-estruturantes/"
-          }
-        ],
-        "updatedAt": "2026-10-08T20:35:57.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2024/02/perfil_-articulistas_marcelocaldeira.jpg"
-      },
-      {
-        "clusterId": "56f6959a3f85748c",
-        "slug": "483f5e40a192bd25",
-        "titulo": "Imigração angolana para o Brasil mantém semelhança com exploração iniciada no período colonial",
-        "resumo": "Pesquisa da USP aponta que os angolanos que migram para o Brasil buscam melhores condições de saúde e educação. Apesar disso, continuam enfrentando racismo e precarização do trabalho. A situação reflete padrões históricos de exploração. O estudo destaca a persistência de desigualdades no contexto migratório.",
-        "porQueImporta": "Ilustra como a migração ainda reproduz desigualdades históricas, afetando a integração dos imigrantes.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/diversidade/imigracao-angolana-para-o-brasil-mantem-semelhanca-com-exploracao-iniciada-no-periodo-colonial/"
-          }
-        ],
-        "updatedAt": "2026-10-08T19:56:04.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20261007_feiraartes-1024x538.jpg"
-      },
-      {
-        "clusterId": "b20d5c8ffba2fc30",
-        "slug": "35b92b23c7bfc06c",
-        "titulo": "Oficina reúne estudantes para discutir o ensino jurídico",
-        "resumo": "Uma oficina foi realizada para reunir estudantes de direito e levantar demandas sobre o ensino jurídico. Os participantes discutiram propostas visando tornar o ambiente acadêmico mais inclusivo e acessível. A iniciativa busca identificar barreiras e sugerir melhorias no currículo e na infraestrutura da universidade.",
-        "porQueImporta": "A proposta pode influenciar políticas educacionais e promover maior equidade no ensino jurídico.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/oficina-reune-estudantes-para-discutir-o-ensino-juridico/"
-          }
-        ],
-        "updatedAt": "2026-10-08T19:32:26.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2024/02/20240209_fdrp-1024x538.jpg"
+        "updatedAt": "2026-10-09T07:00:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/ptCZZnQTaW2Bxjx5m-8V6UF5aJw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/r/Bwx4pjR02pUGzHMI2BEg/19135.jpg"
       }
     ],
     "saude": [
@@ -1202,303 +1135,233 @@
           }
         ],
         "updatedAt": "2026-10-07T18:00:01.000Z"
-      },
-      {
-        "clusterId": "5f2671cead50b7c8",
-        "slug": "50307f4f46184975",
-        "titulo": "Espiritualidade pode melhorar bem-estar de pacientes com doenças",
-        "resumo": "Estudos indicam que a espiritualidade, seja religiosa ou não, ajuda pacientes a encontrar sentido, esperança e apoio emocional durante diagnóstico e tratamento. Pode reduzir ansiedade, depressão, sofrimento, fadiga e percepção de dor. Contudo, o cuidado espiritual deve complementar, não substituir, a medicina tradicional.",
-        "porQueImporta": "Entender o papel da espiritualidade pode orientar práticas de apoio integradas no tratamento de doenças.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/bemestar/podcast/noticia/2026/10/07/bem-estar-371-espiritualidade-como-ela-influencia-no-tratamento-das-doencas.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-07T13:28:11.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/HHL05yzEHaC1di4rlruXwpDUQbg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/1/x/wJsKAlTgqj53gnrITItQ/captura-de-tela-2024-06-26-084704.png"
       }
     ],
     "esportes": [
       {
-        "clusterId": "e4c174e2f768a421",
-        "slug": "5ed91ca8e0efd864",
-        "titulo": "Fluminense goleia Coritiba por 4 a 0 no Maracanã",
-        "resumo": "O Fluminense venceu o Coritiba por 4 a 0 na 29ª rodada do Brasileirão, com hat-trick de Savarino e gol de Lucho Acosta nos acréscimos. O resultado elevou o Tricolor à terceira colocação, ultrapassando o Athletico. O Coritiba, que chegou a quatro jogos sem vencer, sofreu 14 gols em quatro partidas, sendo nove nas duas últimas. O técnico Fernando Seabra reconheceu a fragilidade defensiva do time.",
-        "porQueImporta": "A vitória reforça a posição do Fluminense na tabela e evidencia a crise defensiva do Coritiba.",
+        "clusterId": "3c9dad91f3fdd387",
+        "slug": "0ade45953c60bdcc",
+        "titulo": "VAR paralisa partida Santos x Flamengo por quase 10 minutos",
+        "resumo": "O VAR interrompeu o jogo por quase dez minutos para decidir a expulsão de Jorginho e a conversão de falta em pênalti, que resultou em gol de Neymar. O árbitro Anderson Daronco foi alvo de críticas por sua atuação. O Flamengo abriu 2 a 0 no primeiro tempo, mas o empate 2 a 2 foi marcado por insatisfação com a arbitragem.",
+        "porQueImporta": "O episódio destaca a influência do VAR nas decisões críticas e a repercussão entre clubes e torcedores.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/brasileirao-var-leva-quase-10-minutos-em-santos-x-flamengo-e-bate-recorde"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/as-criticas-a-arbitragem-de-anderson-daronco-em-flamengo-x-santos/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/09/revolta-do-flamengo-com-arbitragem-e-encontro-com-os-ex-do-santos-o-que-o-ge-viu-do-campo.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-09T14:45:20.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/10/jorginho-daronco-expulsao-flamengo-santos.jpg"
+      },
+      {
+        "clusterId": "22f5456ec8aa877e",
+        "slug": "ff6780eeffa06293",
+        "titulo": "Neymar marca dois gols e garante empate de 2 a 2 entre Santos e Flamengo",
+        "resumo": "Na 29ª rodada do Campeonato Brasileiro, o Santos empataram 2 a 2 com o Flamengo na Vila Belmiro, com Neymar marcando dois gols, ambos de pênalti, após sua volta de lesão. O jogo contou com discussões entre jogadores e a atuação de Neymar foi destacada em comentários de dubladores e veículos esportivos. O resultado manteve o Santos na disputa de pontos na tabela.",
+        "porQueImporta": "O desempenho de Neymar reforça sua importância no campeonato e influencia a posição do Santos na tabela.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/pr/futebol/times/coritiba/noticia/2026/10/09/seabra-admite-queda-do-coritiba-e-liga-alerta-com-alto-numero-de-gols-sofridos.ghtml"
+            "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/10/09/o-paqueta-filho-da-p-dublagem-mostra-neymar-pistola-e-clima-quente-de-santos-x-flamengo.ghtml"
           },
           {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/esporte/dois-melhores-times-do-brasil-diz-neymar-apos-empate/"
+          }
+        ],
+        "updatedAt": "2026-10-09T14:52:53.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/tMRMJ8ee1zg1ZbE0M_Wuc4bLQpk=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/U/r/hauO5uSwuqksWhzrhQTA/rib0452.jpg"
+      },
+      {
+        "clusterId": "060c16135f78aa48",
+        "slug": "20b3beab6c7454b9",
+        "titulo": "Djokovic perde posição no ranking após derrota em Xangai",
+        "resumo": "Novak Djokovic, que havia conquistado o título do ATP 500 de Pequim, foi eliminado na estreia do Masters 1000 de Xangai pelo polonês Hubert Hurkacz, em sets diretos. A derrota fez com que ele deixasse o top‑10 do ranking mundial, perdendo os 390 pontos que defendia em Xangai. A queda no ranking será refletida na próxima atualização, com probabilidade de perda de pelo menos três posições.",
+        "porQueImporta": "A saída de Djokovic do top‑10 reflete a volatilidade do ranking e a importância dos pontos de torneios de alto nível para os jogadores de elite.",
+        "category": "esportes",
+        "sources": [
+          {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/fluminense-4-x-0-coritiba-veja-os-melhores-momentos-pelo-brasileirao/"
+            "url": "https://www.cnnbrasil.com.br/esportes/tenis/djokovic-deixara-o-top-10-do-ranking-apos-queda-na-estreia-em-xangai/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/tenis/noticia/2026/10/09/djokovic-cai-na-estreia-do-masters-1000-de-xangai-e-vai-sair-do-top-10-zverev-vence-convidado-chines.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-09T14:06:32.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/cdt5Gjsk8slBQ0osqUVdF_Cn7as=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/f/j/qtf5qkSoSQx3Z1B3rgOA/2026-10-09t122044z-572622500-up1ema90yajbn-rtrmadp-3-tennis-shanghai.jpg"
+      },
+      {
+        "clusterId": "cf57f476b9eef7c0",
+        "slug": "4500fb5d1924abdc",
+        "titulo": "Filipe Luís leva Monaco a início invencível no Campeonato Francês",
+        "resumo": "O técnico brasileiro Filipe Luís comandou o Monaco para uma sequência de vitórias, mantendo o time no topo da tabela do Campeonato Francês. O jornal espanhol Marca descreveu o treinador como \"invencível\" após a vitória sobre o Lens. O Monaco ainda não sofreu derrota na temporada e continua a surpreender na Europa. Luís enfatiza a importância de focar em cada jogo individualmente.",
+        "porQueImporta": "O sucesso de Filipe Luís demonstra a capacidade de um técnico brasileiro de se destacar em competições europeias.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/jornal-espanhol-exalta-inicio-invencivel-do-tecnico-filipe-luis-no-monaco/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/09/chamado-de-invencivel-por-jornal-espanhol-filipe-luis-diz-um-jogo-de-cada-vez.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-09T13:46:49.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/LZ1a3xOxyb6qtfs5GXdYkm_Fr-A=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/K/B/W0f4znSEOUjAFn2P4tPw/sem-titulo.jpg"
+      },
+      {
+        "clusterId": "58159fecf4acd5a6",
+        "slug": "233007155f90ee16",
+        "titulo": "Fluminense goleia Coritiba com hat‑trick de Savarino",
+        "resumo": "O Fluminense venceu o Coritiba por 4 a 0 na 29ª rodada do Brasileirão, após a volta da Data Fifa. Savarino marcou três gols, recuperando o protagonismo e sendo destaque da partida. O técnico Marcão comandou o time em campo titular, apesar de ausências de jogadores como Renê. A vitória reforça a sequência de jogos do Fluminense na temporada.",
+        "porQueImporta": "A performance de Savarino demonstra a retomada de forma do time e fortalece a posição do Fluminense na tabela.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/fluminense/noticia/2026/10/09/savarino-volta-a-ser-decisivo-no-fluminense-recupera-protagonismo-e-recebe-elogios-de-marcao.ghtml"
           },
           {
             "name": "CartaCapital",
             "url": "https://www.cartacapital.com.br/esporte/com-hat-trick-de-savarino-fluminense-goleia-coritiba-no-maracana/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/com-tres-gols-de-savarino-fluminense-bate-o-coritiba-no-maracana-por-4-x-0"
           }
         ],
-        "updatedAt": "2026-10-09T04:07:03.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/9CBWI9mci-9KRZMwR2Ok7uAoNzQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/0/i/O6pRGARtmY5A7VXjVrqA/agif26100821473348.jpg"
+        "updatedAt": "2026-10-09T11:00:00.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/ylWkF-YyzrCo6g9NufHBDL6d6nw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/L/f/ccm6isRQKGoOBlk5DE7g/dur-1701.jpg"
       },
       {
-        "clusterId": "1a69bf1eb8966280",
-        "slug": "4a13d62ce1db30ee",
-        "titulo": "Palmeiras vence Bahia por 1 a 0 na 29ª rodada do Brasileirão",
-        "resumo": "O Palmeiras derrotou o Bahia por 1 a 0 no Nubank Parque, com gol de cabeça de Flaco López aos sete minutos do primeiro tempo. O triunfo mantém o Alviverde próximo à liderança, a um ponto do Flamengo. O Bahia permanece na sexta posição e continua em busca de vaga direta na Libertadores 2027.",
-        "porQueImporta": "O resultado afeta a posição na tabela e a corrida pela Libertadores.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/brasileirao-confira-os-melhores-momentos-dessa-quinta-feira-8-10"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-1-x-0-bahia-veja-os-melhores-momentos-pelo-brasileirao/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/ba/futebol/times/bahia/noticia/2026/10/09/ceni-lamenta-jogo-ruim-do-bahia-em-derrota-diante-do-palmeiras-fizemos-muito-pouco.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-09T04:39:06.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/10/santos-flamengo.jpg"
-      },
-      {
-        "clusterId": "0da802fad35b68b5",
-        "slug": "09df0eca3cf78e90",
-        "titulo": "Santos empata 2 a 2 com Flamengo na Vila Belmiro",
-        "resumo": "O Santos recuperou o empate com dois gols de pênalti de Neymar, após abrir a vantagem 2 a 0 para o Flamengo no primeiro tempo. O jogo terminou 2 a 2, com o Santos mantendo sua sequência de invencibilidade na competição. O empate deixa o Peixe na oitava colocação, a três pontos da zona de permanência na Série A.",
-        "porQueImporta": "O resultado mantém o Santos na zona de segurança do Brasileirão e destaca a performance de Neymar como decisivo no jogo.",
+        "clusterId": "7f48289c211f1c64",
+        "slug": "07249293ba072fbc",
+        "titulo": "Verstappen conquista pole da sprint no GP de Singapura",
+        "resumo": "Na sessão de classificação sprint, Max Verstappen registrou 1m31s156, garantindo a pole position. George Russell e Charles Leclerc ficaram em segundo e terceiro lugares, respectivamente. Gabriel Bortoleto ficou em 14º na grid da sprint. A corrida sprint ocorrerá no sábado de manhã, seguida pela prova principal no domingo.",
+        "porQueImporta": "Define a ordem de largada da sprint, influenciando estratégias para a corrida principal.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/brasileirao-serie-a/jogo/08-10-2026/santos-flamengo.ghtml"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/cuca-exalta-jogo-de-neymar-e-celebra-momento-do-santos-fico-muito-feliz"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/cuca-analisa-empate-do-santos-com-o-flamengo-poderia-ser-pior/"
+            "url": "https://ge.globo.com/motor/formula-1/noticia/2026/10/09/classificacao-sprint-da-f1-tem-pane-na-cronometragem-e-no-botao-de-ultrapassagem.ghtml"
           }
         ],
-        "updatedAt": "2026-10-09T02:45:32.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/10/neymar-santos-x-flamengo-2.jpg"
+        "updatedAt": "2026-10-09T14:52:53.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/3WVFJ8a8OGq6vHIwH_9ye6WfZa4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Q/C/SyKbiDRrilGxZm5BzYCQ/gettyimages-2298742264.jpg"
       },
       {
-        "clusterId": "e666a8203d73123e",
-        "slug": "beffc5bc24dda425",
-        "titulo": "Lyanco destaca altos e baixos após empate 2 a 2 com Athletico-PR",
-        "resumo": "O zagueiro Lyanco participou dos dois gols sofridos pelo Atlético-MG e marcou o gol de empate no último minuto, garantindo o 2 a 2 na Arena da Baixada. Ele descreveu a partida como uma sequência de eventos bizarros que só acontecem com ele. Lyanco expressou frustração por ter sido alvo de críticas, mas ressaltou sua contribuição decisiva no final do jogo.",
-        "porQueImporta": "O desempenho de Lyanco demonstra a importância de jogadores que, apesar de falhas, podem mudar o resultado em momentos críticos.",
+        "clusterId": "41df2d8c39a7ad83",
+        "slug": "dac7080bfaa0386d",
+        "titulo": "Atlético-GO perde para CRB e margens no G-6 encolhem",
+        "resumo": "Atlético-GO foi derrotado por 3 a 1 pelo CRB, reduzindo sua margem de segurança no G-6 da Série B. O time permanece na sexta posição com 52 pontos, enquanto o CRB ocupa a sétima com 51. A próxima partida decisiva será contra o Sport, que está na oitava posição com 50 pontos.",
+        "porQueImporta": "A derrota estreita a distância entre os clubes no G-6, aumentando a pressão para manter a classificação.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/10/08/lyanco-desabafa-sobre-lance-bizarro-e-gol-heroico-do-atletico-mg-no-fim-so-acontece-comigo.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/algumas-coisas-so-acontecem-comigo-diz-lyanco-apos-empate-do-atletico-mg/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/esporte/algumas-coisas-so-acontecem-comigo-desabafa-lyanco-do-atletico-mg-apos-empate/"
+            "url": "https://ge.globo.com/go/futebol/times/atletico-go/noticia/2026/10/09/atletico-go-ve-margem-no-g-6-encolher-e-faz-jogo-decisivo-contra-o-sport-no-accioly.ghtml"
           }
         ],
-        "updatedAt": "2026-10-09T01:30:04.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/iWUu2Ube09kuXOPgEk_O_mtCU30=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/w/d/Cb7IrhRiOSAlo8yqWjLw/agif26100822055521.jpg"
+        "updatedAt": "2026-10-09T14:37:33.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/F9UxDtS5sblDtGfUvWABFu8PtzI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/n/d/lueYPQT8K9LDBvviNHlw/55574835342-bfdf3f25ec-k.jpg"
       },
       {
-        "clusterId": "ff5355cdd50808ee",
-        "slug": "d4bf8aa440968ffe",
-        "titulo": "Athletico-PR e Atlético-MG empatam 2 a 2 no maior público da 29ª rodada",
-        "resumo": "O jogo entre Athletico-PR e Atlético-MG terminou em 2 a 2, com mais de 37 mil torcedores na Arena da Baixada, gerando renda de R$ 1,3 milhão. O empate foi marcado após a expulsão de Tomás Pérez, que abriu espaço para o Furacão, e Lyanco garantiu o empate para o Galo nos minutos finais. A partida foi a mais assistida da rodada, superando outros jogos como o de Internacional sobre Corinthians.",
-        "porQueImporta": "O resultado e a alta afluência demonstram a importância do confronto para a tabela e o interesse dos torcedores.",
+        "clusterId": "6b9501e66faefcf5",
+        "slug": "cfa787f7c5187b22",
+        "titulo": "8ª rodada da Segundona do Paraibano define vagas e rebaixamentos",
+        "resumo": "Na 8ª rodada da 2ª divisão do Campeonato Paraibano 2026, Auto Esporte-PB e Atlético de Santa Rita garantiram vaga nas semifinais, enquanto Picuiense e Femar foram rebaixados. O Cruzeiro-PB assegurou vaga nos playoffs. A rodada foi marcada por vitórias de equipes visitantes.",
+        "porQueImporta": "Define quem permanece na Segundona e quem será rebaixado, impactando a trajetória dos clubes no campeonato.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/gato-mestre/noticia/2026/10/08/athletico-pr-2-x-2-atletico-mg-tem-o-maior-publico-da-29a-rodada-do-brasileiro-veja-a-lista.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/athletico-pr-2-x-2-atletico-mg-veja-os-melhores-momentos-do-brasileirao/"
+            "url": "https://ge.globo.com/pb/futebol/paraibano-segunda-divisao/noticia/2026/10/09/rolou-na-segundona-8a-rodada-tem-dupla-rebaixada-definicoes-no-g-2-e-vitorias-de-visitantes.ghtml"
           }
         ],
-        "updatedAt": "2026-10-09T02:40:53.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/acKwYxBb4PV1kgxNY-LE6HJxY9A=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/y/r/wpraGKSNe31HjHMmJ8LQ/agif26100820244944.jpg"
-      },
-      {
-        "clusterId": "7acde31301a96f35",
-        "slug": "09ad593dc54b46f1",
-        "titulo": "Kaio Jorge publica vídeo de treino de boxe e gera reações de companheiros",
-        "resumo": "O atacante do Cruzeiro, Kaio Jorge, postou no Instagram um vídeo mostrando um treino de boxe em sua casa. A publicação recebeu comentários de colegas de equipe, torcedores e jogadores de outras equipes, muitos referindo-se ao clássico entre Cruzeiro e Atlético-MG. A menção ao clássico evocou a final do Mineiro, marcada por confusão e 23 expulsões. A postagem gerou atenção e discussões entre os fãs e a comunidade esportiva.",
-        "porQueImporta": "Ilustra a popularidade de atletas que exploram novas atividades e a influência de eventos esportivos passados nas interações online.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/cruzeiro/kaio-jorge-se-aventura-no-boxe-e-meia-reage-classicos-chegando/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2026/10/08/kaio-jorge-publica-video-de-treino-de-boxe-e-gera-reacoes-esperando-o-proximo-classico.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-09T00:11:22.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/O1ZMlqZjzpJHIVGQkY3IblU7eS4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/p/j/4a2RYHSjKq6gPnrmxhuQ/whatsapp-image-2026-10-08-at-20.44.30.jpeg"
-      },
-      {
-        "clusterId": "eb4bb1840f4cb1d5",
-        "slug": "4e7d7d808dc9e961",
-        "titulo": "Vila Nova empata em casa com o Cuiabá e perde a liderança da Série B",
-        "resumo": "O Vila Nova empatou 1 a 1 com o Cuiabá no Estádio Olímpico, no jogo equilibrado no OBA, e acabou perdendo a liderança da Série B. O resultado deixou o clube fora da zona de classificação ao G-6. O jogo foi marcado por boas chances para ambos os lados, mas nenhuma equipe conseguiu superar a outra. O Dourado continua sonhando com a permanência no G-6.",
-        "porQueImporta": "O empate alterou a posição do Vila Nova na tabela, afetando suas chances de acesso ao G-6.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/go/futebol/brasileirao-serie-b/jogo/07-10-2026/vila-nova-cuiaba.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-09T04:08:56.000Z"
-      },
-      {
-        "clusterId": "1262d0585e8e8481",
-        "slug": "0a9c125b9c9f8cc8",
-        "titulo": "CRB e Avaí vencem confrontos diretos na Série B",
-        "resumo": "CRB derrotou Atlético-GO por 3 a 1, com gols de Hereda, Lyncon e Mikael, garantindo posição próxima ao G-6. Avaí venceu Londrina por 2 a 0, com gol de Caio Suassuna e Hyan, e Pottker descontou. Ambos resultados reforçam a luta dos clubes pelo acesso à Série A.",
-        "porQueImporta": "Essas vitórias melhoram a posição dos times na tabela, aproximando-os de oportunidades de promoção ou evitando o rebaixamento.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/al/futebol/brasileirao-serie-b/jogo/07-10-2026/crb-atletico-go.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-09T04:07:07.000Z"
+        "updatedAt": "2026-10-09T14:37:25.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/HqZjDjKbQZfs7Tc_Laxot8rPHtA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/I/M/OJMRyTRjSVNLHW6vSTbg/atletico-santa-rita.jpeg"
       }
     ],
     "entretenimento": [
       {
-        "clusterId": "affefaa71d926653",
-        "slug": "711f6163de606964",
+        "clusterId": "32de7acb4fdff7aa",
+        "slug": "3cbefb61ca06fb85",
         "titulo": "Anne Carson recebe Nobel de Literatura 2026",
-        "resumo": "A escritora canadense Anne Carson, de 76 anos, foi premiada pelo Prêmio Nobel de Literatura em 2026, reconhecida por sua obra ousada e inovadora que dialoga com a tradição clássica. O anúncio foi feito pela Academia Sueca na manhã de 8 de maio, quando Carson estava na Islândia. Carson reagiu ao prêmio com surpresa, comentando que todos parecem estar loucos. Seus livros já foram publicados no Brasil desde 2017, incluindo \"O método Albertine\".",
-        "porQueImporta": "O prêmio destaca a contribuição de Carson para a literatura contemporânea e reforça a presença de mulheres na lista de laureados.",
+        "resumo": "A escritora canadense Anne Carson foi premiada com o Nobel de Literatura em 2026, reconhecida por sua obra ousada e inovadora que dialoga com a tradição clássica. A Academia Sueca destacou sua capacidade de criar novas formas literárias contemporâneas. Carson, de 76 anos, reagiu ao anúncio com surpresa, comentando que todos estão loucos. Seus livros já foram publicados no Brasil desde 2017.",
+        "porQueImporta": "O prêmio reforça a presença feminina na literatura e destaca a importância da tradição clássica na criação contemporânea.",
         "category": "entretenimento",
         "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/08/escritora-canadense-anne-carson-vence-o-premio-nobel-de-literatura.ghtml"
-          },
           {
             "name": "Super Interessante",
             "url": "https://super.abril.com.br/cultura/quem-e-anne-carson-escritora-que-venceu-o-nobel-de-literatura-de-2026/"
           },
           {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cq77pjzyejkyo?at_medium=RSS&at_campaign=rss"
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/10/08/anne-carson-reage-ao-nobel-de-literatura-loucos-acho-que-todos-estao-loucos.ghtml"
           }
         ],
-        "updatedAt": "2026-10-09T01:16:12.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/hYjHv6AXHwiCzEgkXg2O_h1aA_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/5/T4gsbbTb6zcJhuKKvI7w/globo-canal-4-20261008-2000-frame-79755.jpeg"
+        "updatedAt": "2026-10-08T22:00:21.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_nobel-literatura_site.jpg"
       },
       {
-        "clusterId": "2c1a6d8cc7a4bb04",
-        "slug": "7a0abf31b0a9dbab",
-        "titulo": "Ator CW Morgan, conhecido por 'Pânico', morre aos 72 anos",
-        "resumo": "CW Morgan, que interpretou Hank Loomis na franquia \"Pânico\", faleceu em 30 de agosto em Los Angeles. A morte foi registrada como de causas naturais, segundo a polícia local. O local do falecimento foi seu banheiro no Condado de Los Angeles. Não há informações adicionais sobre a causa da morte.",
-        "porQueImporta": "A perda de um ator reconhecido em um filme icônico do cinema americano.",
+        "clusterId": "af0dea9e76c9f12b",
+        "slug": "1de1794d312fffbc",
+        "titulo": "Ator de 'Pretty Little Liars' é agredido durante assalto em West Hollywood",
+        "resumo": "Keegan Allen, conhecido por interpretar Toby Cavanaugh, relatou em vídeo que foi assaltado por dois jovens armados com arma de fogo e faca em West Hollywood. Os assaltantes o golpearam na cabeça e exigiram seu relógio, ameaçando matá‑lo. Allen descreveu o incidente como uma experiência traumática que o fez questionar a segurança da cidade.",
+        "porQueImporta": "O caso destaca a crescente preocupação com a segurança em áreas urbanas e a vulnerabilidade de celebridades a crimes violentos.",
         "category": "entretenimento",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/10/08/cw-morgan-ator-da-franquia-panico-morre-aos-72-anos.ghtml"
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/10/09/ator-de-pretty-little-liars-e-agredido-durante-assalto-ameacaram-me-matar-por-um-relogio.ghtml"
           }
         ],
-        "updatedAt": "2026-10-08T18:57:19.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/vQfaVmaW9yjL5Fn777U4Q2jxPsM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/C/e0Vf2CSlqb0MW52gVlQQ/fotos-g1-1920-x-1080-px-2026-10-08t154057.690.png"
+        "updatedAt": "2026-10-09T12:38:40.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/QfMzaplt6WuM6udPabFYnmg4VHM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/a/CM0H1HSvyTW1A3zxqhOw/montagem-horizontal-1200px-3-.jpg"
       },
       {
-        "clusterId": "4ad1034f0069bb72",
-        "slug": "31379eca0bf9cdbb",
-        "titulo": "Renner anuncia carreira solo e projeto em homenagem a Rick após sua morte",
-        "resumo": "Após a morte de Rick, de 59 anos, em queda de helicóptero em Santa Catarina, Renner anunciou que seguirá a carreira musical com o projeto “Rick & Renner pra sempre – O legado”. O anúncio foi feito em comunicado nas redes sociais, onde Renner destacou a continuidade em nome da música e da memória de Rick. O duo teve início na década de 1980 e foi conhecido por suas colaborações no sertanejo.",
-        "porQueImporta": "O anúncio marca a continuidade da música de Rick e a preservação de seu legado no cenário sertanejo.",
+        "clusterId": "3a21d34480ae1e9e",
+        "slug": "9971850873a4d458",
+        "titulo": "Morte de Lucas Drake, conhecido como LuLu LoveBottom, ocorre em Los Angeles",
+        "resumo": "O criador de conteúdo adulto Lucas Edward Drake, popular como LuLu LoveBottom, faleceu em 7 de setembro em sua casa em Los Angeles. A polícia investigou a morte como possível suicídio, após a descoberta do corpo. Drake deixou uma mensagem de carinho em sua última publicação no Instagram. A causa exata ainda está sendo confirmada pelas autoridades.",
+        "porQueImporta": "A notícia destaca a vulnerabilidade de criadores de conteúdo adulto e a importância de discutir saúde mental na comunidade digital.",
         "category": "entretenimento",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/sertanejo/noticia/2026/10/08/apos-morte-de-rick-renner-anuncia-carreira-solo-e-projeto-em-homenagem-ao-sertanejo.ghtml"
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/10/09/causa-da-morte-de-lulu-lovebottom-criador-de-conteudo-adulto-e-revelada.ghtml"
           }
         ],
-        "updatedAt": "2026-10-08T17:40:01.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/I80bHXW6vmYRmBmN2XoOODMAbTg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/a/jnPzRoTQ6TzFyXiLjpOg/design-sem-nome-2026-09-22t120339.845.png"
+        "updatedAt": "2026-10-09T10:34:58.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/Kt7A3U-bFinrN9agY7hjzcCpPZ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/g/X00DrTQxGkiaxGkxRE2Q/fotos-g1-1920-x-1080-px-2026-09-09t173933.904.png"
       },
       {
-        "clusterId": "dddcd30d5817994b",
-        "slug": "2b7caf510533aad3",
-        "titulo": "Marjorie Estiano e Any Gabrielly comentam falhas da Justiça na série Habeas Corpus",
-        "resumo": "A atriz Marjorie Estiano e a apresentadora Any Gabrielly falaram sobre as falhas do sistema judicial retratadas na série Netflix Habeas Corpus. Elas destacaram como a narrativa pode distorcer fatos e levar a condenações injustas. Ambas ressaltaram a importância de se questionar a representação da Justiça em produções audiovisuais.",
-        "porQueImporta": "O debate evidencia a influência da mídia na percepção pública sobre o sistema judicial.",
+        "clusterId": "e3e6118e71ee2e2a",
+        "slug": "d2a2acc2de116e99",
+        "titulo": "Rochelle Jordan chega ao Brasil pela primeira vez para o Zig Festival",
+        "resumo": "A cantora canadense Rochelle Jordan realizará sua primeira apresentação no Brasil no dia 10, no Zig Festival, junto com artistas como Slayyyter e a dupla Haute & Freddy. Ela traz um repertório que mistura R&B, drum and bass, house e UK garage, apresentando músicas de alto nível. A artista destaca que fará o seu melhor para as garotas presentes no evento.",
+        "porQueImporta": "A visita de Rochelle Jordan marca a estreia internacional de uma artista que tem ganhado reconhecimento pela fusão de estilos musicais.",
         "category": "entretenimento",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2026/10/08/habeas-corpus-marjorie-estiano-e-any-gabrielly-falam-sobre-as-falhas-da-justica-na-serie.ghtml"
+            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/10/09/rochelle-jordan-fala-sobre-beyonce-liniker-e-estreia-no-brasil-vou-dar-o-meu-melhor-para-as-garotas.ghtml"
           }
         ],
-        "updatedAt": "2026-10-08T16:33:15.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/tIxEw_pRSmVivkk-8SRbuIKM3lY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/p/vcX7xqS8SMVhvaqh2FvA/habeas-corpus-n-s1-e2-00-10-20-212-1-.jpg"
+        "updatedAt": "2026-10-09T07:00:01.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/i31-1pZA-UOsXQi8o5YCI17lYss=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/N/JPtLEXSwWkRBei7LRAqA/rochelle-pressdit.jpg"
       },
       {
-        "clusterId": "5ecde8857c2e8cc9",
-        "slug": "4377551546039303",
-        "titulo": "Documentário sobre Maria Alcina estreia no Festival do Rio 2026",
-        "resumo": "O filme \"Alegria Brasil – Estrelando Maria Alcina\" foi apresentado na Mostra Retratos do Festival do Rio, em 8 e 9 de outubro. Dirigido e roteirizado por Elizabete Martins Campos, o documentário explora a trajetória da cantora, destacando sua música folião e suas emoções reveladas em depoimentos. A produção recebeu avaliação positiva, com três estrelas em cinco.",
-        "porQueImporta": "O evento destaca a importância da cultura popular brasileira e a contribuição de Maria Alcina para o cenário musical.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/10/08/alegrias-e-uivos-de-maria-alcina-se-harmonizam-em-documentario-foliao-apresentado-no-festival-do-rio-2026.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-08T14:22:03.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/6kSP--eZA35v8pK4nUqBQSnmqIo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/b/fAOuaCQqGn85MP3GmrKw/alcinafoto.jpg"
-      },
-      {
-        "clusterId": "233195323c4bb6b8",
-        "slug": "95becece65c4096a",
-        "titulo": "Chris Isaak chega ao Brasil pela primeira vez",
-        "resumo": "O cantor americano Chris Isaak realizará seu primeiro show no Brasil no festival Best of Blues and Rock, em São Paulo, no dia 21 de novembro. Ele é conhecido por sucessos como \"Wicked Game\" e planeja incluir a música em seu repertório. A apresentação marca a estreia do artista no país.",
-        "porQueImporta": "A visita de Isaak amplia a oferta de eventos internacionais de música no Brasil, atraindo fãs de rock clássico e contemporâneo.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/10/08/chris-isaak-vem-ao-brasil-pela-1a-vez-e-exalta-elvis-presley-antes-dele-nao-havia-nada.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-08T07:00:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/rpVqkQYz_aO_q8CBMiQRmGFuzEg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/q/A44KHxQcOos2hjH2KI5A/chris-isaak.jpg"
-      },
-      {
-        "clusterId": "cf1a77e5dfc37e5d",
+        "clusterId": "de500e0f2a5d198e",
         "slug": "0bbd825f0d763b85",
         "titulo": "Hope - O primeiro impacto abre com sequência de abertura considerada a melhor de 2026",
         "resumo": "O filme de Na Hong-Jin inicia com uma perseguição intensa que culmina em um ataque de criatura a um vilarejo, sendo descrito como um cartão de visitas raro e de alta qualidade. A crítica destaca que o começo forte potencializa a segunda metade do filme. A obra foi lançada no Brasil nesta quinta-feira (8).",
@@ -1507,27 +1370,59 @@
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/g1-ja-viu/noticia/2026/10/08/hope-o-primeiro-impacto-abre-mao-de-melhor-abertura-do-ano-por-ficcao-cientifica-batida-g1-ja-viu.ghtml"
+            "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/10/09/hope-o-primeiro-impacto-filme-mais-caro-da-coreia-do-sul-dividiu-o-publico-sua-estrela-se-orgulha-disso.ghtml"
           }
         ],
-        "updatedAt": "2026-10-08T07:00:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/4ZfYKQTX5iNdydtuU-Qw6BV9PMk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/m/KlHQeQSkaAa62BuBMjzQ/hope-hwang-jung-min.jpg"
+        "updatedAt": "2026-10-09T07:00:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/6IirfEJSz63ze4UekTCL_XWFM7s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/S/5wFzgITEi13DvpYKU9KA/hope-hoyeon-hwang-jung-min.jpg"
       },
       {
-        "clusterId": "decb7bf29a506e2b",
-        "slug": "beb3c33e1585ec10",
-        "titulo": "Zeca Pagodinho e Geraldo Azevedo gravam música em tributo a José Carlos Capinan",
-        "resumo": "Zeca Pagodinho e o cantor Geraldo Azevedo se encontraram no estúdio Companhia dos Técnicos, em Copacabana, para gravar a faixa “Moça bonita”, parceria de Capinan com Azevedo. A gravação faz parte de um álbum em homenagem ao poeta e compositor baiano José Carlos Capinan. O encontro foi inédito entre os dois artistas, que colaboram na produção do tributo.",
-        "porQueImporta": "O projeto reúne dois ícones da música popular brasileira para celebrar a obra de um poeta baiano, reforçando a valorização da cultura regional.",
+        "clusterId": "f56433fe6e4e5e23",
+        "slug": "ad99d25a269ecda7",
+        "titulo": "Clipes de 'Tonight, Tonight' do Smashing Pumpkins celebram 30 anos com referências a Bob Esponja e filmes mudos",
+        "resumo": "O videoclipe de 'Tonight, Tonight', lançado em 1996, faz 30 anos em 2026 e traz referências a Bob Esponja, 'Pequena Miss Sunshine', 'Mundo de Beakman' e ao curta 'Viagem à Lua' de Georges Méliès. A produção homenageia o universo dos filmes mudos e a ficção científica primitiva. O vídeo foi exibido na MTV e permanece lembrado por fãs da banda.",
+        "porQueImporta": "Mostra como a cultura pop contemporânea se inspira em obras clássicas, evidenciando a continuidade histórica da arte audiovisual.",
         "category": "entretenimento",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/10/08/zeca-pagodinho-e-geraldo-azevedo-se-encontram-em-estudio-para-celebrar-o-poeta-jose-carlos-capinan-em-album.ghtml"
+            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/10/09/tonight-tonight-30-anos-depois-clipe-tem-ligacao-com-bob-esponja-filme-mudo-e-mundo-de-beakman.ghtml"
           }
         ],
-        "updatedAt": "2026-10-08T07:00:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/j5lY-b35AQCix2ieUWidiU4SwYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/G/oqDUCfTaWgaTBuoDstHQ/zeca-geraldo-capinan-3.jpg"
+        "updatedAt": "2026-10-09T07:00:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/VGsiyLlIfMdGnE_ZkKxKCPyL1E8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/g/T8JnurTByyjQ7k4ZUSow/smashingpumpkins.jpg"
+      },
+      {
+        "clusterId": "03f7f46f94f60bb8",
+        "slug": "70890d97999a5d0c",
+        "titulo": "Ben Affleck fala sobre narrativas e política em seu novo filme",
+        "resumo": "O filme \"Sobrevivência\", dirigido e estrelado por Ben Affleck, apresenta um candidato a prefeito de Los Angeles que aparenta ter uma vida perfeita. Affleck comenta que o longa explora o hábito de contar falsas verdades e a forma como isso afeta as relações entre as pessoas. O filme estreou na última quinta-feira.",
+        "porQueImporta": "Ilustra como a mídia e a política podem manipular narrativas para influenciar a opinião pública.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/10/09/ben-affleck-reflete-sobre-narrativas-e-politica-em-novo-filme-temos-o-habito-de-contar-falsas-verdades.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-09T07:00:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/KdryBLEx5TtABxFrQj2A9wsROSs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/6/MJ8MnuRnK8ZYBmEfdUGQ/captura-de-tela-2026-10-07-144832.png"
+      },
+      {
+        "clusterId": "42e5d5479193ea5e",
+        "slug": "e32be26e15de1e02",
+        "titulo": "Giuliano Eriston apresenta gravação ao vivo de músicas do álbum 'Politonia'",
+        "resumo": "O cantor, compositor e violonista Giuliano Eriston, campeão do The Voice Brasil em 2021, lançou uma gravação ao vivo em que reinterpreta o repertório autoral do álbum 'Politonia'. A apresentação, feita com voz e violão, acompanha a capa do álbum ao vivo. O artista busca consolidar-se como intérprete de suas próprias composições, complementando seu EP 'Giuliano Eriston interpreta Sérgio Sampaio' de 2024.",
+        "porQueImporta": "A iniciativa reforça a trajetória de Eriston como artista autoral e amplia seu repertório para o público.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/10/09/giuliano-eriston-rebobina-o-repertorio-autoral-do-album-politonia-em-registro-ao-vivo-de-show-de-voz-e-violao.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-09T03:02:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/zYS94YFX1T3hiw3oX_9Mk6nm7Ds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/M/XyQ98BT0qrlEHyOD0O4g/giulianopolitoiafoto.png"
       }
     ]
   }
