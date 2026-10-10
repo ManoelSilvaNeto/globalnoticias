@@ -1,10 +1,8 @@
 {
-  "ranAt": "2026-10-09T15:01:09.818Z",
-  "editionDate": "2026-10-09",
-  "hourUtc": 15,
-  "outcome": "generated",
-  "reason": "\"Eleição, mercado e diplomacia se entrelaçam em cenário de alta volatilidade\" (4 parágrafos)",
-  "attempts": [
-    "ok (entidades fora do material toleradas: estados, unidos)"
-  ]
+  "ranAt": "2026-10-10T04:42:36.012Z",
+  "editionDate": "2026-10-10",
+  "hourUtc": 4,
+  "outcome": "skipped",
+  "reason": "fora da janela (4h < 11h UTC)",
+  "attempts": []
 }
