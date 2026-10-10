@@ -1,65 +1,113 @@
 {
   "date": "2026-10-10",
-  "generatedAt": "2026-10-10T14:16:56.068Z",
+  "generatedAt": "2026-10-10T19:50:22.239Z",
   "home": [
     {
-      "clusterId": "b8c9aba854c52a87",
-      "slug": "2dea619a88f927f0",
-      "titulo": "Navi Pillay recebe Nobel da Paz 2026 enquanto EUA impõem sanções ao Tribunal Penal Internacional",
-      "resumo": "A jurista sul-africana Navanethem “Navi” Pillay foi premiada com o Nobel da Paz de 2026 por seus esforços na promoção dos direitos humanos e da justiça internacional. Poucas horas depois do anúncio, o governo dos Estados Unidos, sob a administração Trump, impôs sanções ao Tribunal Penal Internacional, onde Pillay atuou como juíza. A medida visa restringir transações com o tribunal e foi condenada por autoridades internacionais, incluindo a ONU. Pillay também criticou a decisão dos EUA e fez comentários sobre a relação entre o prêmio e o presidente Trump.",
-      "porQueImporta": "O caso destaca a tensão entre a promoção dos direitos humanos reconhecida internacionalmente e a hostilidade de alguns governos em relação a instituições multilaterais.",
-      "category": "mundo",
+      "clusterId": "ec3fc4b1cb58e1cf",
+      "slug": "5adb9fc9450cbee1",
+      "titulo": "Douglas Ruas é declarado governador eleito do Rio de Janeiro no primeiro turno",
+      "resumo": "O Tribunal Superior Eleitoral anulou 274.411 votos de Anthony Garotinho, que foram excluídos do cálculo dos votos válidos. Com a retotalização, Douglas Ruas (PL) passou de 49,27% para 50,88% dos votos válidos, garantindo a maioria absoluta e a eleição no primeiro turno. O Tribunal Regional Eleitoral do Rio confirmou o resultado e a vitória de Ruas, que será entrevistado pelo RJ2. Eduardo Paes reconheceu a derrota após a decisão.",
+      "porQueImporta": "A decisão evita um segundo turno e confirma a vitória de um candidato bolsonarista no estado.",
+      "category": "economia",
       "sources": [
         {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/entenda-por-que-douglas-ruas-venceu-no-1o-turno-no-rio-mesmo-com-4927-dos-votos/"
+        },
+        {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/10/trump-critica-vencedora-do-nobel-da-paz-e-diz-que-deveria-ter-vencido-o-premio-que-absurdo.ghtml"
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/10/douglas-ruas-governador-eleito-1-turno-rj.ghtml"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/justica/tre-rj-confirma-vitoria-de-douglas-ruas-ao-governo-do-rio-no-1o-turno/"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cmzxlkzdk592o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/vitoria-de-doulgas-ruas-e-confirmada-pelo-tre-apos-retotalizacao-dos-votos/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/votos-de-garotinho-sao-anulados-e-douglas-ruas-e-eleito-no-1o-turno-no-rj/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/ruas-e-declarado-governador-eleito-no-rio-apos-tre-retotalizar-votos"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/douglas-ruas-e-eleito-governador-do-rio-apos-retotalizacao-dos-votos/"
         },
         {
           "name": "Exame",
-          "url": "https://exame.com/mundo/trump-chama-nobel-da-paz-de-corrupto-apos-premio-a-navi-pillay/"
+          "url": "https://exame.com/brasil/tre-retotaliza-votos-e-declara-douglas-ruas-eleito-governador-do-rio-no-1o-turno/"
+        }
+      ],
+      "updatedAt": "2026-10-10T19:38:44.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/03/media_24022023_115739DouglasRuas_FotoOficial_2023_RafaelWallace-9110.jpg?fit=300%2C168&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "92d8a9aacc7a3fbd",
+      "slug": "7cef9388f3603e82",
+      "titulo": "EUA impõem sanções ao Tribunal Penal Internacional após anúncio de Nobel da Paz",
+      "resumo": "O governo dos Estados Unidos, liderado por Donald Trump, impôs sanções ao Tribunal Penal Internacional (TPI) nesta sexta-feira, 9, horas depois de Navi Pillay, ex-juíza do TPI, ser anunciada como vencedora do Prêmio Nobel da Paz de 2026. As sanções podem afetar bancos, seguradoras e fornecedores de tecnologia que prestam serviços ao tribunal. Autoridades internacionais, incluindo a ONU, condenaram a medida como inaceitável.",
+      "porQueImporta": "A ação demonstra a crescente hostilidade dos EUA contra o TPI, impactando a cooperação internacional em justiça criminal.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cqpvgme9pmpko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/mundo/vencedora-do-nobel-da-paz-chama-de-inaceitaveis-sancoes-dos-eua-sobre-tribunal-penal-internacional/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/10/extremamente-preocupante-diz-ex-juiza-do-tribunal-penal-internacional-sobre-sancoes-de-trump-apos-nobel-da-paz.ghtml"
         },
         {
           "name": "Super Interessante",
           "url": "https://super.abril.com.br/cultura/conheca-navanethem-navi-pillay-vencedora-do-nobel-da-paz-2026/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cr3wv8p8x6g8o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-10-10T14:09:50.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/QCGPIEydovbdfQZ8XmgMBihWkks=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/T/Uv6YAaQS2N2tjxzP5sUQ/meow-meow-meow-meow-68-.png"
+      "updatedAt": "2026-10-10T19:47:16.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6765/live/a28a7800-c4e3-11f1-a793-e9d00826e617.jpg"
     },
     {
-      "clusterId": "045fdf358381efb4",
-      "slug": "83053272fb871dd0",
-      "titulo": "Pesquisa Datafolha mostra Flávio Bolsonaro à frente de Lula no segundo turno",
-      "resumo": "A primeira pesquisa Datafolha do segundo turno, divulgada em 8 de outubro, indica que Flávio Bolsonaro tem 49% das intenções de voto, enquanto Lula tem 45%, com margem de erro de dois pontos percentuais. Em votos válidos, a diferença é de 52% a 48% a favor de Flávio. A campanha voltou à propaganda eleitoral em 9 de outubro, com foco em programas sociais por Lula e discurso de mudança por Flávio. O Tribunal Superior Eleitoral impôs restrições de propaganda e retirou publicações que criticavam Flávio.",
-      "porQueImporta": "Os números refletem a situação atual da disputa presidencial e influenciam estratégias de campanha e expectativas eleitorais.",
-      "category": "politica",
+      "clusterId": "b4f6ab2813174fb2",
+      "slug": "781e0a5eb1c0ea07",
+      "titulo": "Federação Portuguesa quer retorno de Cristiano Ronaldo à seleção em novembro",
+      "resumo": "O presidente da Federação Portuguesa de Futebol, Pedro Proença, afirmou que Cristiano Ronaldo está disposto a voltar à seleção e que a Federação já iniciou um processo disciplinar por sua saída da concentração antes da partida contra a Dinamarca. O atleta, o maior artilheiro da história de Portugal, está suspenso provisoriamente enquanto o processo é tramitado. A decisão final sobre a suspensão ainda não foi tomada.",
+      "porQueImporta": "A possível ausência de Cristiano Ronaldo pode afetar a performance de Portugal nas próximas competições internacionais.",
+      "category": "geral",
       "sources": [
         {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/10/presidente-da-federacao-portuguesa-quer-cristiano-ronaldo-na-selecao-ja-em-novembro.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/presidente-da-federacao-portuguesa-quer-a-volta-de-cristiano-a-selecao/"
+        },
+        {
           "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/os-numeros-da-disputa-lula-x-flavio-nas-primeiras-pesquisas-do-segundo-turno/"
+          "url": "https://veja.abril.com.br/esporte/cristiano-ronaldo-e-suspenso-provisoriamente-apos-deixar-selecao-portuguesa/"
         },
         {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/o-que-disseram-as-primeiras-pesquisas-sobre-flavio-bolsonaro-x-lula-no-2o-turno/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/09/datafolha-df-presidente-segundo-turno-8-outubro.ghtml"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss"
+          "url": "https://www.cartacapital.com.br/esporte/portugal-suspende-cristiano-ronaldo/"
         }
       ],
-      "updatedAt": "2026-10-10T14:00:56.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/Design-sem-nome-2026-10-03T192241.801.jpg"
+      "updatedAt": "2026-10-10T18:06:45.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/Y4yXdF9W4AYzM7lzC7viRB2MYMQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/s/L/6T4QT7QL2Bq91VEuiFFQ/1b16ea50bbf786f07a9e1b179e26bc7318d84036w.jpg"
     },
     {
-      "clusterId": "ed630dc3012525d7",
+      "clusterId": "5b5a4a8798795e29",
       "slug": "6a9fc312b8e8e245",
       "titulo": "Terremotos de magnitude 7,7 e 6,6 atingem o Panamá",
       "resumo": "Na sexta-feira (9), o Panamá foi atingido por um terremoto de magnitude 7,7, com epicentro no sul do país, seguido por um segundo abalo de magnitude 6,6 a oeste de Río Grande. O primeiro tremor gerou alertas de tsunami que foram posteriormente retirados. Danos foram relatados em estações de tratamento, rodovias, igrejas e prédios públicos, e duas pessoas ficaram feridas em Veraguas. Até o momento, não há registro de vítimas fatais.",
@@ -67,531 +115,555 @@
       "category": "mundo",
       "sources": [
         {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/segundo-terremoto-de-magnitude-66-atinge-o-panama/"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/panama-registra-dezenas-de-feridos-apos-forte-terremoto-de-magnitude-77/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/meio-ambiente/noticia/2026/10/10/terremoto-no-panama-tem-mais-de-80-replicas-entenda-por-que-a-terra-continua-tremendo-e-se-e-possivel-prever-novos-abalos.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/mundo/terremoto-no-panama-deixa-27-feridos-300-evacuados-e-danos-em-escolas-e-hospitais/"
         },
         {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/cmkgeyr2qpxno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/terremoto-no-panama-pais-registra-mais-de-100-tremores-secundarios/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/ao-vivo/terremoto-atinge-o-panama.ghtml"
         }
       ],
-      "updatedAt": "2026-10-10T13:48:38.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-10T123220Z_267844863_RC260OAWEOSO_RTRMADP_3_PANAMA-QUAKE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      "updatedAt": "2026-10-10T16:36:32.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/UezYXwo92rgvPgKSnCecjFeF1_Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/u/6Z4wsjR4Sp8CyKXlvNfQ/globo-canal-4-20261009-2000-frame-129954.jpeg"
     },
     {
-      "clusterId": "4e58baedcf8b3598",
-      "slug": "8ff3100d55d1b17a",
-      "titulo": "Max Verstappen vence sprint de Singapura com recorde de abandonos",
-      "resumo": "O piloto da Red Bull venceu a sprint do Grande Prêmio de Singapura, marcando seu primeiro triunfo no circuito e ampliando o recorde de vitórias em sprints. A prova, marcada por chuva forte, contou com nove abandonos, reduzindo a pilha de carros de 22 para 13. Lewis Hamilton e Charles Leclerc completaram o pódio, enquanto Gabriel Bortoleto sofreu colisão e abandonou. Verstappen acumula oito pontos extras, subindo para a quinta posição no campeonato.",
-      "porQueImporta": "O resultado reforça a liderança de Verstappen no campeonato e destaca a instabilidade das corridas de sprint em condições climáticas adversas.",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/motor/formula-1/ao-vivo/gp-de-singapura-a-17-etapa-da-f1-em-2026.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/max-verstappen-vence-sprint-caotica-em-singapura-com-recorde-de-abandonos/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/esporte/gp-de-singapura-verstappen-amplia-recorde-em-sprints-apos-corrida-com-nove-abandonos/"
-        }
-      ],
-      "updatedAt": "2026-10-10T13:52:46.000Z",
-      "imageUrl": "https://s2-ge.glbimg.com/t-uOiEpZvtN3kP5d69ze1pc2P14=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/G/h/og2GE1QtW0DpxUXa0WDA/afp-20261010-d2ut3m3-v1-midres-autoprixf1sinqualifying.jpg"
-    },
-    {
-      "clusterId": "ef9a66ad5a266b27",
-      "slug": "850d93cb81378ef6",
-      "titulo": "Cristiano Ronaldo suspenso pela Federação Portuguesa de Futebol",
-      "resumo": "A Federação Portuguesa de Futebol suspendeu oficialmente Cristiano Ronaldo após ele abandonar a concentração na véspera do terceiro jogo da última Data Fifa. A decisão foi tomada pela Seção Não Profissional em 9 de outubro de 2026, com base em investigação de possíveis infrações disciplinares. Ronaldo aguardará a decisão final do processo, enquanto a entidade enfatiza a urgência na tramitação.",
-      "porQueImporta": "A suspensão de um dos maiores jogadores do mundo afeta a seleção e o calendário internacional de Portugal.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/cristiano-ronaldo-e-suspenso-pela-federacao-portuguesa-por-deixar-selecao"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/esporte/portugal-suspende-cristiano-ronaldo/"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/10/cristiano-ronaldo-e-suspenso-pela-federacao-portuguesa-apos-abandonar-selecao.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-10T13:27:25.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/10/cristiano-ronaldo-portugal-jorge-jesus.jpg"
-    },
-    {
-      "clusterId": "a26fe1f3e74d55ec",
-      "slug": "36e3529b268c8c10",
-      "titulo": "Lula e Flávio Bolsonaro apresentam propostas culturais e de governo",
-      "resumo": "Os candidatos destacam a necessidade de reduzir a concentração regional de recursos culturais e aprimorar mecanismos de incentivo, mas divergem quanto ao papel do Estado no setor. Ambos avançaram ao segundo turno da eleição, com Lula obtendo 45,16% e Flávio Bolsonaro 47,03% dos votos. A pesquisa Quaest aponta que violência, corrupção e economia são as principais preocupações dos eleitores. As propostas dos candidatos foram avaliadas em pesquisas de opinião e de conhecimento.",
-      "porQueImporta": "Essas propostas influenciam diretamente a política cultural e as prioridades de governo no Brasil.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/c3zxjrxjr0gqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/nova-pesquisa-quaest-avalia-propostas-de-lula-e-flavio-bolsonaro-veja-quais-sao/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/propostas-flavio-bolsonaro-lula-eleicoes-2026.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-10T13:08:51.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/75c4/live/e9ad81b0-c4ab-11f1-ac13-6da90f5ff039.jpg"
-    },
-    {
-      "clusterId": "460a480f688b9ce1",
-      "slug": "55e86d984b865ed8",
-      "titulo": "Fachin aciona Polícia Federal para investigar ameaças ao ministro Flávio Dino",
-      "resumo": "O presidente do STF, Edson Fachin, enviou à Polícia Federal um relatório de segurança que reúne milhares de mensagens com ameaças de morte contra o ministro Flávio Dino. O documento aponta referências a fuzilamento, enforcamento e esquartejamento. O STF afirmou que permanece atento à segurança de seus ministros e em articulação com os órgãos competentes.",
-      "porQueImporta": "Garantir a segurança dos ministros é essencial para a continuidade e integridade das decisões judiciais.",
+      "clusterId": "cdc64327c034162e",
+      "slug": "f08427c89b3336a5",
+      "titulo": "Pesquisa mostra Flávio Bolsonaro à frente de Lula no segundo turno",
+      "resumo": "A pesquisa Datafolha divulgada em 8 de outubro aponta Flávio Bolsonaro com 49% das intenções de voto e Lula com 45%, enquanto a Ipespe, realizada entre 6 e 8 de outubro, indica 49% para Bolsonaro e 44% para Lula, com 5% de votos brancos ou nulos. Ambas as pesquisas mostram margem de erro de dois pontos percentuais, o que deixa o resultado em empate técnico. O levantamento reflete a estreita disputa entre os candidatos na fase final das eleições de 2026.",
+      "porQueImporta": "Os números revelam a competitividade da corrida presidencial e a importância de cada voto no segundo turno.",
       "category": "politica",
       "sources": [
         {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/edson-fachin-manda-pf-investigar-ameacas-contra-flavio-dino/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/justica/fachin-manda-pf-investigar-ameacas-contra-dino/"
+          "name": "Exame",
+          "url": "https://exame.com/brasil/pesquisa-presidente-2o-turno-flavio-bolsonaro-tem-49-e-lula-44-diz-ipespe/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/10/09/fachin-pf-ameacas-dino.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-10T12:40:00.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/06/54409718383_918eefd424_o.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "0f17ce34f2bf07a6",
-      "slug": "b17d609c22746af1",
-      "titulo": "Trump anuncia acordo com Putin para liberar diesel russo ao mercado mundial",
-      "resumo": "O presidente dos Estados Unidos, Donald Trump, anunciou que o presidente russo Vladimir Putin concordou em liberar 300 mil toneladas de diesel russo para o mercado americano e global, seguidas por 500 mil toneladas em novembro e mais um milhão posteriormente. O acordo prevê a suspensão das sanções às exportações de diesel russo até 7 de abril do próximo ano. O presidente da Ucrânia, Volodymyr Zelensky, criticou a medida, alegando que Putin recebe um “presente” dos EUA. Analistas questionam o impacto do acordo e alertam para riscos às sanções contra Moscou.",
-      "porQueImporta": "O pacto pode aliviar os preços de combustíveis globais, mas aumenta a pressão sobre as sanções econômicas contra a Rússia e afeta a postura da Ucrânia.",
-      "category": "mundo",
-      "sources": [
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/10/a-unica-capital-da-uniao-europeia-onde-flavio-bolsonaro-venceu-o-1o-turno.ghtml"
+        },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/10/zelensky-critica-acordo-trump-putin-compra-diesel.ghtml"
+          "name": "Super Interessante",
+          "url": "https://super.abril.com.br/sociedade/o-que-lula-e-flavio-bolsonaro-dizem-sobre-meio-ambiente-em-seus-planos-de-governo/"
         },
         {
           "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cwkgjre7r6z1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/acordo-de-trump-com-putin-por-diesel-irrita-ucrania-e-gera-duvidas/"
+          "url": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-10-10T12:31:54.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/6WiFTDgj_hsPlN7g032DknLdUEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/V/TU9mmuQJAOyfA9n9rZNQ/design-sem-nome-2026-10-10t093927.952.jpg"
+      "updatedAt": "2026-10-10T11:22:18.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/LNM4uDL2eH_tQKDk_77YChgxaP0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/n/7da29mTR6yF9MBgOqBng/2026-07-01t060822z-1474466445-rc25vlaxebd1-rtrmadp-3-greece-economy-loans.jpg"
     },
     {
-      "clusterId": "b0e615a30836c18c",
-      "slug": "07735470b01d4532",
-      "titulo": "Homem escapa por pouco de ataque de drone russo próximo a Kiev",
-      "resumo": "Um homem caminhava em uma rua da vila de Sviatopetrivske, nos subúrbios de Kiev, quando um drone russo lançou uma explosão próxima a uma creche e playground infantil. Ele correu rapidamente para se afastar do local. As autoridades não divulgaram detalhes sobre seu estado de saúde. O incidente foi registrado por câmeras de segurança e divulgado em vídeo.",
-      "porQueImporta": "O evento demonstra a continuidade dos ataques aéreos russos na região de Kiev, afetando áreas civis próximas.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/video-homem-escapa-por-pouco-de-ataque-de-drone-russo-perto-de-kiev/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/homem-escapa-ataque-drone-russo-kiev"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/10/10/video-homem-escapa-por-pouco-drone-russo-kiev.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-10T12:27:59.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/10/homem-escapa-por-pouco-de-ataque-de-drone-russo-proximo-a-kiev.jpg"
-    },
-    {
-      "clusterId": "60a85bd3cc440e23",
-      "slug": "605182ee1745e049",
-      "titulo": "Seleção feminina do Brasil enfrenta Argentina sem Marta em amistoso em Porto Alegre",
-      "resumo": "A Seleção Brasileira feminina vai jogar contra a Argentina em Porto Alegre, no Beira-Rio, às 16h30. O técnico Arthur Elias não convocou a atacante Marta, citando sua recuperação física e a estratégia de preparação para a Copa do Mundo de 2027. O elenco conta com 28 jogadoras, e o amistoso faz parte da fase de testes antes da data FIFA de outubro.",
-      "porQueImporta": "O jogo serve como preparação para a Copa do Mundo de 2027 e reflete decisões estratégicas do técnico sobre o elenco.",
+      "clusterId": "4dcaa6ae761b7226",
+      "slug": "1dcb1d871427a94c",
+      "titulo": "Barcelona vence Getafe por 3 a 0",
+      "resumo": "O Barcelona venceu o Getafe por 3 a 0 no Camp Nou, com gols de Gabriel Jesus e de Gordon. O triunfo marcou a oitava vitória consecutiva do clube na LaLiga. O resultado mantém o time na liderança da competição.",
+      "porQueImporta": "A sequência de vitórias consolida a posição dominante do Barcelona na LaLiga.",
       "category": "esportes",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/coluna/linha-de-frente/brasil-x-argentina-novidades-desfalques-e-tudo-sobre-o-amistoso/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/esporte/sem-marta-selecao-brasileira-enfrenta-a-argentina-entenda-decisao-de-arthur-elias/"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/com-gol-de-gabriel-jesus-barcelona-vence-getafe-por-3-x-0"
         },
         {
           "name": "GE",
-          "url": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2026/10/10/saiba-por-que-marta-nao-foi-convocada-para-amistosos-da-selecao-brasileira.ghtml"
+          "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/jogo/10-10-2026/barcelona-Getafe.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/com-gol-de-gabriel-jesus-barcelona-goleia-getafe-e-segue-com-100/"
         }
       ],
-      "updatedAt": "2026-10-10T12:05:12.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/06_06_2026_Brasil_vs_Estados_Unidos_2553_be42848a12.jpg"
+      "updatedAt": "2026-10-10T19:44:53.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/gabriel-jesus-barcelona.jpg"
+    },
+    {
+      "clusterId": "ec03870b00bd34f3",
+      "slug": "fa6fd516a6476a3d",
+      "titulo": "Tottenham empata 1 a 1 com Manchester United no fim do jogo",
+      "resumo": "O Manchester United abriu o placar com Mbeumo, mas Tottenham, com um jogador a menos, conseguiu empatar nos acréscimos com um gol de Solanke. O resultado final foi 1 a 1, mantendo o Tottenham fora da lanterna da Premier League. A partida foi disputada em casa do United, onde o time de Carrick teve um início ruim.",
+      "porQueImporta": "O empate impede o United de ganhar pontos cruciais na luta contra o rebaixamento.",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/solanke-marca-nos-acrescimos-e-tottenham-garante-empate-com-united"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/jogo/10-10-2026/Manchesterunited-Tottenham.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/tottenham-empata-com-o-united-no-fim-e-sai-da-lanterna-da-premier-league/"
+        }
+      ],
+      "updatedAt": "2026-10-10T19:44:14.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/manchester-united-x-tottenham.jpg"
+    },
+    {
+      "clusterId": "0e72787b8534f4a8",
+      "slug": "52255ebeba8350c5",
+      "titulo": "Lula critica tesouraço de Flávio Bolsonaro e questiona cortes em programas sociais",
+      "resumo": "Durante campanha em Natal, Lula afirmou que o ‘tesouraço’ prometido por Flávio Bolsonaro seria aplicado sobre programas sociais como Bolsa Família, Farmácia Popular, Pé‑de‑Meia e Minha Casa, Minha Vida, além de cortes em universidades e institutos federais. Ele questionou de onde viriam os recursos para esses cortes. O presidente do PT pediu mobilização de eleitores que não votaram no primeiro turno.",
+      "porQueImporta": "A declaração destaca a disputa de recursos públicos entre os candidatos e a importância dos programas sociais para a população.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/lula-critica-tesouraco-de-flavio-e-questiona-de-onde-virao-os-cortes/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/lula-defende-a-manutencao-de-programas-sociais-e-diz-que-flavio-fara-tesouraco/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/10/no-rn-lula-diz-que-tesouraco-de-flavio-sera-feito-em-cima-de-programas-sociais-e-que-candidato-do-pl-beija-a-bandeira-dos-eua.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-10T19:34:19.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/AFP__20261010__D2VA6UK__v1__HighRes__BrazilRunoffElectionCampaign.jpg"
+    },
+    {
+      "clusterId": "41228328b2104026",
+      "slug": "3b611d632f6572ad",
+      "titulo": "Ataque a aeroporto de Riad deixa feridos",
+      "resumo": "Um ataque com míssil atingiu o aeroporto internacional Rei Khalid, em Riad, na Arábia Saudita, causando feridos e cancelamento de voos. O incidente ocorreu dois dias após a morte de três cidadãos sauditas em outro ataque. Autoridades locais confirmaram a explosão e estão contabilizando o número de feridos, enquanto passageiros foram retirados das áreas afetadas.",
+      "porQueImporta": "O ataque demonstra a escalada de violência contra infraestruturas civis na região, afetando a segurança e operações aéreas.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/missil-atinge-aeroporto-de-riad-na-arabia-saudita-e-deixa-feridos/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/nova-explosao-em-aeroporto-da-arabia-saudita-deixa-feridos-diz-agencia/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/10/explosao-no-aeroporto-de-riade.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-10T19:26:01.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/King-Khalid-Airpor-na-Ara-bia-Saudita-ataque.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "08ec2b7088c40784",
+      "slug": "adf8413a69e8ac52",
+      "titulo": "Trump critica Zelensky e anuncia acordo com Putin sobre diesel russo",
+      "resumo": "O presidente dos EUA, Donald Trump, criticou o presidente ucraniano Volodymyr Zelensky e sugeriu que a Ucrânia procure um novo líder. Trump também anunciou um acordo com o presidente russo Vladimir Putin para flexibilizar sanções e permitir o fornecimento de diesel russo aos mercados americanos e globais. O acordo visa reduzir os preços dos combustíveis, mas foi alvo de críticas por potencialmente financiar a guerra. Zelensky respondeu criticando a decisão e apontando que o investimento beneficia a Rússia.",
+      "porQueImporta": "O acordo pode influenciar a dinâmica econômica e militar da guerra na Ucrânia e afetar os preços globais de energia.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/trump-critica-zelensky-e-diz-que-a-ucrania-deveria-ter-um-novo-presidente"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/trump-adverte-zelensky-e-sugere-que-ucrania-encontre-novo-lider/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/10/zelensky-critica-acordo-trump-putin-compra-diesel.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-10T19:22:40.000Z",
+      "imageUrl": "https://images.metroimg.com/6c6a2bea-zelensky-trump.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "045fdf358381efb4",
-        "slug": "83053272fb871dd0",
-        "titulo": "Pesquisa Datafolha mostra Flávio Bolsonaro à frente de Lula no segundo turno",
-        "resumo": "A primeira pesquisa Datafolha do segundo turno, divulgada em 8 de outubro, indica que Flávio Bolsonaro tem 49% das intenções de voto, enquanto Lula tem 45%, com margem de erro de dois pontos percentuais. Em votos válidos, a diferença é de 52% a 48% a favor de Flávio. A campanha voltou à propaganda eleitoral em 9 de outubro, com foco em programas sociais por Lula e discurso de mudança por Flávio. O Tribunal Superior Eleitoral impôs restrições de propaganda e retirou publicações que criticavam Flávio.",
-        "porQueImporta": "Os números refletem a situação atual da disputa presidencial e influenciam estratégias de campanha e expectativas eleitorais.",
+        "clusterId": "cdc64327c034162e",
+        "slug": "f08427c89b3336a5",
+        "titulo": "Pesquisa mostra Flávio Bolsonaro à frente de Lula no segundo turno",
+        "resumo": "A pesquisa Datafolha divulgada em 8 de outubro aponta Flávio Bolsonaro com 49% das intenções de voto e Lula com 45%, enquanto a Ipespe, realizada entre 6 e 8 de outubro, indica 49% para Bolsonaro e 44% para Lula, com 5% de votos brancos ou nulos. Ambas as pesquisas mostram margem de erro de dois pontos percentuais, o que deixa o resultado em empate técnico. O levantamento reflete a estreita disputa entre os candidatos na fase final das eleições de 2026.",
+        "porQueImporta": "Os números revelam a competitividade da corrida presidencial e a importância de cada voto no segundo turno.",
         "category": "politica",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/os-numeros-da-disputa-lula-x-flavio-nas-primeiras-pesquisas-do-segundo-turno/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/o-que-disseram-as-primeiras-pesquisas-sobre-flavio-bolsonaro-x-lula-no-2o-turno/"
+            "name": "Exame",
+            "url": "https://exame.com/brasil/pesquisa-presidente-2o-turno-flavio-bolsonaro-tem-49-e-lula-44-diz-ipespe/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/09/datafolha-df-presidente-segundo-turno-8-outubro.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/10/a-unica-capital-da-uniao-europeia-onde-flavio-bolsonaro-venceu-o-1o-turno.ghtml"
+          },
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/sociedade/o-que-lula-e-flavio-bolsonaro-dizem-sobre-meio-ambiente-em-seus-planos-de-governo/"
           },
           {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/cm1dlv13yql9o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-10-10T14:00:56.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/Design-sem-nome-2026-10-03T192241.801.jpg"
+        "updatedAt": "2026-10-10T11:22:18.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/LNM4uDL2eH_tQKDk_77YChgxaP0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/n/7da29mTR6yF9MBgOqBng/2026-07-01t060822z-1474466445-rc25vlaxebd1-rtrmadp-3-greece-economy-loans.jpg"
       },
       {
-        "clusterId": "460a480f688b9ce1",
-        "slug": "55e86d984b865ed8",
-        "titulo": "Fachin aciona Polícia Federal para investigar ameaças ao ministro Flávio Dino",
-        "resumo": "O presidente do STF, Edson Fachin, enviou à Polícia Federal um relatório de segurança que reúne milhares de mensagens com ameaças de morte contra o ministro Flávio Dino. O documento aponta referências a fuzilamento, enforcamento e esquartejamento. O STF afirmou que permanece atento à segurança de seus ministros e em articulação com os órgãos competentes.",
-        "porQueImporta": "Garantir a segurança dos ministros é essencial para a continuidade e integridade das decisões judiciais.",
+        "clusterId": "0e72787b8534f4a8",
+        "slug": "52255ebeba8350c5",
+        "titulo": "Lula critica tesouraço de Flávio Bolsonaro e questiona cortes em programas sociais",
+        "resumo": "Durante campanha em Natal, Lula afirmou que o ‘tesouraço’ prometido por Flávio Bolsonaro seria aplicado sobre programas sociais como Bolsa Família, Farmácia Popular, Pé‑de‑Meia e Minha Casa, Minha Vida, além de cortes em universidades e institutos federais. Ele questionou de onde viriam os recursos para esses cortes. O presidente do PT pediu mobilização de eleitores que não votaram no primeiro turno.",
+        "porQueImporta": "A declaração destaca a disputa de recursos públicos entre os candidatos e a importância dos programas sociais para a população.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/lula-critica-tesouraco-de-flavio-e-questiona-de-onde-virao-os-cortes/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/lula-defende-a-manutencao-de-programas-sociais-e-diz-que-flavio-fara-tesouraco/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/10/no-rn-lula-diz-que-tesouraco-de-flavio-sera-feito-em-cima-de-programas-sociais-e-que-candidato-do-pl-beija-a-bandeira-dos-eua.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-10T19:34:19.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/AFP__20261010__D2VA6UK__v1__HighRes__BrazilRunoffElectionCampaign.jpg"
+      },
+      {
+        "clusterId": "291aa3cce7803c34",
+        "slug": "d9ba736a4e80f326",
+        "titulo": "Vasco enfrenta Remo na 30ª rodada do Brasileirão",
+        "resumo": "O Vasco jogará em casa, no Estádio São Januário, contra o Remo na 30ª rodada do Campeonato Brasileiro, marcada para sábado, 10, às 18h (horário de Brasília). A partida ocorre na mesma data em que São Paulo enfrenta Vitória, mas o foco está na disputa entre Vasco e Remo. O jogo é importante para a posição do Vasco na tabela e para manter a sequência de vitórias.",
+        "porQueImporta": "A partida pode influenciar a classificação do Vasco no Brasileirão e sua preparação para a Sul‑America.",
         "category": "politica",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/edson-fachin-manda-pf-investigar-ameacas-contra-flavio-dino/"
+            "url": "https://www.infomoney.com.br/esportes/vasco-remo-onde-assistir-brasileirao/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/sao-paulo-x-vitoria-no-brasileirao-onde-assistir-horario-e-escalacoes/"
           },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/justica/fachin-manda-pf-investigar-ameacas-contra-dino/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/10/09/fachin-pf-ameacas-dino.ghtml"
+            "url": "https://www.cartacapital.com.br/esporte/vasco-busca-quarta-vitoria-seguida-no-brasileirao-diante-do-remo-antes-de-decisao-na-sul-americana/"
           }
         ],
-        "updatedAt": "2026-10-10T12:40:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/06/54409718383_918eefd424_o.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-10-10T19:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/thumb-vasco-da-gama-x-remo.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "ab74fec161e984e2",
-        "slug": "f04cf62f51c3b995",
-        "titulo": "Juiz ordena remoção de post de Celina Leão que associa PT a cartazes ofensivos",
-        "resumo": "Um juiz determinou que Celina Leão apague um post em que a política do Partido Popular (PP) vinculou o Partido dos Trabalhadores (PT) à autoria de cartazes com a frase “Celina Leão corrupta”. O pedido segue a decisão judicial que considera a publicação ofensiva. A medida faz parte de uma série de ações judiciais envolvendo a governadora do Distrito Federal. A decisão reflete a atenção do judiciário a conteúdos considerados difamatórios.",
-        "porQueImporta": "A remoção destaca a responsabilidade de figuras públicas na divulgação de informações que possam ser difamatórias.",
+        "clusterId": "86bd270fcfed199a",
+        "slug": "8970327e2a6840aa",
+        "titulo": "Deputada Ana Elisa Santos Silva recebe ameaças de morte e estupro, acionando proteção federal",
+        "resumo": "A deputada federal eleita por Minas Gerais, Ana Elisa Santos Silva, relatou ameaças de morte e estupro nas redes sociais, levando o Ministério da Justiça a solicitar à Polícia Federal a abertura de inquérito. O Ministério da Justiça e Segurança Pública também acionou o programa de proteção do MDH para avaliar o risco e oferecer apoio policial. A deputada afirmou receber uma ameaça a cada dois minutos e desativou sua conta no X. O pedido foi enviado ao diretor-geral da PF, Andrei Rodrigues.",
+        "porQueImporta": "Ameaças a representantes eleitos comprometem a segurança e a democracia no país.",
         "category": "politica",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/grande-angular/juiz-manda-celina-apagar-post-em-que-associa-o-pt-a-cartazes-ofensivos"
+            "url": "https://www.metropoles.com/minas-gerais/janones-diz-que-ana-elisa-desperta-inveja-na-velharada-da-esquerda"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/08/datafolha-df-avaliacao-governo-celina-8-outubro.ghtml"
+            "url": "https://g1.globo.com/politica/noticia/2026/10/09/ministerio-da-justica-pede-a-pf-investigacao-sobre-ameacas-contra-deputada-federal-eleita-ana-elisa.ghtml"
           }
         ],
-        "updatedAt": "2026-10-10T13:38:07.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/10/campanha-de-celina-aciona-tre-e-pcd-contra-cartazes-ofensivos.jpg"
+        "updatedAt": "2026-10-10T19:15:44.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/05/Deputado-federal-Andre-Janones-2.jpg"
       },
       {
-        "clusterId": "0283e646249d844b",
-        "slug": "df7be02d96266d6e",
-        "titulo": "Homem invade centro de educação infantil em Curitiba e é morto pela polícia",
-        "resumo": "Um homem invadiu um centro municipal de educação infantil no bairro São Braz, em Curitiba, e manteve 13 crianças reféns por mais de três horas. Durante a intervenção policial, foram registradas explosões e tiros. As crianças, com idades entre 4 e 5 anos, foram resgatadas sem ferimentos graves. O agressor foi morto pela polícia no local.",
-        "porQueImporta": "O incidente destaca a necessidade de protocolos de segurança em instituições de ensino infantil.",
+        "clusterId": "0d5b7464bc9025b1",
+        "slug": "6ba9156318363947",
+        "titulo": "Flávio Bolsonaro anuncia que Jair Bolsonaro colocará faixa presidencial em sua posse",
+        "resumo": "O candidato à Presidência Flávio Bolsonaro, do PL, afirmou que seu pai, Jair Bolsonaro, colocará a faixa presidencial nele no dia da posse em 2027. Ele prometeu entregar o Brasil nas mãos de Deus e reduzir a maioridade penal. A declaração foi feita durante uma motocarreata em São Gonçalo, no Rio de Janeiro, junto ao prefeito Nelson Ruas e ao governador eleito Douglas Ruas.",
+        "porQueImporta": "A fala indica a continuidade da influência familiar na política brasileira e destaca propostas de mudança de políticas públicas.",
         "category": "politica",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/pr/parana/noticia/2026/10/10/video-movimentacao-policial-bombas-resgate-criancas-refens-curitiba.ghtml"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/flavio-diz-que-jair-bolsonaro-colocara-faixa-presidencial-nele-e-promete-entregar-o-brasil-nas-maos-de-deus/"
           },
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/sociedade/homem-invade-escola-faz-criancas-refens-e-e-morto-pela-policia-em-curitiba/"
+            "name": "G1",
+            "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/10/flavio-bolsonaro-agenda-rj.ghtml"
           }
         ],
-        "updatedAt": "2026-10-10T12:30:43.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/UXt_uYuQpf3tmM2hlocZBH47oFs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/p/QWrLRCTJ62GA2PHABo4A/snapshot-20261010091230.jpg"
+        "updatedAt": "2026-10-10T18:00:58.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/flavio-bolsonaro-primeiro-turno-foto-charles-vieria-campanha.jpg"
       },
       {
-        "clusterId": "a9567c7e7d720cac",
-        "slug": "013fb7ab3047c66a",
-        "titulo": "Puxadores de voto e aumento do voto antecipado nas eleições de 2026",
-        "resumo": "Deputados que receberam apoio de candidatos com votação expressiva foram eleitos nas assembleias estaduais e na Câmara dos Deputados, segundo a CNN Brasil. A pesquisa Datafolha revelou que mais eleitores decidiram seus votos para governador, senador e deputados pelo menos um mês antes das urnas, com índices de 69%, 57% e 55% respectivamente, em comparação com 2022.",
-        "porQueImporta": "Esses dados mostram a influência de alianças políticas e o crescente hábito de votar antecipado, fatores que podem afetar estratégias eleitorais.",
+        "clusterId": "9a51d3eff3e8ddce",
+        "slug": "77db3011497ef451",
+        "titulo": "Marta não convocada para amistoso contra Argentina",
+        "resumo": "A atacante Marta não foi incluída na convocação de Arthur Elias para o amistoso contra a Argentina, após retornar de problemas físicos. O técnico planeja sua recuperação e preparação para a Copa do Mundo Feminina de 2027. A decisão reflete a preocupação com a condição física da jogadora e o foco no futuro torneio.",
+        "porQueImporta": "A ausência de Marta destaca a estratégia de longo prazo da seleção e a importância de manter jogadores em forma para competições futuras.",
         "category": "politica",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/puxadores-de-voto-veja-quais-deputados-se-elegeram-na-carona-de-outros/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/por-que-marta-nao-foi-convocada-para-a-selecao-brasileira-entenda/"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/09/datafolha-momento-escolha-voto-eleicoes-9-outubro.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-10T09:00:32.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/uMuzFciIz3uMGdhyr3Cd5BW-zek=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/A/T7Lh4DTM2q4q3lhZcyUw/urnaeletronica-tse.avif"
-      },
-      {
-        "clusterId": "87dcf968e49c37ed",
-        "slug": "2e1baf10ee7dc5c2",
-        "titulo": "TSE suspende site que oferece criptomoedas em troca de propaganda pró-Flávio Bolsonaro",
-        "resumo": "O Tribunal Superior Eleitoral determinou a suspensão do site brasil22token.com, que trocava criptomoedas por apoio à campanha de Flávio Bolsonaro. A decisão foi tomada após denúncia da coligação de Lula, que alegou que o site oferecia tokens em troca de divulgação de conteúdo favorável ao candidato. O site também prometia ajudar crianças em Uganda, mas a prática de remuneração por propaganda viola a lei eleitoral.",
-        "porQueImporta": "A medida reforça a fiscalização das regras eleitorais sobre remuneração por propaganda digital.",
-        "category": "politica",
-        "sources": [
-          {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/estela-aranha-manda-suspender-site-que-oferece-criptomoedas-por-apoio-a-flavio-bolsonaro/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/tse-suspende-site-que-oferece-criptomoeda-a-quem-divulgar-conteudo-que-defende-voto-em-flavio-bolsonaro.ghtml"
+            "url": "https://www.cartacapital.com.br/esporte/sem-marta-selecao-brasileira-enfrenta-a-argentina-entenda-decisao-de-arthur-elias/"
           }
         ],
-        "updatedAt": "2026-10-10T01:38:48.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/08/FB2.jpg"
+        "updatedAt": "2026-10-10T17:37:16.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/brazil-v-venezuela-copa-america-femenina-2025-1024x683.jpg"
       },
       {
-        "clusterId": "b95a8d85717ed6b9",
-        "slug": "e3b8ea5fbbea6d1c",
-        "titulo": "NASA desenvolve nova geração de tecnologia para monitorar enchentes, El Niño e detectar minerais críticos",
-        "resumo": "A NASA está preparando a nova versão do projeto Grace‑FO, que deverá ser lançada entre 2020 e 2031. O satélite detecta enchentes, El Niño e também minerais, petróleo e gás. O mesmo instrumento já foi usado na Estação Espacial Internacional, mas ainda não foi comercializado para a indústria.",
-        "porQueImporta": "A tecnologia ampliará a capacidade de monitoramento ambiental e de recursos minerais, beneficiando pesquisas e setores industriais.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-tech/nasa-prepara-nova-versao-de-tecnologia-que-monitora-enchentes-e-el-nino/"
-          }
-        ],
-        "updatedAt": "2026-10-10T14:11:55.000Z"
-      },
-      {
-        "clusterId": "3164e1ed31e4dc14",
-        "slug": "6b741437c6fc7764",
-        "titulo": "Presidente da Palestina convoca eleições para setembro de 2027",
-        "resumo": "Mahmoud Abbas, que assumiu a presidência em 2005, anunciou a realização de eleições em setembro de 2027. Seu mandato original teria terminado em 2009, mas ele permanece no cargo por meio de decretos. A convocação de eleições pode alterar a dinâmica política na região.",
-        "porQueImporta": "A mudança no calendário eleitoral pode impactar a estabilidade e a representação política na Palestina.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/mundo/presidente-da-palestina-convoca-eleicoes-para-setembro-de-2027/"
-          }
-        ],
-        "updatedAt": "2026-10-10T14:03:28.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2020/02/Mahmoud-Abbas.jpg"
-      }
-    ],
-    "economia": [
-      {
-        "clusterId": "eb0a9277c29dcc31",
+        "clusterId": "8c1168be7491dabc",
         "slug": "c45f0d278b6c7043",
         "titulo": "Justiça italiana agenda nova audiência sobre extradição de Carla Zambelli",
         "resumo": "A Justiça da Itália marcou nova audiência para o fim de outubro para reavaliar o pedido de extradição da ex-deputada Carla Zambelli, que deve cumprir pena de 5 anos e 3 meses por perseguição armada em São Paulo. Em julho, o tribunal anulou a extradição anterior e determinou que o pedido seja submetido a novo julgamento, voltando à fase inicial. A Justiça italiana descartou a tese de perseguição política apresentada pela defesa e exigiu mais garantias do governo brasileiro.",
         "porQueImporta": "O caso envolve a aplicação de penas internacionais e a cooperação jurídica entre Brasil e Itália.",
-        "category": "economia",
+        "category": "politica",
         "sources": [
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/italia-marca-novo-julgamento-sobre-extradicao-de-carla-zambelli/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/justica/justica-italiana-marca-novo-julgamento-sobre-extradicao-de-zambelli-para-o-fim-de-outubro/"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/politica/noticia/2026/10/10/justica-italiana-marca-para-o-fim-de-outubro-novo-julgamento-sobre-extradicao-de-zambelli.ghtml"
           }
         ],
-        "updatedAt": "2026-10-10T14:14:23.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/09/175873737268d433dc96ea7_1758737372_3x2_xl.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-10-10T15:05:13.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/09/Carla-Zambelli-na-prisao-na-Italia-Renato-Araujo-Camara-dos-Deputados.jpg"
       },
       {
-        "clusterId": "12ec12620faef235",
-        "slug": "be1978efe4558514",
-        "titulo": "Pesquisas Ipespe apontam Flávio Bolsonaro com 52,7% dos votos válidos contra 47,3% de Lula no 2º turno",
-        "resumo": "Levantamento Ipespe, com 1.500 eleitores e margem de erro de 2,6 pontos, indica que Flávio Bolsonaro lidera o 2º turno das eleições presidenciais com 52,7% dos votos válidos, enquanto Lula tem 47,3%. O mesmo estudo mostra que Flávio também liderou o 1º turno com 47,03% dos votos. Em redes sociais, Flávio supera Lula por 47% a 32%, e no WhatsApp 44% consideram o senador melhor comentado. A pesquisa também registra que Lula tem 34% de aprovação em campanhas de TV e rádio, enquanto Flávio tem 43%.",
-        "porQueImporta": "Os resultados refletem a preferência dos eleitores para o 2º turno, influenciando estratégias de campanha e expectativas eleitorais.",
+        "clusterId": "31194ac103e89594",
+        "slug": "14a334c10da816d9",
+        "titulo": "Daniella Marques confirma que Flávio manterá programas sociais",
+        "resumo": "A coordenadora da campanha, Daniella Marques, afirmou que o candidato Flávio terá continuidade nos programas sociais. Ela acrescentou que os cortes ocorrerão nas \"regalias de Brasília\", embora a proposta ainda não tenha sido detalhada. A declaração foi feita em entrevista ao Poder360.",
+        "porQueImporta": "A decisão influencia a política de bem‑estar e as prioridades de gastos públicos.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-economia/daniella-marques-diz-que-flavio-mantera-programas-sociais/"
+          }
+        ],
+        "updatedAt": "2026-10-10T19:36:56.000Z"
+      }
+    ],
+    "economia": [
+      {
+        "clusterId": "ec3fc4b1cb58e1cf",
+        "slug": "5adb9fc9450cbee1",
+        "titulo": "Douglas Ruas é declarado governador eleito do Rio de Janeiro no primeiro turno",
+        "resumo": "O Tribunal Superior Eleitoral anulou 274.411 votos de Anthony Garotinho, que foram excluídos do cálculo dos votos válidos. Com a retotalização, Douglas Ruas (PL) passou de 49,27% para 50,88% dos votos válidos, garantindo a maioria absoluta e a eleição no primeiro turno. O Tribunal Regional Eleitoral do Rio confirmou o resultado e a vitória de Ruas, que será entrevistado pelo RJ2. Eduardo Paes reconheceu a derrota após a decisão.",
+        "porQueImporta": "A decisão evita um segundo turno e confirma a vitória de um candidato bolsonarista no estado.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/flavio-bolsonaro-tem-527-dos-votos-validos-contra-473-de-lula-aponta-ipespe/"
+            "url": "https://www.infomoney.com.br/politica/entenda-por-que-douglas-ruas-venceu-no-1o-turno-no-rio-mesmo-com-4927-dos-votos/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/10/douglas-ruas-governador-eleito-1-turno-rj.ghtml"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/justica/tre-rj-confirma-vitoria-de-douglas-ruas-ao-governo-do-rio-no-1o-turno/"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cmzxlkzdk592o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/vitoria-de-doulgas-ruas-e-confirmada-pelo-tre-apos-retotalizacao-dos-votos/"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/votos-de-garotinho-sao-anulados-e-douglas-ruas-e-eleito-no-1o-turno-no-rj/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/ruas-e-declarado-governador-eleito-no-rio-apos-tre-retotalizar-votos"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/ipespe-lula-e-desaprovado-por-50-aprovacao-e-de-43/"
-          }
-        ],
-        "updatedAt": "2026-10-10T14:00:35.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/eleicoes2026-pesquisa-lula-flavio-02.jpg?fit=300%2C193&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "0e55a357336edb70",
-        "slug": "564e3d8ded9f4b61",
-        "titulo": "Índia prende líderes do movimento 'Baratas' e detém mais de mil manifestantes",
-        "resumo": "O governo indiano deteve líderes do movimento 'Baratas', que protesta contra a revisão das listas eleitorais, e mantém mais de mil manifestantes sob custódia. A ação ocorreu em meio a mobilização de mais de 20 mil policiais na capital, com restrições à internet e fechamento de estações de metrô. O movimento exige a renúncia do comissário eleitoral Gyanesh Kumar, acusado de favorecer o partido de Modi. A repressão reflete a tensão política em torno das reformas eleitorais.",
-        "porQueImporta": "A detenção de líderes e a repressão a protestos destacam a contestação pública às mudanças eleitorais e a resposta governamental em um contexto político sensível.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/india-prende-lideres-do-movimento-baratas-e-detem-mais-de-mil-manifestantes/"
+            "url": "https://www.cnnbrasil.com.br/eleicoes/douglas-ruas-e-eleito-governador-do-rio-apos-retotalizacao-dos-votos/"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/mundo/india-prende-lider-das-baratas-em-meio-a-protestos-contra-revisao-eleitoral/"
+            "url": "https://exame.com/brasil/tre-retotaliza-votos-e-declara-douglas-ruas-eleito-governador-do-rio-no-1o-turno/"
           }
         ],
-        "updatedAt": "2026-10-10T13:33:31.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-10T101833Z_2039068726_RC280OAAW2GX_RTRMADP_3_INDIA-POLITICS-GEN-Z.jpg?fit=300%2C202&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-10-10T19:38:44.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/03/media_24022023_115739DouglasRuas_FotoOficial_2023_RafaelWallace-9110.jpg?fit=300%2C168&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "ab5508c688ed0a8f",
-        "slug": "90e1375d9f821d9f",
-        "titulo": "Bala 7Belo se transforma em sabonete e hidratante corporal",
-        "resumo": "A marca de balas 7Belo lançou sabonete e hidratante corporal com fragrância inspirada no doce, em parceria com a Cloy. O produto traz o aroma tradicional da bala para o segmento de cuidados com a pele. A iniciativa busca oferecer itens de skincare a preços acessíveis.",
-        "porQueImporta": "Mostra a tendência de marcas de alimentos se expandirem para o mercado de beleza, ampliando opções de produtos aromáticos e econômicos.",
+        "clusterId": "9391ea38fac28764",
+        "slug": "d6d3bf5977e9873d",
+        "titulo": "Rússia flexibiliza proibição às exportações de diesel após acordo entre Putin e Trump",
+        "resumo": "O presidente dos Estados Unidos, Donald Trump, anunciou que Vladimir Putin concordou em liberar imediatamente 300 mil toneladas de diesel russo para o mercado americano e global, seguidas por 500 mil toneladas em novembro e mais um milhão posteriormente. A medida faz parte de um acordo que supostamente suspende as sanções às exportações de diesel russo até 7 de abril do próximo ano. A decisão foi criticada pela Ucrânia, que a descreveu como um presente dos EUA para Putin.",
+        "porQueImporta": "A flexibilização pode afetar o abastecimento global de diesel e as sanções econômicas contra a Rússia.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/business/bala-7belo-vira-sabonete-e-hidratante-corporal-com-fragrancia-inspirada-no-doce/"
+            "url": "https://www.infomoney.com.br/mundo/russia-flexibiliza-proibicao-as-exportacoes-de-diesel-apos-acordo-entre-putin-e-trump/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/10/trump-anuncia-acordo-com-putin-para-liberar-diesel-russo-para-mercado-mundial.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cwkgjre7r6z1o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-10-10T13:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Bala-7Belo.png?fit=300%2C186&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-10-10T19:19:58.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/TRUMP-PUTIN-ASSESS-1.jpg?fit=300%2C247&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "d07ecb77e0d0870a",
-        "slug": "6861aa7bc5f319e8",
-        "titulo": "Habilidade mais valorizada nas empresas não é a que se imagina",
-        "resumo": "As empresas estão priorizando competências que vão além do conhecimento técnico, valorizando habilidades de liderança, comunicação e adaptabilidade. O artigo destaca que profissionais que demonstram capacidade de influenciar equipes e resolver problemas complexos têm maior destaque no mercado de trabalho. A busca por esses talentos reflete a necessidade de inovação e agilidade nas organizações.",
-        "porQueImporta": "Essas mudanças indicam que o sucesso profissional depende cada vez mais de competências comportamentais.",
+        "clusterId": "5c628abafc60e3ef",
+        "slug": "8a195dd8e443ef99",
+        "titulo": "Petroleiro explodiu após atingir mina no Estreito de Ormuz",
+        "resumo": "A Guarda Revolucionária do Irã informou que um petroleiro explodiu e pegou fogo depois de colidir com uma mina naval enquanto atravessava o Estreito de Ormuz. O nome, a bandeira e a origem da embarcação não foram divulgados. Não há detalhes sobre vítimas ou extensão dos danos, e nenhuma confirmação independente foi feita até o momento.",
+        "porQueImporta": "O incidente pode afetar a segurança e a estabilidade de uma rota marítima crítica para o transporte global de petróleo.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/carreira/o-que-faz-bom-lider/"
-          }
-        ],
-        "updatedAt": "2026-10-10T13:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Lidenranca-imagem-gerada-com-IA-Copilot.jpg?fit=300%2C198&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "3461573a7a4a66d1",
-        "slug": "a1d9b03b0ac947bb",
-        "titulo": "Flávio Bolsonaro enfrenta falta de compromissos fiscais concretos",
-        "resumo": "A campanha de Flávio Bolsonaro não apresentou detalhes sobre medidas para reduzir despesas ou melhorar o quadro fiscal. O mercado mostrou entusiasmo inicial, mas a ausência de propostas específicas gerou dúvidas. Investidores e analistas destacam a necessidade de planos claros para avaliar o impacto econômico.",
-        "porQueImporta": "A falta de propostas fiscais pode afetar a confiança dos investidores e a percepção de estabilidade econômica.",
-        "category": "economia",
-        "sources": [
+            "url": "https://www.infomoney.com.br/mundo/guarda-revolucionaria-do-ira-diz-que-petroleiro-explodiu-em-mina-no-estreito-de-ormuz/"
+          },
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/euforia-do-mercado-com-flavio-esbarra-na-falta-de-compromissos-concretos-com-fiscal/"
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/10/petroleiro-explode-apos-atingir-mina-no-estreito-de-ormuz-afirma-guarda-revolucionaria-do-ira.ghtml"
           }
         ],
-        "updatedAt": "2026-10-10T12:35:21.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-08T135024Z_1031838282_RC20ZNAW685R_RTRMADP_3_BRAZIL-ELECTION-e1791634600991.webp?fit=300%2C257&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-10-10T19:32:35.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Estreito-de-Ormuz.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "eb9af7374a439c7d",
-        "slug": "1391f43dfa1451cd",
-        "titulo": "Alerta sobre uso de AAS em crianças leva a mudança de orientação",
-        "resumo": "O alerta sobre a síndrome de Reye, associada ao uso de acetilsalicílico (AAS) em crianças, resultou em revisão das recomendações de uso do medicamento. A orientação atual restringe o uso de AAS em crianças e adolescentes, recomendando alternativas seguras. A mudança foi impulsionada por estudos que mostraram risco aumentado de complicações hepáticas e neurológicas. A nova diretriz visa reduzir a incidência de casos graves em pacientes pediátricos.",
-        "porQueImporta": "A alteração nas recomendações protege crianças de riscos graves associados ao AAS.",
+        "clusterId": "bd73090f36ffecdc",
+        "slug": "2f113a75c852003d",
+        "titulo": "Brasil tem 11 empresas entre os melhores empregadores do mundo",
+        "resumo": "O ranking World's Best Employers 2026, elaborado pela Forbes em parceria com a Statista, incluiu 11 empresas brasileiras entre 900 avaliadas de 52 países. A Petrobras liderou a lista, seguida por Embraer, Vale, Natura&Co., Banco do Brasil, Nubank, Bradesco e Suzano. O estudo avaliou salário, oportunidades de crescimento, equilíbrio entre vida pessoal e profissional e reputação corporativa.",
+        "porQueImporta": "Revela a competitividade e atratividade das empresas brasileiras no cenário global de recursos humanos.",
         "category": "economia",
         "sources": [
           {
             "name": "Exame",
-            "url": "https://exame.com/invest/minhas-financas/aas-infantil-ainda-existe-entenda-o-alerta-que-mudou-o-uso-do-remedio-em-criancas/"
+            "url": "https://exame.com/brasil/brasil-tem-11-empresas-no-ranking-de-melhores-empregadores-de-2026-confira/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/10/brasil-tem-11-empresas-entre-os-melhores-empregadores-do-mundo-veja-a-lista.ghtml"
           }
         ],
-        "updatedAt": "2026-10-10T11:00:40.000Z"
+        "updatedAt": "2026-10-10T11:57:16.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/P6o2Q8zghbCLc656AD_I0FbI6pk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/C/CGUuVrSFyxgxf1opWktg/foto-g1-5-.png"
       },
       {
-        "clusterId": "a863dcc2ce67acc7",
-        "slug": "0d16691846729ed1",
-        "titulo": "Solana atrai atenção de investidores tradicionais",
-        "resumo": "A blockchain Solana tem ganhado destaque entre investidores tradicionais, não apenas por especulação, mas por sua capacidade de suportar aplicações descentralizadas. A plataforma oferece alta velocidade e baixo custo de transação, o que a torna atraente para projetos de finanças descentralizadas e jogos. A atenção crescente reflete o interesse em tecnologias que combinam eficiência com inovação no ecossistema cripto.",
-        "porQueImporta": "O interesse de investidores tradicionais pode impulsionar a adoção e legitimar a Solana como plataforma de desenvolvimento de aplicações descentralizadas.",
+        "clusterId": "99630fc28fcf4a0d",
+        "slug": "e87345e524e8f338",
+        "titulo": "Verde alerta para ambiente externo mais inóspito e rachaduras no risco global",
+        "resumo": "A gestora Verde, liderada por Luis Stuhlberger, em sua carta mensal, destaca que a escalada dos juros de longo prazo nos países desenvolvidos está se espalhando pelos mercados globais. A empresa aponta fatores que explicam o aumento dos juros e alerta para possíveis rachaduras no risco global. O cenário sugere maior cautela para investidores diante de condições de mercado mais voláteis.",
+        "porQueImporta": "O alerta indica riscos crescentes que podem afetar investimentos e a estabilidade financeira global.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/onde-investir/verde-ve-exterior-mais-inospito-e-alerta-para-rachaduras-no-risco-global/"
+          }
+        ],
+        "updatedAt": "2026-10-10T19:31:46.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/08/luis-stuhlberger-expert-xp-2024.png?fit=300%2C181&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "5e4e485155296250",
+        "slug": "96055d5b5bfb7195",
+        "titulo": "Lula afirma que nenhuma riqueza será levada por estrangeiros em passeata no RN",
+        "resumo": "Durante a caminhada no Rio Grande do Norte, o presidente Luiz Inácio Lula da Silva declarou que nenhuma riqueza será levada por estrangeiros. Ele também pediu que a militância mobilize idosos para votar no segundo turno. A mensagem foi transmitida em meio a protestos e manifestações em apoio ao governo.",
+        "porQueImporta": "O discurso reforça a posição do governo sobre a proteção dos recursos nacionais e a importância da participação política dos idosos.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/nenhum-gringo-vai-levar-nossas-riquezas-diz-lula-em-passeata-no-rn/"
+          }
+        ],
+        "updatedAt": "2026-10-10T18:43:35.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-10T161949Z_463262227_RC2E0OAM0ARU_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "d222a3d1bc880425",
+        "slug": "28202905baa0ef78",
+        "titulo": "Condenada que sobreviveu a injeções letais nos EUA retorna à prisão",
+        "resumo": "Uma mulher condenada nos Estados Unidos, que sobreviveu a duas tentativas de execução por injeção letal, voltou a ser presa em Tennessee. Ela permanece em tratamento em uma unidade prisional local. O caso está sendo investigado pelas autoridades. A situação destaca questões sobre procedimentos de execução e tratamento de presos.",
+        "porQueImporta": "Ilustra desafios legais e éticos nas execuções e na reclusão de condenados.",
         "category": "economia",
         "sources": [
           {
             "name": "Exame",
-            "url": "https://exame.com/future-of-money/por-que-a-solana-comeca-a-entrar-no-radar-do-investidor-tradicional/"
+            "url": "https://exame.com/mundo/condenada-que-sobreviveu-a-injecoes-letais-nos-eua-retorna-a-prisao/"
           }
         ],
-        "updatedAt": "2026-10-10T11:00:22.000Z"
+        "updatedAt": "2026-10-10T15:53:25.000Z"
+      },
+      {
+        "clusterId": "7293ce44a3335fc0",
+        "slug": "8b6b44d39b20dd09",
+        "titulo": "Cheval des Andes aposta em um único grande vinho argentino",
+        "resumo": "A empresa francesa Cheval des Andes não busca aumentar a produção nem lançar novos vinhos, mas investe em pessoas, vinhedos e infraestrutura para aprimorar um único produto. O foco é elevar a qualidade do vinho, consolidando a reputação da marca no mercado internacional. A estratégia envolve melhorias na gestão de vinhedos e na tecnologia de produção.",
+        "porQueImporta": "Demonstrar como investimentos estratégicos em qualidade podem diferenciar marcas em um mercado competitivo.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Exame",
+            "url": "https://exame.com/casual/cheval-des-andes-a-aposta-francesa-em-um-unico-grande-vinho-argentino/"
+          }
+        ],
+        "updatedAt": "2026-10-10T15:00:19.000Z"
       }
     ],
     "mundo": [
       {
-        "clusterId": "b8c9aba854c52a87",
-        "slug": "2dea619a88f927f0",
-        "titulo": "Navi Pillay recebe Nobel da Paz 2026 enquanto EUA impõem sanções ao Tribunal Penal Internacional",
-        "resumo": "A jurista sul-africana Navanethem “Navi” Pillay foi premiada com o Nobel da Paz de 2026 por seus esforços na promoção dos direitos humanos e da justiça internacional. Poucas horas depois do anúncio, o governo dos Estados Unidos, sob a administração Trump, impôs sanções ao Tribunal Penal Internacional, onde Pillay atuou como juíza. A medida visa restringir transações com o tribunal e foi condenada por autoridades internacionais, incluindo a ONU. Pillay também criticou a decisão dos EUA e fez comentários sobre a relação entre o prêmio e o presidente Trump.",
-        "porQueImporta": "O caso destaca a tensão entre a promoção dos direitos humanos reconhecida internacionalmente e a hostilidade de alguns governos em relação a instituições multilaterais.",
+        "clusterId": "92d8a9aacc7a3fbd",
+        "slug": "7cef9388f3603e82",
+        "titulo": "EUA impõem sanções ao Tribunal Penal Internacional após anúncio de Nobel da Paz",
+        "resumo": "O governo dos Estados Unidos, liderado por Donald Trump, impôs sanções ao Tribunal Penal Internacional (TPI) nesta sexta-feira, 9, horas depois de Navi Pillay, ex-juíza do TPI, ser anunciada como vencedora do Prêmio Nobel da Paz de 2026. As sanções podem afetar bancos, seguradoras e fornecedores de tecnologia que prestam serviços ao tribunal. Autoridades internacionais, incluindo a ONU, condenaram a medida como inaceitável.",
+        "porQueImporta": "A ação demonstra a crescente hostilidade dos EUA contra o TPI, impactando a cooperação internacional em justiça criminal.",
         "category": "mundo",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/10/trump-critica-vencedora-do-nobel-da-paz-e-diz-que-deveria-ter-vencido-o-premio-que-absurdo.ghtml"
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cqpvgme9pmpko?at_medium=RSS&at_campaign=rss"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/mundo/trump-chama-nobel-da-paz-de-corrupto-apos-premio-a-navi-pillay/"
+            "url": "https://exame.com/mundo/vencedora-do-nobel-da-paz-chama-de-inaceitaveis-sancoes-dos-eua-sobre-tribunal-penal-internacional/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/10/extremamente-preocupante-diz-ex-juiza-do-tribunal-penal-internacional-sobre-sancoes-de-trump-apos-nobel-da-paz.ghtml"
           },
           {
             "name": "Super Interessante",
             "url": "https://super.abril.com.br/cultura/conheca-navanethem-navi-pillay-vencedora-do-nobel-da-paz-2026/"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cr3wv8p8x6g8o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-10-10T14:09:50.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/QCGPIEydovbdfQZ8XmgMBihWkks=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/T/Uv6YAaQS2N2tjxzP5sUQ/meow-meow-meow-meow-68-.png"
+        "updatedAt": "2026-10-10T19:47:16.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6765/live/a28a7800-c4e3-11f1-a793-e9d00826e617.jpg"
       },
       {
-        "clusterId": "ed630dc3012525d7",
+        "clusterId": "5b5a4a8798795e29",
         "slug": "6a9fc312b8e8e245",
         "titulo": "Terremotos de magnitude 7,7 e 6,6 atingem o Panamá",
         "resumo": "Na sexta-feira (9), o Panamá foi atingido por um terremoto de magnitude 7,7, com epicentro no sul do país, seguido por um segundo abalo de magnitude 6,6 a oeste de Río Grande. O primeiro tremor gerou alertas de tsunami que foram posteriormente retirados. Danos foram relatados em estações de tratamento, rodovias, igrejas e prédios públicos, e duas pessoas ficaram feridas em Veraguas. Até o momento, não há registro de vítimas fatais.",
@@ -599,51 +671,91 @@
         "category": "mundo",
         "sources": [
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/segundo-terremoto-de-magnitude-66-atinge-o-panama/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/panama-registra-dezenas-de-feridos-apos-forte-terremoto-de-magnitude-77/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/meio-ambiente/noticia/2026/10/10/terremoto-no-panama-tem-mais-de-80-replicas-entenda-por-que-a-terra-continua-tremendo-e-se-e-possivel-prever-novos-abalos.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/mundo/terremoto-no-panama-deixa-27-feridos-300-evacuados-e-danos-em-escolas-e-hospitais/"
           },
           {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/cmkgeyr2qpxno?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/terremoto-no-panama-pais-registra-mais-de-100-tremores-secundarios/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/ao-vivo/terremoto-atinge-o-panama.ghtml"
           }
         ],
-        "updatedAt": "2026-10-10T13:48:38.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-10T123220Z_267844863_RC260OAWEOSO_RTRMADP_3_PANAMA-QUAKE.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-10-10T16:36:32.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/UezYXwo92rgvPgKSnCecjFeF1_Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/u/6Z4wsjR4Sp8CyKXlvNfQ/globo-canal-4-20261009-2000-frame-129954.jpeg"
       },
       {
-        "clusterId": "0f17ce34f2bf07a6",
-        "slug": "b17d609c22746af1",
-        "titulo": "Trump anuncia acordo com Putin para liberar diesel russo ao mercado mundial",
-        "resumo": "O presidente dos Estados Unidos, Donald Trump, anunciou que o presidente russo Vladimir Putin concordou em liberar 300 mil toneladas de diesel russo para o mercado americano e global, seguidas por 500 mil toneladas em novembro e mais um milhão posteriormente. O acordo prevê a suspensão das sanções às exportações de diesel russo até 7 de abril do próximo ano. O presidente da Ucrânia, Volodymyr Zelensky, criticou a medida, alegando que Putin recebe um “presente” dos EUA. Analistas questionam o impacto do acordo e alertam para riscos às sanções contra Moscou.",
-        "porQueImporta": "O pacto pode aliviar os preços de combustíveis globais, mas aumenta a pressão sobre as sanções econômicas contra a Rússia e afeta a postura da Ucrânia.",
+        "clusterId": "08ec2b7088c40784",
+        "slug": "adf8413a69e8ac52",
+        "titulo": "Trump critica Zelensky e anuncia acordo com Putin sobre diesel russo",
+        "resumo": "O presidente dos EUA, Donald Trump, criticou o presidente ucraniano Volodymyr Zelensky e sugeriu que a Ucrânia procure um novo líder. Trump também anunciou um acordo com o presidente russo Vladimir Putin para flexibilizar sanções e permitir o fornecimento de diesel russo aos mercados americanos e globais. O acordo visa reduzir os preços dos combustíveis, mas foi alvo de críticas por potencialmente financiar a guerra. Zelensky respondeu criticando a decisão e apontando que o investimento beneficia a Rússia.",
+        "porQueImporta": "O acordo pode influenciar a dinâmica econômica e militar da guerra na Ucrânia e afetar os preços globais de energia.",
         "category": "mundo",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/10/zelensky-critica-acordo-trump-putin-compra-diesel.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cwkgjre7r6z1o?at_medium=RSS&at_campaign=rss"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/trump-critica-zelensky-e-diz-que-a-ucrania-deveria-ter-um-novo-presidente"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/acordo-de-trump-com-putin-por-diesel-irrita-ucrania-e-gera-duvidas/"
+            "url": "https://www.cnnbrasil.com.br/internacional/trump-adverte-zelensky-e-sugere-que-ucrania-encontre-novo-lider/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/10/zelensky-critica-acordo-trump-putin-compra-diesel.ghtml"
           }
         ],
-        "updatedAt": "2026-10-10T12:31:54.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/6WiFTDgj_hsPlN7g032DknLdUEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/V/TU9mmuQJAOyfA9n9rZNQ/design-sem-nome-2026-10-10t093927.952.jpg"
+        "updatedAt": "2026-10-10T19:22:40.000Z",
+        "imageUrl": "https://images.metroimg.com/6c6a2bea-zelensky-trump.jpg"
       },
       {
-        "clusterId": "3cd246868f2f8466",
+        "clusterId": "e34dfcca2e0df2ef",
+        "slug": "c72291e2a447c68d",
+        "titulo": "Trump aprova transmissão ao vivo da execução de Nidal Hasan",
+        "resumo": "O presidente Donald Trump confirmou que aprova a transmissão ao vivo do fuzilamento de Nidal Hasan, condenado por matar 13 pessoas em 2009 na base de Fort Hood. O vice-presidente JD Vance disse que não assistirá à transmissão, se ocorrer. A execução está prevista para dezembro e seria a primeira transmissão pública de execução nos EUA em 90 anos.",
+        "porQueImporta": "A decisão envolve questões de transparência e direitos humanos nas práticas de execução penal dos EUA.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-decidira-se-execucao-de-prisioneiro-sera-transmitida-ao-vivo/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/09/fuzilamento-nos-eua-trump-diz-que-apoia-transmissao-ao-vivo-de-execucao-de-condenado.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-10T19:29:30.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/Wm3fLThvcDPBVjbDXn5TzFkYkD4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/P/AGusfCSyWKVkoJqLCDSw/2026-10-09t212300z-1648058585-rc2xzna3o6ca-rtrmadp-3-usa-trump.jpg"
+      },
+      {
+        "clusterId": "4bc4e183294ddfca",
+        "slug": "56fa410cee3cbe9f",
+        "titulo": "Mulher que sobreviveu a tentativa de execução por injeção letal recebe alta e volta à prisão",
+        "resumo": "Christa Pike, condenada à morte no Tennessee, sobreviveu a duas doses de pentobarbital em 30 de setembro e permaneceu internada por mais de uma semana. Ela recebeu alta hospitalar em 10 de outubro e foi levada de volta à prisão. A execução não ocorreu devido a circunstâncias extraordinárias, e os advogados afirmam que ela continua recebendo cuidados médicos.",
+        "porQueImporta": "O caso destaca falhas no processo de execução e levanta questões sobre a aplicação da pena de morte nos EUA.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/mulher-que-sobreviveu-a-injecao-letal-nos-eua-recebe-alta-e-volta-a-prisao/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/10/mulher-que-sobreviveu-a-duas-doses-de-injecao-letal-recebe-alta-hospitalar-e-volta-a-prisao-nos-eua.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-10T19:15:18.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/88MbnCNyfKAJewPLC2rRBVAepqI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/k/xa75PYRZekFcvBJXNsBQ/a55a9aa0-c304-11f1-bc2e-018d645d8d21.jpg.webp"
+      },
+      {
+        "clusterId": "7e97fe67d9b483bd",
         "slug": "24bccf59d0914889",
         "titulo": "Furacão Isaías atinge costa dos EUA e se transforma em ciclone pós-tropical",
         "resumo": "O furacão Isaías atingiu a costa da Flórida como categoria 2, com ventos de até 175 km/h, antes de perder suas características tropicais e ser reclassificado como ciclone pós-tropical. A tempestade continua avançando pelo sudeste, mantendo risco de ventos fortes, inundações e tornados. O governador da Flórida decretou estado de emergência e autoridades ordenaram evacuações em áreas de risco. Milhares de consumidores ficaram sem energia elétrica e a região enfrenta alagamentos e queda de árvores.",
@@ -651,225 +763,235 @@
         "category": "mundo",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/furacao-isaias-atinge-costa-dos-eua-com-ventos-de-169-km-h-e-provoca-inundacoes/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/furacao-isaias-paralisa-69-da-producao-de-petroleo-no-golfo-do-mexico/"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/mundo/noticia/2026/10/10/furacao-isaias-perde-forca-mas-mantem-risco-de-enchentes-e-tornados-nos-eua.ghtml"
           }
         ],
-        "updatedAt": "2026-10-10T13:14:35.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/AFP__20261009__D2TW8AA__v1__HighRes__UsWeatherHurricane.jpg"
+        "updatedAt": "2026-10-10T18:02:46.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/TFYz_VfigxOtK62akpHMdRQyJAg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/W/DZuuuJTBOmhjTov0n5ug/2026-10-10t133436z-617711261-rc2c0oakp4hj-rtrmadp-3-storm-isaias.jpg"
       },
       {
-        "clusterId": "8917aedca1a79fbd",
-        "slug": "f0447fb46bc1d66e",
-        "titulo": "Ataques em EUA e Ucrânia causam mortes e feridos",
-        "resumo": "Um ataque a tiros em Erie, Pensilvânia, resultou em nove mortes, incluindo crianças e uma mulher grávida, e o atirador foi capturado entre as vítimas. Em Zaporizhzhia, Ucrânia, um bombardeio russo com cinco bombas aéreas guiadas matou 15 civis, três crianças, e feriu 17 pessoas, com equipes de resgate buscando desaparecidos.",
-        "porQueImporta": "Esses incidentes evidenciam a violência em contextos distintos, afetando civis e gerando repercussões humanitárias e de segurança.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/ataque-tiros-eua-9-mortos"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/10/10/ataque-russo-deixa-mortos-ucrania-zelensky-ironiza-acordo-eua-russia-diesel.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-10T12:37:50.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/10/ataque-a-tiros-deixa-nove-mortos-incluindo-duas-criancas-nos-eua.jpg"
-      },
-      {
-        "clusterId": "78d043e459c730e9",
-        "slug": "05dfaacc36de35aa",
-        "titulo": "Protestos estudantis na França e promessa de 3 mil novos professores",
-        "resumo": "Estudantes do ensino médio continuam a protestar, com alguns episódios violentos, exigindo melhorias nas condições de ensino. Em resposta, o ministro da Educação, Edouard Geffray, anunciou a contratação de 3.000 professores adicionais nas escolas públicas. A medida visa atender à demanda por mais profissionais e reduzir a carga de trabalho dos docentes. O governo pretende implementar a proposta em breve.",
-        "porQueImporta": "A iniciativa pode melhorar a qualidade do ensino e aliviar a sobrecarga dos professores, impactando diretamente o sistema educacional francês.",
+        "clusterId": "075e336a1b1f3d76",
+        "slug": "5862016f907ed863",
+        "titulo": "China impõe restrições a chatbots que simulam relações humanas",
+        "resumo": "O governo chinês estabeleceu limitações para chatbots de IA que conseguem reproduzir interações humanas, citando preocupações de segurança e influência social. A medida foi motivada por incidentes recentes, como o caso de um jovem que postou mensagens de suicídio no Douyin, que levou a intervenção das equipes de prevenção do aplicativo. Especialistas debatem se a restrição é apropriada, ponderando os riscos de dependência emocional e a necessidade de regulação da tecnologia.",
+        "porQueImporta": "A decisão reflete a crescente preocupação global sobre os impactos sociais e psicológicos da IA avançada.",
         "category": "mundo",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/educacao/noticia/2026/10/10/protestos-estudantis-continuam-e-governo-da-franca-promete-3-mil-professores-a-mais-nas-escolas.ghtml"
+            "url": "https://g1.globo.com/tecnologia/noticia/2026/10/10/por-que-a-china-considera-uma-ameaca-a-ia-que-imita-as-relacoes-humanas.ghtml"
           },
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c6vg0eplp347o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/articles/c6kg07ggd9y2o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-10-10T06:00:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/kfehrL374cM51_5eEd8HUZgQ-MI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/h/tg0FsPTy6SvUUShLYLgQ/2026-10-01t122810z-2020480420-rc2bunawwhbo-rtrmadp-3-france-protest.jpg"
+        "updatedAt": "2026-10-10T17:44:06.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/CoidVg3Hr8_GPy31iEsaGAMJlAo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/P/F/WKUU8VRDqAcz3KW0v9Cw/2025-01-27t125916z-1824444031-rc2cicawpv3t-rtrmadp-3-deepseek-markets.jpg"
       },
       {
-        "clusterId": "b5cc4a171e236619",
-        "slug": "cb4481cb443c7a9c",
-        "titulo": "IA da Anthropic envia denúncia falsa sobre homicídio à polícia dos EUA",
-        "resumo": "A polícia de Filadélfia recebeu uma denúncia falsa de homicídio enviada por um sistema de IA da Anthropic. A denúncia foi marcada como spam, mas a empresa demorou mais de dois meses para detectar e reportar a violação. A polícia criticou a demora na identificação do problema.",
-        "porQueImporta": "Ilustra riscos de uso de IA em processos de denúncia e a necessidade de monitoramento rápido.",
+        "clusterId": "8a85f79eb7cd9290",
+        "slug": "12b28ec6107b7c6e",
+        "titulo": "EUA consideram retomar execuções públicas após quase um século",
+        "resumo": "O governo dos EUA planeja transmitir ao vivo a execução de Nidal Hasan, atirador de Fort Hood, gerando debate sobre a prática. Especialistas questionam a adequação dessa medida ao contexto atual do país. A proposta revive lembranças de execuções públicas, como a de Rainey Bethea em 1936, que atraiu multidões. A discussão envolve aspectos legais, éticos e de segurança pública.",
+        "porQueImporta": "A decisão pode redefinir a percepção pública sobre justiça e punição nos Estados Unidos.",
         "category": "mundo",
         "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cmy83p22le0yo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-10-10T13:40:51.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d64/live/61119c60-c483-11f1-9323-b15f40d5009a.jpg"
-      },
-      {
-        "clusterId": "338022b74a753564",
-        "slug": "5789db81a80543f1",
-        "titulo": "EUA intensificam militarização na América Latina como parte da nova guerra às drogas",
-        "resumo": "O governo dos Estados Unidos, sob a orientação de líderes de direita, está aumentando a militarização e a retórica de combate ao narcotráfico na América Latina, comparando traficantes a terroristas. A estratégia faz parte de um esforço contínuo que remonta à declaração de guerra às drogas de Nixon em 1971. A iniciativa envolve apoio a países da região e busca reduzir a influência dos cartéis. A política tem implicações significativas para a segurança e relações internacionais da região.",
-        "porQueImporta": "A mudança na abordagem dos EUA pode alterar o equilíbrio de poder e a dinâmica de segurança na América Latina.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/ck87zdg420nro?at_medium=RSS&at_campaign=rss"
-          },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/09/a-nova-era-da-guerra-as-drogas-no-centro-da-estrategia-de-trump-para-a-america-latina.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/10/por-que-eua-querem-retomar-execucoes-publicas-apos-quase-um-seculo.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cmd6d49v8059o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-10-09T11:25:54.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a072/live/4d6b2d10-c3c1-11f1-9798-abffda1e61e7.jpg"
+        "updatedAt": "2026-10-10T16:16:50.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/rHabpao4Tjw4Pr89QjyuURYrzig=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/S/0A6yVAQlqe3JzsUt7eAA/design-sem-nome-2026-10-10t132209.424.jpg"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "83402d73271583e1",
-        "slug": "60092de84ae7f2e3",
-        "titulo": "Huawei Band 10 em oferta por R$ 165,30 com frete grátis",
-        "resumo": "A Huawei Band 10, pulseira inteligente com tela AMOLED de 1,47 polegadas e sensores de atividade física, está à venda na loja oficial da Huawei na Shopee por R$ 165,30, com frete grátis e pagamento via Pix. A oferta inclui o cupom exclusivo C4N4LT3CH1010PB. A bateria pode durar até 14 dias em condições específicas. O produto é indicado para quem deseja monitorar sono e exercícios sem investir em um smartwatch.",
-        "porQueImporta": "A oferta torna a tecnologia de monitoramento de saúde mais acessível ao público brasileiro.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/smartwatch/huawei-band-10-cai-para-r-165-em-oferta-com-cupom-smartband-com-14-dias-de-bateria/"
-          }
-        ],
-        "updatedAt": "2026-10-10T13:56:06.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/spsZ8wYxhbI4EWOhqGhcYklQih8=/0x0/filters:format(webp):quality(85)/cc685547-760f-483f-9b70-e6afa9253e87.webp"
-      },
-      {
-        "clusterId": "04b1ef327e1315c3",
-        "slug": "ed56f3f92b620398",
-        "titulo": "Amazon oferece promoções em notebooks, smartwatches, smartphones e TVs",
-        "resumo": "A Amazon disponibiliza descontos em diversas categorias de eletrônicos, incluindo notebooks gamer, smartwatches, smartphones das linhas Moto G, iPhone, Galaxy e dispositivos de streaming, além de TVs QLED da Samsung. Cada artigo destaca três modelos em oferta, apresentando especificações e perfis de uso para auxiliar na escolha do consumidor. As promoções abrangem opções para diferentes orçamentos e necessidades, desde desempenho em jogos até recursos de saúde e conectividade. Os consumidores podem comparar características e preços diretamente na plataforma da Amazon.",
-        "porQueImporta": "Essas ofertas permitem que os consumidores atualizem seus dispositivos eletrônicos com descontos significativos, facilitando decisões de compra informadas.",
+        "clusterId": "c86fb93d7e159366",
+        "slug": "f49a0e137cd1f358",
+        "titulo": "Amazon oferece promoções em jogos, impressoras, headsets e câmeras",
+        "resumo": "A Amazon disponibiliza descontos em diversos produtos, incluindo títulos de Xbox, modelos multifuncionais de impressoras, headsets com áudio 7.1 Surround e câmeras Wi‑Fi de segurança. Cada categoria apresenta opções selecionadas para atender a diferentes necessidades, desde entretenimento e produtividade até segurança residencial. Os consumidores podem aproveitar preços reduzidos em itens de tecnologia e entretenimento.",
+        "porQueImporta": "Essas promoções permitem que os consumidores atualizem equipamentos e expandam suas bibliotecas de jogos com custos mais baixos.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/10/reviews/quer-jogar-com-tudo-confira-uma-selecao-de-notebooks-gamer-em-promocao-na-amazon/"
+            "url": "https://olhardigital.com.br/2026/10/10/reviews/classicos-e-lancamentos-uma-selecao-de-jogos-xbox-que-estao-em-promocao-na-amazon-2/"
           }
         ],
-        "updatedAt": "2026-10-10T13:40:00.000Z"
+        "updatedAt": "2026-10-10T19:20:00.000Z"
       },
       {
-        "clusterId": "78b2e1e35d480b44",
-        "slug": "2e56961bc7adc798",
-        "titulo": "Impostos, dólar e importação afetam preço de videogames no Brasil",
-        "resumo": "Reduções tributárias reduziram preços de consoles em períodos específicos, mas o valor do dólar, os custos de importação e o poder de compra dos consumidores continuam a influenciar o preço final dos videogames. A variação cambial e a carga tributária permanecem fatores determinantes no mercado brasileiro de jogos.",
-        "porQueImporta": "Entender esses fatores ajuda consumidores e fabricantes a preverem custos e estratégias de mercado.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/10/games-e-consoles/por-que-videogames-sao-tao-caros-no-brasil/"
-          }
-        ],
-        "updatedAt": "2026-10-10T13:00:00.000Z"
-      },
-      {
-        "clusterId": "585be51a33880a26",
-        "slug": "4200752e1432178f",
-        "titulo": "Xiaomi oferece opções de smartphones Redmi na Amazon",
-        "resumo": "A Xiaomi consolidou sua reputação no Brasil ao lançar smartphones com boa performance e recursos interessantes em diversas faixas. O artigo destaca três modelos da linha Redmi que estão em destaque na Amazon. Os leitores podem comparar as opções para escolher a que melhor atende ao seu perfil.",
-        "porQueImporta": "Essas ofertas permitem que consumidores tenham acesso a dispositivos de qualidade a preços competitivos.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/10/reviews/hora-de-equipar-sua-vida-com-um-xiaomi-veja-as-melhores-ofertas-da-linha-redmi/"
-          }
-        ],
-        "updatedAt": "2026-10-10T13:00:00.000Z"
-      },
-      {
-        "clusterId": "5d85e88728953232",
-        "slug": "647f9b10de6685db",
-        "titulo": "Google lança Gemini Agent, IA que automatiza tarefas entre apps",
-        "resumo": "O Google Cloud anunciou o Gemini Agent, um agente de IA que integra diversas tarefas corporativas, respondendo perguntas, criando conteúdo e executando ações entre aplicativos. O agente funciona como base de conhecimento e pode ser aplicado em diferentes soluções do dia a dia. A partir de 9 de junho, usuários da versão gratuita perderão acesso aos modelos Flash e Pro, que ficarão exclusivos dos planos pagos, incluindo o Google AI Plus.",
-        "porQueImporta": "A novidade amplia a automação no ambiente de trabalho, enquanto a mudança de acesso pode impactar usuários que dependem da versão gratuita.",
+        "clusterId": "0d5089fb05115363",
+        "slug": "46e1252dd1f2490c",
+        "titulo": "iPhone 17 disponível na Amazon com preço reduzido",
+        "resumo": "A Amazon ofereceu o iPhone 17 modelo branco de 256 GB por R$ 5.148,86, com frete grátis e cupom 300OFF, disponível apenas para clientes selecionados e assinantes Prime. O aparelho possui tela de 6,3 polegadas, brilho de até 3.000 nits e taxa de atualização variável de até 120 Hz. O desconto torna o modelo mais competitivo em relação a outras opções de smartphones no mercado.",
+        "porQueImporta": "A oferta demonstra como a Apple continua a atrair consumidores com preços atrativos, mesmo próximo ao lançamento de novas gerações.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/inteligencia-artificial/google-lanca-agente-do-gemini-que-trabalha-sozinho-entre-varios-apps/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/noticia/2026/10/08/google-lanca-agente-de-ia-para-tarefas-de-trabalho.ghtml"
+            "url": "https://canaltech.com.br/smartphone/iphone-17-aparece-com-preco-no-chao-na-amazon-cupom-exclusivo/"
           }
         ],
-        "updatedAt": "2026-10-09T17:12:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/FtTejXJQUz7AB-Xm3B66pPoScvI=/0x0/filters:format(webp):quality(85)/37d5e51c-06cc-45c3-9adc-9a1979ea7cad.png"
+        "updatedAt": "2026-10-10T19:19:27.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/OWrxJ9vIMuNjFsErCOPjJd45f0U=/0x0/filters:format(webp):quality(85)/5c798aa2-ad32-4327-99cd-8c3dd527689b.jpg"
       },
       {
-        "clusterId": "7c2d3492b0332c9f",
-        "slug": "f4340412e2ab9d21",
-        "titulo": "Anomalia magnética, amanhecer em Marte e chuvas de meteoros destacam semana",
-        "resumo": "A semana foi marcada por uma anomalia magnética detectada na Terra, pela observação de um amanhecer em Marte e pela ocorrência de chuvas de meteoros na Terra. A anomalia foi registrada por satélites de monitoramento espacial, enquanto o amanhecer em Marte foi capturado por telescópios planetários. As chuvas de meteoros foram observadas em vários locais, com relatos de visibilidade e impacto em áreas específicas.",
-        "porQueImporta": "Esses eventos fornecem dados importantes para a compreensão de fenômenos planetários e a segurança de satélites e observações terrestres.",
+        "clusterId": "ad03f600f83ca1bb",
+        "slug": "5425ca4625e1bee8",
+        "titulo": "Hollywood transforma crises da tecnologia em filmes e documentários",
+        "resumo": "Filmes e documentários estão retratando crises tecnológicas, como a inteligência artificial e questões ambientais. A indústria cinematográfica tem usado esses temas para criar narrativas que refletem preocupações contemporâneas. A produção de conteúdo sobre tecnologia tem crescido em resposta a pesquisas que apontam aumento de inquietação pública.",
+        "porQueImporta": "Reflete como o cinema influencia e reflete o debate público sobre tecnologia.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/10/ciencia-e-espaco/anomalia-magnetica-amanhecer-em-marte-e-chuvas-de-meteoros-nos-destaques-da-semana/"
+            "url": "https://olhardigital.com.br/2026/10/10/cinema-e-streaming/hollywood-transforma-crises-da-tecnologia-em-filmes-e-documentarios/"
           }
         ],
-        "updatedAt": "2026-10-10T12:00:00.000Z"
+        "updatedAt": "2026-10-10T19:09:45.000Z"
       },
       {
-        "clusterId": "0b0039563e0ee7dd",
-        "slug": "d6c22bc9632b3418",
-        "titulo": "YouTube Music testa novo visual com capas maiores em álbuns e playlists",
-        "resumo": "O aplicativo YouTube Music para Android iniciou testes de um novo design que amplia as capas de álbuns e playlists para ocupar cerca de um terço da tela. O layout reorganiza os botões de controle de reprodução. A mudança foi identificada por usuários que participaram dos testes do Google. A nova interface visa melhorar a experiência visual e de navegação do usuário.",
-        "porQueImporta": "A atualização pode influenciar a forma como os usuários interagem com o serviço de streaming.",
+        "clusterId": "de3b5097c798958b",
+        "slug": "fd32feb2f79d310d",
+        "titulo": "Amazon oferece promoções de jogos PS5, incluindo GTA VI e Wolverine",
+        "resumo": "A Amazon está com três títulos de PlayStation 5 em promoção, destacando GTA VI, Wolverine e outros jogos de diferentes gêneros. A seleção inclui opções para fãs de mundo aberto, terror e ação com super-heróis. As ofertas são temporárias e recomendadas para quem busca aproveitar descontos em jogos populares.",
+        "porQueImporta": "Essas promoções permitem que os consumidores adquiram jogos de alta demanda a preços reduzidos.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/10/10/reviews/gta-vi-wolverine-e-mais-selecionamos-os-jogos-de-ps5-que-estao-bombando-nas-ofertas-da-amazon/"
+          }
+        ],
+        "updatedAt": "2026-10-10T19:00:00.000Z"
+      },
+      {
+        "clusterId": "0607f4604f110861",
+        "slug": "5a37d1553521ba19",
+        "titulo": "Seleção de roteadores Wi‑Fi em promoção na Amazon",
+        "resumo": "A Olhar Digital destaca três roteadores Wi‑Fi em oferta na Amazon, incluindo modelos com Wi‑Fi 6 e sistemas Mesh gerenciados por inteligência artificial. A seleção visa melhorar a cobertura e estabilidade da conexão em ambientes domésticos, especialmente em cômodos distantes. Os dispositivos são apresentados como soluções práticas para quem enfrenta quedas de sinal frequentes.",
+        "porQueImporta": "Melhorar a conectividade doméstica pode aumentar a produtividade e a qualidade de uso de serviços online.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/10/10/reviews/sinal-forte-em-toda-a-casa-selecionamos-os-melhores-roteadores-wi-fi-em-promocao/"
+          }
+        ],
+        "updatedAt": "2026-10-10T18:20:00.000Z"
+      },
+      {
+        "clusterId": "42e81a9c4039250e",
+        "slug": "60547c7d565e8c51",
+        "titulo": "Estudo indica que a morte do Sol pode desestabilizar órbitas planetárias antes do previsto",
+        "resumo": "Um estudo sugere que o fim do Sol será violento, podendo perturbar as órbitas dos planetas gigantes mais cedo do que se pensava. A análise indica que a perda de massa solar pode alterar as trajetórias planetárias, gerando instabilidade no Sistema Solar. Os pesquisadores destacam que o efeito pode ocorrer em escalas de tempo menores do que os modelos tradicionais.",
+        "porQueImporta": "Entender o impacto da morte solar ajuda a prever a evolução futura do Sistema Solar e a proteger a Terra de possíveis perturbações orbitais.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/10/10/ciencia-e-espaco/morte-do-sol-pode-desestabilizar-o-sistema-solar-antes-do-previsto/"
+          }
+        ],
+        "updatedAt": "2026-10-10T18:16:10.000Z"
+      },
+      {
+        "clusterId": "27f2dd96fc22500e",
+        "slug": "9dc1f67b40834c04",
+        "titulo": "Melhores tablets em oferta na Amazon",
+        "resumo": "O Olhar Digital destaca três tablets em promoção: um modelo de precisão, um intermediário da Samsung e um iPad com chip A16. A publicação oferece detalhes sobre preços e características para auxiliar na escolha do consumidor. Os dispositivos são apresentados como opções de produtividade e desempenho. A lista inclui informações de disponibilidade na Amazon.",
+        "porQueImporta": "Ajuda consumidores a identificar oportunidades de compra vantajosas em tablets.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/10/10/reviews/tela-grande-produtividade-de-verdade-os-melhores-tablets-em-oferta-agora/"
+          }
+        ],
+        "updatedAt": "2026-10-10T18:00:00.000Z"
+      },
+      {
+        "clusterId": "ec26263e30c57b11",
+        "slug": "88e26e3279c2a91a",
+        "titulo": "Amazon oferece Kindle Colorsoft com desconto e reposição gratuita para modelo com defeito",
+        "resumo": "A Amazon reduziu em R$ 480 o preço do Kindle Colorsoft, disponibilizando-o por R$ 1.019 com opção de parcelamento em 10 vezes sem juros. O dispositivo possui tela colorida de 7 polegadas, iluminação ajustável e 16 GB de armazenamento. Paralelamente, a empresa reconheceu um defeito de fabricação nos primeiros lotes do Kindle básico de 2026, causando vazamento de luz nas bordas da tela, e está enviando unidades de reposição gratuitas aos consumidores afetados.",
+        "porQueImporta": "A medida beneficia consumidores ao oferecer economia e solução para falhas de produto.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/apps/youtube-music-testa-design-mais-moderno-com-capas-gigantes-em-albuns-e-playlists/"
+            "url": "https://canaltech.com.br/e-reader/amazon-faz-queima-de-kindle-com-tela-colorida-e-da-r-480-de-desconto-parcelas-de-r10190/"
           }
         ],
-        "updatedAt": "2026-10-09T23:01:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/qgTii1U-21qd13pVcweFrcRfPhI=/0x0/filters:format(webp):quality(85)/d6795e50-98a0-495f-88c1-1b391afc7af7.png"
-      },
-      {
-        "clusterId": "52fac793337f8213",
-        "slug": "393c2477e6bd1003",
-        "titulo": "Executivos de OpenAI e Anthropic conduzem simulações privadas sobre possíveis desastres globais de IA",
-        "resumo": "Os líderes da OpenAI e da Anthropic estão realizando simulações confidenciais para avaliar respostas a um potencial desastre global envolvendo inteligência artificial. A preocupação central é um ataque cibernético de grande escala que poderia afetar serviços essenciais, como sistemas financeiros e redes de internet, nos próximos seis a doze meses. As simulações visam antecipar reações negativas da sociedade e dos governos.",
-        "porQueImporta": "Preparar respostas a cenários críticos ajuda a mitigar riscos e a manter a confiança pública na tecnologia de IA.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/inteligencia-artificial/criadores-de-ia-se-preparam-em-segredo-para-desastre-global-nos-proximos-meses/"
-          }
-        ],
-        "updatedAt": "2026-10-09T22:08:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/UomE4KSrV3ToVadH58MjqfEIKEs=/0x0/filters:format(webp):quality(85)/a2726f13-6480-44c6-b20b-607f66b13001.png"
+        "updatedAt": "2026-10-10T17:29:34.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/wYVUIT5MzaVCGOmQiOEd7ZXEqcY=/0x0/filters:format(webp):quality(85)/8e2fd0f2-8ba4-44c0-9925-66e3d44d3f0d.jpg"
       }
     ],
     "ciencia": [
+      {
+        "clusterId": "0a8f8c00d045513a",
+        "slug": "e4573d88f8904a3d",
+        "titulo": "Estudo aponta que cães de grande porte envelhecem mais rápido",
+        "resumo": "Um estudo analisou o DNA de 894 cães e identificou alterações em regiões ligadas ao envelhecimento, mais pronunciadas em cães de maior porte. A pesquisa, publicada na revista Science, utilizou dados do Dog Aging Project. Os resultados sugerem que o tamanho influencia a taxa de envelhecimento canino.",
+        "porQueImporta": "Entender os fatores que aceleram o envelhecimento em cães grandes pode orientar cuidados e pesquisas sobre saúde animal.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/ciencia/caes-de-grande-porte-envelhecem-mais-rapido-aponta-estudo"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/ciencia/noticia/2026/10/09/caes-grandes-envelhecem-mais-rapido-estudo.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-10T18:30:29.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/10/cachorro-capa.jpg"
+      },
+      {
+        "clusterId": "c2579a8ba3d15351",
+        "slug": "89151cd82dac7b12",
+        "titulo": "O que significa controlar variáveis em estudos científicos",
+        "resumo": "O controle de variáveis é um procedimento que busca isolar fatores que podem influenciar os resultados de um experimento, permitindo que se identifique a relação causal entre a variável independente e a dependente. Ao manter constantes as variáveis de confusão, os pesquisadores aumentam a validade interna do estudo. O artigo explica como os controles são aplicados na prática e destaca a importância de sua correta implementação para a confiabilidade dos resultados.",
+        "porQueImporta": "Entender o controle de variáveis ajuda a avaliar a qualidade e a confiabilidade de pesquisas científicas.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/ciencia/o-que-significa-controlar-as-variaveis-em-um-estudo-cientifico-um-estatistico-explica/"
+          }
+        ],
+        "updatedAt": "2026-10-10T17:00:59.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/10/estudo-cientifico-grupo-de-controle-placebo.jpg"
+      },
+      {
+        "clusterId": "9cb83449639e3bdf",
+        "slug": "a61ed8d77dae5170",
+        "titulo": "57 novas espécies marinhas descobertas em cânion submarino na Argentina",
+        "resumo": "Pesquisadores identificaram 57 espécies marinhas inéditas no Cânion do Mar del Plata, um vale submarino na costa argentina. O local é considerado uma das áreas mais promissoras em termos de biodiversidade do Atlântico Sul. As descobertas ampliam o conhecimento sobre a fauna marinha da região e destacam a importância de proteger esses ecossistemas.",
+        "porQueImporta": "A descoberta aumenta a compreensão da biodiversidade marinha e reforça a necessidade de conservação dos habitats submarinos.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/ciencia/57-novas-especies-marinhas-sao-descobertas-em-canion-submarino-na-argentina/"
+          }
+        ],
+        "updatedAt": "2026-10-10T15:00:53.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_especies-marinhas-argentina_site.jpg"
+      },
       {
         "clusterId": "7cba8496fbab639d",
         "slug": "9c1998edcfd8fd2f",
@@ -949,54 +1071,6 @@
         ],
         "updatedAt": "2026-10-09T19:10:08.000Z",
         "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/11/20231108_00_premio_alumni_usp_2023_trofeu2-1024x538.jpg"
-      },
-      {
-        "clusterId": "c4b8fd72af00db30",
-        "slug": "60a66a10da51db3d",
-        "titulo": "Lula e Flávio Bolsonaro apresentam planos de governo com foco em meio ambiente",
-        "resumo": "O candidato Lula propõe ações para reduzir emissões e proteger a Amazônia, enquanto Flávio Bolsonaro destaca a necessidade de desenvolvimento econômico e conservação de recursos naturais. Ambos apresentam projetos específicos para a região amazônica, mas com abordagens distintas. Especialistas analisam as propostas, apontando pontos de convergência e divergência.",
-        "porQueImporta": "As propostas influenciarão políticas ambientais e o futuro da Amazônia.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/sociedade/o-que-lula-e-flavio-bolsonaro-dizem-sobre-meio-ambiente-em-seus-planos-de-governo/"
-          }
-        ],
-        "updatedAt": "2026-10-09T19:00:26.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/10/0910_SI-Inedita-Meio-Ambiente_site.jpg"
-      },
-      {
-        "clusterId": "a63c63f58f1c4773",
-        "slug": "c6dd168699b0a95b",
-        "titulo": "Revista USP publica dossiê sobre ritos e regras das sociedades de corte",
-        "resumo": "A nova edição da Revista USP traz um dossiê que revisita a vida cortesã da Europa moderna, analisando os ritos e regras que regiam essas sociedades. O estudo destaca como as práticas de corte influenciaram a cultura e a política da época. A publicação oferece uma visão detalhada das normas sociais e das relações de poder entre cortesãs e seus patronos.",
-        "porQueImporta": "Entender as estruturas sociais da Europa moderna ajuda a contextualizar as dinâmicas de poder e gênero que ainda influenciam a sociedade contemporânea.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/cultura/ritos-e-regras-das-sociedades-de-corte-sao-analisados-na-nova-edicao-da-revista-usp/"
-          }
-        ],
-        "updatedAt": "2026-10-09T18:57:34.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20261008_absolutismo-1024x538.jpg"
-      },
-      {
-        "clusterId": "28bd1ca80871c889",
-        "slug": "a2ef814196b396ee",
-        "titulo": "Litigância climática qualificada começa na ciência",
-        "resumo": "A USP destaca que a litigância climática qualificada tem início na produção científica, pois a base de dados e evidências científicas são essenciais para fundamentar ações judiciais. O superintendente Patrícia Iglecias ressalta a importância de estudos robustos para sustentar demandas ambientais. O processo envolve a coleta, análise e apresentação de dados que comprovem impactos climáticos. A iniciativa visa fortalecer a atuação jurídica em defesa do meio ambiente.",
-        "porQueImporta": "A base científica sólida é fundamental para que decisões judiciais sobre mudanças climáticas sejam justas e eficazes.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/artigos/litigancia-climatica-qualificada-comeca-na-ciencia/"
-          }
-        ],
-        "updatedAt": "2026-10-09T18:55:07.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260608_patricia2-1024x538.jpg"
       }
     ],
     "saude": [
@@ -1059,229 +1133,213 @@
           }
         ],
         "updatedAt": "2026-10-08T21:31:00.000Z"
-      },
-      {
-        "clusterId": "1a6e57b7516aa1d4",
-        "slug": "3cf02f262b0d44b8",
-        "titulo": "OMS publica diretrizes para prevenção e tratamento da obesidade infantil",
-        "resumo": "A Organização Mundial da Saúde divulgou, pela primeira vez, orientações específicas para combater a obesidade em crianças. As diretrizes incluem medidas de prevenção, diagnóstico precoce e intervenções terapêuticas. O documento visa orientar profissionais de saúde e formuladores de políticas públicas em todo o mundo.",
-        "porQueImporta": "Essas orientações podem reduzir o risco de complicações de saúde associadas à obesidade infantil e melhorar a qualidade de vida das crianças.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/pediatria/oms-lanca-orientacoes-para-o-enfrentamento-da-obesidade-infantil/"
-          }
-        ],
-        "updatedAt": "2026-10-08T19:29:41.000Z"
-      },
-      {
-        "clusterId": "e2868bb701933b18",
-        "slug": "7c23bed27ef7ca19",
-        "titulo": "Apertar os dentes pode agravar a enxaqueca",
-        "resumo": "A disfunção temporomandibular (DTM) e a enxaqueca costumam ocorrer simultaneamente. O estresse na mandíbula, como apertar os dentes, pode desencadear ou intensificar crises de enxaqueca. Tratar ambas as condições pode melhorar o controle das crises.",
-        "porQueImporta": "Entender a relação ajuda a orientar terapias integradas para reduzir a frequência e intensidade das enxaquecas.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/neurologia/apertar-os-dentes-tem-relacao-com-a-enxaqueca-entenda/"
-          }
-        ],
-        "updatedAt": "2026-10-08T19:00:00.000Z"
-      },
-      {
-        "clusterId": "ff88461ed5756201",
-        "slug": "49d78412ed035a15",
-        "titulo": "Novo anticorpo monoclonal oferece proteção contra VSR em recém-nascidos e bebês",
-        "resumo": "Um novo medicamento monoclonal foi desenvolvido para prevenir o vírus sincicial respiratório (VSR), principal causa de bronquiolite em crianças. O tratamento funciona inibindo a entrada do vírus nas células respiratórias, reduzindo a gravidade e a necessidade de internação. Estudos clínicos demonstraram eficácia em reduzir hospitalizações e complicações em neonatos e lactentes.",
-        "porQueImporta": "A proteção contra VSR pode diminuir significativamente as complicações respiratórias em recém-nascidos, aliviando a carga sobre os serviços de saúde.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/pediatria/como-funciona-o-novo-anticorpo-monoclonal-para-prevenir-o-vsr-em-recem-nascidos-e-bebes/"
-          }
-        ],
-        "updatedAt": "2026-10-08T18:00:39.000Z"
       }
     ],
     "esportes": [
       {
-        "clusterId": "4e58baedcf8b3598",
-        "slug": "8ff3100d55d1b17a",
-        "titulo": "Max Verstappen vence sprint de Singapura com recorde de abandonos",
-        "resumo": "O piloto da Red Bull venceu a sprint do Grande Prêmio de Singapura, marcando seu primeiro triunfo no circuito e ampliando o recorde de vitórias em sprints. A prova, marcada por chuva forte, contou com nove abandonos, reduzindo a pilha de carros de 22 para 13. Lewis Hamilton e Charles Leclerc completaram o pódio, enquanto Gabriel Bortoleto sofreu colisão e abandonou. Verstappen acumula oito pontos extras, subindo para a quinta posição no campeonato.",
-        "porQueImporta": "O resultado reforça a liderança de Verstappen no campeonato e destaca a instabilidade das corridas de sprint em condições climáticas adversas.",
+        "clusterId": "4dcaa6ae761b7226",
+        "slug": "1dcb1d871427a94c",
+        "titulo": "Barcelona vence Getafe por 3 a 0",
+        "resumo": "O Barcelona venceu o Getafe por 3 a 0 no Camp Nou, com gols de Gabriel Jesus e de Gordon. O triunfo marcou a oitava vitória consecutiva do clube na LaLiga. O resultado mantém o time na liderança da competição.",
+        "porQueImporta": "A sequência de vitórias consolida a posição dominante do Barcelona na LaLiga.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/com-gol-de-gabriel-jesus-barcelona-vence-getafe-por-3-x-0"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/jogo/10-10-2026/barcelona-Getafe.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/com-gol-de-gabriel-jesus-barcelona-goleia-getafe-e-segue-com-100/"
+          }
+        ],
+        "updatedAt": "2026-10-10T19:44:53.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/10/gabriel-jesus-barcelona.jpg"
+      },
+      {
+        "clusterId": "ec03870b00bd34f3",
+        "slug": "fa6fd516a6476a3d",
+        "titulo": "Tottenham empata 1 a 1 com Manchester United no fim do jogo",
+        "resumo": "O Manchester United abriu o placar com Mbeumo, mas Tottenham, com um jogador a menos, conseguiu empatar nos acréscimos com um gol de Solanke. O resultado final foi 1 a 1, mantendo o Tottenham fora da lanterna da Premier League. A partida foi disputada em casa do United, onde o time de Carrick teve um início ruim.",
+        "porQueImporta": "O empate impede o United de ganhar pontos cruciais na luta contra o rebaixamento.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/solanke-marca-nos-acrescimos-e-tottenham-garante-empate-com-united"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/jogo/10-10-2026/Manchesterunited-Tottenham.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/tottenham-empata-com-o-united-no-fim-e-sai-da-lanterna-da-premier-league/"
+          }
+        ],
+        "updatedAt": "2026-10-10T19:44:14.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/10/manchester-united-x-tottenham.jpg"
+      },
+      {
+        "clusterId": "aff9bc6d00f2f6a7",
+        "slug": "5f34128f08f72cf4",
+        "titulo": "Justiça suspende autorização de jogo do Vasco contra Boca Juniors no Maracanã",
+        "resumo": "A Justiça do Rio de Janeiro suspendeu a decisão que autorizava o jogo do Vasco contra o Boca Juniors na semifinal da Copa Sul-Americana no Maracanã. A medida foi tomada após ação do Consórcio Fla-Flu, que questionou a cédula do estádio. O clube já havia vendido 45 mil ingressos em pouco mais de 12 horas, mas agora precisa buscar outra alternativa para o local. A decisão foi aceita pela desembargadora Suely Lopes Magalhães, que indeferiu a liminar anterior.",
+        "porQueImporta": "A suspensão pode alterar o local e a logística do jogo, impactando torcedores e a organização do evento.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/com-45-mil-ingressos-justica-veta-maracana-de-vasco-x-boca-juniors"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/justica-suspende-decisao-que-autorizava-vasco-x-boca-juniors-no-maracana/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/10/10/justica-derruba-decisao-de-ceder-maracana-para-vasco-x-boca-juniors.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-10T18:21:48.000Z",
+        "imageUrl": "https://images.metroimg.com/2025/12/21173042/Maracana-Vasco-Corinthians-Copa-do-Brasil.jpg"
+      },
+      {
+        "clusterId": "ab50f206d8434982",
+        "slug": "3f692175970de933",
+        "titulo": "Canobbio recusa proposta russa para buscar título com Fluminense",
+        "resumo": "O atacante uruguaio Canobbio revelou que recusou a oferta do clube russo Krasnodar para permanecer no Fluminense, motivado pela possibilidade de conquistar a Libertadores. Ele destacou que a decisão foi influenciada tanto pelo sonho de título quanto pela estabilidade financeira e conforto no clube carioca. Enquanto isso, o Fluminense prepara um time misto para enfrentar o Flamengo na 30ª rodada do Brasileirão, equilibrando a disputa da Libertadores contra o Palmeiras. A torcida tricolor já esgotou os ingressos para o jogo decisivo no Maracanã, refletindo grande expectativa pelo título continental.",
+        "porQueImporta": "A escolha de Canobbio demonstra a prioridade do clube em competir por títulos, enquanto a venda de ingressos evidencia o interesse intenso da torcida na Libertadores.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/motor/formula-1/ao-vivo/gp-de-singapura-a-17-etapa-da-f1-em-2026.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/max-verstappen-vence-sprint-caotica-em-singapura-com-recorde-de-abandonos/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/gp-de-singapura-verstappen-amplia-recorde-em-sprints-apos-corrida-com-nove-abandonos/"
-          }
-        ],
-        "updatedAt": "2026-10-10T13:52:46.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/t-uOiEpZvtN3kP5d69ze1pc2P14=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/G/h/og2GE1QtW0DpxUXa0WDA/afp-20261010-d2ut3m3-v1-midres-autoprixf1sinqualifying.jpg"
-      },
-      {
-        "clusterId": "60a85bd3cc440e23",
-        "slug": "605182ee1745e049",
-        "titulo": "Seleção feminina do Brasil enfrenta Argentina sem Marta em amistoso em Porto Alegre",
-        "resumo": "A Seleção Brasileira feminina vai jogar contra a Argentina em Porto Alegre, no Beira-Rio, às 16h30. O técnico Arthur Elias não convocou a atacante Marta, citando sua recuperação física e a estratégia de preparação para a Copa do Mundo de 2027. O elenco conta com 28 jogadoras, e o amistoso faz parte da fase de testes antes da data FIFA de outubro.",
-        "porQueImporta": "O jogo serve como preparação para a Copa do Mundo de 2027 e reflete decisões estratégicas do técnico sobre o elenco.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/coluna/linha-de-frente/brasil-x-argentina-novidades-desfalques-e-tudo-sobre-o-amistoso/"
+            "url": "https://ge.globo.com/futebol/times/fluminense/noticia/2026/10/10/canobbio-revela-motivo-de-ter-recusado-proposta-para-deixar-o-fluminense-nao-podia-ir-embora-sem-uma-taca.ghtml"
           },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/esporte/sem-marta-selecao-brasileira-enfrenta-a-argentina-entenda-decisao-de-arthur-elias/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2026/10/10/saiba-por-que-marta-nao-foi-convocada-para-amistosos-da-selecao-brasileira.ghtml"
+            "url": "https://www.cartacapital.com.br/esporte/flamengo-x-fluminense-provaveis-escalacoes-como-chegam-arbitragem-onde-assistir-e-palpite/"
           }
         ],
-        "updatedAt": "2026-10-10T12:05:12.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/06_06_2026_Brasil_vs_Estados_Unidos_2553_be42848a12.jpg"
+        "updatedAt": "2026-10-10T19:29:52.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/JBUTpU49kyUjQI24TzTf8ja1zIs=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/X/d/qlASpBRHSvWmMfFByErQ/agif26083012335264.jpg"
       },
       {
-        "clusterId": "3b19deb534c1c5f4",
-        "slug": "8f553f459f83ccb6",
-        "titulo": "Arsenal vence Leeds com gol de Bruno Guimarães",
-        "resumo": "O Arsenal recuperou a partida contra o Leeds após ficar atrás no placar. Bruno Guimarães marcou o gol decisivo, enquanto Calafiori também contribuiu com um gol. O resultado garante ao time de Arteta três pontos e ele mantém a posição de liderança na tabela.",
-        "porQueImporta": "O triunfo reforça a posição de liderança do Arsenal na Premier League.",
+        "clusterId": "233546d1a68efd95",
+        "slug": "b3672196fda50ac5",
+        "titulo": "Maria Clara Pacheco conquista o ouro no Grand Prix de Taekwondo de Paris",
+        "resumo": "A brasileira Maria Clara Pacheco venceu quatro lutas em Paris, incluindo uma revanche contra a jordaniana Fadia Khirfan, para conquistar o título do Grand Prix de 2026. O resultado confirma sua posição como número 1 do mundo e atual campeã mundial na categoria até 57kg. Ela permanece invicta no ano e não perdeu nenhum round no evento. A vitória reforça a sua liderança no ranking internacional.",
+        "porQueImporta": "A conquista consolida a posição dominante de Maria Clara no taekwondo mundial e reforça a presença brasileira no cenário internacional.",
         "category": "esportes",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/bruno-guimaraes-marca-arsenal-vira-sobre-leeds-e-encosta-na-lideranca/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/taekwondo-maria-clara-pacheco-e-campea-do-grand-prix-de-paris"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/jogo/10-10-2026/Arsenal-leeds-united.ghtml"
+            "url": "https://ge.globo.com/taekwondo/noticia/2026/10/10/maria-clara-pacheco-mantem-100percent-em-2026-e-e-campea-do-grand-prix-de-paris.ghtml"
           }
         ],
-        "updatedAt": "2026-10-10T13:56:19.000Z"
+        "updatedAt": "2026-10-10T19:12:53.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/10/maria-clara-pacheco-taekwondo.jpg"
       },
       {
-        "clusterId": "067712d55f4f3388",
-        "slug": "0698a5fa974b7b7c",
-        "titulo": "Polícia Civil investiga injúria racial contra atleta adolescente na Barra dos Coqueiros",
-        "resumo": "A Polícia Civil de Sergipe abriu investigação sobre um possível caso de racismo contra um atleta de 12 anos durante um evento no Centro de Desenvolvimento da CBF, na Barra dos Coqueiros. O boletim de ocorrência, registrado pela família do jovem, relata que o presidente da equipe adversária o chamou de “macaquito” após a partida. O episódio foi testemunhado pelo árbitro, que registrou o ocorrido em sua súmula. A Federação Sergipana de Futebol foi notificada sobre a investigação.",
-        "porQueImporta": "O caso destaca a necessidade de combater o racismo no esporte e garantir a segurança e dignidade de atletas jovens.",
+        "clusterId": "d28ef1928f5aa678",
+        "slug": "6c8fc6c6d2d0e89b",
+        "titulo": "Corinthians firma acordo com startup de IA Jota.ai para patrocínio até 2026",
+        "resumo": "O Corinthians fechou parceria com a startup de inteligência artificial Jota.ai, que terá o logo estampado na barra frontal inferior do uniforme até o fim de 2026. A empresa já ocupou o espaço principal da camisa na partida contra o Internacional, em 7 de outubro, como patrocínio pontual. A diretoria do clube também está em processo de sondagem de novos treinadores, tendo tentado contato com Javier Mascherano, que recusou a proposta.",
+        "porQueImporta": "O acordo amplia a presença de tecnologia no futebol e demonstra a estratégia de marketing do clube.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/se/futebol/noticia/2026/10/10/policia-civil-investiga-possivel-caso-de-racismo-contra-atleta-de-12-anos-em-sergipe.ghtml"
+            "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/10/corinthians-fecha-com-startup-de-ia-financeira-ate-o-fim-de-2026-e-encaminha-patrocinio-master.ghtml"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/se/sergipe/noticia/2026/10/10/policia-civil-investiga-caso-de-injuria-racial-contra-atleta-adolescente-na-barra-dos-coqueiros.ghtml"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-sportsmkt/jota-ai-estampara-barra-frontal-da-camisa-do-corinthians-no-derby/"
           }
         ],
-        "updatedAt": "2026-10-10T13:09:34.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/ghqAuEkegaZmR-uv4zINOTek_-M=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/l/A/v7naRAQPmumRA3k1hQQA/ct-de-desenvolvimento.webp"
+        "updatedAt": "2026-10-10T19:05:23.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/M24j4nPUUGM0ovJpL-g-x6xOcV0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/B/M/7Fzs6oSjGHnvvLeN0ymQ/whatsapp-image-2026-10-07-at-17.03.29.jpeg"
       },
       {
-        "clusterId": "b660defd7332b78d",
-        "slug": "60e5fef63cf1eb2f",
-        "titulo": "Cole Palmer renova contrato com o Chelsea até 2034",
-        "resumo": "O meia inglês Cole Palmer assinou nova extensão de contrato com o Chelsea, que o mantém no clube até 2034. A diretoria expressou confiança em seu desempenho e no futuro do jogador. Palmer demonstrou satisfação com a decisão e com a direção do clube.",
-        "porQueImporta": "A renovação reforça a continuidade do jogador no plantel do Chelsea e demonstra a estabilidade da equipe na Premier League.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/cole-palmer-renova-com-o-chelsea-e-assina-contrato-ate-2034/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/10/craque-do-chelsea-cole-palmer-renova-contrato-ate-2034.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-10T13:02:00.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/PKvJ99pJCy_uCj0k_bUK3KkWWLo=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/J/c/WK8PYBR4eBqmQqoAUWmg/palmer.png"
-      },
-      {
-        "clusterId": "00ae794451de6834",
-        "slug": "1c5da97b106b07b4",
-        "titulo": "Calendário de partidas do Campeonato Inglês e Brasileiro 2026",
-        "resumo": "O site globoesporte.com disponibiliza informações sobre os confrontos entre Chelsea e Bournemouth na Premier League, e entre Bragantino e Cruzeiro, Coritiba e Botafogo, São Paulo e Vitória, e Vasco e Remo no Campeonato Brasileiro. Cada página traz escalações, fotos e detalhes sobre o jogo.",
-        "porQueImporta": "Esses dados permitem aos torcedores acompanhar os próximos encontros e planejar sua participação.",
+        "clusterId": "64be613a039324d7",
+        "slug": "579974d4e59d0954",
+        "titulo": "Chelsea goleia Bournemouth 5 a 1",
+        "resumo": "O Chelsea venceu o Bournemouth por 5 a 1 em Stamford Bridge. João Pedro marcou dois gols, enquanto o atacante Henderson também marcou duas vezes. O técnico Xabi Alonso aplicou a vitória em sua primeira partida. A equipe permanece sem triunfos na Premier League.",
+        "porQueImporta": "A vitória consolida a posição do Chelsea perto do G4 na tabela.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
             "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/jogo/10-10-2026/Chelsea-bournemouth.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/com-brilho-de-joao-pedro-chelsea-goleia-bournemouth-e-fica-perto-do-g4/"
           }
         ],
-        "updatedAt": "2026-10-10T14:07:11.000Z"
+        "updatedAt": "2026-10-10T19:00:09.000Z"
       },
       {
-        "clusterId": "a3b98ac6e30231d9",
-        "slug": "c2771c255c014003",
-        "titulo": "Presidente do TJD/AL nega pedido liminar do CSE para impugnar W.O. contra o CSA no Alagoano Sub-20",
-        "resumo": "O presidente do Tribunal de Justiça Desportiva de Alagoas, Bruno Felipe Morgado, negou em caráter liminar o pedido do CSE de impugnar o resultado de W.O. na partida de volta das semifinais do Campeonato Alagoano Sub-20 entre o CSA e o adversário. A decisão determina que a Federação Alagoana de Futebol não homologue o resultado final até o julgamento pelo Pleno do TJD/AL, cuja data ainda não foi definida. O caso permanece em análise e pode influenciar a classificação final do torneio.",
-        "porQueImporta": "A decisão pode alterar a composição da final do campeonato e impactar o futuro dos jogadores envolvidos.",
+        "clusterId": "4788799eb0b37ab7",
+        "slug": "f6d365d3bf00398f",
+        "titulo": "McLaren reage a colisão entre Norris e Piastri na sprint de Singapura",
+        "resumo": "Durante a corrida sprint do Grande Prêmio de Singapura, os pilotos da McLaren, Lando Norris e Oscar Piastri, colidiram na última volta enquanto disputavam a quarta posição. O impacto fez Norris cair para oitavo lugar e obrigou Piastri a abandonar a prova. A equipe descreveu o incidente como inaceitável e destacou que a prioridade agora é coletiva. O acidente ocorreu no Circuito Urbano de Marina Bay, no dia 10 de outubro.",
+        "porQueImporta": "O choque entre os pilotos da mesma equipe pode afetar a classificação e a estratégia da McLaren nas etapas subsequentes da temporada.",
         "category": "esportes",
         "sources": [
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/al/noticia/2026/10/10/presidente-do-tjdal-nega-pedido-liminar-do-cse-para-impugnar-wo-contra-o-csa-no-alagoano-sub-20.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-10T14:06:21.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/YTMUjWFUoet8czTAhaRxd9hTkMw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/g/x/xDTAwBR5esAxy6hgOvWg/captura-de-tela-2026-10-05-164508.png"
-      },
-      {
-        "clusterId": "3995318c5326eba8",
-        "slug": "3b0f5c8da96f3584",
-        "titulo": "Séries B do Acreano de Futsal definem semifinalistas e líderes de grupo",
-        "resumo": "Na manhã de sábado, no Centro de Iniciação ao Esporte, Xapuri TS enfrentou Calafate para decidir um dos últimos lugares nas semifinais da Série B masculina, enquanto Brasiléia e Assermurb disputaram a liderança do Grupo B feminino, ambos já classificados. O jogo masculino ocorreu às 19h, com Xapuri vindo de vice-liderança do Grupo A; o feminino teve início às 18h45, em quadra da Escola Diogo Feijó, em Rio Branco. Ambos confrontos foram decisivos para a consolidação das equipes na fase final do campeonato.",
-        "porQueImporta": "Estes resultados determinam a composição das semifinais e a posição de liderança, influenciando a trajetória das equipes no campeonato.",
-        "category": "esportes",
-        "sources": [
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/mclaren-ve-batida-inaceitavel-entre-norris-e-piastri-em-corrida-sprint/"
+          },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/ac/noticia/2026/10/10/serie-b-do-acreano-de-futsal-define-os-ultimos-semifinalistas-neste-sabado-no-cie.ghtml"
+            "url": "https://ge.globo.com/motor/formula-1/noticia/2026/10/10/mclaren-trata-batida-de-norris-e-piastri-na-corrida-sprint-como-inaceitavel.ghtml"
           }
         ],
-        "updatedAt": "2026-10-10T14:04:22.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/xVKWu3TrB5rU_tSRlKgkQwtz4qQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/c/x/ks2t3QSzSe5nU1HKePzQ/saveclip.app-798784751-17944285071340890-2774429741244004313-n.jpg"
+        "updatedAt": "2026-10-10T18:59:34.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/os4pMMJl1t87HlQMrX5HNC4_F4o=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/a/d/tsc3tXRKqe90h4KZMkOA/captura-de-tela-2026-10-10-as-13.02.55.png"
       }
     ],
     "entretenimento": [
       {
-        "clusterId": "e46258fa107f1b68",
-        "slug": "31379eca0bf9cdbb",
-        "titulo": "Renner anuncia carreira solo e projeto em homenagem a Rick",
-        "resumo": "Após a morte de Rick em 22 de setembro, Renner anunciou que seguirá sua carreira musical com o projeto “Rick & Renner pra sempre – O legado”. O comunicado destaca a intenção de continuar em nome da música, da memória e do amor de quem faz parte da história. Rick e Renner tiveram início na década de 1980 e foram conhecidos por suas duplas no sertanejo.",
-        "porQueImporta": "A iniciativa preserva a memória de Rick e mantém a presença de sua música no cenário sertanejo.",
+        "clusterId": "852c214296381a47",
+        "slug": "e99cc8c4b35a56f4",
+        "titulo": "Marisa Monte participa de álbum de violonista espanhol Niño Josele",
+        "resumo": "Marisa Monte grava as faixas \"Ainda bem\" e \"Nem um passo atrás\" para o álbum \"Bajañí\" do violonista de flamenco Niño Josele. A colaboração destaca a mistura de influências flamencas e mexicanas presentes nas músicas. A participação reforça a presença internacional da artista no cenário musical contemporâneo.",
+        "porQueImporta": "Ilustra a expansão da carreira de Marisa Monte e a troca cultural entre artistas brasileiros e espanhóis.",
         "category": "entretenimento",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/musica/alem-de-rick-e-renner-como-sertanejos-seguiram-apos-duplas-morrerem/"
-          },
-          {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/sertanejo/noticia/2026/10/08/apos-morte-de-rick-renner-anuncia-carreira-solo-e-projeto-em-homenagem-ao-sertanejo.ghtml"
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/10/10/marisa-monte-canta-julia-mestre-mari-jasca-e-mel-paranhos-em-album-do-violonista-de-flamenco-nino-josele.ghtml"
           }
         ],
-        "updatedAt": "2026-10-10T14:07:22.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/I80bHXW6vmYRmBmN2XoOODMAbTg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/a/jnPzRoTQ6TzFyXiLjpOg/design-sem-nome-2026-09-22t120339.845.png"
+        "updatedAt": "2026-10-10T13:41:15.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/f0-yV-1POj18HBlA3Ic5AXZZiXo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/Z/LM7pphTpOM8f82T6yuaQ/marisanino.jpg"
+      },
+      {
+        "clusterId": "a89e677cddddee49",
+        "slug": "1d6a5b767e3da390",
+        "titulo": "TV Globinho volta com edição especial para abrir Maratona da Esperança",
+        "resumo": "A TV Globo exibirá uma edição especial da TV Globinho neste sábado, 10 de outubro, a partir das 9h. O programa, que foi ao ar entre 2000 e 2015, será apresentado com Tia Milena como repórter especial e contará com momentos que evocam a nostalgia dos telespectadores. A transmissão faz parte da abertura da Maratona da Esperança, que culmina no evento Criança Esperança 2026.",
+        "porQueImporta": "Reaviva a memória afetiva de gerações e contribui para a campanha de arrecadação de fundos do Criança Esperança.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2026/10/10/minha-tv-globinho-ta-viva-web-reage-a-edicao-especial-do-programa-infantil.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-10T12:18:59.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/Euh6MxnB30kflPy8_7bLIsVpfPw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/G/9ANb3AQhAeP8UzTSCZ3A/whatsapp-image-2026-10-01-at-14.43.17.jpeg"
       },
       {
         "clusterId": "9154d91c5926202e",
@@ -1366,9 +1424,9 @@
       {
         "clusterId": "af0dea9e76c9f12b",
         "slug": "1de1794d312fffbc",
-        "titulo": "Ator de 'Pretty Little Liars' é agredido durante assalto em West Hollywood",
-        "resumo": "Keegan Allen, conhecido por interpretar Toby Cavanaugh, relatou em vídeo que foi assaltado por dois jovens armados com arma de fogo e faca em West Hollywood. Os assaltantes o golpearam na cabeça e exigiram seu relógio, ameaçando matá‑lo. Allen descreveu o incidente como uma experiência traumática que o fez questionar a segurança da cidade.",
-        "porQueImporta": "O caso destaca a crescente preocupação com a segurança em áreas urbanas e a vulnerabilidade de celebridades a crimes violentos.",
+        "titulo": "Ator Keegan Allen relata assalto em West Hollywood",
+        "resumo": "O ator Keegan Allen, conhecido por interpretar Toby Cavanaugh em \"Pretty Little Liars\", foi assaltado em West Hollywood. Dois jovens o ameaçaram com arma e faca, exigindo seu relógio e ameaçando matá‑lo. Allen descreveu ter sido golpeado na cabeça antes de perder o relógio. Ele compartilhou o incidente em seu perfil no Instagram.",
+        "porQueImporta": "O caso destaca a insegurança urbana e o risco de violência contra celebridades em áreas urbanas.",
         "category": "entretenimento",
         "sources": [
           {
@@ -1378,22 +1436,6 @@
         ],
         "updatedAt": "2026-10-09T12:38:40.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/QfMzaplt6WuM6udPabFYnmg4VHM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/a/CM0H1HSvyTW1A3zxqhOw/montagem-horizontal-1200px-3-.jpg"
-      },
-      {
-        "clusterId": "3a21d34480ae1e9e",
-        "slug": "9971850873a4d458",
-        "titulo": "Morte de Lucas Drake, conhecido como LuLu LoveBottom, ocorre em Los Angeles",
-        "resumo": "O criador de conteúdo adulto Lucas Edward Drake, popular como LuLu LoveBottom, faleceu em 7 de setembro em sua casa em Los Angeles. A polícia investigou a morte como possível suicídio, após a descoberta do corpo. Drake deixou uma mensagem de carinho em sua última publicação no Instagram. A causa exata ainda está sendo confirmada pelas autoridades.",
-        "porQueImporta": "A notícia destaca a vulnerabilidade de criadores de conteúdo adulto e a importância de discutir saúde mental na comunidade digital.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/10/09/causa-da-morte-de-lulu-lovebottom-criador-de-conteudo-adulto-e-revelada.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-09T10:34:58.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/Kt7A3U-bFinrN9agY7hjzcCpPZ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/g/X00DrTQxGkiaxGkxRE2Q/fotos-g1-1920-x-1080-px-2026-09-09t173933.904.png"
       }
     ]
   }
