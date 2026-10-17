@@ -1,290 +1,378 @@
 {
   "date": "2026-10-17",
-  "generatedAt": "2026-10-17T08:18:07.184Z",
+  "generatedAt": "2026-10-17T15:05:56.162Z",
   "home": [
     {
-      "clusterId": "071a2d71e1b786e9",
-      "slug": "a39e9a22eefff90d",
-      "titulo": "Flávio Bolsonaro é entrevistado pela TV Globo enquanto cidades registram panelaços",
-      "resumo": "O senador Flávio Bolsonaro, candidato à Presidência pelo PL, concedeu entrevista à jornalista Renata Lo Prete na TV Globo, abordando temas como o caso Master, programas sociais e reformas no STF. Durante a transmissão, manifestações em forma de panelaços ocorreram em capitais como São Paulo, Rio de Janeiro, Recife e Salvador. A entrevista foi exibida ao vivo após o Jornal Nacional e disponibilizada na íntegra no Globoplay e no G1. O episódio gerou grande repercussão nas redes sociais, ficando entre os temas mais comentados.",
-      "porQueImporta": "A cobertura mostra a reação pública ao candidato e a importância da entrevista na campanha presidencial.",
+      "clusterId": "fa6214c13ace30dc",
+      "slug": "ddf239f6a3d49fd6",
+      "titulo": "Pesquisa Ipespe mostra Flávio Bolsonaro com vantagem numérica de cerca de 48% a 51% e Lula com 46% a 49% no segundo turno",
+      "resumo": "A pesquisa Ipespe, realizada entre 13 e 15 de outubro, indica que Flávio Bolsonaro lidera a intenção de voto com 48% a 51%, enquanto Lula fica entre 46% e 49%, mantendo a disputa em empate técnico dentro da margem de erro. Aprovação do governo Lula está em torno de 48% a 50%, com rejeição de 46% a 48%. Em termos de campanha, 45% dos entrevistados consideram a presença de Flávio nas redes sociais superior à de Lula, e 41% acreditam que ele tem melhor campanha na TV e rádio. A pesquisa também aponta que 47% dos eleitores rejeitam ambos os candidatos, refletindo um cenário de polarização.",
+      "porQueImporta": "Os resultados demonstram a estreita competição entre os candidatos e a importância das estratégias de campanha e aprovação pública na decisão dos eleitores.",
       "category": "politica",
       "sources": [
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cmly0n1qdqr4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/panelacos-sao-registrados-durante-entrevista-de-flavio-bolsonaro-a-globo/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/ao-vivo/flavio-bolsonaro-entrevista-candidatos-presidente-segundo-turno.ghtml"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/flavio-bolsonaro-e-alvo-de-panelaco-durante-entrevista-na-globo/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/lula-critica-visita-de-flavio-bolsonaro-a-tv-globo-em-dia-de-sabatina-nao-merece-confianca/"
-        }
-      ],
-      "updatedAt": "2026-10-17T02:45:36.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/96f8/live/2ffa5ef0-c9bf-11f1-ae9f-bf0ab88aba90.jpg"
-    },
-    {
-      "clusterId": "0c31905bcb38ba4e",
-      "slug": "f675e55a3bbb2ebc",
-      "titulo": "Flávio Bolsonaro descarta nomear Eduardo como chanceler e diz que pai não pediu cargo",
-      "resumo": "O candidato à Presidência Flávio Bolsonaro afirmou que não está considerando nomear seu irmão Eduardo para o Ministério das Relações Exteriores. Ele também disse que seu pai, Jair Bolsonaro, nunca manifestou interesse em ocupar cargo em um eventual governo. Flávio ressaltou que não há discussões sobre a participação de Jair na administração. O senador destacou que não há planos de incluir a família em cargos públicos sem consulta prévia.",
-      "porQueImporta": "A decisão influencia a composição de possíveis futuros governos e a percepção sobre nepotismo na política brasileira.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-nega-eduardo-como-chanceler-e-diz-que-jair-nao-pediu-cargo/"
-        },
         {
           "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/os-destinos-de-jair-e-eduardo-bolsonaro-em-um-eventual-governo-de-flavio/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/flavio-bolsonaro-diz-que-nao-esta-no-radar-nomear-o-pai-e-que-eduardo-nao-sera-chanceler-em-eventual-governo.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-bolsonaro-nunca-tratou-de-cargo-em-eventual-governo/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/meu-irmao-nao-sera-chanceler-diz-flavio-sobre-papel-de-eduardo-em-eventual-governo/"
-        }
-      ],
-      "updatedAt": "2026-10-17T02:31:08.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-22.02.29.jpeg"
-    },
-    {
-      "clusterId": "9bbe947e89986408",
-      "slug": "40753858e704a644",
-      "titulo": "TSE mantém decisão que impede Meta de interferir na distribuição de conteúdo político-eleitoral",
-      "resumo": "O Tribunal Superior Eleitoral formou maioria para sustentar a decisão do ministro Marco Aurélio Bellizze, que determina que, até o fim do segundo turno, a Meta não pode interferir na distribuição de conteúdo político‑eleitoral de Lula e Flávio Bolsonaro, sob pena de multa diária de R$ 500 mil. A medida foi tomada após a campanha de Lula alegar que a Meta favoreceu posts de apoiadores de Flávio Bolsonaro. A decisão foi acompanhada pelos ministros Floriano de Azevedo Marques, André Mendonça e Estela Aranha.",
-      "porQueImporta": "A medida regula a atuação das redes sociais no período eleitoral, afetando a visibilidade das campanhas dos candidatos.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/tse-decide-manter-ordem-que-proibe-meta-de-restringir-conteudo-e-favorecer-candidatos/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/tse-forma-maioria-para-determinar-que-meta-nao-interfira-em-conteudo-eleitoral/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/10/16/tse-que-meta-nao-interfira-em-distribuicao-de-conteudo-politico-eleitoral.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/campanha-de-lula-acusa-meta-de-favorecer-flavio-e-diz-que-decisao-do-tse-confirma-denuncias/"
-        }
-      ],
-      "updatedAt": "2026-10-17T01:40:14.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/Flavio-Bolsonaro-PL-e-Lula-PT-candidatos-a-presidencia-da-Republica-Foto-1_-Charles-Vieira_Campanha-_-Foto-2_-Ricardo-Stuckert_Campanha-6.png"
-    },
-    {
-      "clusterId": "89b5f4444f9cac23",
-      "slug": "394d5610d6b2909f",
-      "titulo": "Pesquisas mostram empate técnico entre Lula e Flávio Bolsonaro a dez dias do segundo turno",
-      "resumo": "A pesquisa Datafolha, com 2.520 entrevistas, aponta 47% de intenção de voto para Flávio Bolsonaro e 45% para Lula, dentro da margem de erro de dois pontos. O levantamento da Quaest, com 2.000 entrevistas telefônicas, mostra 46% para cada candidato, também dentro da margem de erro. Em Sergipe, lideranças políticas mobilizam apoio aos dois candidatos. A Band agendou o primeiro debate direto entre Lula e Flávio Bolsonaro, enquanto as campanhas concentram esforços em conquistar eleitores que não votaram no primeiro turno.",
-      "porQueImporta": "O empate técnico indica que o resultado do segundo turno pode depender de mobilização de eleitores indecisos e de estratégias de campanha.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/cartaexpressa/a-nova-pesquisa-indexa-sobre-lula-x-flavio-bolsonaro-a-3-dias-do-2o-turno/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/pesquisa-que-mais-acertou-no-1o-turno-mostra-flavio-bolsonaro-com-52-e-lula-48-dos-votos-validos/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/16/datafolha-mostra-desafios-a-candidatos-flavio-bolsonaro-tem-de-evitar-mais-perda-de-votos-lula-precisa-ganhar-eleitores.ghtml"
-        },
-        {
-          "name": "Super Interessante",
-          "url": "https://super.abril.com.br/ciencia/o-que-lula-e-flavio-bolsonaro-dizem-sobre-pesquisa-e-universidade-em-seus-planos-de-governo/"
-        }
-      ],
-      "updatedAt": "2026-10-16T23:11:53.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/09/AFP__20260929__C9LQ3ZQ__v1__MidRes__ComboBrazilElectionCandidates.jpg"
-    },
-    {
-      "clusterId": "8240d47d951f4ade",
-      "slug": "224286765d8c625d",
-      "titulo": "Eleições 2026: segunda etapa marcada para 25 de outubro",
-      "resumo": "O segundo turno das eleições de 2026 ocorrerá em 25 de outubro, independentemente da diferença de votos entre os candidatos. A ausência no primeiro turno não impede que o eleitor participe do segundo. Em 20 estados o governador já foi eleito no primeiro turno, enquanto em seis estados e no Distrito Federal a escolha ficará para o segundo turno.",
-      "porQueImporta": "Determina quando e quem pode votar na segunda fase das eleições.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-quais-as-diferencas-entre-o-1o-e-2o-turno/"
+          "url": "https://veja.abril.com.br/politica/esperanca-ou-medo-qual-sentimento-domina-a-disputa-entre-flavio-e-lula-segundo-nova-pesquisa-ipespe/"
         },
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/eleicoes-2026-nao-votei-no-1o-turno-posso-votar-no-2o"
+          "url": "https://www.metropoles.com/brasil/ipespe-flavio-bolsonaro-tem-48-e-lula-marca-46-no-2o-turno"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/pesquisa-ipespe-flavio-tem-512-e-lula-488-vantagem-de-senador-cai-3-pontos/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/ipespe-45-acham-campanha-de-flavio-nas-redes-melhor-37-de-lula/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/pesquisa-que-mais-acertou-no-1o-turno-mostra-flavio-bolsonaro-com-511-e-lula-489-no-2o/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/eleicoes-2026-quais-estados-ja-elegeram-governador-e-onde-havera-segundo-turno.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-17T08:00:04.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/10/eleicoes-2026-brasilia-urna-urnas-votos-justica-eleitoral-metropoles-7-scaled.jpg"
-    },
-    {
-      "clusterId": "dfbd02ded3617335",
-      "slug": "4b450c051d2a3e98",
-      "titulo": "Lula se prepara para debate com Flávio Bolsonaro na Band",
-      "resumo": "Lula passou sábado em Brasília para se preparar para o primeiro debate televisivo com Flávio Bolsonaro, focando em propostas para um eventual novo mandato e evitando confrontos agressivos. A campanha do petista avaliou positivamente a entrevista à Globo e concentra expectativas no encontro na reta final da disputa. O debate, a primeira troca direta entre os candidatos, ocorrerá no segundo turno na Band.",
-      "porQueImporta": "O debate pode influenciar decisivamente a escolha dos eleitores no segundo turno.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/lula-passa-sabado-em-brasilia-se-preparando-para-primeiro-debate-com-flavio/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cwkg57dyvrn3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/a-expectativa-da-campanha-de-lula-para-o-confronto-com-flavio-na-band/"
-        }
-      ],
-      "updatedAt": "2026-10-17T06:31:10.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/07ff/live/b2ebbf90-c9a4-11f1-ad54-aba20166b422.png"
-    },
-    {
-      "clusterId": "9e68d5ae5b123c67",
-      "slug": "29b4c8ac60081d93",
-      "titulo": "Terremotos de magnitude 5,6 e 7 registrados no Paquistão e na Rússia",
-      "resumo": "Um terremoto de magnitude 5,6 a 5,7 foi registrado a 10 km de profundidade nas proximidades de Khuzdar, na província de Balochistan, Paquistão. A mesma região registrou o evento com profundidade de 10 km. Na Rússia, um terremoto de magnitude 7 atingiu a Península de Kamchatka, a 140 km de profundidade, sem relatos de vítimas ou danos. Os dois eventos foram confirmados por fontes locais e pelo Centro Sismológico Euro-Mediterrânico.",
-      "porQueImporta": "Esses sismos demonstram a atividade sísmica em regiões de risco, exigindo monitoramento e preparação para possíveis impactos.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/terremoto-de-magnitude-57-atinge-o-paquistao"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-56-atinge-provincia-no-paquistao/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/10/16/russia-terremoto.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-17T06:22:46.000Z",
-      "imageUrl": "https://images.metroimg.com/2024/08/06181636/050824-NQ-Almoco-na-Embaixada-do-Paquistao-007.jpg"
-    },
-    {
-      "clusterId": "f067a2a6d6149a68",
-      "slug": "c5dabe808b03c2f1",
-      "titulo": "Mirassol vence Internacional e evita zona de rebaixamento",
-      "resumo": "Mirassol derrotou o Internacional por 1 a 0 na abertura da 31ª rodada do Campeonato Brasileiro. O time paulista contou com um jogador a mais na maioria do jogo, o que ajudou a superar um início ruim. O triunfo elevou o Mirassol para a 14ª posição, com 36 pontos, garantindo que não possa cair na zona de rebaixamento nesta rodada. O Internacional permanece na zona de rebaixamento, com a derrota que não alterou sua situação.",
-      "porQueImporta": "A vitória mantém o Mirassol fora da zona de rebaixamento, enquanto o Internacional continua em risco de queda.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/sp/tem-esporte/futebol/brasileirao-serie-a/jogo/16-10-2026/mirassol-internacional.ghtml"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/esporte/mirassol-vence-o-internacional-e-se-distancia-do-z-4/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/mirassol-aproveita-jogador-a-mais-vence-e-mantem-o-internacional-no-z4/"
-        }
-      ],
-      "updatedAt": "2026-10-17T04:43:00.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/IMG-20261016-WA0052-1024x683.jpg"
-    },
-    {
-      "clusterId": "1891fa4c4637f1c7",
-      "slug": "2da45fc3319f13ac",
-      "titulo": "Datafolha mostra apoio a mandato único e mudanças no STF",
-      "resumo": "A pesquisa Datafolha, realizada entre 20 e 22 de outubro, revelou que 51% dos brasileiros preferem mandato presidencial de quatro anos sem possibilidade de reeleição, enquanto 46% defendem a reeleição. Além disso, 59% dos entrevistados acreditam que os ministros do STF deveriam ter mandato fixo, e 65% querem que decisões importantes sejam tomadas pelo plenário, não de forma monocrática. O levantamento também indica que cerca de três quartos dos brasileiros apoiam a duração de quatro anos para o mandato presidencial.",
-      "porQueImporta": "Os resultados refletem a opinião pública sobre reformas institucionais que podem impactar a governabilidade e a independência judicial.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/datafolha-51-preferem-mandato-unico-e-46-possibilidade-de-reeleicao/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/datafolha-ministros-stf-mandato.ghtml"
+          "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/17/estado-espelho-do-brasil-mg-entra-no-foco-das-campanhas-de-lula-e-flavio-bolsonaro-para-o-2o-turno.ghtml"
         },
         {
           "name": "CartaCapital",
           "url": "https://www.cartacapital.com.br/politica/a-nova-pesquisa-datafolha-sobre-lula-x-flavio-bolsonaro/"
         }
       ],
-      "updatedAt": "2026-10-17T04:34:23.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/qrtX8A1uqsEhFcQJh0TyMXQ4MvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/T/dcJFFHTOOe1uKtl2JvqA/fotojet-4-.jpg"
+      "updatedAt": "2026-10-17T14:59:36.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/Montagem-Lula-x-Flavio-4.jpg.jpeg"
     },
     {
-      "clusterId": "a432cd953c7da5ad",
-      "slug": "eb0b56ee3c83e0a4",
-      "titulo": "Flávio Bolsonaro defende investimento de Vorcaro em filme sobre seu pai",
-      "resumo": "O candidato à Presidência, Flávio Bolsonaro, afirmou que o dinheiro de Vorcaro para a produção de um filme sobre seu pai foi um patrocínio privado e que o ex-banqueiro não estava envolvido em nenhuma irregularidade. Ele comparou o caso à publicidade do Banco Master na TV Globo e declarou que o investimento foi totalmente lícito. A defesa foi feita em entrevista à TV Globo e em postagens nas redes sociais.",
-      "porQueImporta": "A questão envolve a transparência e a origem de recursos de campanhas políticas.",
+      "clusterId": "57ce8ed909e3a82a",
+      "slug": "6ab45fa64544de19",
+      "titulo": "Papa Leão XIV recebe alta hospitalar após cirurgia no pulmão",
+      "resumo": "O pontífice de 71 anos recebeu alta do Hospital Gemelli, em Roma, depois de cirurgia para remoção de um adenocarcinoma pulmonar. Ele foi internado na terça-feira (13) e passou por exames de sangue e radiologia antes da liberação. O Vaticano confirmou a alta no sábado (17) e informou que o papa retornará ao Vaticano para continuar suas atividades, incluindo a celebração do Angelus no domingo.",
+      "porQueImporta": "A recuperação do papa demonstra a continuidade das funções da Igreja após tratamento de saúde grave.",
       "category": "geral",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/flavio-bolsonaro-entrevista-globo-vorcaro-dark-horse.ghtml"
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-internacional/vaticano-confirma-alta-do-papa-leao-14-depois-de-exames/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-dinheiro-de-vorcaro-para-dark-horse-era-licito-e-privado/"
+          "url": "https://www.cnnbrasil.com.br/internacional/papa-leao-xiv-tem-alta-do-hospital-e-volta-ao-vaticano-apos-cirurgia/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/papa-leao-xiv-tera-alta-hospitalar-neste-sabado-17-10-diz-vaticano"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/mundo/leao-xiv-retorna-ao-vaticano-neste-sabado-apos-cirurgia-no-pulmao/"
         },
         {
           "name": "Exame",
-          "url": "https://exame.com/brasil/flavio-bolsonaro-defende-dinheiro-de-vorcaro-em-filme-sobre-o-pai-totalmente-licito/"
+          "url": "https://exame.com/mundo/papa-leao-xiv-tem-alta-prevista-para-este-sabado-informa-vaticano/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/17/papa-leao-xiv-alta.ghtml"
         }
       ],
-      "updatedAt": "2026-10-17T02:45:28.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/URyq3Y9CmS-BYP8tdbjhEvXoXXE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/c/Dx6NTVQ0WQYVNSCCRBfQ/whatsapp-image-2026-10-16-at-21.46.26.jpeg"
+      "updatedAt": "2026-10-17T14:53:35.000Z",
+      "imageUrl": "https://images.metroimg.com/2025/12/01164644/papa-leao-xiv-1-2.jpg"
+    },
+    {
+      "clusterId": "56f1b25f0dbbe773",
+      "slug": "16c36cfa93dd19c5",
+      "titulo": "Trump suspende sanções e tarifas contra a Rússia",
+      "resumo": "O presidente Donald Trump cancelou, por ordem executiva, sanções e tarifas dos EUA contra a Rússia que deveriam entrar em vigor na semana seguinte. As medidas incluíam tarifas sobre produtos russos e penalidades a países que comprassem petróleo e gás da Rússia. A suspensão foi justificada como medida de segurança nacional. A decisão aumenta a preocupação da Ucrânia com possíveis ataques russos antes do inverno.",
+      "porQueImporta": "A suspensão pode reduzir o apoio econômico dos EUA à Ucrânia e alterar o equilíbrio de sanções contra a Rússia.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mundo/zelenski-pede-apoio-a-novas-sancoes-dos-eua-contra-a-russia-apos-suspensao-de-trump/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/trump-suspende-sancoes-contra-a-russia-em-meio-a-criticas-a-ucrania/"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cmdxw58v17gno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/17/trump-suspende-tarifas-contra-a-russia-e-grandes-compradores-de-petroleo-e-gas-russos.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-17T14:58:00.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-28T184043Z_2106522970_RC2UPIA3EBHM_RTRMADP_3_UKRAINE-CRISIS-TRUMP-ZELENSKIY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "2abd9859bc19f4a0",
+      "slug": "ab8f6b0b59d3597a",
+      "titulo": "Athletico-PR x Palmeiras na 31ª rodada do Brasileirão",
+      "resumo": "O confronto entre Athletico-PR e Palmeiras está marcado para sábado, 17, na Arena da Baixada, às 19h30 (horário de Brasília). Ambos os clubes apresentam boa fase: o Athletico mantém invencibilidade de quatro partidas e está no G‑4, enquanto o Palmeiras busca terminar uma sequência ruim fora de casa. Os técnicos Abel Ferreira e Odair Hellmann, ambos longevos na Série A, comandarão as equipes. O duelo é considerado equilibrado, com leve favoritismo ao Furacão.",
+      "porQueImporta": "O resultado pode influenciar a posição dos clubes no G‑4 e a continuidade de suas campanhas no Brasileirão.",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/esporte/sao-paulo-x-vasco-no-brasileirao-onde-assistir-horario-e-escalacoes/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/pr/futebol/brasileirao-serie-a/noticia/2026/10/17/idolo-de-athletico-e-palmeiras-oseas-revive-clima-da-arena-da-baixada-era-uma-bombonera.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/entre-embalo-e-dilema-palmeiras-desafia-sequencia-absurda-do-athletico-pr/"
+        }
+      ],
+      "updatedAt": "2026-10-17T15:00:13.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/07/GettyImages-2219182754.jpg"
+    },
+    {
+      "clusterId": "1fe8b4a35ac73d87",
+      "slug": "4d8a056758ec26c5",
+      "titulo": "João Fonseca encerra temporada de 2026 e volta ao circuito em 2027",
+      "resumo": "O tenista brasileiro João Fonseca anunciou que encerrará sua participação na temporada de 2026 devido a lesões e priorizará sua recuperação. Ele não competirá em torneios como Basileia e Paris, mas manterá a exibição em São Paulo contra Carlos Alcaraz em dezembro. Fonseca não jogou na Copa Davis contra Dominic Stricker e não alcançou semifinais na ATP em 2026.",
+      "porQueImporta": "A decisão afeta a presença do atleta em torneios internacionais e pode influenciar a composição da seleção brasileira em competições futuras.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/esportes/joao-fonseca-fala-em-priorizar-saude-e-so-retorna-ao-circuito-em-2027/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/tenis/noticia/2026/10/17/joao-fonseca-anuncia-que-encerra-temporada-e-volta-em-2027.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/tenis/joao-fonseca-decide-nao-jogar-mais-em-2026-nao-estou-em-condicoes-ideais/"
+        }
+      ],
+      "updatedAt": "2026-10-17T14:52:00.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/expert-xp-20260725-13h20-expert-session-2.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "d0c4efa4eccab2f4",
+      "slug": "7953e1a353ccd757",
+      "titulo": "Datafolha mostra 16% dos eleitores não veem Brasil como democracia e 96% pretendem votar no 2º turno",
+      "resumo": "A pesquisa Datafolha revelou que 16% dos eleitores não consideram o Brasil uma democracia, enquanto 50% apontam grandes problemas no regime. Entre os apoiadores de Flávio Bolsonaro, a percentagem que rejeita a classificação chega a 23%. No mesmo levantamento, 96% dos eleitores planejam votar no segundo turno da eleição presidencial, 1% afirma não comparecer e 3% ainda não decidiu.",
+      "porQueImporta": "Os resultados indicam dúvidas sobre a legitimidade democrática e alta intenção de participação nas urnas, fatores críticos para a estabilidade política.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-brasil/brasil-nao-e-democracia-para-16-dos-eleitores-diz-datafolha/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/o-que-pensam-eleitores-de-flavio-e-lula-sobre-reducao-da-maioridade-penal-segundo-pesquisa-datafolha/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/16/datafolha-intencao-ir-votar-2-turno.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-17T14:32:12.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/O-presidente-Lula-e-o-senador-Flavio-Bolsonaro-Douglas-Magno-e-Gledston-Tavares-AFP-1.jpg"
+    },
+    {
+      "clusterId": "7bc070549afbc456",
+      "slug": "8f8e937496719a6c",
+      "titulo": "Chelsea vence Everton por 2 a 0 com gols de Pedro Neto",
+      "resumo": "O Chelsea derrotou o Everton por 2 a 0 na Premier League, com ambos os gols marcados por Pedro Neto. O jogo foi disputado no Hill Dickinson Stadium, em Liverpool, e contou com um momento de tensão quando o goleiro Dibu Martínez colidiu com um zagueiro do Everton, sendo levado ao hospital. O resultado coloca o Chelsea provisoriamente no quarto lugar da tabela.",
+      "porQueImporta": "A vitória mantém o Chelsea em posição de lutar pela Champions League.",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/jogo/17-10-2026/Everton-Chelsea.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/premier-league-pedro-neto-marca-duas-vezes-e-chelsea-vence-everton"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/pedro-neto-marca-duas-vezes-e-chelsea-vence-everton-na-premier-league/"
+        }
+      ],
+      "updatedAt": "2026-10-17T14:13:03.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/chelsea-x-everton.jpg"
+    },
+    {
+      "clusterId": "da33c4c5de959c78",
+      "slug": "24302780c3c2d4b0",
+      "titulo": "Atlético-MG enfrenta Coritiba na 31ª rodada do Brasileirão",
+      "resumo": "O Atlético-MG e o Coritiba se enfrentarão na Arena MRV, em Belo Horizonte, às 18h30, na 31ª rodada da Série A. O Galo busca pontos para se aproximar do G-6, enquanto o Coritiba tenta melhorar sua posição na tabela. A partida é importante para ambos os times na reta final da temporada.",
+      "porQueImporta": "O resultado pode definir a posição final de cada equipe na tabela e influenciar a classificação para a próxima fase do campeonato.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/esporte/atletico-mg-enfrenta-o-coritiba-em-busca-de-se-aproximar-do-g-6-no-brasileirao/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/atletico-mg-encara-coritiba-para-entrar-no-g5-do-brasileiro/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/mg/futebol/brasileirao-serie-a/noticia/2026/10/17/atletico-mg-x-coritiba-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-17T12:00:00.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/55590120021_b3fb7b14fb_o-1024x683-1.jpg"
+    },
+    {
+      "clusterId": "2073aa168160cc4b",
+      "slug": "8ed28c5516c88783",
+      "titulo": "São Paulo e Vasco se enfrentam na 31ª rodada do Brasileirão",
+      "resumo": "O duelo entre São Paulo e Vasco está marcado para sábado, 17 de outubro, às 21h, no Morumbi. A partida faz parte da 31ª rodada do Campeonato Brasileiro e será transmitida ao vivo pelo Sportv e Premiere. São Paulo, que ocupa a 10ª posição, busca manter a boa fase, enquanto o Vasco procura um respiro para a Sul‑América.",
+      "porQueImporta": "O resultado pode influenciar a posição de ambos na tabela e a preparação para competições internacionais.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-paulo-e-vasco-se-enfrentam-por-tranquilidade-na-serie-a-do-brasileiro/"
+        },
+        {
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/10/17/internet-e-redes-sociais/sao-paulo-x-vasco-onde-assistir-horario-e-escalacoes-do-jogo-do-brasileirao-2/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/noticia/2026/10/17/sao-paulo-x-vasco-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-17T10:57:36.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/Ug2FXJZtAO33J2MfKJjfx8CYvyU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/A/v/CUdFAMQcA5dHc19AupRw/whatsapp-image-2026-10-02-at-18.47.42.jpeg"
+    },
+    {
+      "clusterId": "f242eacc147c0b9a",
+      "slug": "c8329d0436aacd7b",
+      "titulo": "Debate na Band entre Lula e Flávio Bolsonaro destaca segurança, escala 6×1 e críticas econômicas",
+      "resumo": "No debate na Band, Lula apresentou propostas de segurança e criticou o candidato Flávio Bolsonaro, comparando-o a Milei e atacando suas medidas econômicas. O tema da escala 6×1 foi central, com Lula defendendo seu fim e a possibilidade de implementação sem redução salarial. Flávio Bolsonaro, por sua vez, focou em propostas voltadas às mulheres, como o programa \"Brasil por Elas\". O confronto foi o primeiro direto entre os candidatos que lideram a pesquisa no segundo turno.",
+      "porQueImporta": "O debate define estratégias de campanha e esclarece posições sobre temas econômicos e sociais relevantes para o eleitorado.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/seguranca-escala-6x1-e-milei-os-temas-de-lula-para-o-debate-contra-flavio-bolsonaro/"
+        },
+        {
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cwkg57dyvrn3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/tv-propaganda-eleitoral-presidente-16-outubro.ghtml"
+        }
+      ],
+      "updatedAt": "2026-10-17T10:00:38.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/lula-sabatina-globo-foto-ricardo-stuckert-campanha.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "071a2d71e1b786e9",
+        "clusterId": "fa6214c13ace30dc",
+        "slug": "ddf239f6a3d49fd6",
+        "titulo": "Pesquisa Ipespe mostra Flávio Bolsonaro com vantagem numérica de cerca de 48% a 51% e Lula com 46% a 49% no segundo turno",
+        "resumo": "A pesquisa Ipespe, realizada entre 13 e 15 de outubro, indica que Flávio Bolsonaro lidera a intenção de voto com 48% a 51%, enquanto Lula fica entre 46% e 49%, mantendo a disputa em empate técnico dentro da margem de erro. Aprovação do governo Lula está em torno de 48% a 50%, com rejeição de 46% a 48%. Em termos de campanha, 45% dos entrevistados consideram a presença de Flávio nas redes sociais superior à de Lula, e 41% acreditam que ele tem melhor campanha na TV e rádio. A pesquisa também aponta que 47% dos eleitores rejeitam ambos os candidatos, refletindo um cenário de polarização.",
+        "porQueImporta": "Os resultados demonstram a estreita competição entre os candidatos e a importância das estratégias de campanha e aprovação pública na decisão dos eleitores.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/esperanca-ou-medo-qual-sentimento-domina-a-disputa-entre-flavio-e-lula-segundo-nova-pesquisa-ipespe/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/ipespe-flavio-bolsonaro-tem-48-e-lula-marca-46-no-2o-turno"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/pesquisa-ipespe-flavio-tem-512-e-lula-488-vantagem-de-senador-cai-3-pontos/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/ipespe-45-acham-campanha-de-flavio-nas-redes-melhor-37-de-lula/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/pesquisa-que-mais-acertou-no-1o-turno-mostra-flavio-bolsonaro-com-511-e-lula-489-no-2o/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/17/estado-espelho-do-brasil-mg-entra-no-foco-das-campanhas-de-lula-e-flavio-bolsonaro-para-o-2o-turno.ghtml"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/a-nova-pesquisa-datafolha-sobre-lula-x-flavio-bolsonaro/"
+          }
+        ],
+        "updatedAt": "2026-10-17T14:59:36.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/Montagem-Lula-x-Flavio-4.jpg.jpeg"
+      },
+      {
+        "clusterId": "d0c4efa4eccab2f4",
+        "slug": "7953e1a353ccd757",
+        "titulo": "Datafolha mostra 16% dos eleitores não veem Brasil como democracia e 96% pretendem votar no 2º turno",
+        "resumo": "A pesquisa Datafolha revelou que 16% dos eleitores não consideram o Brasil uma democracia, enquanto 50% apontam grandes problemas no regime. Entre os apoiadores de Flávio Bolsonaro, a percentagem que rejeita a classificação chega a 23%. No mesmo levantamento, 96% dos eleitores planejam votar no segundo turno da eleição presidencial, 1% afirma não comparecer e 3% ainda não decidiu.",
+        "porQueImporta": "Os resultados indicam dúvidas sobre a legitimidade democrática e alta intenção de participação nas urnas, fatores críticos para a estabilidade política.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-brasil/brasil-nao-e-democracia-para-16-dos-eleitores-diz-datafolha/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/o-que-pensam-eleitores-de-flavio-e-lula-sobre-reducao-da-maioridade-penal-segundo-pesquisa-datafolha/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/16/datafolha-intencao-ir-votar-2-turno.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-17T14:32:12.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/O-presidente-Lula-e-o-senador-Flavio-Bolsonaro-Douglas-Magno-e-Gledston-Tavares-AFP-1.jpg"
+      },
+      {
+        "clusterId": "f242eacc147c0b9a",
+        "slug": "c8329d0436aacd7b",
+        "titulo": "Debate na Band entre Lula e Flávio Bolsonaro destaca segurança, escala 6×1 e críticas econômicas",
+        "resumo": "No debate na Band, Lula apresentou propostas de segurança e criticou o candidato Flávio Bolsonaro, comparando-o a Milei e atacando suas medidas econômicas. O tema da escala 6×1 foi central, com Lula defendendo seu fim e a possibilidade de implementação sem redução salarial. Flávio Bolsonaro, por sua vez, focou em propostas voltadas às mulheres, como o programa \"Brasil por Elas\". O confronto foi o primeiro direto entre os candidatos que lideram a pesquisa no segundo turno.",
+        "porQueImporta": "O debate define estratégias de campanha e esclarece posições sobre temas econômicos e sociais relevantes para o eleitorado.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/seguranca-escala-6x1-e-milei-os-temas-de-lula-para-o-debate-contra-flavio-bolsonaro/"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cwkg57dyvrn3o?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/tv-propaganda-eleitoral-presidente-16-outubro.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-17T10:00:38.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/lula-sabatina-globo-foto-ricardo-stuckert-campanha.jpg"
+      },
+      {
+        "clusterId": "09cfca3cc5e455c5",
         "slug": "a39e9a22eefff90d",
         "titulo": "Flávio Bolsonaro é entrevistado pela TV Globo enquanto cidades registram panelaços",
         "resumo": "O senador Flávio Bolsonaro, candidato à Presidência pelo PL, concedeu entrevista à jornalista Renata Lo Prete na TV Globo, abordando temas como o caso Master, programas sociais e reformas no STF. Durante a transmissão, manifestações em forma de panelaços ocorreram em capitais como São Paulo, Rio de Janeiro, Recife e Salvador. A entrevista foi exibida ao vivo após o Jornal Nacional e disponibilizada na íntegra no Globoplay e no G1. O episódio gerou grande repercussão nas redes sociais, ficando entre os temas mais comentados.",
         "porQueImporta": "A cobertura mostra a reação pública ao candidato e a importância da entrevista na campanha presidencial.",
         "category": "politica",
         "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cmly0n1qdqr4o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/panelacos-sao-registrados-durante-entrevista-de-flavio-bolsonaro-a-globo/"
-          },
           {
             "name": "G1",
             "url": "https://g1.globo.com/jornal-nacional/ao-vivo/flavio-bolsonaro-entrevista-candidatos-presidente-segundo-turno.ghtml"
@@ -294,396 +382,290 @@
             "url": "https://www.cartacapital.com.br/politica/flavio-bolsonaro-e-alvo-de-panelaco-durante-entrevista-na-globo/"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/lula-critica-visita-de-flavio-bolsonaro-a-tv-globo-em-dia-de-sabatina-nao-merece-confianca/"
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cq4g161xg3d3o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-10-17T02:45:36.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/96f8/live/2ffa5ef0-c9bf-11f1-ae9f-bf0ab88aba90.jpg"
+        "updatedAt": "2026-10-17T02:03:36.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/tVz9FWqo_KEcQN3lWxcjYcL9JIA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/y/81oTk4RDKs4UIAct7hYw/whatsapp-image-2026-10-16-at-20.00.27.jpeg"
       },
       {
-        "clusterId": "0c31905bcb38ba4e",
-        "slug": "f675e55a3bbb2ebc",
-        "titulo": "Flávio Bolsonaro descarta nomear Eduardo como chanceler e diz que pai não pediu cargo",
-        "resumo": "O candidato à Presidência Flávio Bolsonaro afirmou que não está considerando nomear seu irmão Eduardo para o Ministério das Relações Exteriores. Ele também disse que seu pai, Jair Bolsonaro, nunca manifestou interesse em ocupar cargo em um eventual governo. Flávio ressaltou que não há discussões sobre a participação de Jair na administração. O senador destacou que não há planos de incluir a família em cargos públicos sem consulta prévia.",
-        "porQueImporta": "A decisão influencia a composição de possíveis futuros governos e a percepção sobre nepotismo na política brasileira.",
+        "clusterId": "d0d665041c04d89b",
+        "slug": "86f6cb08f5c7c928",
+        "titulo": "Ministro Kassio Nunes Marques acusado de receber festa de Vorcaro",
+        "resumo": "Mensagens de WhatsApp revelam que o ex-banqueiro Daniel Vorcaro organizou e pagou uma festa com garotas de programa para o ministro Kassio Nunes Marques. O ministro, presidente do TSE e membro do STF, negou ter se beneficiado de qualquer decisão. Senador Flávio Bolsonaro questionou se Nunes Marques deve ser investigado, mas não confirmou, enquanto criticou o ministro Moraes. A investigação faz parte das investigações sobre o Banco Master.",
+        "porQueImporta": "A possível relação entre o ministro e o ex-banqueiro pode comprometer a imparcialidade das decisões do TSE e do STF.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/brasil/a-lentidao-das-investigacoes-sobre-mensagens-do-celular-de-daniel-vorcaro/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/10/16/mensagens-mostram-festa-de-vorcaro-para-kassio-nunes-marques-com-garotas-de-programa-diz-revista.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-17T15:01:42.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/Sede-da-Policia-Federal-em-Brasilia.jpg"
+      },
+      {
+        "clusterId": "05a0adbbff190759",
+        "slug": "693399f18804f09b",
+        "titulo": "Lula e apoiadores de Janones promovem campanha de fotos com camisa verde e amarelo",
+        "resumo": "O movimento \"O verde e amarelo é nosso\" foi convocado por Janones para que apoiadores de Lula publiquem fotos vestindo camisas com as cores da bandeira e fazendo o símbolo \"L\". Lula aderiu à campanha e postou uma foto com a camisa da seleção. A iniciativa busca desvincular o símbolo nacional dos apoiadores da família Bolsonaro.",
+        "porQueImporta": "A campanha reflete a tentativa de reforçar a identidade nacional entre os apoiadores de Lula, contestando a associação do símbolo ao ex-presidente Bolsonaro.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-nega-eduardo-como-chanceler-e-diz-que-jair-nao-pediu-cargo/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/brasil/os-destinos-de-jair-e-eduardo-bolsonaro-em-um-eventual-governo-de-flavio/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/flavio-bolsonaro-diz-que-nao-esta-no-radar-nomear-o-pai-e-que-eduardo-nao-sera-chanceler-em-eventual-governo.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-bolsonaro-nunca-tratou-de-cargo-em-eventual-governo/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/meu-irmao-nao-sera-chanceler-diz-flavio-sobre-papel-de-eduardo-em-eventual-governo/"
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/verde-amarelo-e-nosso-veja-fotos-da-campanha-convocada-por-janones/"
           }
         ],
-        "updatedAt": "2026-10-17T02:31:08.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-16-at-22.02.29.jpeg"
+        "updatedAt": "2026-10-17T14:39:08.000Z"
       },
       {
-        "clusterId": "9bbe947e89986408",
-        "slug": "40753858e704a644",
-        "titulo": "TSE mantém decisão que impede Meta de interferir na distribuição de conteúdo político-eleitoral",
-        "resumo": "O Tribunal Superior Eleitoral formou maioria para sustentar a decisão do ministro Marco Aurélio Bellizze, que determina que, até o fim do segundo turno, a Meta não pode interferir na distribuição de conteúdo político‑eleitoral de Lula e Flávio Bolsonaro, sob pena de multa diária de R$ 500 mil. A medida foi tomada após a campanha de Lula alegar que a Meta favoreceu posts de apoiadores de Flávio Bolsonaro. A decisão foi acompanhada pelos ministros Floriano de Azevedo Marques, André Mendonça e Estela Aranha.",
-        "porQueImporta": "A medida regula a atuação das redes sociais no período eleitoral, afetando a visibilidade das campanhas dos candidatos.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/tse-decide-manter-ordem-que-proibe-meta-de-restringir-conteudo-e-favorecer-candidatos/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/tse-forma-maioria-para-determinar-que-meta-nao-interfira-em-conteudo-eleitoral/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/10/16/tse-que-meta-nao-interfira-em-distribuicao-de-conteudo-politico-eleitoral.ghtml"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/campanha-de-lula-acusa-meta-de-favorecer-flavio-e-diz-que-decisao-do-tse-confirma-denuncias/"
-          }
-        ],
-        "updatedAt": "2026-10-17T01:40:14.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/Flavio-Bolsonaro-PL-e-Lula-PT-candidatos-a-presidencia-da-Republica-Foto-1_-Charles-Vieira_Campanha-_-Foto-2_-Ricardo-Stuckert_Campanha-6.png"
-      },
-      {
-        "clusterId": "89b5f4444f9cac23",
-        "slug": "394d5610d6b2909f",
-        "titulo": "Pesquisas mostram empate técnico entre Lula e Flávio Bolsonaro a dez dias do segundo turno",
-        "resumo": "A pesquisa Datafolha, com 2.520 entrevistas, aponta 47% de intenção de voto para Flávio Bolsonaro e 45% para Lula, dentro da margem de erro de dois pontos. O levantamento da Quaest, com 2.000 entrevistas telefônicas, mostra 46% para cada candidato, também dentro da margem de erro. Em Sergipe, lideranças políticas mobilizam apoio aos dois candidatos. A Band agendou o primeiro debate direto entre Lula e Flávio Bolsonaro, enquanto as campanhas concentram esforços em conquistar eleitores que não votaram no primeiro turno.",
-        "porQueImporta": "O empate técnico indica que o resultado do segundo turno pode depender de mobilização de eleitores indecisos e de estratégias de campanha.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/cartaexpressa/a-nova-pesquisa-indexa-sobre-lula-x-flavio-bolsonaro-a-3-dias-do-2o-turno/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/pesquisa-que-mais-acertou-no-1o-turno-mostra-flavio-bolsonaro-com-52-e-lula-48-dos-votos-validos/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/16/datafolha-mostra-desafios-a-candidatos-flavio-bolsonaro-tem-de-evitar-mais-perda-de-votos-lula-precisa-ganhar-eleitores.ghtml"
-          },
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/ciencia/o-que-lula-e-flavio-bolsonaro-dizem-sobre-pesquisa-e-universidade-em-seus-planos-de-governo/"
-          }
-        ],
-        "updatedAt": "2026-10-16T23:11:53.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/09/AFP__20260929__C9LQ3ZQ__v1__MidRes__ComboBrazilElectionCandidates.jpg"
-      },
-      {
-        "clusterId": "8240d47d951f4ade",
-        "slug": "224286765d8c625d",
-        "titulo": "Eleições 2026: segunda etapa marcada para 25 de outubro",
-        "resumo": "O segundo turno das eleições de 2026 ocorrerá em 25 de outubro, independentemente da diferença de votos entre os candidatos. A ausência no primeiro turno não impede que o eleitor participe do segundo. Em 20 estados o governador já foi eleito no primeiro turno, enquanto em seis estados e no Distrito Federal a escolha ficará para o segundo turno.",
-        "porQueImporta": "Determina quando e quem pode votar na segunda fase das eleições.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-quais-as-diferencas-entre-o-1o-e-2o-turno/"
-          },
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/eleicoes-2026-nao-votei-no-1o-turno-posso-votar-no-2o"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/eleicoes-2026-quais-estados-ja-elegeram-governador-e-onde-havera-segundo-turno.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-17T08:00:04.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/10/eleicoes-2026-brasilia-urna-urnas-votos-justica-eleitoral-metropoles-7-scaled.jpg"
-      },
-      {
-        "clusterId": "1891fa4c4637f1c7",
-        "slug": "2da45fc3319f13ac",
-        "titulo": "Datafolha mostra apoio a mandato único e mudanças no STF",
-        "resumo": "A pesquisa Datafolha, realizada entre 20 e 22 de outubro, revelou que 51% dos brasileiros preferem mandato presidencial de quatro anos sem possibilidade de reeleição, enquanto 46% defendem a reeleição. Além disso, 59% dos entrevistados acreditam que os ministros do STF deveriam ter mandato fixo, e 65% querem que decisões importantes sejam tomadas pelo plenário, não de forma monocrática. O levantamento também indica que cerca de três quartos dos brasileiros apoiam a duração de quatro anos para o mandato presidencial.",
-        "porQueImporta": "Os resultados refletem a opinião pública sobre reformas institucionais que podem impactar a governabilidade e a independência judicial.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/datafolha-51-preferem-mandato-unico-e-46-possibilidade-de-reeleicao/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/datafolha-ministros-stf-mandato.ghtml"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/a-nova-pesquisa-datafolha-sobre-lula-x-flavio-bolsonaro/"
-          }
-        ],
-        "updatedAt": "2026-10-17T04:34:23.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/qrtX8A1uqsEhFcQJh0TyMXQ4MvI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/T/dcJFFHTOOe1uKtl2JvqA/fotojet-4-.jpg"
-      },
-      {
-        "clusterId": "162c08e3ed5b0240",
-        "slug": "8888f5609db8927e",
-        "titulo": "Flávio Bolsonaro afirma que manterá fim da escala 6×1 se eleito",
-        "resumo": "Flávio Bolsonaro, candidato do PL, declarou que continuará a apoiar o fim da escala 6×1 caso seja eleito, apesar de ter votado a favor da PEC que a aboliu. Ele afirmou que a mudança foi motivada por ouvintes de trabalhadores em viagens pelo país, que, segundo ele, concordaram com a aprovação. A proposta, aprovada pelo Senado em 14 de outubro, reduz a jornada máxima de trabalho de 44 para 40 horas semanais e garante dois dias de descanso remunerado. Lula criticou a posição de Flávio e destacou a PEC como trunfo eleitoral.",
-        "porQueImporta": "A decisão de Flávio sobre a escala 6×1 pode influenciar a polarização política e o apoio de trabalhadores na reta final da eleição.",
+        "clusterId": "ab0d487d4d239be6",
+        "slug": "f006ab888815a0df",
+        "titulo": "Projeto de lei amplia proteção a pesquisadoras em licença-maternidade",
+        "resumo": "A senadora Soraya Thronicke apresentou um projeto de lei que amplia a proteção às pesquisadoras em licença-maternidade, garantindo direitos adicionais durante o período de afastamento. O texto recebeu parecer favorável da deputada Mara Gabrilli em comissão, reforçando o apoio ao tema. A proposta visa assegurar condições de trabalho e retorno mais seguros para as profissionais da pesquisa científica.",
+        "porQueImporta": "A medida fortalece a igualdade de gênero e a continuidade da produção científica no país.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-nao-vai-retomar-a-escala-6-x-1/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/brasil/a-promessa-feita-por-flavio-bolsonaro-sobre-o-fim-da-escala-6x1/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/horario-eleitoral-14-outubro-presidente.ghtml"
+            "url": "https://www.poder360.com.br/poder-congresso/proposta-amplia-protecao-a-pesquisadoras-em-licenca-maternidade/"
           }
         ],
-        "updatedAt": "2026-10-17T02:28:09.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/Captura-de-tela-2026-10-16-230243.jpg"
+        "updatedAt": "2026-10-17T14:32:11.000Z"
       },
       {
-        "clusterId": "2cbe3f36d99252be",
-        "slug": "af7222a8c6d32ded",
-        "titulo": "TSE autoriza desvinculação da campanha do PT do canal “Exército do Lula”",
-        "resumo": "O Tribunal Superior Eleitoral (TSE) decidiu que a campanha do Partido dos Trabalhadores (PT) não será responsabilizada pelo canal de mídia social “Exército do Lula”, criado por Janones. A decisão foi tomada após o pedido do PT, que baseou-se em resolução aprovada na sexta-feira (16 de outubro). O ministro Kassio Nunes Marques, presidente da corte eleitoral, aceitou a solicitação.",
-        "porQueImporta": "A medida evita que a campanha do PT seja penalizada por conteúdo de terceiros, influenciando a dinâmica da eleição.",
+        "clusterId": "62da773131e7f72e",
+        "slug": "566d8965ae7a0a7a",
+        "titulo": "Museu da UFRJ receberá mais R$ 10 milhões para restauração",
+        "resumo": "O Ministério da Educação anunciou um aporte adicional de R$ 10 milhões para a restauração do Museu da UFRJ. O objetivo é garantir a reconstrução completa do patrimônio cultural. O ministro da Educação enfatizou que não medirão esforços para assegurar a preservação do museu.",
+        "porQueImporta": "O investimento reforça a valorização e conservação do patrimônio histórico da universidade.",
         "category": "politica",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/tse-autoriza-pt-a-desvincular-campanha-do-canal-exercito-do-lula/"
-          },
-          {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/pt-pede-que-tse-nao-considere-exercito-do-lula-vinculado-a-campanha/"
+            "url": "https://www.poder360.com.br/poder-cultura/museu-da-ufrj-ira-receber-mais-r-10-milhoes-para-restauracao/"
           }
         ],
-        "updatedAt": "2026-10-17T03:09:55.000Z"
+        "updatedAt": "2026-10-17T14:24:03.000Z"
       }
     ],
     "economia": [
       {
-        "clusterId": "a29373b2654a6bc0",
-        "slug": "2756ea99fcdd6759",
-        "titulo": "Flávio propõe PEC para acabar com reeleição e impedir parentes até terceiro grau",
-        "resumo": "O candidato Flávio anunciou intenção de apresentar uma Proposta de Emenda à Constituição (PEC) que visa eliminar a reeleição presidencial e impedir que parentes até o terceiro grau concorram à sucessão. Ele afirmou que não permitiria que seu pai ou irmãos se candiditem caso seja eleito. A proposta tem como objetivo limitar a continuidade de poder familiar nas eleições presidenciais. Flávio destacou que a regra atual já considera parentes até o terceiro grau como forma de reeleição.",
-        "porQueImporta": "A medida pode alterar significativamente a dinâmica política e a participação familiar nas eleições presidenciais.",
+        "clusterId": "93264aaa5d8b112a",
+        "slug": "3edd262f6c48915f",
+        "titulo": "Navio afundado em Ormuz deixa centenas de iPhones à deriva",
+        "resumo": "Um porta-contêineres de origem singapurense, chamado GFS Pride, foi atingido por uma mina naval no Estreito de Ormuz e afundou, deixando centenas de caixas de iPhones e perfumes no mar. Pescadores locais recolheram os dispositivos que caíram da embarcação. A ocorrência ocorreu na última terça-feira (13).",
+        "porQueImporta": "Ilustra os impactos de conflitos marítimos na logística global e a vulnerabilidade de cargas de alto valor.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/nao-apoiaria-mudar-regra-para-permitir-que-parentes-concorram-a-sucessao-diz-flavio/"
+            "url": "https://www.infomoney.com.br/mundo/iphones-ficam-a-deriva-no-estreito-de-ormuz-apos-navio-ser-atingido-por-mina/"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-promete-pec-para-acabar-com-reeleicao-e-veto-a-parentes-ate-3o-grau/"
+            "url": "https://www.cnnbrasil.com.br/internacional/pescadores-encontram-centenas-de-iphones-no-mar-apos-navio-afundar-em-ormuz/"
           }
         ],
-        "updatedAt": "2026-10-17T01:07:23.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-11T171525Z_2093725563_RC241OA2C7VH_RTRMADP_3_BRAZIL-ELECTION-BOLSONARO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-10-17T14:21:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/02/celular-iphone.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "d21f5711a8031568",
-        "slug": "2d4ba30aac91cd26",
-        "titulo": "Governo avalia linha de crédito para empresas afetadas pelo fim da escala 6×1",
-        "resumo": "O ministro da Fazenda, Dario Durigan, informou que o governo já está estudando a possibilidade de lançar uma linha especial de crédito para empresas que serão impactadas pela extinção da escala 6×1. Ele descartou a ideia de que micro e pequenas empresas seriam as mais afetadas, afirmando que o impacto não depende do porte do negócio. A medida visa mitigar os efeitos da mudança no regime de tributação das empresas. O governo ainda não definiu detalhes sobre a linha de crédito.",
-        "porQueImporta": "A iniciativa pode aliviar a pressão financeira sobre empresas de diversos tamanhos diante da nova legislação tributária.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/economia/governo-pode-dar-credito-a-empresas-afetadas-pelo-fim-da-escala-6x1/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/governo-avalia-credito-para-empresas-afetadas-pelo-fim-da-escala-6x1-diz-durigan/"
-          }
-        ],
-        "updatedAt": "2026-10-16T23:09:35.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/lula-hospitais-inteligentes-mc_abr_07012026-13-e1777929418299.jpg"
-      },
-      {
-        "clusterId": "ca641441da5d1d04",
+        "clusterId": "a8f871e589f1bbdd",
         "slug": "eaa2f1e83a31e784",
-        "titulo": "Apple lança iPhone Duo, primeiro celular dobrável da empresa",
-        "resumo": "O iPhone Duo entrou em pré‑venda no Brasil a partir de 16 de outubro, com preços que variam de R$ 21.999 a R$ 30.999. A entrega está prevista para 23 de outubro. O aparelho possui tela externa de 5,4 polegadas e marca a entrada da Apple no mercado de celulares dobráveis.",
-        "porQueImporta": "Representa a entrada da Apple em um segmento já competitivo, ampliando opções de dispositivos dobráveis no país.",
+        "titulo": "Apple lança iPhone Duo, primeiro celular dobrável, em pré-venda no Brasil",
+        "resumo": "O iPhone Duo, modelo de dobrável da Apple, entrou em pré-venda no Brasil no dia 16 de outubro, com preços que variam até R$ 30.999. A entrega está prevista para 23 de outubro. O aparelho, que foi lançado em setembro, possui tela externa de 5,4 polegadas e marca a entrada da Apple em um segmento já ocupado por Samsung e Huawei.",
+        "porQueImporta": "A chegada do iPhone Duo amplia a oferta de dispositivos dobráveis no mercado brasileiro, oferecendo uma alternativa à Apple em um segmento competitivo.",
         "category": "economia",
         "sources": [
           {
             "name": "Exame",
-            "url": "https://exame.com/carreira/a-apple-chegou-7-anos-depois-da-samsung-ao-celular-dobravel-chegar-atrasado-nem-sempre-e-perder/"
+            "url": "https://exame.com/tecnologia/iphone-duo-pre-venda-entrega-janeiro-2027/"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/tecnologia/noticia/2026/10/16/iphone-duo-entra-em-pre-venda-nesta-sexta-veja-precos-do-celular-dobravel-da-apple.ghtml"
           }
         ],
-        "updatedAt": "2026-10-16T17:47:47.000Z",
+        "updatedAt": "2026-10-17T10:16:20.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/831MykZh-IWf5vXgaAG0qGatwGQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/v/gQ8vLRTmAuKwHEoaXRgA/captura-de-tela-2026-09-09-150135.png"
       },
       {
-        "clusterId": "c1ed3065d15a723c",
-        "slug": "c6cc5ca28efa0ae2",
-        "titulo": "Custo de transporte de alface supera preço de compra nos EUA",
-        "resumo": "O aumento dos preços dos combustíveis tem elevado os custos de transporte, fazendo com que o valor de levar alface até o consumidor seja maior que o preço de compra da própria hortaliça. Esse cenário pressiona as margens das empresas e pode levar a uma redução no consumo. A cadeia de suprimentos enfrenta pressão crescente, refletindo o impacto dos combustíveis na logística.",
-        "porQueImporta": "Ilustra como os preços de energia afetam diretamente a disponibilidade e o custo de alimentos básicos.",
+        "clusterId": "90468441e505b760",
+        "slug": "c3b8e30081baad30",
+        "titulo": "Manifestantes invadem prefeitura de Marselha e marcham em Paris",
+        "resumo": "Em Marselha, manifestantes violentos invadiram a prefeitura da cidade. Em Paris, uma marcha convocada por redes sociais percorreu bairros nobres da capital. A ação foi coberta pela mídia francesa e internacional. As manifestações refletem tensões sociais e políticas no país.",
+        "porQueImporta": "Mostra a crescente instabilidade política e social na França.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/business/global/mais-caro-transportar-a-alface-do-que-comprar-a-alface-o-novo-choque-nos-eua/"
+            "url": "https://www.infomoney.com.br/mundo/manifestantes-na-franca-invadem-prefeitura-de-marselha-e-marcham-em-paris/"
           }
         ],
-        "updatedAt": "2026-10-17T08:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/FOR-ONE-GROCERY-CHAIN-THE-COST-TO-SHIP-LETTUCE-NOW-TOPS-THE-LETTUCE-ITSELF-SHOWING-HOW-HIGH-FUEL-PRICES-ARE-SINKING-THEIR-TEETH-ACROSS-THE-ECONOMY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-10-17T14:05:18.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Protestos-na-Franca-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "29d1196fdad61979",
-        "slug": "19f7a96805afe91c",
-        "titulo": "Líderes que valorizam jornadas excessivas prejudicam o sono das equipes",
-        "resumo": "Pesquisas indicam que chefes que incentivam longas jornadas e noites mal dormidas afetam o descanso, o desempenho e o comportamento ético dos funcionários. O sono comprometido pode levar a erros, queda na produtividade e aumento de conflitos internos. A cultura de trabalho que prioriza horas sobre qualidade de vida tem impactos negativos mensuráveis no ambiente corporativo.",
-        "porQueImporta": "O sono adequado é essencial para a saúde, produtividade e ética no trabalho.",
+        "clusterId": "3f0d6163fe472ea4",
+        "slug": "31125243b3b434c4",
+        "titulo": "Presidente do BC da Alemanha destaca China como parceiro-chave e concorrente da Europa",
+        "resumo": "Joachim Nagel, presidente do Banco Central da Alemanha, afirmou que a China é um dos parceiros econômicos mais importantes da Europa, mas também um dos mais complexos. Ele ressaltou que a relação entre os dois blocos envolve tanto cooperação quanto competição. O comentário foi feito em contexto de discussões sobre comércio e investimentos bilaterais.",
+        "porQueImporta": "A declaração reflete a importância crescente da China na economia europeia e os desafios de equilibrar parceria e competição.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/business/global/por-que-lideres-estao-prejudicando-o-sono-das-equipes-sem-perceber/"
+            "url": "https://www.infomoney.com.br/economia/presidente-do-bc-da-alemanha-diz-que-china-e-parceira-chave-e-concorrente-da-europa/"
           }
         ],
-        "updatedAt": "2026-10-17T08:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/09/sleeping-6763396_640.png?fit=300%2C215&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-10-17T13:54:22.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-29T180901Z_1_LYNXMPEK7S0QL_RTROPTP_4_ECB-POLICY-NAGEL.jpg?fit=300%2C214&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "9a6ba89e313b02d5",
-        "slug": "158aa79713a008a5",
-        "titulo": "Dólar volta a subir",
-        "resumo": "O dólar tem se valorizado novamente, impulsionado pelas altas taxas de juros nos Estados Unidos. Especialistas veem oportunidade de investimento no exterior, mas alertam contra apostar diretamente no câmbio. Recomenda-se entrada gradual e cautela.",
-        "porQueImporta": "A valorização do dólar afeta custos de importação e oportunidades de investimento internacional.",
+        "clusterId": "e48d6b21ca2a8fb4",
+        "slug": "b8368ad1b24092ec",
+        "titulo": "Irã e Egito discutem situação de Ormuz e conflito no Iêmen em encontro de chanceleres",
+        "resumo": "O ministro das Relações Exteriores do Irã, Abbas Araghchi, reuniu-se com o chanceler egípcio, Badr Abdelatty, para tratar da situação no estreito de Ormuz e do conflito no Iêmen. Durante a conversa, o Irã prometeu oferecer apoio para a resolução das hostilidades entre a Arábia Saudita e o Iêmen. O encontro ocorreu no sábado, 17 de outubro, e destacou a intenção de ambos os países de colaborar na busca por soluções diplomáticas.",
+        "porQueImporta": "A cooperação entre Irã e Egito pode influenciar a estabilidade regional e a segurança marítima no estreito de Ormuz.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/onde-investir/dolar-volta-a-subir-e-bom-momento-investir-la-fora/"
+            "url": "https://www.infomoney.com.br/mercados/ira-e-egito-discutem-situacao-de-ormuz-e-conflito-no-iemen-em-encontro-de-chanceleres/"
           }
         ],
-        "updatedAt": "2026-10-17T08:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/03/2026-03-18T220859Z_1_LYNXMPEM2H1GS_RTROPTP_3_GLOBAL-MARKETS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-10-17T13:27:52.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Abbas-Araghchi.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "4d6e79a3dbf47777",
-        "slug": "23868135d516b12a",
-        "titulo": "Indústria russa de drones em Alabuga enfrenta denúncias de tráfico humano",
-        "resumo": "O complexo de produção de drones em Alabuga, no Tartaristão, teria adotado práticas de tráfico humano semelhantes às de esquemas de trabalho escravo em países asiáticos. Trabalhadores são mantidos em condições precárias e forçados a trabalhar em jornadas extenuantes. Autoridades locais e organizações de direitos humanos investigam as denúncias, que apontam violação de direitos humanos e leis trabalhistas.",
-        "porQueImporta": "O caso destaca a necessidade de fiscalização internacional sobre condições de trabalho em setores de alta tecnologia.",
+        "clusterId": "b84b0588e44dbad5",
+        "slug": "b8ef0323b552e0eb",
+        "titulo": "Furacão Trudy avança em direção ao México e tufão Champi ameaça Guam",
+        "resumo": "O furacão Trudy, classificado como categoria 1, avançou em direção ao México com ventos máximos sustentados de 150 km/h. Enquanto isso, o tufão Champi, com ventos sustentados de 160 km/h, representa ameaça para Guam. Ambas as tempestades estão em desenvolvimento e monitoradas pelas autoridades meteorológicas.",
+        "porQueImporta": "A movimentação dessas tempestades pode causar danos e riscos às regiões afetadas.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/trafico-humano-e-violacao-de-direitos-como-funciona-a-industria-russa-de-drones/"
+            "url": "https://www.infomoney.com.br/mercados/furacao-trudy-avanca-em-direcao-ao-mexico-tufao-champi-ameaca-guam/"
           }
         ],
-        "updatedAt": "2026-10-17T08:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Ataque-de-drone-russo-em-Kyev.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-10-17T13:18:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Furacao-Trudy.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "84cb841319666f32",
-        "slug": "b179d0ff8a89d13d",
-        "titulo": "Rotatividade alta preocupa comércio varejista de SP",
-        "resumo": "A taxa de substituição de trabalhadores no comércio varejista de São Paulo ultrapassou 63 % nos últimos 12 meses até junho, o maior nível desde 2022. Esse índice indica que mais de um trabalhador a cada dois está sendo trocado. A alta rotatividade pode afetar a produtividade e os custos operacionais das lojas. Empresas do setor estão buscando estratégias de retenção para mitigar esses impactos.",
-        "porQueImporta": "A elevada rotatividade pode aumentar custos e reduzir a eficiência das operações varejistas.",
+        "clusterId": "a19400a309e053f0",
+        "slug": "36ffc8654ef7f2f4",
+        "titulo": "Incêndio mata 10 pessoas em resort de madeira em Bangladesh",
+        "resumo": "Um incêndio começou pela manhã em um resort de madeira de três andares próximo à Baía de Bengala, em Bangladesh, e se espalhou rapidamente. O fogo resultou na morte de 10 pessoas e destruição total do complexo. O resort era composto por estruturas de madeira, o que contribuiu para a rápida propagação do fogo.",
+        "porQueImporta": "O incidente destaca a necessidade de normas de segurança mais rigorosas em acomodações de madeira na região.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/economia/rotatividade-alta-preocupa-comercio-varejista-de-sp-veja-dicas-de-retencao/"
+            "url": "https://www.infomoney.com.br/mundo/incendio-destroi-resort-em-bangladesh-e-mata-10-pessoas/"
           }
         ],
-        "updatedAt": "2026-10-17T08:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/05/Captura-de-tela-2024-05-28-113313.png?fit=300%2C168&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-10-17T13:11:02.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/TupTup-Resto-Resort.jpg?fit=300%2C251&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "d7d100d69484c16b",
+        "slug": "a46844a98a2409e6",
+        "titulo": "Leandro Souza volta dos EUA e transforma espetinho em negócio de R$ 200 milhões",
+        "resumo": "O empreendedor Leandro Souza retornou dos Estados Unidos e, ao vender um simples espetinho de rua, identificou uma oportunidade de negócio. Essa ideia deu origem ao Espetto Carioca, que evoluiu para o Grupo Impettus. O grupo hoje registra faturamento de R$ 200 milhões.",
+        "porQueImporta": "Ilustra como uma ideia simples pode escalar para um negócio de grande porte.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/business/tinha-um-espetinho-no-meio-do-caminho/"
+          }
+        ],
+        "updatedAt": "2026-10-17T13:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Leandro-Souza-fundador-do-Grupo-Impettus.jpg?fit=300%2C171&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "dfbd02ded3617335",
-        "slug": "4b450c051d2a3e98",
-        "titulo": "Lula se prepara para debate com Flávio Bolsonaro na Band",
-        "resumo": "Lula passou sábado em Brasília para se preparar para o primeiro debate televisivo com Flávio Bolsonaro, focando em propostas para um eventual novo mandato e evitando confrontos agressivos. A campanha do petista avaliou positivamente a entrevista à Globo e concentra expectativas no encontro na reta final da disputa. O debate, a primeira troca direta entre os candidatos, ocorrerá no segundo turno na Band.",
-        "porQueImporta": "O debate pode influenciar decisivamente a escolha dos eleitores no segundo turno.",
+        "clusterId": "56f1b25f0dbbe773",
+        "slug": "16c36cfa93dd19c5",
+        "titulo": "Trump suspende sanções e tarifas contra a Rússia",
+        "resumo": "O presidente Donald Trump cancelou, por ordem executiva, sanções e tarifas dos EUA contra a Rússia que deveriam entrar em vigor na semana seguinte. As medidas incluíam tarifas sobre produtos russos e penalidades a países que comprassem petróleo e gás da Rússia. A suspensão foi justificada como medida de segurança nacional. A decisão aumenta a preocupação da Ucrânia com possíveis ataques russos antes do inverno.",
+        "porQueImporta": "A suspensão pode reduzir o apoio econômico dos EUA à Ucrânia e alterar o equilíbrio de sanções contra a Rússia.",
         "category": "mundo",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/lula-passa-sabado-em-brasilia-se-preparando-para-primeiro-debate-com-flavio/"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cwkg57dyvrn3o?at_medium=RSS&at_campaign=rss"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mundo/zelenski-pede-apoio-a-novas-sancoes-dos-eua-contra-a-russia-apos-suspensao-de-trump/"
           },
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/a-expectativa-da-campanha-de-lula-para-o-confronto-com-flavio-na-band/"
-          }
-        ],
-        "updatedAt": "2026-10-17T06:31:10.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/07ff/live/b2ebbf90-c9a4-11f1-ad54-aba20166b422.png"
-      },
-      {
-        "clusterId": "9e68d5ae5b123c67",
-        "slug": "29b4c8ac60081d93",
-        "titulo": "Terremotos de magnitude 5,6 e 7 registrados no Paquistão e na Rússia",
-        "resumo": "Um terremoto de magnitude 5,6 a 5,7 foi registrado a 10 km de profundidade nas proximidades de Khuzdar, na província de Balochistan, Paquistão. A mesma região registrou o evento com profundidade de 10 km. Na Rússia, um terremoto de magnitude 7 atingiu a Península de Kamchatka, a 140 km de profundidade, sem relatos de vítimas ou danos. Os dois eventos foram confirmados por fontes locais e pelo Centro Sismológico Euro-Mediterrânico.",
-        "porQueImporta": "Esses sismos demonstram a atividade sísmica em regiões de risco, exigindo monitoramento e preparação para possíveis impactos.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/terremoto-de-magnitude-57-atinge-o-paquistao"
+            "url": "https://veja.abril.com.br/mundo/trump-suspende-sancoes-contra-a-russia-em-meio-a-criticas-a-ucrania/"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-56-atinge-provincia-no-paquistao/"
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cmdxw58v17gno?at_medium=RSS&at_campaign=rss"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/16/russia-terremoto.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/17/trump-suspende-tarifas-contra-a-russia-e-grandes-compradores-de-petroleo-e-gas-russos.ghtml"
           }
         ],
-        "updatedAt": "2026-10-17T06:22:46.000Z",
-        "imageUrl": "https://images.metroimg.com/2024/08/06181636/050824-NQ-Almoco-na-Embaixada-do-Paquistao-007.jpg"
+        "updatedAt": "2026-10-17T14:58:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/2025-12-28T184043Z_2106522970_RC2UPIA3EBHM_RTRMADP_3_UKRAINE-CRISIS-TRUMP-ZELENSKIY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "9113293eed524913",
+        "clusterId": "3e550eee5c9c07c4",
+        "slug": "d4914c188cd18b62",
+        "titulo": "Incêndio em prédio de turismo em Lyon durante protestos na França",
+        "resumo": "Em 17 de outubro, manifestantes em Lyon incendiaram um prédio de turismo, quebrando janelas e saqueando a propriedade. O ataque ocorreu em meio a protestos em várias cidades francesas que exigem melhorias nos serviços públicos e criticam o aumento do custo de vida. O prédio foi incendiado por indivíduos encapuzados, conforme relatado pela CNN Brasil. O incidente faz parte de uma onda de manifestações que resultou em centenas de detenções em todo o país.",
+        "porQueImporta": "O episódio destaca a escalada da violência nas manifestações francesas e a preocupação com a segurança de propriedades públicas.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/ck0546rzg0gvo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/predio-de-turismo-em-lyon-e-incendiado-em-meio-a-protestos-na-franca/"
+          }
+        ],
+        "updatedAt": "2026-10-17T14:40:30.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8196/live/a0be8040-ca36-11f1-9ab2-b325ce61f9d2.jpg"
+      },
+      {
+        "clusterId": "30637d936d370c53",
+        "slug": "5e1923c3d2fc4aa0",
+        "titulo": "Vikings chegaram à América quase 500 anos antes de Colombo",
+        "resumo": "Estudos indicam que exploradores nórdicos chegaram à costa leste da América do Norte no início do século XI, estabelecendo assentamentos temporários. Evidências arqueológicas, como artefatos e estruturas em L'Anse aux Meadows, confirmam a presença viking na região. A descoberta destaca a história pré-colombiana de exploração transatlântica. Os registros históricos e científicos corroboram a existência desses primeiros viajantes.",
+        "porQueImporta": "Revela que a exploração transatlântica não começou com Colombo, ampliando a compreensão da história global.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cke8r42r4d58o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-10-17T13:23:23.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4d34/live/8603be00-ca2c-11f1-9ab2-b325ce61f9d2.jpg"
+      },
+      {
+        "clusterId": "6e1aa73427f7d8cc",
         "slug": "c3bd2193c53cbd66",
         "titulo": "Tiroteio em escola primária de Oregon resulta em três mortes e atirador de 16 anos também morto",
         "resumo": "Um adolescente de 16 anos invadiu a escola primária Silver Rail, em Bend, Oregon, e atirou contra portas trancadas, matando três crianças e uma professora. O suspeito foi morto a tiros por uma pessoa que passava pelo local antes da chegada da polícia. Duas outras pessoas ficaram feridas. A polícia ainda não divulgou o nome do atirador.",
         "porQueImporta": "O incidente destaca a vulnerabilidade de escolas primárias aos ataques armados nos Estados Unidos.",
         "category": "mundo",
         "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/professor-e-pai-armado-se-uniram-para-deter-atirador-em-escola-dos-eua/"
-          },
           {
             "name": "G1",
             "url": "https://g1.globo.com/mundo/noticia/2026/10/16/atirador-mata-criancas-de-5-8-e-11-anos-em-escola-nos-eua-veja-o-que-se-sabe.ghtml"
@@ -693,55 +675,47 @@
             "url": "https://www.bbc.com/portuguese/articles/cjp3gk57nzyro?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-10-17T02:09:43.000Z",
+        "updatedAt": "2026-10-16T10:36:21.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/FB6DDwyJg9h_5z36yobKcEKoisQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/q/0vCadETtaOS1xJMAVITQ/design-sem-nome-2026-10-16t073405.072.jpg"
       },
       {
-        "clusterId": "5e8e6bf2e649df91",
-        "slug": "e070c543a20f84b8",
-        "titulo": "Zelensky pede apoio financeiro da UE e retoma ataques a refinarias russas",
-        "resumo": "O presidente ucraniano solicitou aos líderes da União Europeia um financiamento adicional de 70 bilhões de euros (cerca de R$400 bilhões) para o próximo ano, a fim de sustentar a defesa contra a Rússia. Em paralelo, a Ucrânia retomou ataques aéreos contra refinarias russas, alegando violação do cessar-fogo energético. A medida visa pressionar a Rússia a cumprir acordos de paz e garantir recursos energéticos. A solicitação financeira ocorre em meio a tensões entre a UE e os EUA.",
-        "porQueImporta": "O pedido reflete a necessidade de recursos para a guerra e a tensão crescente entre blocos internacionais.",
+        "clusterId": "929c7c8916cd7584",
+        "slug": "1f3a25e7a92e458d",
+        "titulo": "Eleição de Julia de Castro destaca onda de jovens de direita no Brasil",
+        "resumo": "Julia de Castro, influenciadora digital de 24 anos, foi eleita deputada federal pelo PL, representando a tendência de jovens de direita que utilizam capital político digital. Sua candidatura exemplifica a estratégia de recrutamento de influenciadores por partidos. A eleição reflete a ascensão de vozes digitais na política nacional. O caso mostra a eficácia de campanhas baseadas em redes sociais.",
+        "porQueImporta": "Ilustra como a presença digital pode transformar a participação política e fortalecer a direita no cenário brasileiro.",
         "category": "mundo",
         "sources": [
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/business/global/chegamos-ao-ponto-de-ruptura-entre-trump-e-zelensky/"
-          },
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cwq6n967qyqvo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-10-17T09:57:35.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9f9/live/8b739730-ca0d-11f1-bd4e-1bb57c253812.jpg"
+      },
+      {
+        "clusterId": "9d9730015ce704a2",
+        "slug": "6b5a69ba9a4e9f75",
+        "titulo": "Jovens da geração Z mobilizam-se em protestos globais por educação e direitos",
+        "resumo": "Estudantes do ensino médio e universitários, junto com professores e pais, protestam em várias cidades do mundo, exigindo melhores condições nas escolas e outras demandas sociais. Em Paris, manifestantes enfrentaram a polícia durante bloqueios que fazem parte de um dia nacional de manifestações. A mobilização se estende do Chile à Índia, passando por França, Espanha e Albânia, refletindo preocupações sobre educação, moradia, emprego e corrupção.",
+        "porQueImporta": "A participação ativa da geração Z destaca a crescente influência dos jovens nas políticas públicas e nas questões sociais contemporâneas.",
+        "category": "mundo",
+        "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/16/uniao-europeia-reafirma-apoio-a-zelensky-em-meio-a-tensoes-com-trump-apos-aproximacao-entre-eua-e-russia.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/17/uma-geracao-em-protesto-gen-z-usa-redes-sociais-para-tomar-as-ruas-ao-redor-do-mundo.ghtml"
           }
         ],
         "updatedAt": "2026-10-17T08:00:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/ZELENSKYY-TRUMP-ASSESS-3.jpg?fit=300%2C185&amp;quality=70&amp;strip=all"
+        "imageUrl": "https://s2-g1.glbimg.com/D7mAtZSAIQjUkkdGnLnH1cXK76c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/A/eVSBsBQAWdIBBXj96gzA/2026-10-08t160841z-1346267210-rc23znawgurk-rtrmadp-3-france-protest.jpg"
       },
       {
-        "clusterId": "cfe37710f21dc628",
-        "slug": "5c38947c8120cdc1",
-        "titulo": "Coreia do Norte testa torpedo com inteligência artificial",
-        "resumo": "A Coreia do Norte realizou um teste de um torpedo de alta velocidade que utiliza inteligência artificial para detectar e orientar alvos. O teste, conduzido pela agência estatal KCNA, foi considerado bem-sucedido e demonstrou tecnologias de propulsão desenvolvidas nos últimos cinco anos, com mais de 180 testes realizados. A operação faz parte do programa de modernização das forças armadas norte-coreanas.",
-        "porQueImporta": "O avanço tecnológico pode aumentar a capacidade de ataque subaquático do país, elevando tensões na região.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/coreia-do-norte-realiza-teste-com-torpedos-que-usam-ia-para-detectar-alvos/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/16/coreia-do-norte-testa-torpedo-que-usa-inteligencia-artificial-para-detectar-alvos.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-17T00:05:23.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/8ECjPCFdyX1DsHsXUUrYX7TrdHs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/v/7SOcgxStmExA0sJEhcSg/2023-05-31t124457z-1479767491-rc2n91a28rdy-rtrmadp-3-northkorea-politics.jpg"
-      },
-      {
-        "clusterId": "bdd3c8d1e1609890",
-        "slug": "4cc43107df125a4e",
-        "titulo": "EUA enviam centenas de soldados e drones para a América Latina",
-        "resumo": "Os Estados Unidos enviaram um batalhão de aproximadamente 600 militares para a América Latina, conforme reportado pelo New York Times. O contingente participará de treinamentos e exercícios com forças locais. A movimentação faz parte da estratégia de Trump de combater o narcotráfico e ampliar a influência americana na região. Drones militares também foram enviados para reforçar a presença dos EUA.",
-        "porQueImporta": "A ação reflete a intensificação da política militar dos EUA na América Latina e seu foco no combate ao tráfico de drogas.",
+        "clusterId": "1f073edb4a3a05c4",
+        "slug": "a734a0c5dd367786",
+        "titulo": "EUA enviam centenas de militares e drones para a América Latina",
+        "resumo": "Os Estados Unidos enviaram mais de 600 militares para treinamentos na América Latina, conforme reportado pelo The New York Times. A operação faz parte de uma estratégia de combate ao narcotráfico e de expansão da influência americana na região. Drones de combate também foram incluídos na missão. A iniciativa ocorre durante a administração de Donald Trump.",
+        "porQueImporta": "A movimentação reflete a crescente presença militar dos EUA na região e sua política de combate ao tráfico de drogas.",
         "category": "mundo",
         "sources": [
           {
@@ -753,160 +727,148 @@
         "imageUrl": "https://s2-g1.glbimg.com/zoOLvqaRkwyy-aKMyzW2cg0UtKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/2/SxErBkRbmXA6mpvWuPrg/2026-07-22t162303z-1929189347-rc20jma7a55g-rtrmadp-3-iran-crisis-transfer-usa.jpg"
       },
       {
-        "clusterId": "b6a2575068f343f3",
-        "slug": "c2df5c8c0412da90",
-        "titulo": "Sete candidatos à chefia da ONU recebem veto de membros permanentes",
-        "resumo": "Todos os sete candidatos ao cargo de secretário-geral da ONU receberam votos contrários de pelo menos um dos cinco membros permanentes do Conselho de Segurança. Reino Unido, França, Estados Unidos, China e Rússia rejeitaram ao menos um dos nomes. O impasse abre espaço para novas candidaturas.",
-        "porQueImporta": "A decisão influencia a escolha do próximo líder da ONU e pode afetar políticas globais.",
+        "clusterId": "52ba9445709613f4",
+        "slug": "0aebbfc1f9f52029",
+        "titulo": "Primeira-dama da Colômbia nega irregularidades em doações de US$ 17 milhões após terremoto",
+        "resumo": "A primeira-dama Ana Lucía Pineda afirmou que não houve irregularidades na gestão das doações de US$ 17 milhões destinadas à recuperação de áreas afetadas por um terremoto em agosto. Ela apresentou um relatório detalhando o uso dos fundos recebidos pela sua fundação. O comunicado foi feito na sexta-feira, em resposta a questionamentos sobre a administração das contribuições privadas.",
+        "porQueImporta": "A transparência na gestão de recursos de emergência é fundamental para a confiança pública e a eficácia das ações de recuperação.",
         "category": "mundo",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/16/todos-os-7-candidatos-a-chefia-da-onu-enfrentam-veto-e-impasse-abre-espaco-para-novos-nomes.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/17/primeira-dama-da-colombia-nega-irregularidades-em-doacoes-de-us-17-milhoes-apos-terremoto.ghtml"
           }
         ],
-        "updatedAt": "2026-10-16T23:01:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/pLBeeDIO5ooyE2GLFx9SoQdfkcs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/T/bxKHDoQQq6N3zw3MdsAA/2026-04-07t160942z-1133200094-rc2fkkafvt3r-rtrmadp-3-iran-crisis-un-bahrain.jpg"
-      },
-      {
-        "clusterId": "5cd7d9348f7f86fc",
-        "slug": "4be713c87b4a6e4e",
-        "titulo": "Pai de Tamara Klink explica por que não quis ajudar filha a virar navegadora",
-        "resumo": "Tamara Klink, que completou uma travessia de 100 dias da Namíbia até Salvador, foi reconhecida pelo Guinness World Records. Seu pai, que não a apoiou na decisão de se tornar navegadora, afirmou que a história se constrói, não se herda. O filme ‘100 Dias’, dirigido por Carlos Saldanha, estreou em 29 de outubro.",
-        "porQueImporta": "Ilustra a tensão entre expectativas familiares e a busca por autonomia nas escolhas pessoais.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c90k0320l7v7o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-10-16T21:56:23.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/933c/live/96d5fa70-c948-11f1-8566-4db41fa77717.jpg"
+        "updatedAt": "2026-10-17T05:51:47.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/L33FOHK9HuSGs1WSm-cKG7MunLw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/d/GjNxYlTXCYu5Hz3fKOYg/2026-09-22t204148z-1382439997-rc2tyk93efo9-rtrmadp-3-colombia-costa-rica.jpg"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "ef2d4f60a0422a62",
-        "slug": "4458e2a270e0cf04",
-        "titulo": "Nova teoria pode ajudar cientistas a entender como a IA “pensa\"",
-        "resumo": "Um pesquisador que atuou na OpenAI propôs que padrões na atividade dos neurônios artificiais sejam interpretáveis, o que pode permitir que cientistas compreendam melhor o funcionamento interno das redes neurais. A descoberta ainda é teórica e requer validação experimental, mas pode contribuir para a segurança de sistemas avançados de IA. A proposta sugere que a análise desses padrões pode revelar como a IA processa informações e toma decisões.",
-        "porQueImporta": "Entender o funcionamento interno da IA pode melhorar a transparência e a segurança de sistemas que dependem de decisões automatizadas.",
+        "clusterId": "a8d5d66754957da4",
+        "slug": "25757b84c41b719e",
+        "titulo": "Alerta da Defesa Civil no celular funciona por Cell Broadcast e pode chegar após a chuva",
+        "resumo": "O alerta da Defesa Civil é enviado via tecnologia Cell Broadcast, que dispara mensagens a todos os aparelhos em uma região sem necessidade de cadastro prévio. A mensagem se sobrepõe a outras notificações e pode chegar depois da chuva devido a etapas de processamento. Embora seja possível desativar os alertas, recomenda-se mantê‑los ativos para segurança.",
+        "porQueImporta": "Manter os alertas ativos garante que a população receba informações críticas em tempo hábil.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/16/inteligencia-artificial/nova-teoria-pode-ajudar-cientistas-a-entender-como-a-ia-pensa/"
-          }
-        ],
-        "updatedAt": "2026-10-17T02:00:20.000Z"
-      },
-      {
-        "clusterId": "33ee76cdb369bdd9",
-        "slug": "3f68e86f08c96c9b",
-        "titulo": "Olhar Digital News apresenta cobertura de tecnologia e ciência",
-        "resumo": "O programa Olhar Digital News exibiu, em 16 de outubro de 2026, uma seleção de notícias sobre tecnologia e ciência. A transmissão incluiu entrevistas, análises e atualizações sobre inovações recentes. O conteúdo foi disponibilizado em formato de vídeo e texto na plataforma do Olhar Digital.",
-        "porQueImporta": "Mantém o público informado sobre avanços que podem impactar a sociedade e o mercado.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/16/videos/confira-o-olhar-digital-news-na-integra-16-10-2026/"
-          }
-        ],
-        "updatedAt": "2026-10-17T00:32:17.000Z"
-      },
-      {
-        "clusterId": "250a21a07cfe02e7",
-        "slug": "35551d2a16b62067",
-        "titulo": "Modder libera PS5SX2 permitindo rodar jogos de PS2 em disco no PlayStation 5",
-        "resumo": "Um modder chamado Sword lançou o PS5SX2, um jailbreak que permite executar jogos de PlayStation 2 nativamente no PlayStation 5. O software funciona como um port do emulador PCSX2, rodando diretamente no chip Zen 2 do console. Ele suporta mídias físicas originais do PS2, sem necessidade de streaming ou host externo. A implementação depende de uma tradução customizada do ps5vk.",
-        "porQueImporta": "Facilita o acesso a títulos clássicos do PS2 em hardware moderno, ampliando a biblioteca de jogos disponíveis no PS5.",
-        "category": "tecnologia",
-        "sources": [
+            "url": "https://olhardigital.com.br/2026/10/17/dicas-e-tutoriais/saiba-como-desativar-os-alertas-da-defesa-civil-no-seu-celular-e-por-que-voce-nao-deve-fazer-isso/"
+          },
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/games/playstation-5-desbloqueado-comeca-a-rodar-jogos-de-ps2-em-disco/"
+            "url": "https://canaltech.com.br/apps/por-que-o-alerta-da-defesa-civil-chega-depois-da-chuva-entenda-como-funciona/"
           }
         ],
-        "updatedAt": "2026-10-17T00:00:02.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/NFqm6tY-EXltUHizMUlVO2uljPI=/0x0/filters:format(webp):quality(85)/bbf62a61-001e-4ad9-bf8c-6cf13fef2248.png"
+        "updatedAt": "2026-10-17T13:44:56.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/qxBJcqiJB9yjm1ET5uLoFIjZNjE=/0x0/filters:format(webp):quality(85)/8fbe9209-220a-4d73-8eda-0c56bc2ba3f8.jpeg"
       },
       {
-        "clusterId": "d2a709d4aedf94fa",
-        "slug": "feaad191105329d9",
-        "titulo": "Resultado da Quina 7144",
-        "resumo": "O concurso 7144 da Quina, realizado em São Paulo, premiou R$ 39 milhões. Foram sorteados cinco números e os ganhadores foram anunciados. O post traz os números sorteados e orientações sobre como resgatar o prêmio.",
-        "porQueImporta": "Importa para quem participa da loteria, pois informa o valor do prêmio e os procedimentos de resgate.",
+        "clusterId": "fa38356e6301c9f5",
+        "slug": "e3ad7c2d2ff29997",
+        "titulo": "Mais de 85% dos desenvolvedores japoneses de games já utilizam IA generativa",
+        "resumo": "Uma pesquisa divulgada na Tokyo Game Show 2026 revelou que mais de 85% dos desenvolvedores de jogos no Japão já empregam IA generativa em seus processos. A tecnologia é usada principalmente para aumentar a produtividade, reduzir custos e otimizar o desenvolvimento de jogos. O estudo destaca o rápido crescimento da adoção de IA no setor de entretenimento digital no país.",
+        "porQueImporta": "A alta taxa de adoção indica que a IA generativa está se tornando uma ferramenta padrão na indústria de jogos japonesa, influenciando práticas de desenvolvimento e competitividade.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/16/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7144-sexta-16-10/"
+            "url": "https://olhardigital.com.br/2026/10/17/games-e-consoles/858-dos-desenvolvedores-japoneses-de-games-ja-usam-ia-generativa/"
           }
         ],
-        "updatedAt": "2026-10-16T23:40:00.000Z"
+        "updatedAt": "2026-10-17T14:00:00.000Z"
       },
       {
-        "clusterId": "57f8d2c5786f0810",
-        "slug": "500163858b9713d0",
-        "titulo": "Dupla aposta vence Lotofácil 3806 e 128 apostas acertam 14 números",
-        "resumo": "No concurso 3806 da Lotofácil, duas apostas ganharam o prêmio principal com 15 acertos. Além disso, 128 apostas acertaram 14 números e receberão R$ 2.642,48 cada. O sorteio ocorreu na noite de sexta-feira, 16 de outubro, às 21h. O prêmio estimado era de cerca de R$ 2 milhões.",
-        "porQueImporta": "A vitória de duas apostas destaca a possibilidade de ganhos significativos na Lotofácil.",
+        "clusterId": "15df914bd2e96945",
+        "slug": "ce467ab1de2febae",
+        "titulo": "Sindicalização cresce na indústria de games em meio a denúncias de jornadas excessivas",
+        "resumo": "Trabalhadores de empresas como Sega, Activision Blizzard e Microsoft estão organizando movimentos sindicais para exigir salários mais justos, estabilidade e condições de trabalho adequadas. A mobilização ocorre em paralelo a denúncias de jornadas de trabalho excessivas e falta de benefícios. As reivindicações incluem melhor remuneração, segurança no emprego e ambiente de trabalho saudável. O movimento reflete uma crescente preocupação com a qualidade de vida dos profissionais de desenvolvimento de jogos.",
+        "porQueImporta": "A organização dos trabalhadores pode levar a mudanças significativas nas políticas de RH e nas práticas de trabalho na indústria de games.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/16/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3806-sexta-16-10/"
+            "url": "https://olhardigital.com.br/2026/10/17/games-e-consoles/sindicalizacao-nos-games-por-que-desenvolvedores-buscam-melhores-condicoes/"
           }
         ],
-        "updatedAt": "2026-10-16T23:40:00.000Z"
+        "updatedAt": "2026-10-17T13:00:00.000Z"
       },
       {
-        "clusterId": "756995502a5b5e7c",
-        "slug": "efbf7b03f8859fd4",
-        "titulo": "CD Projekt anuncia filme live‑action de Cyberpunk 2077 com história original",
-        "resumo": "A CD Projekt RED confirmou que a Paramount Pictures produzirá um filme live‑action baseado em Cyberpunk 2077, mas a trama será inédita, semelhante ao anime Edgerunners. O CEO Michał Nowakowski destacou que o filme não seguirá a narrativa do jogo. A iniciativa visa revitalizar o interesse no universo Cyberpunk após o lançamento problemático do jogo em 2020.",
-        "porQueImporta": "O projeto demonstra a expansão do universo Cyberpunk para outras mídias, potencializando o engajamento dos fãs.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/entretenimento/filme-de-cyberpunk-2077-nao-sera-igual-ao-jogo-mas-sim-uma-historia-inedita/"
-          }
-        ],
-        "updatedAt": "2026-10-16T23:18:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/3DRvigbZI_8hhkZwHnOVsYx0IKI=/0x0/filters:format(webp):quality(85)/a75a22d6-86ef-4fd3-be5c-16ef2150f8e9.jpg"
-      },
-      {
-        "clusterId": "21d38dd2b1ae81b6",
-        "slug": "24ad79f82a60187c",
-        "titulo": "China propõe restringir exportações de tecnologias de IA e biotecnologia",
-        "resumo": "O governo chinês apresentou uma proposta que visa proibir a exportação de 14 tipos de tecnologia e impor restrições a mais 26, entre elas sistemas de inteligência artificial. A medida faz parte de uma estratégia de controle de tecnologias sensíveis. Pequim pretende limitar a transferência de conhecimento avançado para outros países.",
-        "porQueImporta": "A restrição pode afetar o comércio internacional e a competitividade global em setores de alta tecnologia.",
+        "clusterId": "db68e8102f58ab6b",
+        "slug": "c34321e3883167a2",
+        "titulo": "Robô atinge recorde de distância em Marte, Starship retorna à base e Lua se afasta da Terra",
+        "resumo": "Um robô explorador em Marte estabeleceu um novo recorde de distância percorrida, demonstrando avanços na autonomia de veículos autônomos. A nave Starship da SpaceX completou sua missão e voltou à base de lançamento. Paralelamente, a Lua está em fase de quarto crescente e se afasta da Terra em 0,5 metros por ano, conforme dados astronômicos.",
+        "porQueImporta": "Esses eventos ilustram progressos tecnológicos em exploração espacial e mudanças geofísicas que afetam a observação lunar.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/16/pro/china-quer-restringir-exportacoes-de-tecnologias-de-ia-e-biotecnologia/"
+            "url": "https://olhardigital.com.br/2026/10/17/ciencia-e-espaco/robo-bate-recorde-de-distancia-em-marte-starship-volta-a-base-e-lua-se-afasta-da-terra/"
           }
         ],
-        "updatedAt": "2026-10-16T23:12:22.000Z"
+        "updatedAt": "2026-10-17T12:00:00.000Z"
       },
       {
-        "clusterId": "da0eb104b3bb44e2",
-        "slug": "6f2de08d61cc896e",
-        "titulo": "Seleção de aspiradores robô em promoção na Amazon",
-        "resumo": "O artigo apresenta três modelos de aspiradores robôs em oferta na Amazon, destacando opções simples e avançadas. Os dispositivos permitem manter o chão limpo sem a necessidade de passar aspirador diariamente. A seleção inclui modelos com diferentes níveis de tecnologia e preço acessível.",
-        "porQueImporta": "Facilita a escolha de consumidores que buscam praticidade e economia na limpeza doméstica.",
+        "clusterId": "0b826476b33912a5",
+        "slug": "74594b227b175e95",
+        "titulo": "Jogos de hoje: onde assistir futebol ao vivo e horários das partidas",
+        "resumo": "O site Olhar Digital disponibiliza a programação dos jogos de futebol do dia 17 de outubro de 2026, indicando os horários e os canais de transmissão, tanto na TV quanto em serviços de streaming. A lista abrange competições nacionais e internacionais, permitindo aos torcedores planejar onde assistir cada partida ao vivo. A publicação facilita o acesso à informação de forma prática e atualizada.",
+        "porQueImporta": "Ajuda os torcedores a acompanhar seus times favoritos sem perder tempo procurando horários e canais.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/16/reviews/casa-mais-limpa-sem-esforco-selecionamos-os-melhores-aspiradores-robo-em-promocao-2/"
+            "url": "https://olhardigital.com.br/2026/10/17/internet-e-redes-sociais/jogos-de-hoje-17-10-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/"
           }
         ],
-        "updatedAt": "2026-10-16T22:30:23.000Z"
+        "updatedAt": "2026-10-17T11:00:00.000Z"
+      },
+      {
+        "clusterId": "4a277ce67aecd777",
+        "slug": "83ff5ad18f8c3f15",
+        "titulo": "Gestores precisam liderar sistemas autônomos",
+        "resumo": "A discussão sobre liderança mudou: além de liderar pessoas, os gestores agora devem liderar sistemas autônomos. Quando um agente de IA toma uma decisão errada, surge a questão de quem é responsável. O artigo destaca a necessidade de novas competências para gerenciar esses sistemas e garantir responsabilidade e segurança.",
+        "porQueImporta": "A evolução da IA exige que líderes adaptem suas habilidades para garantir decisões corretas e responsáveis em ambientes autônomos.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/10/17/colunistas/quem-responde-quando-um-agente-de-ia-toma-a-decisao-errada/"
+          }
+        ],
+        "updatedAt": "2026-10-17T10:00:00.000Z"
+      },
+      {
+        "clusterId": "1ea4db388dedd4dd",
+        "slug": "904f6fdeaa5cccd5",
+        "titulo": "Programa espacial chinês avança em ritmo acelerado e ameaça liderança dos EUA",
+        "resumo": "O programa espacial da China tem se desenvolvido rapidamente, com avanços significativos em tecnologia de foguetes e missões tripuladas. A China planeja colocar astronautas na Lua até o final desta década, o que representa um desafio direto à supremacia espacial dos Estados Unidos. O país tem investido em infraestrutura e parcerias internacionais para acelerar seus objetivos. A estratégia chinesa inclui o uso de veículos reutilizáveis e o desenvolvimento de bases lunares.",
+        "porQueImporta": "O crescimento da capacidade espacial chinesa pode alterar o equilíbrio geopolítico e a competição tecnológica no espaço.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/10/17/ciencia-e-espaco/exploracao-espacial/programa-espacial-chines-avanca-em-ritmo-acelerado-e-ameaca-lideranca-dos-eua/"
+          }
+        ],
+        "updatedAt": "2026-10-17T09:00:00.000Z"
+      },
+      {
+        "clusterId": "12e80fc3a64d62d9",
+        "slug": "a2a08d6a5846b980",
+        "titulo": "Carreatas virtuais no Roblox mobilizam apoiadores de Lula e Flávio Bolsonaro",
+        "resumo": "Em outubro de 2026, a plataforma de jogos Roblox tornou-se palco de simulações de carreatas pró-Lula e pró-Flávio Bolsonaro, com usuários criando buzinaços, faixas e até shows digitais de artistas falecidos. A mobilização virtual acompanha a aproximação do segundo turno das eleições presidenciais. As manifestações online refletem a crescente participação política nas redes digitais.",
+        "porQueImporta": "Ilustra como a política brasileira se expande para ambientes virtuais, influenciando a participação e a expressão dos eleitores.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/tecnologia/noticia/2026/10/17/carreatas-no-roblox-para-flavio-e-lula-tem-buzinaco-bloquinho-e-ate-showmicio-digital-conheca.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-17T04:00:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/FMzvqXirWYakapfWRCdxZKZ9XxI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/Q/Z9AKJTQVSbGTxjJTvh7Q/meow-meow-meow-meow-72-.png"
       }
     ],
     "ciencia": [
@@ -929,6 +891,22 @@
         ],
         "updatedAt": "2026-10-16T19:00:52.000Z",
         "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/10/formacao-durupinar-arca-de-noe-turquia.jpg"
+      },
+      {
+        "clusterId": "b9c8cc4a23397d7f",
+        "slug": "a097cef3159bea83",
+        "titulo": "Cinco escritores que também foram políticos",
+        "resumo": "O texto apresenta cinco autores que tiveram carreira política, destacando suas contribuições em ambos os campos. Entre eles, Graciliano Ramos, Victor Hugo e outros nomes menos conhecidos são citados como exemplos de artistas que atuaram ativamente na esfera política. O artigo explora como a experiência política influenciou suas obras literárias e vice‑versa. Também menciona a relevância desses escritores na história cultural e política do país.",
+        "porQueImporta": "Ilustra a interseção entre literatura e política, mostrando como a arte pode influenciar e ser influenciada pelo cenário político.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/cultura/5-escritores-que-foram-politicos-e-voce-nao-sabia/"
+          }
+        ],
+        "updatedAt": "2026-10-17T11:00:40.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/10/SI_escritores-politicos_site.jpg"
       },
       {
         "clusterId": "9dbe36dfb40f029c",
@@ -1025,22 +1003,6 @@
         ],
         "updatedAt": "2026-10-16T21:06:26.000Z",
         "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260624_crime-1024x538.jpg"
-      },
-      {
-        "clusterId": "ec7430b5bb8bb882",
-        "slug": "51f1dd5371081102",
-        "titulo": "Docentes da Faculdade de Ciências Farmacêuticas recebem título de Professor Emérito",
-        "resumo": "A Faculdade de Ciências Farmacêuticas da USP concedeu o título de Professor Emérito a professores aposentados que se destacaram em atividades didáticas e de pesquisa. O reconhecimento é dado a quem contribuiu de forma notável para o progresso da universidade. O ato celebra a trajetória acadêmica desses docentes.",
-        "porQueImporta": "Reconhece e valoriza a contribuição de professores para a excelência acadêmica da instituição.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/institucional/faculdade-de-ciencias-farmaceuticas-concede-titulo-de-professor-emerito-a-oito-docentes/"
-          }
-        ],
-        "updatedAt": "2026-10-16T21:04:37.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20261015_abre-1024x539.jpg"
       }
     ],
     "saude": [
@@ -1122,146 +1084,182 @@
     ],
     "esportes": [
       {
-        "clusterId": "88f6dd755aa02e4d",
-        "slug": "1a00d1a9ce5b64b1",
-        "titulo": "Rodada 31 do Brasileirão reúne São Paulo, Athletico-PR, Atlético-MG e Botafogo",
-        "resumo": "Na sexta‑feira, São Paulo enfrenta o Vasco no Morumbi, buscando subir na tabela; Athletico-PR encara o Palmeiras na Arena da Baixada, com o Furacão tentando manter posição no G‑4; Atlético-MG recebe o Coritiba na Arena MRV, após virada contra o Santos; Botafogo joga contra a Chapecoense no Nilton Santos, tentando sair da zona de rebaixamento.",
-        "porQueImporta": "Essas partidas definem posições críticas na tabela, influenciando chances de título, classificação para competições internacionais e risco de rebaixamento.",
+        "clusterId": "2abd9859bc19f4a0",
+        "slug": "ab8f6b0b59d3597a",
+        "titulo": "Athletico-PR x Palmeiras na 31ª rodada do Brasileirão",
+        "resumo": "O confronto entre Athletico-PR e Palmeiras está marcado para sábado, 17, na Arena da Baixada, às 19h30 (horário de Brasília). Ambos os clubes apresentam boa fase: o Athletico mantém invencibilidade de quatro partidas e está no G‑4, enquanto o Palmeiras busca terminar uma sequência ruim fora de casa. Os técnicos Abel Ferreira e Odair Hellmann, ambos longevos na Série A, comandarão as equipes. O duelo é considerado equilibrado, com leve favoritismo ao Furacão.",
+        "porQueImporta": "O resultado pode influenciar a posição dos clubes no G‑4 e a continuidade de suas campanhas no Brasileirão.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/sao-paulo-x-vasco-no-brasileirao-onde-assistir-horario-e-escalacoes/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/pr/futebol/brasileirao-serie-a/noticia/2026/10/17/idolo-de-athletico-e-palmeiras-oseas-revive-clima-da-arena-da-baixada-era-uma-bombonera.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/entre-embalo-e-dilema-palmeiras-desafia-sequencia-absurda-do-athletico-pr/"
+          }
+        ],
+        "updatedAt": "2026-10-17T15:00:13.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/07/GettyImages-2219182754.jpg"
+      },
+      {
+        "clusterId": "7bc070549afbc456",
+        "slug": "8f8e937496719a6c",
+        "titulo": "Chelsea vence Everton por 2 a 0 com gols de Pedro Neto",
+        "resumo": "O Chelsea derrotou o Everton por 2 a 0 na Premier League, com ambos os gols marcados por Pedro Neto. O jogo foi disputado no Hill Dickinson Stadium, em Liverpool, e contou com um momento de tensão quando o goleiro Dibu Martínez colidiu com um zagueiro do Everton, sendo levado ao hospital. O resultado coloca o Chelsea provisoriamente no quarto lugar da tabela.",
+        "porQueImporta": "A vitória mantém o Chelsea em posição de lutar pela Champions League.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/jogo/17-10-2026/Everton-Chelsea.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/premier-league-pedro-neto-marca-duas-vezes-e-chelsea-vence-everton"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/pedro-neto-marca-duas-vezes-e-chelsea-vence-everton-na-premier-league/"
+          }
+        ],
+        "updatedAt": "2026-10-17T14:13:03.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/10/chelsea-x-everton.jpg"
+      },
+      {
+        "clusterId": "bea76cdffb086700",
+        "slug": "9d7cfba6be533e60",
+        "titulo": "Manchester City enfrenta Ipswich na Premier League",
+        "resumo": "O jogo entre Manchester City e Ipswich será disputado no Etihad Stadium, no sábado, 17 de outubro, às 11h (horário de Brasília). O confronto faz parte da temporada 2026/27 da Premier League. Ambos os times irão apresentar suas escalações e buscarão pontos importantes para a classificação.",
+        "porQueImporta": "O resultado pode influenciar a posição final na tabela e o desempenho dos clubes na competição.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/jogo/17-10-2026/Manchestercity-ipswich-town.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/manchester-city-x-ipswich-horario-e-onde-assistir-a-premier-league/"
+          }
+        ],
+        "updatedAt": "2026-10-17T14:56:03.000Z"
+      },
+      {
+        "clusterId": "c9c9c7421ed4bcf4",
+        "slug": "a341962d13f9df22",
+        "titulo": "Goleiro Dibu Martínez sai de maca após choque de cabeça contra Everton",
+        "resumo": "Durante a partida entre Everton e Chelsea, o goleiro argentino Dibu Martínez sofreu um forte impacto na cabeça ao colidir com o atacante Branthwaite, aos 20 minutos do segundo tempo. Ele foi retirado do campo em maca e encaminhado ao hospital para exames, recebendo oxigênio e atendimento médico por cerca de dez minutos. O incidente gerou apreensão entre torcedores e jogadores das duas equipes.",
+        "porQueImporta": "O episódio pode afetar a disponibilidade de um goleiro titular do Chelsea para os próximos jogos.",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-paulo-x-vasco-horario-e-onde-assistir-ao-jogo-do-brasileirao-3/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/dibu-martinez-deixa-jogo-do-chelsea-imobilizado-apos-choque-na-cabeca/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/pr/futebol/brasileirao-serie-a/noticia/2026/10/17/athletico-x-palmeiras-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2026/10/17/goleiro-dibu-martinez-do-chelsea-sai-de-maca-apos-choque-de-cabeca-em-jogo-da-premier-league.ghtml"
           }
         ],
-        "updatedAt": "2026-10-17T08:00:16.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/kGj8nbkxRp67kXAdaaF8BxR_jW8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/u/3/S0XScET8iAYLM8Lr9BMA/whatsapp-image-2026-10-08-at-19.55.53.jpeg"
+        "updatedAt": "2026-10-17T13:32:48.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/HQQXmJIC765eAthdoyVqQgvbC-4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/H/t/vsA9UwQTAewEx0Qjhggg/2026-10-17t130114z-1194641811-up1emah1060d5-rtrmadp-3-soccer-england-eve-che.jpg"
       },
       {
-        "clusterId": "f8ba78619320303a",
-        "slug": "a00b35118592f370",
-        "titulo": "Osasco conquista bicampeonato da Supercopa de Vôlei Feminina",
-        "resumo": "Osasco venceu o Praia Clube por 3 sets a 0 na Supercopa de Vôlei Feminina, realizada em São Luís, e se tornou bicampeão da competição. O título igualou o recorde de conquistas do Minas, com duas taças. O jogo contou com a participação de Tiffany, que foi liberada pela Justiça para jogar como titular. A vitória marca o início da temporada do vôlei nacional.",
-        "porQueImporta": "O resultado reforça a posição de Osasco como uma das equipes mais fortes do vôlei feminino brasileiro.",
+        "clusterId": "61d564cad1acc556",
+        "slug": "2e55040163e64b06",
+        "titulo": "Botafogo enfrenta Chapecoense na 31ª rodada do Brasileirão",
+        "resumo": "O Botafogo, em 13º lugar com 36 pontos, busca evitar a zona de rebaixamento ao jogar contra a Chapecoense às 18h no Nilton Santos. A partida é o quarto duelo entre os times em 2026 e o técnico Tite ainda não tem vitória em sua gestão. A Chapecoense também tem objetivos diferentes na reta final do campeonato. O jogo será transmitido ao vivo pelo Premiere e acompanhado em tempo real pelo ge.",
+        "porQueImporta": "O resultado pode determinar se o Botafogo permanece na zona de rebaixamento ou se avança para a zona de classificação.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/mg/triangulo-mineiro/volei/noticia/2026/10/17/ponto-de-libero-vale-marcelle-salva-lance-incrivel-e-derruba-bola-para-osasco-na-supercopa-video.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/volei/tifanny-brilha-osasco-vence-praia-clube-e-conquista-a-supercopa-feminina/"
-          }
-        ],
-        "updatedAt": "2026-10-17T07:00:00.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/U-sYKY_hlXQ5C2hAAhGarWslD-A=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/x/u/da22QBRFaZNxbKAnGm7w/jl-tm-84-.jpg"
-      },
-      {
-        "clusterId": "0fd76e014644fa8a",
-        "slug": "797ab1d2be463a30",
-        "titulo": "Cruzeiro vence LDU na estreia da Libertadores Feminina",
-        "resumo": "O Cruzeiro derrotou a LDU Quito por 2 a 1 na primeira partida do Grupo C da Libertadores Feminina. Gols de Gisseli e Byanca Brasil garantiram a vitória. A equipe assumiu a liderança do grupo. A partida ocorreu no estádio Casa Blanca, em Quito.",
-        "porQueImporta": "A vitória coloca o Cruzeiro em posição de destaque no torneio continental.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/mg/triangulo-mineiro/futebol/futebol-feminino/libertadores-feminina/jogo/16-10-2026/cruzeiro-ldu-quito.ghtml"
+            "url": "https://ge.globo.com/futebol/times/botafogo/noticia/2026/10/17/primeira-vitoria-de-tite-e-quebra-de-jejum-os-desafios-do-botafogo-contra-a-chapecoense.ghtml"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/cruzeiro-bate-ldu-e-estreia-com-vitoria-na-estreia-da-libertadores-feminina/"
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/botafogo-e-chapecoense-se-enfrentam-de-olho-no-z4-da-serie-a/"
           }
         ],
-        "updatedAt": "2026-10-17T04:41:23.000Z"
+        "updatedAt": "2026-10-17T13:00:00.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/ASidr43V_dfBpu6m_R8aXWChk3s=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/s/R/uIl8IdQamFwusScY697Q/dur-0955.jpg"
       },
       {
-        "clusterId": "67a8de5800eec1bc",
-        "slug": "53b11b3caa46c90b",
-        "titulo": "Loide Augusto volta ao Vasco para duelo decisivo na Copa do Brasil",
-        "resumo": "Loide Augusto foi relacionado pelo Vasco para o confronto contra o São Paulo, que é decisivo na Copa do Brasil. O atacante, que retornou ao clube após 14 meses, teve um momento de destaque ao fazer um gesto que virou meme após marcar um gol. O técnico Fernando Diniz ficou irritado com o descompromisso inicial do jogador, mas o gol acabou sendo decisivo. A partida ocorreu no estádio São Januário, onde a torcida vibrou com a volta do jogador.",
-        "porQueImporta": "A presença de Loide pode influenciar o resultado do jogo decisivo da Copa do Brasil.",
+        "clusterId": "53532b1a4fb529bc",
+        "slug": "6f66e39ef002fc15",
+        "titulo": "Mourinho defende Vini Jr no Real Madrid",
+        "resumo": "O técnico José Mourinho utilizou a coletiva de imprensa para defender o atacante brasileiro Vini Jr., que tem enfrentado críticas pelo desempenho e foi suspenso em quatro jogos. Mourinho destacou a pressão que o jogador sente e afirmou que, se fosse ele, talvez não estivesse no clube. O treinador também reconheceu que as críticas podem ser justificadas, mas manteve a posição de apoio ao atleta.",
+        "porQueImporta": "A defesa de Mourinho pode influenciar a percepção pública e a situação de Vini Jr no clube.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/se-eu-fosse-o-vini-jr-nao-estaria-aqui-diz-mourinho-tecnico-do-real/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/17/mourinho-sai-em-defesa-de-vini-jr-no-real-madrid-se-fosse-eu-provavelmente-nao-estaria-aqui.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-17T11:32:05.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/xhIBPxD6Aiw8TRvveDrj_aboWME=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/1/B/dOvFSFS6u0TkK8DKrY9Q/2026-10-14t191140z-662089498-up1emae1hbfle-rtrmadp-3-soccer-champions-rom-rma.jpg"
+      },
+      {
+        "clusterId": "ae73fd42719c20d3",
+        "slug": "b54f194fa35d2186",
+        "titulo": "Cachorro invade campo e quase faz gol em jogo do Vasco Sub-15",
+        "resumo": "Durante a partida da Copa Rio Sub-15 entre Vasco e Madureira, um cachorro entrou no campo e quase completou um cruzamento na área. O incidente ocorreu aos dez minutos do segundo tempo, quando o atacante Richard Chagas cruzou a bola. O goleiro Miguel conseguiu segurar a bola, mas o cachorro quase a interceptou. O evento foi registrado no estádio Nivaldo Pereira, em Nova Iguaçu.",
+        "porQueImporta": "Ilustra a imprevisibilidade e os desafios de segurança em eventos esportivos de base.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/10/17/do-meme-da-mao-no-ouvido-ao-retorno-loide-ganha-chance-de-recomeco-no-vasco.ghtml"
+            "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/10/17/cachorro-invade-campo-e-quase-faz-gol-pelo-vasco-em-jogo-da-base-veja-lance.ghtml"
           }
         ],
-        "updatedAt": "2026-10-17T08:00:00.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/ULaxT1mnQoIVu1cT-dSg-bR8n1Y=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/H/c/fMYZtIQDa0piPOYTk5UA/whatsapp-image-2025-03-26-at-12.51.09.jpeg"
+        "updatedAt": "2026-10-17T14:38:35.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/zwW7HmXyaSioFBuwQoXw0Pvc9Kw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/V/Q/NhlQi5S7Wcs1QAFGVXtA/whatsapp-image-2026-10-17-at-11.09.40.jpeg"
       },
       {
-        "clusterId": "6e30f31f5f7534a1",
-        "slug": "17d4e760714b5955",
-        "titulo": "Fillipe Félix avança na venda da SAF do Botafogo-PB",
-        "resumo": "O investidor Fillipe Félix informou que a fase 3 da auditoria das contas do clube será concluída até sábado, 17 de outubro, e que a conclusão desse processo é crucial para avançar com a venda da Sociedade Anônima do Futebol do Botafogo-PB. Ele pretende apresentar os resultados da auditoria e prosseguir com as negociações das ações do clube.",
-        "porQueImporta": "A conclusão da auditoria é um passo decisivo para a transferência de controle do clube, impactando sua gestão e futuro financeiro.",
+        "clusterId": "1e68cd97211411b3",
+        "slug": "d034d1b6292afb23",
+        "titulo": "Avaí condenado a pagar mais de R$ 300 mil ao Cuiabá por dívida em empréstimo de atacante",
+        "resumo": "A Câmara Nacional de Resolução de Disputas (CNRD) determinou que o Avaí pague R$ 317.000 ao Cuiabá referente ao empréstimo do atacante Emerson Ramon, que esteve no clube entre abril e dezembro de 2025. O clube deveria quitar R$ 70.000 mensais, mas deixou de pagar nos meses de outubro, novembro e dezembro. A dívida inclui os valores não pagos e possíveis encargos. O caso foi resolvido antes do jogo contra o Athletic.",
+        "porQueImporta": "O pagamento reforça a importância da gestão financeira correta em contratos de empréstimo de jogadores.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/pb/futebol/times/botafogo-pb/noticia/2026/10/17/fillipe-felix-projeta-conclusao-de-auditoria-para-dar-sequencia-a-venda-da-saf-do-botafogo-pb.ghtml"
+            "url": "https://ge.globo.com/sc/futebol/noticia/2026/10/17/avai-e-condenado-a-pagar-mais-de-r-300-mil-ao-cuiaba-por-divida-em-emprestimo-de-atacante.ghtml"
           }
         ],
-        "updatedAt": "2026-10-17T07:00:01.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/rENXMjfLwvUsnA3K8axY3tt_TgM=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/1/5/YLVuoAQ0meBpASUMbfaA/55056965296-029521a1fe-o.jpg"
-      },
-      {
-        "clusterId": "8867590178859e67",
-        "slug": "f961d1bb78fab4c6",
-        "titulo": "River-PI enfrenta Flamengo-PI na final da Piauiense Série B 2026",
-        "resumo": "O Campeonato Piauiense Série B 2026 terá sua decisão entre River-PI e Flamengo-PI, com partida marcada para as 17h no Estádio Lindolfo Monteiro, em Teresina. O jogo contará com a presença de jogadores como Arthur Ribeiro, Isaías André e Josiel Martins, entre outros. A equipe de esportes da Rede Clube divulgou palpites sobre o provável campeão.",
-        "porQueImporta": "A partida decide quem será campeão da segunda divisão do Piauí e pode influenciar a participação em competições estaduais e nacionais.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/pi/futebol/piauiense-segunda-divisao/noticia/2026/10/17/palpite-ge-2026-veja-apostas-do-time-de-esportes-da-rede-clube-para-quem-sera-o-campeao-da-segundona.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-17T07:00:01.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/vGxM3YLhLs3jlVpWDuW9lhqyDpw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2023/H/P/kIhzcGRW6ajkdzIeMduA/ok.png"
-      },
-      {
-        "clusterId": "bce0143f40f79bcd",
-        "slug": "dca43ecb53511999",
-        "titulo": "Rogério Ceni enfrenta quarto treinador diferente do Flamengo",
-        "resumo": "Rogério Ceni, que assumiu o Bahia em setembro de 2023, terá seu quarto confronto com o Flamengo desde então, pois o clube carioca já passou por quatro treinadores diferentes. O jogo será na próxima semana, com Leonardo Jardim comandando o Flamengo. Ceni tem estabilidade rara no futebol brasileiro, sendo o segundo técnico mais longevo do país.",
-        "porQueImporta": "Mostra a estabilidade de Ceni frente à instabilidade típica do futebol brasileiro.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/ba/futebol/times/bahia/noticia/2026/10/17/rogerio-ceni-enfrenta-o-quarto-treinador-diferente-do-flamengo-desde-que-assumiu-o-bahia.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-17T07:00:01.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/PAUlPEqe8c61O7qkLEiC0uoM0jA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/c/8/6pBUDLRUqzIQyye5QESQ/carrossel-ceni-x-quatro-treinadores-diferentes-do-flamengo.jpg"
-      },
-      {
-        "clusterId": "d2dea6f0e2ac46e0",
-        "slug": "382baa2f18e8e1a9",
-        "titulo": "Santa Cruz destaca cinco momentos decisivos na campanha de acesso à Série B",
-        "resumo": "O Santa Cruz contou com cinco lances marcantes que impulsionaram a equipe ao acesso à Série B, incluindo uma defesa de goleiro desconhecido e o gol de Pedro Favela que garantiu a vaga. A reta final da Série C foi marcada por tensão, alívio e explosão, com destaque para a atuação de Bruno Rodrigues e a participação de Tiago. O clube celebrou a conquista com destaque para a trajetória coral e a importância de cada momento na jornada.",
-        "porQueImporta": "Esses lances definiram o sucesso do Santa Cruz e consolidaram sua presença na Série B do Campeonato Brasileiro.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/pe/futebol/times/santa-cruz/noticia/2026/10/17/cinco-momentos-que-marcaram-a-campanha-do-santa-cruz-no-acesso-a-serie-b.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-17T07:00:01.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/bwatzcJ4OsvA_RcEga0K0g61DC4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/3/f/eBCquSRfCPlSXFwCMJlQ/agif26100318281874.jpg"
+        "updatedAt": "2026-10-17T14:37:45.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/rzljL9kvK7WRrby5URh9zhbnhQ8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/z/H/hUWkjtTz67ABpWy14kcQ/54677554175-a403832f8f-k.jpg"
       }
     ],
     "entretenimento": [
+      {
+        "clusterId": "076d67d11708268b",
+        "slug": "a5d15b1dfc9ae83f",
+        "titulo": "Iza confirma lançamento de terceiro álbum de estúdio em novembro",
+        "resumo": "Iza anunciou que seu terceiro álbum de estúdio será lançado na Semana da Consciência Negra, em meados de novembro. O álbum, sucessor de ‘Afrodhit’ (2023), segue o estilo de reggae e afrobeat que marcou seu single duplo ‘Caos e sal / Tão bonito’ lançado em setembro de 2025. A artista confirmou a data após mais de um ano desde o lançamento do single.",
+        "porQueImporta": "O lançamento marca a continuação da carreira de Iza e a presença de sua música na agenda cultural da Semana da Consciência Negra.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/10/17/iza-lanca-o-terceiro-album-de-estudio-em-novembro-o-que-esperar-do-sucessor-de-afrodhit.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-17T07:00:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/tjKgzvkHATFlhto6K4HXsmlLgGQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/B/F2rEF4SNSqeTx8Cz3Tmw/iza-x1.jpg"
+      },
       {
         "clusterId": "2d9689429ad5834a",
         "slug": "275a3c7cc0d12935",
@@ -1311,11 +1309,11 @@
         "imageUrl": "https://s2-g1.glbimg.com/FXbL_3zrQe4OEpLSHN94muhM0KM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/z/Z/hiwuOFTHGfVmmd8cLUZw/2024-09-17t135648z-1638181833-rc2c2aaffmst-rtrmadp-3-people-sean-combs.jpg"
       },
       {
-        "clusterId": "5c4272812b6df225",
-        "slug": "d0ee3b483577f6a3",
-        "titulo": "Russell Brand comparece ao tribunal em Londres por acusações de estupro e agressão sexual",
-        "resumo": "O ator e comediante britânico Russell Brand está em julgamento no Tribunal de Magistrados de Westminster, em Londres, por acusações de estupro e múltiplas agressões sexuais envolvendo seis mulheres entre 1999 e 2009. Uma das denuncias relata que Brand tentou arrastá-la para uma cabine de banheiro no local de trabalho, enquanto outra afirma que ele a obrigou a tirar fotos dele em nudez. Brand nega todas as acusações. O caso está em seu segundo dia de julgamento.",
-        "porQueImporta": "O julgamento envolve acusações graves de crimes sexuais contra um público conhecido, destacando questões de responsabilidade e justiça no setor de entretenimento.",
+        "clusterId": "d928d032b134229a",
+        "slug": "a719e8e438b54f4d",
+        "titulo": "Russell Brand acusado de tentar arrastar mulher para banheiro durante julgamento",
+        "resumo": "Durante julgamento por crimes sexuais em Londres, uma das seis mulheres que acusam Russell Brand afirmou que o comediante tentou arrastá-la para uma cabine de banheiro no local de trabalho. Brand já enfrenta acusações de estupro e agressão sexual. O caso foi ouvido no Tribunal de Magistrados de Westminster em 2 de maio de 2025.",
+        "porQueImporta": "O caso destaca a continuidade de acusações graves contra um artista de alto perfil no Reino Unido.",
         "category": "entretenimento",
         "sources": [
           {
@@ -1373,22 +1371,6 @@
         ],
         "updatedAt": "2026-10-16T07:00:00.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/UPPCD8vGXbrtLcB3ADk8j1mG7lI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/w/bLdKZKSj2BExvnm6sbkQ/spice2.webp"
-      },
-      {
-        "clusterId": "75f2ef9b1bd2eb50",
-        "slug": "debe0ba075f4ac4a",
-        "titulo": "Legião Urbana relembra Renato Russo 30 anos após sua morte",
-        "resumo": "Trinta anos depois da morte de Renato Russo, ex-companheiros da Legião Urbana, Dado Villa-Lobos e Marcelo Bonfá, recontam histórias e lembram a influência do cantor na música brasileira. A reportagem, exibida pelo Fantástico, destaca a personalidade e a visão de mundo de Renato, além de sua obra marcante. O legado de Renato continua presente no cenário musical nacional.",
-        "porQueImporta": "Mantém vivo o legado de um ícone do rock brasileiro e reforça sua influência nas gerações atuais.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/fantastico/noticia/2026/10/16/o-que-renato-russo-estaria-fazendo-hoje-companheiros-de-legiao-urbana-falam-do-amigo-30-anos-depois-de-sua-morte.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-16T07:00:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/i4xEw0qzoPIfqBLXOLegf0n8uyI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/0/X/oR4KJMQGOqmMBFV42QOQ/renato-russo-divulgacao.jpg"
       }
     ]
   }
