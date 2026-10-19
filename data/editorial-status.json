@@ -1,11 +1,10 @@
 {
-  "ranAt": "2026-10-19T18:25:44.749Z",
+  "ranAt": "2026-10-19T23:22:21.067Z",
   "editionDate": "2026-10-19",
-  "hourUtc": 18,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 23,
+  "outcome": "generated",
+  "reason": "\"Campanhas, decisões judiciais e ajustes sociais marcam o cenário político e econômico\" (3 parágrafos)",
   "attempts": [
-    "reprovado — poucos parágrafos (1)",
-    "erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
+    "ok"
   ]
 }
