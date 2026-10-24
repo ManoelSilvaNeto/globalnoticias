@@ -1,11 +1,10 @@
 {
-  "ranAt": "2026-10-24T15:30:19.510Z",
+  "ranAt": "2026-10-24T18:36:42.345Z",
   "editionDate": "2026-10-24",
-  "hourUtc": 15,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 18,
+  "outcome": "generated",
+  "reason": "\"Financiamento agro, mobilização eleitoral e mobilidade urbana dominam a pauta enquanto esportes e patrimônio histórico também se destacam\" (2 parágrafos)",
   "attempts": [
-    "erro — sem cota (429)",
-    "erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
+    "ok"
   ]
 }
