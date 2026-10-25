@@ -1,11 +1,11 @@
 {
-  "ranAt": "2026-10-25T15:40:15.922Z",
+  "ranAt": "2026-10-25T18:45:08.020Z",
   "editionDate": "2026-10-25",
-  "hourUtc": 15,
+  "hourUtc": 18,
   "outcome": "not-generated",
   "reason": "IA fora ou validação reprovou",
   "attempts": [
-    "reprovado — poucos parágrafos (1)",
+    "erro — Error: groq 400: {\"error\":{\"message\":\"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for mo",
     "erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
   ]
 }

@@ -1,41 +1,81 @@
 {
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T15:40:15.922Z",
+  "generatedAt": "2026-10-25T18:45:08.020Z",
   "home": [
     {
-      "clusterId": "eeaf3fc0a383753a",
-      "slug": "1245930c69587b84",
-      "titulo": "Resultado do segundo turno das eleições presidenciais de 2026 no exterior",
-      "resumo": "No segundo turno, Lula venceu em países como China, Austrália e Nova Zelândia, enquanto Flávio Bolsonaro saiu na frente no Japão, Emirados Árabes Unidos e Hong Kong. Em Taiwan, Flávio Bolsonaro também superou Lula. A votação no exterior contou com mais de 1 milhão de brasileiros residentes em 186 cidades.",
-      "porQueImporta": "Os resultados internacionais influenciam a percepção global do apoio ao candidato e podem afetar a imagem política no Brasil.",
+      "clusterId": "379cc8175ef733b9",
+      "slug": "70349dbbb8b38ae8",
+      "titulo": "Lula pede prorrogação da votação em cidades com falta de ônibus",
+      "resumo": "O presidente Lula solicitou ao TSE a extensão do horário de votação do segundo turno em cidades como Salvador, Feira de Santana e Lauro de Freitas, onde relatos de ônibus retidos em garagens prejudicaram o acesso dos eleitores. A campanha do PT argumenta que a redução da frota penaliza principalmente a base eleitoral que depende do transporte público. Em Salvador, o TRE-BA ordenou a prisão do secretário de Mobilidade por crime eleitoral e determinou a liberação imediata de todos os ônibus, com multa de R$ 1 milhão por hora em caso de descumprimento. A medida visa garantir o direito de voto em condições adequadas.",
+      "porQueImporta": "A falta de transporte público pode impedir que eleitores cheguem às urnas, afetando a legitimidade do processo eleitoral.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/lula-pede-que-povo-nao-desista-de-votar-por-falta-de-onibus-neste-domingo"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/25/presidente-do-pt-ve-gravidade-na-falta-de-onibus-em-sp-e-salvador-e-defende-prorrogacao-da-votacao.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/pt-vai-a-justica-em-diversas-capitais-e-questiona-frota-de-onibus/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/justica/pt-pede-para-estender-horario-de-votacao-em-salvador-e-mais-duas-cidades-da-ba/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/flavio-x-lula-qual-foi-o-resultado-da-votacao-em-salvador-no-primeiro-turno/"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/tre-ba-prisao-secretario-onibus-salvador/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/lula-pede-que-tse-prorrogue-o-horario-de-votacao-em-cidades-com-relatos-de-falta-de-onibus/"
+        }
+      ],
+      "updatedAt": "2026-10-25T18:42:42.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/lula-fala-tse.jpg"
+    },
+    {
+      "clusterId": "76339b608c567b37",
+      "slug": "38f566aa5c6080b7",
+      "titulo": "Lula e Flávio Bolsonaro disputam segundo turno das Eleições 2026",
+      "resumo": "As pesquisas de intenção de voto apontam empate técnico entre Lula (PT) e Flávio Bolsonaro (PL), com o senador ligeiramente à frente em alguns levantamentos. No exterior, Lula lidera em países como China, Austrália e Nova Zelândia, enquanto Flávio vence em Japão, Emirados Árabes Unidos e Hong Kong. A votação ocorre no domingo, 25 de outubro, e a apuração começa às 17h, horário de Brasília, com divulgação em tempo real pelo Tribunal Superior Eleitoral.",
+      "porQueImporta": "O resultado determinará quem será o próximo presidente da República.",
       "category": "politica",
       "sources": [
         {
           "name": "BBC Brasil",
-          "url": "https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/25/conheca-cidade-do-to-onde-lula-e-flavio-bolsonaro-empataram-no-1o-turno.ghtml"
+          "url": "https://www.bbc.com/portuguese/articles/cvrly555knx9o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/lula-vence-flavio-bolsonaro-na-china-no-2o-turno-das-eleicoes"
+          "url": "https://www.metropoles.com/brasil/flavio-bolsonaro-ja-esta-em-brasilia-para-acompanhar-a-apuracao"
         },
         {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/resultado-do-2o-turno-na-asia-flavio-bolsonaro-ganha-no-japao-e-lula-na-china/"
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/lula-derrota-flavio-bolsonaro-na-franca-com-84-dos-votos-no-2o-turno/"
         },
         {
-          "name": "DW Brasil",
-          "url": "https://www.dw.com/pt-br/entenda-o-vai-e-vem-da-abertura-dos-sigilos-de-lula-e-flávio-bolsonaro/a-79742187?maca=bra-rss-br-all-1030-rdf"
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/os-numeros-das-ultimas-pesquisas-eleitorais-sobre-a-disputa-entre-flavio-bolsonaro-e-lula/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/apuracao-das-eleicoes-2026-acompanhe-os-resultados-em-tempo-real.ghtml"
         }
       ],
-      "updatedAt": "2026-10-25T15:40:18.991Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbc6/live/ed327540-d089-11f1-a701-fddedf244c16.jpg"
+      "updatedAt": "2026-10-25T18:43:10.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0f9/live/a48cfac0-cc62-11f1-a64c-550be9e3c66b.png"
     },
     {
-      "clusterId": "eb9c944d18b60d6f",
+      "clusterId": "46c5a4c22fdf83a9",
       "slug": "4d256bad8f7d2ee8",
       "titulo": "Presidente do TSE Kassio Nunes Marques acompanha votação do segundo turno em Brasília",
       "resumo": "O presidente do Tribunal Superior Eleitoral, Kassio Nunes Marques, visitou a seção eleitoral em Brasília e votou no segundo turno das eleições presidenciais. Ele afirmou que as votações estão dentro do esperado e que os resultados deverão ser conhecidos até 21h. O TSE garante que cada voto será apurado com exatidão e fidelidade, e que o processo ocorrerá em paz e normalidade.",
@@ -44,253 +84,253 @@
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/nunes-marques-diz-que-votacoes-acontecem-dentro-do-esperado"
+          "url": "https://www.metropoles.com/sao-paulo/lula-cobra-de-nunes-marques-e-mendonca-solucao-para-eleitores-sem-onibus"
         },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/presidente-do-tse-diz-que-eleicoes-estao-dentro-do-esperado-e-estima-resultado-ate-21h.ghtml"
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/ministro-do-tse-aciona-nunes-marques-sobre-frota-de-onibus-na-bahia/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/nunes-marque-extensao-da-votacao-na-bahia-sera-analisada-a-seu-tempo/"
         },
         {
           "name": "Exame",
-          "url": "https://exame.com/brasil/presidente-do-tse-vota-e-diz-esperar-segundo-turno-em-paz/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/nunes-marques-pede-senso-critico-com-noticias-na-vespera-do-2o-turno/"
-        }
-      ],
-      "updatedAt": "2026-10-25T15:23:48.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/10/presidente-do-tribunal-superior-eleitoral-tse-ministro-kassio-nunes-marques-concede-entrevista-coletiva-apos-o-encerramento-da-apuracao-do-primeiro-turno-das-eleicoes-gerais-de-2026-2-scaled.jpeg"
-    },
-    {
-      "clusterId": "d9e7a1ac52c482cc",
-      "slug": "7fd6ed1d5e6a86ea",
-      "titulo": "TSE troca 900 urnas eletrônicas no segundo turno",
-      "resumo": "O Tribunal Superior Eleitoral informou que 900 urnas eletrônicas foram substituídas até 12h no segundo turno das eleições de 2026. As trocas representam 0,16% do total de 499.248 urnas em uso. Nenhuma seção precisou de votação manual por cédula de papel. O TSE mantém 48.815 urnas de contingência.",
-      "porQueImporta": "Garantia de integridade e continuidade do processo eleitoral.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-eleicoes-2026/tse-troca-900-urnas-eletronicas-ate-as-12h-no-2o-turno/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/tse-informa-que-900-urnas-foram-substituidas/"
+          "url": "https://exame.com/brasil/nunes-marques-diz-que-tse-ja-registrou-138-ocorrencias-eleitorais-no-2o-turno/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-tse-informa-que-467-urnas-foram-substituidas-ate-10h-deste-domingo.ghtml"
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/presidente-do-tse-nunes-marques-acompanha-abertura-de-sessao-em-brasilia.ghtml"
         }
       ],
-      "updatedAt": "2026-10-25T15:32:25.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/09/Eleições-Clima-Fotos-Arquivo-TSE00011.jpg"
+      "updatedAt": "2026-10-25T18:32:23.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/lula-pt-fala-tse-onibus.jpg"
     },
     {
-      "clusterId": "957b3d7a01c95715",
-      "slug": "3c506234a60eafe8",
-      "titulo": "Segundo turno das eleições registra crimes eleitorais",
-      "resumo": "No segundo turno das eleições de 2026, a Secretaria de Estado de Justiça e Segurança Pública (Sejusp) identificou 14 ocorrências de crimes eleitorais no Acre, enquanto a MJSP registrou 32 ocorrências em todo o país às 9h. O Rio Grande do Sul lidera com 11 casos, seguido por Minas Gerais com sete e Pernambuco com três. As contagens são atualizadas continuamente durante a votação.",
-      "porQueImporta": "Acompanhar crimes eleitorais garante a integridade e transparência do processo democrático.",
+      "clusterId": "79d1b852e0a4bab0",
+      "slug": "666af502762ac506",
+      "titulo": "Bahia repudia ofensas de Neymar a Rodrigo Nestor e pede respeito",
+      "resumo": "Durante o empate 1 a 1 entre Santos e Bahia, Neymar foi expulso após bater a mão na boca de Rodrigo Nestor e participar de vários bate-bocas. O Bahia divulgou nota oficial defendendo Nestor e repudiando as agressões verbais. O incidente ocorreu na 32ª rodada do Campeonato Brasileiro.",
+      "porQueImporta": "A expulsão de Neymar pode afetar a campanha do Santos e destaca a necessidade de disciplina no futebol brasileiro.",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/bahia-defende-nestor-e-critica-neymar-apos-polemica-em-empate-contra-santos"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/bahia/bahia-repudia-xingamentos-de-neymar-a-rodrigo-nestor-merecemos-respeito/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/ba/futebol/times/bahia/noticia/2026/10/25/bahia-publica-nota-oficial-para-sair-em-defesa-de-nestor-e-repudiar-agressoes-verbais-de-neymar.ghtml"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/esporte/rodrigo-nestor-critica-neymar-apos-confusao-em-santos-x-bahia/"
+        }
+      ],
+      "updatedAt": "2026-10-25T18:40:29.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/neymar-nestor-1.jpg"
+    },
+    {
+      "clusterId": "36345d3e2be046d2",
+      "slug": "e741caea88e5cf06",
+      "titulo": "Cobertura ao vivo da apuração do 2º turno das eleições de 2026",
+      "resumo": "As eleições de 2026 estão em fase de apuração do segundo turno para governador em vários estados, com cobertura ao vivo pela CNN Brasil e outras plataformas. Cada estado possui um número distinto de municípios e eleitores aptos: TO (139 municípios, 1,18 milhões), RN (167 municípios, 2,6 milhões), DF (37 regiões, 2,2 milhões), AM (62 municípios, 2,8 milhões), AC (22 municípios, 614,6 milhões), ES (78 municípios, 2,9 milhões). A transmissão dos boletins de urna ocorre via redes privadas criptografadas ou satélite, permitindo acompanhamento em tempo real.",
+      "porQueImporta": "A cobertura em tempo real facilita a transparência e a participação cidadã nas decisões eleitorais.",
       "category": "economia",
       "sources": [
         {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/eleicao-para-governador-no-to-acompanhe-ao-vivo-apuracao-do-2-turno/"
+        },
+        {
           "name": "G1",
-          "url": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/25/ocorrencias-sejusp-segundo-turno-acre.ghtml"
+          "url": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-espirito-santo.ghtml"
         },
         {
           "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/mjsp-as-9h-segundo-turno-ja-tinha-32-ocorrencias-de-crimes-eleitorais/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/politica/o-numero-de-crimes-eleitorais-cometidos-na-1a-hora-de-votacao/"
-        }
-      ],
-      "updatedAt": "2026-10-25T15:28:30.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/IrvTYQmx4RWWaq43hRMcWlHEZxs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/3/eA8es9QjqA3PpSGHjQ6Q/whatsapp-image-2026-10-25-at-09.29.13-1-.jpeg"
-    },
-    {
-      "clusterId": "e3e64df6f15c019f",
-      "slug": "1b08ed6ba508d0b4",
-      "titulo": "Ministério da Justiça registra 58 ocorrências de possíveis crimes eleitorais no segundo turno",
-      "resumo": "Até as 11h do domingo, o Ministério da Justiça e Segurança Pública registrou 58 ocorrências relacionadas a possíveis crimes eleitorais, incluindo 11 pessoas conduzidas, 10 termos circunstanciados, 3 auto‑prisões em flagrante, 2 bloqueios de vias, 2 veículos apreendidos e 1 material de campanha apreendido. O Ministério também informou que 264.328 profissionais de segurança foram mobilizados para o segundo turno das eleições. O balanço foi divulgado em meio à apuração do segundo turno presidencial entre Lula e Flávio Bolsonaro.",
-      "porQueImporta": "O registro de crimes eleitorais e a mobilização de segurança refletem a importância de garantir a integridade e a ordem nas eleições.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-segundo-turno.ghtml"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/carta-capital/ministerio-da-justica-registra-32-crimes-eleitorais-e-tres-prisoes-no-2o-turno/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-ocorrencias-brasil-hoje-25-outubro-2026/"
-        }
-      ],
-      "updatedAt": "2026-10-25T15:24:22.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/Dou4oOuEGleQ9dEWygd5qsQIGes=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/D/U7JSE4Ry6mhgCgFJCvBg/design-sem-nome-17-.png"
-    },
-    {
-      "clusterId": "0c9cade07a2d1b65",
-      "slug": "d66c62cfe1f5e152",
-      "titulo": "Lula vota em São Bernardo do Campo e Alckmin apoia sua candidatura",
-      "resumo": "No dia 25 de outubro, o presidente Lula compareceu ao município de São Bernardo do Campo para votar e reforçar a campanha de reeleição. O vice-presidente Geraldo Alckmin, que concorre como vice na chapa de Lula, também votou na mesma data. Lula criticou o candidato Flávio Bolsonaro, chamando-o de 'miliciano'. A presença de ambos os líderes na cidade demonstra o apoio interno da chapa e a mobilização nas regiões do ABC paulista.",
-      "porQueImporta": "A votação reforça a mobilização da chapa de Lula e evidencia o apoio de seus principais aliados nas áreas urbanas do estado de São Paulo.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/sao-paulo/alckmin-vota-em-sp"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/lula-vota-em-sao-bernardo-e-celebra-forca-da-campanha-no-2o-turno/"
+          "url": "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/"
         },
         {
           "name": "Exame",
-          "url": "https://exame.com/brasil/lula-vota-em-sao-bernardo-do-campo-no-2o-turno-das-eleicoes-2026/"
+          "url": "https://exame.com/brasil/apuracao-do-2o-turno-no-espirito-santo-veja-o-resultado-para-presidente-em-tempo-real/"
         }
       ],
-      "updatedAt": "2026-10-25T15:22:51.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/10/apos-acompanhar-lula-em-sao-bernardo-alckmin-vota-em-sp.jpg"
+      "updatedAt": "2026-10-25T18:31:53.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/rWotNIo5zuvGjN1ayvDvp7pkpIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/i/cHRV4YTSabNfBv26UZrw/esv2.jpg"
     },
     {
-      "clusterId": "414ee0c7100bef34",
-      "slug": "0e66223f3158c02f",
-      "titulo": "Vereadora do PT é ferida em ataque durante carreata pró-Lula em Minas Gerais",
-      "resumo": "Na noite de 24 de junho, a vereadora Iara Pimentel, do PT, participou de uma carreata em defesa da candidatura de Lula em Montes Claros, Minas Gerais. Manifestantes contrários lançaram pedras, garrafas de vidro e tijolos contra o carro de som, atingindo a vereadora no rosto. Ela foi internada em hospital local para tratamento. A ocorrência foi registrada em vídeos que circularam nas redes sociais.",
-      "porQueImporta": "O incidente destaca a tensão política e a violência que pode ocorrer em eventos partidários no Brasil.",
+      "clusterId": "3b319373a28c4b2d",
+      "slug": "1fbbc58a1df4c289",
+      "titulo": "Campanha de Lula pede ampliação do horário de votação",
+      "resumo": "A campanha do presidente Lula solicitou ao Tribunal Superior Eleitoral a extensão do horário de votação nas seções de Salvador e São Paulo, alegando que a redução da frota de ônibus prejudicou o acesso ao voto. O pedido baseia-se em denúncias de que apenas 60% dos ônibus circulavam em São Paulo, contrariando a determinação de operação de 100% da frota. A extensão seria necessária para compensar o tempo perdido pelos eleitores. A Justiça ainda não decidiu sobre o pleito.",
+      "porQueImporta": "Garantir o pleno acesso ao voto em meio a problemas logísticos.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/campanha-de-lula-pedira-ao-tse-ampliacao-do-horario-de-votacao/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/sao-paulo/pt-pede-ampliacao-de-horario-de-votacao-em-sp-apos-problemas-com-onibus"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-lula-diz-que-so-60-dos-onibus-circulam-em-sp/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/o-horario-da-votacao-sera-estendido/"
+        }
+      ],
+      "updatedAt": "2026-10-25T18:26:40.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/urnas-eletronicas.jpg?fit=300%2C179&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "9a1b4289eb3fa28c",
+      "slug": "9e96b97dade83d04",
+      "titulo": "Trump observa segundo turno da eleição presidencial no Brasil",
+      "resumo": "O presidente dos Estados Unidos, Donald Trump, afirmou que está acompanhando o segundo turno da eleição presidencial brasileira, sem declarar apoio a nenhum candidato. Ele destacou que a disputa entre Flávio Bolsonaro e Lula deve ser acirrada. Trump não se posicionou em favor de nenhum dos candidatos e apenas observou a situação.",
+      "porQueImporta": "A declaração de um líder mundial sobre a eleição brasileira pode influenciar a percepção internacional sobre o processo eleitoral do país.",
       "category": "geral",
       "sources": [
         {
           "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/video-vereadora-do-pt-e-ferida-em-ataque-de-opositores-a-carreata-pro-lula-em-mg/"
+          "url": "https://veja.abril.com.br/brasil/trump-diz-que-monitora-eleicao-no-brasil-que-ja-definiu-como-muito-importante/"
         },
         {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/brasil/vereadora-do-pt-leva-pedrada-no-rosto-em-carreata-pro-lula-em-minas-gerais/"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-monitora-segundo-turno-da-eleicao-presidencial-no-brasil/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/25/apos-ridicularizar-voto-antecipado-trump-vota-midterms-eleicoes-parlamentares.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/trump-diz-que-monitora-segundo-turno-da-eleicao-presidencial-no-brasil/"
+        }
+      ],
+      "updatedAt": "2026-10-25T17:22:26.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2024/08/Flavio-Bolsonaro-e-Donald-Trump-1.jpg"
+    },
+    {
+      "clusterId": "ec530eda509c0553",
+      "slug": "9443a2506c1c6124",
+      "titulo": "Lula vence votação no exterior em 40 países, Flávio Bolsonaro em 12",
+      "resumo": "No segundo turno das eleições presidenciais, Lula liderou a votação em 40 países ou territórios, enquanto Flávio Bolsonaro venceu em 12. Na Palestina, Lula obteve cerca de 95,6% dos votos, com queda de 7,2% em Ramala, e Flávio Bolsonaro obteve mais de 80% dos votos válidos em Tel Aviv. Em Israel, Flávio Bolsonaro superou Lula, que somou apenas 19,19% dos votos. Os resultados foram divulgados pelo TSE após as 17h.",
+      "porQueImporta": "Os resultados no exterior refletem a influência dos brasileiros residentes no exterior nas eleições nacionais.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-956-dos-votos-na-palestina-flavio-vence-em-israel/"
         },
         {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/vereadora-petista-e-internada-em-mg-apos-levar-pedrada-de-bolsonaristas/"
+          "url": "https://www.cartacapital.com.br/politica/lula-lidera-na-palestina-no-2o-turno-flavio-bolsonaro-em-israel/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/votacao-no-exterior-flavio-bolsonaro-vence-lula-em-israel-no-2o-turno/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml"
         }
       ],
-      "updatedAt": "2026-10-25T15:12:40.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/5352387652340823-.jpg"
+      "updatedAt": "2026-10-25T17:20:25.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/AFP__20261019__D3NT9RH__v1__MidRes__BrazilElectionRunoffDebate.jpg"
     },
     {
-      "clusterId": "13859815f8e61136",
-      "slug": "4205b0537b1711dd",
-      "titulo": "Ministro André Mendonça vota em Brasília e fala de novo ciclo no país",
-      "resumo": "O ministro André Mendonça, do STF e vice‑presidente do TSE, registrou seu voto no 2º turno das eleições em Brasília. Ele afirmou que o encerramento das eleições marca o início de um novo ciclo e que o eleitor deve ser o principal vencedor do processo. Mendonça espera que os eleitos e os mantidos façam o melhor para o país.",
-      "porQueImporta": "O voto do ministro reforça a importância da participação cidadã e sinaliza a continuidade do processo democrático no Brasil.",
-      "category": "politica",
+      "clusterId": "c268b82c6159cbac",
+      "slug": "315171ff51df727d",
+      "titulo": "Secretário de Salvador tem prisão decretada pelo TRE por retenção de ônibus em dia de eleição",
+      "resumo": "O Tribunal Regional Eleitoral da Bahia determinou a prisão preventiva do secretário de Salvador, Pablo Souza, por suposta retenção de 55 ônibus que deveriam circular na cidade durante o dia de eleição. A decisão exige a retomada imediata da frota e prevê multa por hora de descumprimento. Souza, que está em Paris, já se manifestou sobre o atraso na circulação de ônibus. A prefeitura e o PT alegam que a medida dificulta a participação dos eleitores.",
+      "porQueImporta": "A medida pode afetar a mobilidade e o direito de voto dos cidadãos em Salvador.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/secretario-de-salvador-que-teve-a-prisao-decretada-pelo-tre-se-manifesta/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/eleicoes/tre-ba-determina-prisao-de-secretario-em-salvador/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/secretario-da-salvador-que-teve-prisao-decretada-esta-em-paris-diz-prefeitura/"
+        }
+      ],
+      "updatedAt": "2026-10-25T18:28:03.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/425364973462538413842390.jpg"
+    },
+    {
+      "clusterId": "65e49f8ff5b9fdbc",
+      "slug": "069bcf6838af6bee",
+      "titulo": "Governador da Bahia disponibiliza policiais militares para dirigir ônibus em Salvador",
+      "resumo": "Em resposta à redução de mais de 50% da frota de ônibus em Salvador, o governador da Bahia autorizou policiais militares a dirigir veículos de transporte público. A medida visa garantir a circulação de ônibus nas cidades baianas durante o segundo turno das eleições. O Tribunal Regional Eleitoral da Bahia determinou a retomada integral do serviço, sob pena de multa de R$ 1 milhão por hora de descumprimento. O governador criticou a situação, alegando que a falta de transporte pode prejudicar o direito dos eleitores de chegar às seções eleitorais.",
+      "porQueImporta": "A iniciativa busca assegurar o acesso dos eleitores ao transporte público durante o período eleitoral.",
+      "category": "economia",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/distrito-federal/ministro-andre-mendonca-do-stf-sobre-eleicoes-novo-ciclo-para-o-pais"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/andre-mendonca-vota-em-brasilia-que-o-grande-vencedor-seja-o-eleitor-seja-o-pais.ghtml"
+          "url": "https://www.metropoles.com/brasil/governador-da-bahia-coloca-pm-em-prontidao-para-dirigir-onibus"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/andre-mendonca-ministro-do-stf-e-do-tse-vota-no-2o-turno-em-brasilia/"
+          "url": "https://www.cnnbrasil.com.br/eleicoes/governador-da-bahia-coloca-pms-a-disposicao-para-dirigir-onibus/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/governador-da-bahia-disponibiliza-pms-para-dirigir-onibus-em-salvador/"
         }
       ],
-      "updatedAt": "2026-10-25T14:59:35.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/10/ministro-andre-mendonca-votando.jpeg"
-    },
-    {
-      "clusterId": "6389ba30af7b52c3",
-      "slug": "f5aec84a972d4946",
-      "titulo": "Tarcísio Gomes de Freitas vota e prevê vitória de Flávio Bolsonaro",
-      "resumo": "O governador reeleito de São Paulo, Tarcísio Gomes de Freitas, votou no segundo turno das eleições presidenciais de 2026 e afirmou que o resultado do primeiro turno indicou um sinal de mudança. Ele declarou confiança na vitória de Flávio Bolsonaro sobre Lula e sugeriu que o futuro presidente seria um agente de pacificação política. Tarcísio também apontou que o voto reflete a insatisfação da população com as entregas do PT.",
-      "porQueImporta": "O posicionamento de um governador de um estado com grande influência política sinaliza apoio a um candidato que pode alterar o cenário político nacional.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-eleicoes-2026/tarcisio-vota-e-diz-que-flavio-sera-presidente-da-pacificacao/"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/tarcisio-vota-e-diz-estar-confiante-com-vitoria-de-flavio/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/25/reeleito-governador-de-sp-tarcisio-de-freitas-vota-no-segundo-turno-da-eleicao-presidencial-na-capital.ghtml"
-        }
-      ],
-      "updatedAt": "2026-10-25T14:57:00.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/tarcisio-2.jpeg?fit=300%2C206&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "fd2dd0b63248e4f2",
-      "slug": "4a783423c9d0b85f",
-      "titulo": "Fachin vota no segundo turno e defende respeito à soberania popular",
-      "resumo": "O presidente do STF, ministro Edson Fachin, registrou seu voto no segundo turno das eleições presidenciais em Brasília. Ele enfatizou que o poder emana do povo e pediu que os resultados sejam respeitados. Fachin também agradeceu aos profissionais que organizaram o pleito e pediu paz após o voto.",
-      "porQueImporta": "A declaração reforça a legitimidade do processo eleitoral e a importância da soberania popular no Brasil.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-eleicoes-2026/ao-votar-fachin-pede-respeito-aos-resultados-das-eleicoes/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/presidente-do-stf-fachin-vota-no-segundo-turno-e-diz-que-poder-emana-do-povo/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/eleicoes/fachin-vota-no-2o-turno-e-defende-respeito-a-soberania-popular-na-eleicao/"
-        }
-      ],
-      "updatedAt": "2026-10-25T14:48:16.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2022/09/52068930639_dc8481d1dd_o.jpg"
+      "updatedAt": "2026-10-25T18:26:52.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/05/270123_WA_Entrevista-Governador-Bahia-Jeronimo-Rodrigues-19.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "eeaf3fc0a383753a",
-        "slug": "1245930c69587b84",
-        "titulo": "Resultado do segundo turno das eleições presidenciais de 2026 no exterior",
-        "resumo": "No segundo turno, Lula venceu em países como China, Austrália e Nova Zelândia, enquanto Flávio Bolsonaro saiu na frente no Japão, Emirados Árabes Unidos e Hong Kong. Em Taiwan, Flávio Bolsonaro também superou Lula. A votação no exterior contou com mais de 1 milhão de brasileiros residentes em 186 cidades.",
-        "porQueImporta": "Os resultados internacionais influenciam a percepção global do apoio ao candidato e podem afetar a imagem política no Brasil.",
+        "clusterId": "76339b608c567b37",
+        "slug": "38f566aa5c6080b7",
+        "titulo": "Lula e Flávio Bolsonaro disputam segundo turno das Eleições 2026",
+        "resumo": "As pesquisas de intenção de voto apontam empate técnico entre Lula (PT) e Flávio Bolsonaro (PL), com o senador ligeiramente à frente em alguns levantamentos. No exterior, Lula lidera em países como China, Austrália e Nova Zelândia, enquanto Flávio vence em Japão, Emirados Árabes Unidos e Hong Kong. A votação ocorre no domingo, 25 de outubro, e a apuração começa às 17h, horário de Brasília, com divulgação em tempo real pelo Tribunal Superior Eleitoral.",
+        "porQueImporta": "O resultado determinará quem será o próximo presidente da República.",
         "category": "politica",
         "sources": [
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/25/conheca-cidade-do-to-onde-lula-e-flavio-bolsonaro-empataram-no-1o-turno.ghtml"
+            "url": "https://www.bbc.com/portuguese/articles/cvrly555knx9o?at_medium=RSS&at_campaign=rss"
           },
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/lula-vence-flavio-bolsonaro-na-china-no-2o-turno-das-eleicoes"
+            "url": "https://www.metropoles.com/brasil/flavio-bolsonaro-ja-esta-em-brasilia-para-acompanhar-a-apuracao"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/resultado-do-2o-turno-na-asia-flavio-bolsonaro-ganha-no-japao-e-lula-na-china/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/lula-derrota-flavio-bolsonaro-na-franca-com-84-dos-votos-no-2o-turno/"
           },
           {
-            "name": "DW Brasil",
-            "url": "https://www.dw.com/pt-br/entenda-o-vai-e-vem-da-abertura-dos-sigilos-de-lula-e-flávio-bolsonaro/a-79742187?maca=bra-rss-br-all-1030-rdf"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/os-numeros-das-ultimas-pesquisas-eleitorais-sobre-a-disputa-entre-flavio-bolsonaro-e-lula/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/apuracao-das-eleicoes-2026-acompanhe-os-resultados-em-tempo-real.ghtml"
           }
         ],
-        "updatedAt": "2026-10-25T15:40:18.991Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbc6/live/ed327540-d089-11f1-a701-fddedf244c16.jpg"
+        "updatedAt": "2026-10-25T18:43:10.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0f9/live/a48cfac0-cc62-11f1-a64c-550be9e3c66b.png"
       },
       {
-        "clusterId": "eb9c944d18b60d6f",
+        "clusterId": "46c5a4c22fdf83a9",
         "slug": "4d256bad8f7d2ee8",
         "titulo": "Presidente do TSE Kassio Nunes Marques acompanha votação do segundo turno em Brasília",
         "resumo": "O presidente do Tribunal Superior Eleitoral, Kassio Nunes Marques, visitou a seção eleitoral em Brasília e votou no segundo turno das eleições presidenciais. Ele afirmou que as votações estão dentro do esperado e que os resultados deverão ser conhecidos até 21h. O TSE garante que cada voto será apurado com exatidão e fidelidade, e que o processo ocorrerá em paz e normalidade.",
@@ -299,318 +339,371 @@
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/nunes-marques-diz-que-votacoes-acontecem-dentro-do-esperado"
+            "url": "https://www.metropoles.com/sao-paulo/lula-cobra-de-nunes-marques-e-mendonca-solucao-para-eleitores-sem-onibus"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/presidente-do-tse-diz-que-eleicoes-estao-dentro-do-esperado-e-estima-resultado-ate-21h.ghtml"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/ministro-do-tse-aciona-nunes-marques-sobre-frota-de-onibus-na-bahia/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/nunes-marque-extensao-da-votacao-na-bahia-sera-analisada-a-seu-tempo/"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/brasil/presidente-do-tse-vota-e-diz-esperar-segundo-turno-em-paz/"
+            "url": "https://exame.com/brasil/nunes-marques-diz-que-tse-ja-registrou-138-ocorrencias-eleitorais-no-2o-turno/"
           },
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/nunes-marques-pede-senso-critico-com-noticias-na-vespera-do-2o-turno/"
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/presidente-do-tse-nunes-marques-acompanha-abertura-de-sessao-em-brasilia.ghtml"
           }
         ],
-        "updatedAt": "2026-10-25T15:23:48.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/10/presidente-do-tribunal-superior-eleitoral-tse-ministro-kassio-nunes-marques-concede-entrevista-coletiva-apos-o-encerramento-da-apuracao-do-primeiro-turno-das-eleicoes-gerais-de-2026-2-scaled.jpeg"
+        "updatedAt": "2026-10-25T18:32:23.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/10/lula-pt-fala-tse-onibus.jpg"
       },
       {
-        "clusterId": "d9e7a1ac52c482cc",
-        "slug": "7fd6ed1d5e6a86ea",
-        "titulo": "TSE troca 900 urnas eletrônicas no segundo turno",
-        "resumo": "O Tribunal Superior Eleitoral informou que 900 urnas eletrônicas foram substituídas até 12h no segundo turno das eleições de 2026. As trocas representam 0,16% do total de 499.248 urnas em uso. Nenhuma seção precisou de votação manual por cédula de papel. O TSE mantém 48.815 urnas de contingência.",
-        "porQueImporta": "Garantia de integridade e continuidade do processo eleitoral.",
+        "clusterId": "ec530eda509c0553",
+        "slug": "9443a2506c1c6124",
+        "titulo": "Lula vence votação no exterior em 40 países, Flávio Bolsonaro em 12",
+        "resumo": "No segundo turno das eleições presidenciais, Lula liderou a votação em 40 países ou territórios, enquanto Flávio Bolsonaro venceu em 12. Na Palestina, Lula obteve cerca de 95,6% dos votos, com queda de 7,2% em Ramala, e Flávio Bolsonaro obteve mais de 80% dos votos válidos em Tel Aviv. Em Israel, Flávio Bolsonaro superou Lula, que somou apenas 19,19% dos votos. Os resultados foram divulgados pelo TSE após as 17h.",
+        "porQueImporta": "Os resultados no exterior refletem a influência dos brasileiros residentes no exterior nas eleições nacionais.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/tse-troca-900-urnas-eletronicas-ate-as-12h-no-2o-turno/"
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/lula-tem-956-dos-votos-na-palestina-flavio-vence-em-israel/"
           },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/tse-informa-que-900-urnas-foram-substituidas/"
+            "url": "https://www.cartacapital.com.br/politica/lula-lidera-na-palestina-no-2o-turno-flavio-bolsonaro-em-israel/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/votacao-no-exterior-flavio-bolsonaro-vence-lula-em-israel-no-2o-turno/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-tse-informa-que-467-urnas-foram-substituidas-ate-10h-deste-domingo.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml"
           }
         ],
-        "updatedAt": "2026-10-25T15:32:25.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/09/Eleições-Clima-Fotos-Arquivo-TSE00011.jpg"
+        "updatedAt": "2026-10-25T17:20:25.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/AFP__20261019__D3NT9RH__v1__MidRes__BrazilElectionRunoffDebate.jpg"
       },
       {
-        "clusterId": "e3e64df6f15c019f",
-        "slug": "1b08ed6ba508d0b4",
-        "titulo": "Ministério da Justiça registra 58 ocorrências de possíveis crimes eleitorais no segundo turno",
-        "resumo": "Até as 11h do domingo, o Ministério da Justiça e Segurança Pública registrou 58 ocorrências relacionadas a possíveis crimes eleitorais, incluindo 11 pessoas conduzidas, 10 termos circunstanciados, 3 auto‑prisões em flagrante, 2 bloqueios de vias, 2 veículos apreendidos e 1 material de campanha apreendido. O Ministério também informou que 264.328 profissionais de segurança foram mobilizados para o segundo turno das eleições. O balanço foi divulgado em meio à apuração do segundo turno presidencial entre Lula e Flávio Bolsonaro.",
-        "porQueImporta": "O registro de crimes eleitorais e a mobilização de segurança refletem a importância de garantir a integridade e a ordem nas eleições.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-segundo-turno.ghtml"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/carta-capital/ministerio-da-justica-registra-32-crimes-eleitorais-e-tres-prisoes-no-2o-turno/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-ocorrencias-brasil-hoje-25-outubro-2026/"
-          }
-        ],
-        "updatedAt": "2026-10-25T15:24:22.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/Dou4oOuEGleQ9dEWygd5qsQIGes=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/D/U7JSE4Ry6mhgCgFJCvBg/design-sem-nome-17-.png"
-      },
-      {
-        "clusterId": "13859815f8e61136",
-        "slug": "4205b0537b1711dd",
-        "titulo": "Ministro André Mendonça vota em Brasília e fala de novo ciclo no país",
-        "resumo": "O ministro André Mendonça, do STF e vice‑presidente do TSE, registrou seu voto no 2º turno das eleições em Brasília. Ele afirmou que o encerramento das eleições marca o início de um novo ciclo e que o eleitor deve ser o principal vencedor do processo. Mendonça espera que os eleitos e os mantidos façam o melhor para o país.",
-        "porQueImporta": "O voto do ministro reforça a importância da participação cidadã e sinaliza a continuidade do processo democrático no Brasil.",
+        "clusterId": "98c6133298ef3644",
+        "slug": "1a71cbce82ffe792",
+        "titulo": "Campanha de Lula pede prisão de secretário da SPTrans e questiona frota de ônibus em São Paulo",
+        "resumo": "A campanha de Lula solicitou a prisão do secretário de transporte e do chefe da SPTrans, alegando descumprimento de decisão que exigia que 100% da frota de ônibus estivesse em circulação. O pedido segue após a Justiça Eleitoral ter analisado a situação da frota na cidade de São Paulo. A Federação do PT apontou que a decisão não foi cumprida, enquanto a prefeitura foi instada a apresentar informações sobre a frota. A questão envolve a gestão pública de transporte e a aplicação de normas eleitorais.",
+        "porQueImporta": "O caso destaca a fiscalização de recursos públicos e a responsabilidade dos gestores de transporte na cidade de São Paulo.",
         "category": "politica",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/distrito-federal/ministro-andre-mendonca-do-stf-sobre-eleicoes-novo-ciclo-para-o-pais"
+            "url": "https://www.metropoles.com/sao-paulo/tre-sp-pede-que-prefeitura-apresente-informacoes-sobre-frota-de-onibus"
           },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/andre-mendonca-vota-em-brasilia-que-o-grande-vencedor-seja-o-eleitor-seja-o-pais.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/andre-mendonca-ministro-do-stf-e-do-tse-vota-no-2o-turno-em-brasilia/"
-          }
-        ],
-        "updatedAt": "2026-10-25T14:59:35.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/10/ministro-andre-mendonca-votando.jpeg"
-      },
-      {
-        "clusterId": "fd2dd0b63248e4f2",
-        "slug": "4a783423c9d0b85f",
-        "titulo": "Fachin vota no segundo turno e defende respeito à soberania popular",
-        "resumo": "O presidente do STF, ministro Edson Fachin, registrou seu voto no segundo turno das eleições presidenciais em Brasília. Ele enfatizou que o poder emana do povo e pediu que os resultados sejam respeitados. Fachin também agradeceu aos profissionais que organizaram o pleito e pediu paz após o voto.",
-        "porQueImporta": "A declaração reforça a legitimidade do processo eleitoral e a importância da soberania popular no Brasil.",
-        "category": "politica",
-        "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/ao-votar-fachin-pede-respeito-aos-resultados-das-eleicoes/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/brasil/presidente-do-stf-fachin-vota-no-segundo-turno-e-diz-que-poder-emana-do-povo/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/fachin-vota-no-2o-turno-e-defende-respeito-a-soberania-popular-na-eleicao/"
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-lula-pede-prisao-de-secretario-e-chefe-da-sptrans/"
           }
         ],
-        "updatedAt": "2026-10-25T14:48:16.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2022/09/52068930639_dc8481d1dd_o.jpg"
+        "updatedAt": "2026-10-25T18:38:12.000Z",
+        "imageUrl": "https://images.metroimg.com/2025/11/07152339/tresgracas03.jpg"
       },
       {
-        "clusterId": "1fad93504e38b42a",
-        "slug": "c3df08649c68741a",
-        "titulo": "Como justificar ausência na votação do segundo turno de 2026",
-        "resumo": "O eleitor pode justificar a ausência na votação do segundo turno de 2026 por meio de procedimentos digitais, como o aplicativo e‑Título ou o Autoatendimento Eleitoral, ou presencialmente no dia da eleição. A justificativa pode ser feita dentro dos prazos estabelecidos pela Justiça Eleitoral.",
-        "porQueImporta": "Permite que eleitores que não possam comparecer às urnas participem do processo democrático.",
+        "clusterId": "1f5273fdadc9c05f",
+        "slug": "1e8936631a0889f0",
+        "titulo": "Eleições 2026: consulta de resultados e local de votação online",
+        "resumo": "Os eleitores podem acompanhar a apuração em tempo real pelo site e aplicativo do TSE, verificando votos por seção, zona e município. A página especial de Goiás oferece dados atualizados, mapas interativos e ferramentas de busca. Além disso, é possível consultar o local de votação, título, zona e seção via Autoatendimento Eleitoral e aplicativo e‑Título, sem necessidade de ir ao cartório.",
+        "porQueImporta": "Facilita o acesso à informação e a participação democrática dos eleitores.",
         "category": "politica",
         "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/mais-de-1-milhao-de-eleitores-justificam-ausencia-pelo-e-titulo-ate-as-9h-diz-tse.ghtml"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/brasil/mais-de-1-milhao-de-eleitores-justificaram-ausencia-na-primeira-hora-do-segundo-turno-diz-tse/"
-          },
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/25/pro/veja-como-justificar-ausencia-na-votacao-deste-domingo-25/"
+            "url": "https://olhardigital.com.br/2026/10/25/pro/como-consultar-o-resultado-das-eleicoes-2026-por-secao-eleitoral/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/25/eleicoes-2026-veja-onde-acompanhar-a-apuracao-para-presidente-e-como-consultar-os-votos-em-goias.ghtml"
           }
         ],
-        "updatedAt": "2026-10-25T13:46:17.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/X2KJ9z3Ifbe34Jzfpdba2dGKdqY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/r/d1pY9CSy6jXbxzFGt9ng/e-titulo.jpg"
+        "updatedAt": "2026-10-25T18:00:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/gZhTKQD2Kn43YvYvIlFEfF2EkYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/C/6HFDdKSCaXJpGzATPhag/0-20-0109mg02-av-assedio-voto.png"
       },
       {
-        "clusterId": "7e519b1223c8973e",
-        "slug": "758e1e16ac59a808",
-        "titulo": "Primeira-dama responde a jornalista com frase de Janja",
-        "resumo": "Durante entrevista, jornalista perguntou se o presidente parecia desanimado. Em vez de responder, a primeira-dama citou a frase de Janja: \"Vai se catar, meu filho\". A resposta gerou repercussão nas redes sociais. A Primeira-dama também fez comentário irônico sobre a elegância do presidente.",
-        "porQueImporta": "Ilustra a dinâmica política e a influência da Primeira-dama nas comunicações oficiais.",
+        "clusterId": "91682c005be1de3f",
+        "slug": "95aea11d2d1065ee",
+        "titulo": "Moraes autoriza retomada de visitas de grupo de oração a Bolsonaro",
+        "resumo": "O ministro do Supremo, Luiz Fux, autorizou que um grupo de 13 pessoas retome as visitas ao ex-presidente Jair Bolsonaro, que cumpre prisão domiciliar em Brasília. As visitas ocorrerão às 19h30 das quartas-feiras, após a suspensão anterior. Fux ressaltou que as medidas de segurança serão observadas. A decisão segue a determinação de que o período de suspensão já terminou.",
+        "porQueImporta": "Permite ao ex-presidente receber apoio espiritual, refletindo sobre a política de visitas em regime de prisão domiciliar.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/vai-se-catar-meu-filho-diz-janja-a-jornalista/"
+            "url": "https://www.poder360.com.br/poder-justica/moraes-autoriza-bolsonaro-a-receber-visitas-de-grupo-de-oracao/"
           },
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/a-dura-frase-de-janja-apos-questionamentos-de-um-jornalista/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/moraes-autoriza-grupo-de-oracao-a-retomar-visitas-a-bolsonaro/"
           }
         ],
-        "updatedAt": "2026-10-25T15:33:47.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-21-at-15.19.06.jpeg"
+        "updatedAt": "2026-10-25T17:50:00.000Z"
+      },
+      {
+        "clusterId": "298cb816e9d6aa6e",
+        "slug": "1efe5fb7ca1d5e75",
+        "titulo": "Fiscais e mesárias investigados por suspeita de boca de urna",
+        "resumo": "No Rio de Janeiro, fiscais do PL foram levados à Polícia Federal sob suspeita de boca de urna, com uma mulher portando crachá de delegado e um homem sendo conduzidos por ordem do juiz eleitoral; o PL afirmou desconhecer os casos. Em Brasília, o Tribunal Regional Eleitoral registrou 3.200 denúncias de propaganda irregular desde o início do período eleitoral, incluindo um termo circunstanciado contra uma mesária suspeita de boca de urna.",
+        "porQueImporta": "A investigação destaca possíveis irregularidades eleitorais que podem afetar a integridade do processo democrático.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/fiscais-do-pl-sao-levados-a-pf-no-rio-por-suspeita-de-boca-de-urna/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/df-tem-denuncias-de-propaganda-irregular-e-mesaria-suspeita-de-boca-de-urna/"
+          }
+        ],
+        "updatedAt": "2026-10-25T17:41:01.000Z"
+      },
+      {
+        "clusterId": "9c49c97bd4402542",
+        "slug": "1ab221b33563fb2e",
+        "titulo": "Chefe da missão da OEA pede respeito ao resultado das urnas no segundo turno",
+        "resumo": "O chefe da missão de Observação Eleitoral da OEA, José Miguel Insulza, afirmou que a votação no segundo turno transcorreu com segurança e que o sistema eleitoral brasileiro demonstrou transparência e confiabilidade. Ele pediu que as candidaturas respeitem e aceitem a vontade expressa pelos eleitores nas urnas. A equipe de observadores acompanhou testes de integridade das urnas e monitorou decisões judiciais relacionadas às redes sociais.",
+        "porQueImporta": "Garantir a legitimidade das eleições reforça a confiança na democracia brasileira.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/oea-pede-tranquilidade-e-respeito-ao-resultado-das-urnas-no-segundo-turno/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/chefe-da-missao-da-oea-pede-que-eleitores-respeitem-e-aceitem-a-vontade-cidada-expressa-nas-urnas.ghtml"
+          }
+        ],
+        "updatedAt": "2026-10-25T17:25:21.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/5FljzAX1OI1tcKfSQHJQzJcK6OM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/i/oG5t98SeiQfhbk5TBjIA/urna.jpg"
       }
     ],
     "economia": [
       {
-        "clusterId": "957b3d7a01c95715",
-        "slug": "3c506234a60eafe8",
-        "titulo": "Segundo turno das eleições registra crimes eleitorais",
-        "resumo": "No segundo turno das eleições de 2026, a Secretaria de Estado de Justiça e Segurança Pública (Sejusp) identificou 14 ocorrências de crimes eleitorais no Acre, enquanto a MJSP registrou 32 ocorrências em todo o país às 9h. O Rio Grande do Sul lidera com 11 casos, seguido por Minas Gerais com sete e Pernambuco com três. As contagens são atualizadas continuamente durante a votação.",
-        "porQueImporta": "Acompanhar crimes eleitorais garante a integridade e transparência do processo democrático.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/25/ocorrencias-sejusp-segundo-turno-acre.ghtml"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/mjsp-as-9h-segundo-turno-ja-tinha-32-ocorrencias-de-crimes-eleitorais/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/o-numero-de-crimes-eleitorais-cometidos-na-1a-hora-de-votacao/"
-          }
-        ],
-        "updatedAt": "2026-10-25T15:28:30.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/IrvTYQmx4RWWaq43hRMcWlHEZxs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/3/eA8es9QjqA3PpSGHjQ6Q/whatsapp-image-2026-10-25-at-09.29.13-1-.jpeg"
-      },
-      {
-        "clusterId": "fcd6fbd4e3003436",
-        "slug": "09e1f6622a25074e",
-        "titulo": "Fachin vota em Brasília e destaca desafios e necessidade de paz",
-        "resumo": "O presidente do STF, Luiz Edson Fachin, votou em Brasília no segundo turno das eleições e afirmou que o Brasil precisará enfrentar desafios e cumprir deveres constitucionais. Ele ressaltou a importância de respeitar o resultado das urnas e pediu paz e tranquilidade para o país. Fachin também agradeceu a todos que contribuíram para a realização das eleições.",
-        "porQueImporta": "A declaração do ministro reforça a necessidade de estabilidade e respeito às decisões democráticas no contexto pós-eleitoral.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/fachin-diz-que-eleito-tera-desafios-e-deveres-constitucionais-pela-frente/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/10/25/fachin-vota-em-brasilia-e-diz-que-brasil-precisa-de-paz-e-tranquilidade-apos-eleicao.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-25T15:21:39.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/08/52048620191_4cabeb590c_o.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "b73ef9067e7ce77a",
-        "slug": "1f38648062b3240b",
-        "titulo": "Gol e Anac negam cancelamentos de voos na véspera do segundo turno",
-        "resumo": "A Gol afirmou que cancelou apenas uma viagem de Porto Alegre a Salvador, em resposta a postagens nas redes sociais. A Anac confirmou que, até o momento, as operações da companhia permanecem normais. O Ministério Público do Trabalho acionou a Anac após as notícias de cancelamentos, mas a agência não encontrou indícios de irregularidades.",
-        "porQueImporta": "A situação pode afetar a confiança dos passageiros e a imagem da companhia aérea.",
+        "clusterId": "36345d3e2be046d2",
+        "slug": "e741caea88e5cf06",
+        "titulo": "Cobertura ao vivo da apuração do 2º turno das eleições de 2026",
+        "resumo": "As eleições de 2026 estão em fase de apuração do segundo turno para governador em vários estados, com cobertura ao vivo pela CNN Brasil e outras plataformas. Cada estado possui um número distinto de municípios e eleitores aptos: TO (139 municípios, 1,18 milhões), RN (167 municípios, 2,6 milhões), DF (37 regiões, 2,2 milhões), AM (62 municípios, 2,8 milhões), AC (22 municípios, 614,6 milhões), ES (78 municípios, 2,9 milhões). A transmissão dos boletins de urna ocorre via redes privadas criptografadas ou satélite, permitindo acompanhamento em tempo real.",
+        "porQueImporta": "A cobertura em tempo real facilita a transparência e a participação cidadã nas decisões eleitorais.",
         "category": "economia",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/eleicoes/gol-desmente-supostos-cancelamentos-de-voos-na-vespera-do-2o-turno/"
+            "url": "https://www.cnnbrasil.com.br/eleicoes/eleicao-para-governador-no-to-acompanhe-ao-vivo-apuracao-do-2-turno/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-espirito-santo.ghtml"
           },
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/brasil/mpor-aciona-anac-apos-noticias-sobre-cancelamentos-de-voos-em-dia-de-votacao/"
-          }
-        ],
-        "updatedAt": "2026-10-25T14:54:04.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/09/Captura-de-tela-2025-09-03-164303.png?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "4c6c81aa4c01e697",
-        "slug": "941f70854ef4d589",
-        "titulo": "Mesária suspeita de boca de urna no DF",
-        "resumo": "Uma mesária da Escola Classe 22, no Gama, foi apontada como suspeita de boca de urna pelo secretário de Segurança Pública Alexandre Patury, em coletiva no TRE. A prática envolve tentar influenciar eleitores no dia da votação. Caso confirmada, a mesária pode ser detida de 6 meses a 1 ano, com possibilidade de prestação de serviços. A informação foi divulgada em 25 de outubro de 2024.",
-        "porQueImporta": "A acusação destaca a importância de garantir a imparcialidade das mesárias nas eleições.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/suspeita-de-boca-de-urna-df.ghtml"
+            "url": "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/brasil/vai-ter-pesquisa-de-boca-de-urna-no-segundo-turno-das-eleicoes-2026-entenda/"
+            "url": "https://exame.com/brasil/apuracao-do-2o-turno-no-espirito-santo-veja-o-resultado-para-presidente-em-tempo-real/"
           }
         ],
-        "updatedAt": "2026-10-25T14:38:47.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/HzJeTI7dq4WHz8_9JsRTNA9wbSQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/J/kqWjnBRkGn1Onttm5Bow/foto-g1-4-.jpg"
+        "updatedAt": "2026-10-25T18:31:53.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/rWotNIo5zuvGjN1ayvDvp7pkpIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/i/cHRV4YTSabNfBv26UZrw/esv2.jpg"
       },
       {
-        "clusterId": "8bf55dd639b5548a",
-        "slug": "0d77bbf6a4a51e82",
-        "titulo": "Lula critica Flávio, fala em “livros ou armas” e diz que aceitará resultado",
-        "resumo": "Durante a votação em São Bernardo do Campo, o presidente Lula elevou o tom contra o candidato Flávio Bolsonaro, chamando-o de “livros ou armas”. Ele afirmou que respeitará a decisão das urnas e aceitará o resultado final da eleição.",
-        "porQueImporta": "O comentário demonstra a postura do presidente em relação ao adversário e reforça seu compromisso com o processo democrático.",
+        "clusterId": "3b319373a28c4b2d",
+        "slug": "1fbbc58a1df4c289",
+        "titulo": "Campanha de Lula pede ampliação do horário de votação",
+        "resumo": "A campanha do presidente Lula solicitou ao Tribunal Superior Eleitoral a extensão do horário de votação nas seções de Salvador e São Paulo, alegando que a redução da frota de ônibus prejudicou o acesso ao voto. O pedido baseia-se em denúncias de que apenas 60% dos ônibus circulavam em São Paulo, contrariando a determinação de operação de 100% da frota. A extensão seria necessária para compensar o tempo perdido pelos eleitores. A Justiça ainda não decidiu sobre o pleito.",
+        "porQueImporta": "Garantir o pleno acesso ao voto em meio a problemas logísticos.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/lula-flavio-bolsonaro-livros-armas-resultado-eleicao/"
+            "url": "https://www.infomoney.com.br/politica/campanha-de-lula-pedira-ao-tse-ampliacao-do-horario-de-votacao/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/sao-paulo/pt-pede-ampliacao-de-horario-de-votacao-em-sp-apos-problemas-com-onibus"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-eleicoes-2026/campanha-de-lula-diz-que-so-60-dos-onibus-circulam-em-sp/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/o-horario-da-votacao-sera-estendido/"
           }
         ],
-        "updatedAt": "2026-10-25T14:59:52.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-25T131337Z_1726339654_RC2CAOACXBLX_RTRMADP_3_BRAZIL-ELECTION.jpg?fit=300%2C199&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-10-25T18:26:40.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/urnas-eletronicas.jpg?fit=300%2C179&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "fbe7ce984bd33cd7",
-        "slug": "8e51be3efc5282c5",
-        "titulo": "Campanha de Lula espera mobilizar 300 mil indígenas para votar neste domingo",
-        "resumo": "A campanha de Lula planeja mobilizar cerca de 300 mil indígenas para votar no segundo turno, visando reduzir a abstenção em um pleito acirrado. A estratégia envolve esforços de engajamento e comunicação direcionada a comunidades indígenas. O objetivo é aumentar a participação desses eleitores, que podem influenciar o resultado final.",
-        "porQueImporta": "A mobilização de indígenas pode ser decisiva em um cenário de alta competitividade eleitoral.",
+        "clusterId": "c268b82c6159cbac",
+        "slug": "315171ff51df727d",
+        "titulo": "Secretário de Salvador tem prisão decretada pelo TRE por retenção de ônibus em dia de eleição",
+        "resumo": "O Tribunal Regional Eleitoral da Bahia determinou a prisão preventiva do secretário de Salvador, Pablo Souza, por suposta retenção de 55 ônibus que deveriam circular na cidade durante o dia de eleição. A decisão exige a retomada imediata da frota e prevê multa por hora de descumprimento. Souza, que está em Paris, já se manifestou sobre o atraso na circulação de ônibus. A prefeitura e o PT alegam que a medida dificulta a participação dos eleitores.",
+        "porQueImporta": "A medida pode afetar a mobilidade e o direito de voto dos cidadãos em Salvador.",
         "category": "economia",
         "sources": [
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/campanha-de-lula-tem-a-expectativa-de-que-300-mil-indigenas-votem-neste-domingo/"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/brasil/secretario-de-salvador-que-teve-a-prisao-decretada-pelo-tre-se-manifesta/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/tre-ba-determina-prisao-de-secretario-em-salvador/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/secretario-da-salvador-que-teve-prisao-decretada-esta-em-paris-diz-prefeitura/"
           }
         ],
-        "updatedAt": "2026-10-25T14:42:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/indigenas_marco_temporal_indigena_stf250820213916_0.jpeg?fit=300%2C225&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-10-25T18:28:03.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/425364973462538413842390.jpg"
       },
       {
-        "clusterId": "228c1e003570038b",
-        "slug": "43db196abea03c4c",
-        "titulo": "Flávio e Lula disputam Presidência em eleição que pode ser definida pela abstenção",
-        "resumo": "As pesquisas divulgadas na véspera da votação mostraram empate técnico entre Flávio e Lula, com vantagem numérica de Flávio de no máximo dois pontos nos votos válidos, 51% a 49%. A eleição pode ser decidida pela abstenção dos eleitores.",
-        "porQueImporta": "O resultado pode determinar a escolha do próximo presidente do Brasil.",
+        "clusterId": "65e49f8ff5b9fdbc",
+        "slug": "069bcf6838af6bee",
+        "titulo": "Governador da Bahia disponibiliza policiais militares para dirigir ônibus em Salvador",
+        "resumo": "Em resposta à redução de mais de 50% da frota de ônibus em Salvador, o governador da Bahia autorizou policiais militares a dirigir veículos de transporte público. A medida visa garantir a circulação de ônibus nas cidades baianas durante o segundo turno das eleições. O Tribunal Regional Eleitoral da Bahia determinou a retomada integral do serviço, sob pena de multa de R$ 1 milhão por hora de descumprimento. O governador criticou a situação, alegando que a falta de transporte pode prejudicar o direito dos eleitores de chegar às seções eleitorais.",
+        "porQueImporta": "A iniciativa busca assegurar o acesso dos eleitores ao transporte público durante o período eleitoral.",
         "category": "economia",
         "sources": [
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/flavio-e-lula-disputam-presidencia-em-eleicao-que-pode-ser-definida-pela-abstencao/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/governador-da-bahia-coloca-pm-em-prontidao-para-dirigir-onibus"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/eleicoes/governador-da-bahia-coloca-pms-a-disposicao-para-dirigir-onibus/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/governador-da-bahia-disponibiliza-pms-para-dirigir-onibus-em-salvador/"
           }
         ],
-        "updatedAt": "2026-10-25T14:37:30.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/Eleitores-fazem-fila-para-votar-no-Rio-de-Janeiro-25-de-outubro-de-2026-REUTERS-Tita-Barros.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-10-25T18:26:52.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/05/270123_WA_Entrevista-Governador-Bahia-Jeronimo-Rodrigues-19.jpg"
       },
       {
-        "clusterId": "9b0a2938c5a28f4d",
-        "slug": "6c04b2632d23a7eb",
-        "titulo": "Mega-Sena acumula e pode pagar até R$ 300 milhões",
-        "resumo": "No concurso 3.074, realizado em 24 de outubro, as dezenas sorteadas foram 02, 03, 20, 25, 39 e 57. O concurso não teve ganhadores na faixa principal, fazendo o prêmio acumular. O valor acumulado chegou a R$ 227,660,457.38 e pode chegar a R$ 300 milhões no próximo sorteio, marcado para 26 de outubro.",
-        "porQueImporta": "O acúmulo aumenta a expectativa dos apostadores e a possibilidade de um prêmio recorde.",
+        "clusterId": "a04f8db0da3fcb6c",
+        "slug": "0fbd976d32251849",
+        "titulo": "Eleições 2026: 2º turno no Sul do Rio e Rio de Janeiro",
+        "resumo": "O segundo turno das eleições presidenciais de 2026 ocorreu neste domingo, com mais de um milhão de eleitores no Sul do Rio e Costa Verde. A votação no Rio de Janeiro foi acompanhada em tempo real, mostrando a disputa entre Lula e Flávio Bolsonaro. A cobertura destacou clima ameno e fluxo tranquilo nas urnas. Flávio Bolsonaro, que votou no Rio de Janeiro, pediu que os eleitores evitem a abstenção.",
+        "porQueImporta": "O resultado das eleições influencia a composição do governo federal e as políticas nacionais.",
         "category": "economia",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/25/mega-sena-acumulada-premio-estimado-de-r-300-milhoes-maiores-historia-sorteios-regulares.ghtml"
+            "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-sul-do-rio-e-costa-verde.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/apuracao-do-2o-turno-no-rio-grande-do-sul-veja-o-resultado-para-presidente-em-tempo-real/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/flavio-bolsonaro-vota-no-rio-de-janeiro/"
           }
         ],
-        "updatedAt": "2026-10-25T12:34:15.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg"
+        "updatedAt": "2026-10-25T17:21:11.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/Dou4oOuEGleQ9dEWygd5qsQIGes=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/D/U7JSE4Ry6mhgCgFJCvBg/design-sem-nome-17-.png"
+      },
+      {
+        "clusterId": "a6f2a723c9870fb2",
+        "slug": "049e7da656f418d6",
+        "titulo": "Marine Le Pen anuncia candidatura à presidência da França em meio a protestos",
+        "resumo": "A líder da extrema direita, Marine Le Pen, lançou oficialmente sua candidatura à presidência da França durante um evento com grande número de apoiadores. Ela prometeu uma política de tolerância zero contra o crime e a restauração da ordem e da confiança nacional. O anúncio ocorreu em um contexto de protestos e tensões sociais no país.",
+        "porQueImporta": "O movimento de Le Pen pode influenciar a polarização política e a segurança pública na França.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mundo/marine-le-pen-lanca-candidatura-a-presidencia-da-franca-em-meio-a-onda-de-protestos/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/marine-le-pen-lanca-candidatura-a-presidencia-da-franca-em-meio-a-protestos/"
+          }
+        ],
+        "updatedAt": "2026-10-25T18:33:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/le-pen-franca-europa-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "e34d21d3c4c3396b",
+        "slug": "4aaf61c477b96f05",
+        "titulo": "Alcolumbre destaca necessidade de responsabilidade e respeito ao resultado",
+        "resumo": "O presidente da República, Luiz Inácio Lula da Silva, afirmou que o Brasil espera que a população atue com responsabilidade e respeito ao resultado das eleições. Ele fez a declaração junto ao presidente da Câmara, Hugo Motta, e ao presidente do TSE, Kassio Nunes Marques, em entrevista coletiva na sede do Tribunal. A mensagem reforça a importância de aceitar o resultado eleitoral de forma pacífica.",
+        "porQueImporta": "Garantir a estabilidade democrática depende da aceitação e respeito ao resultado eleitoral.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/independente-do-resultado-das-eleicoes-brasil-espera-responsabilidade-diz-alcolumbre/"
+          }
+        ],
+        "updatedAt": "2026-10-25T18:42:56.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/senado.png?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "ff633fd588f2cbcb",
+        "slug": "2e73de2ca120b1bd",
+        "titulo": "TSE relata dificuldades pontuais no transporte de eleitores e anuncia ajustes em curso",
+        "resumo": "O Tribunal Superior Eleitoral informou que enfrentou problemas específicos no transporte de eleitores, mas que a atuação integrada dos Tribunais Regionais Eleitorais (TREs) garantiu a continuidade do serviço. O TSE afirmou que ajustes estão sendo realizados para resolver as falhas identificadas. As medidas visam assegurar que os eleitores possam chegar às urnas sem maiores impedimentos.",
+        "porQueImporta": "Garantir o transporte adequado dos eleitores é essencial para a participação democrática e a legitimidade das eleições.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/tse-aponta-dificuldades-pontuais-no-transporte-e-diz-que-ajustes-estao-em-curso/"
+          }
+        ],
+        "updatedAt": "2026-10-25T18:13:03.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2023/05/52487126980_437767b917_c.jpg?fit=300%2C189&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "063d4657799bb9de",
+        "clusterId": "5428aafb647089b8",
+        "slug": "89f7f5014f2cb22b",
+        "titulo": "Eleições 2026: mais de 2,6 milhões de ausentes e denúncias de irregularidades no transporte",
+        "resumo": "As urnas estarão abertas das 8h às 17h no domingo (25/10) para a votação de 2026, com mais de 2,6 milhões de eleitores ausentes. Há denúncias de irregularidades no transporte de votos e os primeiros resultados já foram divulgados no exterior. A BBC Brasil transmitirá ao vivo a partir das 16h30, acompanhando a disputa entre Lula e Flávio Bolsonaro.",
+        "porQueImporta": "O alto número de ausentes e as denúncias de irregularidades podem influenciar a legitimidade e o resultado final das eleições.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-10-25T18:45:10.033Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbc6/live/ed327540-d089-11f1-a701-fddedf244c16.jpg"
+      },
+      {
+        "clusterId": "d2153d1965b65d62",
+        "slug": "dfff61f86ce9f9ce",
+        "titulo": "Lula vence segundo turno na Alemanha com 79% dos votos",
+        "resumo": "No segundo turno da eleição presidencial na Alemanha, Lula obteve 79% dos votos, ampliando sua margem em relação à primeira volta. Flávio Bolsonaro recebeu 20,91% dos votos. O comparecimento às urnas atingiu 50% em cinco cidades onde os eleitores votaram.",
+        "porQueImporta": "O resultado demonstra o forte apoio internacional ao presidente Lula e pode influenciar a percepção global sobre sua liderança.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "DW Brasil",
+            "url": "https://www.dw.com/pt-br/lula-amplia-margem-na-alemanha-e-vence-segundo-turno-com-79/a-79756287?maca=bra-rss-br-all-1030-rdf"
+          }
+        ],
+        "updatedAt": "2026-10-25T18:03:00.000Z"
+      },
+      {
+        "clusterId": "55a51d263166c5bb",
         "slug": "c1e7a72df0366d40",
         "titulo": "Quase mil pessoas são detidas após protestos em massa na França",
         "resumo": "Em um dia de manifestações que contou com cerca de 410 mil participantes, as autoridades prenderam 964 pessoas, principalmente após os encerramentos das marchas. Operações de busca também resultaram na apreensão de itens potencialmente usados como armas, como bolas de metal, chumbinhos e estilingues. A maioria das protestos foi pacífica, mas ocorreram distúrbios em várias cidades.",
@@ -622,10 +715,6 @@
             "url": "https://www.bbc.com/portuguese/articles/cmgr8dw92n78o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "name": "DW Brasil",
-            "url": "https://www.dw.com/pt-br/frança-tem-novo-dia-de-atos-massivos-e-confrontos-em-várias-cidades/a-79752344?maca=bra-rss-br-all-1030-rdf"
-          },
-          {
             "name": "G1",
             "url": "https://g1.globo.com/mundo/noticia/2026/10/24/franca-prisoes-apreensao-armas-conter-violencia-protestos.ghtml"
           }
@@ -634,24 +723,55 @@
         "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3d00/live/edf93830-cffb-11f1-b444-6fb1f13f8d87.jpg"
       },
       {
-        "clusterId": "c55a1e33f305ab22",
-        "slug": "d71485d2e5644c85",
-        "titulo": "Eleição presidencial 2026: Lula e Flávio Bolsonaro disputam segundo turno",
-        "resumo": "No domingo 25 de outubro, os brasileiros votam no segundo turno das eleições presidenciais de 2026, entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL). A votação envolve mais de 158 milhões de eleitores. Os resultados do exterior já começam a chegar. A eleição é a mais acirrada desde a redemocratização em 1989.",
-        "porQueImporta": "Decisão sobre a liderança do país e impacto nas políticas internas e externas.",
+        "clusterId": "1a0edafa25db6955",
+        "slug": "f82011b1046c745a",
+        "titulo": "Moradores de Sloviansk enfrentam destruição e decisão de permanecer ou fugir",
+        "resumo": "Os habitantes de Sloviansk vivem entre destroços e ataques frequentes, mantendo a esperança de preservar suas famílias e animais de estimação. A cidade, próxima ao front na Ucrânia, oferece poucas opções, forçando os moradores a escolher entre deixar a área ou permanecer apesar dos riscos. A comunidade continua lutando para manter a vida cotidiana sob condições adversas.",
+        "porQueImporta": "Ilustra a realidade humana e as escolhas difíceis enfrentadas pelos civis em zonas de conflito.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "DW Brasil",
+            "url": "https://www.dw.com/pt-br/entre-destroços-e-esperança-o-dia-a-dia-em-uma-cidade-perto-do-front-na-ucrânia/a-79730803?maca=bra-rss-br-all-1030-rdf"
+          }
+        ],
+        "updatedAt": "2026-10-25T16:15:00.000Z"
+      },
+      {
+        "clusterId": "d975a64289d985a0",
+        "slug": "b962417e1e950cca",
+        "titulo": "Incêndio atinge Ninho da Águia, antigo retiro de Hitler",
+        "resumo": "Um incêndio de grande intensidade atingiu a Kehlsteinhaus, construída em 1938 no topo de uma montanha nos Alpes da Baviera. O fogo começou na sexta-feira e continuou no sábado, exigindo a mobilização de cerca de 200 bombeiros e equipes de emergência. Um homem foi detido próximo ao local e a polícia investiga se ele tem relação com o incêndio. O edifício, localizado a 1.834 metros de altitude, era usado por autoridades nazistas, incluindo Adolf Hitler.",
+        "porQueImporta": "O Ninho da Águia é um símbolo histórico da era nazista, e seu incêndio pode representar perda cultural e histórica.",
         "category": "mundo",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/eleicoes-presidenciais-quem-venceu-cada-disputa-desde-a-redemocratizacao.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/10/24/incendio-atinge-ninho-da-aguia-construcao-usada-por-hitler-na-alemanha.ghtml"
           },
           {
             "name": "DW Brasil",
-            "url": "https://www.dw.com/pt-br/brasil-vai-às-urnas-em-eleição-mais-acirrada-desde-a-redemocratização-acompanhe-na-dw/live-78393402?maca=bra-rss-br-all-1030-rdf"
+            "url": "https://www.dw.com/pt-br/incêndio-devasta-ninho-da-águia-de-adolf-hitler/a-79747836?maca=bra-rss-br-all-1030-rdf"
           }
         ],
-        "updatedAt": "2026-10-25T13:40:47.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/uqKgjJx-FtXoUoFbvCb7SGcTX4c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/u/m8rdBpRBeQ7rY11LtWfA/fotojet-36-.jpg"
+        "updatedAt": "2026-10-24T14:51:16.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/zlHDSzmuzwtmunsib9q0AuxmTfY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/Y/9BFwudSyGZcEPhi5Y0Gg/afp-20261024-d4ab46n-v2-midres-topshotgermanyhistorypolicefirehitler.jpg"
+      },
+      {
+        "clusterId": "e31c409011ef5bfd",
+        "slug": "54c7124aa8a054c2",
+        "titulo": "Lula tenta reeleição aos 80 anos em campanha marcada pela dificuldade",
+        "resumo": "O ex-metalúrgico e presidente de três mandatos, Lula, está em campanha para conquistar mais quatro anos no Palácio do Planalto. A eleição representa seu maior desafio, com a expectativa de uma virada histórica. A campanha destaca a experiência de Lula e a busca por continuidade de suas políticas. O contexto político envolve debates sobre idade, desempenho e futuro do país.",
+        "porQueImporta": "A reeleição de Lula pode definir a direção política e econômica do Brasil nos próximos anos.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cx240l916lneo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-10-25T15:33:33.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e656/live/91806560-ce5c-11f1-a166-e30097724580.jpg"
       },
       {
         "clusterId": "fd91a503c3bafbca",
@@ -684,80 +804,39 @@
         ],
         "updatedAt": "2026-10-25T15:08:48.000Z",
         "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/34e1/live/a4615210-cf2f-11f1-b92a-0b11bc79ea84.jpg"
-      },
-      {
-        "clusterId": "496bdd2494f043fd",
-        "slug": "fc3bffb6d323e775",
-        "titulo": "Brasileiro viaja 1.500 km para votar no segundo turno presidencial",
-        "resumo": "Um cidadão brasileiro percorreu cerca de 1.500 quilômetros, viajando da Ilha dos Açores até Lisboa, para exercer seu direito de voto no segundo turno da eleição presidencial. Portugal é o segundo maior colégio eleitoral de brasileiros no exterior, atrás apenas dos Estados Unidos. O país já havia concedido a vitória de Lula no primeiro turno.",
-        "porQueImporta": "Ilustra a mobilidade e o engajamento dos brasileiros no exterior nas eleições nacionais.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "DW Brasil",
-            "url": "https://www.dw.com/pt-br/brasileiro-viaja-1-500-km-só-para-votar-para-presidente-no-segundo-turno/a-79755632?maca=bra-rss-br-all-1030-rdf"
-          }
-        ],
-        "updatedAt": "2026-10-25T14:04:00.000Z"
-      },
-      {
-        "clusterId": "d975a64289d985a0",
-        "slug": "b962417e1e950cca",
-        "titulo": "Incêndio atinge Ninho da Águia, antigo retiro de Hitler",
-        "resumo": "Um incêndio de grande intensidade atingiu a Kehlsteinhaus, construída em 1938 no topo de uma montanha nos Alpes da Baviera. O fogo começou na sexta-feira e continuou no sábado, exigindo a mobilização de cerca de 200 bombeiros e equipes de emergência. Um homem foi detido próximo ao local e a polícia investiga se ele tem relação com o incêndio. O edifício, localizado a 1.834 metros de altitude, era usado por autoridades nazistas, incluindo Adolf Hitler.",
-        "porQueImporta": "O Ninho da Águia é um símbolo histórico da era nazista, e seu incêndio pode representar perda cultural e histórica.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/24/incendio-atinge-ninho-da-aguia-construcao-usada-por-hitler-na-alemanha.ghtml"
-          },
-          {
-            "name": "DW Brasil",
-            "url": "https://www.dw.com/pt-br/incêndio-devasta-ninho-da-águia-de-adolf-hitler/a-79747836?maca=bra-rss-br-all-1030-rdf"
-          }
-        ],
-        "updatedAt": "2026-10-24T14:51:16.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/zlHDSzmuzwtmunsib9q0AuxmTfY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/Y/9BFwudSyGZcEPhi5Y0Gg/afp-20261024-d4ab46n-v2-midres-topshotgermanyhistorypolicefirehitler.jpg"
-      },
-      {
-        "clusterId": "35fd57f3f27c3f9a",
-        "slug": "9de46b584c0a592f",
-        "titulo": "Votos do Nordeste demoram mais para chegar ao TSE",
-        "resumo": "A infraestrutura desigual faz com que os dados do eleitorado do Sul e do Sudeste sejam contabilizados primeiro no Tribunal Superior Eleitoral. Os votos do Nordeste chegam com atraso, o que pode atrasar a divulgação do resultado final. O próximo presidente será conhecido no domingo até 20h30.",
-        "porQueImporta": "O atraso na contagem pode influenciar a percepção de legitimidade do processo eleitoral.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cmvg9v4v8kwgo?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-10-25T12:32:02.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3a71/live/4dcf5360-d075-11f1-afcb-6b9b9432d8fc.jpg"
-      },
-      {
-        "clusterId": "2a53d97316208030",
-        "slug": "c82e8b1d12595ed6",
-        "titulo": "Anúncios pagos no Facebook espalham desinformação na eleição na Sérvia",
-        "resumo": "A investigação da BBC identificou dezenas de páginas no Facebook que, nas semanas que antecederam a eleição parlamentar na Sérvia, veicularam anúncios pagos contendo acusações não comprovadas contra opositores políticos. Os anúncios não revelavam quem os financiava, contrariando as políticas de transparência da Meta. A campanha focou especialmente no movimento estudantil.",
-        "porQueImporta": "A prática pode influenciar o resultado eleitoral e comprometer a integridade do processo democrático.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/10/24/investigacao-da-bbc-revela-que-anuncios-pagos-no-facebook-espalham-desinformacao-em-eleicao-na-servia.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cmdx3w23930po?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-10-24T10:37:35.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/iHzCvzOmnTaiS1m9JKBsqjaU9HY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/B/N6gxPAQAK4SHPoAF4z1w/novo-projeto-5-.jpg"
       }
     ],
     "tecnologia": [
+      {
+        "clusterId": "72ded812bf30e15c",
+        "slug": "bc89c96846ff35c3",
+        "titulo": "Anthropic prepara IPO bilionário enquanto empresas de IA adiam estreia na bolsa",
+        "resumo": "A empresa de inteligência artificial Anthropic planeja realizar um IPO que pode valer mais de um bilhão de dólares. O anúncio ocorre em meio a instabilidade do mercado e a elevação dos juros, fatores que têm levado outras firmas de IA a adiar seus planos de abertura de capital. A expectativa de que o IPO seja bem-sucedido reflete a confiança dos investidores no crescimento do setor de IA, apesar das incertezas econômicas.",
+        "porQueImporta": "O sucesso do IPO da Anthropic pode sinalizar a retomada de interesse em empresas de IA, influenciando decisões de outras startups do setor.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/10/25/pro/anthropic-prepara-ipo-bilionario-enquanto-empresas-de-ia-adiam-estreia-na-bolsa/"
+          }
+        ],
+        "updatedAt": "2026-10-25T18:12:19.000Z"
+      },
+      {
+        "clusterId": "e09435501a2b49bc",
+        "slug": "bc4e816b0cd5121e",
+        "titulo": "Militares dos EUA concedem à SpaceX acesso a dados sigilosos de rastreamento espacial",
+        "resumo": "A SpaceX, empresa de Elon Musk, recebeu acesso pela primeira vez à versão mais detalhada do sistema de rastreamento de objetos em órbita mantido pela Casa Branca. O acesso inclui informações sigilosas que antes eram restritas apenas a militares e agências governamentais. A iniciativa visa melhorar a colaboração entre o setor privado e o governo na monitorização de satélites e debris espacial.",
+        "porQueImporta": "Permite maior precisão na detecção de objetos orbitais, fortalecendo a segurança e a coordenação entre setores público e privado.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/10/25/ciencia-e-espaco/militares-dos-eua-dao-a-spacex-de-elon-musk-acesso-a-dados-sigilosos-de-rastreamento-espacial/"
+          }
+        ],
+        "updatedAt": "2026-10-25T15:30:00.000Z"
+      },
       {
         "clusterId": "2544e929905ffe97",
         "slug": "dda9cd4d5c162d79",
@@ -835,51 +914,19 @@
         "updatedAt": "2026-10-25T12:20:27.000Z"
       },
       {
-        "clusterId": "7ba7e34c600f5f62",
-        "slug": "d73dee46da26d848",
-        "titulo": "Regra sobre dispositivos eletrônicos na cabine de votação se aplica ao 1º e 2º turno",
-        "resumo": "A legislação que proíbe a entrada de smartphones, óculos inteligentes e outros dispositivos eletrônicos na cabine de votação foi aplicada no 1º turno e será mantida no 2º turno, que ocorrerá neste domingo (25). A medida visa garantir a segurança e a integridade do processo eleitoral. O controle será reforçado para evitar fraudes e garantir o sigilo do voto.",
-        "porQueImporta": "As regras asseguram a confiabilidade e a transparência das eleições.",
+        "clusterId": "46a90906013f1c91",
+        "slug": "50563c7672107073",
+        "titulo": "Jogos de hoje (25/10/26): onde assistir futebol ao vivo e horários das partidas",
+        "resumo": "O site Olhar Digital disponibiliza a programação dos jogos de futebol do dia 25 de outubro de 2026, indicando os horários e os canais de TV e streaming onde cada partida pode ser acompanhada ao vivo. A lista abrange competições nacionais e internacionais, facilitando o planejamento dos torcedores. Os detalhes incluem datas, horários e plataformas de transmissão, permitindo que os fãs escolham a melhor opção para assistir.",
+        "porQueImporta": "Fornece aos torcedores informações práticas para acompanhar os jogos sem perder tempo procurando transmissões.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/25/pro/smartphone-oculos-inteligentes-o-que-pode-e-o-que-nao-pode-entrar-na-cabine-de-votacao/"
+            "url": "https://olhardigital.com.br/2026/10/25/internet-e-redes-sociais/jogos-de-hoje-25-10-26-onde-assistir-futebol-ao-vivo-e-horarios-das-partidas/"
           }
         ],
-        "updatedAt": "2026-10-25T08:00:00.000Z"
-      },
-      {
-        "clusterId": "4769bda0673151f9",
-        "slug": "686417ad208e764c",
-        "titulo": "Infrações de trânsito que podem levar à apreensão do veículo",
-        "resumo": "Fiscalizações de trânsito podem resultar em multas e pontos na CNH, mas algumas infrações permitem a apreensão do carro. Problemas como pneus, faróis, para-brisa e placas de identificação podem levar à retenção do veículo até a regularização. O licenciamento vencido também pode causar a remoção do automóvel, conforme o Código de Trânsito Brasileiro.",
-        "porQueImporta": "A apreensão impede o uso do veículo e gera custos adicionais para o proprietário.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/carros/5-infracoes-de-transito-que-podem-levar-a-apreensao-do-carro/"
-          }
-        ],
-        "updatedAt": "2026-10-24T22:05:03.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/MiNtSru3iTYDtmrRZptr7HruYDM=/0x0/filters:format(webp):quality(85)/050aa8c7-7eea-4c7e-85c2-76f3de0ce072.jpeg"
-      },
-      {
-        "clusterId": "12c97760c8701f87",
-        "slug": "af9b79faf9571d17",
-        "titulo": "Jeep Renegade seminovo mais barato que Volkswagen Tera em outubro",
-        "resumo": "O Jeep Renegade Longitude 2023, modelo seminovo, apresenta motor turbo, transmissão automática e muitos equipamentos, mantendo preço abaixo de R$100 mil. Em comparação, o Volkswagen Tera parte de R$108.490 na versão MPI com câmbio manual. A queda de valor do Renegade torna-o uma alternativa atrativa para quem busca desempenho sem pagar o preço de um utilitário novo.",
-        "porQueImporta": "Oferece uma opção mais econômica e bem equipada no segmento de SUVs.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/carros/suv-seminovo-da-jeep-fica-no-precinho-e-sai-mais-barato-que-tera-em-outubro/"
-          }
-        ],
-        "updatedAt": "2026-10-24T20:00:03.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/-VmlBl2FlwTvWCM-8DxiW_NIFjI=/0x0/filters:format(webp):quality(85)/a8a9fca0-cd51-4982-88fd-30726a62b543.jpg"
+        "updatedAt": "2026-10-25T11:00:00.000Z"
       }
     ],
     "ciencia": [
@@ -1027,67 +1074,75 @@
           }
         ],
         "updatedAt": "2026-10-23T21:31:15.000Z"
-      },
-      {
-        "clusterId": "8ada34f29625a638",
-        "slug": "1d15cbb562307dae",
-        "titulo": "Peptídeos: definição, usos e riscos associados",
-        "resumo": "Peptídeos são moléculas curtas de aminoácidos que desempenham funções biológicas essenciais, como sinalização celular e regulação de processos fisiológicos. Eles podem ser usados em terapias médicas, suplementos esportivos e cosméticos, mas sua eficácia varia conforme a composição e a dose. Produtos vendidos na internet apresentam riscos de contaminação, adulteração e efeitos colaterais, exigindo cautela e orientação profissional.",
-        "porQueImporta": "Entender os benefícios e perigos dos peptídeos ajuda consumidores a tomar decisões informadas sobre seu uso.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/endocrinologia/peptideos-o-que-sao-para-que-servem-e-quais-funcionam/"
-          }
-        ],
-        "updatedAt": "2026-10-23T18:00:20.000Z"
       }
     ],
     "esportes": [
       {
-        "clusterId": "1bd484dbf49dbe6d",
-        "slug": "6f87df3caf00b92c",
-        "titulo": "Barcelona e Real Madrid se enfrentam na 10ª rodada da La Liga",
-        "resumo": "O clássico entre Barcelona e Real Madrid está marcado para domingo, 25, às 17h (horário de Brasília), no Camp Nou. A partida faz parte da 10ª rodada do Campeonato Espanhol 2026/27. O Real Madrid anunciou que o goleiro Courtois pode ficar fora devido a um processo gripal, embora haja possibilidade de ele jogar. Ambos os clubes estão entre os maiores geradores de receita e seguidores nas redes sociais.",
-        "porQueImporta": "O duelo é um dos eventos esportivos mais assistidos e relevantes do futebol mundial.",
+        "clusterId": "79d1b852e0a4bab0",
+        "slug": "666af502762ac506",
+        "titulo": "Bahia repudia ofensas de Neymar a Rodrigo Nestor e pede respeito",
+        "resumo": "Durante o empate 1 a 1 entre Santos e Bahia, Neymar foi expulso após bater a mão na boca de Rodrigo Nestor e participar de vários bate-bocas. O Bahia divulgou nota oficial defendendo Nestor e repudiando as agressões verbais. O incidente ocorreu na 32ª rodada do Campeonato Brasileiro.",
+        "porQueImporta": "A expulsão de Neymar pode afetar a campanha do Santos e destaca a necessidade de disciplina no futebol brasileiro.",
         "category": "esportes",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/barcelona-x-real-madrid-onde-assistir-horario-e-escalacoes-4/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/bahia-defende-nestor-e-critica-neymar-apos-polemica-em-empate-contra-santos"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/bahia/bahia-repudia-xingamentos-de-neymar-a-rodrigo-nestor-merecemos-respeito/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/ba/futebol/times/bahia/noticia/2026/10/25/bahia-publica-nota-oficial-para-sair-em-defesa-de-nestor-e-repudiar-agressoes-verbais-de-neymar.ghtml"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/esporte/rodrigo-nestor-critica-neymar-apos-confusao-em-santos-x-bahia/"
+          }
+        ],
+        "updatedAt": "2026-10-25T18:40:29.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/10/neymar-nestor-1.jpg"
+      },
+      {
+        "clusterId": "3a113f3bd0df8966",
+        "slug": "afbeafe5140ee105",
+        "titulo": "Real Madrid desfalca Courtois para clássico contra Barcelona",
+        "resumo": "O Real Madrid anunciou que o goleiro Thibaut Courtois ficará afastado do El Clásico contra o Barcelona devido a um processo gripal que impede condições ideais de jogo. A partida está marcada para domingo, às 17h (horário de Brasília). Apesar da baixa, há relatos de que Courtois deseja participar, mas o clube mantém a decisão de não incluí-lo no time.",
+        "porQueImporta": "A ausência de Courtois pode influenciar o equilíbrio defensivo do Real Madrid em um dos confrontos mais importantes da temporada.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/esportes/barcelona-real-madrid-onde-assistir-la-liga/"
           },
           {
             "name": "GE",
             "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/jogo/25-10-2026/barcelona-realmadrid.ghtml"
-          },
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/10/25/internet-e-redes-sociais/barcelona-x-real-madrid-onde-assistir-ao-jogo-da-la-liga-2026-2027/"
           }
         ],
-        "updatedAt": "2026-10-25T13:30:12.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/03/GettyImages-2264612824.jpg"
+        "updatedAt": "2026-10-25T17:55:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/barcelona-onde-assistir-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "665511e6259dc0c9",
-        "slug": "caac7314e2943dc8",
-        "titulo": "Flávia Saraiva conquista bronze na trave do Mundial de Ginástica Artística",
-        "resumo": "Na final da trave do Mundial de Ginástica Artística em Roterdã, Flávia Saraiva marcou 14,300 pontos, ficando atrás de Zhang Qingying (China) e Nemour Kaylia (Argélia). A ginasta de 27 anos aumentou a dificuldade de sua série para garantir o pódio. A medalha é a segunda do Brasil na competição, depois da vitória de Rebeca Andrade no salto.",
-        "porQueImporta": "A conquista reforça a presença do Brasil em competições internacionais de ginástica artística.",
+        "clusterId": "f7d167618fb5f731",
+        "slug": "a7e52467091f2a24",
+        "titulo": "Bournemouth vence Manchester United e aumenta crise no United",
+        "resumo": "O Bournemouth venceu o Manchester United por 2 a 0, com gols de Rayan e Evanilson. A derrota marca o oitavo jogo sem vencer do United na temporada. O técnico Carrick enfrenta pressão por possíveis mudanças.",
+        "porQueImporta": "A derrota prolonga a sequência negativa do United, aumentando a pressão sobre o técnico Carrick.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/ginastica-artistica/ao-vivo/mundial-de-ginastica-artistica-siga-ao-vivo-o-brasil-na-disputa-por-medalha.ghtml"
+            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/jogo/25-10-2026/Manchesterunited-bournemouth.ghtml"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/flavia-saraiva-consegue-medalha-de-bronze-na-trave-no-mundial-de-ginastica/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/brasileiros-brilham-e-bournemouth-afunda-manchester-united-de-carrick/"
           }
         ],
-        "updatedAt": "2026-10-25T14:59:57.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/i3C-iGKOiS9WpeOojfWcK1EpF80=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/i/W/WZvDNCRJmqWma9fyY3GA/2026-10-25t142615z-260362647-up1emap143qj9-rtrmadp-3-gymnastics-world.jpg"
+        "updatedAt": "2026-10-25T16:42:39.000Z"
       },
       {
         "clusterId": "8dff70a5f91efc66",
@@ -1110,91 +1165,68 @@
         "imageUrl": "https://s2-ge.glbimg.com/0R-VLYoU5tqIuWV2nHHwfFf3ZWQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Z/R/r1DA6qTlWQUKIXiOnBLw/55464435685-301e334257-k.jpg"
       },
       {
-        "clusterId": "dc6fe9eb5b1ed3ba",
-        "slug": "30aa7d8a1e4aa165",
-        "titulo": "Neymar expulso após discussão com Rodrigo Nestor em jogo Santos x Bahia",
-        "resumo": "O atacante Neymar recebeu cartão amarelo no primeiro tempo e, na volta do intervalo, colocou a mão na boca durante uma discussão com o meia Rodrigo Nestor, sendo expulso pelo árbitro. O episódio ocorreu no empate de 1 a 1 entre Santos e Bahia, na 32ª rodada do Campeonato Brasileiro. A expulsão faz com que Neymar cumpra suspensão de dois jogos, incluindo o próximo confronto contra o Palmeiras. O incidente foi amplamente comentado pelos comentaristas e nas redes sociais.",
-        "porQueImporta": "A expulsão de Neymar pode afetar a performance do Santos nas próximas partidas e influencia a disputa pela classificação na Libertadores.",
+        "clusterId": "90669de10fb14d35",
+        "slug": "75ffd5e17471b235",
+        "titulo": "Fluminense perde Soteldo e escala Wesley Natã na partida contra Chapecoense",
+        "resumo": "O atacante Soteldo do Fluminense ficou fora do jogo contra a Chapecoense por dores na coxa esquerda e está em recondicionamento físico. Ele havia sido titular sob o comando de Marcão, mas perdeu a vaga para Savarino, que também não jogou devido à suspensão. Em sua ausência, o jovem Wesley Natã, de 18 anos, foi escalado como titular, aproveitando a oportunidade causada por um problema físico de Canobbio.",
+        "porQueImporta": "A ausência de jogadores-chave e a inclusão de um jovem na escalação refletem a situação de adaptação do time após a eliminação na Libertadores.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/noticia/2026/10/25/santos-x-bahia-veja-o-que-neymar-teria-dito-a-rodrigo-nestor-em-discussao.ghtml"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/esporte/rodrigo-nestor-critica-neymar-apos-confusao-em-santos-x-bahia/"
+            "url": "https://ge.globo.com/futebol/times/fluminense/noticia/2026/10/25/soteldo-do-fluminense-acusa-dores-na-coxa-e-passa-por-recondicionamento-fisico.ghtml"
           }
         ],
-        "updatedAt": "2026-10-25T13:35:12.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/28wrTyQdS0q9S7Prlr_1S0NGP_4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/t/A/SYnBQGSBemfTdaAcRNUQ/agif26102421174026.jpg"
+        "updatedAt": "2026-10-25T18:10:11.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/QE01BJxegnoPmA1YMOWY2b3mvRE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/t/R/0rWSUKTQeTDiqWxNBudw/55591883598-d0426ab3c0-k.jpg"
       },
       {
-        "clusterId": "bc69cd8f3a098f42",
-        "slug": "c2d0bfe99052537c",
-        "titulo": "Corinthians perde para o Vasco e corre risco de rebaixamento",
-        "resumo": "O Corinthians foi derrotado por 3 a 2 pelo Vasco, encerrando uma sequência de dez jogos sem vitória e elevando a probabilidade de rebaixamento para 62%. O técnico Clarence Seedorf minimizou problemas internos, afirmando que atrasos salariais não afetam a relação com o elenco. O atacante Marino Hinestroza marcou dois gols em dois minutos, sendo decisivo na virada. A derrota coloca o clube na zona de rebaixamento do Brasileirão.",
-        "porQueImporta": "A derrota aumenta a pressão sobre o Corinthians para evitar o descenso.",
+        "clusterId": "92f3eecfa37caeee",
+        "slug": "383a1a5383ac7c8d",
+        "titulo": "Diego Reyes marca primeiro gol pelo Flamengo Sub-20 com golaço de falta",
+        "resumo": "O atacante mexicano Diego Reyes, de 19 anos, marcou seu primeiro gol pela base do Flamengo em Saquarema, na vitória por 3 a 0 sobre o Sampaio Corrêa, no jogo de ida das quartas de final do Campeonato Carioca Sub-20. O gol foi um golaço, resultado de uma cobrança de falta do meio da rua. Reyes já havia dado assistência na partida anterior do torneio.",
+        "porQueImporta": "O desempenho de Reyes demonstra o potencial de novos talentos na base do Flamengo e reforça a competitividade da equipe no campeonato estadual.",
         "category": "esportes",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/risco-de-rebaixamento-do-corinthians-chega-a-62-apos-derrota-para-o-vasco/"
-          },
-          {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/10/25/prazer-marino-atacante-tem-primeiro-grande-jogo-pelo-vasco-e-e-heroi-em-virada-sobre-corinthians.ghtml"
+            "url": "https://ge.globo.com/futebol/times/flamengo/noticia/2026/10/25/mexicano-reyes-faz-golaco-e-marca-pela-primeira-vez-na-base-do-flamengo-veja-video.ghtml"
           }
         ],
-        "updatedAt": "2026-10-25T13:11:29.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/ZDeRvBwU3jNyx6-JjO0QUQxxrvc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/j/b/Azz6wzTI6tUvt4kFQDMQ/dur-5212.jpg"
+        "updatedAt": "2026-10-25T18:01:20.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/FSdpYzSTLJgHdGlGgxbQk6Mo2Uw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/a/u/TA33KbR2y83zeiHLd50A/whatsapp-image-2026-10-25-at-14.56.49.jpeg"
       },
       {
-        "clusterId": "6960a2f56966d18f",
-        "slug": "76c2ebe229908263",
-        "titulo": "Cobertura de partidas de futebol em sites esportivos",
-        "resumo": "Os sites globoesporte.com disponibilizam informações sobre os jogos de Manchester United x Bournemouth na Premier League e Monaco x Lille na Ligue 1, incluindo escalações, fotos e dados do jogo. No entanto, os links fornecidos não contêm detalhes específicos sobre os resultados ou eventos ocorridos nas partidas.",
-        "porQueImporta": "Esses sites são fontes comuns para acompanhar partidas de futebol, mas a falta de dados concretos limita a utilidade da informação.",
+        "clusterId": "d53ea889a246742b",
+        "slug": "c3939bc59e9ea494",
+        "titulo": "Bola de Ouro 2026 será entregue em Londres em cerimônia sem favorito claro",
+        "resumo": "A premiação da Bola de Ouro 2026 acontecerá na segunda-feira, 26 de outubro, em Londres, com uma disputa considerada uma das mais abertas dos últimos anos. Não há um candidato claramente favorito, pois os principais nomes apresentam argumentos distintos para a vitória. O evento contará com a entrega dos troféus ao melhor jogador e melhor jogadora do mundo.",
+        "porQueImporta": "Define quem será reconhecido como melhor jogador do mundo em 2026, influenciando carreiras e contratos.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/jogo/25-10-2026/Manchesterunited-bournemouth.ghtml"
+            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/25/bola-de-ouro-2026-tem-disputa-acirrada-e-sem-favorito-veja-pros-e-contras-dos-principais-nomes.ghtml"
           }
         ],
-        "updatedAt": "2026-10-25T15:37:47.000Z"
+        "updatedAt": "2026-10-25T17:38:11.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/euGlT9Kw3QSz4XQ2aUZ8J5Sb3kI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/f/X/j81ARMTcuKKqSuAnkx5A/gettyimages-2188718424.jpg"
       },
       {
-        "clusterId": "505231a1f844d70b",
-        "slug": "c53b35863cd71886",
-        "titulo": "Cássio relembra preconceito com psicólogo e discute saúde mental",
-        "resumo": "O goleiro Cássio, de 39 anos, falou sobre preconceito que enfrentou ao buscar ajuda psicológica e sobre críticas a jogadores. Ele destacou que o problema não é financeiro, mas sim a falta de apoio. O atleta também revisitou momentos de depressão e álcool, enfatizando a importância de quebrar tabus sobre saúde mental no esporte.",
-        "porQueImporta": "Ilustra desafios psicológicos enfrentados por atletas e a necessidade de apoio institucional.",
+        "clusterId": "26d1c56ae69ba40e",
+        "slug": "93cbd121b624b83c",
+        "titulo": "Campo Largo vence Parnahyba por 6 a 4 na quarta rodada do Piauiense de Futsal 2026",
+        "resumo": "O Campo Largo derrotou o Parnahyba por 6 a 4 no Ginásio Jesuíno Sampaio, em Campo Largo do Piauí, na quarta rodada do Campeonato Piauiense de Futsal 2026. A partida contou com 10 gols, sendo os marcadores do Campo Largo Teimão (duas vezes), Dudu, Aylson, Profeta e Vitinho. O resultado garantiu ao time três pontos na competição.",
+        "porQueImporta": "O triunfo reforça a posição do Campo Largo na tabela do campeonato estadual.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/cruzeiro/noticia/2026/10/25/cassio-revela-preconceito-com-psicologo-e-rebate-criticas-a-jogadores-nao-e-dinheiro.ghtml"
+            "url": "https://ge.globo.com/pi/futsal/campeonato-piauiense-de-futsal/noticia/2026/10/25/piauiense-de-futsal-2026-campo-largo-vence-parnahyba-por-6-a-4-pela-quarta-rodada.ghtml"
           }
         ],
-        "updatedAt": "2026-10-25T15:36:30.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/C7sMNBOp0I9INgLJJdOLTiqCPXs=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/x/K/uyXeh0ReGByBBrhaezww/agif26090615414434.jpg"
-      },
-      {
-        "clusterId": "9d68a866d75836b9",
-        "slug": "c5920980bdd99c0d",
-        "titulo": "Cruzeiro/Planalto vence Maranata e conquista título inédito e invicto da Copa Santarém de Futsal Master",
-        "resumo": "Na Arena Estadual Professor Djalma Lima, o Cruzeiro/Planalto derrotou o Maranata por 2 a 1 na final da primeira edição da Copa Santarém de Futsal Master, permanecendo invicto. Os gols do vencedor foram marcados por Kiko Bendelack e Baratinha, enquanto Cassiá descontou para o Maranata. O capitão Alan, artilheiro da equipe, celebrou a conquista histórica.",
-        "porQueImporta": "O título marca o primeiro campeonato invicto do Cruzeiro/Planalto na categoria Master, destacando a força do futsal local.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/pa/santarem-regiao/futsal/noticia/2026/10/25/cruzeiroplanalto-vence-o-maranata-e-conquista-titulo-inedito-e-invicto-da-copa-santarem-de-futsal-master.ghtml"
-          }
-        ],
-        "updatedAt": "2026-10-25T15:33:40.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/KS_tyqFMKHUwIq87AUM5TrUQs7M=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/x/r/GZIFuARRe3kJJnC3F47w/f097273b-eca7-43f1-9dec-b0418cce60fb.webp"
+        "updatedAt": "2026-10-25T17:25:14.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/GxD-6OHMUlrL_0ESMuSre2UZuDk=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/p/i/rKWXXyQAKOUdMZauVVFg/img-8502.jpg"
       }
     ],
     "entretenimento": [
@@ -1234,8 +1266,8 @@
         "clusterId": "4e8f2b04419a674f",
         "slug": "1fed684c0fadc8d8",
         "titulo": "Luan Pereira grava álbum audiovisual 'Eu te amo rodeio' em show fechado",
-        "resumo": "O cantor Luan Pereira, conhecido pelo agronejo, gravará o álbum audiovisual ‘Eu te amo rodeio’ em um show restrito a convidados na Villa Country, em São Paulo. A produção, conduzida por Rodolfo Magalhães, tem como objetivo aproximar o artista do sertanejo romântico tradicional, mantendo elementos pop do agro. A gravação está marcada para a próxima quarta-feira, 28 de outubro.",
-        "porQueImporta": "Mostra a evolução do agronejo e a busca por novos públicos no cenário sertanejo.",
+        "resumo": "O cantor Luan Pereira, conhecido pelo agronejo, gravará o álbum audiovisual 'Eu te amo rodeio' em um show restrito a convidados na Villa Country, em São Paulo. A produção, liderada por Rodolfo Magalhães, busca aproximar o artista do sertanejo romântico tradicional, mantendo elementos pop do agro. A gravação está marcada para a quarta-feira, 28 de outubro.",
+        "porQueImporta": "A iniciativa demonstra a evolução do gênero agronejo e sua tentativa de dialogar com o sertanejo romântico, ampliando o alcance do artista.",
         "category": "entretenimento",
         "sources": [
           {
