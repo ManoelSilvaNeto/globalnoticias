@@ -1,11 +1,10 @@
 {
-  "ranAt": "2026-10-28T14:53:44.989Z",
+  "ranAt": "2026-10-28T20:49:04.601Z",
   "editionDate": "2026-10-28",
-  "hourUtc": 14,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 20,
+  "outcome": "generated",
+  "reason": "\"Instabilidade política, turbulência financeira e avanços regulatórios marcam o dia\" (4 parágrafos)",
   "attempts": [
-    "reprovado — poucos parágrafos (1)",
-    "erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
+    "ok (entidades fora do material toleradas: estados, unidos)"
   ]
 }
