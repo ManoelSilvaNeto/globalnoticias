@@ -1,10 +1,8 @@
 {
-  "ranAt": "2026-10-28T20:49:04.601Z",
-  "editionDate": "2026-10-28",
-  "hourUtc": 20,
-  "outcome": "generated",
-  "reason": "\"Instabilidade política, turbulência financeira e avanços regulatórios marcam o dia\" (4 parágrafos)",
-  "attempts": [
-    "ok (entidades fora do material toleradas: estados, unidos)"
-  ]
+  "ranAt": "2026-10-29T04:43:08.116Z",
+  "editionDate": "2026-10-29",
+  "hourUtc": 4,
+  "outcome": "skipped",
+  "reason": "fora da janela (4h < 11h UTC)",
+  "attempts": []
 }
