@@ -1,11 +1,10 @@
 {
-  "ranAt": "2026-11-03T11:40:08.836Z",
+  "ranAt": "2026-11-03T19:10:17.813Z",
   "editionDate": "2026-11-03",
-  "hourUtc": 11,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 19,
+  "outcome": "generated",
+  "reason": "\"Orçamento, segurança pública e eleições norte‑americanas marcam o dia enquanto a Disney revisa custos e o futebol celebra e lamenta partidas\" (3 parágrafos)",
   "attempts": [
-    "reprovado — poucos parágrafos (1)",
-    "erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
+    "ok (entidades fora do material toleradas: estados, unidos)"
   ]
 }
