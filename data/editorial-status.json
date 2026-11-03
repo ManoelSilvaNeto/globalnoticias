@@ -1,10 +1,11 @@
 {
-  "ranAt": "2026-11-02T17:54:02.964Z",
-  "editionDate": "2026-11-02",
-  "hourUtc": 17,
-  "outcome": "generated",
-  "reason": "\"Segurança em foco: de acidentes a ataques cibernéticos, a edição destaca fragilidades em setores críticos\" (4 parágrafos)",
+  "ranAt": "2026-11-03T11:40:08.836Z",
+  "editionDate": "2026-11-03",
+  "hourUtc": 11,
+  "outcome": "not-generated",
+  "reason": "IA fora ou validação reprovou",
   "attempts": [
-    "ok"
+    "reprovado — poucos parágrafos (1)",
+    "erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
   ]
 }
