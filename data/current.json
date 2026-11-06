@@ -1,137 +1,89 @@
 {
   "date": "2026-11-05",
-  "generatedAt": "2026-11-05T19:38:22.869Z",
+  "generatedAt": "2026-11-06T00:49:22.757Z",
   "home": [
     {
-      "clusterId": "1ac532079d6758b9",
+      "clusterId": "90f3784d0d267fad",
+      "slug": "f3fbf533a916cbc2",
+      "titulo": "TSE aceita ação do Partido Novo contra Lula e Alckmin por abuso de poder político",
+      "resumo": "O Tribunal Superior Eleitoral (TSE) admitiu a ação do Partido Novo que acusa o presidente Luiz Inácio Lula da Silva e o vice-presidente Geraldo Alckmin de abuso de poder político nas eleições. O ministro Ricardo Villas Bôas Cueva determinou que os investigados sejam notificados e tenham cinco dias para apresentar defesa. Após esse prazo, o TSE decidirá se encerra o processo ou prossegue com a investigação. A ação busca revogar o registro da chapa e declarar inelegibilidade por oito anos.",
+      "porQueImporta": "A decisão pode influenciar a legitimidade da chapa e o andamento das eleições.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-justica/tse-admite-acao-do-novo-contra-chapa-de-lula-e-alckmin/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/tse-admite-acao-do-novo-contra-lula-e-alckmin-por-suposto-abuso-de-poder-politico/"
+        },
+        {
+          "name": "DW Brasil",
+          "url": "https://www.dw.com/pt-br/tse-aceita-ação-contra-lula-e-alckmin-por-abuso-de-poder-político/a-79871343?maca=bra-rss-br-all-1030-rdf"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/tse-aceita-acao-do-novo-contra-lula-e-alckmin-por-abuso-de-poder-politico/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/politica/tse-admite-acao-do-novo-contra-chapa-lula-alckmin-por-abuso-de-poder-politico/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/05/tse-admite-acao-do-novo-contra-lula-e-alckmin-por-abuso-de-poder-politico.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/brasil/tse-aceita-acao-do-novo-contra-lula-e-alckmin-por-abuso-de-poder-nas-eleicoes/"
+        }
+      ],
+      "updatedAt": "2026-11-06T00:31:52.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/03/54093045073_09d3791060_k.jpg"
+    },
+    {
+      "clusterId": "4be1e2d5f31caedb",
+      "slug": "de68cd0c8b674282",
+      "titulo": "Presidente Lula anuncia MP para criar Ministério da Segurança Pública",
+      "resumo": "O presidente Lula informou que enviará um memorando de prévia (MP) ao Congresso para criar o Ministério da Segurança Pública, após a aprovação da PEC da Segurança Pública pelo Senado. A criação da pasta faz parte de uma promessa de campanha e será discutida na próxima sexta-feira. A PEC, que já foi aprovada, constitucionaliza o combate ao crime organizado e abre caminho para a nova estrutura de segurança.",
+      "porQueImporta": "A criação do ministério centraliza a coordenação das políticas de segurança, potencializando ações contra o crime organizado em todo o país.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/lula-vai-discutir-com-ministros-mp-do-ministerio-da-seguranca-nesta-sexta"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/lula-diz-que-enviara-mp-para-criar-ministerio-da-seguranca-publica/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-governo/lula-anuncia-mp-para-criar-ministerio-da-seguranca-publica/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/lula-diz-que-discutira-criacao-do-ministerio-da-seguranca-nesta-sexta/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/05/pec-da-seguranca-publica-veja-o-que-pode-mudar-no-combate-ao-crime-organizado-no-rj.ghtml"
+        },
+        {
+          "name": "DW Brasil",
+          "url": "https://www.dw.com/pt-br/entenda-a-pec-da-segurança-pública-aprovada-no-senado/a-76232387?maca=bra-rss-br-all-1030-rdf"
+        }
+      ],
+      "updatedAt": "2026-11-06T00:34:32.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/10/240922_FV_Lula_Comicio_SP.jpg"
+    },
+    {
+      "clusterId": "d2749db4740c3f00",
       "slug": "11d435986647907f",
       "titulo": "Presidente do Paraguai renuncia e Congresso aprova continuar processo de impeachment",
       "resumo": "Santiago Peña renunciou ao cargo em meio à crise causada pelo colapso do banco digital Ueno, que deixou milhares de clientes sem acesso a recursos. A Câmara dos Deputados aprovou seguir com o processo de impeachment contra Peña e seu vice, Pedro Alliana, mesmo após a renúncia. O Senado ainda precisa votar a remoção do presidente. A decisão ocorre em meio a protestos e à intervenção do Banco Central.",
       "porQueImporta": "A renúncia e o impeachment em paralelo refletem a instabilidade política e financeira do Paraguai, afetando a confiança nas instituições e a estabilidade do país.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/congresso-paraguai-renuncia-santiago-pena/"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/camara-do-paraguai-aprova-impeachment-de-santiago-pena/"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/paraguai-camara-rejeita-impeachment-de-vice-presidente-apos-renuncia-de-pena/"
-        },
-        {
-          "name": "DW Brasil",
-          "url": "https://www.dw.com/pt-br/presidente-do-paraguai-renuncia-em-meio-a-escândalo-por-colapso-de-banco/a-79869651?maca=bra-rss-br-all-1030-rdf"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/camara-do-paraguai-rejeita-renuncia-de-pena-e-segue-com-impeachment/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/05/congresso-paraguaio-aprova-seguir-com-processo-impeachment-do-presidente-do-paraguai-mesmo-apos-renuncia.ghtml"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cmq8njl81978o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-11-05T19:00:27.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/11/santiago-pena.png?fit=300%2C197&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "2feaf3fe1e7eb78e",
-      "slug": "75737b8d57fd4e91",
-      "titulo": "Cristiano Ronaldo anuncia aposentadoria da seleção portuguesa",
-      "resumo": "Cristiano Ronaldo anunciou sua saída da seleção de Portugal, encerrando uma carreira de 17 anos e 180 partidas. Ex-companheiros e treinadores, como Luiz Felipe Scolari e Jorge Jesus, expressaram apoio à decisão e lembraram momentos marcantes da trajetória do jogador. A aposentadoria ocorre dias antes de uma nova convocação de Jesus, que respeita a escolha do craque.",
-      "porQueImporta": "A decisão encerra a era de um dos maiores jogadores do futebol mundial na seleção portuguesa.",
-      "category": "esportes",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/cristiano-ronaldo-tomou-goleada-da-selecao-brasileira-no-df-relembre"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/felipao-elogia-decisao-de-cristiano-ronaldo-e-relembra-parceria-em-portugal/"
-        },
-        {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/05/ex-companheiros-de-cristiano-ronaldo-na-selecao-de-portugal-prestam-homenagem-lenda.ghtml"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cq5ynjjjnxk9o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-11-05T19:18:28.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/11/cristiano-ronaldo.jpg"
-    },
-    {
-      "clusterId": "07a09c20809686f2",
-      "slug": "0de73d5fdedb6113",
-      "titulo": "Vice-presidente Pedro Alliana assume presidência do Paraguai após renúncia de Santiago Peña",
-      "resumo": "O vice-presidente Pedro Alliana, do Partido Colorado, assumirá a presidência do Paraguai depois que o presidente Santiago Peña renunciou em meio à crise bancária e política. A Câmara dos Deputados rejeitou o pedido de impeachment contra Alliana, encerrando o processo. Alliana tem experiência como governador de Ñeembucú e presidente da Câmara dos Deputados.",
-      "porQueImporta": "A mudança de liderança pode influenciar a resposta do Paraguai à crise econômica e à instabilidade política.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/quem-e-pedro-alliana-vice-que-vai-assumir-a-presidencia-do-paraguai/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/quem-e-pedro-alliana-vice-presidente-do-paraguai-que-pode-assumir-apos-renuncia-de-pena/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/05/congresso-paraguaio-rejeita-impeachment-de-vice-e-pedro-alliana-sera-presidente-do-paraguai.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/quem-e-pedro-alliana-vice-que-assume-apos-renuncia-de-pena-no-paraguai/"
-        }
-      ],
-      "updatedAt": "2026-11-05T18:46:15.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/AFP__20261104__D6G3863__v1__HighRes__FilesParaguayBankingInvestigation.jpg"
-    },
-    {
-      "clusterId": "21aa1eea09e6a9fa",
-      "slug": "42c19a07000df43e",
-      "titulo": "Trump admite que guerra no Irã contribuiu para derrota republicana nas midterms",
-      "resumo": "O presidente dos Estados Unidos reconheceu que o conflito com o Irã influenciou a perda de assentos do Partido Republicano nas eleições de meio de mandato. Ele afirmou que, apesar da derrota, aceitaria os resultados e trabalharia com os democratas. O vice‑presidente JD Vance também atribuiu a guerra a essa perda. O líder iraniano Mojtaba Khamenei descartou qualquer mudança na política americana após o resultado.",
-      "porQueImporta": "O resultado das midterms altera o equilíbrio de poder em Washington e pode afetar as políticas externas e internas dos EUA.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "DW Brasil",
-          "url": "https://www.dw.com/pt-br/latinos-se-voltaram-contra-trump-nas-eleições-de-meio-de-mandato/a-79862226?maca=bra-rss-br-all-1030-rdf"
-        },
-        {
-          "name": "Jornal da USP",
-          "url": "https://jornal.usp.br/radio-usp/vitoria-democrata-nas-eleicoes-de-meio-de-mandato-pressiona-governo-trump/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cmd7q98x7944o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/04/eleicoes-eua-motivacoes-eleitores-pesquisa-ap.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-05T13:50:00.000Z",
-      "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/08/20230807_donald-trump-1024x538.jpg"
-    },
-    {
-      "clusterId": "397d0f2418b4b007",
-      "slug": "14a1877ce55d4b63",
-      "titulo": "Presidente do Paraguai renuncia após crise do Ueno Bank",
-      "resumo": "O Ueno Bank, um dos maiores bancos digitais do Paraguai, encerrou suas operações, bloqueando recursos de cerca de 3 milhões de clientes, incluindo brasileiros que vivem no país. A instituição detinha quase US$ 850 milhões em dinheiro público, o que comprometeu pagamentos de benefícios e a estabilidade financeira do Estado. Em meio a essa crise, o presidente Santiago Peña renunciou ao cargo.",
-      "porQueImporta": "A queda do banco afetou milhões de pessoas e a gestão pública, levando à mudança de liderança no Paraguai.",
       "category": "mundo",
       "sources": [
         {
@@ -139,115 +91,83 @@
           "url": "https://www.bbc.co.uk/portuguese/live/cqwy7zykezl6t?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/ce/ceara/noticia/2026/11/05/brasileira-com-dinheiro-bloqueado-em-banco-falido-no-paraguai-relata-dificuldades-muitas-pessoas-em-desespero.ghtml"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/linha-do-tempo-crise-politica-santiago-pena-paraguai/"
         },
         {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/brasileiros-lideram-busca-por-residencia-no-paraguai-que-agora-enfrenta-crise-politica/"
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/05/paraguai-ignora-pedido-de-renuncia-e-da-continuidade-a-processo-de-impeachment-contra-santiago-pena.ghtml"
+        },
+        {
+          "name": "DW Brasil",
+          "url": "https://www.dw.com/pt-br/entenda-o-escândalo-bancário-que-derrubou-o-presidente-do-paraguai/a-79870697?maca=bra-rss-br-all-1030-rdf"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/por-que-a-crise-no-ueno-bank-derrubou-o-presidente-do-paraguai/"
         }
       ],
-      "updatedAt": "2026-11-05T19:38:25.164Z",
+      "updatedAt": "2026-11-06T00:49:26.405Z",
       "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/704d94f0-d936-11f1-8bce-2396c9c50357.jpg"
     },
     {
-      "clusterId": "ba43033fbc8ad0e5",
-      "slug": "dd12d35f6a91814c",
-      "titulo": "Governo Lula define prioridades políticas no Paraguai e em minerais críticos",
-      "resumo": "O governo Lula destacou a estabilidade política no Paraguai como prioridade, buscando evitar conflitos e manifestações violentas após a queda de Santiago Peña. Paralelamente, foi publicado um decreto que cria três níveis de prioridade para minerais críticos, estabelecendo critérios de importância econômica e estratégica. Um novo conselho será responsável por definir a lista oficial de materiais que guiará a política de minerais.",
-      "porQueImporta": "Essas medidas refletem a atenção do governo às relações regionais e à segurança estratégica de recursos essenciais.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/igor-gadelha/governo-lula-ve-estabilidade-politica-como-prioridade-no-paraguai"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-governo/lula-baixa-decreto-que-cria-3-niveis-de-prioridade-para-minerais-criticos/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/infra/governo-cria-tres-niveis-de-prioridade-para-minerais-criticos/"
-        }
-      ],
-      "updatedAt": "2026-11-05T19:20:43.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/06/lula-santiago-pena-mercosul-1.jpg"
-    },
-    {
-      "clusterId": "841b7e73e404580f",
-      "slug": "d279a64185cac2da",
-      "titulo": "Met Gala anuncia novo tema para 2027",
-      "resumo": "O Met Gala decidiu mudar o tema do baile de 2027 após a polêmica envolvendo a homenagem ao designer John Galliano, que foi recusada. O novo tema, intitulado \"extraORDINARY: fashion and the poetics of the everyday\", destaca a beleza do cotidiano e a transformação de peças e materiais comuns em criações extraordinárias. O anúncio foi feito pelo Museu de Arte Moderna em Nova‑Iorque.",
-      "porQueImporta": "A mudança de tema reflete a sensibilidade cultural e a importância de evitar controvérsias no evento mais influente da moda.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/style/moda/apos-polemica-met-gala-anuncia-novo-tema-para-baile-de-2027-saiba-qual/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/colunas/ilca-maria-estevao/met-gala-2027-anuncia-tema-inspirado-na-beleza-do-cotidiano"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/comportamento/o-novo-tema-escolhido-pelo-met-gala-apos-desistir-de-homenagem-polemica-a-galliano/"
-        }
-      ],
-      "updatedAt": "2026-11-05T19:17:03.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/11/gettyimages-1974888133.jpg"
-    },
-    {
-      "clusterId": "b0d3f12e7a61ba0c",
-      "slug": "9ef585be7d5aa99f",
-      "titulo": "Corinthians confirma entorse no joelho do meia Rodrigo Garro",
-      "resumo": "O meia argentino Rodrigo Garro sofreu um estiramento ligamentar no joelho direito durante o clássico contra o São Paulo. Ele foi substituído aos 38 minutos do primeiro tempo e passou por exames, incluindo ressonância magnética, que confirmaram a lesão. O departamento médico iniciou o tratamento e o clube não divulgou prazo de recuperação. A ausência pode afetar a equipe no restante do Brasileirão.",
-      "porQueImporta": "A lesão de Garro pode reduzir a profundidade do meio‑campo do Corinthians em jogos futuros.",
+      "clusterId": "d21b5407e87207f9",
+      "slug": "6b64b462070f4a08",
+      "titulo": "Palmeiras vence Remo por 6 a 1 na 34ª rodada do Brasileirão",
+      "resumo": "O Palmeiras venceu o Remo por 6 a 1, com cinco gols já na primeira metade da partida, marcando a maior goleada da edição atual do campeonato. O triunfo mantém o Verdão na corrida pelo título, deixando o Flamengo com vantagem de três pontos na liderança. O resultado também coloca o Remo em situação de risco na zona de rebaixamento.",
+      "porQueImporta": "O resultado reforça a posição do Palmeiras na disputa pelo título e aumenta a pressão sobre o Flamengo e o Remo.",
       "category": "esportes",
       "sources": [
         {
+          "name": "GE",
+          "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/05-11-2026/palmeiras-remo.ghtml"
+        },
+        {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/corinthians-confirma-entorse-no-joelho-do-meia-rodrigo-garro"
+          "url": "https://www.metropoles.com/esportes/com-dois-de-jhon-arias-palmeiras-aplica-goleada-no-remo-pelo-brasileirao"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-atualiza-situacao-de-garro-apos-lesao-contra-o-sao-paulo/"
+          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-atropela-o-remo-e-segue-caca-ao-lider-flamengo-no-brasileirao/"
         },
         {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/11/05/rodrigo-garro-sofre-lesao-no-joelho-e-pode-desfalcar-o-corinthians-no-restante-do-brasileirao.ghtml"
+          "name": "Exame",
+          "url": "https://exame.com/esporte/palmeiras-estreia-camisa-totalmente-verde-contra-o-remo-veja-fotos/"
         }
       ],
-      "updatedAt": "2026-11-05T18:55:59.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/11/rodrigo-garro-corinthians.jpg"
+      "updatedAt": "2026-11-06T00:41:57.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/11/palmeirasxremo.jpg"
     },
     {
-      "clusterId": "5c6d4579d6fc3e07",
-      "slug": "90eb5964b7c1edcc",
-      "titulo": "Governo do DF pede ao STF que reconheça BRB como vítima e libere R$ 2,2 bi bloqueados",
-      "resumo": "O Distrito Federal solicitou ao Supremo Tribunal Federal que inclua o Banco Regional de Brasília (BRB) como vítima no inquérito sobre fraudes do Banco Master e que libere mais de R$ 2,2 bilhões bloqueados nas contas de Henrique Vorcaro. O pedido foi protocolado na quinta-feira (5) e se baseia na acusação de que o banco público e o governo local foram prejudicados pelas práticas fraudulentas dos ex-diretores. O valor bloqueado corresponde às contas vinculadas ao pai do banqueiro Daniel Vorcaro, que está preso preventivamente. A inclusão como vítima permitiria ao BRB acessar os recursos para enfrentar a crise financeira.",
-      "porQueImporta": "A liberação dos recursos pode aliviar a crise financeira do BRB e garantir a continuidade dos serviços bancários na região.",
-      "category": "geral",
+      "clusterId": "6ca1a7a07989a6cd",
+      "slug": "60faba53f0c5af5d",
+      "titulo": "Partido Democrata conquista maioria na Câmara e no Senado após eleições de meio de mandato",
+      "resumo": "Os democratas ganharam maioria absoluta na Câmara e no Senado, fortalecendo sua capacidade de contestar decisões do presidente Trump. A nova composição legislativa pode dificultar a continuidade das políticas de tarifas e da \"Doutrina Donroe\". No entanto, o Congresso não possui mecanismos institucionais para impedir diretamente as medidas externas do presidente. A vitória também sinaliza um recado ao governo brasileiro sobre a mudança de postura dos EUA.",
+      "porQueImporta": "A mudança de controle legislativo pode alterar a agenda externa dos EUA e impactar relações internacionais, incluindo a brasileira.",
+      "category": "mundo",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/caso-master-df-pede-ao-stf-repasse-de-r-22-bi-bloqueados-ao-brb/"
+          "name": "Jornal da USP",
+          "url": "https://jornal.usp.br/radio-usp/vitoria-democrata-nas-eleicoes-de-meio-de-mandato-pressiona-governo-trump/"
         },
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/o-pedido-bilionario-do-governo-do-df-ao-stf-para-aliviar-crise-no-brb/"
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/cm78p04n78zno?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/05/governo-do-df-pede-ao-stf-inclusao-do-brb-como-vitima-no-caso-master.ghtml"
+          "url": "https://g1.globo.com/politica/noticia/2026/11/04/com-avanco-democrata-trump-tera-dificuldade-em-seguir-com-tarifas-e-doutrina-donroe-avaliam-integrantes-do-governo-lula.ghtml"
+        },
+        {
+          "name": "DW Brasil",
+          "url": "https://www.dw.com/pt-br/o-que-a-vitória-democrata-significa-para-a-economia-dos-eua-sob-trump/a-79857491?maca=bra-rss-br-all-1030-rdf"
         }
       ],
-      "updatedAt": "2026-11-05T18:53:26.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/02/0d4a9502-e1776804877362.jpg"
+      "updatedAt": "2026-11-05T12:52:53.000Z",
+      "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/08/20230807_donald-trump-1024x538.jpg"
     },
     {
-      "clusterId": "d09afa8dc6219f3f",
+      "clusterId": "28daec7a8a1f9dc5",
       "slug": "5c2b60721156a7cc",
       "titulo": "Ameaças de bomba fazem voos europeus pousarem de emergência",
       "resumo": "Vários aviões que partiram de cidades como Copenhague, Dublin, Madri, Milão, Roma e Varsóvia foram forçados a pousar de emergência após alertas de bomba. Nenhum explosivo foi encontrado nos aviões após as buscas. O incidente é o segundo em uma semana de ameaças semelhantes na Europa.",
@@ -255,325 +175,412 @@
       "category": "mundo",
       "sources": [
         {
+          "name": "G1",
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/05/ameacas-falsas-de-bomba-afetam-quase-30-voos-na-europa.ghtml"
+        },
+        {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/cm4g1vvlk83do?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "DW Brasil",
           "url": "https://www.dw.com/pt-br/novas-ameaças-de-bomba-a-voos-geram-transtornos-na-europa/a-79865400?maca=bra-rss-br-all-1030-rdf"
+        }
+      ],
+      "updatedAt": "2026-11-06T00:12:19.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/if2QyOypzY4Y88v4qSUY59qbk3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/p/rBdxW5QEyxSC9Vf9dhsw/globo-canal-4-20261105-2000-frame-71728.jpeg"
+    },
+    {
+      "clusterId": "2cb4c0e0663ddcc0",
+      "slug": "a7c285a0d25e9def",
+      "titulo": "Resultado da Quina 7160 e Lotofácil 3822",
+      "resumo": "No concurso 7160 da Quina, sorteados os números 02, 07, 12, 20 e 27, o prêmio foi de R$ 589.500,00. O concurso 3822 da Lotofácil, realizado na mesma data, teve um prêmio estimado de R$ 5 milhões. Ambos os sorteios foram realizados pela Caixa Econômica Federal em São Paulo.",
+      "porQueImporta": "Os resultados informam os vencedores e o valor dos prêmios, relevantes para participantes e interessados em loterias.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/confira-o-resultado-da-quina-7160-sorteada-hoje-5-11"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7160-confira-o-resultado-sorteado-nesta-quinta-feira-5/"
+        },
+        {
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/11/05/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7160-quinta-05-11/"
+        }
+      ],
+      "updatedAt": "2026-11-06T00:10:56.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/09/quina-1.jpg"
+    },
+    {
+      "clusterId": "48bab5d575d76563",
+      "slug": "2ecfef661384fc62",
+      "titulo": "Marco Rubio avalia deixar o governo Trump após derrota republicana nas eleições de meio de mandato",
+      "resumo": "O secretário de Estado Marco Rubio teria considerado renunciar ao cargo após os republicanos perderem o controle das duas casas do Congresso nas eleições de meio de mandato. Fontes nos EUA e no Reino Unido apontam que a decisão seria motivada pela mudança de cenário político. O governo dos EUA negou a intenção de saída e criticou o jornal que divulgou a informação.",
+      "porQueImporta": "A possível saída de Rubio pode alterar a política externa americana e refletir a reação do governo Trump a perdas eleitorais.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/mundo/marco-rubio-avalia-deixar-o-governo-trump-apos-onda-azul-no-congresso-dos-eua/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/marco-rubio-avalia-renunciar-e-deixar-governo-trump-diz-jornal/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/mundo/marco-rubio-avalia-deixar-o-governo-trump-apos-derrota-republicana-nas-eleicoes-dos-eua/"
+        }
+      ],
+      "updatedAt": "2026-11-05T23:34:21.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/AFP__20261028__D4ME8UF__v1__MidRes__UsPresidentDonaldTrumpHoldsRalliesInTexas.jpg"
+    },
+    {
+      "clusterId": "34b657d0793f0ee7",
+      "slug": "f620dfb183519bc2",
+      "titulo": "Governo brasileiro cria ranking de minerais críticos em três níveis de prioridade",
+      "resumo": "O presidente Lula assinou um decreto que classifica minerais críticos em três níveis de prioridade e estabeleceu o Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE). A lista inclui minerais como terras raras, grafita, níquel, potássio e nióbio, que têm aplicações em transição energética, tecnologia e defesa. O objetivo é orientar a atuação do Estado e fortalecer a indústria nacional.",
+      "porQueImporta": "A classificação ajuda a direcionar recursos e políticas para setores estratégicos do país.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/novo-decreto-do-governo-divide-minerais-criticos-em-tres-niveis-de-prioridade/"
+        },
+        {
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/11/05/ciencia-e-espaco/brasil-cria-ranking-de-minerais-criticos-veja-quais-ficaram-no-topo-da-lista/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/05/voos-na-europa-fazem-pouso-de-emergencia-por-ameaca-de-bomba.ghtml"
+          "url": "https://g1.globo.com/economia/noticia/2026/11/05/governo-define-lista-de-minerais-criticos-e-estrategicos-veja-quais-sao.ghtml"
         }
       ],
-      "updatedAt": "2026-11-05T13:45:26.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/318e/live/08cd4580-d91f-11f1-ad94-e17fee4cd332.jpg"
+      "updatedAt": "2026-11-05T23:12:39.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/11/radar13.png?fit=300%2C176&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "097e719053202888",
+      "slug": "0c35321c2be83bae",
+      "titulo": "Dasa registra lucro de R$173 milhões no 3º trimestre",
+      "resumo": "A Dasa teve lucro líquido de R$173 milhões, crescimento de 79% em relação ao mesmo período do ano anterior. A receita bruta consolidada foi de R$2,6 bilhões, representando queda de 9% em comparação anual. O resultado reflete a consolidação de ganhos apesar da redução nas vendas. A empresa manteve a margem de lucro em alta, indicando eficiência operacional.",
+      "porQueImporta": "O desempenho financeiro da Dasa demonstra resiliência em um mercado com queda de receita, relevante para investidores e analistas do setor de saúde.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/dasa-dasa3-resultados-terceiro-trimestre-2026/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/negocios/dasa-registra-alta-de-787-em-lucro-do-3-tri-a-r-173-milhoes/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/invest/mercados/renner-lucra-r-187-mi-no-3o-tri-acima-do-esperado-mas-abandona-projecao-de-receita/"
+        }
+      ],
+      "updatedAt": "2026-11-05T22:57:26.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2023/08/Dasa.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "ba43033fbc8ad0e5",
-        "slug": "dd12d35f6a91814c",
-        "titulo": "Governo Lula define prioridades políticas no Paraguai e em minerais críticos",
-        "resumo": "O governo Lula destacou a estabilidade política no Paraguai como prioridade, buscando evitar conflitos e manifestações violentas após a queda de Santiago Peña. Paralelamente, foi publicado um decreto que cria três níveis de prioridade para minerais críticos, estabelecendo critérios de importância econômica e estratégica. Um novo conselho será responsável por definir a lista oficial de materiais que guiará a política de minerais.",
-        "porQueImporta": "Essas medidas refletem a atenção do governo às relações regionais e à segurança estratégica de recursos essenciais.",
+        "clusterId": "90f3784d0d267fad",
+        "slug": "f3fbf533a916cbc2",
+        "titulo": "TSE aceita ação do Partido Novo contra Lula e Alckmin por abuso de poder político",
+        "resumo": "O Tribunal Superior Eleitoral (TSE) admitiu a ação do Partido Novo que acusa o presidente Luiz Inácio Lula da Silva e o vice-presidente Geraldo Alckmin de abuso de poder político nas eleições. O ministro Ricardo Villas Bôas Cueva determinou que os investigados sejam notificados e tenham cinco dias para apresentar defesa. Após esse prazo, o TSE decidirá se encerra o processo ou prossegue com a investigação. A ação busca revogar o registro da chapa e declarar inelegibilidade por oito anos.",
+        "porQueImporta": "A decisão pode influenciar a legitimidade da chapa e o andamento das eleições.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-justica/tse-admite-acao-do-novo-contra-chapa-de-lula-e-alckmin/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/tse-admite-acao-do-novo-contra-lula-e-alckmin-por-suposto-abuso-de-poder-politico/"
+          },
+          {
+            "name": "DW Brasil",
+            "url": "https://www.dw.com/pt-br/tse-aceita-ação-contra-lula-e-alckmin-por-abuso-de-poder-político/a-79871343?maca=bra-rss-br-all-1030-rdf"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/tse-aceita-acao-do-novo-contra-lula-e-alckmin-por-abuso-de-poder-politico/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/tse-admite-acao-do-novo-contra-chapa-lula-alckmin-por-abuso-de-poder-politico/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/11/05/tse-admite-acao-do-novo-contra-lula-e-alckmin-por-abuso-de-poder-politico.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/tse-aceita-acao-do-novo-contra-lula-e-alckmin-por-abuso-de-poder-nas-eleicoes/"
+          }
+        ],
+        "updatedAt": "2026-11-06T00:31:52.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/03/54093045073_09d3791060_k.jpg"
+      },
+      {
+        "clusterId": "4be1e2d5f31caedb",
+        "slug": "de68cd0c8b674282",
+        "titulo": "Presidente Lula anuncia MP para criar Ministério da Segurança Pública",
+        "resumo": "O presidente Lula informou que enviará um memorando de prévia (MP) ao Congresso para criar o Ministério da Segurança Pública, após a aprovação da PEC da Segurança Pública pelo Senado. A criação da pasta faz parte de uma promessa de campanha e será discutida na próxima sexta-feira. A PEC, que já foi aprovada, constitucionaliza o combate ao crime organizado e abre caminho para a nova estrutura de segurança.",
+        "porQueImporta": "A criação do ministério centraliza a coordenação das políticas de segurança, potencializando ações contra o crime organizado em todo o país.",
         "category": "politica",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/igor-gadelha/governo-lula-ve-estabilidade-politica-como-prioridade-no-paraguai"
+            "url": "https://www.metropoles.com/brasil/lula-vai-discutir-com-ministros-mp-do-ministerio-da-seguranca-nesta-sexta"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/lula-diz-que-enviara-mp-para-criar-ministerio-da-seguranca-publica/"
           },
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-governo/lula-baixa-decreto-que-cria-3-niveis-de-prioridade-para-minerais-criticos/"
+            "url": "https://www.poder360.com.br/poder-governo/lula-anuncia-mp-para-criar-ministerio-da-seguranca-publica/"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/infra/governo-cria-tres-niveis-de-prioridade-para-minerais-criticos/"
-          }
-        ],
-        "updatedAt": "2026-11-05T19:20:43.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/06/lula-santiago-pena-mercosul-1.jpg"
-      },
-      {
-        "clusterId": "b9333196b212e429",
-        "slug": "711cbdfa08836abf",
-        "titulo": "Senador Flávio afirma ter fugido do Brasil sem ajuda de governos estrangeiros",
-        "resumo": "O senador Flávio declarou ao New York Times que planejou sua fuga do país junto à família na última semana de forma espontânea, sem apoio de governos estrangeiros. Ele afirmou que levará os detalhes da operação para o túmulo. O parlamentar também mencionou a possibilidade de concorrer novamente à Presidência no futuro.",
-        "porQueImporta": "A declaração pode influenciar a percepção pública sobre a segurança e a integridade do processo político no Brasil.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-diz-que-levara-para-o-tumulo-segredo-sobre-fuga-do-brasil/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/flavio-diz-ao-nyt-que-fugiu-sem-ajuda-e-levara-detalhes-para-o-tumulo/"
-          }
-        ],
-        "updatedAt": "2026-11-05T19:27:00.000Z"
-      },
-      {
-        "clusterId": "64c2bf262fa1da04",
-        "slug": "ba1530e49d889d8e",
-        "titulo": "Bolsonaro pede autorização ao ministro Moraes para receber senadores Marinho e Tereza",
-        "resumo": "O ex-presidente Jair Bolsonaro solicitou ao ministro Alexandre de Moraes, do STF, permissão para receber nas suas instalações os senadores Rogério Marinho e Tereza Cristina, ambos ex-ministros da sua gestão. As visitas teriam como objetivo discutir a candidatura de cada um à presidência do Senado para o biênio 2027‑2028. O pedido foi encaminhado pelos advogados de Bolsonaro, com datas a serem definidas pelo gabinete de Moraes.",
-        "porQueImporta": "O caso envolve a interação entre ex‑governante, ministros do STF e senadores que buscam cargos de liderança no Congresso.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-justica/bolsonaro-pede-a-moraes-para-receber-marinho-e-tereza/"
+            "url": "https://www.cnnbrasil.com.br/politica/lula-diz-que-discutira-criacao-do-ministerio-da-seguranca-nesta-sexta/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/11/05/bolsonaro-pede-a-moraes-autorizacao-para-receber-marinho-e-tereza-que-devem-disputar-presidencia-do-senado.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-05T19:17:41.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/N9wZpAMRY6AaNwfiBtKoJzFrBj0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/W/USOX6rQXuQuQfQWUZUrA/51585532943-40901190cc-o.jpg"
-      },
-      {
-        "clusterId": "eba7bd9e00e4b5e4",
-        "slug": "cb913284deee8983",
-        "titulo": "Ministro Dino solicita informações para analisar pedidos de anulação de votos em julgamento sobre aborto",
-        "resumo": "O ministro Flávio Dino do STF pediu que áreas técnicas da Corte forneçam dados para avaliar pedidos de anulação de votos de Barroso e Rosa Weber em julgamento que tratou da descriminalização do aborto voluntário nas primeiras 12 semanas. A solicitação veio após questionamentos da União dos Juristas Católicos de São Paulo, do Instituto Brasileiro de Direito e Religião e de outras entidades. Dino, que assumiu a relatoria do caso, busca garantir a regularidade dos procedimentos de registro dos votos.",
-        "porQueImporta": "A decisão pode influenciar a constitucionalidade da lei que regula o aborto no Brasil.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/justica/dino-pede-explicacoes-sobre-votos-de-rosa-weber-e-barroso-em-acao-sobre-aborto-no-stf/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/11/04/dino-pede-informacoes-a-fachin-para-analisar-pedidos-para-anular-votos-de-barroso-e-rosa-weber-em-julgamento-sobre-aborto.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-05T18:47:41.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/03/Min-Flavio-Dino-Fotos-STF00003.jpg"
-      },
-      {
-        "clusterId": "acba3bfb94b10d66",
-        "slug": "651ed3d81472c22f",
-        "titulo": "Flávio Bolsonaro participa de evento político nos EUA após derrota presidencial",
-        "resumo": "O senador Flávio Bolsonaro, derrotado por Lula nas eleições presidenciais, desembarcou em Miami e compareceu ao plenário do Senado dos EUA para discutir a PEC da Segurança Pública. Ele também foi convidado a palestrar na CPAC, evento organizado pela Casa do Congresso dos EUA. O líder do governo no Congresso dos EUA, Alcolumbre, abriu uma questão de ordem para avaliar se Flávio pode continuar votando no Senado americano. A presença de bolsonaristas nos EUA tem sido observada em meio às mudanças no cenário político americano, especialmente após a vitória dos democratas nas midterms.",
-        "porQueImporta": "Ilustra a continuidade da influência política brasileira nos Estados Unidos e as implicações de sua participação em instituições americanas.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/04/alcolumbre-governo-presidencia-senado.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cw4g13g56zljo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "DW Brasil",
-            "url": "https://www.dw.com/pt-br/senado-aprova-pec-da-segurança-pública-sem-redução-da-maioridade-penal/a-79848858?maca=bra-rss-br-all-1030-rdf"
-          }
-        ],
-        "updatedAt": "2026-11-04T12:25:30.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/Y4avG4UX7bK1S8D-09xXQvmx3oo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/c/oX0gpBSNmYhrM0h1ruaA/54325302538-cd03278180-k.jpg"
-      },
-      {
-        "clusterId": "35320b860fa0fe08",
-        "slug": "ea7effb9030dfe7d",
-        "titulo": "Justiça cobra R$ 1,4 milhão de Tom Goodhead no caso Mariana",
-        "resumo": "O juiz determinou a cobrança de R$ 1,4 milhão em impostos e multas não pagos por Tom Goodhead, advogado britânico envolvido no caso Mariana. A execução refere-se a débitos de uma empresa brasileira de advocacia. Goodhead não se pronunciou sobre a decisão.",
-        "porQueImporta": "A medida destaca a responsabilidade fiscal de advogados estrangeiros em processos judiciais no Brasil.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-justica/justica-cobra-r-14-milhao-de-tom-goodhead-do-caso-mariana/"
-          }
-        ],
-        "updatedAt": "2026-11-05T19:37:22.000Z"
-      },
-      {
-        "clusterId": "c65320868138c154",
-        "slug": "eafae55bea8ad531",
-        "titulo": "Senado aprova PEC da Segurança Pública que constitucionaliza o Sistema Único de Segurança Pública",
-        "resumo": "A proposta de emenda à Constituição, que torna o Sistema Único de Segurança Pública (SUSP) parte da Constituição, foi aprovada pelo Senado e deve ser promulgada pelo Congresso. O SUSP, criado em 2018, integra as ações de órgãos federais, estaduais e municipais no combate ao crime organizado. A PEC também abre caminho para a criação do Ministério da Segurança Pública e fortalece a coordenação nacional das políticas de segurança.",
-        "porQueImporta": "A medida amplia o poder da União na coordenação de ações de segurança e consolida o combate ao crime organizado em todo o país.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/11/05/oito-anos-apos-criacao-do-sus-da-seguranca-crime-organizado-avancou-entenda-os-desafios-da-nova-politica-para-o-setor.ghtml"
+            "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/05/pec-da-seguranca-publica-veja-o-que-pode-mudar-no-combate-ao-crime-organizado-no-rj.ghtml"
           },
           {
             "name": "DW Brasil",
             "url": "https://www.dw.com/pt-br/entenda-a-pec-da-segurança-pública-aprovada-no-senado/a-76232387?maca=bra-rss-br-all-1030-rdf"
           }
         ],
-        "updatedAt": "2026-11-05T03:00:01.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/KbWLP26jGlWWEnw_6Uu1bSx_RhA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/b/2f4DY2QrWCpmXoGqbBlw/mortes-violentas.jpg"
+        "updatedAt": "2026-11-06T00:34:32.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/10/240922_FV_Lula_Comicio_SP.jpg"
       },
       {
-        "clusterId": "2bd4bc31f4dabbb5",
-        "slug": "63330c28cb4c9417",
-        "titulo": "Partido ultraortodoxo se abstém e enfraquece Netanyahu em Israel",
-        "resumo": "O partido ultraortodoxo, aliado do primeiro-ministro, optou por não indicar candidato para formar governo, o que diminui a força de Netanyahu. A decisão de abstinência reduz a maioria do governo. Em meio a isso, Gadi Eisenkot ganha destaque na disputa pelo poder. A falta de apoio do partido pode levar a negociações mais complexas para a formação do governo.",
-        "porQueImporta": "A abstinência pode alterar o equilíbrio de poder no governo israelense.",
+        "clusterId": "efe5964e4588d9c5",
+        "slug": "3fe025c1382bc7f2",
+        "titulo": "Presidente do Paraguai promete apresentar provas no julgamento de impeachment",
+        "resumo": "O presidente Paraguai, Luis Arce, afirmou que exercerá seu direito à defesa e apresentará provas no julgamento do impeachment. Ele defende que o pagamento a poupadores não está ligado ao seu processo e que dará esclarecimentos sobre a crise do Ueno Bank. O governo garante que os clientes afetados receberão ressarcimento. O caso gera questionamentos sobre o paradeiro do presidente e a possibilidade de sua prisão.",
+        "porQueImporta": "O impeachment pode afetar a estabilidade política e a confiança dos investidores no Paraguai.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-internacional/partido-ultraortodoxo-se-abstem-e-enfraquece-netanyahu-em-israel/"
+            "url": "https://www.poder360.com.br/poder-internacional/exercerei-meu-direito-a-defesa-diz-pena-sobre-impeachment/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/pena-diz-que-pagamento-a-poupadores-nao-pode-ser-ligado-ao-seu-impeachment"
           }
         ],
-        "updatedAt": "2026-11-05T19:10:35.000Z"
+        "updatedAt": "2026-11-06T00:41:49.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/11/santiago-pena.jpg"
+      },
+      {
+        "clusterId": "5ee4e115f79b7aed",
+        "slug": "bad4852a04dffbae",
+        "titulo": "Mendonça extingue processo sobre sigilos de Lula e Flávio Bolsonaro",
+        "resumo": "O ministro do TSE, Wagner Mendonça, decidiu extinguir a ação que tratava da divulgação de dados sigilosos de Lula e Flávio Bolsonaro. A decisão foi tomada após recomendação do Ministério Público Eleitoral. Mendonça já havia declarado que a divulgação dependia da vontade dos candidatos.",
+        "porQueImporta": "A medida afeta a transparência e a possibilidade de acesso a informações relevantes para o eleitorado.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-justica/mendonca-extingue-processo-sobre-sigilos-de-lula-e-flavio-no-tse/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/mendonca-extingue-acao-sobre-sigilos-de-lula-e-flavio-bolsonaro/"
+          }
+        ],
+        "updatedAt": "2026-11-06T00:41:31.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/09/andre-mendonca-foto-luiz-roberto-tse.jpg"
+      },
+      {
+        "clusterId": "a26c1dcae8860fe2",
+        "slug": "84bff78a3d3626a1",
+        "titulo": "Damares Alves participa de velório e nega filiação ao PL",
+        "resumo": "A senadora Damares Alves compareceu ao velório de uma menina morta por seu padrasto no Distrito Federal, oferecendo apoio aos familiares. Em entrevista ao G1, ela afirmou que nunca se filiará ao Partido Liberal, apesar de pressões do presidente da legenda, Valdemar Costa Neto, que pretende trazê-la ao partido.",
+        "porQueImporta": "A conduta de Damares demonstra seu posicionamento político e seu envolvimento em questões sociais relevantes.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/distrito-federal/damares-vai-a-velorio-de-menina-morta-por-padrasto-no-df-e-faz-desabafo"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/11/04/damares-alves-nega-que-se-filiara-ao-pl.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-06T00:21:20.000Z",
+        "imageUrl": "https://images.metroimg.com/2025/08/03215021/Vinicius-Schmidt-Metropoles.jpg"
+      },
+      {
+        "clusterId": "4a148be81ca5fb8c",
+        "slug": "cb3b0117b9ae53ef",
+        "titulo": "Senadora Tereza Cristina planeja discutir disputa pela presidência do Senado com Bolsonaro",
+        "resumo": "Tereza Cristina (PP-MS) afirmou que pretende conversar com Jair Bolsonaro sobre a disputa pela presidência do Senado, caso visite a residência onde cumpre prisão domiciliar. Ela não se comprometeu a abrir mão de sua candidatura se Bolsonaro pedisse apoio a Rogério Marinho. O ex-presidente já solicitou ao STF autorização para receber visitas de ambos os senadores. Rogério Marinho (PL-RN) já anunciou sua candidatura ao cargo.",
+        "porQueImporta": "A discussão pode influenciar a escolha do próximo presidente do Senado, afetando a composição de comissões e a agenda legislativa.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/11/05/tereza-cristina-disputa-presidencia-senado-jair-bolsonaro.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/tereza-cristina-descarta-disputa-direta-com-rogerio-marinho-pela-presidencia-do-senado/"
+          }
+        ],
+        "updatedAt": "2026-11-05T23:41:15.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/xBdyMx9LWqTgI_ox6VNn0_4vO3c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/W/mRczkhQgeOevt1xcsWlg/55298236035-67e1fd44cd-o.jpg"
+      },
+      {
+        "clusterId": "9e2b28249cc8ab93",
+        "slug": "5f48db16baacdbf1",
+        "titulo": "Fachin mantém prisão de cunhado de Vorcaro e pede manifestação da PGR",
+        "resumo": "O presidente do STF, Edson Fachin, manteve a prisão de Fabiano Zettel, cunhado do ex-banqueiro Daniel Vorcaro, após indícios concretos apontados no inquérito Master. Fachin solicitou que a Procuradoria-Geral da República se manifeste sobre pedidos de liberdade de vários investigados, incluindo Vorcaro, seu pai Henrique e seu primo Felipe. A decisão foi tomada em meio ao processo que envolve esquemas financeiros ligados ao Banco Master.",
+        "porQueImporta": "A medida reforça a continuidade das investigações sobre o esquema Master e a aplicação de medidas cautelares aos envolvidos.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/brasil/fachin-ve-indicios-concretos-e-mantem-prisao-de-cunhado-de-vorcaro/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/11/05/fachin-mantem-prisao-de-cunhado-de-vorcaro-e-pede-manifestacao-da-pgr-sobre-liberdade-de-ex-banqueiro.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-05T23:05:16.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/55633619682_eafc44464b_c.jpg"
+      },
+      {
+        "clusterId": "6cc4ba3ab0865f4a",
+        "slug": "7a8c75398c235ad7",
+        "titulo": "Lula destaca necessidade de responsabilidade fiscal para atrair investimentos",
+        "resumo": "O presidente Luiz Inácio Lula da Silva afirmou que a economia brasileira deve estar 'arrumada' para atrair capital estrangeiro, ressaltando que investidores não se interessarão por uma economia desordenada. Ele enfatizou a importância de demonstrar seriedade e estabilidade fiscal. A declaração foi feita após reunião com economistas para diagnosticar a situação das contas públicas.",
+        "porQueImporta": "A postura de Lula sobre responsabilidade fiscal pode influenciar a confiança dos investidores e o ambiente de negócios no país.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/economia/temos-que-ter-responsabilidade-fiscal-para-atrair-capital-afirma-lula/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/11/05/lula-diz-que-economia-precisa-estar-arrumada-para-atrair-investimentos-ninguem-vai-querer-investir-em-economia-desordenada.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-05T22:33:19.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/55612289141_1bb486f792_o.jpg"
       }
     ],
     "economia": [
       {
-        "clusterId": "1ac532079d6758b9",
-        "slug": "11d435986647907f",
-        "titulo": "Presidente do Paraguai renuncia e Congresso aprova continuar processo de impeachment",
-        "resumo": "Santiago Peña renunciou ao cargo em meio à crise causada pelo colapso do banco digital Ueno, que deixou milhares de clientes sem acesso a recursos. A Câmara dos Deputados aprovou seguir com o processo de impeachment contra Peña e seu vice, Pedro Alliana, mesmo após a renúncia. O Senado ainda precisa votar a remoção do presidente. A decisão ocorre em meio a protestos e à intervenção do Banco Central.",
-        "porQueImporta": "A renúncia e o impeachment em paralelo refletem a instabilidade política e financeira do Paraguai, afetando a confiança nas instituições e a estabilidade do país.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/congresso-paraguai-renuncia-santiago-pena/"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-internacional/camara-do-paraguai-aprova-impeachment-de-santiago-pena/"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/paraguai-camara-rejeita-impeachment-de-vice-presidente-apos-renuncia-de-pena/"
-          },
-          {
-            "name": "DW Brasil",
-            "url": "https://www.dw.com/pt-br/presidente-do-paraguai-renuncia-em-meio-a-escândalo-por-colapso-de-banco/a-79869651?maca=bra-rss-br-all-1030-rdf"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/camara-do-paraguai-rejeita-renuncia-de-pena-e-segue-com-impeachment/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/05/congresso-paraguaio-aprova-seguir-com-processo-impeachment-do-presidente-do-paraguai-mesmo-apos-renuncia.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cmq8njl81978o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-11-05T19:00:27.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/11/santiago-pena.png?fit=300%2C197&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "d32287fa71d7f278",
-        "slug": "f3251fb604469303",
-        "titulo": "Rafael Câmara estreia na Fórmula 1 pela Haas em Interlagos",
-        "resumo": "O piloto brasileiro Rafael Câmara, que estava na Fórmula 2, assumiu a vaga na equipe Haas após o afastamento de Ocon. Ele não esperava a oportunidade de competir na Fórmula 1. A corrida de São Paulo marca a primeira participação de Câmara na categoria de elite. A estreia acontece no circuito de Interlagos, onde a equipe e o piloto buscam consolidar sua presença.",
-        "porQueImporta": "A entrada de um piloto brasileiro na Fórmula 1 aumenta a visibilidade do esporte no país e pode inspirar novos talentos.",
+        "clusterId": "2cb4c0e0663ddcc0",
+        "slug": "a7c285a0d25e9def",
+        "titulo": "Resultado da Quina 7160 e Lotofácil 3822",
+        "resumo": "No concurso 7160 da Quina, sorteados os números 02, 07, 12, 20 e 27, o prêmio foi de R$ 589.500,00. O concurso 3822 da Lotofácil, realizado na mesma data, teve um prêmio estimado de R$ 5 milhões. Ambos os sorteios foram realizados pela Caixa Econômica Federal em São Paulo.",
+        "porQueImporta": "Os resultados informam os vencedores e o valor dos prêmios, relevantes para participantes e interessados em loterias.",
         "category": "economia",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/sao-paulo/rafael-camara-diz-que-nao-esperava-estrear-na-formula-1-em-interlagos"
+            "url": "https://www.metropoles.com/brasil/confira-o-resultado-da-quina-7160-sorteada-hoje-5-11"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/esporte/gp-de-sao-paulo-veja-como-assistir-a-corrida-da-formula-1-no-brasil/"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/consumo/quina-hoje-concurso-7160-confira-o-resultado-sorteado-nesta-quinta-feira-5/"
+          },
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/11/05/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7160-quinta-05-11/"
           }
         ],
-        "updatedAt": "2026-11-05T19:08:09.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/11/rafael-camara-coletiva-gp-sao-paulo.jpg"
+        "updatedAt": "2026-11-06T00:10:56.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/09/quina-1.jpg"
       },
       {
-        "clusterId": "660eb6ee63583d30",
-        "slug": "5972d4f8b75389fd",
-        "titulo": "Comissão aprova MP que amplia crédito do Brasil Soberano",
-        "resumo": "A comissão especial aprovou o MP do Brasil Soberano 3, que permite combinar recursos da União com recursos próprios do BNDES. O texto visa ampliar o crédito em R$ 13,5 bilhões para empresas afetadas por tarifas e conflitos internacionais. O projeto segue para análise da Câmara e do Senado após aprovação em comissão mista.",
-        "porQueImporta": "O aumento de crédito ajuda exportadores a enfrentar pressões tarifárias globais.",
+        "clusterId": "097e719053202888",
+        "slug": "0c35321c2be83bae",
+        "titulo": "Dasa registra lucro de R$173 milhões no 3º trimestre",
+        "resumo": "A Dasa teve lucro líquido de R$173 milhões, crescimento de 79% em relação ao mesmo período do ano anterior. A receita bruta consolidada foi de R$2,6 bilhões, representando queda de 9% em comparação anual. O resultado reflete a consolidação de ganhos apesar da redução nas vendas. A empresa manteve a margem de lucro em alta, indicando eficiência operacional.",
+        "porQueImporta": "O desempenho financeiro da Dasa demonstra resiliência em um mercado com queda de receita, relevante para investidores e analistas do setor de saúde.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/comissao-especial-aprova-mp-do-brasil-soberano-3-para-empresas-afetadas-por-tarifaco/"
+            "url": "https://www.infomoney.com.br/mercados/dasa-dasa3-resultados-terceiro-trimestre-2026/"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/comissao-aprova-mp-que-amplia-credito-do-brasil-soberano-em-r-135-bi/"
-          }
-        ],
-        "updatedAt": "2026-11-05T18:56:44.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/lula.png?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "7128e6b0f9566acc",
-        "slug": "67208076632e1f64",
-        "titulo": "IBGE abre milhares de vagas temporárias para recenseadores em todo o Brasil",
-        "resumo": "O Instituto Brasileiro de Geografia e Estatística (IBGE) lançou processo seletivo para 27.279 vagas temporárias de recenseadores, que atuarão no 12º Censo Agropecuário, Florestal e Aquícola. No Amapá, 58 vagas foram abertas, com salário mensal de até R$ 2.900. Em Mato Grosso, 815 vagas foram disponibilizadas, com remuneração que pode chegar a R$ 4.370 mensais. As inscrições estão disponíveis entre 6 e 25 de novembro de 2026, pelo site da Fundação Cesgranrio.",
-        "porQueImporta": "Essas contratações são essenciais para a coleta de dados que fundamentam políticas públicas e planejamento econômico no país.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/ap/amapa/noticia/2026/11/05/ibge-abre-58-vagas-temporarias-para-recenseador-no-amapa-salario-pode-chegar-a-r-29-mil.ghtml"
+            "url": "https://www.cnnbrasil.com.br/economia/money/negocios/dasa-registra-alta-de-787-em-lucro-do-3-tri-a-r-173-milhoes/"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/brasil/ibge-abre-27-mil-vagas-para-recenseadores-com-salario-de-ate-r-43-mil/"
+            "url": "https://exame.com/invest/mercados/renner-lucra-r-187-mi-no-3o-tri-acima-do-esperado-mas-abandona-projecao-de-receita/"
           }
         ],
-        "updatedAt": "2026-11-05T18:42:30.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/Q9J6jiQmFa3oYRuwVzuCbWEgyB8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/H/mkkQYQT7aSNX9IDlG8EA/edicao-imagens-g1-2026-06-12t191142.920.jpg"
+        "updatedAt": "2026-11-05T22:57:26.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2023/08/Dasa.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "2e23bca4cc3b38e8",
-        "slug": "cde8d92ec8d5c687",
-        "titulo": "Endividamento atinge 81,6% das famílias brasileiras em outubro",
-        "resumo": "A Pesquisa de Endividamento e Inadimplência do Consumidor (Peic) revelou que 81,6% das famílias brasileiras têm alguma dívida a vencer em outubro, com queda de 0,1 ponto percentual em relação a setembro. O índice permanece acima dos 79,5% registrados no mesmo mês de 2025. A inadimplência recuou pelo segundo mês consecutivo, mas ainda é alta, especialmente entre famílias com renda de até três salários mínimos, onde chega a 38,6%.",
-        "porQueImporta": "O nível elevado de endividamento indica riscos financeiros para a maioria das famílias e pode afetar o consumo e a estabilidade econômica.",
+        "clusterId": "57d41c915d80e73c",
+        "slug": "e8e73636244f36a8",
+        "titulo": "Durigan afirma que Lula manterá compromissos fiscais e de campanha após reunião",
+        "resumo": "O ministro da Fazenda, Dario Durigan, disse que não há fórmula mágica para a economia e que o governo Lula continuará com os compromissos fiscais e os projetos da campanha. Ele falou após uma reunião de quatro horas no Palácio da Alvorada com Lula, ministros, ex-ministros e economistas. Durigan ressaltou que não houve discussão de medidas específicas e que Lula decidirá sobre ações fiscais após sua viagem internacional.",
+        "porQueImporta": "A declaração indica a continuidade das políticas fiscais e sociais do governo Lula, influenciando a estabilidade econômica e a confiança dos investidores.",
         "category": "economia",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/cnc-endividamento-atinge-816-das-familias-brasileiras-em-outubro/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/economia/apos-reuniao-com-lula-durigan-diz-que-e-preciso-manter-compromissos-fiscais-e-de-campanha/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/11/05/endividamento-familias-cnc.ghtml"
+            "url": "https://g1.globo.com/economia/noticia/2026/11/05/apos-reuniao-com-lula-e-economistas-ministro-da-fazenda-diz-que-nao-ha-formula-magica-e-fala-em-manter-compromissos-fiscais.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/durigan-lula-decidira-sobre-medidas-fiscais-so-apos-retornar-de-viagem-internacional/"
           }
         ],
-        "updatedAt": "2026-11-05T18:19:18.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/GV04hjBTpVcqpxGGN50ko1jf4X0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/j/gUCCw4SRGLh9mpKuGQUA/not-1-decisao-idosa-cartao-consignado.jpg"
+        "updatedAt": "2026-11-05T20:32:24.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/dario_durigan_MF.jpeg"
       },
       {
-        "clusterId": "19afc09bfe0ce28c",
-        "slug": "3542b59ca0bafb27",
-        "titulo": "Crise do Ueno Bank leva à renúncia do presidente do Banco Central do Paraguai",
-        "resumo": "O Ueno Bank, com cerca de 3 milhões de clientes, enfrentou problemas financeiros após empréstimos a empresas ligadas aos seus controladores e ajustes no balanço, resultando em queda de solvência. O Banco Central iniciou procedimentos de proteção aos depositantes e limitou impactos no sistema financeiro. Milhares de paraguaios protestaram exigindo acesso aos seus depósitos. A crise culminou na renúncia do presidente do Banco Central, Carlos Carvallo, e aumentou a pressão sobre o governo de Santiago Peña.",
-        "porQueImporta": "A instabilidade financeira afeta a confiança no sistema bancário e pode impactar a economia do país.",
+        "clusterId": "f3928422ecbb9204",
+        "slug": "ecda966c36b420ee",
+        "titulo": "Mega‑Sena 3081 acumula e prêmio vai a R$ 55 milhões",
+        "resumo": "No concurso 3081, os números sorteados foram 10, 17, 42, 43, 57 e 59. Nenhum bilhete acertou as seis dezenas, fazendo o prêmio principal acumular para R$ 55 milhões. Foram 63 apostas que ganharam a quina, cada uma recebendo R$ 26.360,17, e 3.571 apostas que acertaram a quadra, com prêmio de R$ 664,35.",
+        "porQueImporta": "O acúmulo do prêmio aumenta o valor do próximo sorteio, atraindo mais apostadores.",
         "category": "economia",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/economia/entenda-o-que-levou-a-quebra-do-ueno-bank-no-paraguai/"
+            "name": "G1",
+            "url": "https://g1.globo.com/loterias/timemania/noticia/2026/11/05/timemania-hoje-resultado-do-concurso-2464-e-numeros-sorteados.ghtml"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/11/04/paraguaios-vao-as-ruas-em-protesto-apos-quebra-de-banco-digital-e-renuncia-do-presidente-do-bc.ghtml"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1340-sorteado-nesta-quinta-feira-5/"
           }
         ],
-        "updatedAt": "2026-11-05T18:08:15.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/AFP__20261104__D6CA447__v1__HighRes__ParaguayPoliticsBankingInvestigationProtest.jpg"
+        "updatedAt": "2026-11-06T00:36:10.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/7uzcIZg9_-5h82WVcB0SX7dA-Zk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/9/KYABd2Qhy18rAkmKQF3w/volante-timemania.jpg"
       },
       {
-        "clusterId": "88068ef364030910",
+        "clusterId": "d423517c539c1a37",
         "slug": "57b92718fd0ee76c",
         "titulo": "Imposto do pecado entra em vigor em 2027 com alíquotas para bebidas, cigarros e veículos",
         "resumo": "A Medida Provisória nº 1.399, assinada por Lula, estabelece o imposto seletivo que começa a ser cobrado em 2 de fevereiro de 2027. As alíquotas são 4,2% sobre cerveja, 20% sobre cachaça, 2,6% sobre refrigerantes, 8% sobre vinho, 24% sobre whisky e outros destilados, e 66,7% sobre cigarros. O governo estima arrecadar R$ 41,9 bilhões no primeiro ano e prevê aumento das taxas a partir de 2028.",
@@ -581,72 +588,77 @@
         "category": "economia",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/carros/noticia/2026/11/05/imposto-do-pecado-governo-define-regras-para-taxar-carros-veja-o-que-pesa-no-calculo.ghtml"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/economia/imposto-do-pecado-preve-taxacoes-distintas-para-carros-mais-e-menos-poluentes-entenda/"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/economia/quando-comeca-o-imposto-do-pecado-bebidas-vao-ficar-mais-caras-veja-perguntas-e-respostas/"
+            "name": "G1",
+            "url": "https://g1.globo.com/carros/noticia/2026/11/05/imposto-do-pecado-governo-define-regras-para-taxar-carros-veja-o-que-pesa-no-calculo.ghtml"
           }
         ],
-        "updatedAt": "2026-11-05T17:30:01.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/dfdzjSrxqjL_0Y40NeTpliZCl8w=/s.glbimg.com/jo/g1/f/original/2015/12/01/brazil-autos-_credito_reuters.jpg"
+        "updatedAt": "2026-11-05T21:46:47.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/100-mil-BYD.webp"
       },
       {
-        "clusterId": "e0772926bfb5f3f1",
-        "slug": "99704faf2fbbfe96",
-        "titulo": "Off Campus anuncia estreia da segunda temporada em 2027",
-        "resumo": "A segunda temporada da série Off Campus, baseada nos livros de Elle Kennedy, terá estreia em 2027. A nova temporada contará com os personagens Allie Hayes e Dean Di Laurentis como protagonistas, destacando seu relacionamento romântico. A data de lançamento foi confirmada pelo Prime Video e pela CNN Brasil.",
-        "porQueImporta": "A confirmação da data e dos protagonistas informa aos fãs e potenciais espectadores sobre o próximo conteúdo disponível na plataforma.",
+        "clusterId": "1f98bbeeaa3cef56",
+        "slug": "6c027b85c97e7e90",
+        "titulo": "Copom mantém Selic em 13,75% e interrompe ciclo de cortes",
+        "resumo": "O Comitê de Política Monetária (Copom) decidiu manter a taxa básica de juros da economia, a Selic, em 13,75% ao ano, encerrando o ciclo de cortes iniciado em março. A decisão foi unânime e justificada pela alta das expectativas de inflação e pela desaceleração mais acentuada da economia, que exigem serenidade na condução da política monetária. O mercado já havia previsto a manutenção da taxa, e o Ibovespa recuou 0,82% enquanto o dólar subiu para R$ 5,49. O Banco Central afirmou que a medida é compatível com a estratégia de convergência da política monetária.",
+        "porQueImporta": "A decisão afeta o custo do crédito, a inflação e a confiança dos investidores no Brasil.",
         "category": "economia",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/streaming/off-campus-data-de-estreia-da-segunda-temporada-e-revelada/"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/economia/ibovespa-desvaloriza-depois-de-decisao-do-copom-de-manter-juros-a-1375/"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/pop/off-campus-2a-temporada-ganha-data-de-estreia-no-prime-video/"
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/05/pt-e-parte-da-equipe-de-lula-atacam-bc-apos-copom-interromper-ciclo-de-corte-de-juros-por-duvidas-sobre-ajuste-fiscal.ghtml"
           }
         ],
-        "updatedAt": "2026-11-05T17:03:54.000Z"
+        "updatedAt": "2026-11-05T21:06:26.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-31-at-15.02.28.jpeg"
+      },
+      {
+        "clusterId": "1aa0b46138a72113",
+        "slug": "12cedee6dbc77cd9",
+        "titulo": "Ministros consideram proibição de exportação de níquel para agregar valor",
+        "resumo": "Ministros do governo sinalizaram que o Brasil pode proibir a exportação de níquel para incentivar a produção interna e agregar valor ao produto. A medida visa fortalecer a indústria de transformação do país. A decisão ainda não foi formalizada e pode depender de estudos de impacto econômico.",
+        "porQueImporta": "A proibição pode impulsionar a cadeia produtiva nacional e aumentar a competitividade do país no mercado global.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/ministros-sinalizam-que-brasil-pode-proibir-exportacao-de-niquel-para-agregar-valor/"
+          }
+        ],
+        "updatedAt": "2026-11-05T23:35:19.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/06/17791976776a0c66edea4ef_1779197677_3x2_rt.jpeg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "7ec9ac8c5adcd652",
+        "slug": "08522c61d7562305",
+        "titulo": "Partidos que apoiaram a reeleição de Motta representam 70% dos eleitos",
+        "resumo": "O presidente da Câmara, Rodrigo Motta, tem apoio de 70% dos deputados eleitos, conforme levantamento de partidos que declararam apoio à sua reeleição. A eleição para a presidência das casas legislativas ocorrerá em fevereiro do próximo ano. O apoio majoritário indica estabilidade na liderança da Câmara. A composição partidária reflete a maioria que sustenta Motta.",
+        "porQueImporta": "O forte apoio partidário reforça a continuidade da agenda legislativa sob a liderança de Motta.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/partidos-que-declararam-apoio-a-reeleicao-de-motta-representam-70-dos-eleitos/"
+          }
+        ],
+        "updatedAt": "2026-11-05T23:27:10.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/12/img20251203112906188.jpg?fit=300%2C185&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "21aa1eea09e6a9fa",
-        "slug": "42c19a07000df43e",
-        "titulo": "Trump admite que guerra no Irã contribuiu para derrota republicana nas midterms",
-        "resumo": "O presidente dos Estados Unidos reconheceu que o conflito com o Irã influenciou a perda de assentos do Partido Republicano nas eleições de meio de mandato. Ele afirmou que, apesar da derrota, aceitaria os resultados e trabalharia com os democratas. O vice‑presidente JD Vance também atribuiu a guerra a essa perda. O líder iraniano Mojtaba Khamenei descartou qualquer mudança na política americana após o resultado.",
-        "porQueImporta": "O resultado das midterms altera o equilíbrio de poder em Washington e pode afetar as políticas externas e internas dos EUA.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "DW Brasil",
-            "url": "https://www.dw.com/pt-br/latinos-se-voltaram-contra-trump-nas-eleições-de-meio-de-mandato/a-79862226?maca=bra-rss-br-all-1030-rdf"
-          },
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/radio-usp/vitoria-democrata-nas-eleicoes-de-meio-de-mandato-pressiona-governo-trump/"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cmd7q98x7944o?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/04/eleicoes-eua-motivacoes-eleitores-pesquisa-ap.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-05T13:50:00.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/08/20230807_donald-trump-1024x538.jpg"
-      },
-      {
-        "clusterId": "397d0f2418b4b007",
-        "slug": "14a1877ce55d4b63",
-        "titulo": "Presidente do Paraguai renuncia após crise do Ueno Bank",
-        "resumo": "O Ueno Bank, um dos maiores bancos digitais do Paraguai, encerrou suas operações, bloqueando recursos de cerca de 3 milhões de clientes, incluindo brasileiros que vivem no país. A instituição detinha quase US$ 850 milhões em dinheiro público, o que comprometeu pagamentos de benefícios e a estabilidade financeira do Estado. Em meio a essa crise, o presidente Santiago Peña renunciou ao cargo.",
-        "porQueImporta": "A queda do banco afetou milhões de pessoas e a gestão pública, levando à mudança de liderança no Paraguai.",
+        "clusterId": "d2749db4740c3f00",
+        "slug": "11d435986647907f",
+        "titulo": "Presidente do Paraguai renuncia e Congresso aprova continuar processo de impeachment",
+        "resumo": "Santiago Peña renunciou ao cargo em meio à crise causada pelo colapso do banco digital Ueno, que deixou milhares de clientes sem acesso a recursos. A Câmara dos Deputados aprovou seguir com o processo de impeachment contra Peña e seu vice, Pedro Alliana, mesmo após a renúncia. O Senado ainda precisa votar a remoção do presidente. A decisão ocorre em meio a protestos e à intervenção do Banco Central.",
+        "porQueImporta": "A renúncia e o impeachment em paralelo refletem a instabilidade política e financeira do Paraguai, afetando a confiança nas instituições e a estabilidade do país.",
         "category": "mundo",
         "sources": [
           {
@@ -654,19 +666,55 @@
             "url": "https://www.bbc.co.uk/portuguese/live/cqwy7zykezl6t?at_medium=RSS&at_campaign=rss"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/ce/ceara/noticia/2026/11/05/brasileira-com-dinheiro-bloqueado-em-banco-falido-no-paraguai-relata-dificuldades-muitas-pessoas-em-desespero.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/linha-do-tempo-crise-politica-santiago-pena-paraguai/"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/brasileiros-lideram-busca-por-residencia-no-paraguai-que-agora-enfrenta-crise-politica/"
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/11/05/paraguai-ignora-pedido-de-renuncia-e-da-continuidade-a-processo-de-impeachment-contra-santiago-pena.ghtml"
+          },
+          {
+            "name": "DW Brasil",
+            "url": "https://www.dw.com/pt-br/entenda-o-escândalo-bancário-que-derrubou-o-presidente-do-paraguai/a-79870697?maca=bra-rss-br-all-1030-rdf"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/por-que-a-crise-no-ueno-bank-derrubou-o-presidente-do-paraguai/"
           }
         ],
-        "updatedAt": "2026-11-05T19:38:25.164Z",
+        "updatedAt": "2026-11-06T00:49:26.405Z",
         "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/704d94f0-d936-11f1-8bce-2396c9c50357.jpg"
       },
       {
-        "clusterId": "d09afa8dc6219f3f",
+        "clusterId": "6ca1a7a07989a6cd",
+        "slug": "60faba53f0c5af5d",
+        "titulo": "Partido Democrata conquista maioria na Câmara e no Senado após eleições de meio de mandato",
+        "resumo": "Os democratas ganharam maioria absoluta na Câmara e no Senado, fortalecendo sua capacidade de contestar decisões do presidente Trump. A nova composição legislativa pode dificultar a continuidade das políticas de tarifas e da \"Doutrina Donroe\". No entanto, o Congresso não possui mecanismos institucionais para impedir diretamente as medidas externas do presidente. A vitória também sinaliza um recado ao governo brasileiro sobre a mudança de postura dos EUA.",
+        "porQueImporta": "A mudança de controle legislativo pode alterar a agenda externa dos EUA e impactar relações internacionais, incluindo a brasileira.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/radio-usp/vitoria-democrata-nas-eleicoes-de-meio-de-mandato-pressiona-governo-trump/"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cm78p04n78zno?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/11/04/com-avanco-democrata-trump-tera-dificuldade-em-seguir-com-tarifas-e-doutrina-donroe-avaliam-integrantes-do-governo-lula.ghtml"
+          },
+          {
+            "name": "DW Brasil",
+            "url": "https://www.dw.com/pt-br/o-que-a-vitória-democrata-significa-para-a-economia-dos-eua-sob-trump/a-79857491?maca=bra-rss-br-all-1030-rdf"
+          }
+        ],
+        "updatedAt": "2026-11-05T12:52:53.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/08/20230807_donald-trump-1024x538.jpg"
+      },
+      {
+        "clusterId": "28daec7a8a1f9dc5",
         "slug": "5c2b60721156a7cc",
         "titulo": "Ameaças de bomba fazem voos europeus pousarem de emergência",
         "resumo": "Vários aviões que partiram de cidades como Copenhague, Dublin, Madri, Milão, Roma e Varsóvia foram forçados a pousar de emergência após alertas de bomba. Nenhum explosivo foi encontrado nos aviões após as buscas. O incidente é o segundo em uma semana de ameaças semelhantes na Europa.",
@@ -674,115 +722,120 @@
         "category": "mundo",
         "sources": [
           {
+            "name": "G1",
+            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/05/ameacas-falsas-de-bomba-afetam-quase-30-voos-na-europa.ghtml"
+          },
+          {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/cm4g1vvlk83do?at_medium=RSS&at_campaign=rss"
           },
           {
             "name": "DW Brasil",
             "url": "https://www.dw.com/pt-br/novas-ameaças-de-bomba-a-voos-geram-transtornos-na-europa/a-79865400?maca=bra-rss-br-all-1030-rdf"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/05/voos-na-europa-fazem-pouso-de-emergencia-por-ameaca-de-bomba.ghtml"
           }
         ],
-        "updatedAt": "2026-11-05T13:45:26.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/318e/live/08cd4580-d91f-11f1-ad94-e17fee4cd332.jpg"
+        "updatedAt": "2026-11-06T00:12:19.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/if2QyOypzY4Y88v4qSUY59qbk3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/p/rBdxW5QEyxSC9Vf9dhsw/globo-canal-4-20261105-2000-frame-71728.jpeg"
       },
       {
-        "clusterId": "2c4de6a470d85706",
-        "slug": "073052774c0a045a",
-        "titulo": "Resultados das eleições de meio de mandato nos EUA geram repercussão nas redes sociais",
-        "resumo": "As eleições de meio de mandato nos Estados Unidos, realizadas na terça-feira, produziram mais de 15,5 milhões de interações em redes sociais em 48 horas, segundo levantamento da Nexus. O ex-presidente Barack Obama comemorou os resultados, destacando que os eleitores buscam políticas de soluções concretas e líderes que aproximem as pessoas. Além disso, americanos postaram agradecimentos ao Brasil nas redes, expressando orgulho e esperança após vitórias democratas em estados tradicionalmente republicanos.",
-        "porQueImporta": "Os resultados refletem a direção política dos EUA e a influência internacional percebida pelos americanos.",
+        "clusterId": "b26e8d84ff56331c",
+        "slug": "936e32e3d1e2f7d7",
+        "titulo": "Governador da Califórnia comuta penas de morte de 548 presos para prisão perpétua",
+        "resumo": "O governador Gavin Newsom anunciou que todas as penas de morte no estado foram convertidas em prisão perpétua sem possibilidade de liberdade condicional. A medida afeta 548 detentos, representando cerca de um quarto das condenações de morte nos EUA. A decisão foi divulgada em carta aberta em 5 de maio. Newsom destaca que a mudança reflete sua avaliação sobre a aplicação da pena de morte.",
+        "porQueImporta": "A ação altera o destino de mais de 500 presos e reflete uma mudança significativa na política de justiça criminal da Califórnia.",
         "category": "mundo",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/o-impacto-das-eleicoes-de-meio-de-mandato-dos-eua-nas-redes-sociais/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/california-anuncia-que-ira-comutar-pena-de-morte-de-548-presos-no-estado/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/04/obama-comemora-resultado-das-eleicoes-de-meio-de-mandato-nos-eua.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/11/05/governador-da-california-diz-que-vai-comutar-penas-de-condenados-a-morte-no-estado.ghtml"
           }
         ],
-        "updatedAt": "2026-11-05T19:30:50.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/GettyImages-2303425290.jpg"
+        "updatedAt": "2026-11-05T23:06:44.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/STPxga9wpIc4tnLMzbcJ5vckIec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/l/06boAjSJu3RP9YGVJj4g/2026-02-16t172616z-1893936268-rc277gapvgt2-rtrmadp-3-usa-trump-newsom.jpg"
       },
       {
-        "clusterId": "4cbbeadc0eb3159d",
-        "slug": "2bf7258d6826c69a",
-        "titulo": "Melania Trump recebe representantes ucranianos e russos na Casa Branca antes de negociações de paz",
-        "resumo": "Na Casa Branca, Melania Trump recebeu delegações da Ucrânia e da Rússia antes de uma rodada de negociações em Abu Dhabi para tentar encerrar o conflito. O encontro ocorreu após críticas ao presidente Trump por sua aproximação com Putin. Zelensky concedeu à primeira-dama a Ordem da Princesa Olga por sua atuação em iniciativas humanitárias, incluindo a negociação de uma trégua parcial que facilitou a retirada de civis.",
-        "porQueImporta": "O encontro demonstra a tentativa de envolver a primeira-dama nas negociações de paz, refletindo a busca de soluções diplomáticas para a guerra na Ucrânia.",
+        "clusterId": "c3c160c1985b96ef",
+        "slug": "5ea2777e59f50d69",
+        "titulo": "Eleições de meio de mandato nos EUA aumentam número recorde de mulheres no Congresso e nas governadorias",
+        "resumo": "As eleições de meio de mandato de 2024 resultaram em 158 mulheres no Congresso, superando o recorde anterior de 152 em 2024. O Partido Democrata assumiu a maioria na Câmara e no Senado, enquanto também conquistou 14 governadoras, um novo recorde. A Geórgia elegeu sua primeira governadora negra, marcando um avanço histórico. O controle do Congresso agora está na oposição ao presidente Trump.",
+        "porQueImporta": "A ascensão de mulheres no poder legislativo e executivo sinaliza mudanças significativas na representação política dos EUA.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/congresso-dos-eua-tera-numero-recorde-de-mulheres-em-2027/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/11/05/eua-batem-recorde-de-mulheres-governadoras-apos-eleicao-marcada-por-vitorias-ineditas.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-05T22:50:15.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/sIiad4zf-BRwO_9tDsSf1xgXmvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/o/7VxPiITGevcRRghVbNBQ/design-sem-nome-2026-11-04t094017.294.jpg"
+      },
+      {
+        "clusterId": "d0cd7c69226f6479",
+        "slug": "290148647c628fb5",
+        "titulo": "Flávio Bolsonaro afirma ter saído do Brasil sem ajuda de governos",
+        "resumo": "O senador Flávio Bolsonaro declarou ao New York Times que deixou o Brasil sozinho, sem apoio de nenhum governo. Em entrevista à BBC, ele manteve a mesma posição, enquanto autoridades americanas sugeriram participação da Casa Branca na viagem. A divergência entre as fontes destaca a controvérsia sobre a origem da viagem. O caso atrai atenção por envolver um político de alto perfil e questões de transparência.",
+        "porQueImporta": "A declaração pode influenciar a percepção pública sobre a legitimidade e a transparência das ações de um político de destaque.",
         "category": "mundo",
         "sources": [
           {
             "name": "DW Brasil",
-            "url": "https://www.dw.com/pt-br/o-que-a-china-espera-de-cúpula-com-trump-e-putin-sobre-a-ucrânia/a-79855250?maca=bra-rss-br-all-1030-rdf"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/05/melania-trump-recebe-representantes-da-ucrania-e-russia-na-casa-branca-em-meio-a-negociacoes-de-paz.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-05T12:16:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/gs7khhnnHH4bzLeBmcQCj44vQ3Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/5/RasCNRR4qDl7o6eityGg/2026-04-09t184157z-1982216527-rc2ulkax1cmw-rtrmadp-3-usa-trump-melania.jpg"
-      },
-      {
-        "clusterId": "9716be44435353e8",
-        "slug": "66806e4ee80c94df",
-        "titulo": "Felipe Sousa-Lazaballet eleito deputado estadual na Flórida",
-        "resumo": "Felipe Sousa-Lazaballet, de 40 anos, nasceu em Duque de Caxias, na Baixada Fluminense, e foi eleito pelo Partido Democrata para a Assembleia Legislativa da Flórida. Ele será o primeiro brasileiro a ocupar um cargo na legislatura estadual e o primeiro imigrante abertamente gay a fazê-lo. Durante a campanha, destacou a importância da participação dos eleitores brasileiros e defendeu ampliar o acesso à saúde pública e investir em educação.",
-        "porQueImporta": "Sua eleição demonstra a crescente influência política de brasileiros e a representatividade de minorias nos Estados Unidos.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/05/brasileiro-eleito-na-florida-critica-abrigo-a-flavio-bolsonaro-e-diz-se-espelhar-em-erika-hilton.ghtml"
+            "url": "https://www.dw.com/pt-br/flávio-bolsonaro-diz-a-jornal-americano-que-fugiu-sozinho-do-brasil/a-79871184?maca=bra-rss-br-all-1030-rdf"
           },
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cm62y4dnznvxo?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/articles/cm70ppw2k0y3o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-11-05T12:02:25.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/m1TSWsdmAz708TqQM3TiCT8rmyY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/G/Tu9nw0SamB7FkdB1BPtw/felipe1.webp"
+        "updatedAt": "2026-11-05T22:50:00.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a0c6/live/53a0fee0-d95a-11f1-a800-d9dce9e5aa21.jpg"
       },
       {
-        "clusterId": "9257d642cd22df74",
-        "slug": "bb0ba32f096d1409",
-        "titulo": "Joshua Wong condenado a 10 anos de prisão em Hong Kong",
-        "resumo": "O ativista Joshua Wong, líder dos protestos pró-democracia em Hong Kong, foi condenado a 10 anos de prisão por conspiração com forças estrangeiras, segundo a lei de segurança nacional imposta por Pequim. A sentença faz parte de sua segunda condenação sob a mesma legislação. A decisão foi recebida como um sinal de repressão ao movimento pró-democracia na região.",
-        "porQueImporta": "A condenação de Wong destaca a intensificação da repressão de Pequim sobre dissidentes em Hong Kong.",
+        "clusterId": "e8542b5095b288bb",
+        "slug": "27f4ac2271bfe7ce",
+        "titulo": "Trump culpa guerra no Irã por derrota republicana e ameaça destruir país",
+        "resumo": "O presidente Donald Trump atribuiu parte da derrota do Partido Republicano nas eleições de meio de mandato à guerra no Irã e afirmou que, se necessário, poderia destruir o restante do país. Em entrevista ao Salão Oval, ele também minimizou o resultado, alegando que não estava na cédula. Os democratas conquistaram maioria na Câmara e no Senado, o que pode dificultar a aprovação de políticas de Trump, incluindo tarifas comerciais. O líder iraniano Mojtaba Khamenei descartou mudanças na política americana após a derrota republicana.",
+        "porQueImporta": "A vitória dos democratas muda o equilíbrio de poder em Washington, podendo restringir a agenda de Trump e afetar relações internacionais e políticas econômicas.",
         "category": "mundo",
         "sources": [
-          {
-            "name": "DW Brasil",
-            "url": "https://www.dw.com/pt-br/ativista-pró-democracia-de-hong-kong-condenado-a-mais-10-anos-de-prisão/a-79863270?maca=bra-rss-br-all-1030-rdf"
-          },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/05/ativista-joshua-wong-e-condenado-a-10-anos-de-prisao-em-hong-kong.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/11/05/apos-culpar-guerra-por-onda-azul-trump-diz-que-talvez-tenha-que-destruir-o-ira.ghtml"
+          },
+          {
+            "name": "DW Brasil",
+            "url": "https://www.dw.com/pt-br/que-impacto-a-derrota-nas-eleições-de-meio-de-mandato-terá-para-trump/a-79853554?maca=bra-rss-br-all-1030-rdf"
           }
         ],
-        "updatedAt": "2026-11-05T11:19:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/5Oo99oYg4Tcs70K2vW7giIXuH_A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/8/kP7WVJQR2B6HNMUzeXow/ap26307388068594.jpg"
+        "updatedAt": "2026-11-05T21:37:11.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/YZThxVFXoH6RN3GvP_aLNedryfQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/p/qDdnACSMGB4wATmGvbFg/afp-20261031-d4yu993-v1-midres-uspoliticstrump.jpg"
       },
       {
-        "clusterId": "81640144fac3ff8b",
-        "slug": "9b0620d5d7d56d60",
-        "titulo": "Hungria abre arquivos secretos da era comunista",
-        "resumo": "O governo do premiê Péter Magyar divulgou os arquivos dos agentes, contendo nomes de informantes da segurança estatal. A medida reaviva o debate sobre culpa e responsabilidade de mais de trinta anos após o fim do regime soviético. A abertura dos documentos permite que familiares e historiadores acessem informações antes restritas. O acesso público aos arquivos pode influenciar a compreensão histórica e a memória coletiva do país.",
-        "porQueImporta": "A transparência histórica pode esclarecer responsabilidades e contribuir para a reconciliação nacional.",
+        "clusterId": "f58e2c6c32886442",
+        "slug": "dc964f7e6b69d9f5",
+        "titulo": "Votos latinos se voltam contra Trump nas eleições de meio de mandato",
+        "resumo": "Pesquisas de boca de urna mostram que o apoio dos latinos aos democratas aumentou em 11 pontos percentuais desde 2024, anulando ganhos anteriores de Trump. A mudança de preferência foi atribuída, em parte, à política de deportação dos EUA. O apoio latino diminuiu significativamente em relação à eleição de 2022.",
+        "porQueImporta": "O apoio dos latinos é decisivo em eleições americanas, influenciando resultados em estados chave.",
         "category": "mundo",
         "sources": [
           {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c6x23z0n899zo?at_medium=RSS&at_campaign=rss"
+          },
+          {
             "name": "DW Brasil",
-            "url": "https://www.dw.com/pt-br/hungria-abre-os-arquivos-secretos-da-era-comunista/a-79866924?maca=bra-rss-br-all-1030-rdf"
+            "url": "https://www.dw.com/pt-br/latinos-se-voltaram-contra-trump-nas-eleições-de-meio-de-mandato/a-79862226?maca=bra-rss-br-all-1030-rdf"
           }
         ],
-        "updatedAt": "2026-11-05T17:49:00.000Z"
+        "updatedAt": "2026-11-05T20:28:04.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f332/live/a7383aa0-d905-11f1-960e-7dd59f59b29b.jpg"
       }
     ],
     "tecnologia": [
@@ -807,114 +860,176 @@
         "imageUrl": "https://tl.ctcdn.com.br/CISs2X0Q0WbGbp2p-gsdKNZGUIY=/0x0/filters:format(webp):quality(85)/6d53a338-6640-49e1-ba31-410c92cb9524.jpeg"
       },
       {
-        "clusterId": "b44ff40331767545",
-        "slug": "a15c7e454acc040e",
-        "titulo": "AMD mantém foco em data centers, mas não abandona Ryzen",
-        "resumo": "A AMD continua a produzir processadores Ryzen 9000, mas não há previsão de novos modelos. A maior parte da receita vem de chips para data centers, com projeção de US$ 17 bilhões no quarto trimestre de 2026. A empresa não pretende abandonar o mercado de PC, mas prioriza a expansão em IA e data centers.",
-        "porQueImporta": "Indica a mudança estratégica da AMD para se tornar líder em IA e data centers, impactando concorrentes e consumidores.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/hardware/amd-promete-nao-abandonar-ryzen-mas-numeros-mostram-empresa-como-gigante-de-ia/"
-          }
-        ],
-        "updatedAt": "2026-11-05T19:10:05.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/_xo4XtAKK4dBPHLB_4YGOem-rUM=/0x0/filters:format(webp):quality(85)/943de1b7-a729-4c76-b706-fb79bb44ea43.jpg"
-      },
-      {
-        "clusterId": "094a6272e12375cf",
-        "slug": "ba8802be8f39ae9d",
-        "titulo": "LG QNED70 55\" entra em promoção no Magalu",
-        "resumo": "A LG QNED70 de 55 polegadas foi anunciada em promoção por R$ 2.572,22 no Pix no Magalu, quase R$ 372 a menos que o preço oficial da LG. O valor fica próximo aos concorrentes, sendo R$ 118,22 mais caro que a NANO NU850 e R$ 148,33 acima da Philips 55PUG8100/78. A oferta destaca a qualidade de imagem da QNED em relação aos modelos de entrada.",
-        "porQueImporta": "Oferece uma opção de TV de alta qualidade a preço competitivo, beneficiando consumidores que buscam melhor desempenho visual.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/tv/tv-lg-mini-led-de-55-surpreende-com-preco-de-modelo-de-entrada/"
-          }
-        ],
-        "updatedAt": "2026-11-05T18:53:53.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/TYmKN6SovvDF23_UPkNv9z07zb4=/0x0/filters:format(webp):quality(85)/fe332f72-1abe-4e3e-b42a-d0f3a6c636ea.png"
-      },
-      {
-        "clusterId": "3490311c28516952",
-        "slug": "7cfd1a0d96e4554d",
-        "titulo": "Headsets 7.1 surround sem fio em promoção na Amazon",
-        "resumo": "A Amazon oferece duas opções de headsets gamer sem fio com som surround 7.1, destacando o modelo Redragon Zeus Pro Preto H510-PRO. Os dispositivos proporcionam áudio imersivo sem abrir mão do conforto, sendo indicados para quem busca melhorar a experiência de jogo. As promoções permitem adquirir tecnologia avançada a preços reduzidos.",
-        "porQueImporta": "Esses headsets permitem aos usuários experimentar áudio 3D de alta qualidade, melhorando a imersão em jogos e outras mídias.",
+        "clusterId": "19af265782a79464",
+        "slug": "ccb137dbddd845c4",
+        "titulo": "Google, Meta e TikTok processam Califórnia para impedir lei de proteção a menores",
+        "resumo": "As três empresas de tecnologia moveram ação judicial contra a legislação estadual que visa proteger menores de conteúdo online. O processo busca suspender a aplicação da lei, que entraria em vigor em janeiro de 2027. As companhias alegam que a norma pode restringir a liberdade de expressão e impactar negativamente seus negócios. A decisão judicial ainda está pendente.",
+        "porQueImporta": "A medida pode influenciar a regulamentação de conteúdo digital em todo o país.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/05/reviews/audio-imersivo-sem-abrir-mao-do-conforto-headsets-7-1-surround-em-oferta-na-amazon/"
+            "url": "https://olhardigital.com.br/2026/11/05/pro/google-meta-e-tiktok-processam-california-para-barrar-lei-de-protecao-a-menores/"
           }
         ],
-        "updatedAt": "2026-11-05T18:41:20.000Z"
+        "updatedAt": "2026-11-05T23:54:41.000Z"
       },
       {
-        "clusterId": "21f515d5f5b7f3f3",
-        "slug": "d62fae946debb757",
-        "titulo": "Claude agora pode acessar contas bancárias para analisar gastos",
-        "resumo": "O assistente Claude recebeu um novo recurso que permite acessar contas bancárias para analisar despesas. O recurso ajuda a organizar gastos, identificar cobranças duplicadas e explicar conceitos como juros e taxas. A funcionalidade foi anunciada pela empresa que desenvolve o Claude.",
-        "porQueImporta": "Permite que usuários monitorem e compreendam melhor suas finanças pessoais com a ajuda de IA.",
+        "clusterId": "170203ab43ba332d",
+        "slug": "04699df0e872e638",
+        "titulo": "Resultado da Lotofácil concurso 3822",
+        "resumo": "O concurso 3822 da Lotofácil foi realizado na manhã de quinta-feira, 5 de novembro, às 21h. O prêmio estimado é de R$ 5 milhões. Os números sorteados e os ganhadores foram divulgados pelo site Olhar Digital.",
+        "porQueImporta": "Informação relevante para apostadores e interessados no resultado do concurso.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/05/inteligencia-artificial/claude-agora-pode-acessar-contas-bancarias-para-analisar-gastos/"
+            "url": "https://olhardigital.com.br/2026/11/05/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3822-quinta-05-11/"
           }
         ],
-        "updatedAt": "2026-11-05T18:40:27.000Z"
+        "updatedAt": "2026-11-05T23:40:00.000Z"
       },
       {
-        "clusterId": "1b3ef3dbea35a409",
-        "slug": "91ac5ee26a54d3a1",
-        "titulo": "NASA detalha planos para retorno à Lua",
-        "resumo": "A NASA revelou novos detalhes de sua estratégia para acelerar o retorno de astronautas à superfície lunar. Em 2027, será realizada uma missão de testes em órbita terrestre, seguida da tentativa de pouso tripulado na Artemis 4, prevista para 2028. A atualização foi apresentada em 23 de outubro pelo administrador da agência.",
-        "porQueImporta": "Esses passos indicam o avanço da exploração lunar e a retomada de missões tripuladas pela NASA.",
+        "clusterId": "1308cfcd5321d510",
+        "slug": "087292dbce27b996",
+        "titulo": "Bebê morre nos EUA em meio a surto de sarampo",
+        "resumo": "Um bebê faleceu nos Estados Unidos, sendo o primeiro óbito por sarampo na região desde 1990. O surto já contabiliza mais de 400 casos. A morte ocorreu em meio a esforços de vacinação e controle da doença.",
+        "porQueImporta": "Revela a persistência do sarampo e a importância da vacinação em massa.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/05/ciencia-e-espaco/nasa-muda-planos-para-voltar-a-lua-e-deixa-pouso-tripulado-para-2028/"
+            "url": "https://olhardigital.com.br/2026/11/05/medicina-e-saude/sarampo-bebe-morre-nos-eua-em-meio-a-surto-com-mais-de-400-casos/"
           }
         ],
-        "updatedAt": "2026-11-05T18:26:47.000Z"
+        "updatedAt": "2026-11-05T23:37:56.000Z"
       },
       {
-        "clusterId": "0a67aecd185520a7",
-        "slug": "c806995065b7ad1f",
-        "titulo": "Câmeras de segurança em promoção na Amazon",
-        "resumo": "A Amazon oferece diversas câmeras de segurança em oferta, com recursos como visão noturna, conexão Wi-Fi e controle via celular. A seleção inclui modelos adequados para residências e empresas, facilitando a escolha do consumidor. As promoções tornam a instalação de sistemas de vigilância mais acessível.",
-        "porQueImporta": "Permite que mais pessoas invistam em segurança doméstica e empresarial sem grandes custos.",
+        "clusterId": "28beefa11010f0a3",
+        "slug": "fc6ad9ba34340fea",
+        "titulo": "IA acelera quase duas vezes o desenvolvimento de modelos da Anthropic",
+        "resumo": "Uma avaliação independente revelou que a startup Anthropic desenvolve modelos de IA quase duas vezes mais rápido que a média do setor. A empresa utiliza inteligência artificial para acelerar todo o processo de criação e treinamento. O método permite reduzir o tempo de desenvolvimento e otimizar recursos. A análise destaca a eficiência da abordagem da Anthropic em comparação com concorrentes.",
+        "porQueImporta": "A velocidade de desenvolvimento pode posicionar a Anthropic como líder em inovação no mercado de IA.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/05/reviews/sua-casa-mais-segura-cameras-de-seguranca-em-promocao-na-amazon-9/"
+            "url": "https://olhardigital.com.br/2026/11/05/inteligencia-artificial/ia-acelera-em-quase-duas-vezes-o-desenvolvimento-de-modelos-da-anthropic/"
           }
         ],
-        "updatedAt": "2026-11-05T18:21:20.000Z"
+        "updatedAt": "2026-11-05T23:08:47.000Z"
       },
       {
-        "clusterId": "08bf927a031b9b40",
-        "slug": "438001335fe12a72",
-        "titulo": "Startup chinesa tenta contornar restrições dos EUA para acessar chips da Nvidia",
-        "resumo": "A startup chinesa Moonshot está negociando o aluguel de chips Nvidia na Europa como forma de contornar as sanções dos Estados Unidos que impedem a aquisição direta desses componentes. A estratégia envolve a utilização de fornecedores europeus para adquirir os chips, evitando assim as restrições impostas pelo governo americano. A empresa busca manter a competitividade em seus projetos de inteligência artificial e tecnologia de ponta.",
-        "porQueImporta": "A iniciativa demonstra como empresas chinesas estão buscando alternativas para superar barreiras comerciais impostas pelos EUA.",
+        "clusterId": "314de3e0c869d283",
+        "slug": "c7148935a0249ae8",
+        "titulo": "Explosão na plataforma de lançamento da Blue Origin faz empresa adiar lançamento para 2027",
+        "resumo": "Uma explosão na plataforma de lançamento da Blue Origin causou danos que exigiram reconstrução, atrasando o retorno das operações que estava previsto para dezembro. A empresa precisou de mais tempo do que o estimado para reparar a infraestrutura. Como resultado, o próximo lançamento de foguete está agora programado para 2027.",
+        "porQueImporta": "O atraso impacta o cronograma de missões comerciais e de pesquisa espacial da Blue Origin.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/05/inteligencia-artificial/startup-chinesa-tenta-contornar-restricoes-dos-eua-para-acessar-chips-da-nvidia/"
+            "url": "https://olhardigital.com.br/2026/11/05/ciencia-e-espaco/explosao-forca-blue-origin-a-adiar-lancamento-de-foguete-para-2027/"
           }
         ],
-        "updatedAt": "2026-11-05T18:08:37.000Z"
+        "updatedAt": "2026-11-05T22:48:03.000Z"
+      },
+      {
+        "clusterId": "7fc1f9d3c81e4023",
+        "slug": "a7eb6455afced4a8",
+        "titulo": "NASA e SpaceX podem enfrentar mudanças após vitória democrata nas eleições dos EUA",
+        "resumo": "A vitória do Partido Democrata nas eleições presidenciais e no Congresso abre a possibilidade de revisão de cortes no orçamento da NASA e de maior fiscalização sobre a SpaceX. O novo controle legislativo pode levar a ajustes nas políticas de financiamento e supervisão das atividades espaciais. A mudança de controle político pode influenciar a direção das missões e parcerias entre agência e empresa privada.",
+        "porQueImporta": "Alterações no financiamento e supervisão podem impactar o futuro das missões espaciais americanas.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/11/05/ciencia-e-espaco/nasa-e-spacex-podem-enfrentar-mudancas-apos-vitoria-democrata-nas-eleicoes-dos-eua/"
+          }
+        ],
+        "updatedAt": "2026-11-05T21:10:11.000Z"
+      },
+      {
+        "clusterId": "64eab2502d8874ea",
+        "slug": "a32ab6bc20d1dc42",
+        "titulo": "Eleitores dos EUA rejeitam propostas de data centers e favorecem candidatos que prometem limitar a expansão",
+        "resumo": "Em eleições locais nos Estados Unidos, a maioria dos eleitores votou contra propostas de construção de data centers e apoiou candidatos que prometem impor restrições ao setor de IA. A decisão reflete uma preocupação crescente com o consumo de energia e o impacto ambiental dos centros de dados. Os resultados indicam que a indústria de IA deve enfrentar pressão regulatória em vários estados.",
+        "porQueImporta": "O voto demonstra a crescente atenção dos cidadãos à sustentabilidade e pode influenciar políticas de expansão de data centers no país.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/11/05/pro/eua-eleitores-dao-recado-a-industria-de-ia-e-ameacam-expansao-de-data-centers/"
+          }
+        ],
+        "updatedAt": "2026-11-05T21:05:25.000Z"
       }
     ],
     "ciencia": [
+      {
+        "clusterId": "de4d61c05912e8e6",
+        "slug": "8c053137eb2d9344",
+        "titulo": "Alemanha testa treinamento de cães domésticos para identificar plantas invasoras",
+        "resumo": "Estudo na Alemanha treinou mais de 30 cães e seus tutores para reconhecer espécies de plantas invasoras. Os cães atingiram precisão de 75% na identificação. A pesquisa demonstra potencial de uso de animais de estimação em monitoramento ambiental. O método pode complementar técnicas tradicionais de detecção.",
+        "porQueImporta": "Permite ampliar recursos de vigilância ambiental com tecnologia de baixo custo e alta mobilidade.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/ciencia/alemanha-testa-treinamento-de-caes-domesticos-para-identificar-plantas-invasoras/"
+          }
+        ],
+        "updatedAt": "2026-11-05T23:00:17.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_caes-treinados-detectam-plantas_site.jpg"
+      },
+      {
+        "clusterId": "12dc84c58b3005c7",
+        "slug": "f34d6c07b688d935",
+        "titulo": "Pesquisa da USP aponta novo potencial terapêutico do vírus da zika",
+        "resumo": "Estudo conduzido pela USP revelou que o vírus da zika pode atacar tumores cerebrais, levando os pesquisadores a investigar sua eficácia contra neurofibromas, que afetam os nervos periféricos. Os resultados preliminares indicam que o vírus pode reduzir o crescimento dessas células tumorais. A pesquisa está em fase inicial, mas sugere uma nova abordagem para tratar tipos de câncer que atualmente têm tratamento limitado.",
+        "porQueImporta": "A descoberta pode abrir caminho para terapias inovadoras contra tumores que são difíceis de tratar.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/radio-usp/pesquisa-da-usp-aponta-novo-potencial-terapeutico-do-virus-da-zika/"
+          }
+        ],
+        "updatedAt": "2026-11-05T22:53:24.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2023/03/pasta-dos-20230313_mayana--1024x1024.jpg"
+      },
+      {
+        "clusterId": "e11d2fb2fd9fdc8e",
+        "slug": "215a85893df19635",
+        "titulo": "El Niño atinge anomalia recorde em outubro",
+        "resumo": "O fenômeno El Niño atingiu a maior anomalia de temperatura da sua história em outubro, com temperaturas acima de 2°C em relação ao normal. Esse pico pode intensificar chuvas e inundações em regiões tropicais, além de afetar a produção agrícola e a disponibilidade de água. As autoridades monitoram a situação para ajustar medidas de mitigação e informar a população.",
+        "porQueImporta": "O aumento extremo de temperatura pode agravar eventos climáticos extremos e impactar a segurança alimentar e hídrica.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/ciencia/el-nino-atinge-anomalia-recorde-em-outubro-o-que-isso-significa/"
+          }
+        ],
+        "updatedAt": "2026-11-05T22:00:37.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/02/chuva_sp_el_nino_layout_site.jpg"
+      },
+      {
+        "clusterId": "1e611600f54763eb",
+        "slug": "700e3d4433a1c5ac",
+        "titulo": "Recital de música de câmara na Casa de Dona Yayá",
+        "resumo": "A Casa de Dona Yayá sediará um recital de música de câmara no programa \"Domingo na Yayá\", com músicos da Escola de Comunicações e Artes. A apresentação faz parte da programação cultural da instituição e será realizada no domingo. O evento reúne artistas da universidade para apresentar repertório de música de câmara.",
+        "porQueImporta": "O recital promove a divulgação da cultura musical universitária e fortalece a presença da Casa de Dona Yayá como espaço cultural.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/cadernodecultura/recital-de-musica-de-camara-na-casa-de-dona-yaya/"
+          }
+        ],
+        "updatedAt": "2026-11-05T19:54:47.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/11/20240609_120033-1024x537.jpg"
+      },
       {
         "clusterId": "22f8d3611bc72aa2",
         "slug": "57937335ba6792ee",
@@ -932,24 +1047,20 @@
         "imageUrl": "https://super.abril.com.br/wp-content/uploads/2017/10/por-que-o-xixi-faz-bolhas-quando-cai-na-c3a1gua-da-privada.png"
       },
       {
-        "clusterId": "45b1039753605fa4",
-        "slug": "c9ce6d862e4ccc2e",
-        "titulo": "Astronautas da NASA votam nas eleições dos EUA a partir da ISS",
-        "resumo": "Durante a missão na Estação Espacial Internacional, os astronautas Anil Menon, Jessica Watkins e Luke Delaney enviaram seus votos para a Casa Branca por meio de transmissão satelital. Os votos foram criptografados antes de chegar ao centro da NASA no Texas. A votação foi realizada enquanto os tripulantes permaneciam em suas cabines, que também serviram como leito.",
-        "porQueImporta": "Ilustra a extensão da participação cidadã dos astronautas, mesmo fora da Terra.",
+        "clusterId": "cbca05c8c3902240",
+        "slug": "069161db69bae445",
+        "titulo": "Evento na USP destaca obra de Fernando Morais",
+        "resumo": "Nos dias 9 e 10, a Biblioteca Brasiliana Guita e José Mindlin da USP sediará um evento sobre jornalismo, arquivo e memória, com foco na obra do autor Fernando Morais, conhecido por \"A Ilha\", \"Olga\" e \"Chatô\". O encontro reunirá especialistas e o próprio autor para discutir a importância de seu trabalho na literatura brasileira.",
+        "porQueImporta": "O evento reforça a relevância da literatura de Morais como fonte histórica e cultural para o estudo do jornalismo e da memória no Brasil.",
         "category": "ciencia",
         "sources": [
           {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/sociedade/como-os-astronautas-votam-durante-uma-missao-no-espaco/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/03/eleicoes-nos-eua-astronautas-da-nasa-votam-do-espaco.ghtml"
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/cultura/obra-de-fernando-morais-e-tema-de-evento-sobre-jornalismo-arquivo-e-memoria/"
           }
         ],
-        "updatedAt": "2026-11-04T21:00:43.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_SEO-astronautas-CAPA_site.jpg"
+        "updatedAt": "2026-11-05T17:45:47.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/11/20261105_fernando-1024x538.jpg"
       },
       {
         "clusterId": "15bb91a127b9c81a",
@@ -982,75 +1093,11 @@
         ],
         "updatedAt": "2026-11-05T17:09:45.000Z",
         "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_morar-perto-areas-verdes_site.jpg"
-      },
-      {
-        "clusterId": "59dc180e20f8c9d8",
-        "slug": "3bd04d19ec31032c",
-        "titulo": "Professor aposentado celebra 25 anos na Ouvidoria do Cepeusp",
-        "resumo": "O professor aposentado Pascoal Luiz Tambucci, ex-coordenador do Centro de Práticas Esportivas da USP, completou 25 anos de atuação na Ouvidoria do Cepeusp. Durante esse período, ele contribuiu para a resolução de demandas acadêmicas e esportivas, promovendo a transparência e a participação dos usuários. A Ouvidoria desempenha papel fundamental na gestão institucional, atendendo a reclamações, sugestões e denúncias. Tambucci destaca a importância de manter canais de comunicação eficientes para o bom funcionamento do centro.",
-        "porQueImporta": "A celebração reflete a longevidade e o impacto de um canal de comunicação institucional que favorece a transparência e a melhoria contínua no ambiente acadêmico e esportivo.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/artigos/vinte-e-cinco-anos-na-ouvidoria-do-centro-de-praticas-esportivas-da-usp/"
-          }
-        ],
-        "updatedAt": "2026-11-05T16:59:58.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/11/20261105_pascoalt-1024x538.jpg"
-      },
-      {
-        "clusterId": "e2756a74ca9f1ec9",
-        "slug": "873feed69b647fe4",
-        "titulo": "Linguagens no Enem: mais do que “ler com atenção\"",
-        "resumo": "O Enem exige que os estudantes demonstrem habilidades de leitura crítica e interpretação de textos, além de compreender contextos e relações entre ideias. A prova de Linguagens avalia a capacidade de analisar argumentos, identificar pressupostos e avaliar a credibilidade das fontes. Os candidatos precisam reconhecer a importância de textos multimodais e de diferentes gêneros literários e não apenas a leitura literal.",
-        "porQueImporta": "Essas competências são fundamentais para o sucesso acadêmico e profissional, refletindo a necessidade de leitores críticos na sociedade atual.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/articulistas/marcelo-modolo-e-henrique-braga/linguagens-no-enem-mais-do-que-ler-com-atencao/"
-          }
-        ],
-        "updatedAt": "2026-11-05T16:39:51.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/06/20260618_perfil_-articulistas_marcelo-henrique.jpg"
-      },
-      {
-        "clusterId": "c5ab5587b7a51d7e",
-        "slug": "b254505234966e30",
-        "titulo": "Estudo mostra que variação térmica ambiental favorece febre comportamental em répteis e anfíbios",
-        "resumo": "Pesquisadores da USP demonstraram que mudanças na temperatura dos habitats podem intensificar a febre comportamental em sapos e lagartos. Essa resposta térmica ajuda os animais a combater infecções, já que dependem do calor externo para regular a temperatura corporal. O estudo destaca a importância das condições ambientais na saúde desses vertebrados.",
-        "porQueImporta": "Entender como o clima influencia a imunidade de répteis e anfíbios pode orientar estratégias de conservação e manejo de espécies ameaçadas.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/ciencias/anfibios-e-repteis-com-febre-cientistas-estudam-como-variacao-termica-do-ambiente-favorece-febre-comportamental/"
-          }
-        ],
-        "updatedAt": "2026-11-05T13:53:59.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/11/20261105_lagarto-1024x538.jpg"
-      },
-      {
-        "clusterId": "8d079c7da4509faf",
-        "slug": "69b0d6b75a42cb3a",
-        "titulo": "Avanço tecnológico nas empresas pode levar à sobrecarga do trabalhador",
-        "resumo": "O uso crescente de aplicativos de mensagens instantâneas mantém os trabalhadores conectados a qualquer hora, eliminando a separação entre vida profissional e pessoal. Isso pode aumentar a pressão e a sobrecarga de trabalho. A autora Giuliana Tortoriello Fagotti destaca que a constante disponibilidade dificulta o desligamento do trabalho. O fenômeno pode afetar a saúde mental e o equilíbrio dos funcionários.",
-        "porQueImporta": "Entender esse impacto é essencial para empresas que buscam equilibrar produtividade e bem‑estar dos colaboradores.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/atualidades/avanco-da-tecnologia-nas-empresas-altera-rotina-e-pode-levar-a-sobrecarga-do-trabalhador/"
-          }
-        ],
-        "updatedAt": "2026-11-05T13:24:12.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2022/08/20210504_linha-montagem_industrial-1024x538.jpg"
       }
     ],
     "saude": [
       {
-        "clusterId": "d8e54c762fc9a80f",
+        "clusterId": "0c86ff9c6a78088e",
         "slug": "d14d41d1da3c915e",
         "titulo": "Justiça Federal condena influenciador digital por disseminar desinformação sobre câncer de mama",
         "resumo": "A Justiça Federal condenou o influenciador Lucas Ferreira por divulgar informações falsas sobre a mamografia e o câncer de mama. A decisão destaca a responsabilidade de quem publica conteúdo de saúde nas redes sociais. O caso reforça a necessidade de fontes confiáveis para orientações médicas. A condenação serve como alerta para a verificação de dados antes de compartilhar.",
@@ -1058,16 +1105,11 @@
         "category": "saude",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/colunas/manoela-alcantara/justica-federal-condena-medico-por-desinformacao-sobre-cancer-de-mama"
-          },
-          {
             "name": "Drauzio Varella",
             "url": "https://drauziovarella.uol.com.br/coluna-da-mariana-varella/8-mitos-sobre-cancer-de-mama/"
           }
         ],
-        "updatedAt": "2026-11-05T19:31:56.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/11/iStock-182344111.jpg"
+        "updatedAt": "2026-11-05T19:22:57.000Z"
       },
       {
         "clusterId": "68ca330e384c5ad7",
@@ -1088,8 +1130,8 @@
         "clusterId": "319aae90a3df3cdf",
         "slug": "4162623b4b14eeef",
         "titulo": "Substâncias que podem aumentar a ansiedade",
-        "resumo": "Algumas substâncias, como álcool, cafeína, nicotina, medicamentos estimulantes e certos medicamentos prescritos, podem intensificar sintomas de ansiedade em indivíduos que já apresentam essa condição. O consumo excessivo ou inadequado dessas substâncias pode levar a crises de ansiedade mais frequentes e intensas. É importante reconhecer esses gatilhos e buscar ajuda profissional quando a ansiedade se torna intensa e frequente.",
-        "porQueImporta": "Entender os gatilhos ajuda a prevenir crises e a buscar tratamento adequado.",
+        "resumo": "O artigo destaca que, quando a ansiedade se torna intensa e frequente, alguns jovens recorrem a substâncias em busca de alívio. Entretanto, o consumo dessas substâncias pode agravar a ansiedade. O texto alerta para a necessidade de buscar ajuda profissional quando os sintomas persistirem.",
+        "porQueImporta": "Entender os efeitos das substâncias na ansiedade ajuda a prevenir agravações e a buscar tratamento adequado.",
         "category": "saude",
         "sources": [
           {
@@ -1129,183 +1171,172 @@
         ],
         "updatedAt": "2026-11-04T12:49:20.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/HHL05yzEHaC1di4rlruXwpDUQbg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/1/x/wJsKAlTgqj53gnrITItQ/captura-de-tela-2024-06-26-084704.png"
-      },
-      {
-        "clusterId": "d0284232489528b1",
-        "slug": "86f515c960e7d73c",
-        "titulo": "Podcast discute preparação para a morte",
-        "resumo": "O episódio do podcast Além do Normal aborda a morte, tema ainda considerado tabu. A conversa propõe que discutir a finitude pode alterar a forma de viver. O apresentador Drauzio Varella convida ouvintes a refletirem sobre o assunto.",
-        "porQueImporta": "Entender como lidar com a morte pode melhorar a qualidade de vida e reduzir o medo do desconhecido.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/podcasts/alem-do-normal/como-nos-preparamos-para-a-morte-alem-do-normal/"
-          }
-        ],
-        "updatedAt": "2026-11-03T21:42:31.000Z"
       }
     ],
     "esportes": [
       {
-        "clusterId": "2feaf3fe1e7eb78e",
-        "slug": "75737b8d57fd4e91",
-        "titulo": "Cristiano Ronaldo anuncia aposentadoria da seleção portuguesa",
-        "resumo": "Cristiano Ronaldo anunciou sua saída da seleção de Portugal, encerrando uma carreira de 17 anos e 180 partidas. Ex-companheiros e treinadores, como Luiz Felipe Scolari e Jorge Jesus, expressaram apoio à decisão e lembraram momentos marcantes da trajetória do jogador. A aposentadoria ocorre dias antes de uma nova convocação de Jesus, que respeita a escolha do craque.",
-        "porQueImporta": "A decisão encerra a era de um dos maiores jogadores do futebol mundial na seleção portuguesa.",
+        "clusterId": "d21b5407e87207f9",
+        "slug": "6b64b462070f4a08",
+        "titulo": "Palmeiras vence Remo por 6 a 1 na 34ª rodada do Brasileirão",
+        "resumo": "O Palmeiras venceu o Remo por 6 a 1, com cinco gols já na primeira metade da partida, marcando a maior goleada da edição atual do campeonato. O triunfo mantém o Verdão na corrida pelo título, deixando o Flamengo com vantagem de três pontos na liderança. O resultado também coloca o Remo em situação de risco na zona de rebaixamento.",
+        "porQueImporta": "O resultado reforça a posição do Palmeiras na disputa pelo título e aumenta a pressão sobre o Flamengo e o Remo.",
         "category": "esportes",
         "sources": [
           {
+            "name": "GE",
+            "url": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/05-11-2026/palmeiras-remo.ghtml"
+          },
+          {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/cristiano-ronaldo-tomou-goleada-da-selecao-brasileira-no-df-relembre"
+            "url": "https://www.metropoles.com/esportes/com-dois-de-jhon-arias-palmeiras-aplica-goleada-no-remo-pelo-brasileirao"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/felipao-elogia-decisao-de-cristiano-ronaldo-e-relembra-parceria-em-portugal/"
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-atropela-o-remo-e-segue-caca-ao-lider-flamengo-no-brasileirao/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/esporte/palmeiras-estreia-camisa-totalmente-verde-contra-o-remo-veja-fotos/"
+          }
+        ],
+        "updatedAt": "2026-11-06T00:41:57.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/11/palmeirasxremo.jpg"
+      },
+      {
+        "clusterId": "fa9ecdc406485359",
+        "slug": "c87269155b557e44",
+        "titulo": "Partidas do Campeonato Brasileiro 2026 em destaque",
+        "resumo": "Na quinta-feira, 5 de maio, o Cruzeiro enfrenta o Bahia no Mineirão, válida pela 34ª rodada. O Vitória encara o Fluminense em outra partida do Brasileirão. Na Série B, o Ceará joga contra o América-MG, o Novorizontino enfrenta o Fortaleza e o Cuiabá disputa o jogo com o Juventude.",
+        "porQueImporta": "Essas partidas definem posições importantes na tabela e influenciam a classificação para a próxima fase do campeonato.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/mg/futebol/brasileirao-serie-a/jogo/05-11-2026/cruzeiro-bahia.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/cruzeiro-x-bahia-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/"
+          }
+        ],
+        "updatedAt": "2026-11-06T00:42:19.000Z"
+      },
+      {
+        "clusterId": "4fbd2fc628e43e15",
+        "slug": "8fe1b654eb7e43e3",
+        "titulo": "Mogi Basquete vence Basquete Cearense no NBB",
+        "resumo": "Mogi Basquete derrotou Basquete Cearense no NBB, com um placar de X a Y. O jogo foi coberto pelos vídeos do Jornal do Acre e do Jornal Anhanguera, além de destaque no Diário TV. A partida contou com a participação de jogadores-chave e demonstrou a competitividade da equipe do Alto Tietê.",
+        "porQueImporta": "Revela o desempenho da equipe de Mogi no campeonato nacional, influenciando sua posição na tabela.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-quinta-feira-5-de-novembro-de-2026.ghtml"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/05/ex-companheiros-de-cristiano-ronaldo-na-selecao-de-portugal-prestam-homenagem-lenda.ghtml"
+            "url": "https://ge.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/11/05/veja-os-destaques-do-esporte-no-diario-tv-1a-edicao-desta-quinta-feira-5-de-novembro.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-05T23:43:14.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/6uKpjt-CeOHkIC3_fQbzUbLsmSk=/s01.video.glbimg.com/deo/vi/24/40/15164024"
+      },
+      {
+        "clusterId": "689101c2922dcdff",
+        "slug": "5c4c59f337bc4e8c",
+        "titulo": "Bahia divulga lista para enfrentar Cruzeiro sem Willian José",
+        "resumo": "O Bahia anunciou a lista de 25 jogadores para a partida contra o Cruzeiro na 34ª rodada do Brasileirão. Kanu retorna ao time, enquanto Willian José permanece fora após criticar nordestinos em vídeo. A ausência de Willian José foi confirmada por nota oficial do jogador. A equipe mantém a mesma formação sem o atacante na escalação.",
+        "porQueImporta": "A decisão afeta a estratégia do Bahia e a expectativa de desempenho na partida decisiva da temporada.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/ba/futebol/times/bahia/noticia/2026/11/05/relacionados-bahia-divulga-lista-sem-marco-moreno-e-com-retorno-de-kanu-para-enfrentar-o-cruzeiro.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-05T22:39:34.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/VCo6THn2C1xVv1Vjzf3zXUA3MC0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/s/A/xfu50vRoyE7KbFRk8nig/55187268796-e8829fb967-k.jpg"
+      },
+      {
+        "clusterId": "4466cb724a5ed38b",
+        "slug": "4271172a38c5db52",
+        "titulo": "São Paulo paga agente de Galoppo e aguarda fim de transfer ban",
+        "resumo": "O clube paulista quitou a dívida de US$ 300 mil (aproximadamente R$ 1,5 milhão) com o agente do meio-campista Giuliano Galoppo. O pagamento foi efetuado na última quinta-feira. O empresário tem cinco dias para confirmar à FIFA que recebeu o valor, condição necessária para que o banimento de transferências seja retirado. Se não houver contestação, o impedimento será automaticamente extinto.",
+        "porQueImporta": "A liberação do banimento permitirá ao São Paulo contratar novos jogadores.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/sao-paulo-paga-agente-de-galoppo-e-aguarda-fim-de-transfer-ban/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2026/11/05/sao-paulo-paga-agente-de-galoppo-e-aguarda-fim-de-transfer-ban-na-fifa.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-05T22:25:39.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/3kyzWNZ3T7qCKY1BXOJCuLnO7Ck=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2025/Y/s/vzuyCDRCeJJ9NTou2Tyg/whatsapp-image-2025-01-07-at-14.59.16.jpeg"
+      },
+      {
+        "clusterId": "d4868d3f7d6cb768",
+        "slug": "d7d25561a3009f1b",
+        "titulo": "Cristiano Ronaldo anuncia aposentadoria da seleção portuguesa",
+        "resumo": "O jogador anunciou sua saída da seleção de Portugal após 23 anos de carreira, encerrando um período marcado por recordes e títulos. O presidente da FIFA, Gianni Infantino, homenageou o craque nas redes sociais, destacando sua determinação e talento. Em um jogo da Liga Europa, o atacante Rayan do Bournemouth celebrou a notícia marcando um gol e imitando o gesto de Ronaldo. A aposentadoria de Ronaldo encerra a trajetória de um dos maiores jogadores da história do país.",
+        "porQueImporta": "A saída de Ronaldo da seleção encerra uma era de recordes e inspirações para o futebol português e mundial.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/05/presidente-da-fifa-homenageia-cristiano-ronaldo-apos-aposentadoria-da-selecao-portuguesa.ghtml"
           },
           {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/cq5ynjjjnxk9o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-11-05T19:18:28.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/11/cristiano-ronaldo.jpg"
+        "updatedAt": "2026-11-05T21:36:05.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/86MzuyXva3Ll7YApYHBrTeUJhfo=/s.glbimg.com/es/ge/f/original/2016/07/10/2016-07-10t221026z_111190226_mt1aci14477971_rtrmadp_3_soccer-euro-por-fra_Hak3ss1.jpg"
       },
       {
-        "clusterId": "b0d3f12e7a61ba0c",
-        "slug": "9ef585be7d5aa99f",
-        "titulo": "Corinthians confirma entorse no joelho do meia Rodrigo Garro",
-        "resumo": "O meia argentino Rodrigo Garro sofreu um estiramento ligamentar no joelho direito durante o clássico contra o São Paulo. Ele foi substituído aos 38 minutos do primeiro tempo e passou por exames, incluindo ressonância magnética, que confirmaram a lesão. O departamento médico iniciou o tratamento e o clube não divulgou prazo de recuperação. A ausência pode afetar a equipe no restante do Brasileirão.",
-        "porQueImporta": "A lesão de Garro pode reduzir a profundidade do meio‑campo do Corinthians em jogos futuros.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/corinthians-confirma-entorse-no-joelho-do-meia-rodrigo-garro"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-atualiza-situacao-de-garro-apos-lesao-contra-o-sao-paulo/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/11/05/rodrigo-garro-sofre-lesao-no-joelho-e-pode-desfalcar-o-corinthians-no-restante-do-brasileirao.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-05T18:55:59.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/11/rodrigo-garro-corinthians.jpg"
-      },
-      {
-        "clusterId": "a789e22b2730ba31",
-        "slug": "dd1962d259503c3b",
-        "titulo": "Bicampeã olímpica Sheilla Castro lamenta morte de irmã em acidente de carro",
-        "resumo": "Sheilla Castro, bicampeã olímpica, expressou tristeza após a morte de sua irmã mais nova, Raquel del Las Casas, que faleceu em um acidente de carro na noite de quarta-feira, em Minas Gerais. Raquel tinha 39 anos. O falecimento ocorreu na véspera do aniversário de oito anos das sobrinhas gêmeas de Sheilla, Liz e Ninna.",
-        "porQueImporta": "O evento destaca a perda de uma atleta de destaque e seu impacto na comunidade esportiva.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/volei/bicampea-olimpica-sheilla-lamenta-morte-de-irma-parece-mentira/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/volei/noticia/2026/11/05/bicampea-olimpica-sheilla-lamenta-morte-de-irma-em-acidente-ainda-parece-mentira.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-05T18:27:04.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/DIyYgb2GXZsWoROt1276wQGohNI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/B/n/F8eYsrQuCW5NbWOLwM9g/whatsapp-image-2026-11-05-at-13.54.22.jpeg"
-      },
-      {
-        "clusterId": "333a824a4ddd0f80",
-        "slug": "a4484ba50e8f997b",
-        "titulo": "Futebol espanhol presta homenagem a Jesús de Miguel e realiza funeral",
-        "resumo": "A LaLiga, a RFEF e a LigaF anunciaram que todos os jogos entre 6 e 9 de novembro exibirão a mensagem \"Sempre em nossa memória\" em homenagem ao atacante Jesús de Miguel, que faleceu após colisão com goleiro. O atacante do Tenerife foi sepultado na Espanha, com presença de familiares, amigos e representantes do futebol.",
-        "porQueImporta": "A homenagem demonstra o impacto de Jesús de Miguel no futebol espanhol e a importância de reconhecer atletas que faleceram em atividade.",
+        "clusterId": "114d96479f646edf",
+        "slug": "b7887814703a1719",
+        "titulo": "Botafogo-SP goleia Londrina por 4 a 0 na Série B",
+        "resumo": "O Botafogo-SP venceu o Londrina por 4 a 0 no estádio Santa Cruz, em Ribeirão Preto, encerrando a temporada sem risco de queda e sem chances de acesso ao G6. O gol decisivo foi marcado quando o goleiro Maurício Kozlinski, ao tentar controlar a bola com os pés, entregou a bola ao adversário, resultando em erro bizarro. O jogo foi válido pela penúltima rodada da Série B do Campeonato Brasileiro.",
+        "porQueImporta": "A vitória consolida a posição do Botafogo-SP na tabela e demonstra a fragilidade defensiva do Londrina.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/11/05/caso-jesus-de-miguel-futebol-da-espanha-prestara-homenagem-no-minuto-9-dos-jogos-da-rodada.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/jesus-de-miguel-e-sepultado-na-espanha-apos-morrer-durante-partida/"
+            "url": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/brasileirao-serie-b/jogo/05-11-2026/botafogo-sp-londrina.ghtml"
           }
         ],
-        "updatedAt": "2026-11-05T18:21:27.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/j81L2avQ5MQgQrZPTGkny34JYoE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Q/9/fElKF9RauifHdxY4wuOQ/2026-11-05t175204z-1240692301-up1emb51dmqf7-rtrmadp-3-soccer-conference-ts-scf.jpg"
+        "updatedAt": "2026-11-06T00:42:50.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/013XNZlB-zWc3qi70RktVGx_210=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Q/x/ZaAVBERCA6xAYbnPBMPg/whatsapp-image-2026-11-05-at-21.35.26.jpeg"
       },
       {
-        "clusterId": "f8865c2f9eb826e2",
-        "slug": "11d401de4a3bc1eb",
-        "titulo": "Copa do Brasil Sub-20 2026: São Paulo enfrenta Ceará",
-        "resumo": "O São Paulo e o Ceará se enfrentam na Copa do Brasil Sub-20 2026, com ambos os times buscando avançar na competição. A partida será acompanhada em tempo real, incluindo escalações e fotos. O jogo faz parte do calendário de clubes brasileiros de base. A cobertura oferece informações detalhadas sobre o confronto.",
-        "porQueImporta": "O resultado pode influenciar a posição dos times na fase de grupos e o desenvolvimento de jovens talentos.",
+        "clusterId": "cc68aae3f1b84290",
+        "slug": "c973af0a95e7cc4f",
+        "titulo": "Wladimir Mattos renuncia à candidatura e apoia Ivan Luduvice na eleição do Santos",
+        "resumo": "O candidato à presidência do Santos, Wladimir Mattos, desistiu de concorrer e se juntou à chapa de Ivan Luduvice como vice-presidente. Mattos havia sido eleito na última eleição, ficando em quinto lugar com 562 votos. A decisão abre espaço para a chapa de Luduvice, que tem se destacado nas redes sociais com uma campanha virtual.",
+        "porQueImporta": "A mudança de candidatura pode influenciar a composição da diretoria do clube e a direção futura do Santos.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/sp/mogi-das-cruzes-suzano/futebol/copa-do-brasil-sub-20/jogo/05-11-2026/sao-paulo-ceara.ghtml"
+            "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/11/05/wladimir-mattos-abre-mao-de-candidatura-no-santos-e-vai-apoiar-chapa-de-ivan-luduvice.ghtml"
           }
         ],
-        "updatedAt": "2026-11-05T19:32:55.000Z"
-      },
-      {
-        "clusterId": "62bc1ff57d177a3c",
-        "slug": "e68e78e9642fb6e7",
-        "titulo": "Noruega sobe para quarto lugar no ranking de artilharia da Champions 2026/27",
-        "resumo": "Na fase de liga da Champions 2026/27, a Noruega alcançou a quarta posição no ranking de artilharia por país, com 18 gols marcados. O avanço ocorreu após a quarta rodada, quando os nórdicos marcaram seis gols, igualando os líderes Espanha e França. O Brasil manteve a sétima posição, embora tenha melhorado seu total de gols. A Itália também entrou na lista dos dez melhores artilheiros.",
-        "porQueImporta": "O desempenho da Noruega destaca a competitividade crescente dos times nórdicos na Champions League.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/gato-mestre/noticia/2026/11/05/artilharia-da-champions-por-pais-noruega-sobe-para-o-4o-lugar-brasil-faz-mais-gols-mas-segue-em-7o.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-05T19:19:33.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/i1qBVaGwuIZ5BT-ixaNKw1qq2Og=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/m/t/cdBAH2SRKP1bdqNfeFDg/afp-20261104-d6ga7wn-v1-highres-fbleurc1leipzigmancity.jpg"
-      },
-      {
-        "clusterId": "e1f5adf7d12e0f4c",
-        "slug": "d0b44774f6cf1884",
-        "titulo": "Alan Patrick é absolvido no STJD, presidente do Inter é suspenso por 30 dias",
-        "resumo": "O meia Alan Patrick foi julgado pelo STJD e absolvido após a derrota do Inter para o Fluminense, ficando disponível para o Brasileirão caso seja liberado pelo médico. O presidente do Inter, porém, foi suspenso por 30 dias. A decisão foi tomada na tarde de quinta-feira.",
-        "porQueImporta": "A absolvição de Patrick mantém a opção de reforço no Inter, enquanto a suspensão do presidente pode impactar a gestão do clube.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/rs/futebol/times/internacional/noticia/2026/11/05/alan-patrick-e-absolvido-no-stjd-mas-presidente-do-inter-e-suspenso-por-30-dias.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-05T19:19:12.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/WO-rMp7qIdpsBXA9ikbijz1LUpw=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/b/C/Bb2S9uRQK7jzcsfmzqaw/55618535729-055b9a1b85-k.jpg"
-      },
-      {
-        "clusterId": "3169d8e5775bb6e3",
-        "slug": "e5d00f55816849f5",
-        "titulo": "Nacional-AM mira zagueiro Tibúrcio para 2027",
-        "resumo": "O Nacional-AM está avaliando a contratação do zagueiro Tibúrcio, de 26 anos, ex-jogador do Manauara. O defensor participou do Campeonato Amazonense, Copa do Brasil e Série D em 2024. A diretoria do clube mantém conversas para um possível acordo.",
-        "porQueImporta": "A contratação pode fortalecer a defesa do Nacional-AM na próxima temporada.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/am/futebol/times/nacional-am/noticia/2026/11/05/ex-manauara-zagueiro-tiburcio-entra-na-mira-do-nacional-am-para-2027.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-05T19:18:49.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/ESBaTXC94E3yimRM1GsBJxde81I=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/m/Y/Jsyjg2S3mKcB6lFeKR0w/gemini-generated-image-ufztvnufztvnufzt.jfif"
+        "updatedAt": "2026-11-06T00:11:47.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/J0uxmwF-4y0TbLQIuRvRN3MWHDE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Q/m/kbOkiwTxqAqBJf3t5BLw/whatsapp-image-2026-11-03-at-16.26.05-1-.jpeg"
       }
     ],
     "entretenimento": [
       {
-        "clusterId": "b15c31201e90045c",
+        "clusterId": "0010ce68e7eab4dd",
         "slug": "ae951e280702554e",
         "titulo": "Shows de Jorge e Mateus cancelados no Nordeste após críticas a posicionamento político",
         "resumo": "A dupla sertaneja Jorge e Mateus teve os shows de Réveillon cancelados em Fortaleza e Recife, depois de críticas nas redes sociais ao posicionamento político de Jorge, que apoiou Flávio Bolsonaro. Jorge afirmou que as falas atribuídas a ele sobre o povo nordestino são falsas e expressou gratidão pela região. O cancelamento foi decidido pelas prefeituras locais.",
@@ -1313,32 +1344,64 @@
         "category": "entretenimento",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/cultura/jorge-da-dupla-com-mateus-esta-abalado-com-boicote-feito-por-nordestinos/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/musica/salvador-confirma-jorge-e-mateus-no-reveillon-apos-cancelamentos-em-pe-e-ce/"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/pop-arte/sertanejo/noticia/2026/11/04/jorge-e-mateus-entenda-caso-de-shows-cancelados-no-nordeste-e-o-que-diz-membro-da-dupla.ghtml"
           }
         ],
-        "updatedAt": "2026-11-05T18:01:36.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/jorge.jpg"
+        "updatedAt": "2026-11-05T22:15:47.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/7knCycLZf7r1dsiPIwX_tExxL88=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/f/Ef5EllSAK5nfzOOPWf4Q/jorge-e-mateus.jpg"
       },
       {
-        "clusterId": "00de7900a6e807db",
-        "slug": "f2458ffda6d2636a",
-        "titulo": "Turma do Pagode fala sobre parceria com grupos de pagode mais jovens",
-        "resumo": "O grupo Turma do Pagode, com 30 anos de carreira, participou de um podcast do G1 para comentar sua relação com bandas de pagode mais novas. Destacou a colaboração com o Grupo Chocolate na faixa \"Alô Virgínia\", que se tornou um sucesso inesperado. O grupo enfatiza que valoriza a chegada de novos talentos e mantém convites abertos a grupos de menor expressão.",
-        "porQueImporta": "A iniciativa demonstra a continuidade e renovação do gênero pagode, reforçando a importância de apoiar novos artistas.",
+        "clusterId": "29328bf79f0f845f",
+        "slug": "b3023d2830a4f14d",
+        "titulo": "Papa Leão XIV recebe Bob Dylan no Vaticano",
+        "resumo": "Na quarta-feira, o Papa Leão XIV teve uma audiência privada com o músico Bob Dylan no Palácio Apostólico. O encontro ocorreu no escritório do papa, onde ambos foram fotografados. Dylan, de 71 anos, apareceu com roupas casuais, enquanto o papa usava sua batina branca. A reunião foi divulgada nas redes sociais do jornal do Vaticano.",
+        "porQueImporta": "Ilustra a abertura da Igreja Católica a figuras culturais contemporâneas.",
         "category": "entretenimento",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/11/05/turma-do-pagode-celebra-relacao-com-novos-grupos-de-pagode-quanto-mais-surgirem-melhor.ghtml"
+            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/05/viagem-de-leao-xiv-pela-america-latina-visa-superar-polarizacoes-sociais-e-promover-reconciliacao-diz-vaticano.ghtml"
           }
         ],
-        "updatedAt": "2026-11-05T18:52:55.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/gyPBzj1bI1Ke7QdshiW_sb2Skt4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/Q/Mxf1L9TOWoXJFGyVkBWw/g1-ouviu-2-1.jpg"
+        "updatedAt": "2026-11-06T00:41:13.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/TCt030vnHh44eSHm74lNs6_QnIk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/i/jbLkJkRWKhvH1zMVN9Uw/globo-canal-4-20261105-2000-frame-89312.jpeg"
+      },
+      {
+        "clusterId": "00de7900a6e807db",
+        "slug": "d938a5f5a28ee7c4",
+        "titulo": "Turma do Pagode entrevista no g1 e destaca parceria com novos grupos",
+        "resumo": "O grupo Turma do Pagode participou de um podcast ao vivo no g1, transmitido também no YouTube e TikTok. Durante a entrevista, os músicos falaram sobre a importância de colaborar com bandas de pagode mais jovens, citando o sucesso da faixa \"Alô Virgínia\" gravada com o Grupo Chocolate. Eles ressaltaram que não há garantias de sucesso, mas mantêm carinho por quem está surgindo. A entrevista reforça a tradição do grupo de 30 anos e sua abertura a novas gerações.",
+        "porQueImporta": "Mostra a continuidade e influência do Turma do Pagode no cenário musical atual.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/ao-vivo/grupo-turma-do-pagode-e-entrevistado-no-g1-ouviu-ao-vivo-desta-quinta-feira-5.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-05T19:37:32.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/JskcAabjDo2o-sz_0CV9JO2nm88=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/N/4NPL6RSiCKmdZLh2DAuA/whatsapp-image-2026-11-03-at-15.23.10-1-.jpeg"
+      },
+      {
+        "clusterId": "b5f1f05816693881",
+        "slug": "e58b65d292edde31",
+        "titulo": "Paulinho da Viola e Marcos Valle anunciam parceria para gravar samba sofisticado",
+        "resumo": "Paulinho da Viola e Marcos Valle confirmaram que irão gravar juntos um samba sofisticado. A composição já foi entregue a Paulinho, que escreverá a letra, e agora será finalizada com arranjos. A colaboração foi anunciada durante o festival Rock the Mountain 2026.",
+        "porQueImporta": "A união de dois grandes nomes da música brasileira pode trazer um novo estilo ao cenário musical.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/05/paulinho-da-viola-e-marcos-valle-abrem-parceria-com-samba-sofisticado-que-gravarao-juntos.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-05T18:16:33.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/pavghyRDetUI1cm0YOqQfZynfHc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/9/wU6xpHRXCoSzO0OxEb5w/marcosvallepaulinhodaviola.jpg"
       },
       {
         "clusterId": "6c2566be084d21c3",
@@ -1403,38 +1466,6 @@
         ],
         "updatedAt": "2026-11-05T12:04:00.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/KDMxBxFUj3zncYykZh9RRaZXEa8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/1/xWt3pVRwSmo9B0WFtEAQ/gloriarodolfomagalhes.jpg"
-      },
-      {
-        "clusterId": "bf6bbbf19f800dc9",
-        "slug": "cd8691a3167775f4",
-        "titulo": "Mu Carvalho publica autobiografia musical",
-        "resumo": "Mu Carvalho, pianista, compositor e produtor carioca, lançou a autobiografia “Memórias sintetizadas”, que narra sua trajetória musical iniciada na década de 1970 com os grupos Semente e A Cor do Som. O livro descreve as alegrias e tensões vividas no seu quintal, descrito como um vasto mundo musical. A obra reúne memórias pessoais e profissionais, refletindo a influência de sua carreira no cenário musical brasileiro.",
-        "porQueImporta": "A publicação oferece uma visão íntima da evolução de um artista influente no panorama musical nacional.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/05/mu-carvalho-sintetiza-memorias-em-livro-com-alegrias-e-tensoes-de-quintal-que-abriga-um-vasto-mundo-musical.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-05T11:05:10.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/bU6sMLb5IvcM5bc1N7JVzrKfaaM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/B/Su2v9KT8WO3FjVHyRjdg/mumemoriasfotocapalivro.jpg"
-      },
-      {
-        "clusterId": "a06f6c547e8bc0f3",
-        "slug": "6c39553b8c77c056",
-        "titulo": "Marília Mendonça comemora cinco anos após morte com recordações de último show e presença no Spotify",
-        "resumo": "Cinco anos se passaram desde o acidente aéreo que tirou a vida da cantora Marília Mendonça em novembro de 2021. O último show, em Sorocaba, permanece vivo na memória dos fãs, com relatos de bastidores e emoções vividas. A artista continua no Top 5 das músicas mais ouvidas no Spotify, com a faixa \"Leão\" ocupando posição de destaque. Fãs e profissionais do setor lembram o impacto da perda e o legado da cantora.",
-        "porQueImporta": "A memória e influência de Marília Mendonça persistem, refletindo seu impacto cultural e comercial no cenário musical brasileiro.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/sertanejo/noticia/2026/11/05/cinco-anos-apos-morte-marilia-mendonca-se-mantem-no-top-5-das-musicas-mais-ouvidas-da-historia-no-spotify.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-05T07:00:01.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/90JNGd0oxYcnt_FhBTUkJ6dTiFg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/V/Uu8KIVQFCwkQ0dMacwKg/marilia-mendonca-sertaneja.jpg"
       }
     ]
   }
