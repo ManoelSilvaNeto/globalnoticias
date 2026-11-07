@@ -1,11 +1,10 @@
 {
-  "ranAt": "2026-11-07T14:42:49.277Z",
+  "ranAt": "2026-11-07T19:56:02.791Z",
   "editionDate": "2026-11-07",
-  "hourUtc": 14,
-  "outcome": "not-generated",
-  "reason": "IA fora ou validação reprovou",
+  "hourUtc": 19,
+  "outcome": "generated",
+  "reason": "\"Segurança pública, justiça internacional e eleições moldam o cenário global\" (4 parágrafos)",
   "attempts": [
-    "reprovado — poucos parágrafos (1)",
-    "erro — Error: cerebras 402: {\"message\":\"Payment required to access this resource. Visit your billing tab.\",\"type\":\"payment_requ"
+    "ok"
   ]
 }
