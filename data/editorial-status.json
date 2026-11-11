@@ -1,8 +1,10 @@
 {
-  "ranAt": "2026-11-11T04:59:50.455Z",
+  "ranAt": "2026-11-11T15:54:03.324Z",
   "editionDate": "2026-11-11",
-  "hourUtc": 4,
-  "outcome": "skipped",
-  "reason": "fora da janela (4h < 11h UTC)",
-  "attempts": []
+  "hourUtc": 15,
+  "outcome": "generated",
+  "reason": "\"Política, Justiça e Economia se entrelaçam em pauta de privacidade, controle institucional e reformas fiscais\" (3 parágrafos)",
+  "attempts": [
+    "ok (entidades fora do material toleradas: economia)"
+  ]
 }
