@@ -1,34 +1,66 @@
 {
   "date": "2026-11-14",
-  "generatedAt": "2026-11-14T17:43:23.208Z",
+  "generatedAt": "2026-11-14T23:41:08.101Z",
   "home": [
     {
-      "clusterId": "556f0c93a163bc37",
-      "slug": "ca44c322a6a34520",
-      "titulo": "Suspensão de todas as decolagens nos EUA por falha de comunicação",
-      "resumo": "A Administração Federal de Aviação dos EUA (FAA) determinou a suspensão de todas as decolagens em aeroportos americanos, após falha nos sistemas de comunicação dos centros de controle de tráfego aéreo. A medida, tomada por motivos de segurança, faz com que voos programados permaneçam no solo até novo aviso. Mais de 10 mil voos foram afetados, incluindo rotas entre Brasil e EUA. Companhias aéreas e passageiros são orientados a verificar status junto às operadoras.",
-      "porQueImporta": "Impacta viagens internacionais e destaca vulnerabilidades nos sistemas de controle aéreo dos EUA.",
-      "category": "mundo",
+      "clusterId": "ca853c7541e99c52",
+      "slug": "1cf39ae9a9297468",
+      "titulo": "Ministro Dino defende negociação coletiva na transição da escala 6×1 para 5×2",
+      "resumo": "Flávio Dino manteve a liminar que estabelece o início da jornada de 5 dias a partir de 16 de dezembro, ressaltando que não existe texto perfeito e que a transição deve ser negociada entre sindicatos e empregadores. O ministro afirmou que a liminar não cria exceções à nova jornada nem permite acordos individuais. Luiz Fux interrompeu o julgamento no ambiente virtual e transferiu a análise para o plenário físico, onde quatro ministros já haviam votado a favor da decisão de Dino. A Câmara dos Deputados pediu que o STF revise parte das regras, mas concorda com a manutenção do calendário aprovado pelo Congresso.",
+      "porQueImporta": "A decisão define como será implementada a nova jornada de trabalho no país, afetando milhões de trabalhadores e setores como saúde e aviação.",
+      "category": "politica",
       "sources": [
         {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/11/14/carros-e-tecnologia/suspensao-de-voos-nos-eua-provoca-cancelamentos-e-alteracoes-no-trafego-aereo-do-brasil/"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/brasil/dino-defende-folga-negociada-na-5x2-e-diz-que-decisao-perfeita-nao-existe"
         },
         {
           "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/eua-tem-voos-cancelados-neste-sabado-apos-suspensao-aerea/"
+          "url": "https://www.poder360.com.br/poder-justica/dino-defende-negociacao-coletiva-na-transicao-para-jornada-de-5-dias/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/noticias/mais-de-4-mil-voos-sao-cancelados-nos-eua-neste-sabado-14/"
+          "url": "https://www.cnnbrasil.com.br/politica/apos-criticas-dino-defende-decisao-sobre-6x1-texto-perfeito-nao-existe/"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/fim-da-6x1-fux-interrompe-julgamento-e-analise-de-dino-vai-para-o-plenario-fisico/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/fux-interrompe-julgamento-sobre-escala-5x2-no-stf-e-leva-discussao-ao-plenario-fisico/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/fux-pede-destaque-e-interrompe-julgamento-sobre-implementacao-do-fim-da-escala-6x1/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/politico/noticia/2026/11/14/fux-suspende-julgamento-sobre-escala-5x2-e-leva-caso-para-plenario-fisico-do-stf.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-14T23:18:03.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/11/ministro-flavio-dino-audiencia-de-conciliacao-implementacao-do-fim-da-escala-de-trabalho-6x1-a-audiencia-reune-representantes-de-confederacoes-empresariais-metropoles-10-scaled.jpg"
+    },
+    {
+      "clusterId": "02eb1453e236d0db",
+      "slug": "95ca5171a1f0257c",
+      "titulo": "Suspensão de voos nos EUA causa efeito cascata e impacta Brasil",
+      "resumo": "A FAA suspendeu todas as decolagens nos Estados Unidos por cerca de quatro horas, em decorrência de falhas de comunicação no controle de tráfego aéreo. O bloqueio gerou atrasos e sobrecarga em trens e aeroportos, afetando voos globais. A Força Aérea Brasileira monitorou a situação e avaliou ajustes no fluxo aéreo nacional, considerando realocação de aeronaves se necessário.",
+      "porQueImporta": "O incidente demonstra como interrupções nos EUA podem repercutir no tráfego aéreo internacional e no transporte terrestre.",
+      "category": "mundo",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-infra/pane-nos-eua-afeta-21-de-29-voos-do-brasil-para-o-pais/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/mundo/caos-aereo-continua-nos-eua-apos-pane-com-5-mil-voos-cancelados-neste-sabado/"
         },
         {
           "name": "DW Brasil",
           "url": "https://www.dw.com/pt-br/após-pane-aérea-eua-avisam-que-normalização-dos-voos-levará-tempo/a-79945256?maca=bra-rss-br-all-1030-rdf"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/o-que-causou-a-pane-nos-eua-14-perguntas-e-respostas-sobre-a-paralisacao-dos-voos/"
         },
         {
           "name": "CartaCapital",
@@ -39,124 +71,172 @@
           "url": "https://g1.globo.com/mundo/noticia/2026/11/14/eua-retomam-voos-apos-falha-no-controle-de-trafego-aereo-provocar-caos-nos-aeroportos.ghtml"
         }
       ],
-      "updatedAt": "2026-11-14T16:20:40.000Z",
+      "updatedAt": "2026-11-14T22:43:52.000Z",
       "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/aviao-nos-eua-Foto-por-CHARLY-TRIBALLEAU-AFP.jpg"
     },
     {
-      "clusterId": "dbe5d9e68f932944",
-      "slug": "6b7e5fa71e3d2867",
-      "titulo": "Renúncia de Jensen Huang deixa Nvidia em crise",
-      "resumo": "O CEO da Nvidia, Jensen Huang, renunciou após revelações de três casos extraconjugais, incluindo um com uma suposta espiã chinesa, e suspeitas de espionagem envolvendo chips avançados. A saída provocou a perda de mais de US$ 1 trilhão em valor de mercado da empresa e a convocação de Huang para depor no Congresso dos EUA. O conselho da Nvidia afirmou que as especulações sobre sucessores são prematuras, enquanto funcionários pedem maior transparência sobre a transição.",
-      "porQueImporta": "A crise pode afetar a confiança dos investidores e a segurança nacional nos EUA.",
-      "category": "economia",
+      "clusterId": "0090eed639482f95",
+      "slug": "329e750629b793f9",
+      "titulo": "Mais de 100 mil protestam na França contra alta do custo de vida",
+      "resumo": "Em 14 de novembro, mais de 100 mil pessoas marcharam em toda a França, incluindo estudantes e membros dos Coletes Amarelos, para protestar contra o aumento do custo de vida e a violência policial. A maioria das manifestações foi pacífica, mas a polícia utilizou gás lacrimogêneo após um grupo tentar desviar do percurso em Paris. Em Lyon, uma equipe da BFMTV foi agredida, e o governo registrou 219 detenções. Os organizadores estimam que o número de manifestantes pode chegar a 200 mil.",
+      "porQueImporta": "O protesto reflete a crescente insatisfação popular com a política econômica e a segurança pública, pressionando o governo a repensar suas medidas.",
+      "category": "geral",
       "sources": [
         {
           "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/nvidia-nega-busca-por-ceo-depois-de-renuncia-de-huang/"
+          "url": "https://www.poder360.com.br/poder-internacional/mais-de-100-mil-protestam-na-franca-contra-alta-do-custo-de-vida/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/mais-de-100-mil-pessoas-participam-de-protestos-em-toda-a-franca/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/protestos-na-franca-reunem-100-mil-pessoas-e-equipe-de-tv-e-agredida"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/tecnologia/noticia/2026/11/14/cronologia-crise-nvidia.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/14/protestos-levam-mais-de-100-mil-pessoas-as-ruas-na-franca-equipe-de-tv-e-agredida-em-lyon.ghtml"
         },
         {
-          "name": "Canaltech",
-          "url": "https://canaltech.com.br/hardware/tragam-o-chefe-volta-funcionarios-da-nvidia-se-opoem-a-saida-de-jensen-huang/"
+          "name": "Exame",
+          "url": "https://exame.com/mundo/franca-tem-novos-protestos-contra-custo-de-vida-e-projeto-de-lei-sobre-policiais/"
+        }
+      ],
+      "updatedAt": "2026-11-14T22:42:54.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/11/franca-protesto-nov2026.jpeg"
+    },
+    {
+      "clusterId": "f5e8db84ef16bba7",
+      "slug": "2ae760a4f1bc2fa1",
+      "titulo": "Romário critica Ancelotti e pede saída após derrota do Brasil para o Japão",
+      "resumo": "Após a derrota do Brasil por 3 a 2 para o Japão em amistoso internacional, Romário criticou o trabalho do técnico Carlo Ancelotti e pediu que o treinador deixe a seleção. O ex-jogador também exigiu ação da CBF, chamando o presidente Samir Xaud para tomar providências. Ancelotti, que já havia sido expulso em outro jogo, defendeu a arbitragem e apontou pontos positivos na equipe.",
+      "porQueImporta": "A reação de Romário destaca a insatisfação com a gestão técnica da seleção e pode influenciar decisões da CBF sobre o futuro do treinador.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/esportes/romario-pede-saida-de-ancelotti-da-selecao-apos-brasil-japao/"
         },
         {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/ckwy8vdnwwlyo?at_medium=RSS&at_campaign=rss"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/romario-detona-ancelotti-apos-derrota-do-brasil-e-faz-apelo-mete-o-pe/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/14/romario-detona-ancelotti-na-selecao-pega-tuas-coisas-e-mete-o-pe.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/esporte/faca-as-malas-e-va-embora-romario-pede-saida-de-ancelotti-apos-derrota-para-o-japao/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/esporte/romario-detona-ancelotti-apos-derrota-manda-ele-pra-casa-do-c/"
+        }
+      ],
+      "updatedAt": "2026-11-14T20:30:00.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2019/06/romario-1.jpg?fit=300%2C205&amp;quality=70&amp;strip=all"
+    },
+    {
+      "clusterId": "fa5ba706791f1927",
+      "slug": "6a8bfc222385424f",
+      "titulo": "Ex-CEO da Nvidia renuncia após escândalo de traição e suspeita de espionagem chinesa",
+      "resumo": "Jensen Huang, ex-CEO da Nvidia, renunciou ao cargo depois de um caso extraconjugal que se vinculou a suspeitas de espionagem envolvendo uma executiva chinesa. O escândalo resultou na perda de quase meio trilhão de dólares do valor de mercado da empresa e levou Huang a ser convocado pelo Congresso dos EUA para depor. A situação gerou preocupações sobre segurança nacional e instabilidade na indústria de inteligência artificial.",
+      "porQueImporta": "O caso demonstra como questões pessoais podem afetar significativamente o valor de mercado e a confiança em empresas de tecnologia de ponta.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/metropoles-games/elon-musk-fala-em-trabalhar-com-ex-ceo-da-nvidia-apos-escandalo-de-traicao"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/carreira/ceo-da-nvidia-perdeu-o-cargo-e-bilhoes-apos-escandalo-de-traicao-e-se-fosse-no-brasil/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/13/congresso-dos-eua-convoca-ex-ceo-da-nvidia-apos-caso-com-suposta-espia-chinesa.ghtml"
         },
         {
           "name": "Super Interessante",
           "url": "https://super.abril.com.br/sociedade/caso-nvidia-uma-linha-do-tempo-do-escandalo-extraconjugal-a-renuncia-do-ceo-huang/"
-        },
-        {
-          "name": "DW Brasil",
-          "url": "https://www.dw.com/pt-br/escândalo-de-traição-com-suposta-espiã-chinesa-leva-a-renúncia-de-jensen-huang-como-ceo-da-nvidia/a-79928053?maca=bra-rss-br-all-1030-rdf"
         }
       ],
-      "updatedAt": "2026-11-14T17:38:34.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/KHAYXnFNw9TMiNyASv2as4vHkqk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/S/TKeMkiRcKerUXLt8uFiQ/ap26312766429671.jpg"
+      "updatedAt": "2026-11-14T22:13:03.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/03/captura-de-tela-2026-03-04-180037-e1785793971500.jpg"
     },
     {
-      "clusterId": "c2a3b7167de88aa9",
-      "slug": "85ffa2d216eb312d",
-      "titulo": "EUA sugerem que Ucrânia ceda Donbas para entrar na Otan",
-      "resumo": "Os Estados Unidos propuseram que a Ucrânia retirasse suas tropas das áreas de Donbas ainda sob controle russo em troca de adesão à OTAN. O presidente Volodymyr Zelensky afirmou que a proposta foi apresentada pela primeira vez e que a decisão final caberia à sociedade ucraniana. Zelensky também alertou que Moscou poderia aproveitar a situação caso a Ucrânia concordasse. A proposta foi discutida em reuniões de paz em Abu Dhabi e em cúpulas da União Europeia.",
-      "porQueImporta": "A proposta pode redefinir a dinâmica de segurança na região e influenciar a relação da Ucrânia com a OTAN e com a Rússia.",
+      "clusterId": "430963758b79a663",
+      "slug": "349b5af073f9a944",
+      "titulo": "Lula cancela discursos nas Filipinas por rouquidão",
+      "resumo": "Durante sua primeira visita oficial às Filipinas, o presidente Luiz Inácio Lula da Silva cancelou dois compromissos oficiais, incluindo uma declaração à imprensa e um pronunciamento em fórum empresarial, devido à rouquidão que enfrenta há mais de quinze dias. O Palácio do Planalto divulgou os textos que seriam apresentados. Lula continuou a participar da Cúpula da ASEAN e se reuniu com o presidente filipino Ferdinand Marcos Jr., discutindo a integração de cadeias produtivas de minerais críticos e semicondutores.",
+      "porQueImporta": "A mudança de agenda demonstra a importância de saúde na agenda diplomática e a continuidade das relações bilaterais entre Brasil e Filipinas.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-governo/lula-cancela-discurso-nas-filipinas-por-rouquidao-na-voz/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/14/lula-cancela-discurso-e-declaracao-a-imprensa-nas-filipinas-por-causa-de-rouquidao.ghtml"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/lula-cancela-dois-discursos-nas-filipinas-apos-ficar-sem-voz/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/lula-leva-as-filipinas-discurso-sobre-democracia-e-minerais-criticos/"
+        }
+      ],
+      "updatedAt": "2026-11-14T21:48:14.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/55649135927_a34a698f74_o.jpg"
+    },
+    {
+      "clusterId": "6936f16f429b699b",
+      "slug": "f6c10501586feb23",
+      "titulo": "EUA sugerem retirada ucraniana de Donbass em troca de adesão à OTAN",
+      "resumo": "Os Estados Unidos propuseram que a Ucrânia retirasse suas tropas das áreas de Donbass ainda sob controle russo para possibilitar a adesão à OTAN. O presidente Volodymyr Zelensky afirmou que a proposta foi levantada em encontros internacionais, mas que Kiev não abrirá mão de seu território. Zelensky alertou que a Rússia pode aproveitar a situação para fortalecer sua posição. A proposta não foi aceita pela Ucrânia, que mantém sua posição de não ceder território.",
+      "porQueImporta": "A proposta pode influenciar a dinâmica de segurança na região e a relação da Ucrânia com a OTAN.",
       "category": "mundo",
       "sources": [
         {
           "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mundo/eua-levantam-hipotese-de-ucrania-ceder-donbas-a-russia-em-troca-da-otan/"
+          "url": "https://www.infomoney.com.br/mundo/eua-sondam-ucrania-sobre-saida-de-donbass-em-troca-de-adesao-a-otan-diz-zelenski/"
         },
         {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/eua-sugerem-que-ucrania-ceda-donbas-para-entrar-na-otan/"
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/governo-dos-eua-propoe-que-ucrania-ceda-territorio-em-troca-de-adesao-a-otan-diz-zelensky/"
         },
         {
           "name": "DW Brasil",
           "url": "https://www.dw.com/pt-br/zelenski-diz-que-eua-propuseram-à-ucrânia-ceder-território-a-moscou-para-entrar-na-otan/a-79949054?maca=bra-rss-br-all-1030-rdf"
         },
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/eua-cogitam-adesao-da-ucrania-a-otan-em-troca-de-donbas/"
-        },
-        {
           "name": "G1",
           "url": "https://g1.globo.com/mundo/noticia/2026/11/14/eua-propoem-que-ucrania-ceda-territorio-a-russia-em-troca-de-entrada-na-otan-diz-zelensky.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/mundo/zelensky-diz-que-os-eua-propuseram-troca-de-territorio-com-a-russia-por-entrada-da-ucrania-na-otan/"
         }
       ],
-      "updatedAt": "2026-11-14T17:23:53.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/PUTIN-ASSESS-2-e1792698817948.jpg?fit=300%2C202&amp;quality=70&amp;strip=all"
+      "updatedAt": "2026-11-14T21:00:00.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Zelensky-e1783798896628.jpg?fit=300%2C196&amp;quality=70&amp;strip=all"
     },
     {
-      "clusterId": "9242734596299648",
-      "slug": "acb0dc95947040b7",
-      "titulo": "Itália multou Meta em 805 milhões de euros por acesso a fotos e vídeos de usuários do Android",
-      "resumo": "A Autoridade de Proteção de Dados da Itália multou a Meta em 805 milhões de euros, equivalente a cerca de 5 bilhões de reais, por ter acessado fotos e vídeos de 20 milhões de usuários do Android sem consentimento ou aviso prévio. A decisão faz parte de uma série de sanções aplicadas à empresa na Europa por violações de privacidade. A Meta tem 60 dias para alterar a configuração do Facebook que permite esse acesso.",
-      "porQueImporta": "A multa reforça a fiscalização de privacidade de dados na União Europeia e destaca a responsabilidade das plataformas digitais sobre o conteúdo dos usuários.",
-      "category": "economia",
+      "clusterId": "2bcda361dff9ebec",
+      "slug": "17806b746d19b1a2",
+      "titulo": "Suspensão de voos nos EUA é a segunda paralisação nacional desde o 11 de Setembro",
+      "resumo": "Os Estados Unidos suspenderam todas as decolagens em aeroportos do país por motivos de segurança, sendo a segunda paralisação nacional desde o ataque de 11 de Setembro. A medida foi tomada pela FAA após falhas no sistema de informações aeronáuticas, que já causou cancelamentos em 2023. A paralisação afeta milhares de voos e gera atrasos em toda a rede aérea americana.",
+      "porQueImporta": "A interrupção de voos em todo o país destaca vulnerabilidades críticas na infraestrutura de aviação dos EUA.",
+      "category": "mundo",
       "sources": [
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/italia-multa-meta-em-805-milhoes-de-euros-por-acesso-a-dados-de-usuarios/"
+          "name": "DW Brasil",
+          "url": "https://www.dw.com/pt-br/eua-atribuem-pane-aérea-a-troca-de-cabos-de-cobre-por-fibra-ótica/a-79949623?maca=bra-rss-br-all-1030-rdf"
         },
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/a-multa-bilionaria-aplicada-pela-italia-a-meta-por-acesso-de-fotos-sem-consentimento/"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/business/italia-multa-meta-em-us-887-milhoes-por-acesso-a-dados-de-usuarios-do-android/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/tecnologia/noticia/2026/11/14/italia-multa-meta.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-14T17:04:11.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/GettyImages-2297798363.jpg"
-    },
-    {
-      "clusterId": "2eb8472a863954ae",
-      "slug": "9566408c68003ad5",
-      "titulo": "Troca de cabos de cobre por fibra óptica causa paralisação de voos nos EUA",
-      "resumo": "O governo dos Estados Unidos atribui a paralisação de decolagens em todo o país a uma falha ocorrida durante a substituição de cabos de cobre por fibra óptica em sistemas de controle de tráfego aéreo. O secretário de Transportes, Sean Duffy, descartou a hipótese de ataque hacker. A interrupção durou cerca de quatro horas, resultando em milhares de cancelamentos e atrasos em voos nacionais e internacionais.",
-      "porQueImporta": "O incidente afetou a operação aérea em escala nacional, demonstrando a vulnerabilidade de sistemas críticos a falhas técnicas.",
-      "category": "economia",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/eua-governo-trump-diz-que-troca-de-fios-causou-apagao-e-descarta-ataque"
-        },
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/pane-aerea-nos-eua-governo-afirma-que-troca-de-cabos-para-fibra-optica-causou-apagao/"
+          "name": "BBC Brasil",
+          "url": "https://www.bbc.com/portuguese/articles/ckd71ne91y79o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "G1",
@@ -167,20 +247,20 @@
           "url": "https://exame.com/mundo/troca-de-cabos-paralisou-voos-nos-eua-e-gerou-efeito-em-cadeia-nos-aeroportos-diz-governo-trump/"
         }
       ],
-      "updatedAt": "2026-11-14T16:40:50.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/11/caos-aereo-nos-aeroportos-dos-eua.jpg"
+      "updatedAt": "2026-11-14T18:40:00.000Z",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d57c/live/676b2ae0-e053-11f1-86b0-57f3dba41115.jpg"
     },
     {
-      "clusterId": "8e6edecf97ef8665",
-      "slug": "50744bb7096333f5",
-      "titulo": "Microsoft registra falha global em Outlook, Teams e Copilot",
-      "resumo": "Em 12 e 13 de outubro, serviços da Microsoft, incluindo Outlook, Teams e Copilot, ficaram indisponíveis em mais de 70 países devido a um problema técnico de infraestrutura, não relacionado a cibersegurança ou inteligência artificial. A empresa informou que a falha está sendo gradualmente restaurada e descartou a hipótese de ataque hacker. Enquanto os serviços voltam a operar, usuários relataram dificuldades de acesso e alguns ainda enfrentam interrupções. A Microsoft alerta para campanhas de golpe que aproveitam a instabilidade, pedindo cautela ao clicar em links suspeitos.",
-      "porQueImporta": "A interrupção afetou milhões de usuários e operações empresariais, destacando a importância da confiabilidade dos serviços de produtividade corporativa.",
+      "clusterId": "8270fc6ce8dd027a",
+      "slug": "11cd445cff8b37b6",
+      "titulo": "Microsoft resolve falha global que afetou Outlook, Teams e Copilot",
+      "resumo": "Em 12 e 13 de outubro, a Microsoft sofreu uma falha global que deixou indisponíveis serviços como Outlook, Teams e Copilot em mais de 70 países, impactando milhões de usuários, governos e empresas. A empresa descartou ataque hacker e atribuiu o problema a carga elevada na infraestrutura, iniciando reparos que culminaram no restabelecimento completo dos serviços em 14 de outubro. Durante o período de interrupção, surgiram campanhas de golpe que exploraram a instabilidade para tentar obter dados dos usuários.",
+      "porQueImporta": "A indisponibilidade de serviços essenciais de comunicação e produtividade afetou operações críticas em setores públicos e privados, destacando a importância da resiliência de infraestruturas digitais.",
       "category": "economia",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/tecnologia/pane-na-microsoft-a-situacao-confirmada-pela-empresa-apos-problema-no-outlook-teams-e-copilot/"
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/mundo/microsoft-restabelece-outlook-e-teams-apos-pane-global-de-24-horas/"
         },
         {
           "name": "G1",
@@ -195,120 +275,92 @@
           "url": "https://canaltech.com.br/apps/apagao-da-microsoft-ja-afeta-74-paises-e-passa-de-18-horas-ataque-hacker-e-descartado/"
         }
       ],
-      "updatedAt": "2026-11-14T16:09:33.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/AFP__20261113__D7DX7NQ__v1__HighRes__FilesIndiaUsMicrosoftTechnology.jpg"
+      "updatedAt": "2026-11-14T17:58:26.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/AFP__20261113__D7CU848__v2__MidRes__JapanUsTechnologyMicrosoft.jpg"
     },
     {
-      "clusterId": "14d46f8902ded406",
-      "slug": "d2d4a094e28ede2b",
-      "titulo": "Reunião trilateral entre Trump, Xi e Putin na China",
-      "resumo": "O presidente dos EUA, Donald Trump, se reunirá com os líderes da Rússia e da China, Vladimir Putin e Xi Jinping, na próxima semana, durante a cúpula da APEC. O encontro, previsto para 19 de novembro, abordará a proliferação nuclear e a guerra no Oriente Médio. A Casa Branca afirmou que a reunião pode gerar uma foto histórica, mas analistas consideram pouco provável que resulte em acordos concretos.",
-      "porQueImporta": "O encontro reúne os três maiores potências nucleares, podendo influenciar a segurança global.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/trump-xi-e-putin-terao-reuniao-historica-sobre-armas-nucleares/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/reuniao-inedita-de-trump-xi-e-putin-abordara-nao-proliferacao-nuclear/"
-        },
-        {
-          "name": "DW Brasil",
-          "url": "https://www.dw.com/pt-br/reunião-trilateral-de-trump-xi-e-putin-abordará-não-proliferação-nuclear/a-79947990?maca=bra-rss-br-all-1030-rdf"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/13/trump-xi-jinping-e-putin-se-reunirao-na-proxima-semana.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-14T15:59:06.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/xi-jinping-putin-trump-fotos-afp.jpg"
-    },
-    {
-      "clusterId": "937468822aa67115",
-      "slug": "a7886ef5a61748ac",
-      "titulo": "Lula cancela dois discursos nas Filipinas devido a rouquidão",
-      "resumo": "Durante sua visita oficial às Filipinas, o presidente Luiz Inácio Lula da Silva cancelou dois discursos após ficar sem voz. Ele ainda se encontrou com o presidente Ferdinand Marcos Jr. e destacou a possibilidade de integrar cadeias de produção de minerais críticos e semicondutores entre os dois países. A declaração sobre relações bilaterais foi divulgada pelo Planalto. A rouquidão foi atribuída a problemas de voz anteriores, incluindo cirurgia em 2022.",
-      "porQueImporta": "A visita marca a primeira de um chefe de Estado brasileiro às Filipinas e pode fortalecer parcerias estratégicas na região.",
+      "clusterId": "4c8c617fd1a827cb",
+      "slug": "46cc9cc1c9003307",
+      "titulo": "Mirassol e Atlético-MG empatam sem gols na 35ª rodada do Brasileirão",
+      "resumo": "O jogo entre Mirassol e Atlético-MG, que abriu a 35ª rodada da Série A, terminou em 0 a 0, com ambos os times obtendo um ponto. As equipes tiveram várias chances, mas não conseguiram marcar. O Atlético-MG entrou em campo com uma lista de ausências e dúvidas antes da final da Sul-Americana.",
+      "porQueImporta": "O empate mantém o Atlético-MG na zona de risco de rebaixamento e afeta a classificação de Mirassol na tabela.",
       "category": "politica",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/lula-cancela-dois-discursos-nas-filipinas-apos-ficar-sem-voz/"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/mirassol-e-atletico-mg-empatam-sem-gols-pela-35a-rodada-do-brasileirao"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/mirassol-x-atletico-mg-assista-a-transmissao-ao-vivo-do-brasileirao/"
         },
         {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/lula-leva-as-filipinas-discurso-sobre-democracia-e-minerais-criticos/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/11/14/lula-se-encontra-com-presidente-das-filipinas-e-fala-em-integrar-minerais-criticos-do-brasil-com-industria-local-de-semicondutores.ghtml"
+          "url": "https://www.cartacapital.com.br/esporte/com-retornos-e-desfalques-importantes-atletico-mg-encara-o-mirassol-pelo-brasileirao/"
         }
       ],
-      "updatedAt": "2026-11-14T17:21:38.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/55649135927_a34a698f74_o.jpg"
-    },
-    {
-      "clusterId": "8650ff09ef2f5b6b",
-      "slug": "f55848398b8e34a6",
-      "titulo": "Aumento de casos de mpox gera alerta nas autoridades de saúde",
-      "resumo": "O número recente de casos de mpox tem crescido, levando as autoridades de saúde a intensificar o monitoramento da doença. Especialistas recomendam que a população mantenha a calma, mas fique atenta às orientações oficiais. A vigilância reforçada visa prevenir novas propagações e garantir respostas rápidas.",
-      "porQueImporta": "O monitoramento intensificado pode evitar que o mpox se espalhe mais amplamente e proteger a saúde pública.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/mercados/mpox-variante-que-causou-crise-na-africa-avanca-no-brasil-veja-sintomas/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/saude/mpox-avanca-em-outubro-e-novembro-e-brasil-chega-a-1-055-casos-com-1-morte"
-        },
-        {
-          "name": "Drauzio Varella",
-          "url": "https://drauziovarella.uol.com.br/infectologia/mpox-aumento-de-casos-exige-monitoramento/"
-        }
-      ],
-      "updatedAt": "2026-11-14T17:15:00.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-22T131236Z_1_LYNXMPEK7L0HZ_RTROPTP_4_HEALTH-MPOX.jpg?fit=300%2C178&amp;quality=70&amp;strip=all"
-    },
-    {
-      "clusterId": "b3534ea8e327e4fb",
-      "slug": "496f91d9cfaf0033",
-      "titulo": "EUA suspendem todas as decolagens por falha de comunicação nos centros de controle",
-      "resumo": "A FAA determinou a suspensão de todas as decolagens nos aeroportos dos Estados Unidos após uma falha de comunicação que afetou os centros de controle de tráfego aéreo. O secretário de Segurança Interna, Markwayne Mullin, descartou a possibilidade de ataque e afirmou que a medida foi tomada por motivos de segurança e circunstâncias extraordinárias. A suspensão é rara, ocorrendo apenas três vezes na história da aviação americana. A FAA está investigando a causa da falha no sistema.",
-      "porQueImporta": "A paralisação afeta milhões de passageiros e destaca a vulnerabilidade dos sistemas de controle de tráfego aéreo.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/chefe-da-aviacao-federal-dos-eua-pede-desculpas-apos-caos-aereo"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/caos-aereo-foi-provocado-por-falha-na-troca-de-cabos-em-local-remoto-dos-eua/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/14/caos-aereo-10-perguntas-e-respostas-sobre-a-paralisacao-dos-aeroportos-nos-estados-unidos.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-14T17:13:10.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/11/chefe-da-aviacao-americana.jpg"
+      "updatedAt": "2026-11-14T23:35:28.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/11/whatsapp-image-2026-11-14-at-19-25-01.jpeg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "937468822aa67115",
-        "slug": "a7886ef5a61748ac",
-        "titulo": "Lula cancela dois discursos nas Filipinas devido a rouquidão",
-        "resumo": "Durante sua visita oficial às Filipinas, o presidente Luiz Inácio Lula da Silva cancelou dois discursos após ficar sem voz. Ele ainda se encontrou com o presidente Ferdinand Marcos Jr. e destacou a possibilidade de integrar cadeias de produção de minerais críticos e semicondutores entre os dois países. A declaração sobre relações bilaterais foi divulgada pelo Planalto. A rouquidão foi atribuída a problemas de voz anteriores, incluindo cirurgia em 2022.",
-        "porQueImporta": "A visita marca a primeira de um chefe de Estado brasileiro às Filipinas e pode fortalecer parcerias estratégicas na região.",
+        "clusterId": "ca853c7541e99c52",
+        "slug": "1cf39ae9a9297468",
+        "titulo": "Ministro Dino defende negociação coletiva na transição da escala 6×1 para 5×2",
+        "resumo": "Flávio Dino manteve a liminar que estabelece o início da jornada de 5 dias a partir de 16 de dezembro, ressaltando que não existe texto perfeito e que a transição deve ser negociada entre sindicatos e empregadores. O ministro afirmou que a liminar não cria exceções à nova jornada nem permite acordos individuais. Luiz Fux interrompeu o julgamento no ambiente virtual e transferiu a análise para o plenário físico, onde quatro ministros já haviam votado a favor da decisão de Dino. A Câmara dos Deputados pediu que o STF revise parte das regras, mas concorda com a manutenção do calendário aprovado pelo Congresso.",
+        "porQueImporta": "A decisão define como será implementada a nova jornada de trabalho no país, afetando milhões de trabalhadores e setores como saúde e aviação.",
         "category": "politica",
         "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/dino-defende-folga-negociada-na-5x2-e-diz-que-decisao-perfeita-nao-existe"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-justica/dino-defende-negociacao-coletiva-na-transicao-para-jornada-de-5-dias/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/apos-criticas-dino-defende-decisao-sobre-6x1-texto-perfeito-nao-existe/"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/fim-da-6x1-fux-interrompe-julgamento-e-analise-de-dino-vai-para-o-plenario-fisico/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/fux-interrompe-julgamento-sobre-escala-5x2-no-stf-e-leva-discussao-ao-plenario-fisico/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/brasil/fux-pede-destaque-e-interrompe-julgamento-sobre-implementacao-do-fim-da-escala-6x1/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/politico/noticia/2026/11/14/fux-suspende-julgamento-sobre-escala-5x2-e-leva-caso-para-plenario-fisico-do-stf.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-14T23:18:03.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/11/ministro-flavio-dino-audiencia-de-conciliacao-implementacao-do-fim-da-escala-de-trabalho-6x1-a-audiencia-reune-representantes-de-confederacoes-empresariais-metropoles-10-scaled.jpg"
+      },
+      {
+        "clusterId": "430963758b79a663",
+        "slug": "349b5af073f9a944",
+        "titulo": "Lula cancela discursos nas Filipinas por rouquidão",
+        "resumo": "Durante sua primeira visita oficial às Filipinas, o presidente Luiz Inácio Lula da Silva cancelou dois compromissos oficiais, incluindo uma declaração à imprensa e um pronunciamento em fórum empresarial, devido à rouquidão que enfrenta há mais de quinze dias. O Palácio do Planalto divulgou os textos que seriam apresentados. Lula continuou a participar da Cúpula da ASEAN e se reuniu com o presidente filipino Ferdinand Marcos Jr., discutindo a integração de cadeias produtivas de minerais críticos e semicondutores.",
+        "porQueImporta": "A mudança de agenda demonstra a importância de saúde na agenda diplomática e a continuidade das relações bilaterais entre Brasil e Filipinas.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-governo/lula-cancela-discurso-nas-filipinas-por-rouquidao-na-voz/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/11/14/lula-cancela-discurso-e-declaracao-a-imprensa-nas-filipinas-por-causa-de-rouquidao.ghtml"
+          },
           {
             "name": "Veja",
             "url": "https://veja.abril.com.br/brasil/lula-cancela-dois-discursos-nas-filipinas-apos-ficar-sem-voz/"
@@ -316,38 +368,34 @@
           {
             "name": "CartaCapital",
             "url": "https://www.cartacapital.com.br/politica/lula-leva-as-filipinas-discurso-sobre-democracia-e-minerais-criticos/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/11/14/lula-se-encontra-com-presidente-das-filipinas-e-fala-em-integrar-minerais-criticos-do-brasil-com-industria-local-de-semicondutores.ghtml"
           }
         ],
-        "updatedAt": "2026-11-14T17:21:38.000Z",
+        "updatedAt": "2026-11-14T21:48:14.000Z",
         "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/55649135927_a34a698f74_o.jpg"
       },
       {
-        "clusterId": "0731046e242ab21c",
-        "slug": "20920c8a6e8fb199",
-        "titulo": "Senado aprova texto-base do ajuste fiscal de Lula",
-        "resumo": "O Senado aprovou o texto-base do projeto de ajuste fiscal com 45 votos a 31, estabelecendo corte linear de 10% nos benefícios fiscais e mudanças no cálculo do piso constitucional da saúde. O projeto limita o crescimento dos gastos em caso de queda de arrecadação e prevê ajustes que podem melhorar em cerca de R$ 60 bilhões o resultado primário de 2027. A proposta também permite discussões sobre supersalários e despesas extras com investimentos, mas enfrenta resistência de senadores da oposição. A aprovação indica que o governo Lula terá dificuldades para aprovar PECs no próximo ano, pois exigem pelo menos 49 votos favoráveis.",
-        "porQueImporta": "O ajuste fiscal define regras que impactam a dívida pública e os gastos governamentais nos próximos anos.",
+        "clusterId": "4c8c617fd1a827cb",
+        "slug": "46cc9cc1c9003307",
+        "titulo": "Mirassol e Atlético-MG empatam sem gols na 35ª rodada do Brasileirão",
+        "resumo": "O jogo entre Mirassol e Atlético-MG, que abriu a 35ª rodada da Série A, terminou em 0 a 0, com ambos os times obtendo um ponto. As equipes tiveram várias chances, mas não conseguiram marcar. O Atlético-MG entrou em campo com uma lista de ausências e dúvidas antes da final da Sul-Americana.",
+        "porQueImporta": "O empate mantém o Atlético-MG na zona de risco de rebaixamento e afeta a classificação de Mirassol na tabela.",
         "category": "politica",
         "sources": [
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-economia/entenda-como-o-pacote-fiscal-limita-o-crescimento-dos-gastos/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/mirassol-e-atletico-mg-empatam-sem-gols-pela-35a-rodada-do-brasileirao"
           },
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/politica/por-que-aliados-de-esquerda-e-do-psol-rejeitam-o-ajuste-fiscal-do-governo-lula/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/mirassol-x-atletico-mg-assista-a-transmissao-ao-vivo-do-brasileirao/"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/13/placar-do-ajuste-fiscal-no-senado-indica-que-o-governo-tera-dificuldades-para-aprovar-pecs-em-2027.ghtml"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/esporte/com-retornos-e-desfalques-importantes-atletico-mg-encara-o-mirassol-pelo-brasileirao/"
           }
         ],
-        "updatedAt": "2026-11-14T17:00:28.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/05/pzzb5910.jpg.jpg"
+        "updatedAt": "2026-11-14T23:35:28.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/11/whatsapp-image-2026-11-14-at-19-25-01.jpeg"
       },
       {
         "clusterId": "eaa7dd764eb0b18c",
@@ -374,195 +422,93 @@
         "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2024/10/celular_sala_aula_mec.jpg"
       },
       {
-        "clusterId": "ee0bd85c056eead4",
-        "slug": "fa0435754ff95c67",
-        "titulo": "Muito além do diagnóstico: moradores do interior de SP contam os desafios de viver com diabetes",
-        "resumo": "Entre sustos e adaptações, moradores do interior de SP contam como vivem com diabetes O diagnóstico de diabetes pode chegar de diferentes maneiras e transformar a rotina de quem recebe a notícia. Para algumas famílias, a descoberta acontece ainda na infância, acompanhada de mudanças nos cuidados diários e na alimentação. Para outras pessoas, a doença aparece de forma silenciosa, durante exames de rotina. Diante dos desafios do tratamento, também há quem encontre apoio em outras famílias que enfrentam situações semelhantes. O Dia Mundial do Diabetes é celebrado neste sábado (14) e histórias de…",
-        "porQueImporta": "",
+        "clusterId": "10a73de2c53e20ec",
+        "slug": "92d747c47a57391c",
+        "titulo": "Campanha de Lula recebe prazo de três dias para esclarecer inconsistências nas contas",
+        "resumo": "O Tribunal Superior Eleitoral (TSE) concedeu três dias à campanha de Lula para complementar dados e prestar esclarecimentos sobre indícios de subcontratação irregular e despesas de R$ 48,5 milhões. A Assessoria de Exame de Contas Eleitorais e Partidárias (Asepa) identificou a necessidade de comprovar a capacidade operacional dos fornecedores pagos pelo Fundo Eleitoral. A campanha deve justificar as despesas e demonstrar a regularidade das contratações. O prazo faz parte de um processo de auditoria das contas de campanha.",
+        "porQueImporta": "Garantir a transparência e legalidade das finanças eleitorais é essencial para a confiança no processo democrático.",
         "category": "politica",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/14/muito-alem-do-diagnostico-moradores-do-interior-de-sp-contam-os-desafios-de-viver-com-diabetes.ghtml"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/brasil/a-resposta-da-campanha-de-lula-ao-relatorio-do-tse-que-apontou-irregularidades-em-prestacao-de-contas/"
           },
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/bem-estar/como-evitar-que-o-pre-diabetes-evolua-para-diabetes-conheca-os-cuidados/"
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/11/13/toffoli-da-3-dias-para-campanha-de-lula-esclarecer-inconsistencias-nas-contas-apontadas-pelo-tse.ghtml"
           }
         ],
-        "updatedAt": "2026-11-14T15:45:15.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/G2k1qOaehsEgrGfHtdINMkZ2RXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/U/LzGBABSsAPjMmStC1Axw/fundo-desfocado-1-.png"
+        "updatedAt": "2026-11-14T21:38:32.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/sancao-leis-mulheres_mcamgo_abr_24042025-3.jpg"
       },
       {
-        "clusterId": "80d2b0fe69be11e1",
-        "slug": "354a87480f4ad291",
-        "titulo": "STJ determina que condomínio pode ser responsabilizado por furto após falha na portaria",
-        "resumo": "A Terceira Turma do STJ decidiu, por unanimidade, que o condomínio deve indenizar moradores se ladrões entrarem nos apartamentos após liberação na portaria, mesmo sem autorização dos condôminos. O caso originou-se de um incidente no Rio de Janeiro, onde moradores viajavam e foram vítimas de furto. A primeira instância já havia condenado o condomínio a pagar R$ 24 mil por danos morais e R$ 12.358 por danos materiais, decisão mantida pelo Tribunal de Justiça do Rio de Janeiro.",
-        "porQueImporta": "Estabelece responsabilidade do condomínio em casos de falha na segurança, influenciando práticas de gestão e custos de seguros.",
+        "clusterId": "031b5dc826cc9c4d",
+        "slug": "b639421f0c7c81e2",
+        "titulo": "Democratas assumem governo do Alasca após quase 30 anos",
+        "resumo": "Jonathan Kreiss‑Tomkins, de 37 anos, venceu a eleição para governador do Alasca, derrotando três candidatos republicanos. Ele se torna o primeiro democrata a ocupar o cargo desde 1994. O resultado marca a volta do partido ao poder no estado após quase três décadas de domínio republicano.",
+        "porQueImporta": "A mudança de partido no governo do Alasca pode influenciar políticas estaduais e a relação com o governo federal.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-internacional/democratas-voltam-ao-poder-no-alasca-depois-de-28-anos/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/mundo/democratas-vencem-governo-do-alasca-pela-primeira-vez-apos-quase-30-anos/"
+          }
+        ],
+        "updatedAt": "2026-11-14T21:22:14.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/AFP__20261113__2304485587__v1__HighRes__PoliticalLeadersSpeakAtWhatSNextDemocraticFo.jpg"
+      },
+      {
+        "clusterId": "db57ac09419068d5",
+        "slug": "6b7333665c1a6cd7",
+        "titulo": "Brasil mantém negociações com Filipinas enquanto suspende importação de carne suína por 60 dias",
+        "resumo": "O governo brasileiro está em diálogo com autoridades filipinas para resolver a suspensão das importações de carne suína, que representa 25% das exportações brasileiras. O ministro da Agricultura, André de Paula, afirmou otimismo quanto às negociações. A medida de suspensão tem prazo de 60 dias e visa evitar prejuízos ao abastecimento asiático. O Brasil considera a ação temporária e não comprometerá o mercado filipino.",
+        "porQueImporta": "A suspensão afeta o principal mercado de exportação de carne suína do Brasil, impactando a economia e relações comerciais.",
         "category": "politica",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/condominio-pode-responder-por-furto-apos-falha-na-portaria-diz-stj/"
+            "url": "https://www.cnnbrasil.com.br/agro/brasil-evita-pressionar-seu-maior-cliente-apos-suspensao-da-carne-suina/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/11/13/stj-decide-que-condominio-e-responsavel-por-furto-se-ladroes-entrarem-apos-falha-na-portaria.ghtml"
+            "url": "https://g1.globo.com/politica/noticia/2026/11/14/nas-filipinas-ministro-diz-estar-otimista-com-negociacoes-e-que-restricao-a-carne-suina-do-brasil-e-medida-de-60-dias.ghtml"
           }
         ],
-        "updatedAt": "2026-11-14T14:28:25.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/ECjeR4VA3qjw3Js3_423nnlyAQI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/r/T2DBAdSqmpNkyQAtnB1Q/condenacao-naufragio-c-05-06-2025.mp4-snapshot-00.35.946.jpg"
+        "updatedAt": "2026-11-14T19:32:59.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/0S_Wjvty197orhFSKlxcIpw4Es8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/b/EVJrSGQlWw6sqGlREGew/captura-de-tela-2026-11-14-105724.png"
       },
       {
-        "clusterId": "fe839478117a7b10",
-        "slug": "87a13d505473a5f3",
-        "titulo": "São Paulo lidera avaliação de rodovias estaduais no país",
-        "resumo": "A pesquisa da Confederação Nacional do Transporte (CNT) revelou que 91% das rodovias estaduais de São Paulo foram classificadas como ótimas ou boas. O levantamento abrangeu toda a extensão rodoviária estadual, destacando a qualidade superior das vias. O resultado coloca o estado na liderança nacional em infraestrutura viária. A avaliação foi realizada por especialistas em transporte e infraestrutura.",
-        "porQueImporta": "O desempenho de São Paulo reflete a eficiência na gestão e manutenção das rodovias, impactando positivamente a logística e o comércio regional.",
+        "clusterId": "924cca3a9b20aaae",
+        "slug": "62ef2f420128e8fd",
+        "titulo": "Senador Helder propõe auxílio de 2 salários mínimos a pescadores afetados pela estiagem",
+        "resumo": "O senador eleito pelo Pará, Helder, pediu ao presidente Lula que conceda um auxílio de dois salários mínimos aos pescadores que sofreram com a estiagem. O valor pode ser pago em parcela única ou em duas vezes. A proposta visa compensar a perda de renda desses trabalhadores.",
+        "porQueImporta": "A medida pode aliviar a crise financeira de pescadores que dependem da pesca para subsistência.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-infra/sao-paulo-tem-rodovias-estaduais-mais-bem-avaliadas-do-pais-diz-cnt/"
+            "url": "https://www.poder360.com.br/poder-economia/helder-pede-a-lula-auxilio-de-2-salarios-minimos-para-pescadores/"
           }
         ],
-        "updatedAt": "2026-11-14T17:20:25.000Z"
-      },
-      {
-        "clusterId": "98b61e863b4a1ee0",
-        "slug": "f3940d8e2ed5c729",
-        "titulo": "Projeto isenta policiais e bombeiros militares do Imposto de Renda",
-        "resumo": "Um projeto de lei propõe a isenção do Imposto de Renda para policiais e bombeiros militares, bem como para guardas municipais. A proposta ainda precisa ser aprovada pela Câmara dos Deputados e pelo Senado Federal para se tornar lei. Caso aprovada, os servidores desses serviços públicos teriam redução de carga tributária sobre seus rendimentos.",
-        "porQueImporta": "A medida pode reduzir a carga tributária sobre profissionais que atuam em áreas de risco e segurança pública.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-congresso/projeto-isenta-policiais-e-bombeiros-militares-do-imposto-de-renda/"
-          }
-        ],
-        "updatedAt": "2026-11-14T17:15:00.000Z"
-      },
-      {
-        "clusterId": "bbec2b1d24312dc0",
-        "slug": "ebebfde3f145e740",
-        "titulo": "Mercado estima impacto do ajuste fiscal abaixo de R$ 60 bilhões",
-        "resumo": "As projeções do mercado apontam que o ajuste fiscal terá impacto inferior a R$ 60 bilhões em 2027, variando entre R$ 27,9 bilhões e R$ 56,1 bilhões. Especialistas questionam a dependência das receitas para sustentar o ajuste. A estimativa reflete incertezas sobre a capacidade de arrecadação do governo.",
-        "porQueImporta": "O valor estimado influencia as expectativas sobre a sustentabilidade fiscal e a capacidade de investimento público.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-economia/mercado-estima-impacto-do-ajuste-fiscal-abaixo-de-r-60-bilhoes/"
-          }
-        ],
-        "updatedAt": "2026-11-14T17:00:33.000Z"
+        "updatedAt": "2026-11-14T23:01:07.000Z"
       }
     ],
     "economia": [
       {
-        "clusterId": "dbe5d9e68f932944",
-        "slug": "6b7e5fa71e3d2867",
-        "titulo": "Renúncia de Jensen Huang deixa Nvidia em crise",
-        "resumo": "O CEO da Nvidia, Jensen Huang, renunciou após revelações de três casos extraconjugais, incluindo um com uma suposta espiã chinesa, e suspeitas de espionagem envolvendo chips avançados. A saída provocou a perda de mais de US$ 1 trilhão em valor de mercado da empresa e a convocação de Huang para depor no Congresso dos EUA. O conselho da Nvidia afirmou que as especulações sobre sucessores são prematuras, enquanto funcionários pedem maior transparência sobre a transição.",
-        "porQueImporta": "A crise pode afetar a confiança dos investidores e a segurança nacional nos EUA.",
+        "clusterId": "8270fc6ce8dd027a",
+        "slug": "11cd445cff8b37b6",
+        "titulo": "Microsoft resolve falha global que afetou Outlook, Teams e Copilot",
+        "resumo": "Em 12 e 13 de outubro, a Microsoft sofreu uma falha global que deixou indisponíveis serviços como Outlook, Teams e Copilot em mais de 70 países, impactando milhões de usuários, governos e empresas. A empresa descartou ataque hacker e atribuiu o problema a carga elevada na infraestrutura, iniciando reparos que culminaram no restabelecimento completo dos serviços em 14 de outubro. Durante o período de interrupção, surgiram campanhas de golpe que exploraram a instabilidade para tentar obter dados dos usuários.",
+        "porQueImporta": "A indisponibilidade de serviços essenciais de comunicação e produtividade afetou operações críticas em setores públicos e privados, destacando a importância da resiliência de infraestruturas digitais.",
         "category": "economia",
         "sources": [
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-internacional/nvidia-nega-busca-por-ceo-depois-de-renuncia-de-huang/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/noticia/2026/11/14/cronologia-crise-nvidia.ghtml"
-          },
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/hardware/tragam-o-chefe-volta-funcionarios-da-nvidia-se-opoem-a-saida-de-jensen-huang/"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/ckwy8vdnwwlyo?at_medium=RSS&at_campaign=rss"
-          },
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/sociedade/caso-nvidia-uma-linha-do-tempo-do-escandalo-extraconjugal-a-renuncia-do-ceo-huang/"
-          },
-          {
-            "name": "DW Brasil",
-            "url": "https://www.dw.com/pt-br/escândalo-de-traição-com-suposta-espiã-chinesa-leva-a-renúncia-de-jensen-huang-como-ceo-da-nvidia/a-79928053?maca=bra-rss-br-all-1030-rdf"
-          }
-        ],
-        "updatedAt": "2026-11-14T17:38:34.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/KHAYXnFNw9TMiNyASv2as4vHkqk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/S/TKeMkiRcKerUXLt8uFiQ/ap26312766429671.jpg"
-      },
-      {
-        "clusterId": "9242734596299648",
-        "slug": "acb0dc95947040b7",
-        "titulo": "Itália multou Meta em 805 milhões de euros por acesso a fotos e vídeos de usuários do Android",
-        "resumo": "A Autoridade de Proteção de Dados da Itália multou a Meta em 805 milhões de euros, equivalente a cerca de 5 bilhões de reais, por ter acessado fotos e vídeos de 20 milhões de usuários do Android sem consentimento ou aviso prévio. A decisão faz parte de uma série de sanções aplicadas à empresa na Europa por violações de privacidade. A Meta tem 60 dias para alterar a configuração do Facebook que permite esse acesso.",
-        "porQueImporta": "A multa reforça a fiscalização de privacidade de dados na União Europeia e destaca a responsabilidade das plataformas digitais sobre o conteúdo dos usuários.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/italia-multa-meta-em-805-milhoes-de-euros-por-acesso-a-dados-de-usuarios/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/a-multa-bilionaria-aplicada-pela-italia-a-meta-por-acesso-de-fotos-sem-consentimento/"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/business/italia-multa-meta-em-us-887-milhoes-por-acesso-a-dados-de-usuarios-do-android/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/noticia/2026/11/14/italia-multa-meta.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-14T17:04:11.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/GettyImages-2297798363.jpg"
-      },
-      {
-        "clusterId": "2eb8472a863954ae",
-        "slug": "9566408c68003ad5",
-        "titulo": "Troca de cabos de cobre por fibra óptica causa paralisação de voos nos EUA",
-        "resumo": "O governo dos Estados Unidos atribui a paralisação de decolagens em todo o país a uma falha ocorrida durante a substituição de cabos de cobre por fibra óptica em sistemas de controle de tráfego aéreo. O secretário de Transportes, Sean Duffy, descartou a hipótese de ataque hacker. A interrupção durou cerca de quatro horas, resultando em milhares de cancelamentos e atrasos em voos nacionais e internacionais.",
-        "porQueImporta": "O incidente afetou a operação aérea em escala nacional, demonstrando a vulnerabilidade de sistemas críticos a falhas técnicas.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/eua-governo-trump-diz-que-troca-de-fios-causou-apagao-e-descarta-ataque"
-          },
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mercados/pane-aerea-nos-eua-governo-afirma-que-troca-de-cabos-para-fibra-optica-causou-apagao/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/14/caos-aereo-eua-atrasos-cancelamentos-voos.ghtml"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/troca-de-cabos-paralisou-voos-nos-eua-e-gerou-efeito-em-cadeia-nos-aeroportos-diz-governo-trump/"
-          }
-        ],
-        "updatedAt": "2026-11-14T16:40:50.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/11/caos-aereo-nos-aeroportos-dos-eua.jpg"
-      },
-      {
-        "clusterId": "8e6edecf97ef8665",
-        "slug": "50744bb7096333f5",
-        "titulo": "Microsoft registra falha global em Outlook, Teams e Copilot",
-        "resumo": "Em 12 e 13 de outubro, serviços da Microsoft, incluindo Outlook, Teams e Copilot, ficaram indisponíveis em mais de 70 países devido a um problema técnico de infraestrutura, não relacionado a cibersegurança ou inteligência artificial. A empresa informou que a falha está sendo gradualmente restaurada e descartou a hipótese de ataque hacker. Enquanto os serviços voltam a operar, usuários relataram dificuldades de acesso e alguns ainda enfrentam interrupções. A Microsoft alerta para campanhas de golpe que aproveitam a instabilidade, pedindo cautela ao clicar em links suspeitos.",
-        "porQueImporta": "A interrupção afetou milhões de usuários e operações empresariais, destacando a importância da confiabilidade dos serviços de produtividade corporativa.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/tecnologia/pane-na-microsoft-a-situacao-confirmada-pela-empresa-apos-problema-no-outlook-teams-e-copilot/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/mundo/microsoft-restabelece-outlook-e-teams-apos-pane-global-de-24-horas/"
           },
           {
             "name": "G1",
@@ -577,118 +523,161 @@
             "url": "https://canaltech.com.br/apps/apagao-da-microsoft-ja-afeta-74-paises-e-passa-de-18-horas-ataque-hacker-e-descartado/"
           }
         ],
-        "updatedAt": "2026-11-14T16:09:33.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/AFP__20261113__D7DX7NQ__v1__HighRes__FilesIndiaUsMicrosoftTechnology.jpg"
+        "updatedAt": "2026-11-14T17:58:26.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/AFP__20261113__D7CU848__v2__MidRes__JapanUsTechnologyMicrosoft.jpg"
       },
       {
-        "clusterId": "85620084cd607f9e",
-        "slug": "78f0474644188db3",
-        "titulo": "Ronaldinho Gaúcho volta a jogar profissionalmente na Itália",
-        "resumo": "O ex‑camisa 10 da seleção brasileira, Ronaldinho Gaúcho, retornou ao futebol profissional aos 46 anos, reestreando pelo Ravenna na 14ª rodada da Série C italiana. Ele será titular na partida contra o Forlì, marcada para o domingo. Além de jogar, o atleta também se tornará acionista do clube. O retorno acontece depois de 11 anos afastado das competições profissionais.",
-        "porQueImporta": "O retorno de um ícone mundial ao futebol profissional gera interesse e destaca a longevidade de atletas de elite.",
+        "clusterId": "67cdca3dbf070eec",
+        "slug": "e43b0711739ed72f",
+        "titulo": "Bandas como Simple Plan e Hoobastank fazem show improvisado em avião durante caos aéreo nos EUA",
+        "resumo": "Durante a paralisação de voos nos Estados Unidos, passageiros de um avião que se dirigia a Orlando foram surpreendidos por um show improvisado conduzido por membros de Simple Plan e Hoobastank. Os músicos aproveitaram o tempo de espera para tocar sucessos enquanto a aeronave aguardava autorização para pousar. A viagem era para o festival Vans Warped Tour que acontece em Orlando entre 14 e 15 de novembro.",
+        "porQueImporta": "Ilustra como artistas podem transformar situações de crise em experiências positivas para os passageiros.",
         "category": "economia",
         "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/musica/simple-plan-e-hoobastank-fazem-shows-intimistas-em-aviao-durante-caos-aereo/"
+          },
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/esportes/ronaldinho-gaucho-volta-a-jogar-futebol-italia/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-italiano/conheca-o-ravenna-time-que-ronaldinho-voltara-a-jogar-profissionalmente/"
-          }
-        ],
-        "updatedAt": "2026-11-14T17:30:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/rg01.jpg?fit=300%2C179&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "d4469ec1ef8d79d0",
-        "slug": "5461d3e38dc0a35e",
-        "titulo": "Binance prevê retomada total dos saques na próxima semana",
-        "resumo": "A Binance informou que pretende normalizar os saques de usuários na próxima semana, após ter coberto 95% do valor de US$ 6,3 bilhões em tokens roubados. A empresa retomou os saques em fases durante o mês. O ataque hacker ocorreu no mês anterior, comprometendo a plataforma.",
-        "porQueImporta": "A retomada dos saques é crucial para restaurar a confiança dos usuários na plataforma de criptomoedas.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/onde-investir/binance-preve-retomada-total-dos-saques-ate-a-proxima-semana/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/negocios/binance-preve-normalizar-saques-e-retomar-operacoes-na-proxima-semana/"
-          }
-        ],
-        "updatedAt": "2026-11-14T16:47:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/03/binance.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "860e6c5e91ee762a",
-        "slug": "e8386b130c4b5796",
-        "titulo": "Anac orienta passageiros a consultar companhias aéreas após suspensão de decolagens nos EUA",
-        "resumo": "A FAA determinou a suspensão de todas as decolagens nos Estados Unidos devido a uma falha de comunicação nos centros de controle de tráfego aéreo. A Anac informou que está monitorando a situação e recomenda que os passageiros verifiquem com suas companhias aéreas sobre o status dos voos ou possíveis alterações. A orientação destaca a importância de as empresas aéreas cumprirem suas responsabilidades e os direitos dos passageiros.",
-        "porQueImporta": "A paralisação afeta milhares de voos internacionais, impactando viajantes e a logística das companhias aéreas.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/apos-paralisacao-voos-retomam-gradualmente-diz-secretario-americano/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/11/13/paralisacao-de-voos-nos-eua-anac-diz-monitorar-situacao-e-recomenda-que-passageiros-procurem-companhias-aereas.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-14T15:42:57.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/vBuZuo7bMKzbG0-1zYpf3YgaTVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/r8UqR9QRKHZ6cpPBv4fw/2026-11-13t225544z-1478587479-rc2anoaqfvwc-rtrmadp-3-usa-faa-ground-stop.jpg"
-      },
-      {
-        "clusterId": "98a7660f08ba7db8",
-        "slug": "1a01095a1048c48e",
-        "titulo": "Guarulhos normaliza operação após apagão aéreo nos EUA",
-        "resumo": "O apagão aéreo nos Estados Unidos provocou o cancelamento de nove voos que deveriam partir de Guarulhos em direção ao país. A concessionária do aeroporto informou que a operação foi normalizada e que os voos foram reprogramados. O Galeão também registrou cancelamentos de partidas e chegadas para Nova York.",
-        "porQueImporta": "O incidente afetou diretamente a conectividade internacional de São Paulo, impactando passageiros e logística de transporte aéreo.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/sao-paulo/apagao-aereo-nos-eua-aeroporto-de-guarulhos-diz-ter-normalizado-operacao"
+            "url": "https://www.infomoney.com.br/mercados/passageiros-tem-show-particular-de-simple-plan-e-hoobastank-com-caos-aereo-nos-eua/"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/mundo/guarulhos-opera-normalmente-apos-nove-voos-cancelados-em-meio-a-paralisacao-nos-eua/"
+            "url": "https://exame.com/mundo/simple-plan-e-outras-bandas-fazem-show-improvisado-em-aviao-durante-caos-aereo-nos-eua/"
           }
         ],
-        "updatedAt": "2026-11-14T15:22:31.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/02/guarulhos-1.jpg"
+        "updatedAt": "2026-11-14T21:58:47.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Simple-Plan-Reproducao-Site-Oficial.jpg?fit=300%2C231&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "6e50791ef91ec1b4",
+        "slug": "4daa23f4663eb43c",
+        "titulo": "São Paulo lidera casos de Mpox no Brasil com 398 registros",
+        "resumo": "O Ministério da Saúde reporta 398 casos de Mpox em São Paulo, representando mais de 37% dos 1.055 casos confirmados no país. O Rio de Janeiro segue em segundo lugar com 391 casos e registrou a primeira morte pela doença em 2026. Em São Paulo, a prefeitura contabilizou 172 casos entre janeiro e outubro, 58 a menos que no mesmo período do ano anterior.",
+        "porQueImporta": "Os números destacam a concentração de casos nos estados mais populosos, indicando foco de vigilância e necessidade de recursos de saúde.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/14/estado-de-sp-lidera-casos-de-mpox-no-brasil-com-398-registros-aponta-ministerio-da-saude.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/mpox-ultrapassa-mil-casos-e-registra-primeira-morte-no-brasil-em-2026/"
+          }
+        ],
+        "updatedAt": "2026-11-14T22:44:08.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/AgI22cph3-Me63nLF8YON_xWgRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/m/RXiyVFTAO9bD3o0MDpaQ/midia-de-distribuicao-g1-42-.jpg"
+      },
+      {
+        "clusterId": "b7d5318757f4ead6",
+        "slug": "68cbad69021dd232",
+        "titulo": "Ceará declara situação de emergência em 65 municípios por risco de seca causada pelo El Niño",
+        "resumo": "O governo do Ceará decretou situação de emergência em 65 cidades para enfrentar os efeitos do El Niño, que pode provocar uma seca intensa em 2027. A medida tem validade de 180 dias e inclui monitoramento hidrológico e parcerias com prefeituras para garantir a segurança hídrica. O estado intensifica o controle dos recursos hídricos e busca preparar a população e a infraestrutura para possíveis impactos.",
+        "porQueImporta": "A declaração visa prevenir danos econômicos e sociais causados por uma seca potencialmente severa.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/nacional/nordeste/ce/ceara-declara-situacao-de-emergencia-em-65-cidades-por-efeitos-do-el-nino/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/ceara-decreta-situacao-de-emergencia-em-65-municipios-diante-dos-riscos-do-el-nino/"
+          }
+        ],
+        "updatedAt": "2026-11-14T20:13:33.000Z"
+      },
+      {
+        "clusterId": "9e8ab3123f75caa8",
+        "slug": "7fc4dca331a009f4",
+        "titulo": "Ronaldinho Gaúcho retorna aos gramados aos 46 anos em clube da terceira divisão italiana",
+        "resumo": "O ex-jogador brasileiro Ronaldinho Gaúcho fará sua estreia pelo Ravenna, na Serie C, no dia 15 de julho, contra o Forlì. Ele retornará ao futebol profissional após 11 anos de afastamento. O clube almeja ascender à Serie A e conta com a presença de Ronaldinho como titular. O retorno marca a primeira participação de Ronaldinho em campo desde 2012.",
+        "porQueImporta": "Mostra a volta de um ícone do futebol mundial ao esporte profissional, gerando interesse e expectativa no cenário italiano.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/como-sera-o-retorno-de-ronaldinho-gaucho-aos-gramados-depois-de-11-anos/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/esporte/ronaldinho-gaucho-volta-a-jogar-aos-46-anos-por-clube-da-terceira-divisao-da-italia/"
+          }
+        ],
+        "updatedAt": "2026-11-14T19:21:31.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/ronaldinho.jpg"
+      },
+      {
+        "clusterId": "2d14168e73f11a80",
+        "slug": "6f3fe646534f8101",
+        "titulo": "Copo raro da Starbucks faz destaque na nova coleção de Natal",
+        "resumo": "O copo Goldie, considerado raro, foi incluído na coleção Bearista Glass Cold Cup – Surprise Box Edition da Starbucks. A edição conta com cinco personagens diferentes e foi lançada para a temporada de Natal. A iniciativa visa atrair colecionadores e fãs da marca. A Starbucks destaca a exclusividade e o design diferenciado dos copos.",
+        "porQueImporta": "A inclusão de itens raros em coleções sazonais aumenta o interesse dos consumidores e reforça a estratégia de marketing da Starbucks.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/consumo/goldie-copo-raro-da-starbucks-vira-destaque-de-nova-colecao-de-natal-entenda/"
+          }
+        ],
+        "updatedAt": "2026-11-14T23:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/11/montagem-infomoney-reproducao-starbucks-1.jpg?fit=300%2C193&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "9c43c194c182f646",
+        "slug": "e5c02171636b6878",
+        "titulo": "Empresa oferece vaga de até US$120 mil para jogar GTA 6",
+        "resumo": "Uma empresa de mídia está contratando profissionais para transmitir ao vivo partidas de GTA 6 e analisar a economia virtual do jogo. O cargo inclui a criação de conteúdo e a avaliação de estratégias de monetização dentro do jogo. A remuneração pode chegar a US$120.000, dependendo do desempenho e da audiência. A posição exige conhecimento em streaming e análise de dados de jogos.",
+        "porQueImporta": "Ilustra o crescimento de carreiras que combinam entretenimento digital e análise de dados.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/carreira/emprego-dos-sonhos-vaga-paga-ate-us-120-mil-para-jogar-gta-6/"
+          }
+        ],
+        "updatedAt": "2026-11-14T21:45:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Reproducao-Amazon.jpg?fit=300%2C192&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "04de9c426328dee0",
+        "slug": "f32ac9dde4f40cf8",
+        "titulo": "Argentina enfrenta Uruguai sem Messi",
+        "resumo": "O duelo entre Argentina e Uruguai será o primeiro jogo da seleção argentina sem a presença de Lionel Messi. O confronto ocorrerá no dia 20 de outubro, no Estádio Monumental de Buenos Aires. A partida faz parte da fase de grupos da Copa América de 2024. A ausência de Messi gera expectativa sobre a performance da equipe.",
+        "porQueImporta": "É relevante porque marca a primeira partida da Argentina sem seu principal jogador em um torneio importante.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/esportes/onde-assistir-argentina-uruguai/"
+          }
+        ],
+        "updatedAt": "2026-11-14T21:30:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/11/argentina-onde-assistir-1.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "556f0c93a163bc37",
-        "slug": "ca44c322a6a34520",
-        "titulo": "Suspensão de todas as decolagens nos EUA por falha de comunicação",
-        "resumo": "A Administração Federal de Aviação dos EUA (FAA) determinou a suspensão de todas as decolagens em aeroportos americanos, após falha nos sistemas de comunicação dos centros de controle de tráfego aéreo. A medida, tomada por motivos de segurança, faz com que voos programados permaneçam no solo até novo aviso. Mais de 10 mil voos foram afetados, incluindo rotas entre Brasil e EUA. Companhias aéreas e passageiros são orientados a verificar status junto às operadoras.",
-        "porQueImporta": "Impacta viagens internacionais e destaca vulnerabilidades nos sistemas de controle aéreo dos EUA.",
+        "clusterId": "02eb1453e236d0db",
+        "slug": "95ca5171a1f0257c",
+        "titulo": "Suspensão de voos nos EUA causa efeito cascata e impacta Brasil",
+        "resumo": "A FAA suspendeu todas as decolagens nos Estados Unidos por cerca de quatro horas, em decorrência de falhas de comunicação no controle de tráfego aéreo. O bloqueio gerou atrasos e sobrecarga em trens e aeroportos, afetando voos globais. A Força Aérea Brasileira monitorou a situação e avaliou ajustes no fluxo aéreo nacional, considerando realocação de aeronaves se necessário.",
+        "porQueImporta": "O incidente demonstra como interrupções nos EUA podem repercutir no tráfego aéreo internacional e no transporte terrestre.",
         "category": "mundo",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/14/carros-e-tecnologia/suspensao-de-voos-nos-eua-provoca-cancelamentos-e-alteracoes-no-trafego-aereo-do-brasil/"
-          },
-          {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-internacional/eua-tem-voos-cancelados-neste-sabado-apos-suspensao-aerea/"
+            "url": "https://www.poder360.com.br/poder-infra/pane-nos-eua-afeta-21-de-29-voos-do-brasil-para-o-pais/"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/noticias/mais-de-4-mil-voos-sao-cancelados-nos-eua-neste-sabado-14/"
+            "name": "Exame",
+            "url": "https://exame.com/mundo/caos-aereo-continua-nos-eua-apos-pane-com-5-mil-voos-cancelados-neste-sabado/"
           },
           {
             "name": "DW Brasil",
             "url": "https://www.dw.com/pt-br/após-pane-aérea-eua-avisam-que-normalização-dos-voos-levará-tempo/a-79945256?maca=bra-rss-br-all-1030-rdf"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/o-que-causou-a-pane-nos-eua-14-perguntas-e-respostas-sobre-a-paralisacao-dos-voos/"
           },
           {
             "name": "CartaCapital",
@@ -699,57 +688,97 @@
             "url": "https://g1.globo.com/mundo/noticia/2026/11/14/eua-retomam-voos-apos-falha-no-controle-de-trafego-aereo-provocar-caos-nos-aeroportos.ghtml"
           }
         ],
-        "updatedAt": "2026-11-14T16:20:40.000Z",
+        "updatedAt": "2026-11-14T22:43:52.000Z",
         "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/aviao-nos-eua-Foto-por-CHARLY-TRIBALLEAU-AFP.jpg"
       },
       {
-        "clusterId": "c2a3b7167de88aa9",
-        "slug": "85ffa2d216eb312d",
-        "titulo": "EUA sugerem que Ucrânia ceda Donbas para entrar na Otan",
-        "resumo": "Os Estados Unidos propuseram que a Ucrânia retirasse suas tropas das áreas de Donbas ainda sob controle russo em troca de adesão à OTAN. O presidente Volodymyr Zelensky afirmou que a proposta foi apresentada pela primeira vez e que a decisão final caberia à sociedade ucraniana. Zelensky também alertou que Moscou poderia aproveitar a situação caso a Ucrânia concordasse. A proposta foi discutida em reuniões de paz em Abu Dhabi e em cúpulas da União Europeia.",
-        "porQueImporta": "A proposta pode redefinir a dinâmica de segurança na região e influenciar a relação da Ucrânia com a OTAN e com a Rússia.",
+        "clusterId": "6936f16f429b699b",
+        "slug": "f6c10501586feb23",
+        "titulo": "EUA sugerem retirada ucraniana de Donbass em troca de adesão à OTAN",
+        "resumo": "Os Estados Unidos propuseram que a Ucrânia retirasse suas tropas das áreas de Donbass ainda sob controle russo para possibilitar a adesão à OTAN. O presidente Volodymyr Zelensky afirmou que a proposta foi levantada em encontros internacionais, mas que Kiev não abrirá mão de seu território. Zelensky alertou que a Rússia pode aproveitar a situação para fortalecer sua posição. A proposta não foi aceita pela Ucrânia, que mantém sua posição de não ceder território.",
+        "porQueImporta": "A proposta pode influenciar a dinâmica de segurança na região e a relação da Ucrânia com a OTAN.",
         "category": "mundo",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/mundo/eua-levantam-hipotese-de-ucrania-ceder-donbas-a-russia-em-troca-da-otan/"
+            "url": "https://www.infomoney.com.br/mundo/eua-sondam-ucrania-sobre-saida-de-donbass-em-troca-de-adesao-a-otan-diz-zelenski/"
           },
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-internacional/eua-sugerem-que-ucrania-ceda-donbas-para-entrar-na-otan/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/governo-dos-eua-propoe-que-ucrania-ceda-territorio-em-troca-de-adesao-a-otan-diz-zelensky/"
           },
           {
             "name": "DW Brasil",
             "url": "https://www.dw.com/pt-br/zelenski-diz-que-eua-propuseram-à-ucrânia-ceder-território-a-moscou-para-entrar-na-otan/a-79949054?maca=bra-rss-br-all-1030-rdf"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/eua-cogitam-adesao-da-ucrania-a-otan-em-troca-de-donbas/"
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/11/14/eua-propoem-que-ucrania-ceda-territorio-a-russia-em-troca-de-entrada-na-otan-diz-zelensky.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-14T21:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/Zelensky-e1783798896628.jpg?fit=300%2C196&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "2bcda361dff9ebec",
+        "slug": "17806b746d19b1a2",
+        "titulo": "Suspensão de voos nos EUA é a segunda paralisação nacional desde o 11 de Setembro",
+        "resumo": "Os Estados Unidos suspenderam todas as decolagens em aeroportos do país por motivos de segurança, sendo a segunda paralisação nacional desde o ataque de 11 de Setembro. A medida foi tomada pela FAA após falhas no sistema de informações aeronáuticas, que já causou cancelamentos em 2023. A paralisação afeta milhares de voos e gera atrasos em toda a rede aérea americana.",
+        "porQueImporta": "A interrupção de voos em todo o país destaca vulnerabilidades críticas na infraestrutura de aviação dos EUA.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "DW Brasil",
+            "url": "https://www.dw.com/pt-br/eua-atribuem-pane-aérea-a-troca-de-cabos-de-cobre-por-fibra-ótica/a-79949623?maca=bra-rss-br-all-1030-rdf"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/ckd71ne91y79o?at_medium=RSS&at_campaign=rss"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/14/eua-propoem-que-ucrania-ceda-territorio-a-russia-em-troca-de-entrada-na-otan-diz-zelensky.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/11/14/caos-aereo-eua-atrasos-cancelamentos-voos.ghtml"
           },
           {
             "name": "Exame",
-            "url": "https://exame.com/mundo/zelensky-diz-que-os-eua-propuseram-troca-de-territorio-com-a-russia-por-entrada-da-ucrania-na-otan/"
+            "url": "https://exame.com/mundo/troca-de-cabos-paralisou-voos-nos-eua-e-gerou-efeito-em-cadeia-nos-aeroportos-diz-governo-trump/"
           }
         ],
-        "updatedAt": "2026-11-14T17:23:53.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/PUTIN-ASSESS-2-e1792698817948.jpg?fit=300%2C202&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-11-14T18:40:00.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d57c/live/676b2ae0-e053-11f1-86b0-57f3dba41115.jpg"
       },
       {
-        "clusterId": "14d46f8902ded406",
+        "clusterId": "d0335226fa7065ae",
+        "slug": "3888dd31e51116ef",
+        "titulo": "Papa Leão XIV visita Chiclayo e realiza cerimônias religiosas",
+        "resumo": "O papa Leão XIV retornou à sua antiga diocese de Chiclayo, onde serviu como bispo de 2015 a 2023, e conduziu uma missa campal que reuniu cerca de 500 mil fiéis. Ele também comandou o rito de coroação da Virgem Imaculada na Catedral de Santa Maria. Durante a visita, o pontífice participou de eventos públicos e interagiu com a comunidade local, enquanto um terremoto de magnitude 5,6 atingiu a costa do Peru. A viagem faz parte de uma apostolação de 12 dias pela América do Sul.",
+        "porQueImporta": "Mostra a continuidade do papado de Leão XIV no Peru e sua conexão com a comunidade local, além de evidenciar a importância religiosa e social da visita.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/mundo/ciencia-sem-consciencia-arruina-a-vida-de-todos-alerta-papa-em-visita-ao-peru/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/papa-leao-xiv-visita-cidade-remota-dos-andes-durante-viagem-ao-peru/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/11/14/em-retorno-a-cidade-onde-foi-bispo-papa-leao-xiv-comanda-rito-de-coroacao-da-virgem-imaculada-no-peru.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-14T18:44:35.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/papa-leao-xiv-Foto-por-SIMONE-RISOLUTI-VATICAN-MEDIA-AFP.jpg"
+      },
+      {
+        "clusterId": "bee5b9dafaf55baa",
         "slug": "d2d4a094e28ede2b",
         "titulo": "Reunião trilateral entre Trump, Xi e Putin na China",
         "resumo": "O presidente dos EUA, Donald Trump, se reunirá com os líderes da Rússia e da China, Vladimir Putin e Xi Jinping, na próxima semana, durante a cúpula da APEC. O encontro, previsto para 19 de novembro, abordará a proliferação nuclear e a guerra no Oriente Médio. A Casa Branca afirmou que a reunião pode gerar uma foto histórica, mas analistas consideram pouco provável que resulte em acordos concretos.",
         "porQueImporta": "O encontro reúne os três maiores potências nucleares, podendo influenciar a segurança global.",
         "category": "mundo",
         "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/trump-xi-e-putin-terao-reuniao-historica-sobre-armas-nucleares/"
-          },
           {
             "name": "CartaCapital",
             "url": "https://www.cartacapital.com.br/mundo/reuniao-inedita-de-trump-xi-e-putin-abordara-nao-proliferacao-nuclear/"
@@ -763,174 +792,131 @@
             "url": "https://g1.globo.com/mundo/noticia/2026/11/13/trump-xi-jinping-e-putin-se-reunirao-na-proxima-semana.ghtml"
           }
         ],
-        "updatedAt": "2026-11-14T15:59:06.000Z",
+        "updatedAt": "2026-11-14T13:10:46.000Z",
         "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/xi-jinping-putin-trump-fotos-afp.jpg"
       },
       {
-        "clusterId": "b3534ea8e327e4fb",
-        "slug": "496f91d9cfaf0033",
-        "titulo": "EUA suspendem todas as decolagens por falha de comunicação nos centros de controle",
-        "resumo": "A FAA determinou a suspensão de todas as decolagens nos aeroportos dos Estados Unidos após uma falha de comunicação que afetou os centros de controle de tráfego aéreo. O secretário de Segurança Interna, Markwayne Mullin, descartou a possibilidade de ataque e afirmou que a medida foi tomada por motivos de segurança e circunstâncias extraordinárias. A suspensão é rara, ocorrendo apenas três vezes na história da aviação americana. A FAA está investigando a causa da falha no sistema.",
-        "porQueImporta": "A paralisação afeta milhões de passageiros e destaca a vulnerabilidade dos sistemas de controle de tráfego aéreo.",
+        "clusterId": "43bec14d5d2e80a3",
+        "slug": "14cab3bd022209f3",
+        "titulo": "SpaceX realiza 15ª missão da Starship com tentativa de recuperação de nave e propulsor",
+        "resumo": "A SpaceX lançou a Starship na 15ª missão, enviando a nave e o propulsor Super Heavy ao espaço. O objetivo foi recuperar ambos os componentes na base de lançamento, uma manobra inédita. A nave retornou ao Texas após 22 horas, sendo capturada pelos braços mecânicos, enquanto a tentativa de recuperar o propulsor falhou. O voo também transportou 26 satélites Starlink para órbita.",
+        "porQueImporta": "A missão testa a viabilidade de reutilizar totalmente o foguete, reduzindo custos de lançamentos futuros.",
         "category": "mundo",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/chefe-da-aviacao-federal-dos-eua-pede-desculpas-apos-caos-aereo"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/caos-aereo-foi-provocado-por-falha-na-troca-de-cabos-em-local-remoto-dos-eua/"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mundo/spacex-avanca-em-foguete-reutilizavel-com-primeira-captura-da-starship-entenda/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/14/caos-aereo-10-perguntas-e-respostas-sobre-a-paralisacao-dos-aeroportos-nos-estados-unidos.ghtml"
+            "url": "https://g1.globo.com/mundo/ao-vivo/spacex-faz-novo-teste-da-starship-e-tenta-manobra-inedita.ghtml"
           }
         ],
-        "updatedAt": "2026-11-14T17:13:10.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/11/chefe-da-aviacao-americana.jpg"
+        "updatedAt": "2026-11-14T22:25:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/11/spacex-starbase-texas-EUA-USA-Starship-01.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
       },
       {
-        "clusterId": "e799fa90c04dac92",
-        "slug": "da4baa740d69513f",
-        "titulo": "Cruzeiro de luxo tomba após colisão com petroleiro no rio Mississippi",
-        "resumo": "Um cruzeiro de luxo caiu no rio Mississippi, em Nova Orleans, após colidir com um petroleiro. O acidente ocorreu na sexta-feira (13) e mobilizou equipes de polícia, bombeiros e a Guarda Costeira. Vários passageiros foram resgatados e encaminhados a hospitais. O número exato de vítimas varia entre 32 e 130, dependendo da fonte.",
-        "porQueImporta": "O incidente destaca riscos de navegação em vias interiores e a necessidade de protocolos de segurança eficientes.",
+        "clusterId": "3bb88fc9031eb33c",
+        "slug": "5536bf3387deb011",
+        "titulo": "Novela 'Lá na Minha Terra' é alvo de críticas por reforçar estereótipos sobre o Nordeste",
+        "resumo": "O pesquisador Octávio Santiago, autor de livro sobre preconceito contra nordestinos, critica a novela 'Lá na Minha Terra' por retratar o Nordeste como um sertão seco e pobre, reforçando estereótipos negativos. Ele afirma que a representação tem efeitos práticos na vida dos nordestinos, contribuindo para a marginalização social. A crítica destaca que a produção televisiva favorece a imagem de atraso do Nordeste em contraste com a Faria Lima, sugerindo que apenas um Brasil 'dá certo'.",
+        "porQueImporta": "A discussão evidencia como a mídia pode perpetuar preconceitos regionais e impactar a percepção pública e oportunidades socioeconômicas.",
         "category": "mundo",
         "sources": [
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/video-cruzeiro-de-luxo-tomba-apos-colisao-com-navio-tanque-nos-eua/"
+            "url": "https://veja.abril.com.br/cultura/o-problema-do-nordeste-que-so-a-globo-ve-tratados-como-mercadoria-diz-pesquisador/"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/14/video-cruzeiro-colide-com-petroleiro-eua.ghtml"
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c6grey09e9n1o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-11-14T15:17:58.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/AFP__20261114__2304497565__v1__HighRes__TankerCollidesWithRiverboatAtPortOfNewOrlean.jpg"
+        "updatedAt": "2026-11-14T21:00:34.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/images-5-1.jpg"
       },
       {
-        "clusterId": "c96717ee75cc2d27",
-        "slug": "cb41d211038909f4",
-        "titulo": "Grupo de cinco países e UE se unem para negociações de paz na Ucrânia",
-        "resumo": "Em cúpula em Dublin, líderes europeus decidiram que a Alemanha, França, Itália, Polônia e Reino Unido, junto com as instituições da UE, representarão a Europa nas negociações com os EUA, Rússia e Ucrânia. O presidente da UE, Antônio Costa, enfatizou a necessidade de uma voz clara e unida. Os líderes pediram que o presidente dos EUA, Donald Trump, evite surpresas nas discussões.",
-        "porQueImporta": "A formação desse grupo pode influenciar diretamente o rumo das negociações de paz e a segurança do continente europeu.",
+        "clusterId": "05d586e2d43fc4c6",
+        "slug": "a3af193b2e65611b",
+        "titulo": "Paraguai acusa ex-presidente Santiago Peña de associação criminosa",
+        "resumo": "O Ministério Público do Paraguai apresentou nova acusação de associação criminosa contra o ex-presidente Santiago Peña, juntamente com Carvallo, três ex-integrantes do conselho do Banco Central e o ex-chefe do órgão regulador bancário. Peña foi destituído em 5 de novembro de 2026 após processo de impeachment relacionado ao escândalo financeiro do Ueno Bank e está preso preventivamente. A acusação faz parte de investigação mais ampla sobre o caso.",
+        "porQueImporta": "A acusação pode influenciar a estabilidade política e a confiança no sistema financeiro paraguaio.",
         "category": "mundo",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/ue-define-grupo-com-cinco-paises-para-negociacoes-de-paz-na-ucrania/"
+            "url": "https://www.cnnbrasil.com.br/internacional/paraguai-acusa-ex-presidente-pena-de-associacao-criminosa-no-caso-ueno/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/13/lideres-europeus-pedem-que-trump-nao-crie-surpresas-e-definem-representantes-em-negociacoes-sobre-a-ucrania.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/11/13/ministerio-publico-do-paraguai-acusa-ex-presidente-santiago-pena-de-associacao-criminosa.ghtml"
           }
         ],
-        "updatedAt": "2026-11-14T14:46:57.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/XWFtskDxWG2jehE5WMudO-W2iCw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/a/Uc5pVATFyx1yKYYd3BSg/2026-11-13t142642z-387727537-rc22noabt22u-rtrmadp-3-eu-summit.jpg"
-      },
-      {
-        "clusterId": "fcac682d0a581dfc",
-        "slug": "982f2819b04916c8",
-        "titulo": "Morte de jovem testemunha de Jeová após recusa de transfusão de sangue",
-        "resumo": "Isaac Valdez, 26 anos, sofreu um ataque epilético e, ao cair, bateu a cabeça, resultando em hemorragia cerebral. Como membro da Igreja de Testemunhas de Jeová, ele recusou transfusão de sangue, levando à sua morte. Em agosto, a legislação brasileira foi alterada para permitir transfusões de componentes sanguíneos específicos, como plasma, glóbulos vermelhos e plaquetas, embora a recusa de Valdez não tenha sido revertida.",
-        "porQueImporta": "O caso destaca a tensão entre convicções religiosas e decisões médicas, além de refletir mudanças recentes na legislação sobre transfusões.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/saude/noticia/2026/11/14/meu-irmao-morreu-ao-recusar-transfusao-de-sangue-por-ser-testemunha-de-jeova-pouco-depois-eliminaram-a-proibicao.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cr1ewpp21dp8o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-11-14T14:43:27.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/AMVGXs7LLeRrekdRPRV3o9C4M8c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/S/aEmmMhQtA7AdJsKeGlSQ/foto-1-bbc.png"
-      },
-      {
-        "clusterId": "300c1a7062865caa",
-        "slug": "ea5431745dd0b232",
-        "titulo": "Mãe de menino brasileiro que teve dedo mutilado em escola em Portugal contesta investigação e busca justiça",
-        "resumo": "Nívia Estevam, mãe de José, afirma que o acidente que mutilou dois dedos do filho em uma escola pública em Portugal em novembro de 2025 forçou a família a mudar de cidade e reorganizar sua vida financeira e profissional. A investigação oficial concluiu que não houve bullying, classificando o caso como acidente, o que a família contesta. A mãe aguarda o desfecho de processos judiciais e espera justiça para que a situação não seja ignorada.",
-        "porQueImporta": "O caso destaca a necessidade de investigação adequada e proteção de crianças em ambientes escolares internacionais.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/14/mae-de-menino-brasileiro-que-teve-dedo-mutilado-em-escola-diz-que-familia-teve-que-mudar-de-cidade-e-espera-justica-para-deixar-portugal-traumas-para-a-vida-toda.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/ck0jxpxl6q24o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-11-14T09:00:01.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/fgYBYjfiZjzhOAvDbISXO9qa7Jw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/H/s4DIHdQvKhV8dYT7RCiw/bbc.webp"
+        "updatedAt": "2026-11-14T19:29:27.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/931fvwvhca_M4XOgqnybEMDgDR8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/9/tvjNW7SseODUS6B9GLtQ/2026-11-05t162617z-2095193189-rc28k9aom5wk-rtrmadp-3-paraguay-politics.jpg"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "ad75b5c0fb03f31e",
-        "slug": "f6a0c21540fb203d",
-        "titulo": "Amazon oferece promoções em mouses gamer sem fio",
-        "resumo": "A Amazon disponibiliza três modelos de mouses gamer sem fio em promoção, incluindo o Redragon King Lite Ultraleve. Os dispositivos apresentam alta precisão, leveza e liberdade de movimento, com sensores de 10.000 DPI e taxa de atualização de 1.000 Hz. A oferta visa atender jogadores que buscam desempenho e conforto sem fio.",
-        "porQueImporta": "Facilita a escolha de equipamentos de qualidade a preços reduzidos para a comunidade gamer.",
+        "clusterId": "18f2a7c8d1ccaccd",
+        "slug": "82382e63d38c7fcc",
+        "titulo": "Casa mais limpa sem esforço: selecionamos os melhores aspiradores robô em promoção",
+        "resumo": "O Olhar Digital apresenta três aspiradores robô em promoção na Amazon, destacando modelos que oferecem praticidade e eficiência na limpeza doméstica. Entre os recomendados está o WAP Robot W90 3 em 1, que combina funções de aspirador, varredura e limpeza de superfícies. Os produtos são apresentados como opções acessíveis para quem busca manter o chão limpo sem esforço.",
+        "porQueImporta": "Esses dispositivos facilitam a rotina de limpeza, economizando tempo e esforço dos usuários.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/14/reviews/precisando-de-um-mouse-gamer-sem-fio-veja-estas-opcoes-em-promocao-na-amazon-2/"
+            "url": "https://olhardigital.com.br/2026/11/14/reviews/casa-mais-limpa-sem-esforco-selecionamos-os-melhores-aspiradores-robo-em-promocao-7/"
           }
         ],
-        "updatedAt": "2026-11-14T17:04:38.000Z"
+        "updatedAt": "2026-11-14T22:24:38.000Z"
       },
       {
-        "clusterId": "35baf774a1e9f16f",
-        "slug": "e637a3c8236ff29f",
-        "titulo": "LG UltraGear em promoção: monitores gamer IPS com 144Hz e 1ms",
-        "resumo": "A linha LG UltraGear foi destaque em promoção na Amazon, oferecendo monitores gamer com painel IPS, taxa de atualização de 144Hz e tempo de resposta de 1ms. Os modelos disponíveis são compatíveis com as principais tecnologias de sincronização do mercado. A oferta reúne opções que podem melhorar a experiência de jogo para os consumidores.",
-        "porQueImporta": "A promoção facilita o acesso a equipamentos de alto desempenho para gamers.",
+        "clusterId": "accd660e0f370caa",
+        "slug": "340c1800186fffdb",
+        "titulo": "Amazon oferece ofertas de jogos para Xbox",
+        "resumo": "A Amazon disponibiliza uma seleção de jogos para Xbox, incluindo opções para diferentes estilos de jogo. Entre os títulos destacados estão o clássico shooter espacial Halo Infinite e o jogo de construção em blocos. A oferta visa atrair jogadores que buscam ampliar sua coleção de jogos.",
+        "porQueImporta": "Essas promoções podem incentivar compras e atrair novos usuários para a plataforma Xbox.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/14/reviews/lg-ultragear-em-promocao-monitores-gamer-ips-com-144hz-e-1ms-que-vale-a-pena-conferir/"
+            "url": "https://olhardigital.com.br/2026/11/14/reviews/qual-e-o-seu-proximo-jogo-de-xbox-confira-estas-ofertas-na-amazon/"
           }
         ],
-        "updatedAt": "2026-11-14T16:44:38.000Z"
+        "updatedAt": "2026-11-14T21:44:38.000Z"
       },
       {
-        "clusterId": "c439c21f65df055a",
-        "slug": "0552d2ed84c40df4",
-        "titulo": "Seleção de notebooks e acessórios em promoção na Amazon",
-        "resumo": "A Amazon disponibiliza uma seleção de notebooks, desde modelos compactos e leves até opções com telas Full HD, além de acessórios que melhoram a ergonomia do home office. A oferta inclui notebooks com processadores Intel Pentium Gold e outros modelos de diferentes marcas. Os itens estão em promoção e podem ser adquiridos diretamente na plataforma da Amazon.",
-        "porQueImporta": "A promoção oferece oportunidades de atualização de equipamentos de trabalho e estudo com preços reduzidos.",
+        "clusterId": "48fab02d507ed42b",
+        "slug": "8e59358d4060c18d",
+        "titulo": "Olhar Digital destaca promoções de eletrônicos na Amazon",
+        "resumo": "O portal Olhar Digital publicou cinco artigos que apresentam promoções de produtos eletrônicos na Amazon, incluindo impressoras multifuncionais, roteadores Wi‑Fi, tablets, headsets 7.1 surround e câmeras de segurança. Cada post lista três modelos em oferta, descrevendo suas principais características e benefícios. Os leitores são convidados a comparar opções e aproveitar descontos para melhorar o setup doméstico ou profissional.",
+        "porQueImporta": "Essas promoções permitem que consumidores atualizem equipamentos essenciais com economia e acesso a tecnologias recentes.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/14/reviews/hora-de-renovar-o-seu-setup-selecao-de-notebooks-e-acessorios-em-promocao-na-amazon/"
+            "url": "https://olhardigital.com.br/2026/11/14/reviews/hora-de-imprimir-mais-e-gastar-menos-veja-uma-selecao-de-impressoras-em-promocao-na-amazon-11/"
           }
         ],
-        "updatedAt": "2026-11-14T16:24:38.000Z"
+        "updatedAt": "2026-11-14T21:04:38.000Z"
       },
       {
-        "clusterId": "c4c62d7be72c3a42",
-        "slug": "ca73ea2d43ce21a4",
-        "titulo": "Notebooks gamer em promoção: Lenovo LOQ e ASUS TUF entre as melhores escolhas",
-        "resumo": "A Amazon Brasil oferece três notebooks gamer em oferta, atendendo a perfis variados de uso. Entre as opções destacam-se o Lenovo LOQ IRX9 e o ASUS TUF, que apresentam desempenho superior ao padrão. As promoções permitem montar setups de jogos com custo-benefício atraente.",
-        "porQueImporta": "Essas ofertas facilitam a aquisição de equipamentos de alto desempenho a preços mais acessíveis.",
+        "clusterId": "60563c068f231808",
+        "slug": "ea612f7c4f0cbd67",
+        "titulo": "Nissan Kicks Exclusive 2026 cai 17,5% no mercado de seminovos",
+        "resumo": "O Nissan Kicks Exclusive 2026, modelo mais completo da linha, aparece na Tabela Fipe por R$ 150.568 após pouco mais de um ano de mercado. O preço caiu R$ 31.922, equivalente a 17,5%, em relação ao valor de lançamento de R$ 182.490 em junho de 2025. A queda torna o SUV mais acessível em comparação com carros novos, como o VW Tera.",
+        "porQueImporta": "A redução de preço oferece uma alternativa mais econômica para quem busca um SUV bem equipado.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/14/reviews/notebooks-gamer-em-promocao-lenovo-loq-e-asus-tuf-estao-entre-as-melhores-escolhas-do-momento/"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/carros/suv-japones-com-um-ano-de-uso-fica-no-precinho-e-sai-mais-barato-que-vw-tera/"
           }
         ],
-        "updatedAt": "2026-11-14T16:04:38.000Z"
+        "updatedAt": "2026-11-14T19:03:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/fAEflmkhuvSvAf7fCfPLtJERUQI=/0x0/filters:format(webp):quality(85)/b62f7839-45e1-45fa-9f99-4a30c3092ae7.JPG"
       },
       {
         "clusterId": "781b0e1097692f05",
@@ -949,52 +935,91 @@
         "imageUrl": "https://tl.ctcdn.com.br/apaTC-pEUlgqdvCirGMlwipy7zE=/0x0/filters:format(webp):quality(85)/6e008b6b-d791-4e39-864e-bd20eb26b5b7.jpeg"
       },
       {
-        "clusterId": "5b3cc8db79e7ba96",
-        "slug": "e84ebfcb275fb074",
-        "titulo": "Smartwatches em promoção na Amazon",
-        "resumo": "A Olhar Digital destaca três modelos de smartwatch disponíveis na Amazon, apresentando características e preços competitivos. Entre as opções citadas está o Bettdow Smartwatch com IA Integrada – FB051 em preto. O artigo sugere que é um bom momento para adquirir ou presentear com um relógio inteligente.",
-        "porQueImporta": "Oferece opções acessíveis para quem busca tecnologia vestível.",
+        "clusterId": "4a17850bc6bf6a93",
+        "slug": "e16e2893b7f107c9",
+        "titulo": "5 carros mais baratos para PcD com ACC em 2026",
+        "resumo": "O piloto automático adaptativo (ACC) passou a aparecer em modelos de segmentos mais acessíveis, integrando os pacotes de assistência à condução (ADAS). A tecnologia mantém a velocidade programada e ajusta aceleração e frenagem conforme a distância ao veículo à frente, tornando as viagens menos cansativas. A lista apresenta os cinco veículos mais econômicos com ACC disponíveis para quem compra com benefícios destinados ao público PcD.",
+        "porQueImporta": "Facilita a escolha de veículos acessíveis com tecnologia de segurança avançada para pessoas com deficiência.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/14/reviews/smartwatches-em-promocao-veja-uma-selecao-de-modelos-conectados-para-aproveitar-agora/"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/carros/5-carros-mais-baratos-para-pcd-com-acc-em-2026/"
           }
         ],
-        "updatedAt": "2026-11-14T15:44:38.000Z"
+        "updatedAt": "2026-11-14T12:02:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/7thynnujlAyjG2LQUAfMUyycBe4=/0x0/filters:format(webp):quality(85)/778d4e6c-3ddf-4e06-babf-8519ec9e8d6b.jpg"
       },
       {
-        "clusterId": "41e5a15ef72d25f2",
-        "slug": "038516a885271301",
-        "titulo": "Xiaomi oferece promoção de smartphones em diferentes faixas",
-        "resumo": "A Xiaomi consolidou sua reputação no Brasil ao disponibilizar smartphones com boa performance e recursos interessantes em diversas faixas de preço. O post destaca três modelos disponíveis na Amazon, incluindo o Redmi 15C na cor Midnight Black com 8GB de RAM e 256GB de armazenamento. A seleção abrange opções que atendem a diferentes perfis de consumidores.",
-        "porQueImporta": "Permite ao consumidor escolher um aparelho Xiaomi com bom custo-benefício e recursos adequados ao seu perfil.",
+        "clusterId": "3f9d3028bc9c4a7a",
+        "slug": "7c00d20b2e7e2eb1",
+        "titulo": "Prefeitura de Recife planeja ampliar plataforma Conecta Recife para oferecer serviços públicos sem clique",
+        "resumo": "A plataforma Conecta Recife, desenvolvida pela Emprel e SECTI, visa facilitar o acesso digital a serviços públicos. O objetivo é torná‑la mais personalizável e evoluir para um serviço “zero clique”, que conceda direitos ao cidadão sem necessidade de solicitação. A iniciativa faz parte da estratégia de modernização da administração municipal.",
+        "porQueImporta": "A expansão pode melhorar a eficiência e a inclusão digital dos usuários dos serviços públicos do Recife.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/14/reviews/xiaomi-em-promocao-confira-uma-selecao-de-smartphones-para-todos-os-perfis-2/"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/apps/prefeitura-do-recife-quer-transformar-sistema-em-amazon-dos-servicos-publicos/"
           }
         ],
-        "updatedAt": "2026-11-14T15:24:38.000Z"
+        "updatedAt": "2026-11-14T10:00:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/JFskkt0CTTEPFH3xjYNDnSORpaU=/0x0/filters:format(webp):quality(85)/cfbc0329-922c-4bbc-8e69-d88389338a41.png"
       },
       {
-        "clusterId": "145623e369a9ba92",
-        "slug": "2d984245799873c5",
-        "titulo": "Motorola Moto G35, G56 e G06 em promoção na Amazon",
-        "resumo": "A Amazon apresenta três modelos da linha Moto G em promoção: Moto G35, Moto G56 e Moto G06. Os dispositivos oferecem bom custo-benefício, com câmeras adequadas, conectividade 5G e desempenho sólido para uso diário. A seleção destaca opções acessíveis para quem busca um smartphone funcional.",
-        "porQueImporta": "Esses modelos representam oportunidades de compra vantajosas para consumidores que valorizam desempenho e preço competitivo.",
+        "clusterId": "ab2cb760235dc4cf",
+        "slug": "58abe7959fa7a2c9",
+        "titulo": "Biometria facial com prova de vida combate deepfakes e fraudes digitais",
+        "resumo": "A biometria facial com prova de vida, ou liveness, verifica se há uma pessoa real diante da câmera, além de comparar a selfie com a foto de documento. Essa tecnologia ajuda a prevenir fraudes em jornadas digitais, especialmente com o aumento de deepfakes. A escolha da solução deve considerar fatores como escala, privacidade e custo.",
+        "porQueImporta": "Garantir a autenticidade das identidades digitais protege usuários e empresas contra fraudes cada vez mais sofisticadas.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/14/reviews/moto-g35-g56-e-g06-selecionamos-os-melhores-motorolas-em-promocao-na-amazon/"
+            "name": "G1",
+            "url": "https://g1.globo.com/tecnologia/ciberseguranca/serasa/noticia/2026/11/13/biometria-facial-contra-deepfakes-o-que-avaliar-em-liveness-escala-e-privacidade.ghtml"
           }
         ],
-        "updatedAt": "2026-11-14T15:04:38.000Z"
+        "updatedAt": "2026-11-13T21:56:54.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/GDVrkNwYNRFiOzfk6Kw-_kqs4_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/X/SZJmbFTAmgUpWgAuKhNw/imagem1.png"
       }
     ],
     "ciencia": [
+      {
+        "clusterId": "8fbcbed398504c89",
+        "slug": "68fde77748aeb7c7",
+        "titulo": "USP, Unesp e Unicamp pedem reunião com governo sobre irregularidades no Provão Paulista",
+        "resumo": "As pró-reitorias de graduação das universidades USP, Unesp e Unicamp emitiram nota conjunta expressando preocupação com denúncias de cola e uso de inteligência artificial no Provão Paulista de 2026. Elas solicitaram reunião com o governo para discutir os registros divulgados pela imprensa e redes sociais. A nota destaca a necessidade de garantir a integridade do exame.",
+        "porQueImporta": "Garantir a lisura de um exame de grande importância para o acesso ao ensino superior no estado.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/sp/piracicaba-regiao/educacao/noticia/2026/11/14/provao-paulista-usp-unesp-e-unicamp-manifestam-preocupacao-com-casos-de-vazamentos-uso-de-ia-e-falhas-na-fiscalizacao.ghtml"
+          },
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/comunicados/nota-conjunta-das-pro-reitorias-de-graduacao-da-usp-unesp-e-unicamp-sobre-o-provao-paulista/"
+          }
+        ],
+        "updatedAt": "2026-11-14T19:16:56.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/QiqzmSR1AACgAv7tiKTkM9SPjxk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/O/w/s8kvmVT2aTdp3iSZPuOA/5968373590-4e00f91106-o.jpg"
+      },
+      {
+        "clusterId": "2342cd7436a9421e",
+        "slug": "64a343a850c3b60a",
+        "titulo": "Dinossauros gigantes sustentavam peso sem quebrar ossos",
+        "resumo": "Saurópodes evoluíram estratégias biomecânicas distintas para suportar toneladas de massa. Seus ossos apresentavam adaptações estruturais que distribuíam a carga de forma eficiente. A pesquisa destaca como a evolução moldou a anatomia para evitar fraturas em animais de grande porte.",
+        "porQueImporta": "Entender esses mecanismos auxilia na biologia evolutiva e na engenharia biomimética.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/ciencia/como-os-dinossauros-gigantes-sustentavam-toneladas-de-peso-sem-quebrar-os-ossos/"
+          }
+        ],
+        "updatedAt": "2026-11-14T21:00:36.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_Como-dinossauros-sustentavam-toneladas-sem-quebrar-ossos_site.jpg"
+      },
       {
         "clusterId": "b82c2ae44496fe02",
         "slug": "af6e3c688afcd0d3",
@@ -1090,38 +1115,6 @@
         ],
         "updatedAt": "2026-11-13T21:55:47.000Z",
         "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_pesquisa-Alzheimer-rendeu-cientista-premio-melhor-tese_site.jpg"
-      },
-      {
-        "clusterId": "99553f786b68b42f",
-        "slug": "6281a003f07a4466",
-        "titulo": "Pesquisadores sugerem novo índice para diagnóstico de obesidade",
-        "resumo": "Estudos indicam que o índice de massa corporal (IMC) pode ser complementado pela circunferência abdominal e exames de função orgânica para avaliar melhor a obesidade. A proposta visa melhorar a precisão do diagnóstico e identificar riscos associados ao acúmulo de gordura visceral. Os pesquisadores destacam que o IMC sozinho pode não refletir adequadamente a distribuição de gordura e a saúde metabólica.",
-        "porQueImporta": "Um diagnóstico mais preciso pode orientar intervenções mais eficazes contra doenças relacionadas à obesidade.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/saude/voce-conhece-o-novo-imc-entenda-o-que-pode-mudar-no-diagnostico-da-obesidade/"
-          }
-        ],
-        "updatedAt": "2026-11-13T21:15:43.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_nova-definicao-obesidade_site.jpg"
-      },
-      {
-        "clusterId": "3011bb7750d2b86b",
-        "slug": "451cef8edbac0dca",
-        "titulo": "Fórum da Poli-USP reúne empresas para discutir impacto da IA na produtividade",
-        "resumo": "O evento contou com a presença de grandes empresas que apresentaram experiências de aplicação da inteligência artificial na excelência operacional. Os participantes debateram os desafios da transformação tecnológica e o potencial de aumento de produtividade. O encontro destacou a importância da IA como ferramenta estratégica nas organizações.",
-        "porQueImporta": "Ilustra como a IA está sendo adotada para melhorar a eficiência empresarial.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/webinario-discute-oportunidades-desafios-e-riscos-da-inteligencia-artificial-na-educacao/"
-          }
-        ],
-        "updatedAt": "2026-11-13T20:23:08.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/10/20261103_dadosiaaula-1024x538.jpg"
       }
     ],
     "saude": [
@@ -1144,8 +1137,8 @@
         "clusterId": "d5c92f476ef639c8",
         "slug": "cac2d49b0f80678b",
         "titulo": "Câncer de amígdala: fatores de risco incluem HPV, álcool e tabagismo",
-        "resumo": "O câncer de amígdala, um tumor da orofaringe, tem sido associado à infecção pelo HPV, ao consumo de álcool e ao tabagismo. Esses fatores são considerados os principais responsáveis pelo desenvolvimento da doença. A relação entre o HPV e o câncer de amígdala reforça a importância da prevenção e da vacinação. O consumo de álcool e o tabagismo continuam sendo modifiáveis e contribuem significativamente para o risco.",
-        "porQueImporta": "Identificar esses fatores de risco pode orientar estratégias de prevenção e diagnóstico precoce.",
+        "resumo": "O câncer de amígdala, um tumor da orofaringe, está associado a vários fatores de risco. Entre eles, a infecção pelo HPV, o consumo de álcool e o tabagismo se destacam como principais contribuintes. A presença desses fatores aumenta a probabilidade de desenvolvimento do câncer na região da amígdala.",
+        "porQueImporta": "Identificar esses fatores ajuda na prevenção e no diagnóstico precoce do câncer de amígdala.",
         "category": "saude",
         "sources": [
           {
@@ -1154,160 +1147,146 @@
           }
         ],
         "updatedAt": "2026-11-13T18:00:00.000Z"
-      },
-      {
-        "clusterId": "686588640a65b341",
-        "slug": "b5f6fca8a7dc8edf",
-        "titulo": "Pesquisa revela que 30% das mulheres desconhecem meios de prevenção do câncer de mama",
-        "resumo": "Um estudo do Instituto A.C. Camargo indica que 30% das mulheres não sabem como prevenir o câncer de mama. A pesquisa destaca a falta de conhecimento sobre exames de rastreamento e hábitos de saúde. A informação foi divulgada no episódio 273 do podcast DrauzioCast.",
-        "porQueImporta": "A falta de conhecimento pode atrasar o diagnóstico precoce e aumentar a mortalidade.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/podcasts/drauziocast/desconhecimento-sobre-deteccao-precoce-do-cancer-de-mama/"
-          }
-        ],
-        "updatedAt": "2026-11-12T21:31:00.000Z"
-      },
-      {
-        "clusterId": "c6312a861888586d",
-        "slug": "708fe7e28804361a",
-        "titulo": "Tumores neuroendócrinos podem provocar sinais discretos e exigem diagnóstico preciso",
-        "resumo": "Os tumores neuroendócrinos podem se desenvolver em diversos órgãos e apresentar sintomas leves ou inespecíficos. A identificação correta desses tumores é fundamental para iniciar tratamentos que têm evoluído nos últimos anos. O diagnóstico precoce aumenta as chances de sucesso terapêutico.",
-        "porQueImporta": "Detectar esses tumores cedo melhora o prognóstico e amplia as opções de tratamento.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/oncologia/tumores-neuroendocrinos-podem-provocar-sinais-discretos-e-exigem-diagnostico-preciso/"
-          }
-        ],
-        "updatedAt": "2026-11-12T18:00:00.000Z"
       }
     ],
     "esportes": [
       {
-        "clusterId": "1db45ca95ffcdba1",
-        "slug": "b952be9c853297ef",
-        "titulo": "Chapecoense x Vasco e Mirassol x Atlético-MG agendam rodada 35",
-        "resumo": "Na Arena Condá, Chapecoense enfrenta o Vasco às 20h30, em jogo atrasado da 21ª rodada, com o Vasco buscando evitar o Z‑4 e chegar perto do G‑8. No mesmo sábado, Mirassol recebe o Atlético‑MG às 18h30, na 35ª rodada, em duelo que pode influenciar a disputa por título, Libertadores e rebaixamento. Ambos os confrontos são cruciais para a posição final das equipes na tabela.",
-        "porQueImporta": "Os resultados determinarão a trajetória de cada clube nas últimas rodadas do Brasileirão.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/chapecoense-x-vasco-no-brasileirao-onde-assistir-horario-escalacoes-e-historico/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/11/14/sonho-da-libertadores-ou-z-4-jogo-contra-a-chape-dita-futuro-do-vasco-no-brasileirao-veja-cenarios.ghtml"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/esporte/com-retornos-e-desfalques-importantes-atletico-mg-encara-o-mirassol-pelo-brasileirao/"
-          }
-        ],
-        "updatedAt": "2026-11-14T17:00:21.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/09/GettyImages-687437162.jpg"
-      },
-      {
-        "clusterId": "9f8e6178be5e1616",
-        "slug": "c86c59a57439c05a",
-        "titulo": "Partidas da 21ª e 35ª rodadas do Brasileirão",
-        "resumo": "Na Arena Condá, em Chapecó, Chapecoense enfrenta o Vasco na 21ª rodada, com a Chape já rebaixada e o Vasco buscando evitar a zona de rebaixamento. No estádio Maião, em Mirassol, Mirassol encara o Atlético‑Mineiro na 35ª rodada, onde o Leão tenta se afastar do Z4 e o Galo busca reagir antes da final da Sul‑América.",
-        "porQueImporta": "Essas partidas determinam posições críticas na tabela, afetando a permanência na Série A e estratégias para a temporada seguinte.",
+        "clusterId": "8f4643ab97c20b42",
+        "slug": "8cea7bff612adca1",
+        "titulo": "Avaí vence América-MG mas é rebaixado para a Série C",
+        "resumo": "O Avaí venceu o América-MG por 2 a 0 na última rodada da Série B, mas o empate do Ceará com o CRB impediu que o clube catarinense mantivesse a posição na segunda divisão. O presidente Bernardo Pessi assumiu a responsabilidade pelo rebaixamento e pediu desculpas ao público. Léo Gamalho marcou o segundo gol da partida, igualando Zé Carlos na artilharia histórica da Série B. O Avaí se junta a Ponte Preta, América-MG e Londrina na lista de rebaixados.",
+        "porQueImporta": "O resultado confirma a queda do Avaí para a terceira divisão do futebol brasileiro, alterando a composição da Série B para a próxima temporada.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/pe/caruaru-regiao/futebol/campeonato-pernambucano/jogo/14-11-2026/america-pe-vera-cruz.ghtml"
+            "url": "https://ge.globo.com/mg/zona-da-mata-centro-oeste/jogo/14-11-2026/america-mg-avai.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/serie-b-ceara-empata-com-crb-e-se-livra-da-3a-divisao-avai-e-rebaixado"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/juventude-pode-ser-o-unico-gaucho-na-serie-a-do-brasileiro-de-2027-entenda/"
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/avai-nao-consegue-ultrapassar-o-ceara-e-disputara-serie-c-veja-rebaixados/"
           }
         ],
-        "updatedAt": "2026-11-14T17:36:32.000Z"
+        "updatedAt": "2026-11-14T23:25:01.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/VMnBDtG1S_iNFlcwDbCDeSSoTQI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/k/7/5PJX35QGGGr47YnjihHA/55559133818-5b4910a040-k.jpg"
       },
       {
-        "clusterId": "3a47fe107183d4e4",
-        "slug": "fdc51d4ff5edbf1c",
-        "titulo": "Portugal anuncia aposentadoria do número 7 usado por Cristiano Ronaldo",
-        "resumo": "A Federação Portuguesa de Futebol anunciou a aposentadoria do número 7, usado por Cristiano Ronaldo, após sua saída da seleção. Em homenagem ao ídolo, a camisa 7 terá um grafismo diferenciado a partir do próximo jogo contra a Dinamarca, mantendo a mesma essência da peça.",
-        "porQueImporta": "A medida reforça a importância histórica de Ronaldo para a seleção e preserva sua memória no futebol português.",
+        "clusterId": "bfe10461bbf67609",
+        "slug": "7fae376201d959ad",
+        "titulo": "Novorizontino conquista título da Série B pela primeira vez",
+        "resumo": "O Novorizontino venceu o Criciúma por 1 a 0 no Estádio Heriberto Hülse, em Santa Catarina, e levantou a taça da Série B. A vitória confirmou o acesso do clube à Série A do Brasileirão de 2027. O técnico Enderson Moreira conquistou seu quarto título na segunda divisão, tornando-se o maior vencedor da história da competição. O clube também foi vice-campeão do Paulistão na mesma temporada.",
+        "porQueImporta": "O título marca a primeira conquista nacional do Novorizontino e consolida a carreira de Enderson Moreira como o maior campeão da Série B.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/sc/futebol/brasileirao-serie-b/jogo/14-11-2026/criciuma-novorizontino.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/novorizontino-vence-o-criciuma-e-conquista-titulo-inedito-da-serie-b"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/novorizontino-vence-criciuma-conquista-serie-b-e-leva-1o-titulo-nacional/"
+          }
+        ],
+        "updatedAt": "2026-11-14T23:05:34.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/jQcaIgQGHuL8t-oTYhL1Wnm0KNI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/C/1/Yx2E8xRZelgSB02KI7Sg/6.png"
+      },
+      {
+        "clusterId": "2a46dc802b07921f",
+        "slug": "a46386bd0b6d255a",
+        "titulo": "Juventude vence Botafogo-SP e garante acesso direto à Série A",
+        "resumo": "O Juventude venceu o Botafogo-SP por 2 a 0 na última rodada da Série B, assegurando o vice-campeonato e o acesso direto à elite do Campeonato Brasileiro de 2027. O jogo, realizado no Alfredo Jaconi, contou com o maior público do estádio na temporada, 18.413 torcedores, e marcou a despedida de Alan Ruschel dos gramados. O clube volta à Série A um ano após o rebaixamento, sendo o único rebaixado da temporada anterior a confirmar o acesso direto. O acesso foi confirmado com a vitória, enquanto Fortaleza ainda disputa os playoffs e Sport e Ceará permanecem na Série B.",
+        "porQueImporta": "O retorno do Juventude à Série A demonstra a rápida recuperação de um clube rebaixado e tem impacto direto na competição nacional.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-b/jogo/14-11-2026/juventude-botafogo-sp.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/juventude-vence-e-confirma-acesso-a-serie-a-veja-quem-disputa-os-playoffs"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/veja-como-ficaram-os-playoffs-da-serie-b-pelo-acesso-ao-brasileirao-de-2027/"
+          }
+        ],
+        "updatedAt": "2026-11-14T22:57:54.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/kqRDXb0RVTffTYkzUskjD50oNw0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/h/Y/YXP04uRVehA75gNFhb2g/agif26111419081790.jpg"
+      },
+      {
+        "clusterId": "1b34f4b300dc029a",
+        "slug": "f8d0ee2fba123e9e",
+        "titulo": "Dinamarca goleia Portugal por 4 a 1 na Nations League",
+        "resumo": "Portugal perdeu por 4 a 1 para a Dinamarca na quinta rodada da Nations League, em Braga. A partida foi marcada por homenagens a Cristiano Ronaldo, que anunciou aposentadoria da seleção no início do mês. Foi a primeira derrota de Portugal sob o comando de Jorge Jesus e o primeiro jogo sem Ronaldo na equipe. Todos os jogadores portugueses entraram vestindo a camisa 7 com o nome de Ronaldo.",
+        "porQueImporta": "O resultado reflete a transição da seleção portuguesa após a saída de um dos maiores ídolos do futebol.",
         "category": "esportes",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/portugal-anuncia-aposentadoria-do-numero-7-usado-por-cristiano-ronaldo"
+            "url": "https://www.metropoles.com/esportes/dinamarca-acaba-com-a-festa-para-cr7-e-derrota-portugal-pela-nations-league"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/14/camisa-7-de-portugal-tera-grafismo-diferente-para-homenagear-cristiano-ronaldo.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-14T16:02:20.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/07/cristiano-ronaldo-5.jpg"
-      },
-      {
-        "clusterId": "cdf155bb52a58ad7",
-        "slug": "f00b8d6d20b3bc96",
-        "titulo": "Seleção Brasileira perde amistoso 3 a 2 para Japão em Singapura",
-        "resumo": "O Brasil foi derrotado por 3 a 2 pelo Japão em amistoso em Singapura, com Vini Jr. marcando dois gols. O técnico Carlo Ancelotti foi expulso após reclamação, enquanto o atacante Raphinha recebeu cartão vermelho nos acréscimos e pediu desculpas. Galvão Bueno criticou o início da partida e a falta de entrosamento, e Alexandre Lozetti avaliou o trabalho de Ancelotti como ruim.",
-        "porQueImporta": "O resultado reflete a preparação da Seleção antes de competições importantes e destaca questões de disciplina e gestão técnica.",
-        "category": "esportes",
-        "sources": [
+            "url": "https://ge.globo.com/futebol/futebol-internacional/liga-das-nacoes/jogo/14-11-2026/portugal-dinamarca.ghtml"
+          },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/galvao-bueno-e-direto-sobre-derrota-da-selecao-para-japao-assustador/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/em-primeiro-jogo-sem-cr7-portugal-leva-goleada-da-dinamarca/"
+          }
+        ],
+        "updatedAt": "2026-11-14T22:40:02.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/11/gettyimages-2305134629.jpg"
+      },
+      {
+        "clusterId": "f6a55514dfdd5aac",
+        "slug": "2e4bff09c420d301",
+        "titulo": "Chapecoense enfrenta Vasco na 21ª rodada do Brasileirão",
+        "resumo": "Na Arena Condá, em Chapecó, Chapecoense e Vasco se enfrentam na 21ª rodada do Campeonato Brasileiro 2026. O duelo é atrasado e tem importância para a Chape, que já está rebaixada, e para o Vasco, que busca evitar a queda para a Série B. As equipes já definiram suas escalações e os torcedores podem acompanhar o jogo ao vivo.",
+        "porQueImporta": "O resultado pode confirmar o fim da temporada para a Chapecoense e influenciar a posição do Vasco na tabela de classificação.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/sc/futebol/brasileirao-serie-a/jogo/14-11-2026/chapecoense-vasco.ghtml"
           },
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/14/alexandre-lozetti-critica-trabalho-de-ancelotti-na-selecao-o-brasil-joga-mal-a-maioria-dos-jogos.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/chapecoense-x-vasco-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/"
           }
         ],
-        "updatedAt": "2026-11-14T14:54:33.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/8cULmPj2ZNyhq0AuMdmZUaYjyDY=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/y/O/cFRptGStyu4UYuzAAFUw/ancelotti-reu4.jpg"
+        "updatedAt": "2026-11-14T23:36:15.000Z"
       },
       {
-        "clusterId": "3983297b6cc0fb87",
-        "slug": "e32226dd119893e0",
-        "titulo": "Matheuzinho recebe placa pelos 150 jogos e André estreia na Seleção brasileira",
-        "resumo": "O lateral-direito Matheuzinho foi homenageado no CT Joaquim Grava com uma placa e uma camisa personalizada pelo gerente de futebol Julio Cesar, em comemoração aos 150 jogos pelo Corinthians. O jogador postou o momento nas redes sociais. Já o volante André estreou como titular na Seleção brasileira, jogando 59 minutos no amistoso contra o Japão, que terminou com vitória do Japão por 3 a 2.",
-        "porQueImporta": "A homenagem a Matheuzinho destaca sua longevidade no clube, enquanto a estreia de André na Seleção reflete o reconhecimento de talentos corintianos no cenário internacional.",
+        "clusterId": "014ed22ec25fed72",
+        "slug": "02c5075d057d0278",
+        "titulo": "Roman Fress conquista cinturões europeus e intercontinentais após vitória controversa sobre Armend Xhoxhaj",
+        "resumo": "Na terceira luta entre os dois, Roman Fress venceu por decisão unânime (115-113, 115-113, 116-112) em Magdeburgo, Alemanha. O resultado gerou protesto da equipe de Xhoxhaj, que levantou o lutador nos ombros. A vitória concedeu a Fress o título europeu dos pesos-cruzadores da WBO e ele já detém o cinturão intercontinental da mesma organização.",
+        "porQueImporta": "A conquista de dois títulos da WBO reforça a posição de Fress como líder no peso-cruzador europeu.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/11/14/matheuzinho-recebe-placa-em-homenagem-aos-150-jogos-pelo-corinthians.ghtml"
+            "url": "https://ge.globo.com/combate/noticia/2026/11/14/boxe-fress-conquista-cinturoes-em-vitoria-controversa-contra-xhoxhaj.ghtml"
           }
         ],
-        "updatedAt": "2026-11-14T17:34:14.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/-1fLX8Hxl-2S_XN_eNxIhOFqDVE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/X/7/B4AnjPSrOm474v8qF3ng/whatsapp-image-2026-11-14-at-14.14.53.jpeg"
+        "updatedAt": "2026-11-14T23:32:06.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/rIo_6Jds2nM9pPwOv2jm5vbOx2c=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/q/V/xD0rEdTQqh8n6ItJseuA/captura-de-tela-2026-11-14-201444.png"
       },
       {
-        "clusterId": "cb5fcc55df8515f0",
-        "slug": "36aefe3ed46d1d6a",
-        "titulo": "Seleção Sub-20 vence Peru por 2 a 0",
-        "resumo": "A Seleção Brasileira Sub-20 venceu o Peru por 2 a 0 no Mangueirão, em Belém, na última sexta-feira. Vitão marcou o primeiro gol, que foi comemorado com a camisa da Amarelinha e comparado à comemoração de Bebeto. O resultado representa a nona vitória em dez jogos sob o comando de Paulo Victor.",
-        "porQueImporta": "O triunfo reforça a boa forma da equipe na fase de preparação para futuras competições.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/pa/futebol/noticia/2026/11/14/joia-do-athletico-pr-brinca-com-belo-gol-marcado-pela-selecao-sub-20-a-la-bebeto.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-14T17:32:26.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/DbcGhKMl434tnjFpjcVtsE-3_0I=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/5/3/vA6uhOTUeL9vuJ6m6ctQ/voleio-de-zagueiro-vitao.webp"
-      },
-      {
-        "clusterId": "843ffed89cca024a",
-        "slug": "432f1534d62df8a2",
-        "titulo": "Figueirense enfrenta Marcílio Dias na semifinal da Copa Santa Catarina",
-        "resumo": "Figueirense e Marcílio Dias se enfrentam na partida de volta da semifinal da Copa Santa Catarina, marcada para sábado, às 15h (horário de Brasília), no Orlando Scarpelli, em Florianópolis. A transmissão será realizada pelo canal Metrópoles Esportes no YouTube e pela CBN Floripa. O jogo segue após a vitória do Marcílio Dias por 1 a 0 na ida, com gol de Fernando Viana.",
-        "porQueImporta": "Decisão sobre qual equipe avançará para a final da competição estadual.",
+        "clusterId": "54580344c58aabfd",
+        "slug": "cd29646c8421b2c0",
+        "titulo": "Marcílio elimina Figueirense nos pênaltis e avança à final da Copa SC",
+        "resumo": "O Furacão venceu o Figueirense por 2 a 1 no tempo normal, igualando o agregado. No segundo jogo, o marcador ficou empatado, levando a disputa de pênaltis. Marcílio acertou a cobrança decisiva, enquanto o adversário falhou, resultando em 4 a 3 nas cobranças. Assim, o Furacão garante vaga na final da competição.",
+        "porQueImporta": "A vitória garante ao Furacão a oportunidade de disputar a final da Copa Santa Catarina, aumentando suas chances de título estadual.",
         "category": "esportes",
         "sources": [
           {
@@ -1315,28 +1294,28 @@
             "url": "https://ge.globo.com/sc/futebol/copa-santa-catarina/jogo/14-11-2026/figueirense-marciliodias.ghtml"
           }
         ],
-        "updatedAt": "2026-11-14T17:27:50.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/X9j9O_SC76ADZmXy2mOC6_wnUq0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/B/d/EoRTNPRbyDOeeEZtaFow/marcilio-dias-x-figueirense.png"
+        "updatedAt": "2026-11-14T23:30:18.000Z"
       },
       {
-        "clusterId": "d0434cdcfe747e3e",
-        "slug": "6facbfd5bbbf1884",
-        "titulo": "Portugal enfrenta Dinamarca na Liga das Nações 2026/2027",
-        "resumo": "Portugal e Dinamarca se enfrentam na fase de grupos da Liga das Nações 2026/2027. O jogo será acompanhado pelo globoesporte.com, que disponibiliza escalações, informações sobre o confronto e fotos. A partida faz parte de um torneio que determina classificação e promoção entre as divisões do campeonato europeu.",
-        "porQueImporta": "O resultado pode influenciar a posição de Portugal na competição e determinar sua trajetória nas fases seguintes.",
+        "clusterId": "64554ef0ea9b62c6",
+        "slug": "f3a7edaa1a5bd067",
+        "titulo": "Atlético-MG empata sem gols com Mirassol na 35ª rodada",
+        "resumo": "O Atlético-MG terminou a partida em 0 a 0 contra o Mirassol, no estádio Campos Maia. A defesa do Galo foi considerada precisa, embora não tenha trabalhado intensamente. O ataque, por sua vez, mostrou lentidão e falta de precisão, não conseguindo criar oportunidades. O jogo foi marcado por pouca intensidade e poucos lances de destaque.",
+        "porQueImporta": "O resultado mantém o Atlético-MG em posição de risco na tabela, enquanto o Mirassol consolida sua permanência na zona de segurança.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/liga-das-nacoes/jogo/14-11-2026/portugal-dinamarca.ghtml"
+            "url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/11/14/atuacoes-do-atletico-mg-defesa-faz-jogo-correto-e-ataque-nao-tem-sucesso-de-notas.ghtml"
           }
         ],
-        "updatedAt": "2026-11-14T17:25:29.000Z"
+        "updatedAt": "2026-11-14T23:29:58.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/C0izroE5SXQYntMWqtnNRxntkoY=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/w/c/F8flB5Q5ycJHxYAAQfsg/55651984882-35b4e7515a-o.jpg"
       }
     ],
     "entretenimento": [
       {
-        "clusterId": "2bc2a8c60987d831",
+        "clusterId": "cd7acd46a3d5d114",
         "slug": "89c3a8611648c5b4",
         "titulo": "Ator Rogério Fróes morre aos 92 anos",
         "resumo": "O ator Rogério Fróes, conhecido por papéis em novelas clássicas como \"O Bem-Amado\" e \"Selva de Pedra\", faleceu na sexta-feira (13) aos 92 anos. A morte foi confirmada pela filha, atriz Gisele Fróes, em redes sociais, sem divulgação da causa. Seu velório será reservado no Memorial do Carmo, no Rio de Janeiro, para parentes e amigos.",
@@ -1345,59 +1324,31 @@
         "sources": [
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/cultura/rogerio-froes-como-papeis-em-novelas-classicas-marcaram-a-carreira-do-ator/"
+            "url": "https://veja.abril.com.br/cultura/relembre-a-trajetoria-do-ator-rogerio-froes-no-teatro-e-no-cinema/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/14/velorio-corpo-ator-rogerio-froes.ghtml"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/celebridades/morre-rogerio-froes-ator-de-o-bem-amado-aos-92-anos/"
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/11/14/morre-aos-92-anos-rogerio-froes.ghtml"
           }
         ],
-        "updatedAt": "2026-11-14T17:03:28.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/rogerio-froes.jpg"
+        "updatedAt": "2026-11-14T19:00:03.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/Rogerio-Froes-2.jpg"
       },
       {
-        "clusterId": "1d9e1da859391229",
-        "slug": "3418bb5c9226d9c0",
-        "titulo": "Avril Lavigne anuncia nascimento de primeira filha",
-        "resumo": "A cantora Avril Lavigne divulgou no Instagram a chegada de sua primeira filha, descrevendo-a como uma ‘mini princesa’. Ela não revelou o nome da criança nem o pai. O post incluiu fotos de três pares de tênis, sugerindo a presença de uma família. A informação foi publicada em 13 de maio.",
-        "porQueImporta": "A notícia destaca a nova fase da vida pessoal da artista, de interesse público.",
+        "clusterId": "33c09ba02cbf6e62",
+        "slug": "1cc43f7c0fb17266",
+        "titulo": "Nando Reis apresenta show no Qualistage com Os Garotin e tributo a Cássia Eller",
+        "resumo": "No dia 13 de novembro, Nando Reis realizou o show ‘Pra você guardei o amor’ no Qualistage, no Rio de Janeiro, com o trio Os Garotin como companhia. A apresentação incluiu baladas românticas, músicas de rock e uma homenagem à cantora Cássia Eller. O local estava lotado, refletindo a popularidade da turnê nacional.",
+        "porQueImporta": "O evento destaca a continuidade da carreira de Nando Reis e a valorização de artistas consagrados no cenário musical brasileiro.",
         "category": "entretenimento",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/cultura/avril-lavigne-anuncia-nascimento-da-primeira-filha-aos-42-anos/"
-          },
-          {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/11/13/avril-lavigne-revela-chegada-de-primeira-filha-nossa-mini-princesa.ghtml"
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/14/show-de-nando-reis-no-rio-tem-resenha-com-os-garotin-o-peso-do-rock-baladas-apaixonantes-e-hits-de-cassia-eller.ghtml"
           }
         ],
-        "updatedAt": "2026-11-14T15:58:39.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2022/09/multishow-samuel-kobayashi-avril-lavigne-2.jpg"
-      },
-      {
-        "clusterId": "376abe6d56d201d9",
-        "slug": "56ba614b2372e5e4",
-        "titulo": "Candidatas africanas ao Miss Universo podem ficar sem visto americano",
-        "resumo": "As candidatas africanas ao Miss Universo enfrentam dificuldades para obter visto dos EUA, o que pode impedi-las de participar da 75ª edição em Porto Rico. A restrição de viagem imposta pelo governo Trump a países africanos é a causa principal. Roseanna Hall, representante do Zimbábue, ainda não conseguiu o visto e está na África do Sul tentando regularizar a situação.",
-        "porQueImporta": "A ausência de representantes africanas pode afetar a diversidade e a representatividade do concurso internacional.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/celebridades/miss-universo-misses-africanas-podem-ficar-de-fora-por-problemas-com-visto/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/11/13/candidatas-africanas-ao-miss-universo-enfrentam-dificuldades-para-obter-visto-americano-e-podem-ficar-fora-da-competicao.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-14T15:14:22.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/MhHc2wPoQDNG2r3dEUXsUfoEPNw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/k/9vynt4RgGp6XUaW7fveg/design-sem-nome-14-.jpg"
+        "updatedAt": "2026-11-14T14:43:29.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/-JC5nYc_ME4gj_iZ53P6W-HpARQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/V/ynyHmJQTaA2SnHaQN0kQ/nandoreis6.jpg"
       },
       {
         "clusterId": "a98e4c67bade098b",
@@ -1418,9 +1369,9 @@
       {
         "clusterId": "e2b145d24632a6f0",
         "slug": "48c31071c0946c49",
-        "titulo": "Claudette Soares morre aos 91 anos, um dia antes do lançamento de seu álbum de inéditas",
-        "resumo": "A cantora Claudette Soares faleceu aos 91 anos, na madrugada de 13 de novembro, enquanto aguardava a estreia de seu álbum ‘O mundo é ruim para quem não sabe esperar’. O disco reúne músicas inéditas que refletem a trajetória musical de Soares, que transita do baião ao jazz. Seu legado inclui influenciar artistas como Ana Costa e Zélia Duncan, que colaboraram em faixas do álbum. A morte de Soares marca o fim de uma carreira que deixou marca na música brasileira.",
-        "porQueImporta": "A perda de Claudette Soares representa o fim de uma voz icônica que contribuiu significativamente para a música popular brasileira.",
+        "titulo": "Claudette Soares morre aos 91 anos e lança álbum no mesmo dia",
+        "resumo": "A cantora Claudette Soares faleceu em 13 de novembro de 2026, aos 91 anos, no mesmo dia em que lançou o álbum ‘O mundo é ruim para quem não sabe esperar’. O disco contém músicas inéditas e colaborações com artistas como Ana Costa e Zélia Duncan. O rapper L7nnon, em seu álbum ‘De volta ao podium’, utiliza um sample da gravação de Claudette, demonstrando a influência da artista no cenário musical atual.",
+        "porQueImporta": "A morte de Claudette Soares marca o fim de uma carreira que influenciou o soul brasileiro, enquanto seu último álbum e o uso de sua voz em obras contemporâneas ressaltam seu legado cultural.",
         "category": "entretenimento",
         "sources": [
           {
@@ -1448,11 +1399,43 @@
         "imageUrl": "https://s2-g1.glbimg.com/t0MmIt7GaURx1uekz1qElcJl2iQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/eU0UTpSVelW36j46Yw0g/fotos-g1-1920-x-1080-px-2026-11-13t185945.829.png"
       },
       {
+        "clusterId": "7d7e3a63f1a5c07d",
+        "slug": "3418bb5c9226d9c0",
+        "titulo": "Avril Lavigne anuncia nascimento de primeira filha",
+        "resumo": "A cantora Avril Lavigne divulgou no Instagram a chegada de sua primeira filha, descrevendo-a como uma ‘mini princesa’. Ela não revelou o nome da criança nem o pai. O post incluiu fotos de três pares de tênis, sugerindo a presença de uma família. A informação foi publicada em 13 de maio.",
+        "porQueImporta": "A notícia destaca a nova fase da vida pessoal da artista, de interesse público.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/11/13/avril-lavigne-revela-chegada-de-primeira-filha-nossa-mini-princesa.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-13T16:23:35.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/fbI3Ug8kZ9z9njVTBBPUCDfZb38=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/3/qF5Ee9RtCBMyFM0JN8zw/whatsapp-image-2026-11-13-at-13.18.31.jpeg"
+      },
+      {
+        "clusterId": "688a7b394fb72c51",
+        "slug": "56ba614b2372e5e4",
+        "titulo": "Candidatas africanas ao Miss Universo enfrentam dificuldades para obter visto americano",
+        "resumo": "Representantes de países africanos que participam do Miss Universo têm dificuldade em conseguir visto dos Estados Unidos, o que pode impedir sua participação na 75ª edição do concurso em Porto Rico. A restrição de viagem imposta pelo governo de Donald Trump aos países africanos é a causa principal desse problema. Roseanna Hall, candidata do Zimbábue, ainda não obteve o visto e está na África do Sul tentando regularizar sua situação.",
+        "porQueImporta": "A impossibilidade de obter visto pode excluir candidatas africanas de um evento internacional de grande visibilidade.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/11/13/candidatas-africanas-ao-miss-universo-enfrentam-dificuldades-para-obter-visto-americano-e-podem-ficar-fora-da-competicao.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-13T15:04:15.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/MhHc2wPoQDNG2r3dEUXsUfoEPNw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/k/9vynt4RgGp6XUaW7fveg/design-sem-nome-14-.jpg"
+      },
+      {
         "clusterId": "e0cdb64ef7304ecd",
         "slug": "38500ea508c53451",
-        "titulo": "Hayley Williams faz show em São Paulo com participação de Seu Jorge",
-        "resumo": "A cantora americana Hayley Williams, do Paramore, se apresentou no Espaço Unimed, em São Paulo, no dia 12 de novembro de 2026, como parte da turnê \"The Hayley Williams Show\". O show contou com a presença de Seu Jorge, que colaborou em uma versão em português de \"Life on Mars?\". A apresentação foi descrita como estilosa e politizada, com destaque para a energia e interação com os fãs.",
-        "porQueImporta": "A colaboração entre artistas internacionais e brasileiros destaca a influência cultural e a integração de artistas de diferentes gêneros no cenário musical brasileiro.",
+        "titulo": "Hayley Williams apresenta show em São Paulo com participação de Seu Jorge",
+        "resumo": "A cantora americana Hayley Williams, do Paramore, realizou seu segundo show no Brasil, no Espaço Unimed em São Paulo, durante a turnê \"The Hayley Williams Show\". O evento contou com uma performance politizada, incluindo críticas ao presidente Bolsonaro. No final da apresentação, o artista brasileiro Seu Jorge se juntou a Williams para cantar \"Life On Mars?\" em português. O show foi bem recebido pelos fãs locais.",
+        "porQueImporta": "Demonstrou a influência internacional da artista e a colaboração entre músicos de diferentes nacionalidades.",
         "category": "entretenimento",
         "sources": [
           {
@@ -1462,22 +1445,6 @@
         ],
         "updatedAt": "2026-11-13T14:47:18.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/NbnbHTuHhefbP5Pjdy_p02cd2bo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/9/ohooYFRq6QCtfQknqZIQ/b-ca-hayleywilliams-lali-moss-4890.jpg"
-      },
-      {
-        "clusterId": "62dcd9381d1416c7",
-        "slug": "f901aadec6895ccf",
-        "titulo": "Gérard Depardieu desiste de recorrer de condenação por agressão sexual",
-        "resumo": "O ator francês Gérard Depardieu desistiu de recorrer de sua condenação por agressão sexual contra duas mulheres durante gravações em 2021. A decisão foi tomada após a divulgação de um vídeo em que Depardieu aparece tocando sexualmente uma figurante de 22 anos durante as filmagens de 'Turf', em 2013. O vídeo foi publicado em 12 de maio e gerou repercussão nas redes sociais.",
-        "porQueImporta": "A decisão confirma a responsabilização de um artista de renome por condutas abusivas no ambiente de trabalho.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/11/13/gerard-depardieu-desiste-de-recorrer-de-sua-condenacao-por-agressoes-sexuais-apos-divulgacao-de-video-que-flagra-assedio-em-figurante-de-filme.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-13T12:28:14.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/3s2T6gGSni6I6-Lb6c3M3aP7HAM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/R/QaMmTaTqq0Sf1i8U3ZAQ/design-sem-nome-5-.png"
       }
     ]
   }
