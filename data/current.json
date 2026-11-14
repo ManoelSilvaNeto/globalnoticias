@@ -1,58 +1,94 @@
 {
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-14T00:42:42.456Z",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T11:14:39.858Z",
   "home": [
     {
-      "clusterId": "87c129bb7c63edb4",
-      "slug": "ca44c322a6a34520",
-      "titulo": "Suspensão de todas as decolagens nos EUA por falha de comunicação",
-      "resumo": "A Administração Federal de Aviação dos EUA (FAA) determinou a suspensão de todas as decolagens em aeroportos americanos, após falha nos sistemas de comunicação dos centros de controle de tráfego aéreo. A medida, tomada por motivos de segurança, faz com que voos programados permaneçam no solo até novo aviso. Mais de 10 mil voos foram afetados, incluindo rotas entre Brasil e EUA. Companhias aéreas e passageiros são orientados a verificar status junto às operadoras.",
-      "porQueImporta": "Impacta viagens internacionais e destaca vulnerabilidades nos sistemas de controle aéreo dos EUA.",
+      "clusterId": "eb6fe192951242bb",
+      "slug": "70673f826ac48924",
+      "titulo": "Falha no controle de tráfego aéreo dos EUA causa cancelamentos e atrasos em milhares de voos",
+      "resumo": "Uma falha nos sistemas de controle de tráfego aéreo dos Estados Unidos interrompeu todas as decolagens por cerca de quatro horas, resultando em mais de 2.5 mil cancelamentos no sábado. O impacto se estendeu ao Brasil, com atrasos de até quatro horas e cancelamentos de voos de Nova York para Guarulhos. A retomada das operações foi gradual, mas os transtornos continuaram ao longo do dia. O FBI descartou qualquer relação com ataques cibernéticos.",
+      "porQueImporta": "O incidente afetou a mobilidade internacional e a logística de passageiros e cargas, evidenciando a vulnerabilidade dos sistemas de tráfego aéreo.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/14/voos-dos-eua-tem-cancelamentos-e-atrasos-de-ate-4-horas-no-aeroporto-de-guarulhos.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/eua-tem-3-mil-voos-cancelados-neste-sabado-mesmo-com-volta-de-operacoes"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/mundo/eua-tem-mais-de-3-mil-voos-cancelados-neste-sabado-apos-reabertura-do-espaco-aereo/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/internacional/mais-de-2-000-voos-sao-suspensos-nos-eua-neste-sabado-14/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/mundo/apos-4-horas-eua-encerram-interrupcao-de-voos/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/mundo/eua-reabrem-espaco-aereo-do-pais-depois-de-mais-de-quatro-horas/"
+        }
+      ],
+      "updatedAt": "2026-11-14T11:04:12.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/ERbrf9H2iqGYN4YHHBu_H9ZXwo0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/e/scBOL9TWOOJkGAwWwLOQ/g1-1-.jpg"
+    },
+    {
+      "clusterId": "0d44c479bb09d803",
+      "slug": "496f91d9cfaf0033",
+      "titulo": "EUA suspendem todas as decolagens por falha de comunicação nos centros de controle",
+      "resumo": "A FAA determinou a suspensão de todas as decolagens nos aeroportos dos Estados Unidos após uma falha de comunicação que afetou os centros de controle de tráfego aéreo. O secretário de Segurança Interna, Markwayne Mullin, descartou a possibilidade de ataque e afirmou que a medida foi tomada por motivos de segurança e circunstâncias extraordinárias. A suspensão é rara, ocorrendo apenas três vezes na história da aviação americana. A FAA está investigando a causa da falha no sistema.",
+      "porQueImporta": "A paralisação afeta milhões de passageiros e destaca a vulnerabilidade dos sistemas de controle de tráfego aéreo.",
       "category": "mundo",
       "sources": [
         {
           "name": "G1",
-          "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/11/13/decolagens-suspensas-nos-eua-o-que-fazer.ghtml"
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/14/caos-aereo-10-perguntas-e-respostas-sobre-a-paralisacao-dos-aeroportos-nos-estados-unidos.ghtml"
         },
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/mundo/a-explicacao-do-governo-dos-eua-para-a-suspensao-das-decolagens-no-pais/"
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/11/13/carros-e-tecnologia/eua-liberam-voos-apos-pane-mas-caos-nos-aeroportos-deve-continuar/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/suspensao-nos-eua-afeta-quase-sete-mil-voos-mostra-monitor/"
+          "url": "https://www.cnnbrasil.com.br/internacional/eua-poem-fim-a-suspensao-de-voos-que-provocou-caos-aereo-no-pais/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/mundo/eua-encerram-suspensao-de-decolagens-no-pais-apos-falha-nas-telecomunicacoes/"
         },
         {
           "name": "DW Brasil",
           "url": "https://www.dw.com/pt-br/eua-suspendem-todas-as-decolagens-de-aeroportos-do-país/a-79945256?maca=bra-rss-br-all-1030-rdf"
-        },
-        {
-          "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/11/13/carros-e-tecnologia/eua-decolagens-estao-suspensas-em-todo-o-pais-por-seguranca/"
         }
       ],
-      "updatedAt": "2026-11-13T23:59:15.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/vBuZuo7bMKzbG0-1zYpf3YgaTVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/r8UqR9QRKHZ6cpPBv4fw/2026-11-13t225544z-1478587479-rc2anoaqfvwc-rtrmadp-3-usa-faa-ground-stop.jpg"
+      "updatedAt": "2026-11-14T03:00:01.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/4ycNpZKQemGOmr0q7ofEguwvp_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/l/Ej8rQ7Q5yp8JYMK0Vsng/2026-11-13t220020z-1726552431-rc29noaazduh-rtrmadp-3-usa-faa-ground-stop.jpg"
     },
     {
-      "clusterId": "b28efdca4d53c750",
-      "slug": "7ff66a9b9ff6a698",
-      "titulo": "Jensen Huang renuncia ao cargo de CEO da Nvidia após escândalo de relações extraconjugais e suspeita de espionagem",
-      "resumo": "O fundador e presidente da Nvidia, Jensen Huang, deixou o cargo de CEO em 12 de novembro, depois que foram revelados três casos extraconjugais, incluindo um com Alice Huang, suspeita de ser espiã chinesa. O escândalo provocou queda de quase US$ 1,08 trilhão no valor de mercado da empresa e levou o conselho a nomear Colette Kress como CEO interina. Enquanto isso, o conselho avalia René Haas, presidente da Arm Holdings, como possível sucessor permanente. Huang foi convocado pelo Congresso dos EUA para depor sobre a relação com a suposta espiã.",
-      "porQueImporta": "A saída de Huang e a crise de confiança podem afetar a liderança e a estabilidade da Nvidia, uma das principais empresas de chips de IA, em meio à tensão tecnológica entre EUA e China.",
+      "clusterId": "d5860f06fd2fe856",
+      "slug": "a7374ed757e4e348",
+      "titulo": "Jensen Huang renuncia ao cargo de CEO da Nvidia após escândalo extraconjugal e suspeita de espionagem",
+      "resumo": "O fundador da Nvidia, Jensen Huang, deixou o cargo de CEO e presidente da empresa em 12 de novembro, após a divulgação de três casos extraconjugais, incluindo um com uma suposta espiã chinesa. O conselho da companhia ainda não iniciou a busca formal por um sucessor, mantendo Colette Kress como CEO interina enquanto avalia consultorias externas. A renúncia provocou queda de quase US$ 33 bilhões na fortuna de Huang e desvalorização da empresa, além de levantar questões de segurança nacional nos Estados Unidos.",
+      "porQueImporta": "A saída de Huang pode impactar a liderança e a estratégia da Nvidia em um momento crítico de crescimento da IA e de preocupações geopolíticas.",
       "category": "economia",
       "sources": [
+        {
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/11/13/pro/nvidia-diz-que-nao-comecou-busca-formal-por-substituto-de-jensen-huang/"
+        },
         {
           "name": "G1",
           "url": "https://g1.globo.com/tecnologia/noticia/2026/11/13/nvidia-rene-haas-arm-holdings.ghtml"
         },
         {
-          "name": "Exame",
-          "url": "https://exame.com/inteligencia-artificial/nvidia-procura-ceo-da-arm-para-suceder-jensen-huang-diz-jornal/"
-        },
-        {
-          "name": "Super Interessante",
-          "url": "https://super.abril.com.br/sociedade/caso-nvidia-uma-linha-do-tempo-do-escandalo-extraconjugal-a-renuncia-do-ceo-huang/"
+          "name": "Canaltech",
+          "url": "https://canaltech.com.br/hardware/tragam-o-chefe-volta-funcionarios-da-nvidia-se-opoem-a-saida-de-jensen-huang/"
         },
         {
           "name": "DW Brasil",
@@ -63,254 +99,222 @@
           "url": "https://www.bbc.com/portuguese/articles/cx1l053gmq5zo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "updatedAt": "2026-11-13T18:10:29.000Z",
+      "updatedAt": "2026-11-14T01:36:02.000Z",
       "imageUrl": "https://s2-g1.glbimg.com/Gi0n15xixrwFlc4RAWu0bag2N94=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/H/iHB4a9QyA3mHrlx8kzvQ/jensen-huang-rene-haas.png"
     },
     {
-      "clusterId": "c3a85589696a7197",
-      "slug": "496f91d9cfaf0033",
-      "titulo": "EUA suspendem todas as decolagens por falha de comunicação nos centros de controle",
-      "resumo": "A FAA determinou a suspensão de todas as decolagens nos aeroportos dos Estados Unidos após uma falha de comunicação que afetou os centros de controle de tráfego aéreo. O secretário de Segurança Interna, Markwayne Mullin, descartou a possibilidade de ataque e afirmou que a medida foi tomada por motivos de segurança e circunstâncias extraordinárias. A suspensão é rara, ocorrendo apenas três vezes na história da aviação americana. A FAA está investigando a causa da falha no sistema.",
-      "porQueImporta": "A paralisação afeta milhões de passageiros e destaca a vulnerabilidade dos sistemas de controle de tráfego aéreo.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/c54gnly4kzdpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/13/suspensao-de-voos-nos-eua-secretario-de-seguranca-descarta-ataque-e-fala-em-problema-de-telecomunicacao.ghtml"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/eua-suspendem-voos-em-todo-o-pais-por-falha-no-controle-de-trafego/"
-        },
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/economia/eua-suspendem-decolagens-de-todos-os-aeroportos-por-circunstancias-extraordinarias/"
-        }
-      ],
-      "updatedAt": "2026-11-14T00:29:00.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1963/live/ba2043a0-dfb4-11f1-b867-af6986834a9f.jpg"
-    },
-    {
-      "clusterId": "2063b9d61406fa09",
-      "slug": "d1a1aec994762ea0",
-      "titulo": "EUA suspende decolagens, Brasil monitora impactos no tráfego aéreo",
-      "resumo": "Os Estados Unidos suspenderam todas as decolagens, gerando paralisação de milhares de voos globais. A Força Aérea Brasileira e a ANAC estão acompanhando a situação e avaliando ajustes no fluxo aéreo brasileiro, incluindo possível redirecionamento de aeronaves para aeroportos alternativos. Passageiros são orientados a verificar horários e alterações com as companhias aéreas.",
-      "porQueImporta": "A suspensão pode afetar viagens e operações comerciais entre Brasil e EUA.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/13/fab-monitora-suspensao-de-voos-nos-eua-e-avalia-ajustes-no-fluxo-aereo-no-brasil.ghtml"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-internacional/anac-monitora-voos-entre-brasil-e-eua-apos-suspensao-de-decolagens/"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/mundo/anac-diz-que-monitora-caos-nos-eua-e-orienta-passageiro-a-buscar-empresas"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/eua-fbi-monitora-suspensao-de-voos-fontes-indicam-nao-ser-ataque-hacker/"
-        }
-      ],
-      "updatedAt": "2026-11-14T00:20:11.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/R9io1LFgSTUaRBisi7D1B6miCKk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/m/pwiouMTeSMbx4qWOcGUQ/whatsapp-image-2026-11-13-at-20.56.34-1-.jpeg"
-    },
-    {
-      "clusterId": "ff6d90835c137ce6",
-      "slug": "97270d4598f37d62",
-      "titulo": "STF autoriza jornada de 42 horas em cinco dias na transição da escala 6x1",
-      "resumo": "O ministro Flávio Dino concedeu liminar permitindo que empregadores distribuam a jornada intermediária de 42 horas semanais em cinco dias, com expediente diário de até 8h24m, sem adicional de hora extra pelos 24 minutos extras. A decisão visa a transição prevista na emenda constitucional que elimina a escala 6x1. A medida mantém os dois repousos semanais obrigatórios e será votada pelo plenário do STF.",
-      "porQueImporta": "A decisão define como será a transição para a nova jornada de trabalho, afetando empregadores e empregados em todo o país.",
-      "category": "politica",
+      "clusterId": "a27cc1eaa1241e6c",
+      "slug": "c86c59a57439c05a",
+      "titulo": "Partidas da 21ª e 35ª rodadas do Brasileirão",
+      "resumo": "Na Arena Condá, em Chapecó, Chapecoense enfrenta o Vasco na 21ª rodada, com a Chape já rebaixada e o Vasco buscando evitar a zona de rebaixamento. No estádio Maião, em Mirassol, Mirassol encara o Atlético‑Mineiro na 35ª rodada, onde o Leão tenta se afastar do Z4 e o Galo busca reagir antes da final da Sul‑América.",
+      "porQueImporta": "Essas partidas determinam posições críticas na tabela, afetando a permanência na Série A e estratégias para a temporada seguinte.",
+      "category": "esportes",
       "sources": [
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/senado-pede-que-stf-nao-confirme-mudancas-de-dino-para-o-fim-da-escala-6x1/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/camara-e-senado-contestam-mudancas-de-dino-em-regras-do-fim-da-escala-6x1/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/escala-6x1-camara-defende-calendario-do-congresso-e-contesta-ajustes-de-dino-no-stf/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/noticia/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-fixadas-por-dino-para-escala-5x2.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-13T23:57:54.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/54659936624_f64840f3dc_k.jpg"
-    },
-    {
-      "clusterId": "8c7b573e5ee4d400",
-      "slug": "14cab3bd022209f3",
-      "titulo": "SpaceX realiza novo teste da Starship com manobra inédita",
-      "resumo": "A SpaceX programou um lançamento da Starship na sexta-feira, 13, com a missão de colocar a nave em órbita terrestre pela primeira vez e testar a recuperação das duas partes do foguete. A janela de lançamento está entre 19h45 e 21h, horário de Brasília, e a empresa transmitirá ao vivo. A manobra visa que tanto a nave quanto o propulsor retornem à base após a viagem espacial.",
-      "porQueImporta": "O teste demonstra avanços na tecnologia de reutilização de foguetes, potencializando missões futuras de exploração espacial.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/ao-vivo/spacex-faz-novo-teste-da-starship-e-tenta-manobra-inedita.ghtml"
+          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/chapecoense-x-vasco-horario-e-onde-assistir-ao-jogo-do-brasileirao/"
         },
         {
           "name": "Olhar Digital",
-          "url": "https://olhardigital.com.br/2026/11/13/ciencia-e-espaco/spacex-realiza-o-15-lancamento-do-starship-em-missao-historica/"
+          "url": "https://olhardigital.com.br/2026/11/14/internet-e-redes-sociais/mirassol-x-atletico-mineiro-onde-assistir-horario-e-escalacoes-do-jogo-do-brasileirao/"
         },
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/ciencia/spacex-realiza-15o-voo-de-teste/"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/ciencia/spacex-lanca-starship-em-missao-com-previsao-de-14-voltas-ao-redor-da-terra/"
-        }
-      ],
-      "updatedAt": "2026-11-13T23:03:56.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/gIdgdrSLBfmM4uhewqsLvwJ5B8Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/4/LFAfEbTBG1dkjchALkpQ/starship.jpg"
-    },
-    {
-      "clusterId": "da3a35d3ec3d75d6",
-      "slug": "1450d2983b38d2b8",
-      "titulo": "Democratas investigam compra de centro de detenção pelo governo Trump e Casa Branca alerta sobre possíveis consequências",
-      "resumo": "O Departamento de Segurança Interna pagou US$ 420 milhões a mais do que o valor oferecido ao governo de Minnesota para a compra de um centro de detenção, fato que está sendo investigado por democratas. O Comitê de Supervisão da Câmara, liderado pelo deputado Robert Garcia, está conduzindo a investigação. A Casa Branca, por sua vez, emitiu uma carta alertando que investigações contra o governo Trump podem ser consideradas criminosas e sujeitas a apurações. A situação gera tensão entre os partidos e levanta questões sobre a legalidade e a motivação das investigações.",
-      "porQueImporta": "A investigação pode influenciar a credibilidade e a estabilidade política dos partidos envolvidos.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/mundo/governo-trump-descarta-que-suspensao-de-voos-se-deva-a-ameaca-contra-os-eua/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/trump-foi-informado-sobre-suspensao-de-todos-os-voos-nos-eua/"
+          "name": "GE",
+          "url": "https://ge.globo.com/sc/futebol/brasileirao-serie-a/noticia/2026/11/14/chapecoense-x-vasco-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
         },
         {
           "name": "Exame",
-          "url": "https://exame.com/mundo/governo-trump-nao-ve-indicios-de-ameaca-e-diz-que-suspensao-de-decolagens-nos-eua-deve-se-prolongar/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/12/casa-branca-diz-que-investigar-governo-trump-pode-ser-crime-e-ameaca-democratas.ghtml"
+          "url": "https://exame.com/esporte/mirassol-x-atletico-mg-onde-assistir-ao-vivo-horario-e-provaveis-escalacoes/"
         }
       ],
-      "updatedAt": "2026-11-13T22:49:13.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/AFP__20261113__D7FF9LD__v1__MidRes__UsTravelAviation.jpg"
+      "updatedAt": "2026-11-14T09:00:48.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/S_SUrZGah5GQhlFJa3Edau3vx3s=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/T/j/3HrLQTSWA3tLUZRe17BQ/79684397-ed48-4b85-a10c-d440b74f67e1.jpg"
     },
     {
-      "clusterId": "da93fe5c01e83eab",
-      "slug": "5e88eab09bf5791f",
-      "titulo": "Governo Lula encerra subsídio de R$1,40 ao diesel importado",
-      "resumo": "O Ministério da Fazenda anunciou que o subsídio de R$1,40 por litro ao diesel importado não será renovado. A medida foi tomada apesar de o mecanismo ter sido prolongado em outubro devido a restrições no mercado internacional. A subvenção de R$2,12 por litro destinada aos produtores e importadores de óleo diesel rodoviário permanece em vigor.",
-      "porQueImporta": "A mudança afeta o preço final do diesel para consumidores e empresas, alterando os custos de transporte e logística.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/governo-lula-anuncia-fim-de-subsidio-de-r-140-ao-diesel-importado"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/economia/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/infra/subvencao-de-r-140-ao-diesel-importado-nao-sera-renovada-diz-ministerio/"
-        }
-      ],
-      "updatedAt": "2026-11-14T00:37:28.000Z",
-      "imageUrl": "https://images.metroimg.com/2022/09/Centro-de-Distribuicao-da-Petrobras-no-SIA-combustivel-tanque-gasolina-alcool-diesel-8.jpeg"
-    },
-    {
-      "clusterId": "3a3b2902543ea764",
-      "slug": "18b4f416f3fcf5b0",
-      "titulo": "Brasil enfrenta Peru e Japão em amistosos de 2026",
-      "resumo": "A Seleção Sub-20 do Brasil jogará contra o Peru no Estádio Mangueirão, em Belém, na sexta-feira, 13 de novembro, enquanto a equipe principal enfrentará o Japão em Singapura no sábado, 14 de novembro, às 7h15 (horário de Brasília). O jogo contra o Japão marca o penúltimo amistoso de 2026 para o Brasil. Paralelamente, a Argentina e o Uruguai marcaram um amistoso em 2026.",
-      "porQueImporta": "Esses encontros servem como preparação para competições internacionais e permitem avaliar o desempenho das seleções em diferentes contextos.",
+      "clusterId": "284b49927554eea1",
+      "slug": "45121a3b85226686",
+      "titulo": "Brasil enfrenta Japão em amistoso em Singapura",
+      "resumo": "O jogo entre Brasil e Japão, marcado para 14 de novembro no Estádio Nacional de Singapura, faz parte da preparação da Seleção Brasileira para a Copa do Mundo de 2026. O técnico Ancelotti convocou o jovem volante André, do Corinthians, para sua primeira partida no time principal. O Brasil já foi eliminado do Mundial pela primeira vez em 2026, enquanto o Japão busca revanche.",
+      "porQueImporta": "A partida serve como teste importante para a equipe brasileira antes do Mundial e destaca a estreia de um jovem talento no elenco.",
       "category": "esportes",
       "sources": [
         {
           "name": "GE",
-          "url": "https://ge.globo.com/pa/futebol/jogo/13-11-2026/brasil-peru.ghtml"
-        },
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/esportes/na-asia-selecao-brasileira-enfrenta-o-japao-no-penultimo-amistoso-de-2026"
+          "url": "https://ge.globo.com/futebol/selecao-brasileira/jogo/14-11-2026/japao-brasil.ghtml"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/brasil-x-peru-escalacoes-e-onde-assistir-ao-amistoso-da-selecao-sub-20/"
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/quem-e-andre-volante-titular-da-selecao-brasileira-contra-o-japao/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/brasil-japao-amistoso-2026"
         }
       ],
-      "updatedAt": "2026-11-14T00:31:50.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/11/12nov2026-treino-singapura-11-endrick-estevao.jpg"
+      "updatedAt": "2026-11-14T11:06:47.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/11/brasil-japao-2.jpg"
     },
     {
-      "clusterId": "de1770fa87188222",
-      "slug": "e4c874c8391aaa22",
-      "titulo": "Pane no controle aéreo dos Estados Unidos paralisa decolagens em todos os aeroportos",
-      "resumo": "Uma falha no sistema de controle aéreo da FAA suspendeu todas as decolagens nos Estados Unidos, afetando mais de 11 mil voos e causando atrasos e cancelamentos globais. O impacto se estende a aeroportos internacionais, incluindo o de Brasília, que possui apenas dois voos diários para os EUA, ambos na manhã. A suspensão permanece em vigor até novo comunicado da FAA.",
-      "porQueImporta": "A paralisação compromete a logística internacional e pode afetar conexões e operações aéreas em todo o mundo.",
+      "clusterId": "90a076c8490b0b31",
+      "slug": "a7886ef5a61748ac",
+      "titulo": "Lula visita Filipinas para participar da Cúpula da ASEAN",
+      "resumo": "O presidente Luiz Inácio Lula da Silva embarcou em 12 de maio para as Filipinas a fim de participar da Cúpula da Associação de Nações do Sudeste Asiático (ASEAN). A visita marca a primeira vez que um chefe de Estado brasileiro realiza uma visita oficial ao país. Lula esteve em Antália, Turquia, antes de chegar às Filipinas, onde também participou da 31ª Conferência das Nações Unidas sobre Mudança do Clima (COP 31). O encontro visa ampliar o mercado brasileiro na Ásia e diversificar parcerias comerciais.",
+      "porQueImporta": "A visita reforça a presença do Brasil na região asiática e busca fortalecer relações comerciais e diplomáticas com os países da ASEAN.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-governo/lula-visita-imagem-de-nossa-senhora-aparecida-em-catedral-nas-filipinas/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/nas-filipinas-lula-visita-imagem-de-nossa-senhora-aparecida"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/12/lula-embarca-para-filipinas-para-participar-de-cupula-e-ampliar-mercado-brasileiro-na-asia.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-14T09:56:10.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/11/55650801882-9e4974c0e0-k.jpg"
+    },
+    {
+      "clusterId": "a047d551cd3f4225",
+      "slug": "d5ed4188cdb0fe0a",
+      "titulo": "Stefani e Dabrowski avançam à semifinal do WTA Finals",
+      "resumo": "A dupla formada por Luisa Stefani e Gabriela Dabrowski venceu a partida contra Su-Wei Hsieh e Jelena Ostapenko por 2 sets a 1, com parciais de 2/6, 7/6(2) e 10/3. O resultado garantiu a primeira posição na chave de grupos, com três vitórias em três jogos. A equipe manteve uma campanha invicta na fase de grupos do torneio.",
+      "porQueImporta": "A conquista assegura a participação na fase de eliminação única do WTA Finals, um dos eventos mais importantes do circuito feminino.",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/luisa-stefani-e-dabrowski-avancam-a-semifinal-no-wta-finals"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/tenis/luisa-stefani-e-dabrowski-vencem-mais-uma-e-avancam-a-semi-do-wta-finals/"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/tenis/noticia/2026/11/13/luisa-stefani-e-dabrowski-avancam-invictas-a-semifinal-no-wta-finals.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-14T09:37:11.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/11/dupla.jpg"
+    },
+    {
+      "clusterId": "e367a2ba607e7a7d",
+      "slug": "e8386b130c4b5796",
+      "titulo": "Anac orienta passageiros a consultar companhias aéreas após suspensão de decolagens nos EUA",
+      "resumo": "A FAA determinou a suspensão de todas as decolagens nos Estados Unidos devido a uma falha de comunicação nos centros de controle de tráfego aéreo. A Anac informou que está monitorando a situação e recomenda que os passageiros verifiquem com suas companhias aéreas sobre o status dos voos ou possíveis alterações. A orientação destaca a importância de as empresas aéreas cumprirem suas responsabilidades e os direitos dos passageiros.",
+      "porQueImporta": "A paralisação afeta milhares de voos internacionais, impactando viajantes e a logística das companhias aéreas.",
+      "category": "geral",
+      "sources": [
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/a-orientacao-da-anac-apos-a-suspensao-de-decolagens-nos-eua/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/sociedade/anac-orienta-passageiros-a-consultar-aereas-sobre-voos-para-os-eua/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/economia/noticia/2026/11/13/paralisacao-de-voos-nos-eua-anac-diz-monitorar-situacao-e-recomenda-que-passageiros-procurem-companhias-aereas.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-14T01:00:44.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/10/2a020615-9769-4374-8afa-e313c42fec09.webp"
+    },
+    {
+      "clusterId": "78e176c300b13973",
+      "slug": "84d1511c0e33c8f2",
+      "titulo": "Suspeito preso após homicídio em festival católico e outro caso de assassinato em bar",
+      "resumo": "Em Sobral (CE), um jovem foi atingido por disparos de arma de fogo no estacionamento de um festival católico; o suspeito foi preso. Em Maracaju (MS), o ex-genro Vantuir Chaves, de 40 anos, é suspeito de matar o policial militar da reserva Arinaldo Serafim Santana e sua esposa com mais de 15 tiros na cabeça, permanecendo foragido.",
+      "porQueImporta": "Ambos os casos envolvem homicídios violentos que geram preocupação sobre segurança pública e violência armada no Brasil.",
       "category": "geral",
       "sources": [
         {
           "name": "Metrópoles",
-          "url": "https://www.metropoles.com/distrito-federal/apagao-aereo-nos-estados-unidos-nao-afetou-voos-do-df-diz-inframerica"
+          "url": "https://www.metropoles.com/distrito-federal/na-mira/homicidio-em-festival-catolico-suspeito-de-matar-jovem-a-tiros-e-preso"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/13/pane-no-controle-aereo-paralisa-decolagens-em-todos-os-aeroportos-dos-estados-unidos-mais-de-11-mil-voos-sao-afetados.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/o-que-se-sabe-sobre-a-suspensao-de-voos-nos-estados-unidos/"
+          "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/11/14/o-que-se-sabe-sobre-suspeito-de-matar-ex-sogros-com-mais-de-15-tiros-na-cabeca-em-ms.ghtml"
         }
       ],
-      "updatedAt": "2026-11-14T00:29:38.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/11/aviao-1200x800-1.jpg"
+      "updatedAt": "2026-11-14T11:10:42.000Z",
+      "imageUrl": "https://images.metroimg.com/2026/11/preso-homem-que-matou-jovem-durante-festival-catolico.jpg"
+    },
+    {
+      "clusterId": "c7b99e1f35c0f879",
+      "slug": "1a50bcd6e4c54482",
+      "titulo": "Kanu defende seu valor diante de críticas enquanto entra no último ano de contrato com o Bahia",
+      "resumo": "O zagueiro Kanu, que passou grande parte da temporada entre reservas, agora atua como titular e enfrenta críticas da torcida por sua fase defensiva. Ele afirmou que tem valor e que o projeto do Grupo City no clube, iniciado em 2023, está em andamento. A entrevista coletiva na Cidade Tricolor abordou a situação e a expectativa de desempenho na temporada 2026.",
+      "porQueImporta": "A postura de Kanu pode influenciar a percepção da torcida e a estabilidade do elenco no último ano de seu contrato.",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml"
+        },
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/ba/futebol/times/bahia/noticia/2026/11/14/perto-de-entrar-no-ultimo-ano-de-contrato-com-o-bahia-kanu-rebate-criticas-tenho-meu-valor.ghtml"
+        }
+      ],
+      "updatedAt": "2026-11-14T10:04:03.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/ZbI9IyJAN2pxpHJQXdtlVD3XLZA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/N/E/3mFOVBRuADHQzFEUUmNA/55610121678-27e83fd9da-k.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "2063b9d61406fa09",
-        "slug": "d1a1aec994762ea0",
-        "titulo": "EUA suspende decolagens, Brasil monitora impactos no tráfego aéreo",
-        "resumo": "Os Estados Unidos suspenderam todas as decolagens, gerando paralisação de milhares de voos globais. A Força Aérea Brasileira e a ANAC estão acompanhando a situação e avaliando ajustes no fluxo aéreo brasileiro, incluindo possível redirecionamento de aeronaves para aeroportos alternativos. Passageiros são orientados a verificar horários e alterações com as companhias aéreas.",
-        "porQueImporta": "A suspensão pode afetar viagens e operações comerciais entre Brasil e EUA.",
+        "clusterId": "90a076c8490b0b31",
+        "slug": "a7886ef5a61748ac",
+        "titulo": "Lula visita Filipinas para participar da Cúpula da ASEAN",
+        "resumo": "O presidente Luiz Inácio Lula da Silva embarcou em 12 de maio para as Filipinas a fim de participar da Cúpula da Associação de Nações do Sudeste Asiático (ASEAN). A visita marca a primeira vez que um chefe de Estado brasileiro realiza uma visita oficial ao país. Lula esteve em Antália, Turquia, antes de chegar às Filipinas, onde também participou da 31ª Conferência das Nações Unidas sobre Mudança do Clima (COP 31). O encontro visa ampliar o mercado brasileiro na Ásia e diversificar parcerias comerciais.",
+        "porQueImporta": "A visita reforça a presença do Brasil na região asiática e busca fortalecer relações comerciais e diplomáticas com os países da ASEAN.",
         "category": "politica",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/13/fab-monitora-suspensao-de-voos-nos-eua-e-avalia-ajustes-no-fluxo-aereo-no-brasil.ghtml"
-          },
-          {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-internacional/anac-monitora-voos-entre-brasil-e-eua-apos-suspensao-de-decolagens/"
+            "url": "https://www.poder360.com.br/poder-governo/lula-visita-imagem-de-nossa-senhora-aparecida-em-catedral-nas-filipinas/"
           },
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/anac-diz-que-monitora-caos-nos-eua-e-orienta-passageiro-a-buscar-empresas"
+            "url": "https://www.metropoles.com/mundo/nas-filipinas-lula-visita-imagem-de-nossa-senhora-aparecida"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/11/12/lula-embarca-para-filipinas-para-participar-de-cupula-e-ampliar-mercado-brasileiro-na-asia.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-14T09:56:10.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/11/55650801882-9e4974c0e0-k.jpg"
+      },
+      {
+        "clusterId": "7bbf0f6f272b800c",
+        "slug": "8ece3ac3d82fdf78",
+        "titulo": "Prevenção do pré-diabetes para evitar evolução para diabetes",
+        "resumo": "O Dia Mundial do Diabetes destaca a necessidade de prevenção e diagnóstico precoce. Dados da Federação Internacional de Diabetes mostram que o Brasil tem cerca de 16,6 milhões de adultos com risco. O pré-diabetes pode surgir em jovens, exigindo atenção médica. Investigar alterações glicêmicas é fundamental para impedir a progressão da doença.",
+        "porQueImporta": "Detectar e tratar o pré-diabetes reduz o risco de complicações crônicas e a carga de saúde pública.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/bem-estar/como-evitar-que-o-pre-diabetes-evolua-para-diabetes-conheca-os-cuidados/"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/eua-fbi-monitora-suspensao-de-voos-fontes-indicam-nao-ser-ataque-hacker/"
+            "url": "https://www.cnnbrasil.com.br/saude/diabetes-comeca-mais-cedo-por-que-o-pre-diabetes-exige-atencao/"
           }
         ],
-        "updatedAt": "2026-11-14T00:20:11.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/R9io1LFgSTUaRBisi7D1B6miCKk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/m/pwiouMTeSMbx4qWOcGUQ/whatsapp-image-2026-11-13-at-20.56.34-1-.jpeg"
+        "updatedAt": "2026-11-14T10:03:00.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/mulheraferindopressaoemcasa-1024x683.png"
       },
       {
-        "clusterId": "ff6d90835c137ce6",
+        "clusterId": "1b5e2ed013d4b256",
         "slug": "97270d4598f37d62",
         "titulo": "STF autoriza jornada de 42 horas em cinco dias na transição da escala 6x1",
         "resumo": "O ministro Flávio Dino concedeu liminar permitindo que empregadores distribuam a jornada intermediária de 42 horas semanais em cinco dias, com expediente diário de até 8h24m, sem adicional de hora extra pelos 24 minutos extras. A decisão visa a transição prevista na emenda constitucional que elimina a escala 6x1. A medida mantém os dois repousos semanais obrigatórios e será votada pelo plenário do STF.",
@@ -319,176 +323,117 @@
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/senado-pede-que-stf-nao-confirme-mudancas-de-dino-para-o-fim-da-escala-6x1/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/camara-e-senado-contestam-mudancas-de-dino-em-regras-do-fim-da-escala-6x1/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/escala-6x1-camara-defende-calendario-do-congresso-e-contesta-ajustes-de-dino-no-stf/"
+            "url": "https://www.cnnbrasil.com.br/politica/congresso-rebate-dino-e-pede-que-stf-barre-ajustes-sobre-fim-da-escala-6x1/"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/politica/noticia/2026/11/13/camara-pede-que-stf-derrube-parte-das-regras-fixadas-por-dino-para-escala-5x2.ghtml"
           }
         ],
-        "updatedAt": "2026-11-13T23:57:54.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/54659936624_f64840f3dc_k.jpg"
+        "updatedAt": "2026-11-14T07:15:29.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/F5kLWZW57wQ5PypB5c1b-TKzFJs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/LDKotmSA2jdLrNxE6g3A/plenario-camara-deputados.jpg"
       },
       {
-        "clusterId": "da93fe5c01e83eab",
-        "slug": "5e88eab09bf5791f",
-        "titulo": "Governo Lula encerra subsídio de R$1,40 ao diesel importado",
-        "resumo": "O Ministério da Fazenda anunciou que o subsídio de R$1,40 por litro ao diesel importado não será renovado. A medida foi tomada apesar de o mecanismo ter sido prolongado em outubro devido a restrições no mercado internacional. A subvenção de R$2,12 por litro destinada aos produtores e importadores de óleo diesel rodoviário permanece em vigor.",
-        "porQueImporta": "A mudança afeta o preço final do diesel para consumidores e empresas, alterando os custos de transporte e logística.",
+        "clusterId": "bb832d3a670db1aa",
+        "slug": "e2eddc9f2a7e1f71",
+        "titulo": "PGR solicita rejeição de novo pedido de revisão criminal de Bolsonaro",
+        "resumo": "O procurador-geral da República, Paulo Gonet, pediu ao STF que rejeite o segundo pedido de revisão criminal apresentado pela defesa de Jair Bolsonaro, que visa anular sua condenação de 27 anos de prisão na trama golpista. Gonet argumenta que o pedido não atende aos requisitos legais para ser analisado pelo tribunal. O parecer será encaminhado ao relator, que decidirá se o caso será levado ao plenário para julgamento.",
+        "porQueImporta": "A decisão pode determinar se a condenação de Bolsonaro será mantida ou revista, afetando sua situação legal e a percepção pública sobre o processo.",
         "category": "politica",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/governo-lula-anuncia-fim-de-subsidio-de-r-140-ao-diesel-importado"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/tudo-o-que-se-sabe-sobre-a-revisao-criminal-de-jair-bolsonaro-no-stf/"
           },
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/economia/governo-nao-renova-subsidio-de-r-140-ao-diesel-importado/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/infra/subvencao-de-r-140-ao-diesel-importado-nao-sera-renovada-diz-ministerio/"
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/11/12/pgr-diz-se-contra-revisao-criminal-que-poderia-anular-a-condenacao-de-jair-bolsonaro.ghtml"
           }
         ],
-        "updatedAt": "2026-11-14T00:37:28.000Z",
-        "imageUrl": "https://images.metroimg.com/2022/09/Centro-de-Distribuicao-da-Petrobras-no-SIA-combustivel-tanque-gasolina-alcool-diesel-8.jpeg"
+        "updatedAt": "2026-11-14T01:29:19.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/JAIR-BOLSONARO-PRISAO-DOMICILIAR-264811.jpg"
       },
       {
-        "clusterId": "b4c8db4051223c5b",
-        "slug": "a005cd4771013f21",
-        "titulo": "Fachin defende indicação de ministra negra para o STF",
-        "resumo": "O presidente do Supremo Tribunal Federal, Edson Fachin, afirmou que há magistradas negras qualificadas para ocupar a vaga aberta na Corte. Ele fez a declaração no encerramento do 9º Encontro Nacional de Juízas e Juízes Negros, em que destacou a presença de mulheres negras na magistratura. Fachin ressaltou que pessoas negras representam 15% dos juízes do país e que o Judiciário deve reconhecer a reparação histórica. A proposta visa ampliar a diversidade racial no tribunal.",
-        "porQueImporta": "A indicação de uma ministra negra pode aumentar a representatividade racial no mais alto órgão do Judiciário brasileiro.",
+        "clusterId": "df0b18b49b36fd42",
+        "slug": "6597f7b729a19ede",
+        "titulo": "Transpetro destina R$ 25 milhões a patrocínios culturais e esportivos",
+        "resumo": "A Transpetro anunciou a destinação de R$ 25 milhões para patrocínios culturais e esportivos. O edital público foi aberto em 11 de novembro e ficará disponível até 25 de novembro. Empresas e organizações podem se inscrever para receber apoio financeiro.",
+        "porQueImporta": "A medida amplia o financiamento de iniciativas culturais e esportivas no país.",
         "category": "politica",
         "sources": [
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-justica/fachin-defende-indicacao-de-ministra-negra-para-o-stf/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/radar-carta/fachin-defende-ministra-negra-no-stf-e-cobra-reparacao-historica-do-judiciario/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/fachin-defende-indicacao-de-uma-mulher-negra-para-o-stf.ghtml"
+            "url": "https://www.poder360.com.br/poder-cultura/transpetro-destina-r-25-mi-a-patrocinios-culturais-e-esportivos/"
           }
         ],
-        "updatedAt": "2026-11-13T23:32:51.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2025/03/54414181023_c619d29287_k.jpg"
+        "updatedAt": "2026-11-14T11:05:13.000Z"
       },
       {
-        "clusterId": "ae349ba3e4a7370d",
-        "slug": "715c79977455c61d",
-        "titulo": "Fachin suspende prazos processuais em todo o país por falhas da Microsoft",
-        "resumo": "O ministro Edson Fachin, do Conselho Nacional de Justiça, determinou a suspensão da contagem de prazos processuais nos dias 12 e 13 de novembro de 2026 em todo o Brasil, incluindo processos no STF. A medida foi tomada a pedido da OAB após a identificação de falhas graves e instabilidade generalizada nos serviços da Microsoft, que afetaram tribunais e empresas. A suspensão visa evitar prejuízos à advocacia e ao andamento de processos causados por esses problemas técnicos.",
-        "porQueImporta": "Garantiu que processos não sejam prejudicados por falhas de tecnologia que poderiam atrasar decisões judiciais.",
+        "clusterId": "9562a4ef1a07bb80",
+        "slug": "d4e7aed1416e36f5",
+        "titulo": "STJ suspende processos sobre extinção antecipada do Perse",
+        "resumo": "O Superior Tribunal de Justiça suspendeu as ações que tratam da extinção antecipada do Programa de Estímulo ao Retorno ao Ensino (Perse). A 1ª Seção reconheceu a relevância da disputa e decidiu interromper os processos em curso. A medida visa garantir a correta aplicação das normas e evitar decisões precipitadas.",
+        "porQueImporta": "A suspensão pode influenciar a continuidade do programa e a segurança jurídica dos beneficiários.",
         "category": "politica",
         "sources": [
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/justica/fachin-atende-oab-e-suspende-prazos-processuais-apos-instabilidade-da-microsoft/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/11/13/oab-pede-ao-stf-e-ao-cnj-prorrogacao-de-prazos-em-razao-da-falha-em-plataformas-da-microsoft.ghtml"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/brasil/cnj-suspende-prazos-processuais-apos-falha-global-da-microsoft-afetar-tribunais/"
-          }
-        ],
-        "updatedAt": "2026-11-13T19:22:09.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/55263607364_9b6f676afd_k-e1778531199625.jpg"
-      },
-      {
-        "clusterId": "57a86d84ab801931",
-        "slug": "03b2525fbc6d5ac1",
-        "titulo": "Presidente do PT defende ajuste fiscal e nega cortes em saúde e educação",
-        "resumo": "Edinho Silva, presidente nacional do PT, afirmou que o ajuste fiscal aprovado no Senado segue a agenda de Lula e não retira recursos de saúde e educação. Ele criticou a desinformação sobre o tema e defendeu a revisão de R$ 800 bilhões em desonerações. O presidente também rebateu críticas de que o ajuste implicaria cortes sociais.",
-        "porQueImporta": "O ajuste fiscal pode afetar os investimentos públicos em serviços essenciais, sendo relevante para a população.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/ajuste-fiscal-sofreu-muita-desinformacao-sobre-saude-e-educacao-diz-edinho/"
-          },
           {
             "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-partidos-politicos/presidente-do-pt-rebate-criticas-a-ajuste-fiscal-e-nega-cortes-sociais/"
+            "url": "https://www.poder360.com.br/poder-justica/stj-suspende-processos-sobre-extincao-antecipada-do-perse/"
           }
         ],
-        "updatedAt": "2026-11-13T23:55:40.000Z"
+        "updatedAt": "2026-11-14T10:47:47.000Z"
       },
       {
-        "clusterId": "336359d7d69057ef",
-        "slug": "2b3b2182af408bd9",
-        "titulo": "Ministra do STF arquiva ação sobre bloqueio de jornalistas no X por Bolsonaro",
-        "resumo": "A ministra Cármen Lúcia decidiu arquivar a ação da Abraji que investigava o bloqueio de jornalistas na rede X pelo ex‑presidente Jair Bolsonaro, alegando que o objeto da ação perdeu relevância após a saída de Bolsonaro do cargo. Em sua decisão, a relatora afirmou que o presidente em exercício não pode excluir jornalistas de perfis usados para tratar de assuntos governamentais, destacando a violação da liberdade de imprensa. A decisão reconheceu que o bloqueio ocorreu durante o mandato de Bolsonaro e que a plataforma X tem papel importante no debate público e político.",
-        "porQueImporta": "A medida reforça a proteção da liberdade de imprensa e define limites ao poder de exclusão de jornalistas por autoridades públicas.",
+        "clusterId": "7fc4f84f7bd89a37",
+        "slug": "3a1a1ea345491547",
+        "titulo": "Vítimas de violência patrimonial terão 2ª via gratuita de documentos",
+        "resumo": "Mulheres e filhos que sofreram violência patrimonial poderão solicitar, sem custo, segunda via de RG, CPF e CNH em órgãos públicos. O benefício visa facilitar a regularização e a proteção dos direitos dessas vítimas. O acesso será priorizado e oferecido em atendimento especializado.",
+        "porQueImporta": "Facilita a recuperação de documentos essenciais para a vida cotidiana e a proteção legal das vítimas.",
         "category": "politica",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/carmen-lucia-arquiva-acao-sobre-bloqueio-de-jornalistas-por-bolsonaro-no-x/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/11/13/carmen-diz-que-bolsonaro-violou-liberdade-de-imprensa-ao-bloquear-jornalistas-no-x-quando-era-presidente.ghtml"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-congresso/vitimas-de-violencia-patrimonial-terao-2a-via-gratuita-de-documentos/"
           }
         ],
-        "updatedAt": "2026-11-13T21:40:09.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/D8G8vft_DokW8TMlDQMYH4DwCcQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/N/tsBvaNSAiAvZouBod8qw/afp-20250718-677j8ly-v1-highres-brazilpoliticsjusticetrialcoupbolsonaro.jpg"
+        "updatedAt": "2026-11-14T10:45:07.000Z"
       },
       {
-        "clusterId": "a59a8b833f65825d",
-        "slug": "34aa74f90247304e",
-        "titulo": "Senado aprova texto-base do ajuste fiscal de até R$ 60 bilhões",
-        "resumo": "O Senado aprovou o texto-base do Projeto de Lei Complementar que prevê corte linear de 10% nos benefícios fiscais, mudança no cálculo do piso da saúde e limite ao crescimento de gastos em caso de queda de arrecadação. A proposta, aprovada por 45 votos a 31, tem como objetivo melhorar em cerca de R$ 60 bilhões o resultado primário de 2027. O governo Lula espera que o pacote estabilize a dívida pública e mantenha políticas sociais. A aprovação indica que o Palácio do Planalto pode enfrentar dificuldades para aprovar Propostas de Emenda Constitucional no próximo ano.",
-        "porQueImporta": "O ajuste fiscal pode reduzir a dívida pública e impactar a política econômica do país.",
+        "clusterId": "d662c675c1fa8d3f",
+        "slug": "8e37e55db640e92d",
+        "titulo": "Número de famílias da classe C sem dinheiro guardado cai de 61% para 29%",
+        "resumo": "Um levantamento revelou que 61% das famílias da classe C não têm dinheiro guardado no início do mês, mas esse percentual caiu para 29% no final do mês. Apenas 40% das famílias da classe C conseguem terminar o mês com dinheiro depois de pagar as contas. A pesquisa destaca a dificuldade de manter reservas financeiras entre os consumidores de renda média.",
+        "porQueImporta": "Indica a melhora na capacidade de poupança das famílias de classe C, refletindo mudanças no comportamento de consumo e na gestão financeira.",
         "category": "politica",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/13/placar-do-ajuste-fiscal-no-senado-indica-que-o-governo-tera-dificuldades-para-aprovar-pecs-em-2027.ghtml"
-          },
-          {
-            "name": "DW Brasil",
-            "url": "https://www.dw.com/pt-br/as-principais-medidas-do-ajuste-fiscal-a-ser-votado-pelo-senado/a-79928149?maca=bra-rss-br-all-1030-rdf"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-economia/numero-de-familias-da-classe-c-sem-dinheiro-guardado-cai-de-61-para-29/"
           }
         ],
-        "updatedAt": "2026-11-13T15:23:13.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/YeSKn-qmTVpq6xhpfisF9KcjXwg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/p/B2UrCXQDeyS5FWTwQjlA/55649772539-eccc8e95e3-o.jpg"
+        "updatedAt": "2026-11-14T10:37:38.000Z"
       }
     ],
     "economia": [
       {
-        "clusterId": "b28efdca4d53c750",
-        "slug": "7ff66a9b9ff6a698",
-        "titulo": "Jensen Huang renuncia ao cargo de CEO da Nvidia após escândalo de relações extraconjugais e suspeita de espionagem",
-        "resumo": "O fundador e presidente da Nvidia, Jensen Huang, deixou o cargo de CEO em 12 de novembro, depois que foram revelados três casos extraconjugais, incluindo um com Alice Huang, suspeita de ser espiã chinesa. O escândalo provocou queda de quase US$ 1,08 trilhão no valor de mercado da empresa e levou o conselho a nomear Colette Kress como CEO interina. Enquanto isso, o conselho avalia René Haas, presidente da Arm Holdings, como possível sucessor permanente. Huang foi convocado pelo Congresso dos EUA para depor sobre a relação com a suposta espiã.",
-        "porQueImporta": "A saída de Huang e a crise de confiança podem afetar a liderança e a estabilidade da Nvidia, uma das principais empresas de chips de IA, em meio à tensão tecnológica entre EUA e China.",
+        "clusterId": "d5860f06fd2fe856",
+        "slug": "a7374ed757e4e348",
+        "titulo": "Jensen Huang renuncia ao cargo de CEO da Nvidia após escândalo extraconjugal e suspeita de espionagem",
+        "resumo": "O fundador da Nvidia, Jensen Huang, deixou o cargo de CEO e presidente da empresa em 12 de novembro, após a divulgação de três casos extraconjugais, incluindo um com uma suposta espiã chinesa. O conselho da companhia ainda não iniciou a busca formal por um sucessor, mantendo Colette Kress como CEO interina enquanto avalia consultorias externas. A renúncia provocou queda de quase US$ 33 bilhões na fortuna de Huang e desvalorização da empresa, além de levantar questões de segurança nacional nos Estados Unidos.",
+        "porQueImporta": "A saída de Huang pode impactar a liderança e a estratégia da Nvidia em um momento crítico de crescimento da IA e de preocupações geopolíticas.",
         "category": "economia",
         "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/11/13/pro/nvidia-diz-que-nao-comecou-busca-formal-por-substituto-de-jensen-huang/"
+          },
           {
             "name": "G1",
             "url": "https://g1.globo.com/tecnologia/noticia/2026/11/13/nvidia-rene-haas-arm-holdings.ghtml"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/inteligencia-artificial/nvidia-procura-ceo-da-arm-para-suceder-jensen-huang-diz-jornal/"
-          },
-          {
-            "name": "Super Interessante",
-            "url": "https://super.abril.com.br/sociedade/caso-nvidia-uma-linha-do-tempo-do-escandalo-extraconjugal-a-renuncia-do-ceo-huang/"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/hardware/tragam-o-chefe-volta-funcionarios-da-nvidia-se-opoem-a-saida-de-jensen-huang/"
           },
           {
             "name": "DW Brasil",
@@ -499,188 +444,133 @@
             "url": "https://www.bbc.com/portuguese/articles/cx1l053gmq5zo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-11-13T18:10:29.000Z",
+        "updatedAt": "2026-11-14T01:36:02.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/Gi0n15xixrwFlc4RAWu0bag2N94=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/H/iHB4a9QyA3mHrlx8kzvQ/jensen-huang-rene-haas.png"
       },
       {
-        "clusterId": "4e93188f4422d88c",
-        "slug": "89b884d891eff543",
-        "titulo": "Ibovespa recupera perdas e fecha semana com ganho de 2,35%",
-        "resumo": "O Ibovespa avançou 0,66% na sessão, encerrando a semana com alta de 2,35%. O dólar fechou em leve alta, cotado a R$ 5,65, o maior valor desde junho de 2025. O mercado reagiu ao pacote fiscal aprovado pelo Senado e a dados econômicos domésticos e internacionais. A queda das ações do Banco do Brasil influenciou o desempenho do índice em dias anteriores.",
-        "porQueImporta": "Reflete a reação do mercado brasileiro a políticas fiscais e indicadores econômicos, impactando investidores e a economia nacional.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/coluna/macro-intelligence/ibovespa-recupera-perdas-recentes-e-fecha-semana-com-ganho-de-235/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/invest/mercados/ibovespa-sobe-com-fiscal-no-radar-e-avanca-235-na-semana-dolar-supera-ganho-com-266/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/11/13/dolar-ibovespa.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-13T21:56:44.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/11/GettyImages-2189881425.jpg.jpg"
-      },
-      {
-        "clusterId": "146cce1320569927",
-        "slug": "41dbae83b05f70cf",
-        "titulo": "Falha no controle aéreo dos EUA causa suspensão de decolagens e atrasos em Guarulhos",
-        "resumo": "Problemas nos centros de controle de tráfego aéreo dos Estados Unidos impediram decolagens em aeroportos americanos, levando o Aeroporto de Guarulhos a manter voos em solo. A falha, atribuída a um problema de comunicação nos serviços de telecomunicações, resultou em quase 10.000 voos com atrasos ou cancelamentos. O secretário de Aviação dos EUA afirmou que a situação não será resolvida rapidamente e que estão avaliando novas soluções de controle aéreo.",
-        "porQueImporta": "Impacta a operação de voos internacionais e a logística de passageiros no Brasil.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/brasil/falha-no-controle-aereo-dos-eua-leva-aeroporto-de-guarulhos-a-manter-voos-em-solo/"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-internacional/secretario-dos-eua-diz-que-tecnicos-investigam-falha-que-afetou-voos/"
-          }
-        ],
-        "updatedAt": "2026-11-14T00:29:28.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/06/lukas-souza-7ivfadgoVqk-unsplash.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "bde80436ddc72247",
-        "slug": "80b079148781f6d8",
-        "titulo": "Resultados dos concursos de loterias do dia 13",
-        "resumo": "No dia 13, o concurso 1347 da Lotofácil foi sorteado com prêmio estimado em R$ 2 milhões. O concurso 2999 da Lotomania teve 20 dezenas sorteadas, com valor estimado do prêmio divulgado. A Quina, concurso 7167, teve seu prêmio estipulado em R$ 10.962.935,61. Na Loteca, concurso 1282 não acumulou, com 162 apostas premiadas no 1º grau e 2.703 no 2º grau.",
-        "porQueImporta": "Esses resultados informam os ganhos e a distribuição de prêmios para os participantes das loterias nacionais.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1347-sorteado-nesta-quinta-feira-13/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/loterias/loteca/noticia/2026/11/13/loteca-hoje-resultado-do-concurso-1282-e-numeros-sorteados.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-14T00:29:06.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/dia_de_sorte.png?fit=300%2C170&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "675d975b7b9224c8",
-        "slug": "125ab352f3602cdc",
-        "titulo": "Paralisação de voos nos EUA causa atraso de cerca de sete mil viagens",
-        "resumo": "Uma falha de comunicação nos Centros de Controle de Tráfego Aéreo provocou a paralisação de voos nos Estados Unidos, gerando atrasos em aproximadamente sete mil viagens. O incidente pode desencadear um efeito cascata no sistema de aviação. As autoridades informaram que a paralisação ainda não tem horário definido para término.",
-        "porQueImporta": "O atraso afeta milhares de passageiros e pode impactar a logística e economia do setor aéreo.",
+        "clusterId": "281df0058670b675",
+        "slug": "57d54445431e6db6",
+        "titulo": "Mega-Sena 3085 acumula e prêmio sobe para R$ 27 milhões",
+        "resumo": "O concurso 3.085 da Mega-Sena foi realizado na noite de 12 de novembro em São Paulo, com os números sorteados 10, 59, 27, 37, 39 e 29. Nenhum apostador acertou as seis dezenas, fazendo o prêmio principal acumular para R$ 27.000.000,00. A faixa de 5 acertos gerou 30 apostas vencedoras, cada uma recebendo R$ 37.046,54, enquanto a faixa de 4 acertos contou com 2.272 apostas, cada uma recebendo R$ 698,81.",
+        "porQueImporta": "O aumento do prêmio atrai mais apostas e aumenta a expectativa dos participantes.",
         "category": "economia",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/paralisacao-nos-voos-pode-provocar-efeito-cascata-nos-eua-diz-analista/"
+            "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/loterias/mega-sena-3086/"
           },
           {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/ate-que-horas-vai-a-paralisacao-dos-voos-nos-eua-veja-o-que-se-sabe/"
+            "name": "G1",
+            "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/12/mega-sena-concurso-3085-confira-os-numeros-sorteados.ghtml"
           }
         ],
-        "updatedAt": "2026-11-13T23:37:05.000Z"
+        "updatedAt": "2026-11-14T08:00:21.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/cPy9FznlIgg4fJ10EWYQIxhIduo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/h/Nng0piQh6Wx7yj2b0l3Q/captura-de-tela-2026-11-12-210314.png"
       },
       {
-        "clusterId": "939d02da523e423c",
-        "slug": "29c32060b8a72603",
-        "titulo": "FBI investiga se atualização de software causou suspensão de voos nos EUA",
-        "resumo": "O FBI está investigando se uma atualização de software pode ter provocado a suspensão de voos nos Estados Unidos, enquanto as companhias aéreas Azul, Gol e Latam relatam que a falha de comunicação no aeroporto de Chicago iniciou o caos. A investigação busca descartar a hipótese de ataque cibernético. As companhias estão fornecendo informações sobre o impacto nas operações.",
-        "porQueImporta": "A investigação pode esclarecer a causa de interrupções significativas no transporte aéreo nacional.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/fbi-investiga-se-atualizacao-de-software-provocou-caos-aereo-nos-eua"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/mundo/azul-gol-e-latam-o-que-cada-companhia-informa-sobre-o-caos-aereo-nos-eua/"
-          }
-        ],
-        "updatedAt": "2026-11-13T23:22:12.000Z",
-        "imageUrl": "https://images.metroimg.com/2024/10/09121013/foto-fbi.jpg"
-      },
-      {
-        "clusterId": "8a180a26fab348b9",
-        "slug": "50744bb7096333f5",
-        "titulo": "Microsoft relata falha global em Outlook, Teams e Copilot",
-        "resumo": "A Microsoft identificou uma falha global que afetou o Outlook, o Teams e o Copilot, atribuindo a causa a uma sobrecarga na infraestrutura e revertendo uma mudança de rede. A empresa descartou a possibilidade de um ataque hacker e relatou sinais iniciais de estabilização, embora ainda não tenha definido prazo para a normalização completa. Usuários em 74 países relataram perda de conexão e a empresa continua trabalhando na recuperação dos serviços.",
-        "porQueImporta": "A interrupção impactou milhões de usuários corporativos e governamentais, comprometendo a comunicação e produtividade em escala mundial.",
+        "clusterId": "1280c79e45f8ec8d",
+        "slug": "869095ec911b2baa",
+        "titulo": "CEO da Nvidia renuncia após escândalo de espionagem e relacionamento extraconjugal",
+        "resumo": "O fundador e CEO da Nvidia, Jensen Huang, renunciou após revelações de um relacionamento extraconjugal com uma executiva chinesa, Alice Huang, que pode ter atuado como agente de espionagem. A investigação também envolveu a compra de chips avançados H200 por uma universidade chinesa, contrariando restrições de exportação dos EUA. A crise resultou em uma queda de mais de US$ 1 trilhão no valor de mercado da empresa e em perdas significativas nas ações.",
+        "porQueImporta": "O caso destaca riscos de segurança nacional e impactos financeiros de alto nível em empresas de tecnologia.",
         "category": "economia",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/noticia/2026/11/13/outlook-voltou-por-que-demorou-para-microsoft-resolver-o-problema.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/11/14/traicoes-que-abalaram-o-mundo-alem-do-escandalo-da-nvidia-relembre-historias-de-bill-clinton-a-dom-pedro-i.ghtml"
           },
           {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cw808r14nmjgo?at_medium=RSS&at_campaign=rss"
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/sociedade/caso-nvidia-uma-linha-do-tempo-do-escandalo-extraconjugal-a-renuncia-do-ceo-huang/"
           }
         ],
-        "updatedAt": "2026-11-13T15:57:18.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/E7scyML9vaQniSSRDYJnjDx6ZFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/X/v/5zqaifRBe9ocLTTT4hgg/hal-gatewood-pr578zcufii-unsplash.jpg"
+        "updatedAt": "2026-11-14T07:00:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/6kceJ_EeVv_RylF4cgctbvRz_rQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/U/k/LRZNAERUS7zjnFPnIJyw/2024-08-22t014430z-1799508769-hp1ek8m04u33j-rtrmadp-3-usa-election-democrats.jpg"
       },
       {
-        "clusterId": "fc5017a3205e2c85",
-        "slug": "cd6ef2006a63a13e",
-        "titulo": "Falha global dos serviços da Microsoft afeta 70 países",
-        "resumo": "Uma falha nos serviços da Microsoft impactou mais de 70 países, interrompendo ferramentas como Outlook, Teams e Copilot. Empresas de diversos setores recorreram a soluções antigas, como fax e telefone, para manter operações. A Microsoft descartou ataque hacker e iniciou correções, com recuperação gradual dos serviços.",
-        "porQueImporta": "A interrupção afetou comunicação e operações de empresas e governos em escala internacional.",
+        "clusterId": "d3bb98e4b1746b34",
+        "slug": "c87ca3a5532dd44c",
+        "titulo": "Casa Clear 2026 reúne traders por dez dias",
+        "resumo": "O evento Casa Clear 2026 durou dez dias e contou com a participação de traders que compartilharam conhecimentos, desafios e experiências. A programação foi além das operações no mercado financeiro, abordando temas como estratégias, gestão de risco e desenvolvimento pessoal. Os participantes tiveram a oportunidade de interagir, aprender com especialistas e trocar experiências práticas. O encontro reforçou a importância da troca de informações e networking no setor.",
+        "porQueImporta": "A Casa Clear 2026 destaca a necessidade de aprendizado contínuo e networking entre profissionais do mercado financeiro.",
         "category": "economia",
         "sources": [
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/noticia/2026/11/13/faxes-celulares-e-bluetooth-queda-da-microsoft.ghtml"
-          },
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/apps/apagao-da-microsoft-ja-afeta-74-paises-e-passa-de-18-horas-ataque-hacker-e-descartado/"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/casa-clear-2026-que-dez-dias-de-evento-ensinaram-aos-traders/"
           }
         ],
-        "updatedAt": "2026-11-13T15:03:08.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/Qw_LdXi7CmnBjBDppAcyxSu6DnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/u/Lck7p3RJeQg2pTCLzyYg/2026-11-13t111644z-1725727772-rc2q5da86e5v-rtrmadp-3-microsoft-outages.jpg"
+        "updatedAt": "2026-11-14T11:02:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Casa-Clear-2026-Fechamento.jpeg?fit=300%2C168&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "585d32f276d9c4dd",
+        "slug": "0cebd75209c823ce",
+        "titulo": "Crédito privado avança, mas exige gestão ativa e visão de longo prazo",
+        "resumo": "A gestora Sparta observa um aumento nas negociações de debêntures, destacando maior transparência na precificação dos riscos e oportunidades. Ela enfatiza a necessidade de diversificação e atenção em períodos de volatilidade. A estratégia requer gestão ativa e foco em horizonte de longo prazo.",
+        "porQueImporta": "O crescimento do crédito privado pode impactar investidores e a economia, exigindo cautela e planejamento estratégico.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/onde-investir/credito-privado-gestao-ativa-visao-longo-prazo-sparta/"
+          }
+        ],
+        "updatedAt": "2026-11-14T11:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/02/Ulisses-Nehmi-CEO-da-Sparta-Capital.webp?fit=300%2C172&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "820df59eff48250b",
+        "slug": "9c4687ee659d9052",
+        "titulo": "Syngular busca vender serviços sem intermediários e ampliar rede nacional",
+        "resumo": "A Syngular, que cresceu inicialmente com representantes locais na venda de certificação digital, pretende agora comercializar seus serviços diretamente, sem intermediários. A empresa planeja expandir a oferta de serviços para os mesmos clientes e integrar novas equipes. O objetivo é atingir cerca de R$ 500 milhões em faturamento.",
+        "porQueImporta": "A mudança de modelo pode reduzir custos e acelerar a expansão da empresa no mercado de certificação digital.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/business/syngular-origem-certifica-relacionamento-clientes/"
+          }
+        ],
+        "updatedAt": "2026-11-14T11:00:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-13-185331.png?fit=300%2C209&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "1bdff71d720c5511",
+        "slug": "3ee634117a5e0224",
+        "titulo": "Brasil precisa de políticas industriais e investimentos para proteger a indústria do aço",
+        "resumo": "O consumo interno de aço no Brasil deve diminuir, enquanto o México registra crescimento. Líderes da siderurgia discutem a necessidade de políticas industriais, investimentos e alternativas à defesa comercial. O debate destaca a importância de fortalecer a cadeia produtiva nacional e reduzir a dependência de importações.",
+        "porQueImporta": "Fortalecer a indústria do aço é crucial para a economia brasileira e a segurança industrial.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/economia/alem-das-tarifas-o-que-o-brasil-precisa-fazer-para-proteger-a-industria-do-aco/"
+          }
+        ],
+        "updatedAt": "2026-11-14T10:56:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Usina-de-Aco-em-Brasa-1.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "21006e89e6bbe969",
+        "slug": "0a86f247f6dbb7b3",
+        "titulo": "Dividendos da Petrobras, IPCA e IPO da Anthropic destacam semana",
+        "resumo": "A Petrobras distribuiu dividendos que superaram as expectativas de mercado, refletindo a saúde financeira da companhia. O Índice Nacional de Preços ao Consumidor Amplo (IPCA) registrou variação que impacta a inflação prevista para 2027. A Anthropic realizou seu IPO, marcando entrada de capital em tecnologia de inteligência artificial. A XP Investimentos revisou a projeção de inflação e comentou sobre a saída de capital externo da Bolsa brasileira.",
+        "porQueImporta": "Esses eventos influenciam o mercado financeiro, a política monetária e o cenário de investimentos no Brasil e globalmente.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/onde-investir/dividendos-da-petrobras-ipca-e-ipo-da-anthropic-veja-os-destaques-da-semana/"
+          }
+        ],
+        "updatedAt": "2026-11-14T10:22:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/10/2026-10-26T203638Z_1620375017_RC28BOAPMU7K_RTRMADP_3_ANTHROPIC-IPO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
       {
-        "clusterId": "87c129bb7c63edb4",
-        "slug": "ca44c322a6a34520",
-        "titulo": "Suspensão de todas as decolagens nos EUA por falha de comunicação",
-        "resumo": "A Administração Federal de Aviação dos EUA (FAA) determinou a suspensão de todas as decolagens em aeroportos americanos, após falha nos sistemas de comunicação dos centros de controle de tráfego aéreo. A medida, tomada por motivos de segurança, faz com que voos programados permaneçam no solo até novo aviso. Mais de 10 mil voos foram afetados, incluindo rotas entre Brasil e EUA. Companhias aéreas e passageiros são orientados a verificar status junto às operadoras.",
-        "porQueImporta": "Impacta viagens internacionais e destaca vulnerabilidades nos sistemas de controle aéreo dos EUA.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/turismo-e-viagem/noticia/2026/11/13/decolagens-suspensas-nos-eua-o-que-fazer.ghtml"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/mundo/a-explicacao-do-governo-dos-eua-para-a-suspensao-das-decolagens-no-pais/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/suspensao-nos-eua-afeta-quase-sete-mil-voos-mostra-monitor/"
-          },
-          {
-            "name": "DW Brasil",
-            "url": "https://www.dw.com/pt-br/eua-suspendem-todas-as-decolagens-de-aeroportos-do-país/a-79945256?maca=bra-rss-br-all-1030-rdf"
-          },
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/13/carros-e-tecnologia/eua-decolagens-estao-suspensas-em-todo-o-pais-por-seguranca/"
-          }
-        ],
-        "updatedAt": "2026-11-13T23:59:15.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/vBuZuo7bMKzbG0-1zYpf3YgaTVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/r8UqR9QRKHZ6cpPBv4fw/2026-11-13t225544z-1478587479-rc2anoaqfvwc-rtrmadp-3-usa-faa-ground-stop.jpg"
-      },
-      {
-        "clusterId": "c3a85589696a7197",
+        "clusterId": "0d44c479bb09d803",
         "slug": "496f91d9cfaf0033",
         "titulo": "EUA suspendem todas as decolagens por falha de comunicação nos centros de controle",
         "resumo": "A FAA determinou a suspensão de todas as decolagens nos aeroportos dos Estados Unidos após uma falha de comunicação que afetou os centros de controle de tráfego aéreo. O secretário de Segurança Interna, Markwayne Mullin, descartou a possibilidade de ataque e afirmou que a medida foi tomada por motivos de segurança e circunstâncias extraordinárias. A suspensão é rara, ocorrendo apenas três vezes na história da aviação americana. A FAA está investigando a causa da falha no sistema.",
@@ -688,87 +578,151 @@
         "category": "mundo",
         "sources": [
           {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c54gnly4kzdpo?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/13/suspensao-de-voos-nos-eua-secretario-de-seguranca-descarta-ataque-e-fala-em-problema-de-telecomunicacao.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/11/14/caos-aereo-10-perguntas-e-respostas-sobre-a-paralisacao-dos-aeroportos-nos-estados-unidos.ghtml"
           },
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-internacional/eua-suspendem-voos-em-todo-o-pais-por-falha-no-controle-de-trafego/"
-          },
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/economia/eua-suspendem-decolagens-de-todos-os-aeroportos-por-circunstancias-extraordinarias/"
-          }
-        ],
-        "updatedAt": "2026-11-14T00:29:00.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1963/live/ba2043a0-dfb4-11f1-b867-af6986834a9f.jpg"
-      },
-      {
-        "clusterId": "07990af21e28ef6d",
-        "slug": "1776dcd085141226",
-        "titulo": "Enviados de Trump se encontram com Putin e planejam incluir parceiros europeus nas negociações sobre a Ucrânia",
-        "resumo": "Os enviados especiais dos EUA, Steve Witkoff e Jared Kushner, chegaram a Moscou para conversar com Vladimir Putin sobre a guerra na Ucrânia. A reunião ocorreu pouco depois de negociações diretas entre Kiev e Moscou em Abu Dhabi. Kushner confirmou que parceiros europeus participarão das discussões sobre segurança continental e os termos de paz pós-conflito. Putin expressou desejo de que a paz na Ucrânia perdure indefinidamente.",
-        "porQueImporta": "A inclusão de parceiros europeus pode ampliar o alcance e a legitimidade das negociações de paz na região.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/13/trump-xi-jinping-e-putin-se-reunirao-na-proxima-semana.ghtml"
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/11/13/carros-e-tecnologia/eua-liberam-voos-apos-pane-mas-caos-nos-aeroportos-deve-continuar/"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/trump-se-reunira-com-putin-e-xi-jinping-na-china-confirma-casa-branca/"
+            "url": "https://www.cnnbrasil.com.br/internacional/eua-poem-fim-a-suspensao-de-voos-que-provocou-caos-aereo-no-pais/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/mundo/eua-encerram-suspensao-de-decolagens-no-pais-apos-falha-nas-telecomunicacoes/"
+          },
+          {
+            "name": "DW Brasil",
+            "url": "https://www.dw.com/pt-br/eua-suspendem-todas-as-decolagens-de-aeroportos-do-país/a-79945256?maca=bra-rss-br-all-1030-rdf"
           }
         ],
-        "updatedAt": "2026-11-14T00:13:15.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/AGcXLuDdYjMyefULqxSN1TgMvO4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/P/UAUJSAQK6Jbdfw7P7PJw/photo-collage.png-4-.png"
+        "updatedAt": "2026-11-14T03:00:01.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/4ycNpZKQemGOmr0q7ofEguwvp_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/l/Ej8rQ7Q5yp8JYMK0Vsng/2026-11-13t220020z-1726552431-rc29noaazduh-rtrmadp-3-usa-faa-ground-stop.jpg"
       },
       {
-        "clusterId": "000aff28bc4dbaeb",
-        "slug": "61fe3e2463ad665f",
-        "titulo": "MP do Paraguai acusa ex-presidente Santiago Peña de associação criminosa",
-        "resumo": "O Ministério Público do Paraguai acrescentou a acusação de associação criminosa contra o ex-presidente Santiago Peña, que foi destituído em 5 de novembro de 2026 após o colapso do Ueno Bank. Peña está preso preventivamente e a investigação inclui supostas irregularidades que contribuíram para a crise bancária. Autoridades realizaram buscas na residência oficial de Peña como parte da investigação. A promotoria amplia o rol de crimes pelos quais ele é investigado, vinculando o caso à crise do Ueno Bank.",
-        "porQueImporta": "A acusação pode influenciar a estabilidade política e a confiança no sistema financeiro paraguaio.",
+        "clusterId": "300c1a7062865caa",
+        "slug": "ea5431745dd0b232",
+        "titulo": "Mãe de menino brasileiro que teve dedo mutilado em escola em Portugal contesta investigação e busca justiça",
+        "resumo": "Nívia Estevam, mãe de José, afirma que o acidente que mutilou dois dedos do filho em uma escola pública em Portugal em novembro de 2025 forçou a família a mudar de cidade e reorganizar sua vida financeira e profissional. A investigação oficial concluiu que não houve bullying, classificando o caso como acidente, o que a família contesta. A mãe aguarda o desfecho de processos judiciais e espera justiça para que a situação não seja ignorada.",
+        "porQueImporta": "O caso destaca a necessidade de investigação adequada e proteção de crianças em ambientes escolares internacionais.",
         "category": "mundo",
         "sources": [
           {
-            "name": "DW Brasil",
-            "url": "https://www.dw.com/pt-br/paraguai-ex-presidente-é-acusado-de-associação-criminosa/a-79945572?maca=bra-rss-br-all-1030-rdf"
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/11/14/mae-de-menino-brasileiro-que-teve-dedo-mutilado-em-escola-diz-que-familia-teve-que-mudar-de-cidade-e-espera-justica-para-deixar-portugal-traumas-para-a-vida-toda.ghtml"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/13/ministerio-publico-do-paraguai-acusa-ex-presidente-santiago-pena-de-associacao-criminosa.ghtml"
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/ck0jxpxl6q24o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-11-13T23:18:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/931fvwvhca_M4XOgqnybEMDgDR8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/9/tvjNW7SseODUS6B9GLtQ/2026-11-05t162617z-2095193189-rc28k9aom5wk-rtrmadp-3-paraguay-politics.jpg"
+        "updatedAt": "2026-11-14T09:00:01.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/fgYBYjfiZjzhOAvDbISXO9qa7Jw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/H/s4DIHdQvKhV8dYT7RCiw/bbc.webp"
       },
       {
-        "clusterId": "a19b344b6edef1d6",
-        "slug": "4a3ab552e416b503",
-        "titulo": "El Salvador envia 2.500 soldados ao Haiti para ação militar e resgate de cidadãos",
-        "resumo": "O presidente Nayib Bukele enviou cerca de 2.500 soldados de El Salvador ao Haiti para realizar uma operação militar que incluiu o uso de bombas, helicópteros e um cão-robô armado. A missão teve como objetivo resgatar quatro salvadorenhos sequestrados por gangues haitianas e também faz parte de uma estratégia de internacionalização da política de segurança do país. A presença militar salvadorenha gerou atenção internacional e questionamentos sobre a posição dos Estados Unidos.",
-        "porQueImporta": "A operação demonstra a expansão da influência de El Salvador em questões de segurança internacional e pode afetar as relações regionais e a percepção dos EUA sobre a intervenção militar estrangeira.",
+        "clusterId": "97ded6d1dc98715b",
+        "slug": "95ca5171a1f0257c",
+        "titulo": "Suspensão de voos nos EUA causa efeito cascata e impacta Brasil",
+        "resumo": "A FAA suspendeu todas as decolagens nos Estados Unidos por cerca de quatro horas, em decorrência de falhas de comunicação no controle de tráfego aéreo. O bloqueio gerou atrasos e sobrecarga em trens e aeroportos, afetando voos globais. A Força Aérea Brasileira monitorou a situação e avaliou ajustes no fluxo aéreo nacional, considerando realocação de aeronaves se necessário.",
+        "porQueImporta": "O incidente demonstra como interrupções nos EUA podem repercutir no tráfego aéreo internacional e no transporte terrestre.",
         "category": "mundo",
         "sources": [
           {
-            "name": "DW Brasil",
-            "url": "https://www.dw.com/pt-br/por-que-el-salvador-tem-soldados-no-haiti/a-79944865?maca=bra-rss-br-all-1030-rdf"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/retomada-tera-efeito-cascata-e-nao-encerra-caos-aereo-dizem-especialistas/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/13/modelo-de-el-salvador-bukele-inicia-acao-militar-no-haiti-com-bombas-cachorro-robo-armado-e-2000-soldados.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/11/14/o-efeito-cascata-da-suspensao-de-voos-nos-eua-trens-sobrecarregados-brasil-impactado-e-horas-para-normalizar-fluxo.ghtml"
           }
         ],
-        "updatedAt": "2026-11-13T20:35:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/S69-Omd9pQZRoG0WjUiSLpfOU74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/7/0anL0TTbihjeha6naKcg/2026-10-17t015645z-912648220-rc2p4oalqm0i-rtrmadp-3-el-salvador-costa-rica.jpg"
+        "updatedAt": "2026-11-14T07:31:25.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/vBuZuo7bMKzbG0-1zYpf3YgaTVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/r8UqR9QRKHZ6cpPBv4fw/2026-11-13t225544z-1478587479-rc2anoaqfvwc-rtrmadp-3-usa-faa-ground-stop.jpg"
       },
       {
-        "clusterId": "f3aa4bfd1254acff",
+        "clusterId": "ad7d68db47ee8d25",
+        "slug": "19c7a1f545b1fc01",
+        "titulo": "Papa Leão XIV conclui visita de 12 dias no Peru",
+        "resumo": "O papa Leão XIV encerrou sua viagem de 12 dias pela América do Sul, que incluiu três países e dez cidades, retornando a Chiclayo, onde viveu por mais de oito anos. Durante a visita, o pontífice pediu reparação às vítimas de abusos sexuais na Igreja e foi recebido por milhares de fiéis. Um terremoto de magnitude 5,6 atingiu a costa do Peru enquanto o papa estava em viagem, mas não afetou suas atividades. O evento marcou a primeira visita do papa ao país desde sua aposentadoria em 2005.",
+        "porQueImporta": "A visita reforça a presença do papa na América Latina e destaca a atenção à justiça e reparação nas vítimas de abuso.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/mundo/leao-xiv-peru-viagem-mais-longa-papado"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/11/13/terremoto-atinge-a-costa-do-peru-durante-visita-do-papa-leao-xiv.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-14T07:30:51.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/11/papa-leao-peru.jpg"
+      },
+      {
+        "clusterId": "82732483ae13ec64",
+        "slug": "1dca544d93663bf2",
+        "titulo": "Vontade de comer antes de dormir está ligada a ganho de peso",
+        "resumo": "Estudos mostram que cerca de um terço das pessoas consomem alimentos nas duas horas antes de dormir, sendo mais frequente entre jovens de 18 a 24 anos. A prática está associada a maior risco de ganho de peso e obesidade. A nutricionista Kristine Beaulieu destaca a preocupação com esse hábito, enquanto a BBC Brasil explica que há razões biológicas e que é possível mudar o comportamento.",
+        "porQueImporta": "Entender o motivo e as consequências ajuda a prevenir problemas de saúde relacionados ao peso.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/saude/noticia/2026/11/14/vontade-de-comer-logo-antes-de-dormir-entenda-por-que-isso-acontece-e-o-que-fazer-a-respeito.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/c6x2wwvgwnk5o?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-11-14T07:00:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/39hs27zfwtmABaKBElQoQ4SrMFQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/w/wg2448RjActACeKLXx6g/imagem-cortada-52-.jpg"
+      },
+      {
+        "clusterId": "3d504846235e412f",
+        "slug": "eee3978ea56b9be3",
+        "titulo": "Lesões no tornozelo são mais comuns do que se imagina",
+        "resumo": "Lesões no tornozelo ocorrem com frequência, afetando a capacidade de equilíbrio, de ficar em pé e de caminhar. A fisioterapeuta Genevieve Tawiah destaca que esses danos são frequentes e que a prevenção é essencial. Ela oferece orientações práticas para proteger a articulação e reduzir o risco de lesões. O Instituto Nacional de Saúde confirma a alta incidência dessas lesões.",
+        "porQueImporta": "Entender a prevalência e prevenção ajuda a evitar incapacidades e custos de tratamento.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/saude/noticia/2026/11/14/lesoes-no-tornozelo-sao-mais-comuns-do-que-voce-imagina-veja-como-proteger-o-seu.ghtml"
+          },
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cqgkl7nz7y2zo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-11-14T07:00:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/AgnhVi1-epMprqS9fPU-OPVKip4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/I/TPBtfoSU2BX2hUgcQT3w/os-tornozelos-sao-os-principais-amortecedores-do-corpo-essenciais-para-manter-o-equilibrio-ficar-em-pe-caminhar-e-correr.jpeg"
+      },
+      {
+        "clusterId": "8301cd7bd4451783",
+        "slug": "238b6ceac52a96dd",
+        "titulo": "Suspensão de voos nos EUA leva a pedido de financiamento para modernização do tráfego aéreo",
+        "resumo": "A suspensão de voos nos Estados Unidos forçou o presidente Trump a pressionar o Congresso pela aprovação de um projeto que prevê US$ 30 bilhões para modernizar a infraestrutura de tráfego aéreo. O secretário de Transporte, Sean Duffy, apontou inconsistências entre radar e torres e descreveu o sistema como antigo, solicitando US$ 50 milhões para melhorias. O fechamento do espaço aéreo foi motivado por falhas técnicas que comprometeram a segurança e a eficiência dos voos.",
+        "porQueImporta": "A modernização do tráfego aéreo é crucial para garantir a segurança e a continuidade das operações de voo nos EUA.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/apos-suspensao-de-voos-trump-pressiona-sobre-lei-de-trafego-aereo/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/11/13/suspensao-de-voos-secretario-diz-que-houve-inconsistencias-entre-radar-e-torre-e-que-sistema-de-trafego-aereo-e-velho.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-14T06:06:31.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/Yo46XkJJ1cc_pFCOMRdeOhwQb_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/n/1PxdeNRUKPMC5ekxHgcA/2026-11-14t013425z-1676629884-rc2dnoa208ag-rtrmadp-3-usa-trump.jpg"
+      },
+      {
+        "clusterId": "cb38db2d74a65a54",
         "slug": "dcde3b9d47c98497",
         "titulo": "EUA desmantelam rede de golpes de criptomoedas da Coreia do Norte",
         "resumo": "Autoridades dos EUA, por meio do FBI, apreenderam servidores vinculados a um esquema de golpes que utilizou videochamadas falsas e deepfakes para roubar mais de 400 milhões de dólares em criptomoedas. O ataque incluiu engenharia social, roubo de identidade e exposição de dados de 30 mil cadastros e 4 mil chaves PIX do Tesouro Nacional. O dinheiro obtido supostamente financia o programa de armas do regime norte-coreano.",
@@ -776,74 +730,99 @@
         "category": "mundo",
         "sources": [
           {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/11/14/fbi-desmantela-rede-de-hackers-da-coreia-do-norte-objetivo-do-golpe-era-financiar-armas-ilicitas-no-pais.ghtml"
+          },
+          {
             "name": "DW Brasil",
             "url": "https://www.dw.com/pt-br/eua-desmantelam-rede-de-golpes-de-criptomoedas-da-coreia-do-norte-diz-fbi/a-79940495?maca=bra-rss-br-all-1030-rdf"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/13/hackers-norte-coreanos-roubaram-us-400-milhoes-com-videochamadas-manipuladas-por-ia-diz-fbi.ghtml"
           }
         ],
-        "updatedAt": "2026-11-13T14:23:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/SRokg9yElXlWuO7kL5C93cSfdS4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/l/AVUymHTnA9kXSx7HQoEA/2026-10-12t230804z-1512920560-rc2x1oa6l3ub-rtrmadp-3-northkorea-military.jpg"
-      },
-      {
-        "clusterId": "a1f789c50968f38f",
-        "slug": "6c9907845cdebb67",
-        "titulo": "Investigações sobre supostas trocas de favores sexuais por contratos envolvendo ex-presidente colombiano Gustavo Petro",
-        "resumo": "Uma mulher alega que o ex-presidente Gustavo Petro teria oferecido contratos do Estado colombiano em troca de favores sexuais. A denúncia levou a uma investigação sobre o caso. As acusações ainda não foram confirmadas e o processo está em andamento. A situação gera atenção sobre possíveis irregularidades no governo colombiano.",
-        "porQueImporta": "A investigação pode afetar a reputação e a estabilidade política de Petro e do governo colombiano.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/13/as-acusacoes-de-propina-sexual-que-levaram-a-investigacao-do-ex-presidente-colombiano-gustavo-petro.ghtml"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cm174ll0nvj9o?at_medium=RSS&at_campaign=rss"
-          }
-        ],
-        "updatedAt": "2026-11-13T13:12:22.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/nDZH4QmFG_l3Y67I5ZVQJHDKVVY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/b/WcwBBEScmjkh9ZoOxIVA/novo-projeto-9-.jpg"
-      },
-      {
-        "clusterId": "b8ac2042cbe48a39",
-        "slug": "17806b746d19b1a2",
-        "titulo": "Suspensão de voos nos EUA é a segunda paralisação nacional desde o 11 de Setembro",
-        "resumo": "Os Estados Unidos suspenderam todas as decolagens em aeroportos do país por motivos de segurança, sendo a segunda paralisação nacional desde o ataque de 11 de Setembro. A medida foi tomada pela FAA após falhas no sistema de informações aeronáuticas, que já causou cancelamentos em 2023. A paralisação afeta milhares de voos e gera atrasos em toda a rede aérea americana.",
-        "porQueImporta": "A interrupção de voos em todo o país destaca vulnerabilidades críticas na infraestrutura de aviação dos EUA.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/13/suspensao-de-voos-nos-eua-e-a-segunda-paralisacao-nacional-desde-o-11-de-setembro.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-13T21:38:09.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/FdP_9KolbZ1VQtXrrt0sVVHa1co=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/A/IsEHEZS8GKaOAh4J7PEw/ap26226662997913.jpg"
+        "updatedAt": "2026-11-14T05:01:26.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/pM22IfaoPXsQeAYV3cnQzbbggLw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/g/xBWaxKSoumEeYwrgux6w/2026-10-30t064256z-417233320-rc29doacz2fd-rtrmadp-3-northkorea-arms.jpg"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "c7f48be704ea1eeb",
-        "slug": "e0727d26b8333fee",
-        "titulo": "Resultado da Lotofácil 3829 divulgado",
-        "resumo": "A Caixa Econômica Federal realizou o sorteio da Lotofácil, concurso 3829, na noite de 13 de novembro, às 21h. Os números sorteados foram divulgados em sites de notícias. O prêmio estimado para o concurso é de aproximadamente R$ 2 milhões. O resultado também foi acompanhado por outras loterias, como Lotomania, Dupla Sena e Super Sete.",
-        "porQueImporta": "O resultado determina quem pode receber o prêmio e influencia a expectativa dos apostadores.",
+        "clusterId": "3845ce3bfb4f304b",
+        "slug": "d2b1c99677044825",
+        "titulo": "Jogos de sábado 14 de novembro: Japão x Brasil, Vasco x Galo e última rodada da Série B",
+        "resumo": "No sábado, 14 de novembro, os principais eventos do futebol incluem o clássico Japão x Brasil, a partida entre Vasco e Galo e a última rodada da Série B. Os horários e canais de transmissão foram divulgados pelas fontes, permitindo aos torcedores acompanhar os jogos ao vivo. A cobertura destaca a importância dos confrontos para a classificação e para o interesse dos fãs.",
+        "porQueImporta": "Esses jogos determinam posições críticas na competição e atraem grande audiência internacional e nacional.",
         "category": "tecnologia",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/confira-o-resultado-da-lotofacil-3829-sorteada-hoje-13-11"
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/esporte/jogos-de-hoje-sabado-14-de-novembro-onde-assistir-futebol-ao-vivo-e-horarios/"
           },
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/13/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3829-sexta-13-11/"
+            "url": "https://olhardigital.com.br/2026/11/14/internet-e-redes-sociais/quem-sobe-e-quem-cai-saiba-horarios-e-onde-assistir-a-ultima-rodada-da-serie-b/"
           }
         ],
-        "updatedAt": "2026-11-14T00:16:17.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/09/Loterias-Caixa-Lotofacil.jpg"
+        "updatedAt": "2026-11-14T09:00:28.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/GettyImages-2296414983.jpg"
+      },
+      {
+        "clusterId": "adf6ea7e7b643008",
+        "slug": "f00b795d91ecca58",
+        "titulo": "IA não elimina empregos, mas altera quem entra no mercado",
+        "resumo": "A inteligência artificial não está substituindo todos os postos de trabalho, mas está mudando os requisitos para ingressar no mercado de trabalho. A tecnologia cria novas demandas por habilidades específicas, favorecendo profissionais com competências digitais. Isso não significa que a IA esteja eliminando empregos, mas sim transformando o perfil profissional necessário.",
+        "porQueImporta": "Entender essa mudança ajuda trabalhadores e empregadores a se prepararem para as novas exigências do mercado.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/11/14/colunistas/a-ia-nao-esta-eliminando-todos-os-empregos-esta-mudando-quem-consegue-entrar-no-mercado/"
+          }
+        ],
+        "updatedAt": "2026-11-14T10:01:00.000Z"
+      },
+      {
+        "clusterId": "3f9d3028bc9c4a7a",
+        "slug": "7c00d20b2e7e2eb1",
+        "titulo": "Prefeitura de Recife planeja ampliar plataforma Conecta Recife para oferecer serviços públicos sem clique",
+        "resumo": "A plataforma Conecta Recife, desenvolvida pela Emprel e SECTI, visa facilitar o acesso digital a serviços públicos. O objetivo é torná‑la mais personalizável e evoluir para um serviço “zero clique”, que conceda direitos ao cidadão sem necessidade de solicitação. A iniciativa faz parte da estratégia de modernização da administração municipal.",
+        "porQueImporta": "A expansão pode melhorar a eficiência e a inclusão digital dos usuários dos serviços públicos do Recife.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/apps/prefeitura-do-recife-quer-transformar-sistema-em-amazon-dos-servicos-publicos/"
+          }
+        ],
+        "updatedAt": "2026-11-14T10:00:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/JFskkt0CTTEPFH3xjYNDnSORpaU=/0x0/filters:format(webp):quality(85)/cfbc0329-922c-4bbc-8e69-d88389338a41.png"
+      },
+      {
+        "clusterId": "8b598c376a09b46d",
+        "slug": "d30199de4742b219",
+        "titulo": "Fase da Lua em 14 de novembro de 2026",
+        "resumo": "Em 14 de novembro de 2026 a Lua está na fase de crescente gibbosa, aproximando-se do quarto crescente. O calendário lunar do mês indica que a fase completa ocorrerá em breve, seguida pelo quarto crescente. A observação da fase lunar é útil para astrônomos amadores e para quem acompanha ciclos naturais.",
+        "porQueImporta": "Conhecer a fase lunar auxilia na programação de observações astronômicas e em atividades que dependem da luminosidade natural.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/11/14/ciencia-e-espaco/lua-hoje-confira-a-fase-da-lua-deste-sabado-14-11-2026/"
+          }
+        ],
+        "updatedAt": "2026-11-14T09:12:00.000Z"
+      },
+      {
+        "clusterId": "7b162e7ec1a48180",
+        "slug": "9cbb155cd6af1c10",
+        "titulo": "Meta testa aplicativo de apostas em previsões entre funcionários",
+        "resumo": "A Meta está testando um aplicativo chamado Takes que permite aos funcionários apostar em eventos internos usando pontos de credibilidade. O serviço ainda não foi lançado ao público e permanece em fase de testes internos. A plataforma visa engajar os colaboradores e incentivar a participação em decisões da empresa.",
+        "porQueImporta": "Ilustra a busca da Meta por novas formas de engajamento interno e inovação em cultura corporativa.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/11/13/internet-e-redes-sociais/meta-testa-aplicativo-de-apostas-em-previsoes-entre-funcionarios/"
+          }
+        ],
+        "updatedAt": "2026-11-14T01:00:26.000Z"
       },
       {
         "clusterId": "88c5f2c0380d2aa8",
@@ -876,103 +855,37 @@
         "updatedAt": "2026-11-13T23:40:00.000Z"
       },
       {
-        "clusterId": "ab2cb760235dc4cf",
-        "slug": "58abe7959fa7a2c9",
-        "titulo": "Biometria facial com prova de vida combate deepfakes e fraudes digitais",
-        "resumo": "A biometria facial com prova de vida, ou liveness, verifica se há uma pessoa real diante da câmera, além de comparar a selfie com a foto de documento. Essa tecnologia ajuda a prevenir fraudes em jornadas digitais, especialmente com o aumento de deepfakes. A escolha da solução deve considerar fatores como escala, privacidade e custo.",
-        "porQueImporta": "Garantir a autenticidade das identidades digitais protege usuários e empresas contra fraudes cada vez mais sofisticadas.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/ciberseguranca/serasa/noticia/2026/11/13/biometria-facial-contra-deepfakes-o-que-avaliar-em-liveness-escala-e-privacidade.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-13T21:56:54.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/GDVrkNwYNRFiOzfk6Kw-_kqs4_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/X/SZJmbFTAmgUpWgAuKhNw/imagem1.png"
-      },
-      {
-        "clusterId": "fbdac5bb39193b73",
-        "slug": "6ddabb943ac559b6",
-        "titulo": "Amazon oferece promoções em aspiradores robô",
-        "resumo": "A Amazon disponibiliza três modelos de aspiradores robô em promoção, destacando a praticidade e qualidade para manter o chão limpo. Os modelos incluem o WAP Robot W90 3 em 1 e outros dispositivos que facilitam a limpeza diária. As ofertas visam atender consumidores que buscam eficiência sem esforço.",
-        "porQueImporta": "Essas promoções permitem que os consumidores adquiram tecnologia de limpeza doméstica a preços mais acessíveis.",
+        "clusterId": "fc229b31bbb36e2a",
+        "slug": "e0727d26b8333fee",
+        "titulo": "Resultado da Lotofácil 3829 divulgado",
+        "resumo": "A Caixa Econômica Federal realizou o sorteio da Lotofácil, concurso 3829, na noite de 13 de novembro, às 21h. Os números sorteados foram divulgados em sites de notícias. O prêmio estimado para o concurso é de aproximadamente R$ 2 milhões. O resultado também foi acompanhado por outras loterias, como Lotomania, Dupla Sena e Super Sete.",
+        "porQueImporta": "O resultado determina quem pode receber o prêmio e influencia a expectativa dos apostadores.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/13/reviews/casa-limpa-sem-esforco-selecionamos-os-melhores-aspiradores-robo-em-promocao-na-amazon-2/"
+            "url": "https://olhardigital.com.br/2026/11/13/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3829-sexta-13-11/"
           }
         ],
-        "updatedAt": "2026-11-13T21:13:52.000Z"
-      },
-      {
-        "clusterId": "18701c6a5547f9e4",
-        "slug": "b8150ab4fe08cd62",
-        "titulo": "Smartwatch em promoção: seleção de relógios inteligentes na Amazon",
-        "resumo": "O artigo apresenta duas opções de smartwatches em promoção na Amazon, destacando perfis distintos para atender diferentes estilos. Um modelo feminino apresenta design redondo com tela AMOLED de 1,39 polegadas, enquanto o outro oferece características distintas. O texto orienta o leitor a comparar as opções antes de comprar.",
-        "porQueImporta": "Ajuda consumidores a escolherem dispositivos inteligentes com base em promoções e especificações.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/13/reviews/smartwatch-em-promocao-veja-uma-selecao-de-relogios-inteligentes-para-nao-perder-2/"
-          }
-        ],
-        "updatedAt": "2026-11-13T20:53:52.000Z"
-      },
-      {
-        "clusterId": "bc9a0d964b4f837a",
-        "slug": "51509d84af808e1e",
-        "titulo": "Microsoft e CrowdStrike fazem parte de seis grandes apagões cibernéticos de 2024",
-        "resumo": "Na última semana, a Microsoft sofreu um incidente de segurança que interrompeu serviços críticos, adicionando-se a uma série de apagões cibernéticos ocorridos em 2024, incluindo o caso da CrowdStrike. O evento destaca a vulnerabilidade de grandes provedores de tecnologia a ataques de negação de serviço e falhas de infraestrutura. As interrupções afetaram usuários globais e serviços dependentes de nuvem, causando perdas de produtividade e confiança.",
-        "porQueImporta": "Esses apagões evidenciam a crescente ameaça de ataques cibernéticos que podem paralisar serviços essenciais em escala global.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/13/seguranca/de-microsoft-a-crowdstrike-6-apagoes-que-pararam-o-mundo/"
-          }
-        ],
-        "updatedAt": "2026-11-13T20:42:12.000Z"
-      },
-      {
-        "clusterId": "5b4b14ad4dd16c46",
-        "slug": "717a7b8f389ce232",
-        "titulo": "Hyundai reduz preços do Creta em novembro",
-        "resumo": "O Hyundai Creta 2027 recebeu descontos significativos na loja oficial da marca no Mercado Livre, com abatimento superior a R$30 mil na versão Limited. A promoção se aplica a cinco configurações, excluindo a versão de entrada Action, e exige pagamento à vista e troca de veículo usado. Os valores variam conforme a versão escolhida. A ação ocorre em um momento estratégico para o modelo, que compete entre os SUVs compactos mais vendidos no Brasil.",
-        "porQueImporta": "A redução de preços pode tornar o Creta mais competitivo no mercado de SUVs compactos.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/carros/hyundai-derrete-precos-da-linha-creta-em-novembro-confira/"
-          }
-        ],
-        "updatedAt": "2026-11-13T20:10:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/szWj9rGkAmtt7WU73tZflcwNQFg=/0x0/filters:format(webp):quality(85)/16a5885d-f0fb-4ea4-919b-ab8049bef44d.jpg"
+        "updatedAt": "2026-11-13T23:40:00.000Z"
       }
     ],
     "ciencia": [
       {
-        "clusterId": "c72103a132d5b766",
-        "slug": "68fde77748aeb7c7",
-        "titulo": "USP, Unesp e Unicamp pedem reunião com governo sobre irregularidades no Provão Paulista",
-        "resumo": "As pró-reitorias de graduação das universidades USP, Unesp e Unicamp emitiram nota conjunta expressando preocupação com denúncias de cola e uso de inteligência artificial no Provão Paulista de 2026. Elas solicitaram reunião com o governo para discutir os registros divulgados pela imprensa e redes sociais. A nota destaca a necessidade de garantir a integridade do exame.",
-        "porQueImporta": "Garantir a lisura de um exame de grande importância para o acesso ao ensino superior no estado.",
+        "clusterId": "3118a737a9bde75e",
+        "slug": "0f94c83c68ca2401",
+        "titulo": "Lua cheia de novembro será superlua em 24 de novembro",
+        "resumo": "A lua cheia de 24 de novembro, às 11h53 (horário de Brasília), ocorrerá próxima ao perigeu, fazendo com que a lua pareça maior e mais brilhante. Esse fenômeno, chamado superlua, acontece quando a lua cheia coincide com o ponto mais próximo da Terra em sua órbita. Astrônoma Josina Oliveira do Nascimento explica que a proximidade aumenta o brilho e o tamanho aparente da lua.",
+        "porQueImporta": "É um evento astronômico que atrai interesse público e pode ser observado com maior visibilidade.",
         "category": "ciencia",
         "sources": [
           {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/sao-paulo/cola-no-provao-paulista-usp-unesp-e-unicamp-pedem-reuniao-com-o-governo"
-          },
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/comunicados/nota-conjunta-das-pro-reitorias-de-graduacao-da-usp-unesp-e-unicamp-sobre-o-provao-paulista/"
+            "name": "G1",
+            "url": "https://g1.globo.com/ciencia/noticia/2026/11/14/novembro-superlua-o-que-esperar-do-fenomeno.ghtml"
           }
         ],
-        "updatedAt": "2026-11-14T00:01:53.000Z",
-        "imageUrl": "https://images.metroimg.com/2024/01/26105344/provao-paulista3.jpg"
+        "updatedAt": "2026-11-14T03:00:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/al7xH-yQ64i5Dwl_KAaURYNhKSI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/7/r/O6RORESliQOUJeqO6Pyg/2025-11-05t190421z-1173693885-rc2hqhasyfwx-rtrmadp-3-supermoon-germany.jpg"
       },
       {
         "clusterId": "b0c008625077b88c",
@@ -1089,25 +1002,6 @@
     ],
     "saude": [
       {
-        "clusterId": "6ef14aed5c7b329d",
-        "slug": "f55848398b8e34a6",
-        "titulo": "Casos de mpox no Brasil ultrapassam 1.000 e 581 notificações são investigadas",
-        "resumo": "No Brasil, o número de casos de mpox superou 1.000, com 581 notificações ainda em investigação. O país negociou com o único laboratório de vacina e adquiriu 25 mil doses. Os estados do Rio de Janeiro e São Paulo registraram a maior quantidade de casos. Especialistas destacam a necessidade de monitoramento, mas pedem calma à população.",
-        "porQueImporta": "O aumento de casos exige atenção das autoridades de saúde e reforça a importância da vigilância epidemiológica.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/rio-de-janeiro-capacita-500-profissionais-para-atender-casos-de-mpox/"
-          },
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/infectologia/mpox-aumento-de-casos-exige-monitoramento/"
-          }
-        ],
-        "updatedAt": "2026-11-13T23:50:04.000Z"
-      },
-      {
         "clusterId": "688bf28a6a77516d",
         "slug": "323f1f25a864c369",
         "titulo": "Atividade física reduz ansiedade entre jovens da geração Z",
@@ -1138,11 +1032,26 @@
         "updatedAt": "2026-11-13T18:00:00.000Z"
       },
       {
+        "clusterId": "23eeda240b37c5b2",
+        "slug": "f55848398b8e34a6",
+        "titulo": "Aumento de casos de mpox gera alerta nas autoridades de saúde",
+        "resumo": "O número recente de casos de mpox tem crescido, levando as autoridades de saúde a intensificar o monitoramento da doença. Especialistas recomendam que a população mantenha a calma, mas fique atenta às orientações oficiais. A vigilância reforçada visa prevenir novas propagações e garantir respostas rápidas.",
+        "porQueImporta": "O monitoramento intensificado pode evitar que o mpox se espalhe mais amplamente e proteger a saúde pública.",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/infectologia/mpox-aumento-de-casos-exige-monitoramento/"
+          }
+        ],
+        "updatedAt": "2026-11-12T21:45:08.000Z"
+      },
+      {
         "clusterId": "686588640a65b341",
         "slug": "b5f6fca8a7dc8edf",
-        "titulo": "Pesquisa revela que 30% das mulheres desconhecem meios de prevenção ao câncer de mama",
-        "resumo": "Estudo do A.C.Camargo indica que três em cada dez mulheres não sabem como prevenir o câncer de mama. A pesquisa aponta falta de conhecimento sobre exames de rastreamento e autoexame. A falta de informação pode atrasar a detecção precoce da doença.",
-        "porQueImporta": "Informar a população sobre prevenção pode reduzir a mortalidade por câncer de mama.",
+        "titulo": "Pesquisa revela que 30% das mulheres desconhecem meios de prevenção do câncer de mama",
+        "resumo": "Um estudo do Instituto A.C. Camargo indica que 30% das mulheres não sabem como prevenir o câncer de mama. A pesquisa destaca a falta de conhecimento sobre exames de rastreamento e hábitos de saúde. A informação foi divulgada no episódio 273 do podcast DrauzioCast.",
+        "porQueImporta": "A falta de conhecimento pode atrasar o diagnóstico precoce e aumentar a mortalidade.",
         "category": "saude",
         "sources": [
           {
@@ -1155,9 +1064,9 @@
       {
         "clusterId": "c6312a861888586d",
         "slug": "708fe7e28804361a",
-        "titulo": "Tumores neuroendócrinos podem causar sinais discretos e exigem diagnóstico preciso",
-        "resumo": "Os tumores neuroendócrinos podem surgir em diversos órgãos e apresentar sintomas leves ou quase inexistentes. O diagnóstico preciso é fundamental para orientar o tratamento, que tem avançado nos últimos anos. A detecção precoce pode melhorar significativamente o prognóstico.",
-        "porQueImporta": "Diagnóstico precoce aumenta as chances de sucesso no tratamento desses tumores.",
+        "titulo": "Tumores neuroendócrinos podem provocar sinais discretos e exigem diagnóstico preciso",
+        "resumo": "Os tumores neuroendócrinos podem se desenvolver em diversos órgãos e apresentar sintomas leves ou inespecíficos. A identificação correta desses tumores é fundamental para iniciar tratamentos que têm evoluído nos últimos anos. O diagnóstico precoce aumenta as chances de sucesso terapêutico.",
+        "porQueImporta": "Detectar esses tumores cedo melhora o prognóstico e amplia as opções de tratamento.",
         "category": "saude",
         "sources": [
           {
@@ -1170,173 +1079,234 @@
     ],
     "esportes": [
       {
-        "clusterId": "3a3b2902543ea764",
-        "slug": "18b4f416f3fcf5b0",
-        "titulo": "Brasil enfrenta Peru e Japão em amistosos de 2026",
-        "resumo": "A Seleção Sub-20 do Brasil jogará contra o Peru no Estádio Mangueirão, em Belém, na sexta-feira, 13 de novembro, enquanto a equipe principal enfrentará o Japão em Singapura no sábado, 14 de novembro, às 7h15 (horário de Brasília). O jogo contra o Japão marca o penúltimo amistoso de 2026 para o Brasil. Paralelamente, a Argentina e o Uruguai marcaram um amistoso em 2026.",
-        "porQueImporta": "Esses encontros servem como preparação para competições internacionais e permitem avaliar o desempenho das seleções em diferentes contextos.",
+        "clusterId": "a27cc1eaa1241e6c",
+        "slug": "c86c59a57439c05a",
+        "titulo": "Partidas da 21ª e 35ª rodadas do Brasileirão",
+        "resumo": "Na Arena Condá, em Chapecó, Chapecoense enfrenta o Vasco na 21ª rodada, com a Chape já rebaixada e o Vasco buscando evitar a zona de rebaixamento. No estádio Maião, em Mirassol, Mirassol encara o Atlético‑Mineiro na 35ª rodada, onde o Leão tenta se afastar do Z4 e o Galo busca reagir antes da final da Sul‑América.",
+        "porQueImporta": "Essas partidas determinam posições críticas na tabela, afetando a permanência na Série A e estratégias para a temporada seguinte.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/chapecoense-x-vasco-horario-e-onde-assistir-ao-jogo-do-brasileirao/"
+          },
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/11/14/internet-e-redes-sociais/mirassol-x-atletico-mineiro-onde-assistir-horario-e-escalacoes-do-jogo-do-brasileirao/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/sc/futebol/brasileirao-serie-a/noticia/2026/11/14/chapecoense-x-vasco-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/esporte/mirassol-x-atletico-mg-onde-assistir-ao-vivo-horario-e-provaveis-escalacoes/"
+          }
+        ],
+        "updatedAt": "2026-11-14T09:00:48.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/S_SUrZGah5GQhlFJa3Edau3vx3s=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/T/j/3HrLQTSWA3tLUZRe17BQ/79684397-ed48-4b85-a10c-d440b74f67e1.jpg"
+      },
+      {
+        "clusterId": "284b49927554eea1",
+        "slug": "45121a3b85226686",
+        "titulo": "Brasil enfrenta Japão em amistoso em Singapura",
+        "resumo": "O jogo entre Brasil e Japão, marcado para 14 de novembro no Estádio Nacional de Singapura, faz parte da preparação da Seleção Brasileira para a Copa do Mundo de 2026. O técnico Ancelotti convocou o jovem volante André, do Corinthians, para sua primeira partida no time principal. O Brasil já foi eliminado do Mundial pela primeira vez em 2026, enquanto o Japão busca revanche.",
+        "porQueImporta": "A partida serve como teste importante para a equipe brasileira antes do Mundial e destaca a estreia de um jovem talento no elenco.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/pa/futebol/jogo/13-11-2026/brasil-peru.ghtml"
+            "url": "https://ge.globo.com/futebol/selecao-brasileira/jogo/14-11-2026/japao-brasil.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/quem-e-andre-volante-titular-da-selecao-brasileira-contra-o-japao/"
           },
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/na-asia-selecao-brasileira-enfrenta-o-japao-no-penultimo-amistoso-de-2026"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/brasil-x-peru-escalacoes-e-onde-assistir-ao-amistoso-da-selecao-sub-20/"
+            "url": "https://www.metropoles.com/esportes/brasil-japao-amistoso-2026"
           }
         ],
-        "updatedAt": "2026-11-14T00:31:50.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/11/12nov2026-treino-singapura-11-endrick-estevao.jpg"
+        "updatedAt": "2026-11-14T11:06:47.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/11/brasil-japao-2.jpg"
       },
       {
-        "clusterId": "b113db85f0f036ab",
-        "slug": "94ddba61f6fbb1d2",
-        "titulo": "Alan Ruschel anuncia aposentadoria após quase duas décadas de carreira",
-        "resumo": "O lateral-esquerdo Alan Ruschel, sobrevivente do acidente aéreo da Chapecoense em 2016, confirmou que fará sua despedida no sábado, em jogo contra o Botafogo-SP que pode decidir o acesso do Juventude. Aos 37 anos, ele encerrará sua carreira no estádio Alfredo Jaconi. A aposentadoria marca quase 10 anos desde o trágico acidente que o deixou com sequelas.",
-        "porQueImporta": "A saída de Ruschel encerra um capítulo importante da história do futebol brasileiro e simboliza a superação de um dos maiores desastres esportivos do país.",
+        "clusterId": "a047d551cd3f4225",
+        "slug": "d5ed4188cdb0fe0a",
+        "titulo": "Stefani e Dabrowski avançam à semifinal do WTA Finals",
+        "resumo": "A dupla formada por Luisa Stefani e Gabriela Dabrowski venceu a partida contra Su-Wei Hsieh e Jelena Ostapenko por 2 sets a 1, com parciais de 2/6, 7/6(2) e 10/3. O resultado garantiu a primeira posição na chave de grupos, com três vitórias em três jogos. A equipe manteve uma campanha invicta na fase de grupos do torneio.",
+        "porQueImporta": "A conquista assegura a participação na fase de eliminação única do WTA Finals, um dos eventos mais importantes do circuito feminino.",
         "category": "esportes",
         "sources": [
           {
             "name": "Metrópoles",
-            "url": "https://www.metropoles.com/esportes/alan-ruschel-sobrevivente-da-tragedia-da-chapecoense-anuncia-despedida"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/rs/futebol/times/juventude/noticia/2026/11/13/alan-ruschel-anuncia-aposentadoria-em-jogo-que-pode-dar-acesso-ao-juventude.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-13T23:46:50.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/11/juventude-alan-ruschel.jpg"
-      },
-      {
-        "clusterId": "c8d5a444d60d2e97",
-        "slug": "75d014364dd21ec6",
-        "titulo": "Alemanha vence Sérvia e permanece na disputa para avançar na Nations",
-        "resumo": "A seleção alemã venceu a Sérvia por 2 a 1, garantindo oito pontos e ocupando a terceira posição do grupo. O resultado mantém a equipe na corrida por uma vaga nas quartas de final, junto à Grécia, que também tem oito pontos. A vitória foi marcada por um gol decisivo de Gruda. A partida foi disputada em ambiente de pressão, mas a Alemanha manteve a calma e controlou o jogo.",
-        "porQueImporta": "A vitória assegura à Alemanha a possibilidade de avançar para as quartas de final da Nations League.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/liga-das-nacoes/jogo/13-11-2026/servia-alemanha.ghtml"
+            "url": "https://www.metropoles.com/esportes/luisa-stefani-e-dabrowski-avancam-a-semifinal-no-wta-finals"
           },
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/alemanha-vence-a-servia-e-embola-disputa-por-vaga-nas-quartas-da-nations/"
+            "url": "https://www.cnnbrasil.com.br/esportes/tenis/luisa-stefani-e-dabrowski-vencem-mais-uma-e-avancam-a-semi-do-wta-finals/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/tenis/noticia/2026/11/13/luisa-stefani-e-dabrowski-avancam-invictas-a-semifinal-no-wta-finals.ghtml"
           }
         ],
-        "updatedAt": "2026-11-13T22:17:49.000Z"
+        "updatedAt": "2026-11-14T09:37:11.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/11/dupla.jpg"
       },
       {
-        "clusterId": "d9f3af6fc961201c",
-        "slug": "fef5a770d8bfa242",
-        "titulo": "Holanda goleia Grécia por 7 a 0 na Nations League",
-        "resumo": "A seleção holandesa venceu a Grécia por 7 a 0 na Johan Cruyff Arena, em Amsterdã. Tijjani Reijnders marcou três gols, sendo o primeiro hat-trick da Holanda no primeiro tempo desde 1992. Jurrien Timber contribuiu com dois gols, enquanto Crysencio Summerville e outros jogadores marcaram o restante. A vitória mantém a Holanda na liderança do grupo e a aproxima da classificação para as quartas de final.",
-        "porQueImporta": "A goleada reforça a posição de liderança da Holanda na competição e destaca a performance de Reijnders, importante para a campanha da equipe.",
+        "clusterId": "c7b99e1f35c0f879",
+        "slug": "1a50bcd6e4c54482",
+        "titulo": "Kanu defende seu valor diante de críticas enquanto entra no último ano de contrato com o Bahia",
+        "resumo": "O zagueiro Kanu, que passou grande parte da temporada entre reservas, agora atua como titular e enfrenta críticas da torcida por sua fase defensiva. Ele afirmou que tem valor e que o projeto do Grupo City no clube, iniciado em 2023, está em andamento. A entrevista coletiva na Cidade Tricolor abordou a situação e a expectativa de desempenho na temporada 2026.",
+        "porQueImporta": "A postura de Kanu pode influenciar a percepção da torcida e a estabilidade do elenco no último ano de seu contrato.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/ba/futebol/times/bahia/noticia/2026/11/14/perto-de-entrar-no-ultimo-ano-de-contrato-com-o-bahia-kanu-rebate-criticas-tenho-meu-valor.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-14T10:04:03.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/ZbI9IyJAN2pxpHJQXdtlVD3XLZA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/N/E/3mFOVBRuADHQzFEUUmNA/55610121678-27e83fd9da-k.jpg"
+      },
+      {
+        "clusterId": "9bc96ebad2918d86",
+        "slug": "a5f5b293c1e1ee5b",
+        "titulo": "Portugal enfrenta Dinamarca na Liga das Nações",
+        "resumo": "O jogo entre Portugal e Dinamarca será disputado no Estádio Municipal de Braga, em Portugal, na quinta rodada do Grupo A4 da Nations League. A partida está marcada para as 16h45, horário de Brasília, e será transmitida pelo Sportv e pelo GE. Portugal entra em campo com 100% de aproveitamento e já garantiu classificação para as quartas de final. O confronto será o primeiro da seleção sem Cristiano Ronaldo, que anunciou sua aposentadoria no início do mês.",
+        "porQueImporta": "É o primeiro jogo oficial de Portugal sem Cristiano Ronaldo, marcando uma nova fase na equipe.",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/holanda-atropela-a-grecia-e-aplica-goleada-historica-na-nations-league/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/portugal-x-dinamarca-horario-e-onde-assistir-ao-jogo-da-nations-league-2/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/liga-das-nacoes/noticia/2026/11/13/holanda-goleia-a-grecia-e-se-aproxima-de-classificacao-na-liga-das-nacoes.ghtml"
+            "url": "https://ge.globo.com/futebol/futebol-internacional/liga-das-nacoes/noticia/2026/11/13/portugal-x-dinamarca-na-liga-das-nacoes-onde-assistir-ao-vivo-e-horario.ghtml"
           }
         ],
-        "updatedAt": "2026-11-13T21:53:39.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/DwSSG5sxcKLHdP6H5R2Q5MkMZt8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/L/z/yh60q7TJyYTUifxUlKOQ/2026-11-13t210558z-1403046375-up1embd1mlxp2-rtrmadp-3-soccer-uefanations-nld-grc.jpg"
+        "updatedAt": "2026-11-14T08:30:42.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/MXpZjYS8q98wL2a1L9iRR2kX0cE=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/A/G/FmeVa8QDmpAbKbBAMdlw/ce9f0c99b924d060dbd9396875fe21fadd79b493w.jpg"
       },
       {
-        "clusterId": "3f4168bde12ec7e6",
-        "slug": "d22582d4a615c2fc",
-        "titulo": "Mackenzie vence Praia Clube de virada na Superliga Feminina",
-        "resumo": "O Mackenzie venceu o Praia Clube por 3 sets a 1 na 5ª rodada da Superliga Feminina, após ficar atrás no primeiro set. O jogo foi disputado no ginásio do UTC, em Uberlândia. A central Lia Rosa foi eleita a melhor do jogo e a central Adenízia marcou 18 pontos, a maior pontuação do confronto.",
-        "porQueImporta": "O resultado reforça a competitividade da Superliga Feminina e destaca o desempenho de jogadores-chave do Mackenzie.",
+        "clusterId": "edb8b0068119d6df",
+        "slug": "5d97834f2acbfc2f",
+        "titulo": "Juventude enfrenta Botafogo-SP na última rodada da Série B",
+        "resumo": "O duelo entre Juventude e Botafogo-SP acontece neste sábado, às 16h30, no Estádio Alfredo Jaconi, em Caxias do Sul, e marca a 38ª rodada da Série B. O resultado determinará se o Juventude confirma o acesso direto à Série A ou se dependerá de empate do Vila Nova para evitar os playoffs. O Botafogo-SP contará com o patrocínio pontual da Centauro na partida.",
+        "porQueImporta": "O jogo decide o acesso direto do Juventude à elite do futebol brasileiro.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/mg/triangulo-mineiro/volei/ao-vivo/superliga-feminina-praia-clube-x-mackenzie.ghtml"
+            "url": "https://ge.globo.com/rs/futebol/brasileirao-serie-b/noticia/2026/11/14/juventude-x-botafogo-sp-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/juventude-x-botafogo-sp-horario-e-onde-assistir-ao-jogo-da-serie-b/"
           }
         ],
-        "updatedAt": "2026-11-14T00:24:17.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/3FTzriv9u4FfvvI2qluoqcYAcE0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/k/2/j87kJ9Tkym7obiQIAUiQ/55651813040-374003f7ab-k.jpg"
+        "updatedAt": "2026-11-14T08:00:00.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/BFh9WclUykSqLmIoLyXYeMo8Yr4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/b/T/IHmAxbRkA89ben3gTTEA/whatsapp-image-2026-09-30-at-13.41.00.jpeg"
       },
       {
-        "clusterId": "1b8cc7b07f31d9c9",
-        "slug": "c1f3ff54a7ec3d8c",
-        "titulo": "Paratleta amazonense conquista tetracampeonato brasileiro de dardo F12",
-        "resumo": "Brendow Christian Moura, atleta de 31 anos, venceu o Campeonato Brasileiro Loterias Caixa de Atletismo em São Paulo com 44,88 metros, garantindo a medalha de ouro na classe F12. O resultado lhe assegura o tetracampeonato nacional na modalidade de lançamento de dardo. Após a vitória, ele comemorou balançando os braços, em homenagem à celebração de Bebeto na Copa do Mundo de 1994.",
-        "porQueImporta": "O título reforça a presença de atletas paratletas no cenário esportivo nacional e destaca a evolução do atletismo inclusivo no Brasil.",
+        "clusterId": "3906575dd488f298",
+        "slug": "55ce22d58286be26",
+        "titulo": "Criciúma enfrenta Novorizontino na última rodada da Série B",
+        "resumo": "O jogo entre Criciúma e Novorizontino será realizado no sábado, às 16h30 (horário de Brasília), no Estádio Heriberto Hülse, em Criciúma. A partida faz parte da última rodada da Série B do Campeonato Brasileiro. O Criciúma já sabe que enfrentará o Fortaleza nos playoffs após a derrota para o Vila Nova.",
+        "porQueImporta": "O resultado determinará a posição final de cada equipe na tabela da Série B.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/am/noticia/2026/11/13/a-la-bebeto-amazonense-e-tetra-no-brasileiro-de-lancamento-de-dardo-e-faz-comemoracao-iconica.ghtml"
+            "url": "https://ge.globo.com/sc/futebol/brasileirao-serie-b/noticia/2026/11/14/criciuma-x-novorizontino-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/criciuma-x-novorizontino-horario-e-onde-assistir-ao-jogo-da-serie-b-2/"
           }
         ],
-        "updatedAt": "2026-11-14T00:14:59.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/zLVEuazBCZyJFtJxNdYi2VW-lZI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/G/q/d2kDMAQdCA4GYeihdWcg/a-la-bebeto-ezremove.png"
+        "updatedAt": "2026-11-14T07:00:00.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/jW2JJUnAKvc_WNBgDBNYvbp68OU=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Q/a/lauJQmTjeHToBws12qFg/heriberto-hulse-criciuma-x-fortaleza.jpeg"
       },
       {
-        "clusterId": "2500e04be51f7615",
-        "slug": "2e49a899eea1e438",
-        "titulo": "Rio Branco-AC anuncia Nei Silva como técnico para 2027",
-        "resumo": "O presidente Gerson Boaventura confirmou a contratação de Nei Silva, ex-lateral-direito do Cuiabá, como técnico do Rio Branco-AC para a temporada de 2027. A decisão foi anunciada em evento no CT José de Melo, com presença de ex-jogadores, diretoria e imprensa. Nei Silva já atuou na base do Cuiabá e como auxiliar técnico em clubes como Boston City Brasil, Dom Bosco-MT e Santa Helena-GO.",
-        "porQueImporta": "A contratação de um técnico com experiência em clubes de alto nível pode influenciar o desempenho futuro do Rio Branco-AC.",
+        "clusterId": "e0fa11ccdf9cb634",
+        "slug": "14a13ec73b68e37e",
+        "titulo": "Sport enfrenta Goiás na última rodada da Série B",
+        "resumo": "O jogo entre Sport e Goiás será realizado neste sábado, 14, às 16h30, na Ilha do Retiro, em Recife, e marca a 38ª e última rodada da Série B do Campeonato Brasileiro. O Sport, que já está eliminado, cumpre apenas a tabela, enquanto o Goiás busca a vitória para garantir vaga nos playoffs. O clube goiano pagou parte dos salários atrasados antes da partida, com dois meses ainda em débito. O técnico Mozart terá duas opções de escalação para o confronto.",
+        "porQueImporta": "A partida decide a classificação final do Goiás na Série B e sua possibilidade de avançar aos playoffs.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/ac/futebol/times/rio-branco-ac/noticia/2026/11/13/rio-branco-ac-anuncia-ex-lateral-campeao-da-libertadores-como-novo-tecnico-para-2027.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-14T00:05:02.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/re1YKTRAGDiE4bRVOKebQqBqG8s=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/l/D/W5DelOShKA7fqW9SmyEA/whatsapp-image-2026-11-13-at-18.24.25.jpeg"
-      },
-      {
-        "clusterId": "d13839d3c15dd9bf",
-        "slug": "57575c04953358b4",
-        "titulo": "Regional Alto e Baixo Acre do Campeonato Acreano de Vôlei Masculino",
-        "resumo": "Quatro equipes – AVQ, Seleção de Brasileia, Voleibol Plácido de Castro e Epitaciolândia – disputarão a Regional Baixo/Alto Acre neste sábado, 14, a partir das 9h, no Ginásio Poliesportivo José Edson Honorato, em Senador Guiomard. O torneio, em formato de turno e retorno, definirá os dois últimos classificados para a fase final do Campeonato Acreano, que vale vagas na fase final do Estadual.",
-        "porQueImporta": "Determina quais equipes do Acre avançarão para a fase final estadual.",
-        "category": "esportes",
-        "sources": [
+            "url": "https://ge.globo.com/pe/futebol/brasileirao-serie-b/noticia/2026/11/14/sport-x-goias-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+          },
           {
-            "name": "GE",
-            "url": "https://ge.globo.com/ac/noticia/2026/11/13/com-quatro-times-regional-alto-e-baixo-acre-do-acreano-de-volei-e-neste-sabado-no-interior.ghtml"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/sport-x-goias-horario-e-onde-assistir-ao-jogo-da-serie-b-2/"
           }
         ],
-        "updatedAt": "2026-11-13T23:48:00.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/t9zroSKU4ieqvNgqubT13tRhGe4=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2024/3/N/uHZcwVTe22IBVHdEA97Q/img-20241016-wa0010-1-.jpg"
+        "updatedAt": "2026-11-14T07:00:00.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/s6wHojPlh4apxmWhNxHPFZigZ-s=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/u/t/6tgwoTSIaJ3BfbApVggQ/55520595961-624055c475-k.jpg"
       }
     ],
     "entretenimento": [
       {
-        "clusterId": "abf4b1c17b4daf57",
-        "slug": "f901aadec6895ccf",
-        "titulo": "Gérard Depardieu desiste de recorrer de condenação por agressão sexual",
-        "resumo": "O ator francês Gérard Depardieu desistiu de recorrer de sua condenação por agressão sexual contra duas mulheres durante gravações em 2021. A decisão foi tomada após a divulgação de um vídeo em que Depardieu aparece tocando sexualmente uma figurante de 22 anos durante as filmagens de 'Turf', em 2013. O vídeo foi publicado em 12 de maio e gerou repercussão nas redes sociais.",
-        "porQueImporta": "A decisão confirma a responsabilização de um artista de renome por condutas abusivas no ambiente de trabalho.",
+        "clusterId": "b1ada76f77b1e094",
+        "slug": "5697160a3d9b7ab6",
+        "titulo": "Paula Lavigne relata dificuldades de retorno dos EUA após Grammy Latino e Anitta vence seu primeiro Grammy Latino",
+        "resumo": "Paula Lavigne, empresária que acompanhou seu filho no Grammy Latino, contou ter enfrentado problemas semelhantes aos de 11 de setembro ao tentar voltar aos Estados Unidos. Na mesma noite, Anitta conquistou seu primeiro Grammy Latino ao vencer a categoria Melhor Álbum de Pop Contemporâneo em Língua Portuguesa com \"EQUILIBRIVM\", enquanto a cantora catalã Rosalía recebeu dois prêmios principais. A cerimônia, realizada em Las Vegas, destacou a participação de artistas de diversas origens e a importância da música latina no cenário internacional.",
+        "porQueImporta": "O evento demonstra a crescente influência da música latina e os desafios logísticos enfrentados por artistas internacionais.",
         "category": "entretenimento",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/cultura/gerard-depardieu-desiste-de-recurso-na-justica-apos-divulgacao-de-video-de-assedio/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/celebridades/paula-lavigne-mostra-perrengue-para-voltar-dos-eua-pos-grammy-latino/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/11/13/gerard-depardieu-desiste-de-recorrer-de-sua-condenacao-por-agressoes-sexuais-apos-divulgacao-de-video-que-flagra-assedio-em-figurante-de-filme.ghtml"
+            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/11/13/por-que-europeus-como-rosalia-podem-concorrer-ao-grammy-latino.ghtml"
           }
         ],
-        "updatedAt": "2026-11-13T22:58:49.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2023/12/depardieu.jpg"
+        "updatedAt": "2026-11-14T01:22:05.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/xUnIsrdMA_JjdDRI1k-jD24jIGg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/5/K0BvjBT0qAZCUfojGPsg/afp-20261113-d7cg6zx-v1-midres-27thannuallatingrammyawardsshow.jpg"
+      },
+      {
+        "clusterId": "e2b145d24632a6f0",
+        "slug": "48c31071c0946c49",
+        "titulo": "Claudette Soares morre aos 91 anos, um dia antes do lançamento de seu álbum de inéditas",
+        "resumo": "A cantora Claudette Soares faleceu aos 91 anos, na madrugada de 13 de novembro, enquanto aguardava a estreia de seu álbum ‘O mundo é ruim para quem não sabe esperar’. O disco reúne músicas inéditas que refletem a trajetória musical de Soares, que transita do baião ao jazz. Seu legado inclui influenciar artistas como Ana Costa e Zélia Duncan, que colaboraram em faixas do álbum. A morte de Soares marca o fim de uma carreira que deixou marca na música brasileira.",
+        "porQueImporta": "A perda de Claudette Soares representa o fim de uma voz icônica que contribuiu significativamente para a música popular brasileira.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/14/l7nnon-alinha-samples-de-gravacoes-de-cassiano-claudette-soares-e-tony-tornado-no-album-de-volta-ao-podium.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-14T03:02:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/RDvDaidBJQWySd59E7TiO_66c84=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/M/dTOO9ASCmfeEvDgJt9vQ/l7nnon.jpg"
+      },
+      {
+        "clusterId": "4ef90e712671af37",
+        "slug": "70cded7c4ca1dfd9",
+        "titulo": "Christian Cousins, ex-ator mirim, morre aos 43 anos",
+        "resumo": "Christian Cousins, conhecido por atuar em \"Um Tira no Jardim de Infância\" ao lado de seu irmão gêmeo Joey, faleceu em 20 de outubro de 2024. A morte foi atribuída a uma doença hepática, conforme comunicado de seu irmão Jonas Roeser no Instagram. Cousins e Joey eram irmãos de pai biológico e se conheceram apenas na faculdade.",
+        "porQueImporta": "A perda de Cousins marca o fim de uma carreira que começou na infância e destaca a raridade de irmãos gêmeos atuarem juntos em produções cinematográficas.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/11/13/christian-cousins-ex-ator-mirim-de-um-tira-no-jardim-de-infancia-morre-aos-43-anos.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-13T22:07:03.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/t0MmIt7GaURx1uekz1qElcJl2iQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/A/eU0UTpSVelW36j46Yw0g/fotos-g1-1920-x-1080-px-2026-11-13t185945.829.png"
       },
       {
         "clusterId": "7d7e3a63f1a5c07d",
@@ -1387,36 +1357,20 @@
         "imageUrl": "https://s2-g1.glbimg.com/NbnbHTuHhefbP5Pjdy_p02cd2bo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/9/ohooYFRq6QCtfQknqZIQ/b-ca-hayleywilliams-lali-moss-4890.jpg"
       },
       {
-        "clusterId": "63feeec37bb2782d",
-        "slug": "48c31071c0946c49",
-        "titulo": "Claudette Soares morre aos 91 anos, um dia antes do lançamento de seu álbum de inéditas",
-        "resumo": "A cantora Claudette Soares faleceu aos 91 anos, na madrugada de 13 de novembro, enquanto aguardava a estreia de seu álbum ‘O mundo é ruim para quem não sabe esperar’. O disco reúne músicas inéditas que refletem a trajetória musical de Soares, que transita do baião ao jazz. Seu legado inclui influenciar artistas como Ana Costa e Zélia Duncan, que colaboraram em faixas do álbum. A morte de Soares marca o fim de uma carreira que deixou marca na música brasileira.",
-        "porQueImporta": "A perda de Claudette Soares representa o fim de uma voz icônica que contribuiu significativamente para a música popular brasileira.",
+        "clusterId": "62dcd9381d1416c7",
+        "slug": "f901aadec6895ccf",
+        "titulo": "Gérard Depardieu desiste de recorrer de condenação por agressão sexual",
+        "resumo": "O ator francês Gérard Depardieu desistiu de recorrer de sua condenação por agressão sexual contra duas mulheres durante gravações em 2021. A decisão foi tomada após a divulgação de um vídeo em que Depardieu aparece tocando sexualmente uma figurante de 22 anos durante as filmagens de 'Turf', em 2013. O vídeo foi publicado em 12 de maio e gerou repercussão nas redes sociais.",
+        "porQueImporta": "A decisão confirma a responsabilização de um artista de renome por condutas abusivas no ambiente de trabalho.",
         "category": "entretenimento",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/13/morre-a-cantora-claudette-soares-aos-91-anos-em-meio-ao-lancamento-do-album-o-mundo-e-ruim-para-quem-nao-sabe-esperar.ghtml"
+            "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/11/13/gerard-depardieu-desiste-de-recorrer-de-sua-condenacao-por-agressoes-sexuais-apos-divulgacao-de-video-que-flagra-assedio-em-figurante-de-filme.ghtml"
           }
         ],
-        "updatedAt": "2026-11-13T14:20:06.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/UNEob5Lxhd1Q_6hmb27FucFZ9-E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/w/YlBsByQBuDNmoR4wsgPw/claudettefabioaudi.jpg"
-      },
-      {
-        "clusterId": "ee6a93246c4cc563",
-        "slug": "f94ce3cafdbd1d00",
-        "titulo": "Grammy Latino 2026 reúne vencedores internacionais e brasileiros",
-        "resumo": "Na cerimônia de Las Vegas, a cantora colombiana Aria Vega foi premiada como Artista Revelação, enquanto a brasileira Anitta conquistou seu primeiro Grammy Latino ao vencer a categoria Melhor Álbum de Pop Contemporâneo em Língua Portuguesa com \"Equilibrivm\". A espanhola Rosalía recebeu dois prêmios principais, incluindo Melhor Álbum, e a brasileira Urias ganhou na categoria Melhor Álbum de Rock ou Música Alternativa em Língua Portuguesa com \"Carranca\".",
-        "porQueImporta": "O evento destaca a diversidade cultural e o reconhecimento internacional de artistas latino-americanos e europeus no cenário musical.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/11/13/por-que-europeus-como-rosalia-podem-concorrer-ao-grammy-latino.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-13T11:29:02.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/xUnIsrdMA_JjdDRI1k-jD24jIGg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/5/K0BvjBT0qAZCUfojGPsg/afp-20261113-d7cg6zx-v1-midres-27thannuallatingrammyawardsshow.jpg"
+        "updatedAt": "2026-11-13T12:28:14.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/3s2T6gGSni6I6-Lb6c3M3aP7HAM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/R/QaMmTaTqq0Sf1i8U3ZAQ/design-sem-nome-5-.png"
       },
       {
         "clusterId": "17facaf933a9bb1b",
@@ -1433,22 +1387,6 @@
         ],
         "updatedAt": "2026-11-13T07:31:15.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/1corhIjSNfbLf223aRxU6bOuvt4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/5/NvDPLgTgCm3U2s4tZsgQ/venturini1.jpg"
-      },
-      {
-        "clusterId": "768353b5d63500f1",
-        "slug": "200414f58bfc10c3",
-        "titulo": "Sabotage revive participação em show do DMN em 2002 com gravação ao vivo",
-        "resumo": "Em 2002, o rapper Sabotage participou de um show do grupo DMN na Toco Dance House, em São Paulo. A gravação ao vivo, feita por Gustavo Amaral, apresenta áudio de boa qualidade técnica. O evento ocorreu antes da morte de Sabotage em 2003 e antes de sua consolidação como lenda do hip‑hop. A gravação foi publicada como o primeiro registro ao vivo de sua performance.",
-        "porQueImporta": "Preserva a memória de um artista influente no cenário do hip‑hop brasileiro.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/13/sabotage-e-revivido-em-ep-ao-vivo-que-recupera-a-participacao-do-artista-em-show-do-grupo-de-rap-dmn-em-2002.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-13T07:14:04.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/KALNm5DMYIRbhD02FIC4Hm1aoJ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/D/uug2XjRXSPwoYAFP5rgQ/sabotageaovivoepcapafoto.jpg"
       }
     ]
   }
