@@ -1,54 +1,130 @@
 {
   "date": "2026-11-18",
-  "generatedAt": "2026-11-18T16:58:48.990Z",
+  "generatedAt": "2026-11-19T01:44:48.802Z",
   "home": [
     {
-      "clusterId": "9ff046e586af03e0",
-      "slug": "a9e6b53aba5b2d47",
-      "titulo": "Reunião trilateral entre Trump, Xi e Putin na China",
-      "resumo": "Os presidentes dos Estados Unidos, da China e da Rússia se reunirão em Shenzhen, durante a cúpula da APEC, para discutir temas como armas nucleares, sanções e a guerra na Ucrânia. A reunião, inédita entre os três chefes de Estado, será precedida por encontros bilaterais entre cada par de líderes. A China e os EUA pressionarão a Rússia a encerrar o conflito ucraniano, enquanto a Rússia buscará fortalecer sua posição global.",
-      "porQueImporta": "O encontro pode redefinir alianças e influenciar a dinâmica geopolítica mundial.",
-      "category": "mundo",
+      "clusterId": "9fba4ebabdbdb48c",
+      "slug": "ae3b15064462b4ad",
+      "titulo": "Câmara dos Deputados vai votar ajuste fiscal aprovado pelo Senado",
+      "resumo": "O Senado aprovou o projeto de ajuste fiscal, que prevê economia de até R$ 50 bilhões em 2027, e encaminhou o texto para a Câmara. O presidente da Câmara, Hugo Motta, convocou sessão extraordinária na segunda-feira para votar o pacote. O governo pretende preservar o texto aprovado, enquanto parlamentares de oposição discutem alterações. A votação na Câmara é vista como etapa decisiva para o equilíbrio fiscal do país.",
+      "porQueImporta": "A aprovação do ajuste fiscal na Câmara determinará se o governo pode implementar medidas de contenção de gastos e aumento de arrecadação, impactando a estabilidade econômica e a dívida pública.",
+      "category": "politica",
       "sources": [
         {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/c5vg2mrwyjr2o?at_medium=RSS&at_campaign=rss"
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/politica/motta-vai-convocar-sessao-na-segunda-feira-votar-o-ajuste-fiscal-na-camara/"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-congresso/camara-inicia-votacao-de-ajuste-fiscal-na-2a-feira/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/economia/hugo-motta-anuncia-votacao-do-projeto-de-ajuste-fiscal-do-governo-lula-na-camara/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/mundo/noticia/2026/11/18/trump-tera-reuniao-a-sos-com-putin-na-china.ghtml"
+          "url": "https://g1.globo.com/politica/noticia/2026/11/18/motta-convoca-sessao-para-votar-ajuste-fiscal-na-segunda-feira.ghtml"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/saiba-como-fica-ajuste-fiscal-com-mudanca-no-senado-impacto-cai-a-r-50-bi/"
         },
         {
           "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/business/global/trump-xi-e-putin-apertam-as-maos-durante-encontro-de-lideres-na-china/"
+          "url": "https://www.infomoney.com.br/politica/o-que-e-a-lei-kandir-que-motivou-acordo-no-senado-e-quase-travou-ajuste-fiscal/"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/economia/ajuste-fiscal-entenda-ponto-a-ponto-o-texto-do-pacote-apos-senado-rejeitar-destaques/"
+        }
+      ],
+      "updatedAt": "2026-11-19T00:42:26.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/img20260507154359065.jpg"
+    },
+    {
+      "clusterId": "b52e7f5090918788",
+      "slug": "88f2778f63177e7f",
+      "titulo": "Daniel Vorcaro permanece preso enquanto PGR aguarda denúncia",
+      "resumo": "O banqueiro Daniel Vorcaro continua detido no 19º Batalhão da Polícia Militar, enquanto a Procuradoria-Geral da República ainda não apresentou denúncia formal. Advogados de Vorcaro contestam a atribuição da PGR e questionam a competência do STF para julgar os investigados da Operação Compliance Zero. O caso envolve também políticos e ministros, gerando tensão no Supremo Tribunal Federal.",
+      "porQueImporta": "A situação reflete a tensão entre poderes e a aplicação de procedimentos legais em casos de corrupção.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/justica/andrei-rodrigues-entrega-a-fachin-relatorios-da-pf-sobre-sobre-ministros-e-vorcaro/"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/colunas/manoela-alcantara/master-fachin-mantem-sigilo-de-relatorios-sobre-ministros-e-os-envia-a-pgr"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/18/fachin-relatorios-da-pf-sobre-ministros-citados-em-mensagens-de-vorcaro-pgr.ghtml"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-justica/andrei-entrega-a-fachin-relatorios-sobre-ministros-do-stf-e-master/"
         },
         {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/internacional/trump-tera-reuniao-a-sos-com-putin-durante-cupula-na-china/"
+          "url": "https://www.cnnbrasil.com.br/politica/andrei-entrega-a-fachin-relatorio-produzido-pela-pf-sobre-ministros-do-stf/"
         },
         {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/cartaexpressa/xi-diz-a-trump-que-deseja-relacao-construtiva-e-estavel-com-eua/"
+          "name": "Exame",
+          "url": "https://exame.com/brasil/pf-entrega-ao-stf-relatorios-sobre-mencoes-a-ministros-encontradas-em-investigacao-do-banco-master/"
         }
       ],
-      "updatedAt": "2026-11-18T16:46:01.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b42/live/86178780-e36f-11f1-9f51-4bfc31543510.jpg"
+      "updatedAt": "2026-11-19T00:06:57.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2024/03/Andrei-Rodrigues-00001.jpg"
     },
     {
-      "clusterId": "ad3f8586dc5f96c0",
-      "slug": "8e2fddc32ab0499f",
+      "clusterId": "da35571b8767f7e7",
+      "slug": "124441938f653d31",
+      "titulo": "Banco do Brasil confirma vazamento de dados pessoais de clientes",
+      "resumo": "Em 12 de novembro, o Banco do Brasil identificou acesso não autorizado a dados cadastrais de clientes, incluindo nome, CPF, e-mail, número da agência e, em alguns casos, número da conta. O banco afirma que senhas e códigos de segurança não foram comprometidos e que não houve invasão de seus sistemas. A instituição iniciou protocolos de segurança e está investigando o incidente. Clientes foram alertados para monitorar possíveis tentativas de golpe.",
+      "porQueImporta": "O vazamento expõe informações que podem ser usadas por criminosos para fraudes, exigindo atenção dos correntistas.",
+      "category": "economia",
+      "sources": [
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/banco-do-brasil-comunica-clientes-sobre-vazamento-de-dados/"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/economia/acesso-indevido-expoe-dados-de-clientes-do-banco-do-brasil/"
+        },
+        {
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/11/18/seguranca/banco-do-brasil-alerta-sobre-vazamento-de-dados-saiba-o-que-foi-exposto/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/tecnologia/noticia/2026/11/18/banco-do-brasil-dados.ghtml"
+        },
+        {
+          "name": "Exame",
+          "url": "https://exame.com/invest/mercados/banco-do-brasil-identifica-vazamento-de-dados-de-clientes-veja-como-nao-cair-em-golpes/"
+        }
+      ],
+      "updatedAt": "2026-11-18T23:47:23.000Z",
+      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/banco-do-brasil_mcamgo_abr_280620211818-9.jpg"
+    },
+    {
+      "clusterId": "4c286f5644d69bbd",
+      "slug": "75c1c37eb68a9efc",
       "titulo": "Robert Pattinson confirmado como novo James Bond",
-      "resumo": "A Amazon MGM Studios anunciou que Robert Pattinson será o próximo ator a interpretar James Bond, sucedendo Daniel Craig. O ator britânico, de 40 anos, já atuou em projetos de cinema autoral e comerciais, incluindo 'Crepúsculo' e 'Batman'. Jeff Bezos, presidente da Amazon, afirmou ter participado dos testes de elenco, que envolveram cinco atores em cenas com figurino completo. A escolha de Pattinson pode afetar seus futuros projetos na DC, pois ele assinou contrato para três filmes de Bond.",
-      "porQueImporta": "A seleção de Pattinson marca a continuidade da franquia 007 e pode influenciar a carreira de atores em grandes estúdios.",
+      "resumo": "O ator britânico Robert Pattinson foi anunciado como o sétimo intérprete de James Bond, sucedendo Daniel Craig. A escolha foi resultado de um processo rigoroso conduzido pela Amazon MGM Studios, com testes de elenco envolvendo cinco atores. Jeff Bezos, presidente da Amazon, afirmou ter participado ativamente da seleção. A decisão foi divulgada em 16 de maio de 2024.",
+      "porQueImporta": "A nomeação marca a continuação da franquia de espionagem mais icônica do cinema, influenciando a indústria e o mercado de entretenimento.",
       "category": "entretenimento",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/cultura/o-ator-que-teria-desistido-do-papel-de-james-bond-abrindo-caminho-para-robert-pattinson/"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/pop/cinema/pierce-brosnan-recepciona-robert-pattinson-como-bond-carreira-notavel/"
         },
         {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/pop/cinema/jeff-bezos-da-amazon-diz-que-ajudou-a-escolher-pattinson-como-james-bond/"
+          "name": "Canaltech",
+          "url": "https://canaltech.com.br/entretenimento/jeff-bezos-revela-bastidores-de-como-robert-pattinson-virou-o-novo-james-bond/"
         },
         {
           "name": "G1",
@@ -57,344 +133,212 @@
         {
           "name": "BBC Brasil",
           "url": "https://www.bbc.com/portuguese/articles/cwm2mlmrn93lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "Canaltech",
-          "url": "https://canaltech.com.br/entretenimento/escolha-de-robert-pattinson-como-007-ameaca-trilogia-de-batman-na-dc/"
         }
       ],
-      "updatedAt": "2026-11-18T15:33:12.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/Design-sem-nome-17.jpg"
+      "updatedAt": "2026-11-19T00:57:32.000Z",
+      "imageUrl": "https://tl.ctcdn.com.br/ZyMryWA-rg8k141GIpluz80sGvw=/0x0/filters:format(webp):quality(85)/68e63756-eed7-40fe-946d-c8cb31c5fe26.png"
     },
     {
-      "clusterId": "5b2e4a6c15b0125b",
-      "slug": "5573586f22396007",
-      "titulo": "PF bloqueia R$2,3 bi de apostas ilegais e Gabi Morais é presa, enquanto Enem 2026 divulga gabarito oficial",
-      "resumo": "A Polícia Federal bloqueou R$2,3 bilhões pertencentes a um grupo de apostas ilegais, com foco no dono da Esportes da Sorte, Darwin Henrique da Silva Filho. A ex-jogadora da seleção brasileira, Gabi Morais, foi presa em operação contra o CV em Fortaleza. O Inep divulgou o gabarito oficial do Enem 2026, retirando uma questão de matemática que apresentava dados incompatíveis.",
-      "porQueImporta": "Esses eventos refletem ações de combate à fraude e à corrupção, além de impactar a vida acadêmica de milhares de estudantes.",
-      "category": "geral",
+      "clusterId": "d31de9a94ccf285e",
+      "slug": "4ec875d35ffead09",
+      "titulo": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
+      "resumo": "A Procuradoria-Geral da República apresentou denúncia contra o senador Flávio Bolsonaro por calúnia, alegando que ele teria atribuído falsamente crimes de tráfico de drogas e lavagem de dinheiro ao presidente Luiz Inácio Lula da Silva em uma postagem no X em 3 de janeiro de 2026. A acusação se baseia em uma montagem que comparava imagens de Lula com o presidente da Venezuela, Nicolás Maduro. O caso foi encaminhado ao relator do STF, ministro Alexandre de Moraes, para que o tribunal decida sobre possíveis sanções. A denúncia destaca que a postagem violou a legislação de crimes contra a honra.",
+      "porQueImporta": "A acusação pode levar a sanções legais contra Flávio Bolsonaro e tem implicações na esfera política e na reputação de Lula.",
+      "category": "politica",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/podcast/resumao-diario/noticia/2026/11/18/resumao-diario-2236-pf-bloqueia-r-23-bi-de-grupo-de-apostas-ilegais-ex-jogadora-da-selecao-e-presa-em-operacao-contra-o-cv-gabarito-oficial-do-enem-2026-e-divulgado-e-mais.ghtml"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/educacao/gabarito-enem-2026-questao-de-matematica-e-anulada-veja/"
-        },
-        {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/educacao/inep-divulga-gabarito-oficial-do-enem-2026-veja-como-consultar/"
+          "url": "https://www.cartacapital.com.br/carta-capital/os-proximos-passos-de-processo-em-que-o-stf-pode-condenar-flavio-bolsonaro/"
+        },
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/18/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula.ghtml"
+        },
+        {
+          "name": "Veja",
+          "url": "https://veja.abril.com.br/brasil/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula/"
         },
         {
           "name": "Exame",
-          "url": "https://exame.com/brasil/enem-2026-questao-de-matematica-e-anulada-veja-como-baixar-o-gabarito-oficial/"
+          "url": "https://exame.com/brasil/pgr-denuncia-flavio-bolsonaro-por-suposta-calunia-contra-lula-apos-publicacao-nas-redes-sociais/"
         }
       ],
-      "updatedAt": "2026-11-18T16:42:10.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/sVt3xHePw5bmaiT75Cjz2EVAJy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/P/3DBiGATciJvvQc3jv7iw/podcasts-3000x1688-sem-logo-14.png"
+      "updatedAt": "2026-11-18T23:08:18.000Z",
+      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/FB2-2.jpg"
     },
     {
-      "clusterId": "a2d85a01719a0ec7",
-      "slug": "5257e3fb37114936",
-      "titulo": "Jensen Huang renuncia à Nvidia e aceita voltar ao comando, enquanto a empresa enfrenta crise de segurança e anuncia resultados recordes",
-      "resumo": "O ex‑CEO Jensen Huang renunciou à Nvidia em meio a escândalo de relacionamento extraconjugal com uma suspeita de espiã chinesa e admitiu erros graves. Ele declarou que aceitaria voltar ao cargo se o conselho decidir. A empresa anunciou lucro líquido de US$ 65,3 bilhões no último trimestre, quase o dobro do ano anterior, e criou um comitê de segurança nacional. Enquanto isso, rumores sobre uma GeForce RTX 5080 de 24 GB surgiram como tentativa de atender gamers.",
-      "porQueImporta": "A saída e possível retorno de Huang, junto com a crise de segurança e os resultados financeiros, afetam a liderança e a confiança no setor de chips e IA.",
+      "clusterId": "fc79ad8bdf1dea72",
+      "slug": "74fc36eea3f45a16",
+      "titulo": "Anthropic abre IPO na Nasdaq com preço de US$83 por ação",
+      "resumo": "A empresa de inteligência artificial Anthropic iniciou seu IPO na Nasdaq, definindo o preço das ações em US$83, acima da faixa prevista. A oferta visa atingir uma avaliação de até US$1,4 trilhão. A estreia é considerada uma das maiores do setor de IA e pode gerar riqueza para funcionários e investidores. Investidores brasileiros podem participar via BDRs.",
+      "porQueImporta": "O IPO pode impulsionar a valorização de empresas de IA e criar oportunidades de investimento no Brasil.",
       "category": "economia",
       "sources": [
         {
-          "name": "Canaltech",
-          "url": "https://canaltech.com.br/hardware/jensen-huang-teria-lutado-por-rtx-5080-de-24-gb-como-consolo-para-jogadores/"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cm3eg1nq1ynpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/tecnologia/noticia/2026/11/18/nvidia-descarta-volta-de-jensen-huang-ao-comando-da-empresa-e-promete-acelerar-busca-por-novo-ceo.ghtml"
-        },
-        {
-          "name": "DW Brasil",
-          "url": "https://www.dw.com/pt-br/ex-ceo-da-nvidia-pede-desculpas-e-diz-que-aceitaria-voltar-ao-comando-da-empresa/a-79974437?maca=bra-rss-br-all-1030-rdf"
-        }
-      ],
-      "updatedAt": "2026-11-18T16:13:00.000Z",
-      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg"
-    },
-    {
-      "clusterId": "9fcf4e1f5ab161a1",
-      "slug": "e1d6ef3347c8f7dc",
-      "titulo": "Senado adia votação de destaques do ajuste fiscal para quarta-feira",
-      "resumo": "O Senado Federal adiou a votação das propostas de mudanças no projeto de lei complementar do ajuste fiscal do governo para quarta-feira, 18, devido à falta de acordo entre os senadores sobre quais destaques deveriam ser aprovados ou rejeitados. O texto-base já havia sido aprovado na última quinta-feira por 45 votos a 31. O relator, Eduardo Braga, pediu um novo parecer para negociar as alterações. A votação remarcada visa evitar atrasos na tramitação do pacote fiscal.",
-      "porQueImporta": "A decisão afeta a continuidade das medidas de contenção das contas públicas e pode influenciar a estabilidade econômica do país.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Metrópoles",
-          "url": "https://www.metropoles.com/brasil/ajuste-fiscal-relator-diz-que-votacao-no-senado-nao-passa-desta-quarta"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-congresso/ao-vivo-senado-vota-destaques-do-ajuste-fiscal/"
-        },
-        {
           "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/economia/money/mercado/taxas-de-juros-sobem-apos-senado-adiar-votacao-de-destaques-de-ajuste-fiscal/"
+          "url": "https://www.cnnbrasil.com.br/economia/money/negocios/ipo-da-anthropic-deve-criar-milhares-de-milionarios/"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/mercados/anthropic-fixa-preco-de-ipo-em-us83-por-acao-diz-fonte/"
+        },
+        {
+          "name": "Olhar Digital",
+          "url": "https://olhardigital.com.br/2026/11/18/pro/anthropic-chega-a-bolsa-com-acoes-mais-caras-que-o-previsto/"
         },
         {
           "name": "G1",
-          "url": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml"
+          "url": "https://g1.globo.com/economia/noticia/2026/11/18/anthropic-ipo-bolsa-como-investir-bdrs-brasil.ghtml"
         }
       ],
-      "updatedAt": "2026-11-18T16:06:04.000Z",
-      "imageUrl": "https://images.metroimg.com/2026/10/senadores-omar-aziz-relator-da-pec-otto-alencar-davi-alcolumbre-carlos-portinho-e-eduardo-braga-durante-sessao-plenaria-no-senado-federal-para-discutir-o-fim-da-escala-de-trabalho-6x1-metropoles-2-scaled.jpeg"
+      "updatedAt": "2026-11-18T22:22:07.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/03/5WWIA5MXEJOR5CZTTNGXYY3UP4.jpg?fit=300%2C186&amp;quality=70&amp;strip=all"
     },
     {
-      "clusterId": "f7b7761303d3bad1",
-      "slug": "4cbe44501e29ffb9",
-      "titulo": "Voyager 1 alcançará distância de um dia-luz da Terra",
-      "resumo": "A sonda Voyager 1 da NASA atingirá, nesta quarta-feira, a distância de um dia-luz da Terra, equivalente a cerca de 26 bilhões de quilômetros. O marco será registrado às 7h16min07s, horário de Brasília. A Voyager 1 tem viajado por quase meio século, sendo a primeira construção humana a alcançar essa distância.",
-      "porQueImporta": "Demonstrar a extensão da exploração espacial e o avanço tecnológico da NASA.",
-      "category": "ciencia",
+      "clusterId": "1020835f65ff6cd0",
+      "slug": "6aaa46f6b5f02a8e",
+      "titulo": "Grand Theft Auto VI chega aos consoles em 19 de maio",
+      "resumo": "O jogo Grand Theft Auto VI, da Rockstar Games, foi lançado em 19 de maio para PlayStation 5 e Xbox Series X|S, com liberação por país de acordo com o fuso horário local. O título, que já bateu recorde de pré‑vendas, segue o GTA 5, que vendeu mais de 475 milhões de cópias. O lançamento foi precedido por 13 anos de espera, vazamentos e adiamentos, gerando grande expectativa mundial.",
+      "porQueImporta": "O lançamento marca o retorno de uma das franquias mais vendidas da indústria de videogames.",
+      "category": "entretenimento",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/ciencia/um-dia-luz-da-terra-o-recorde-alcancado-pela-sonda-voyager-1/"
+          "name": "G1",
+          "url": "https://g1.globo.com/pop-arte/games/noticia/2026/11/18/as-primeiras-impressoes-do-gta-vi-pelo-mundo.ghtml"
         },
         {
           "name": "DW Brasil",
-          "url": "https://www.dw.com/pt-br/sonda-voyager-1-da-nasa-atinge-marco-histórico-de-um-dia-luz-de-distância-da-terra/a-79972287?maca=bra-rss-br-all-1030-rdf"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/ciencia/noticia/2026/11/18/voyager-1-um-dia-luz-da-terra.ghtml"
+          "url": "https://www.dw.com/pt-br/por-que-gta-6-é-mais-do-que-apenas-um-jogo/a-79979551?maca=bra-rss-br-all-1030-rdf"
         },
         {
           "name": "Super Interessante",
-          "url": "https://super.abril.com.br/ciencia/sonda-voyager-1-da-nasa-ficara-a-um-dia-luz-da-terra-distancia-inedita-para-um-objeto-humano/"
+          "url": "https://super.abril.com.br/cultura/a-saga-de-gta-vi/"
+        },
+        {
+          "name": "Canaltech",
+          "url": "https://canaltech.com.br/seguranca/3-golpes-mais-perigosos-na-semana-de-lancamento-de-gta-6-saiba-como-se-proteger/"
         }
       ],
-      "updatedAt": "2026-11-18T15:52:20.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg"
+      "updatedAt": "2026-11-18T21:43:28.000Z",
+      "imageUrl": "https://s2-g1.glbimg.com/I4W-_YElSvBSpM5LvPoGCtjlVW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/x/E/3kUgGWQ4ClO89jfRVBOg/captura-de-tela-2025-05-02-093420.png"
     },
     {
-      "clusterId": "6462eb3b360b7116",
-      "slug": "bf4f7f6c98a4c1d0",
-      "titulo": "Ministro da Justiça comparecerá ao Senado para audiência sobre troca de delegados da PF",
-      "resumo": "O ministro da Justiça e Segurança Pública, Wellington Lima e Silva, será ouvido nesta quarta-feira pelas comissões de Constituição e Justiça e de Segurança Pública do Senado sobre a troca de delegados da Polícia Federal, decisão tomada pelo diretor-geral Andrei Rodrigues. O diretor-geral da PF, Andrei Rodrigues, informou que não comparecerá à audiência, apesar do convite. A audiência visa esclarecer os motivos da troca de delegados, que ocorreram por quebra de confiança, e a necessidade de refazer relatórios sobre relações de ministros do STF com o ex-banqueiro Daniel Vorcaro.",
-      "porQueImporta": "A audiência pode revelar questões de confiança e transparência dentro da Polícia Federal e do governo.",
-      "category": "politica",
+      "clusterId": "059595455acfd484",
+      "slug": "4ff12653a5254d86",
+      "titulo": "Santos vence Coritiba por 1 a 0 com gol de Gabigol nos acréscimos",
+      "resumo": "O Santos derrotou o Coritiba na 35ª rodada do Brasileirão, com Gabigol marcando nos acréscimos. O gol garantiu a vitória por 1 a 0 no Estádio Couto Pereira. Após o jogo, Neymar e Gabigol provocaram a torcida do Coritiba, chamando-a de “otário” e sugerindo que o time seria rebaixado. O resultado mantém o Santos na disputa pela Libertadores e deixa o Coritiba em risco de queda.",
+      "porQueImporta": "O resultado afeta a posição de ambos os clubes na tabela e a expectativa de participação na Libertadores.",
+      "category": "esportes",
       "sources": [
         {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/ao-vivo/diretor-pf-andrei-rodrigues-senado-crise-policia-federal-troca-delegados.ghtml"
+          "name": "GE",
+          "url": "https://ge.globo.com/pr/futebol/times/coritiba/noticia/2026/11/18/atuacoes-do-coritiba-josue-e-destaque-mas-ocampo-vacila-no-fim-de-suas-notas.ghtml"
         },
         {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/brasil/ao-vivo-ministro-fala-ao-senado-sobre-saida-de-delegados-do-caso-master/"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/neymar-discute-com-torcedor-do-coritiba-apos-vitoria-vai-para-b-otario"
         },
         {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/andrei-rodrigues-vai-ao-senado-explicar-troca-de-delegados-no-caso-master/"
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/neymar-e-gabigol-debocham-apos-santos-vencer-o-coritiba-vao-cair/"
         }
       ],
-      "updatedAt": "2026-11-18T16:53:24.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/andrei_rodrigues.jpg"
+      "updatedAt": "2026-11-19T01:29:34.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/m96NVPvmKjoQ6Mzw--7r2XN0oag=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/A/N/s6NJkASAW0xYhnRlemEA/agif26111819443527.jpg"
     },
     {
-      "clusterId": "d8f0519a94e8555f",
-      "slug": "b36202746c977ccd",
-      "titulo": "Justiça suspende licitação de R$ 6 milhões para iPhones no Senado",
-      "resumo": "A 18ª Vara Federal Cível do Distrito Federal suspendeu a licitação que previa a compra de 95 iPhones 18 Pro e 330 outros celulares para parlamentares e servidores do Senado, totalizando cerca de R$ 6 milhões. A decisão foi motivada por alegações de possível ilegalidade na exigência de marcas específicas e por uma ação popular movida pelo deputado Nikolas Ferreira. O Senado havia defendido o fornecimento dos aparelhos por comodato. A suspensão impede a homologação, adjudicação e assinatura do contrato.",
-      "porQueImporta": "A medida destaca a necessidade de transparência e legalidade nas contratações públicas, especialmente em órgãos legislativos.",
-      "category": "politica",
-      "sources": [
-        {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/brasil/justica-suspende-licitacao-de-iphones-no-senado-em-meio-a-disputa-pela-presidencia-da-casa/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/politica/justica-suspende-licitacao-de-r-6-milhoes-para-iphones-no-senado/"
-        },
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/18/justica-suspende-licitacao-que-previa-gasto-de-r-6-milhoes-com-celulares-para-parlamentares-e-servidores-do-senado.ghtml"
-        }
-      ],
-      "updatedAt": "2026-11-18T16:13:20.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/55589920926_06a05744dc_c.jpg"
-    },
-    {
-      "clusterId": "0df21d12db170837",
-      "slug": "eb79d9c23d80e151",
-      "titulo": "EUA perdem certificado de eliminação do sarampo após 26 anos",
-      "resumo": "Os Estados Unidos perderam o status de país livre do sarampo após registrar mais de 5,4 mil casos e 10 mortes entre 2022 e 2023, o que indica transmissão contínua da mesma linhagem viral por mais de 12 meses. A Organização Pan-Americana da Saúde concluiu que a queda na cobertura vacinal e a disseminação de ideias antivacina contribuíram para o retrocesso. O México e a Bolívia também perderam o status de erradicação do sarampo.",
-      "porQueImporta": "O revés evidencia fragilidades na imunização e aumenta o risco de surtos futuros.",
-      "category": "mundo",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/saude/noticia/2026/11/18/por-que-eua-perderam-certificado-de-eliminacao-do-sarampo-apos-26-anos.ghtml"
-        },
-        {
-          "name": "DW Brasil",
-          "url": "https://www.dw.com/pt-br/como-o-sarampo-se-espalhou-até-virar-um-surto-nos-eua/a-79979773?maca=bra-rss-br-all-1030-rdf"
-        },
-        {
-          "name": "BBC Brasil",
-          "url": "https://www.bbc.com/portuguese/articles/cq78258y8np9o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "updatedAt": "2026-11-18T16:04:00.000Z",
-      "imageUrl": "https://s2-g1.glbimg.com/ANdp_sGPoPK6q0lvOZvME5Fal_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/g/jBrEJQSJaZNpwvnO8cAg/sarampo-ok.jpeg"
-    },
-    {
-      "clusterId": "66c3e8ad1519c545",
-      "slug": "33de008ec3b4476c",
-      "titulo": "Corinthians enfrenta Botafogo na 35ª rodada do Brasileirão",
-      "resumo": "O Corinthians e o Botafogo se enfrentarão na Neo Química Arena, às 21h30, pela 35ª rodada do Brasileirão. O jogo marca o primeiro retorno de Tite ao estádio após recusar uma proposta de cuidar da saúde mental. O confronto tem relevância direta na disputa pelo Z-4 e na busca do Corinthians por vaga na Copa Sul-Americana.",
-      "porQueImporta": "Decisivo para a posição na tabela e para a classificação continental.",
+      "clusterId": "d6c2f27aa29741c7",
+      "slug": "e22250c24f6f82d1",
+      "titulo": "Hakeem Jeffries indicado para presidir Câmara dos EUA e promete investigar Trump",
+      "resumo": "O líder da bancada democrata, Hakeem Jeffries, foi indicado pelo partido para presidir a Câmara dos Representantes a partir de janeiro. Ele pode se tornar o primeiro homem negro a ocupar o cargo. Jeffries afirmou que conduzirá investigações aprofundadas sobre o ex-presidente Donald Trump. A eleição ocorre antes da posse do novo Congresso, que terá maioria de oposição ao atual presidente.",
+      "porQueImporta": "A nomeação de Jeffries pode influenciar as investigações sobre Trump e marcar um avanço histórico na representação negra na liderança da Câmara.",
       "category": "geral",
       "sources": [
         {
-          "name": "Veja",
-          "url": "https://veja.abril.com.br/esporte/corinthians-x-botafogo-no-brasileirao-onde-assistir-horario-e-escalacoes-2/"
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/mundo/indicado-para-presidir-camara-lider-democrata-promete-investigar-trump"
         },
         {
-          "name": "GE",
-          "url": "https://ge.globo.com/futebol/times/botafogo/noticia/2026/11/18/no-botafogo-tite-ira-a-neo-quimica-arena-pela-primeira-vez-apos-nao-ao-corinthians.ghtml"
+          "name": "G1",
+          "url": "https://g1.globo.com/mundo/noticia/2026/11/18/novo-lider-dos-democratas-no-congresso-dos-eua-promete-investigar-trump.ghtml"
         },
         {
           "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/esporte/em-momentos-opostos-botafogo-visita-o-corinthians-confira-a-situacao-dos-times/"
+          "url": "https://www.cartacapital.com.br/mundo/novo-lider-dos-democratas-no-congresso-dos-eua-promete-investigar-trump/"
         }
       ],
-      "updatedAt": "2026-11-18T16:00:40.000Z",
-      "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/04/GettyImages-1393890565.jpg"
+      "updatedAt": "2026-11-19T01:23:23.000Z",
+      "imageUrl": "https://images.metroimg.com/2025/10/21184621/foto-Hakeem-Jeffries.jpg"
+    },
+    {
+      "clusterId": "8bd609ffeedd05c1",
+      "slug": "2443c88d70256857",
+      "titulo": "Remo vence Chapecoense e evita rebaixamento precoce",
+      "resumo": "O Remo venceu a Chapecoense por 2 a 0 na 35ª rodada do Brasileirão, com gols de Jajá e Patrick no primeiro tempo. A vitória garantiu ao Leão Azul a permanência na Série A, afastando a possibilidade de rebaixamento imediato. A Chapecoense, já rebaixada, perdeu a partida fora de casa.",
+      "porQueImporta": "A vitória mantém o Remo na elite do futebol brasileiro, evitando o descenso.",
+      "category": "esportes",
+      "sources": [
+        {
+          "name": "GE",
+          "url": "https://ge.globo.com/pa/futebol/brasileirao-serie-a/jogo/18-11-2026/remo-chapecoense.ghtml"
+        },
+        {
+          "name": "Metrópoles",
+          "url": "https://www.metropoles.com/esportes/brasileirao-remo-vence-chapecoense-e-evita-rebaixamento-antecipado"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/remo-vence-chapecoense-e-mantem-vivo-sonho-de-escapar-do-z4-do-brasileirao/"
+        }
+      ],
+      "updatedAt": "2026-11-19T01:21:41.000Z",
+      "imageUrl": "https://s2-ge.glbimg.com/oI3s8PF1BVWfRRhOio2J8QXr-R0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/h/A/AeiEIcTcqCNr3FFbWT4w/agif2611182015254-1-.jpg"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "9fcf4e1f5ab161a1",
-        "slug": "e1d6ef3347c8f7dc",
-        "titulo": "Senado adia votação de destaques do ajuste fiscal para quarta-feira",
-        "resumo": "O Senado Federal adiou a votação das propostas de mudanças no projeto de lei complementar do ajuste fiscal do governo para quarta-feira, 18, devido à falta de acordo entre os senadores sobre quais destaques deveriam ser aprovados ou rejeitados. O texto-base já havia sido aprovado na última quinta-feira por 45 votos a 31. O relator, Eduardo Braga, pediu um novo parecer para negociar as alterações. A votação remarcada visa evitar atrasos na tramitação do pacote fiscal.",
-        "porQueImporta": "A decisão afeta a continuidade das medidas de contenção das contas públicas e pode influenciar a estabilidade econômica do país.",
+        "clusterId": "9fba4ebabdbdb48c",
+        "slug": "ae3b15064462b4ad",
+        "titulo": "Câmara dos Deputados vai votar ajuste fiscal aprovado pelo Senado",
+        "resumo": "O Senado aprovou o projeto de ajuste fiscal, que prevê economia de até R$ 50 bilhões em 2027, e encaminhou o texto para a Câmara. O presidente da Câmara, Hugo Motta, convocou sessão extraordinária na segunda-feira para votar o pacote. O governo pretende preservar o texto aprovado, enquanto parlamentares de oposição discutem alterações. A votação na Câmara é vista como etapa decisiva para o equilíbrio fiscal do país.",
+        "porQueImporta": "A aprovação do ajuste fiscal na Câmara determinará se o governo pode implementar medidas de contenção de gastos e aumento de arrecadação, impactando a estabilidade econômica e a dívida pública.",
         "category": "politica",
         "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/brasil/ajuste-fiscal-relator-diz-que-votacao-no-senado-nao-passa-desta-quarta"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-congresso/ao-vivo-senado-vota-destaques-do-ajuste-fiscal/"
-          },
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/mercado/taxas-de-juros-sobem-apos-senado-adiar-votacao-de-destaques-de-ajuste-fiscal/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/ao-vivo/senado-pacote-medidas-fiscais.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-18T16:06:04.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/10/senadores-omar-aziz-relator-da-pec-otto-alencar-davi-alcolumbre-carlos-portinho-e-eduardo-braga-durante-sessao-plenaria-no-senado-federal-para-discutir-o-fim-da-escala-de-trabalho-6x1-metropoles-2-scaled.jpeg"
-      },
-      {
-        "clusterId": "6462eb3b360b7116",
-        "slug": "bf4f7f6c98a4c1d0",
-        "titulo": "Ministro da Justiça comparecerá ao Senado para audiência sobre troca de delegados da PF",
-        "resumo": "O ministro da Justiça e Segurança Pública, Wellington Lima e Silva, será ouvido nesta quarta-feira pelas comissões de Constituição e Justiça e de Segurança Pública do Senado sobre a troca de delegados da Polícia Federal, decisão tomada pelo diretor-geral Andrei Rodrigues. O diretor-geral da PF, Andrei Rodrigues, informou que não comparecerá à audiência, apesar do convite. A audiência visa esclarecer os motivos da troca de delegados, que ocorreram por quebra de confiança, e a necessidade de refazer relatórios sobre relações de ministros do STF com o ex-banqueiro Daniel Vorcaro.",
-        "porQueImporta": "A audiência pode revelar questões de confiança e transparência dentro da Polícia Federal e do governo.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/ao-vivo/diretor-pf-andrei-rodrigues-senado-crise-policia-federal-troca-delegados.ghtml"
-          },
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/brasil/ao-vivo-ministro-fala-ao-senado-sobre-saida-de-delegados-do-caso-master/"
-          },
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/andrei-rodrigues-vai-ao-senado-explicar-troca-de-delegados-no-caso-master/"
-          }
-        ],
-        "updatedAt": "2026-11-18T16:53:24.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/andrei_rodrigues.jpg"
-      },
-      {
-        "clusterId": "d8f0519a94e8555f",
-        "slug": "b36202746c977ccd",
-        "titulo": "Justiça suspende licitação de R$ 6 milhões para iPhones no Senado",
-        "resumo": "A 18ª Vara Federal Cível do Distrito Federal suspendeu a licitação que previa a compra de 95 iPhones 18 Pro e 330 outros celulares para parlamentares e servidores do Senado, totalizando cerca de R$ 6 milhões. A decisão foi motivada por alegações de possível ilegalidade na exigência de marcas específicas e por uma ação popular movida pelo deputado Nikolas Ferreira. O Senado havia defendido o fornecimento dos aparelhos por comodato. A suspensão impede a homologação, adjudicação e assinatura do contrato.",
-        "porQueImporta": "A medida destaca a necessidade de transparência e legalidade nas contratações públicas, especialmente em órgãos legislativos.",
-        "category": "politica",
-        "sources": [
+            "url": "https://www.cartacapital.com.br/politica/motta-vai-convocar-sessao-na-segunda-feira-votar-o-ajuste-fiscal-na-camara/"
+          },
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-congresso/camara-inicia-votacao-de-ajuste-fiscal-na-2a-feira/"
+          },
           {
             "name": "Veja",
-            "url": "https://veja.abril.com.br/brasil/justica-suspende-licitacao-de-iphones-no-senado-em-meio-a-disputa-pela-presidencia-da-casa/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/politica/justica-suspende-licitacao-de-r-6-milhoes-para-iphones-no-senado/"
+            "url": "https://veja.abril.com.br/economia/hugo-motta-anuncia-votacao-do-projeto-de-ajuste-fiscal-do-governo-lula-na-camara/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/18/justica-suspende-licitacao-que-previa-gasto-de-r-6-milhoes-com-celulares-para-parlamentares-e-servidores-do-senado.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-18T16:13:20.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/55589920926_06a05744dc_c.jpg"
-      },
-      {
-        "clusterId": "64c5b67e28ba94d6",
-        "slug": "5aae43242bbcb435",
-        "titulo": "Durigan anuncia início de agenda de ajustes fiscais e avalia crescimento moderado em 2027",
-        "resumo": "O ministro da Fazenda, Dario Durigan, afirmou que o pacote de ajuste fiscal em discussão no Senado é apenas o primeiro passo de uma agenda mais ampla para conter despesas públicas. O ajuste prevê redução de benefícios fiscais, contenção de gastos em saúde e limitação de créditos empresariais. Durigan não acredita em recessão para 2028, mas prevê crescimento do PIB em 2027 em torno de 1%, menor que os 1,7% de 2026 e 2,3% de 2025. O pacote deve ser votado ainda na terça-feira e faz parte de um plano gradual para o quarto mandato de Lula.",
-        "porQueImporta": "Essas medidas podem influenciar a trajetória fiscal e o crescimento econômico do Brasil nos próximos anos.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-economia/durigan-diz-que-governo-fara-novo-ajuste-fiscal-estrutural/"
+            "url": "https://g1.globo.com/politica/noticia/2026/11/18/motta-convoca-sessao-para-votar-ajuste-fiscal-na-segunda-feira.ghtml"
           },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/11/18/durigan-ve-economia-deve-crescer-em-patamar-menor-em-2027-descarta-recessao-e-diz-acreditar-em-aprovacao-de-pacote-fiscal.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-18T16:49:19.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/5p_ZwDlncUxbrZID5g5Be3Lz4KE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/F/ssxmpTT220jaOUlBTMug/55615371821-b9ed821b33-k.jpg"
-      },
-      {
-        "clusterId": "3a9c4faf8fbccb15",
-        "slug": "cda2018ac422afa8",
-        "titulo": "Senado aprova aumento de penas para motoristas que causam acidentes graves sob efeito de álcool ou drogas",
-        "resumo": "A Comissão de Constituição e Justiça do Senado aprovou um projeto que eleva as penas para motoristas que provocam mortes ou lesões corporais graves no trânsito sob influência de álcool, drogas ou medicamentos que prejudicam a capacidade de dirigir. O aumento também se aplica a quem dirige com medicamentos listados pelo Contran, baseados em orientações da Anvisa. O projeto segue para a Câmara após análise em caráter terminativo.",
-        "porQueImporta": "A medida reforça a segurança no trânsito e aumenta a responsabilidade penal de condutores que conduzem sob influência.",
-        "category": "politica",
-        "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/ccj-do-senado-aprova-maior-pena-a-motoristas-que-matam-sob-efeito-de-alcool/"
+            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/saiba-como-fica-ajuste-fiscal-com-mudanca-no-senado-impacto-cai-a-r-50-bi/"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/11/18/ccj-do-senado-aprova-aumento-de-penas-para-motoristas-que-provocam-acidentes-graves-sob-efeito-de-alcool-ou-drogas.ghtml"
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/o-que-e-a-lei-kandir-que-motivou-acordo-no-senado-e-quase-travou-ajuste-fiscal/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/economia/ajuste-fiscal-entenda-ponto-a-ponto-o-texto-do-pacote-apos-senado-rejeitar-destaques/"
           }
         ],
-        "updatedAt": "2026-11-18T16:05:18.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/rlOG2wSJ02-vA_-BQgl5LNrt1h0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/t/EXokLBSBO8RM5NK1Yl0g/g1.png"
+        "updatedAt": "2026-11-19T00:42:26.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/img20260507154359065.jpg"
       },
       {
-        "clusterId": "1c4f347db7261f79",
+        "clusterId": "b52e7f5090918788",
         "slug": "88f2778f63177e7f",
         "titulo": "Daniel Vorcaro permanece preso enquanto PGR aguarda denúncia",
         "resumo": "O banqueiro Daniel Vorcaro continua detido no 19º Batalhão da Polícia Militar, enquanto a Procuradoria-Geral da República ainda não apresentou denúncia formal. Advogados de Vorcaro contestam a atribuição da PGR e questionam a competência do STF para julgar os investigados da Operação Compliance Zero. O caso envolve também políticos e ministros, gerando tensão no Supremo Tribunal Federal.",
@@ -402,57 +346,224 @@
         "category": "politica",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/defesa-de-daniel-vorcaro-tenta-manobra-para-evitar-denuncia/"
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/justica/andrei-rodrigues-entrega-a-fachin-relatorios-da-pf-sobre-sobre-ministros-e-vorcaro/"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/colunas/manoela-alcantara/master-fachin-mantem-sigilo-de-relatorios-sobre-ministros-e-os-envia-a-pgr"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/11/17/caso-master-completa-um-ano-com-vorcaro-preso-expectativa-de-denuncia-e-crise-no-stf.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-18T16:01:51.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/fB_m2gbnoIG1bDYTj509yUd2QrI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/W/jvZKQ8SHuurUcBjeb97A/vorcaro.jpg"
-      },
-      {
-        "clusterId": "2b5b19442fa731d7",
-        "slug": "c19756f6dc36e741",
-        "titulo": "Fachin deve receber relatório da PF sobre ministros no caso Master",
-        "resumo": "O presidente do STF, Edson Fachin, receberá nesta quarta-feira relatórios da Polícia Federal que contêm menções a ministros e parentes envolvidos no caso Master. O material, que não detalha condutas, pode influenciar as decisões sobre os próximos passos da crise na Corte. Fachin se reunirá com o diretor-geral da PF, Andrei Rodrigues, após a sessão do Supremo para avaliar o conteúdo.",
-        "porQueImporta": "O relatório pode determinar as medidas que o STF tomará para lidar com a investigação envolvendo seus membros.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/politica/relatorios-da-pf-sobre-ministros-vao-ditar-rumo-do-caso-master-no-stf/"
+            "url": "https://g1.globo.com/politica/noticia/2026/11/18/fachin-relatorios-da-pf-sobre-ministros-citados-em-mensagens-de-vorcaro-pgr.ghtml"
           },
           {
-            "name": "G1",
-            "url": "https://g1.globo.com/politica/noticia/2026/11/18/fachin-recebe-nesta-quarta-relatorio-da-pf-sobre-ministros-no-caso-master-e-deve-avaliar-modelo-para-definir-proximos-passos.ghtml"
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-justica/andrei-entrega-a-fachin-relatorios-sobre-ministros-do-stf-e-master/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/andrei-entrega-a-fachin-relatorio-produzido-pela-pf-sobre-ministros-do-stf/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/pf-entrega-ao-stf-relatorios-sobre-mencoes-a-ministros-encontradas-em-investigacao-do-banco-master/"
           }
         ],
-        "updatedAt": "2026-11-18T14:45:06.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/8ZKQ_e_6YAIZXzUMPB8QpAEfsR0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/A/GYxzdGTpCBKkNT9RABbA/55632812910-36e9d60a0b-k.jpg"
+        "updatedAt": "2026-11-19T00:06:57.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2024/03/Andrei-Rodrigues-00001.jpg"
       },
       {
-        "clusterId": "dd21c9620b5f7f30",
-        "slug": "be057eceab056672",
-        "titulo": "Candidatos têm até hoje para validar informações da inscrição no Fies",
-        "resumo": "Os candidatos ao Fies podem validar suas inscrições até hoje, segundo a CartaCapital. A lista de pré-selecionados já está disponível no Portal Único de Acesso ao Ensino Superior. O programa ofereceu 50 mil vagas para financiamento de cursos superiores.",
-        "porQueImporta": "Permite que estudantes confirmem sua participação em um importante programa de financiamento estudantil.",
+        "clusterId": "d31de9a94ccf285e",
+        "slug": "4ec875d35ffead09",
+        "titulo": "PGR denuncia Flávio Bolsonaro por calúnia contra Lula",
+        "resumo": "A Procuradoria-Geral da República apresentou denúncia contra o senador Flávio Bolsonaro por calúnia, alegando que ele teria atribuído falsamente crimes de tráfico de drogas e lavagem de dinheiro ao presidente Luiz Inácio Lula da Silva em uma postagem no X em 3 de janeiro de 2026. A acusação se baseia em uma montagem que comparava imagens de Lula com o presidente da Venezuela, Nicolás Maduro. O caso foi encaminhado ao relator do STF, ministro Alexandre de Moraes, para que o tribunal decida sobre possíveis sanções. A denúncia destaca que a postagem violou a legislação de crimes contra a honra.",
+        "porQueImporta": "A acusação pode levar a sanções legais contra Flávio Bolsonaro e tem implicações na esfera política e na reputação de Lula.",
         "category": "politica",
         "sources": [
           {
             "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/educacao/candidatos-tem-ate-hoje-para-validar-informacoes-da-inscricao-no-fies/"
+            "url": "https://www.cartacapital.com.br/carta-capital/os-proximos-passos-de-processo-em-que-o-stf-pode-condenar-flavio-bolsonaro/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/11/18/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula.ghtml"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/brasil/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/brasil/pgr-denuncia-flavio-bolsonaro-por-suposta-calunia-contra-lula-apos-publicacao-nas-redes-sociais/"
           }
         ],
-        "updatedAt": "2026-11-18T16:09:08.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/05/dsc_3563.jpg"
+        "updatedAt": "2026-11-18T23:08:18.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/10/FB2-2.jpg"
+      },
+      {
+        "clusterId": "36bf8861dd97b0a6",
+        "slug": "cfbbcaa6229bc49d",
+        "titulo": "Fachin vai enviar relatórios da PF sobre ministros do STF à PGR",
+        "resumo": "O ministro do STF, Alexandre de Moraes, informou que enviará à Procuradoria-Geral da República relatórios da Polícia Federal sobre ministros do Supremo Tribunal Federal e sobre o caso Master. Ele concedeu prazo de 15 dias para manifestação da PGR. Os documentos entregues pela PF permanecem sob sigilo até que a investigação seja concluída. A decisão de abrir investigação contra ministros depende de deliberação do plenário.",
+        "porQueImporta": "A medida pode levar a investigações formais contra membros do STF, afetando a confiança institucional.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-justica/fachin-vai-enviar-a-pgr-relatorios-sobre-ministros-do-stf-e-master/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/politica/a-providencia-do-stf-apos-receber-relatorios-da-pf-sobre-o-caso-master/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/fachin-diz-que-relatorios-da-pf-sobre-ministros-do-stf-serao-enviados-a-pgr/"
+          }
+        ],
+        "updatedAt": "2026-11-19T00:09:39.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/55605848156_208ffe1f69_c.jpg"
+      },
+      {
+        "clusterId": "8c65bd016a14995c",
+        "slug": "3b8b5ffeb88e8937",
+        "titulo": "Durigan descarta recessão, mas prevê crescimento menor em 2027",
+        "resumo": "O ministro da Fazenda, Dario Durigan, afirmou que não espera recessão no próximo ano, mas prevê um crescimento do PIB em 2027 de cerca de 1%, menor que os 1,7% de 2026 e 2,3% de 2025. Ele destaca que juros elevados, inflação acima da meta e riscos fiscais podem desacelerar a economia. Durigan mantém confiança na aprovação de ajustes fiscais e continua em diálogo com colegas do setor.",
+        "porQueImporta": "A previsão de crescimento influencia decisões de investimento e políticas públicas no Brasil.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/durigan-descarta-recessao-mas-ve-crescimento-em-patamar-menor-em-2027/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/11/18/durigan-ve-economia-deve-crescer-em-patamar-menor-em-2027-descarta-recessao-e-diz-acreditar-em-aprovacao-de-pacote-fiscal.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-19T01:04:24.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/5p_ZwDlncUxbrZID5g5Be3Lz4KE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/F/ssxmpTT220jaOUlBTMug/55615371821-b9ed821b33-k.jpg"
+      },
+      {
+        "clusterId": "8e95afe20671e7f0",
+        "slug": "c09d6f207ab2e78e",
+        "titulo": "PSB e PDT oficializam federação partidária",
+        "resumo": "O Partido Socialista Brasileiro (PSB) e o Partido Democrático Trabalhista (PDT) formalizaram a criação de uma federação partidária nacional em 18 de novembro de 2026. A união prevê que os dois partidos atuem juntos nas eleições e no Congresso Nacional por, no mínimo, quatro anos. A estratégia visa somar o desempenho nas urnas para cumprir a cláusula de barreira e ampliar a força das legendas diante das regras eleitorais.",
+        "porQueImporta": "A federação pode fortalecer a presença dos partidos nas eleições e no Congresso, influenciando a dinâmica política nacional.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/politica/psb-e-pdt-oficializam-formacao-de-federacao-partidaria/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/11/18/psb-pdt-federacao-entenda.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-19T00:02:46.000Z",
+        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/CAPA-para-materia@-5.png"
+      },
+      {
+        "clusterId": "9393df26c5fabfa6",
+        "slug": "590b84977902f66d",
+        "titulo": "Divisão no PL sobre candidatura à presidência da Câmara",
+        "resumo": "O presidente do PL, Valdemar, recuou após criticar a candidatura de Nikolas Ferreira à presidência da Câmara dos Deputados, chamando-a de “loucura” por causa da idade do parlamentar. A disputa pela presidência, que ocorrerá em fevereiro de 2027, gerou divisão no partido entre apoiar a reeleição de Hugo Motta ou lançar a candidatura de Nikolas. Enquanto a liderança do PL negocia apoio a Motta, aliados de Nikolas pressionam para que ele concorra ao cargo. Nikolas ameaçou deixar o partido caso não receba apoio.",
+        "porQueImporta": "A disputa pode influenciar a composição e a liderança da Câmara, afetando decisões legislativas futuras.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/valdemar-recua-apos-criticar-candidatura-de-nikolas-a-presidencia-da-camara/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/11/18/eleicao-para-presidente-da-camara-causa-divisao-no-pl-e-nikolas-ameaca-deixar-partido.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-18T23:36:41.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/29IWYLsk_lmVPhP5zvgHXwFwjGM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/B/KcX4wTRCKJ9RAoWTRUfQ/montagem-horizontal-1280x720px-1-.jpg"
+      },
+      {
+        "clusterId": "0d38c61721373dbe",
+        "slug": "94317658354f5228",
+        "titulo": "Cid Gomes critica Galípolo e política de juros do BC durante votação do ajuste fiscal",
+        "resumo": "Durante a votação do ajuste fiscal, o senador Cid Gomes chamou o ministro da Economia, Fernando Galípolo, de \"cavalo de Troia do mercado\" e afirmou que o custo da dívida ofusca a necessidade de corte de gastos. Ele também criticou a política de juros do Banco Central, alegando que a alta dos juros prejudica a economia. A declaração ocorreu em meio a debates sobre o equilíbrio fiscal e a estabilidade macroeconômica.",
+        "porQueImporta": "A crítica de um senador ao ministro da Economia e ao Banco Central pode influenciar a percepção pública e a discussão sobre políticas fiscais e monetárias no país.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-congresso/cid-gomes-chama-galipolo-de-cavalo-de-troia-do-mercado/"
+          }
+        ],
+        "updatedAt": "2026-11-19T01:40:22.000Z"
       }
     ],
     "economia": [
       {
-        "clusterId": "a2d85a01719a0ec7",
+        "clusterId": "da35571b8767f7e7",
+        "slug": "124441938f653d31",
+        "titulo": "Banco do Brasil confirma vazamento de dados pessoais de clientes",
+        "resumo": "Em 12 de novembro, o Banco do Brasil identificou acesso não autorizado a dados cadastrais de clientes, incluindo nome, CPF, e-mail, número da agência e, em alguns casos, número da conta. O banco afirma que senhas e códigos de segurança não foram comprometidos e que não houve invasão de seus sistemas. A instituição iniciou protocolos de segurança e está investigando o incidente. Clientes foram alertados para monitorar possíveis tentativas de golpe.",
+        "porQueImporta": "O vazamento expõe informações que podem ser usadas por criminosos para fraudes, exigindo atenção dos correntistas.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/banco-do-brasil-comunica-clientes-sobre-vazamento-de-dados/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/economia/acesso-indevido-expoe-dados-de-clientes-do-banco-do-brasil/"
+          },
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/11/18/seguranca/banco-do-brasil-alerta-sobre-vazamento-de-dados-saiba-o-que-foi-exposto/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/tecnologia/noticia/2026/11/18/banco-do-brasil-dados.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/invest/mercados/banco-do-brasil-identifica-vazamento-de-dados-de-clientes-veja-como-nao-cair-em-golpes/"
+          }
+        ],
+        "updatedAt": "2026-11-18T23:47:23.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/09/banco-do-brasil_mcamgo_abr_280620211818-9.jpg"
+      },
+      {
+        "clusterId": "fc79ad8bdf1dea72",
+        "slug": "74fc36eea3f45a16",
+        "titulo": "Anthropic abre IPO na Nasdaq com preço de US$83 por ação",
+        "resumo": "A empresa de inteligência artificial Anthropic iniciou seu IPO na Nasdaq, definindo o preço das ações em US$83, acima da faixa prevista. A oferta visa atingir uma avaliação de até US$1,4 trilhão. A estreia é considerada uma das maiores do setor de IA e pode gerar riqueza para funcionários e investidores. Investidores brasileiros podem participar via BDRs.",
+        "porQueImporta": "O IPO pode impulsionar a valorização de empresas de IA e criar oportunidades de investimento no Brasil.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/negocios/ipo-da-anthropic-deve-criar-milhares-de-milionarios/"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/mercados/anthropic-fixa-preco-de-ipo-em-us83-por-acao-diz-fonte/"
+          },
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/11/18/pro/anthropic-chega-a-bolsa-com-acoes-mais-caras-que-o-previsto/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/11/18/anthropic-ipo-bolsa-como-investir-bdrs-brasil.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-18T22:22:07.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/03/5WWIA5MXEJOR5CZTTNGXYY3UP4.jpg?fit=300%2C186&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "6534db856af3880c",
         "slug": "5257e3fb37114936",
         "titulo": "Jensen Huang renuncia à Nvidia e aceita voltar ao comando, enquanto a empresa enfrenta crise de segurança e anuncia resultados recordes",
         "resumo": "O ex‑CEO Jensen Huang renunciou à Nvidia em meio a escândalo de relacionamento extraconjugal com uma suspeita de espiã chinesa e admitiu erros graves. Ele declarou que aceitaria voltar ao cargo se o conselho decidir. A empresa anunciou lucro líquido de US$ 65,3 bilhões no último trimestre, quase o dobro do ano anterior, e criou um comitê de segurança nacional. Enquanto isso, rumores sobre uma GeForce RTX 5080 de 24 GB surgiram como tentativa de atender gamers.",
@@ -460,12 +571,8 @@
         "category": "economia",
         "sources": [
           {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/hardware/jensen-huang-teria-lutado-por-rtx-5080-de-24-gb-como-consolo-para-jogadores/"
-          },
-          {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cm3eg1nq1ynpo?at_medium=RSS&at_campaign=rss"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/negocios/moodys-adota-visao-estavel-para-nvidia-apos-saida-de-huang/"
           },
           {
             "name": "G1",
@@ -476,113 +583,31 @@
             "url": "https://www.dw.com/pt-br/ex-ceo-da-nvidia-pede-desculpas-e-diz-que-aceitaria-voltar-ao-comando-da-empresa/a-79974437?maca=bra-rss-br-all-1030-rdf"
           }
         ],
-        "updatedAt": "2026-11-18T16:13:00.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg"
+        "updatedAt": "2026-11-19T00:56:21.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/rHF_Bdpdb4waqfHR3MLd2uqsHYw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/h/N/Kq4kJaS4as3eUtr14TYQ/2024-03-01t192533z-1884582843-rc2yd5abdqpd-rtrmadp-3-usa-stocks-nvidia.jpg"
       },
       {
-        "clusterId": "8efe25f4a9132077",
-        "slug": "1821dde17c54b1ef",
-        "titulo": "Rede D’Or vende SulAmérica Investimentos à BlackRock por R$ 850 milhões",
-        "resumo": "A Rede D’Or concluiu a venda das participações que detém na SulAmérica Investimentos, composta pela Distribuidora de Títulos e Valores Mobiliários e pela Gestora de Recursos, para a BlackRock Brasil. O valor total da transação é de R$ 850 milhões, sendo R$ 700 milhões pagos à vista e R$ 150 milhões em parcelas futuras, condicionadas a metas de desempenho. A operação inclui a transferência de uma equipe local, acordos com mais de 25 distribuidores e relações com cerca de 200 fundos de pensão.",
-        "porQueImporta": "A venda reforça a presença da BlackRock no mercado brasileiro de investimentos e consolida a estratégia de expansão da gestora americana.",
+        "clusterId": "a0ba45ae600a1a40",
+        "slug": "77052d534365481e",
+        "titulo": "Resultado do concurso 1351 da Dia de Sorte",
+        "resumo": "O concurso 1351 da Dia de Sorte foi realizado na quarta-feira (18) e sorteou as dezenas 10, 11, 13, 19, 21, 24 e 28, com o mês da sorte em setembro. Não houve ganhadores de 7 acertos, acumulando o prêmio para R$ 1,7 milhão. Foram 54 apostas premiadas com 6 acertos, cada uma recebendo R$ 2.023,02; 2.003 apostas ganharam com 5 acertos, recebendo R$ 25; e 23.091 apostas venceram com 4 acertos, recebendo R$ 5.",
+        "porQueImporta": "O resultado informa quem pode receber prêmios e o valor acumulado do concurso.",
         "category": "economia",
         "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/negocios/rede-dor-vende-sul-america-investimentos-para-blackrock-por-r-850-milhoes/"
-          },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/economia/negocios/noticia/2026/11/18/rede-dor-sulamerica-investimentos.ghtml"
+            "url": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/11/18/dia-de-sorte-hoje-resultado-do-concurso-1351-e-numeros-sorteados.ghtml"
           },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/exame-in/fundos-de-pensao-e-distribuidoras-por-que-a-blackrock-comprou-a-sulamerica-investimentos/"
-          }
-        ],
-        "updatedAt": "2026-11-18T14:08:38.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/sH0QUKP2m1McB8qD5EaiTkzh6ME=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/w/o/BOlztDTIub8IsFAAjESQ/dor-sulamerica.jpg"
-      },
-      {
-        "clusterId": "99819f3c2fecd247",
-        "slug": "242ec4d0626cc048",
-        "titulo": "GTA 6 chega aos consoles com quase 15 milhões de cópias vendidas na pré‑venda",
-        "resumo": "O jogo Grand Theft Auto VI foi lançado no PlayStation 5 e Xbox Series X|S em 19 de novembro, após 13 anos de espera. Na pré‑venda, quase 15 milhões de unidades foram vendidas, gerando cerca de US$ 1,5 bilhão em receita. A maior parte das vendas ocorreu no PlayStation 5, com 74% das unidades, enquanto o Xbox representou 26%. O lançamento reforça a posição dominante da franquia, que já ultrapassou 475 milhões de cópias vendidas globalmente.",
-        "porQueImporta": "O desempenho comercial demonstra o impacto econômico e a força de mercado da Rockstar Games e da Take‑Two.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "Exame",
-            "url": "https://exame.com/pop/como-a-rockstar-fez-de-gta-6-um-fenomeno-de-vendas-apos-13-anos-sem-um-jogo-inedito/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/games/noticia/2026/11/18/gta-vi-chega-amanha-veja-tudo-que-voce-precisa-saber-sobre-o-jogo.ghtml"
-          },
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/games/gta-6-ja-vendeu-quase-15-milhoes-de-copias-e-faturou-us-145-bilhao-antes-da-estreia/"
-          }
-        ],
-        "updatedAt": "2026-11-18T11:43:18.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/I4W-_YElSvBSpM5LvPoGCtjlVW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/x/E/3kUgGWQ4ClO89jfRVBOg/captura-de-tela-2025-05-02-093420.png"
-      },
-      {
-        "clusterId": "99d5ac1810a23d4c",
-        "slug": "65c94a85c305152c",
-        "titulo": "Ações da Take-Two sobem mais de 7% antes do lançamento de GTA VI",
-        "resumo": "O valor das ações da Take-Two aumentou mais de 7% nas vésperas do lançamento de GTA VI, refletindo a expectativa dos investidores. A franquia já arrecadou US$ 1,5 bilhão em pré-vendas antes da estreia oficial. O crescimento das ações indica confiança na performance financeira da empresa com o novo título. Investidores brasileiros podem considerar a oportunidade de participar desse movimento.",
-        "porQueImporta": "O aumento nas ações demonstra o impacto direto de lançamentos de jogos na valorização de empresas de entretenimento.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/mercado/gta-vi-acoes-da-take-two-disparam-mais-de-7-as-vesperas-de-lancamento/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/invest/mercados/gta-6-pode-impulsionar-acao-da-take-two-veja-como-o-brasileiro-pode-investir/"
-          }
-        ],
-        "updatedAt": "2026-11-18T14:37:48.000Z"
-      },
-      {
-        "clusterId": "59030754157a8dc6",
-        "slug": "b5b144cbfa7d4961",
-        "titulo": "GTA VI arrecada mais de US$ 1,5 bilhão antes do lançamento",
-        "resumo": "O sexto título da série Grand Theft Auto já gerou mais de US$ 1,5 bilhão em pré-vendas, antes mesmo de ser disponibilizado ao público. O jogo será lançado para PlayStation 5 e Xbox Series X|S, 13 anos após o lançamento de GTA 5. No Xbox One, o acesso via nuvem está previsto para começar às 3h da manhã. A expectativa de vendas coloca o título entre os maiores lançamentos da história dos videogames.",
-        "porQueImporta": "O volume de pré-vendas demonstra a forte demanda e o potencial de impacto econômico do jogo.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/negocios/gta-vi-arrecada-mais-de-us-15-bilhao-antes-mesmo-de-ser-lancado/"
-          },
-          {
-            "name": "Exame",
-            "url": "https://exame.com/pop/que-horas-gta-6-sera-lancado-no-brasil-veja-quando-comecar-a-jogar/"
-          }
-        ],
-        "updatedAt": "2026-11-18T14:24:49.000Z"
-      },
-      {
-        "clusterId": "2b2999e159440b5b",
-        "slug": "ea064d7ae22a64b3",
-        "titulo": "Candidatura de Nikolas à presidência da Câmara gera controvérsia no PL",
-        "resumo": "O deputado Valdemar criticou a candidatura de Nikolas ao cargo de presidente da Câmara, chamando-a de ‘loucura’. Ele destacou que a iniciativa pode aprofundar a divisão interna do partido. A proposta de Nikolas já foi discutida em reunião da cúpula do PL, que pretende reunir novamente os membros para tentar reduzir a polarização.",
-        "porQueImporta": "A disputa pode afetar a estabilidade e a imagem do PL no cenário político nacional.",
-        "category": "economia",
-        "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/valdemar-diz-que-candidatura-de-nikolas-a-presidencia-da-camara-e-loucura/"
+            "url": "https://www.infomoney.com.br/consumo/dia-de-sorte-confira-o-resultado-do-concurso-1351-sorteado-nesta-quarta-18/"
           }
         ],
-        "updatedAt": "2026-11-18T16:47:46.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/07/2026-07-10T154411Z_1_LYNXMPEM690XR_RTROPTP_4_BRAZIL-POLITICS.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-11-19T00:46:04.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/l46o3SXNcrGQUDUrNYadOTTo4VY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/E/T0q0nKTE2TxkQ9rIZn6g/diadesorte-1351-eqqke.jpeg"
       },
       {
-        "clusterId": "7a37483adb2645ab",
+        "clusterId": "eab7634c6ae5aebf",
         "slug": "f12838b637289587",
         "titulo": "Mega-Sena concurso 3087 acumula prêmio para R$ 40 milhões",
         "resumo": "O sorteio da Mega-Sena, realizado em São Paulo na noite de 17 de novembro, não teve ganhadores na faixa principal, fazendo o prêmio de R$ 32,1 milhões acumular para R$ 40 milhões. Os números sorteados foram 06, 10, 23, 25, 48 e 50. Foram contabilizadas 53 apostas com cinco acertos, cada uma recebendo R$ 24.857,75, e 3.173 apostas com quatro acertos, cada uma recebendo R$ 593,15.",
@@ -591,32 +616,79 @@
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/se/sergipe/noticia/2026/11/18/mega-sena-3087-18-apostas-de-sergipe-acertam-a-quadra-veja-cidades-e-valores.ghtml"
+            "url": "https://g1.globo.com/loterias/dupla-sena/noticia/2026/11/18/dupla-sena-hoje-resultado-do-concurso-3034-e-numeros-sorteados.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/dupla-sena-3034-sorteia-hoje-18-11-r-14-milhoes-veja-resultado"
           }
         ],
-        "updatedAt": "2026-11-18T16:38:36.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/FSRywCledff_ZZFG-FL2gcJdDOA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/h/C/3qA0BiSgaB4sPtCtr7Xw/marcelo-camargo-agencia-brasil-mega.png"
+        "updatedAt": "2026-11-19T00:45:44.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/uviRoxBX-4_p7oF6Pk4PZu8S33w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/6/GyKlX1T2axvgDrAAMHGg/duplasena-3034-cibep.jpeg"
       },
       {
-        "clusterId": "46ccde48363a48a3",
-        "slug": "a91282a389304c58",
-        "titulo": "Advogadas exigem mulher negra para vaga de Barroso no STF",
-        "resumo": "Juristas negras, como Marina Silva, pressionam a indicação de uma mulher negra para a vaga de ministro do Supremo Tribunal Federal que ficará em aberto após a aposentadoria de ministro Barroso. A demanda faz parte de um debate mais amplo sobre a representatividade no tribunal. O movimento destaca a necessidade de diversidade de gênero e raça na Corte.",
-        "porQueImporta": "Garantir diversidade no STF pode influenciar decisões sobre direitos civis e igualdade racial.",
+        "clusterId": "a133fb05d6436e4f",
+        "slug": "61d914a8a0299a11",
+        "titulo": "Campeonato Brasileiro 35ª rodada reúne seis confrontos",
+        "resumo": "Na quarta-feira, 18 de novembro, seis partidas do Campeonato Brasileiro foram disputadas: Corinthians x Botafogo em São Paulo, Grêmio x Bahia em Porto Alegre, Cruzeiro x Palmeiras em Belo Horizonte, Flamengo x Athletico-PR no Rio de Janeiro, Remo x Chapecoense no Mangueirão e outro duelo em São Paulo. Cada jogo ocorreu em estádio próprio e contou com escalações divulgadas pela CNN Brasil. Os confrontos foram transmitidos em canais de TV e plataformas digitais, conforme informações das fontes.",
+        "porQueImporta": "Esses jogos decisivos podem influenciar posições de rebaixamento e classificação para a próxima fase do campeonato.",
         "category": "economia",
         "sources": [
           {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-x-botafogo-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/"
+          },
+          {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/politica/nao-nos-sentimos-representadas-marina-e-advogadas-cobram-mulher-negra-no-stf/"
+            "url": "https://www.infomoney.com.br/esportes/corinthians-botafogo-onde-assistir-brasileirao-2/"
           }
         ],
-        "updatedAt": "2026-11-18T16:36:40.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/11/2025-10-31T173426Z_1664582855_RC23NHALEHNY_RTRMADP_3_CLIMATE-COP30.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+        "updatedAt": "2026-11-18T23:35:41.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/11/thumb-corinthians-x-botafogo.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "a462a62d52702e76",
+        "slug": "8479a90567086553",
+        "titulo": "Tribunal de Abu Dhabi ordena bloqueio de criptomoedas roubadas da Binance",
+        "resumo": "O Tribunal do Mercado Global de Abu Dhabi emitiu ordem de bloqueio de US$ 6,5 bilhões de criptomoedas roubadas da Binance, impedindo sua movimentação. A decisão inclui notificação via blockchain e uma lista em constante atualização de endereços de carteiras identificadas como detentoras dos ativos. Empresas como Circle e World Liberty Financial também foram citadas na aplicação da medida.",
+        "porQueImporta": "A medida reforça a proteção de investidores e demonstra a capacidade dos tribunais de aplicar sanções em transações digitais.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/economia/money/negocios/emirados-arabes-ordenam-bloqueio-de-criptomoedas-roubadas-da-binance/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/future-of-money/tribunal-de-abu-dhabi-emite-ordem-de-bloqueio-de-us-65-bilhoes-por-ataque-a-binance/"
+          }
+        ],
+        "updatedAt": "2026-11-18T22:20:58.000Z"
+      },
+      {
+        "clusterId": "a6bf8694d4871867",
+        "slug": "0fcd1d34bbdacad3",
+        "titulo": "Dólar sobe a R$ 5,86 e Ibovespa cai 1,34%",
+        "resumo": "O dólar aumentou 1,46%, atingindo R$ 5,86, impulsionado por juros mais altos nos Estados Unidos. A alta do câmbio contribuiu para a queda do Ibovespa, que desceram 1,34%. A volatilidade no mercado foi alimentada por incertezas sobre o pacote fiscal no Senado e pela cautela em relação aos juros norte‑americanos.",
+        "porQueImporta": "A valorização do dólar e a queda do mercado acionário afetam o custo de importação e o apetite por risco dos investidores brasileiros.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/coluna/macro-intelligence/risco-fiscal-volta-ao-radar-bolsa-despenca-e-dolar-dispara-a-r-587/"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/invest/mercados/dolar-dispara-146-a-r-586-e-renova-maxima-em-19-meses/"
+          }
+        ],
+        "updatedAt": "2026-11-18T22:17:04.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2024/12/GettyImages-1231341708.jpg"
       }
     ],
     "mundo": [
       {
-        "clusterId": "9ff046e586af03e0",
+        "clusterId": "c5ddc450e760768f",
         "slug": "a9e6b53aba5b2d47",
         "titulo": "Reunião trilateral entre Trump, Xi e Putin na China",
         "resumo": "Os presidentes dos Estados Unidos, da China e da Rússia se reunirão em Shenzhen, durante a cúpula da APEC, para discutir temas como armas nucleares, sanções e a guerra na Ucrânia. A reunião, inédita entre os três chefes de Estado, será precedida por encontros bilaterais entre cada par de líderes. A China e os EUA pressionarão a Rússia a encerrar o conflito ucraniano, enquanto a Rússia buscará fortalecer sua posição global.",
@@ -624,55 +696,127 @@
         "category": "mundo",
         "sources": [
           {
-            "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c5vg2mrwyjr2o?at_medium=RSS&at_campaign=rss"
-          },
-          {
             "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/18/trump-tera-reuniao-a-sos-com-putin-na-china.ghtml"
+            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/18/donald-trump-xi-jinping-e-vladimir-putin-discutem-juntos-pela-1a-vez-o-futuro-das-guerras-do-comercio-e-da-tecnologia.ghtml"
           },
           {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/business/global/trump-xi-e-putin-apertam-as-maos-durante-encontro-de-lideres-na-china/"
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cvp86k97y0g8o?at_medium=RSS&at_campaign=rss"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/trump-tera-reuniao-a-sos-com-putin-durante-cupula-na-china/"
-          },
-          {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/cartaexpressa/xi-diz-a-trump-que-deseja-relacao-construtiva-e-estavel-com-eua/"
+            "name": "DW Brasil",
+            "url": "https://www.dw.com/pt-br/ucrânia-tarifas-e-irã-devem-pautar-encontro-inédito-entre-trump-xi-e-putin/a-79975529?maca=bra-rss-br-all-1030-rdf"
           }
         ],
-        "updatedAt": "2026-11-18T16:46:01.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b42/live/86178780-e36f-11f1-9f51-4bfc31543510.jpg"
+        "updatedAt": "2026-11-18T23:51:53.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/fi4PkniWR4ep4qlJcfl6d_d2RB8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/r/2oedkVRiWMhzK5BcBORw/globo-canal-4-20261118-2000-frame-68745.jpeg"
       },
       {
-        "clusterId": "0df21d12db170837",
-        "slug": "eb79d9c23d80e151",
-        "titulo": "EUA perdem certificado de eliminação do sarampo após 26 anos",
-        "resumo": "Os Estados Unidos perderam o status de país livre do sarampo após registrar mais de 5,4 mil casos e 10 mortes entre 2022 e 2023, o que indica transmissão contínua da mesma linhagem viral por mais de 12 meses. A Organização Pan-Americana da Saúde concluiu que a queda na cobertura vacinal e a disseminação de ideias antivacina contribuíram para o retrocesso. O México e a Bolívia também perderam o status de erradicação do sarampo.",
-        "porQueImporta": "O revés evidencia fragilidades na imunização e aumenta o risco de surtos futuros.",
+        "clusterId": "c64520a4836f2076",
+        "slug": "e311e99edac9b5b4",
+        "titulo": "Ponte que liga Crimeia à Rússia sofre danos após ataque ucraniano",
+        "resumo": "A ponte estratégica que conecta a Rússia ao território ocupado da Crimeia sofreu danos extensos após um ataque ucraniano. O presidente Volodymyr Zelensky descreveu a operação como sem precedentes. O ataque ocorreu enquanto a Rússia atacava outras infraestruturas na Ucrânia, incluindo pontes sobre o rio Dnipro. A queda da ponte representa uma interrupção significativa na logística e mobilidade entre os dois territórios.",
+        "porQueImporta": "A destruição da ponte pode limitar a movimentação militar e logística entre a Rússia e a Crimeia, afetando a dinâmica do conflito.",
         "category": "mundo",
         "sources": [
           {
             "name": "G1",
-            "url": "https://g1.globo.com/saude/noticia/2026/11/18/por-que-eua-perderam-certificado-de-eliminacao-do-sarampo-apos-26-anos.ghtml"
+            "url": "https://g1.globo.com/mundo/noticia/2026/11/18/enquanto-putin-se-reune-com-trump-e-xi-ucrania-ataca-ponte-da-crimeia-pela-terceira-vez-na-semana.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/zelensky-diz-que-ucrania-sera-informada-sobre-reunioes-de-trump-na-china/"
           },
           {
             "name": "DW Brasil",
-            "url": "https://www.dw.com/pt-br/como-o-sarampo-se-espalhou-até-virar-um-surto-nos-eua/a-79979773?maca=bra-rss-br-all-1030-rdf"
+            "url": "https://www.dw.com/pt-br/o-impacto-do-ataque-à-ponte-da-crimeia-na-guerra-na-ucrânia/a-79985782?maca=bra-rss-br-all-1030-rdf"
+          }
+        ],
+        "updatedAt": "2026-11-18T23:24:57.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/TVMjYzEd7sK-Y8x7gheyxj5hXM4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/C/tTd4xHSL6PvgzRiW7PZQ/afp-20261117-d7pr463-v1-highres-ukrainerussiaconflictwar.jpg"
+      },
+      {
+        "clusterId": "63bdc022a4d6ac60",
+        "slug": "af86e87a647dee5a",
+        "titulo": "Familiares de Suzane von Richthofen citados em tese da USP e em documentário geram repercussão",
+        "resumo": "A tese de doutorado da USP de Andreas von Richthofen menciona os familiares da família von Richthofen, incluindo o irmão de Suzane, que é formado em farmácia e bioquímica. A BBC Brasil destaca que a sociedade se sente traída por Suzane, conforme a consultora de documentário Ilana Casoy, que participou da investigação e do julgamento. O filme produzido por Casoy sobre Suzane provocou reações acaloradas nas redes sociais.",
+        "porQueImporta": "O caso continua a influenciar a percepção pública e a discussão sobre justiça e mídia.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/brasil/os-familiares-citados-por-andreas-von-richthofen-em-agradecimentos-de-tese-da-usp/"
           },
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/cq78258y8np9o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/articles/c60mdv3k3wdpo?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-11-18T16:04:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/ANdp_sGPoPK6q0lvOZvME5Fal_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/g/jBrEJQSJaZNpwvnO8cAg/sarampo-ok.jpeg"
+        "updatedAt": "2026-11-19T01:15:15.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2017/06/andreas-richthofen-2017.jpg"
       },
       {
-        "clusterId": "b11cb386f6dc2407",
+        "clusterId": "376c5e6225b08b81",
+        "slug": "017cf8e167dabe1a",
+        "titulo": "EUA e Venezuela firmam acordo de cooperação militar",
+        "resumo": "O secretário de Defesa dos Estados Unidos, Pete Hegseth, visitou Caracas e assinou com a presidente interina Delcy Rodríguez um acordo para restabelecer a parceria militar entre os países, incluindo treinamento e troca de informações de inteligência. A reunião ocorreu no Palácio Miraflores, marcando a retomada das relações de defesa após anos de distanciamento.",
+        "porQueImporta": "Reestabelece a cooperação militar entre os dois países, alterando o cenário geopolítico da região.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/18/eua-anunciam-acordo-de-nova-parceria-militar-com-a-venezuela.ghtml"
+          },
+          {
+            "name": "DW Brasil",
+            "url": "https://www.dw.com/pt-br/eua-e-venezuela-assinam-acordo-de-cooperação-militar/a-79986275?maca=bra-rss-br-all-1030-rdf"
+          }
+        ],
+        "updatedAt": "2026-11-19T00:30:34.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/6RNWpKZyhhmlLFaRW9I9_SM_iKw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/U/sC32HvSIOrRgBJ5nsntg/globo-canal-4-20261118-2000-frame-87278.jpeg"
+      },
+      {
+        "clusterId": "f962834a0c27bf04",
+        "slug": "7729017a2579247d",
+        "titulo": "EUA atacam base iraniana na ilha de Qeshm",
+        "resumo": "Os Estados Unidos lançaram um ataque contra uma instalação de drones e mísseis iranianos na ilha de Qeshm, no sul do Irã, na madrugada de 17 de maio de 2026. O Irã alegou ter atacado instalações militares dos EUA no Kuwait em retaliação. Washington afirmou que nenhum militar americano ficou ferido no ataque. O incidente marca o retorno de operações militares dos EUA contra o Irã após uma pausa durante as eleições de meio de mandato norte‑americanas.",
+        "porQueImporta": "O ataque intensifica a tensão entre os EUA e o Irã e pode afetar a estabilidade regional.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/internacional/eua-afirmam-que-nenhum-militar-americano-ficou-ferido-em-ataques-do-ira/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/mundo/noticia/2026/11/17/eua-atacam-ilha-do-ira.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-18T22:30:25.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/Q56O6yX3VwbPTkP7GrOmkuBFbTA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/U/Dy1peoRvuTrM2u9C1s6g/2026-05-04t113925z-876232139-rc292la4s4tk-rtrmadp-3-iran-crisis-daily-life.jpg"
+      },
+      {
+        "clusterId": "8233adb40a14005d",
+        "slug": "82c64a7658304df7",
+        "titulo": "Christie's suspende leilão de pintura de Frida Kahlo",
+        "resumo": "A Christie's cancelou o leilão de \"Congreso de los pueblos por la paz\", obra de 1952 de Frida Kahlo, que estava programada para ser vendida nos Estados Unidos. O cancelamento ocorreu após o governo mexicano questionar a forma como a pintura foi retirada da Casa Azul, museu dedicado à artista na Cidade do México. A obra é considerada monumento artístico pelo México desde 1984 e sua exportação é proibida. A suspensão do leilão reflete a disputa sobre a legalidade e a proteção do patrimônio artístico latino‑americano.",
+        "porQueImporta": "A decisão destaca a tensão entre instituições de arte internacionais e a legislação de proteção cultural do México.",
+        "category": "mundo",
+        "sources": [
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/cultura/suspensao-de-leilao-frida-kahlo-expoe-disputa-maior-sobre-patrimonio-artistico-latino-americano/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/noticia/2026/11/18/mexico-suspende-leilao-de-obra-de-frida-kahlo-nos-estados-unidos.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-18T22:01:14.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-18-182602.png"
+      },
+      {
+        "clusterId": "bfafa1d98badb4a3",
         "slug": "bd320c41bc70c791",
         "titulo": "Julio Iglesias enfrenta investigação por denúncias de agressão sexual",
         "resumo": "O tribunal espanhol abriu investigação contra o cantor Julio Iglesias após denúncias de agressão sexual e maus-tratos feitas por duas ex-funcionárias que trabalharam em suas propriedades nas Bahamas e na República Dominicana. As mulheres apresentaram a primeira denúncia em janeiro, mas o caso foi arquivado pela Justiça espanhola por falta de competência. Em 2021, as alegações foram renovadas, levando à nova investigação.",
@@ -680,155 +824,65 @@
         "category": "mundo",
         "sources": [
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/celebridades/julio-iglesias-e-investigado-apos-denuncias-de-crimes-sexuais-e-agressao/"
+            "name": "DW Brasil",
+            "url": "https://www.dw.com/pt-br/espanha-abre-investigação-por-abuso-sexual-contra-julio-iglesias/a-79984040?maca=bra-rss-br-all-1030-rdf"
           },
           {
             "name": "G1",
             "url": "https://g1.globo.com/pop-arte/noticia/2026/11/18/tribunal-espanhol-abre-investigacao-contra-julio-iglesias-apos-denuncias-de-agressao-sexual.ghtml"
           }
         ],
-        "updatedAt": "2026-11-18T16:03:16.000Z",
+        "updatedAt": "2026-11-18T16:51:00.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/tIiDXx6iQ3_yfekipxbveLXXb94=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/x/G/Am4qaxTv6vly6kIePUfg/ap19191530339360.jpg"
       },
       {
-        "clusterId": "d877313e3be97c82",
-        "slug": "34daf6c609387f81",
-        "titulo": "Bebê de 5 meses recebe bênção do Papa Leão XIV no Vaticano",
-        "resumo": "O filho do vice-governador eleito do Piauí, Washington Bandeira, compartilhou nas redes sociais que seu filho, Pedro Victor, de 5 meses, recebeu a bênção do Papa Leão XIV na Praça São Pedro, no Vaticano. A criança completará 1 ano na próxima semana. O momento foi descrito como marcante pela família. O evento ocorreu durante a visita do papa à América do Sul.",
-        "porQueImporta": "Ilustra a presença do Papa em eventos familiares e sua interação com a comunidade internacional.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "Metrópoles",
-            "url": "https://www.metropoles.com/mundo/papinha-bebe-5-meses-vestido-como-papa-encanta-leao-xiv-vaticano"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pi/piaui/noticia/2026/11/18/video-filho-vice-governador-eleito-pi-bencao-papa.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-18T16:00:58.000Z",
-        "imageUrl": "https://images.metroimg.com/2026/11/papa-e-papinha.jpg"
-      },
-      {
-        "clusterId": "6852a4513accbbd0",
-        "slug": "088f7abdbb065765",
-        "titulo": "Presidente do México participa de cúpula da APEC em Shenzhen",
-        "resumo": "Claudia Sheinbaum compareceu à reunião da APEC em Shenzhen, na China, e relatou que viajou em um voo comercial para o evento. Durante a viagem, ela compartilhou um vídeo em seu perfil no X, enquanto usuários no Weibo elogiaram sua escolha de transporte. A presença da presidente mexicana na cúpula visa fortalecer relações comerciais entre México e China.",
-        "porQueImporta": "A participação demonstra o compromisso do México em estreitar laços econômicos com a China, um parceiro estratégico na região.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/internacional/presidente-do-mexico-diz-que-negociacoes-comerciais-com-trump-avancaram/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mundo/noticia/2026/11/18/presidente-do-mexico-viraliza-na-china-apos-viajar-para-cupula-da-apec-em-voo-comercial.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-18T15:19:50.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/vHwtY_KeidxX8AfTSXE1GwSWm7w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/N/bYM0aYS7CgEEB30GZ8Ew/mixcollage-18-nov-2026-12-02-pm-2243.jpg"
-      },
-      {
-        "clusterId": "61c1c22dc15ba98e",
-        "slug": "dc0e9f7a5f22e9e8",
-        "titulo": "Movimentos buscam resgatar origem negra de ícones históricos",
-        "resumo": "Estudiosos e ativistas têm investigado a ascendência africana de personalidades como Machado de Assis, Chiquinha Gonzaga e Nilo Peçanha. A pesquisa envolve análise de documentos, genealogia e estudos culturais. Os resultados têm sido divulgados em artigos, entrevistas e eventos públicos. A iniciativa visa reconhecer a contribuição negra na formação da cultura brasileira.",
-        "porQueImporta": "Reconhecer a origem negra desses ícones amplia a compreensão da história e valoriza a diversidade cultural do país.",
+        "clusterId": "b4ec0d6ed34deae5",
+        "slug": "986311404f93306c",
+        "titulo": "Disco de ouro das sondas Voyager contém sons e imagens da Terra",
+        "resumo": "As sondas Voyager, lançadas em 1977, transportam um disco banhado a ouro que inclui gravações de sons, músicas e imagens representando a vida na Terra. O disco foi criado pela NASA como uma mensagem para possíveis civilizações extraterrestres. Ele contém informações sobre a diversidade cultural e natural do planeta. O conteúdo foi projetado para ser compreendido por qualquer forma de vida inteligente que possa encontrá-lo.",
+        "porQueImporta": "O disco representa um esforço da humanidade para comunicar sua existência e cultura a outras formas de vida no universo.",
         "category": "mundo",
         "sources": [
           {
             "name": "BBC Brasil",
-            "url": "https://www.bbc.com/portuguese/articles/c9y7rgx8k033o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.com/portuguese/watch/cjg4650491d1o?at_medium=RSS&at_campaign=rss"
           }
         ],
-        "updatedAt": "2026-11-18T16:47:14.000Z",
-        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e664/live/b80ad270-c583-11f0-9fb5-5f3a3703a365.png"
-      },
-      {
-        "clusterId": "04752f2e6746b3ca",
-        "slug": "c90b0f4b74d5753c",
-        "titulo": "Putin propõe evacuação de Kostiantynivka como estratégia militar",
-        "resumo": "O líder russo sugeriu a evacuação de Kostiantynivka, no leste da Ucrânia, citando a operação em Oleshky como exemplo. Zelensky respondeu que a proposta facilitaria o controle da cidade pela Rússia. A discussão destaca a possibilidade de missões humanitárias serem usadas como táticas militares.",
-        "porQueImporta": "A proposta pode alterar a dinâmica de controle territorial na região.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "DW Brasil",
-            "url": "https://www.dw.com/pt-br/missões-humanitárias-na-ucrânia-são-armadilhas-militares-de-putin/a-79981295?maca=bra-rss-br-all-1030-rdf"
-          }
-        ],
-        "updatedAt": "2026-11-18T16:34:00.000Z"
-      },
-      {
-        "clusterId": "e755010c6bf34517",
-        "slug": "7c91c7090e7eb5e7",
-        "titulo": "Desabamento em BH e turbulência em voo JetBlue causam feridos",
-        "resumo": "Um desabamento de laje no bairro Vera Cruz, em Belo Horizonte, deixou três operários feridos com fraturas, mas em estado estável após resgate. Em voo 1717 da JetBlue, entre Porto Rico e Fort Lauderdale, cinco passageiros ficaram feridos pela turbulência, mas não precisaram de hospitalização. Ambos os incidentes foram atendidos pelo Corpo de Bombeiros.",
-        "porQueImporta": "Ilustra a necessidade de segurança em construções e na aviação, destacando a atuação rápida das equipes de resgate.",
-        "category": "mundo",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/18/desabamento-deixa-feridos-em-bh-diz-corpo-de-bombeiros.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-18T16:03:37.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/h8ju_aDZU3HbNMGdpCtCz2V9UkA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/7/GjYc7pR52Btjd8LUex7g/novo-projeto-2-.jpg"
+        "updatedAt": "2026-11-18T22:17:13.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c47/live/413b68f0-e399-11f1-99a1-253766e7ad8b.png"
       }
     ],
     "tecnologia": [
       {
-        "clusterId": "75040c50283cb7d4",
-        "slug": "06afbb7e4da946ed",
-        "titulo": "Empresa brasileira oferece GTA 6 a funcionários e concede folga remunerada",
-        "resumo": "A Nuuvem distribuiu o jogo GTA 6 para seus 86 colaboradores como reconhecimento pelo trabalho no lançamento. A Atlas Technologies, do Rio Grande do Sul, concedeu cinco horas de folga remunerada para que os funcionários assistissem à estreia do título. Paralelamente, o hacker Arion Kurtaj, responsável por vazamentos de vídeos do jogo, declarou culpa em relação ao incidente.",
-        "porQueImporta": "Mostra como empresas incentivam a equipe e destaca a atenção à segurança em lançamentos de grande porte.",
+        "clusterId": "1397c11423baca27",
+        "slug": "78b2585316f69e6b",
+        "titulo": "Seis apostas de Mato Grosso acertam 14 números na Lotofácil 3833",
+        "resumo": "No concurso 3833 da Lotofácil, realizado em 18 de novembro, seis apostas simples de Mato Grosso acertaram 14 das 15 dezenas e receberam R$ 2.093,27 cada. As apostas foram registradas em cinco cidades: Campo Novo do Parecis, Cuiabá, Lucas do Rio Verde, Pedra Preta e Rondonópolis, sendo que uma lotérica em Cuiabá teve dois jogos premiados. Em todo o país, 385 apostas ganharam o mesmo valor ao acertar 14 números.",
+        "porQueImporta": "Ilustra a distribuição de prêmios e a participação regional no jogo da loteria.",
         "category": "tecnologia",
         "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/18/games-e-consoles/gta-6-nuuvem-presenteia-86-funcionarios-jogo/"
-          },
-          {
-            "name": "DW Brasil",
-            "url": "https://www.dw.com/pt-br/por-que-gta-6-é-mais-do-que-apenas-um-jogo/a-79979551?maca=bra-rss-br-all-1030-rdf"
-          },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/games/noticia/2026/11/16/as-vesperas-de-gta-vi-hacker-responsavel-por-vazamento-do-jogo-se-declara-culpado.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-18T16:00:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/MIcKhULr7IJVuSk1Q3MMlOxgDl8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/X/k07L7AQYGyqDGqfZlPpg/imagem-1200px-3-.jpg"
-      },
-      {
-        "clusterId": "aca822fac86773e6",
-        "slug": "dd5089ec7a72a2c8",
-        "titulo": "IPO da Anthropic atrai volume recorde de pequenos investidores",
-        "resumo": "A Anthropic abriu capital na Nasdaq com avaliação projetada de US$ 1,4 trilhão, 40 vezes suas vendas anuais. O IPO registrou cerca de US$ 250 milhões em compras líquidas de pequenos investidores no primeiro dia. Investidores expressaram preocupação com regras de negociação de ações e juros elevados. O volume recorde demonstra forte interesse do público em participar do mercado de IA.",
-        "porQueImporta": "O sucesso do IPO reflete a crescente atenção e investimento em tecnologias de inteligência artificial.",
-        "category": "tecnologia",
-        "sources": [
+            "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/18/lotofacil-3833-seis-apostas-de-mt-acertam-14-numeros-e-ganham-r-2-mil.ghtml"
+          },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/mercado/como-o-ipo-da-anthropic-se-compara-ao-da-spacex/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/brasil/confira-o-resultado-da-lotofacil-3833-sorteada-hoje-18-11"
           },
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/18/pro/ipo-da-anthropic-atrai-volume-recorde-de-pequenos-investidores/"
+            "url": "https://olhardigital.com.br/2026/11/18/internet-e-redes-sociais/resultado-da-lotofacil-de-hoje-veja-numeros-e-ganhadores-do-concurso-3833-quarta-18-11/"
           }
         ],
-        "updatedAt": "2026-11-18T16:28:52.000Z"
+        "updatedAt": "2026-11-19T00:44:56.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/bx77Bvf7OUj0LB_0AVRAt8Nhcvw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/k/XjWWbsSw2eKWY4E5RBsA/edicao-imagens-g1-11-.png"
       },
       {
-        "clusterId": "5c7de624898d54cd",
-        "slug": "006af206abe07275",
-        "titulo": "Motorola confirma lançamento do Edge 70 Neo em 24 de novembro",
-        "resumo": "A Motorola anunciou que o novo smartphone Edge 70 Neo será lançado em 24 de novembro, três dias antes da Black Friday, com foco inicial na Índia. O aparelho conta com bateria de 7.000 mAh, prometendo até 53 horas de autonomia, e suporte ao carregamento rápido TurboPower de 45 W. A divulgação das especificações já foi feita em página promocional da varejista Flipkart.",
-        "porQueImporta": "O lançamento antecipado pode influenciar as escolhas de consumidores que buscam ofertas na Black Friday.",
+        "clusterId": "236c1001e4c2ce92",
+        "slug": "d321d6344dc4d6f9",
+        "titulo": "Motorola anuncia lançamento do Edge 70 Neo antes da Black Friday",
+        "resumo": "A Motorola confirmou que o Edge 70 Neo será lançado em 24 de novembro, três dias antes da Black Friday, com apresentação inicial na Índia. O aparelho contará com bateria de 7.000 mAh, capaz de oferecer até 53 horas de uso, e carregamento rápido TurboPower de 45 W. As especificações principais já foram divulgadas em página promocional da varejista Flipkart. O lançamento visa atender à demanda por celulares intermediários com boa autonomia e desempenho equilibrado.",
+        "porQueImporta": "O anúncio indica que a Motorola está focada em oferecer um modelo com bateria de longa duração e carregamento rápido, atendendo à crescente procura por dispositivos intermediários na temporada de compras.",
         "category": "tecnologia",
         "sources": [
           {
@@ -844,98 +898,107 @@
         "imageUrl": "https://tl.ctcdn.com.br/GLBYwq4cfue9wgIwxaERLYjrXaw=/0x0/filters:format(webp):quality(85)/0f8bba0e-2313-4f37-b084-f527c8e2dd57.png"
       },
       {
-        "clusterId": "d0d81dbba9002f81",
-        "slug": "ac76b94bdfcd4141",
-        "titulo": "Claro aceita celulares quebrados em suas lojas",
-        "resumo": "A operadora Claro mantém o programa Claro Recicla, que aceita celulares antigos, quebrados ou sem uso em mais de 2 mil lojas próprias e agentes autorizados no Brasil. O serviço, em funcionamento desde 2008, também recebe baterias recarregáveis, chips, pilhas, acessórios, fones de ouvido, smartwatches, tablets e câmeras digitais. A iniciativa visa reduzir resíduos eletrônicos e promover a reciclagem.",
-        "porQueImporta": "Facilita a destinação correta de dispositivos eletrônicos e contribui para a sustentabilidade ambiental.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/smartphone/celular-quebrado-claro-recebe-aparelhos-ate-de-quem-nao-e-cliente/"
-          }
-        ],
-        "updatedAt": "2026-11-18T16:49:20.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/3TQffKLPguuu1up4OZytxLauqM0=/0x0/filters:format(webp):quality(85)/9ef6938f-d9d3-4248-a2cb-04ba6552e2e4.jpg"
-      },
-      {
-        "clusterId": "ba959f74c3269dda",
-        "slug": "451a1eabc26897f5",
-        "titulo": "Vivo avalia compra da Vero por R$ 6,2 bi",
-        "resumo": "A Telefônica Brasil, dona da Vivo, está em negociações para adquirir a operadora de fibra óptica Vero, com valor estimado em 1 bilhão de euros (aproximadamente R$ 6,2 bilhões). A aquisição ampliaria a presença da Vivo no Sul e no Sudeste do Brasil, aproximando-a da líder de mercado, a Claro. O principal ponto de discussão entre as partes é o valor da operação.",
-        "porQueImporta": "A compra pode intensificar a competição na banda larga fixa no país.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/telecom/vivo-pode-comprar-operadora-por-r-62-bi-para-acirrar-disputa-com-claro/"
-          }
-        ],
-        "updatedAt": "2026-11-18T16:12:25.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/GJoxgCL8D6hylfRlgzeXykrORs0=/0x0/filters:format(webp):quality(85)/15e9872e-6d40-48b2-8c13-ad6ecc598916.jpg"
-      },
-      {
-        "clusterId": "288a7020d2ea3f91",
-        "slug": "a0136f67bae2f39d",
-        "titulo": "Amazon oferece promoções em RAM DDR5, mouses gamer sem fio, monitores e notebooks",
-        "resumo": "A Amazon disponibiliza descontos em diversos itens para quem busca melhorar seu setup. Entre as promoções estão memórias RAM DDR5 de 8GB e 16GB, mouses gamer sem fio com múltiplos botões programáveis e sensores de alta precisão, monitores gamer com painel IPS e 144Hz, além de notebooks e acessórios como ultrabooks e dispositivos de entrada. As ofertas abrangem diferentes perfis de uso, desde gamers até profissionais que precisam de desempenho e mobilidade.",
-        "porQueImporta": "Essas promoções permitem atualizar equipamentos de forma econômica, beneficiando usuários que desejam melhorar desempenho e experiência de uso.",
+        "clusterId": "2cd06fd720da8784",
+        "slug": "95cf051939201131",
+        "titulo": "Google lança Gemini 4 Neon, nova IA para programação e análise",
+        "resumo": "O Google lançou o Gemini 4 Neon, uma inteligência artificial focada em programação e análise de dados. A ferramenta pode processar diferentes formatos de informação em uma única solicitação e foi projetada para executar tarefas extensas. O Gemini 4 Neon representa uma evolução na capacidade de IA do Google em lidar com trabalhos complexos e longos.",
+        "porQueImporta": "A nova IA pode acelerar o desenvolvimento de software e a análise de dados em ambientes corporativos.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/18/reviews/memoria-ram-com-ddr5-selecionamos-as-melhores-opcoes-em-promocao-na-amazon/"
+            "url": "https://olhardigital.com.br/2026/11/18/inteligencia-artificial/gemini-4-neon-conheca-a-nova-ia-do-google-para-programacao-e-analise/"
           }
         ],
-        "updatedAt": "2026-11-18T16:09:39.000Z"
+        "updatedAt": "2026-11-19T00:45:29.000Z"
       },
       {
-        "clusterId": "c46e4d080f44deed",
-        "slug": "ee14503236229775",
-        "titulo": "WhatsApp testa backup próprio sem Google Drive e iCloud",
-        "resumo": "O WhatsApp iniciou testes de uma solução própria de armazenamento em nuvem para backups de conversas, disponível nas versões beta para Android e iOS. A versão gratuita oferece apenas 2 GB de espaço, insuficiente para históricos extensos. Usuários que precisarem de mais capacidade podem optar pelo WhatsApp Plus, que disponibiliza 100 GB de armazenamento.",
-        "porQueImporta": "Permite que usuários façam backup sem depender de serviços de terceiros, mas limitações de espaço podem afetar a confiabilidade do recurso.",
+        "clusterId": "a3877c396ccc3ebe",
+        "slug": "e4989a1b4fa03056",
+        "titulo": "Resultado da Quina do concurso 7171",
+        "resumo": "O concurso 7171 da Quina foi realizado em São Paulo, com prêmio de R$ 503,1 mil. Foram sorteados cinco números que premiaram os participantes. O resultado está disponível para consulta e os ganhadores podem resgatar seus prêmios conforme instruções do órgão responsável.",
+        "porQueImporta": "Informa aos interessados o resultado e o valor do prêmio, possibilitando o resgate dos ganhos.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/11/18/internet-e-redes-sociais/resultado-da-quina-de-hoje-veja-numeros-e-ganhadores-do-concurso-7171-quarta-18-11/"
+          }
+        ],
+        "updatedAt": "2026-11-18T23:40:00.000Z"
+      },
+      {
+        "clusterId": "0cad581b382b8c0c",
+        "slug": "a5c83a35b9160cdf",
+        "titulo": "Um terço dos jovens já usa IA como amigo",
+        "resumo": "Estudo da Gallup e do Laboratório de Bem-Estar Digital do Hospital Infantil de Boston mostra que 33% dos jovens de 15 a 22 anos usam assistente de IA como companheiro online. A pesquisa, realizada em 14 países, inclui o Brasil, onde 49% dos entrevistados têm amizades exclusivamente virtuais. O estudo destaca que o uso de IA aumenta em 70% o risco de solidão entre os jovens.",
+        "porQueImporta": "Indica que a interação com IA pode afetar o bem‑estar social dos jovens.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/apps/whatsapp-testa-backup-proprio-sem-google-drive-e-icloud-mas-ha-uma-grande-limitacao/"
+            "url": "https://canaltech.com.br/inteligencia-artificial/um-terco-dos-jovens-ja-usa-ia-como-amigo-estudo-aponta-70-mais-risco-de-solidao/"
           }
         ],
-        "updatedAt": "2026-11-18T16:05:04.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/eBGyIorpMvcC0ceoMAx1nVjBSiU=/0x0/filters:format(webp):quality(85)/b27a1b8b-1ba4-4f8c-9ba8-13ca2a014e74.webp"
+        "updatedAt": "2026-11-18T22:03:00.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/j6S0md4xF0orJk9wsNCmtjII1G0=/0x0/filters:format(webp):quality(85)/951ba2b0-05a9-4d99-b31c-2c49bdf170b6.png"
       },
       {
-        "clusterId": "61e56cc0818b6fc2",
-        "slug": "1d631fec250ef9bd",
-        "titulo": "Ford convoca recall urgente para a Ranger no Brasil",
-        "resumo": "A Ford lançou uma campanha de recall para a picape Ranger, abrangendo unidades de quatro versões fabricadas em 2026 e 2027. O recall é válido em todo o território brasileiro e depende da numeração do chassi e do período de fabricação. Proprietários devem verificar a situação de seus veículos nos canais oficiais da marca. O serviço de reparo será gratuito, mas o atendimento nas concessionárias está previsto para datas futuras.",
-        "porQueImporta": "O recall pode afetar a segurança e a confiabilidade das unidades da Ranger no país.",
+        "clusterId": "cce8573aaa53420d",
+        "slug": "461aff1892523b2b",
+        "titulo": "PlayStation Network apresenta falhas horas antes da estreia de GTA VI",
+        "resumo": "O PlayStation Network registrou falhas técnicas na véspera da estreia de GTA VI, um dos jogos mais aguardados. Os problemas afetaram usuários que tentavam acessar a plataforma para comprar ou baixar o título. A falha ocorreu em horário de pico, gerando reclamações nas redes sociais. A Sony ainda não divulgou detalhes sobre a causa ou solução.",
+        "porQueImporta": "Impacta a experiência de compra e jogo de milhões de usuários que esperavam o lançamento.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/11/18/games-e-consoles/playstation-network-apresenta-falhas-horas-antes-da-estreia-de-gta-vi/"
+          }
+        ],
+        "updatedAt": "2026-11-18T21:28:48.000Z"
+      },
+      {
+        "clusterId": "462c3ae818cd3c06",
+        "slug": "0bf258c4a429e04c",
+        "titulo": "Rockstar afirma que PS5 Pro não é potente o suficiente para rodar GTA 6 a 60 FPS",
+        "resumo": "A Rockstar confirmou que o PS5 Pro, o console mais potente da atual geração, não consegue executar GTA 6 a 60 quadros por segundo. O problema não está na GPU, mas no processador do console, segundo Marc Chambers, responsável pela Produção Tecnológica da Rockstar. A limitação de desempenho foi apontada em entrevista ao portal Push Square.",
+        "porQueImporta": "Isso afeta a experiência de jogadores que esperam desempenho máximo em títulos de grande porte.",
         "category": "tecnologia",
         "sources": [
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/carros/ford-convoca-recall-urgente-para-a-ranger-saiba-o-motivo/"
+            "url": "https://canaltech.com.br/games/rockstar-confirma-que-ps5-pro-nao-e-potente-o-suficiente-para-rodar-gta-6-a-60-fps/"
           }
         ],
-        "updatedAt": "2026-11-18T16:02:00.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/kVB1UpZA7iQYRD8-QamOhpv5buM=/0x0/filters:format(webp):quality(85)/653089aa-402d-44cf-95e9-571ed2183638.jpg"
+        "updatedAt": "2026-11-18T21:06:00.000Z"
+      },
+      {
+        "clusterId": "5aad54918e7c6fcf",
+        "slug": "6f716c5cbdfa6046",
+        "titulo": "Google lança função do Gemini Notebook que gera sites interativos a partir de anotações",
+        "resumo": "O Gemini Notebook agora permite transformar anotações, documentos e materiais de estudo em sites interativos com gráficos, linhas do tempo e tabelas, sem necessidade de programação. A novidade foi anunciada em 16 de maio e está disponível para usuários com 18 anos ou mais, incluindo assinantes do Google Workspace. Inicialmente, o recurso funciona apenas na versão web do Gemini Notebook.",
+        "porQueImporta": "Facilita a visualização e compartilhamento de conteúdo de estudo de forma automatizada.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/apps/gemini-notebook-cria-sites-interativos-de-estudo-a-partir-das-suas-anotacoes-e-livros/"
+          }
+        ],
+        "updatedAt": "2026-11-18T21:02:01.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/xvW2YLzmtmoFQJZMv-D7JV0S-Q0=/0x0/filters:format(webp):quality(85)/09dd1772-fc5b-44d8-abf6-7e1da1b90914.png"
       }
     ],
     "ciencia": [
       {
-        "clusterId": "f7b7761303d3bad1",
+        "clusterId": "d9af3806f83d886c",
         "slug": "4cbe44501e29ffb9",
         "titulo": "Voyager 1 alcançará distância de um dia-luz da Terra",
         "resumo": "A sonda Voyager 1 da NASA atingirá, nesta quarta-feira, a distância de um dia-luz da Terra, equivalente a cerca de 26 bilhões de quilômetros. O marco será registrado às 7h16min07s, horário de Brasília. A Voyager 1 tem viajado por quase meio século, sendo a primeira construção humana a alcançar essa distância.",
         "porQueImporta": "Demonstrar a extensão da exploração espacial e o avanço tecnológico da NASA.",
         "category": "ciencia",
         "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/ciencia/um-dia-luz-da-terra-o-recorde-alcancado-pela-sonda-voyager-1/"
-          },
           {
             "name": "DW Brasil",
             "url": "https://www.dw.com/pt-br/sonda-voyager-1-da-nasa-atinge-marco-histórico-de-um-dia-luz-de-distância-da-terra/a-79972287?maca=bra-rss-br-all-1030-rdf"
@@ -949,123 +1012,183 @@
             "url": "https://super.abril.com.br/ciencia/sonda-voyager-1-da-nasa-ficara-a-um-dia-luz-da-terra-distancia-inedita-para-um-objeto-humano/"
           }
         ],
-        "updatedAt": "2026-11-18T15:52:20.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg"
+        "updatedAt": "2026-11-18T14:55:00.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/CPx6b5DO1HbO3evhP1ioQZ1XkZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/i/k/3fA5nJS2KPwLmTWDwe9g/voyager-1-em-uma-ilustracao-artistica.jpg"
       },
       {
-        "clusterId": "d2f54b2c4169314a",
-        "slug": "4a7b6da5272a1210",
-        "titulo": "Projeto da USP aproxima estudantes de escolas públicas do ambiente universitário",
-        "resumo": "A Faculdade de Ciências Farmacêuticas de Ribeirão Preto lançou uma iniciativa que utiliza música e oficinas de percussão para envolver estudantes de escolas públicas. O programa busca promover inclusão, cidadania e incentivar a continuidade dos estudos. Os participantes têm acesso a atividades culturais dentro do campus universitário, ampliando seu contato com o ambiente acadêmico.",
-        "porQueImporta": "O projeto contribui para reduzir desigualdades educacionais e ampliar oportunidades de aprendizado para jovens de escolas públicas.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/projeto-da-usp-aproxima-estudantes-de-escolas-publicas-do-ambiente-universitario/"
-          }
-        ],
-        "updatedAt": "2026-11-18T15:17:09.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/20171023_00_FCFRP.jpg"
-      },
-      {
-        "clusterId": "6f8b10178c581a85",
-        "slug": "c752453621555111",
-        "titulo": "Vinho brasileiro ganha popularidade e busca espaço no mercado",
-        "resumo": "O consumo de vinho no Brasil tem aumentado significativamente, refletindo uma mudança nos hábitos de consumo. Vinícolas nacionais estão investindo em qualidade e marketing para competir com importados. O crescimento do mercado oferece oportunidades para produtores locais e diversifica a oferta de bebidas.",
-        "porQueImporta": "O aumento do consumo de vinho brasileiro indica crescimento econômico e potencial de exportação para a indústria vinícola nacional.",
+        "clusterId": "192e66fd6fae5069",
+        "slug": "5775543581970559",
+        "titulo": "INPE alerta contra banho em tempestade com raios",
+        "resumo": "O Instituto Nacional de Pesquisas Espaciais (INPE) recomenda que pessoas evitem atividades que envolvam eletricidade ou encanamento durante tempestades. Tomar banho pode aumentar o risco de choques elétricos devido à condução de eletricidade pela água. A orientação visa prevenir acidentes e proteger a saúde pública.",
+        "porQueImporta": "Prevenir choques elétricos e acidentes durante tempestades.",
         "category": "ciencia",
         "sources": [
           {
             "name": "Super Interessante",
-            "url": "https://super.abril.com.br/sociedade/a-hora-e-a-vez-do-vinho-brasileiro/"
+            "url": "https://super.abril.com.br/ciencia/e-mesmo-perigoso-tomar-banho-durante-um-temporal-com-raios/"
           }
         ],
-        "updatedAt": "2026-11-18T15:15:16.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_Vinhos_Brasileiros.jpg"
+        "updatedAt": "2026-11-18T23:00:15.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_e-mesmo-perigoso-banho-durante-temporal-raios_site.jpg"
       },
       {
-        "clusterId": "61b373b0c38345a8",
-        "slug": "401412316e27fce6",
-        "titulo": "Exposição no Centro MariAntonia aborda papel da sociedade civil na ditadura militar",
-        "resumo": "A exposição reúne obras que partem da política e questionam símbolos de autoridade, explorando o papel da sociedade civil durante o regime militar. O evento, realizado no Centro MariAntonia, destaca a influência da comunidade na resistência e na memória do período. As peças apresentam perspectivas críticas sobre a autoridade e a participação popular. A mostra oferece um panorama histórico e cultural da época.",
-        "porQueImporta": "Permite compreender como a sociedade civil contribuiu para a resistência e a preservação da memória do regime militar.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/cadernodecultura/exposicao-sobre-ditadura-militar-explora-papel-da-sociedade-civil-durante-o-regime/"
-          }
-        ],
-        "updatedAt": "2026-11-18T14:50:29.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/11/jornal-da-usp-1200-x-630-equemeesquecamcolorido-1024x538.jpg"
-      },
-      {
-        "clusterId": "813e15ec7f2a2f74",
-        "slug": "c4a43cce393da342",
-        "titulo": "Alunos da USP garantem vaga na final latino-americana da Maratona de Programação",
-        "resumo": "A equipe da Universidade de São Paulo ficou em 16º lugar na Final Nacional da Maratona de Programação, o que assegurou sua classificação para a etapa internacional no México. A participação representa a presença da USP em competições de alto nível na América Latina. A equipe demonstrou habilidades técnicas e trabalho em equipe durante a competição.",
-        "porQueImporta": "A classificação reforça a reputação da USP em ciência da computação e incentiva a participação de estudantes em eventos internacionais.",
-        "category": "ciencia",
-        "sources": [
-          {
-            "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/alunos-da-usp-conquistam-vaga-na-final-latino-americana-da-maratona-de-programacao/"
-          }
-        ],
-        "updatedAt": "2026-11-18T14:26:28.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/11/IMG_9833-1024x538.jpg"
-      },
-      {
-        "clusterId": "cc2b3e253f8c01a7",
-        "slug": "db46be2e8e6ee203",
-        "titulo": "Saga de GTA VI: origem, controvérsias e evolução",
-        "resumo": "O artigo traça a trajetória de Grand Theft Auto VI, desde suas raízes na fábrica de relógios até os projetos envolvendo a Nintendo. Destaca a controvérsia que alimentou o desenvolvimento e a forma como o jogo se tornou o maior de todos os tempos. O texto explora aspectos pouco conhecidos da franquia e sua transformação em fenômeno cultural.",
-        "porQueImporta": "Entender a evolução de GTA VI ajuda a contextualizar seu impacto no mercado de jogos e na cultura popular.",
+        "clusterId": "0177b19393a8be05",
+        "slug": "55ed9b7ff9d70268",
+        "titulo": "Estimação aponta queda de 1,5 milhão de trabalhadores nos EUA por lançamento do GTA",
+        "resumo": "Estudos indicam que cerca de 1,5 milhão de trabalhadores estadunidenses podem faltar ao trabalho durante a estreia do jogo Grand Theft Auto. A ausência se deve ao alto engajamento dos usuários com o título. A redução de presença no ambiente de trabalho pode impactar a produtividade das empresas. O efeito é observado principalmente em setores que dependem de mão‑de‑obra presencial.",
+        "porQueImporta": "O fenômeno demonstra como entretenimento digital pode influenciar a dinâmica laboral e a economia.",
         "category": "ciencia",
         "sources": [
           {
             "name": "Super Interessante",
-            "url": "https://super.abril.com.br/cultura/a-saga-de-gta-vi/"
+            "url": "https://super.abril.com.br/sociedade/o-atestado-do-gta-ha-mesmo-uma-queda-na-atividade-economica-por-causa-do-lancamento/"
           }
         ],
-        "updatedAt": "2026-11-18T14:21:01.000Z",
-        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_493_GTA_VI.jpg"
+        "updatedAt": "2026-11-18T22:00:37.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_atestado-GTA-qual-queda-atividade-economica-por-lancamento_site.jpg"
       },
       {
-        "clusterId": "d0e9417d291b1264",
-        "slug": "9ebb58636ea6e16c",
-        "titulo": "Encontro da Biologia Comparada ocorrerá de 30 de novembro a 3 de dezembro na Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto da USP",
-        "resumo": "O evento, que reúne pesquisadores de biologia comparada, acontecerá na Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto da USP, de 30 de novembro a 3 de dezembro. A programação incluirá palestras, mesas-redondas e apresentações de trabalhos acadêmicos. O encontro visa promover intercâmbio científico e discutir avanços na área. Participantes de diversas instituições estarão presentes.",
-        "porQueImporta": "O encontro fortalece a pesquisa e a colaboração interdisciplinar em biologia comparada no Brasil.",
+        "clusterId": "4aa6dc4542bd1d35",
+        "slug": "799bd6b2499ceb2c",
+        "titulo": "USP propõe método de teste de falhas de percepção em veículos autônomos",
+        "resumo": "Um estudo da USP desenvolveu uma técnica que injeta alucinações em sistemas de inteligência artificial de carros autônomos para avaliar possíveis falhas de percepção. O método permite identificar cenários de risco que poderiam levar a acidentes. A pesquisa visa aprimorar a segurança desses veículos ao expor suas limitações antes da operação em vias públicas.",
+        "porQueImporta": "Melhorar a segurança de veículos autônomos reduz o risco de acidentes e aumenta a confiança no uso de tecnologias de condução sem motorista.",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/noticias/encontro-da-biologia-comparada/"
+            "url": "https://jornal.usp.br/radio-usp/jornal-da-usp-no-ar-2/jornal-da-usp-no-ar/pesquisa-da-usp-propoe-metodo-para-testar-falhas-de-percepcao-em-veiculos-autonomos/"
           }
         ],
-        "updatedAt": "2026-11-18T14:13:22.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2020/03/dna-163466_1280-e1795015361702-1024x536.jpg"
+        "updatedAt": "2026-11-18T21:48:50.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/20180509_00_carro_autonomo.png"
       },
       {
-        "clusterId": "b5fd9a61898a2764",
-        "slug": "a7922cbbf9e95132",
-        "titulo": "Simpósio internacional na USP discute cooperação para transformar diretrizes em políticas de educação infantil",
-        "resumo": "Especialistas e representantes de diversos setores participaram de um simpósio internacional na USP, em São Paulo, para discutir a qualidade da educação infantil. O encontro destacou a necessidade de cooperação entre atores públicos e privados para converter diretrizes em políticas efetivas. Os participantes analisaram desafios e oportunidades para melhorar a prática educativa nas primeiras etapas da vida. O debate enfatizou a importância de estratégias colaborativas para garantir educação de qualidade.",
-        "porQueImporta": "A discussão aponta caminhos para fortalecer a educação infantil, fundamental para o desenvolvimento infantil e social.",
+        "clusterId": "0033dcb581e7bf60",
+        "slug": "221eab5f7340a391",
+        "titulo": "Glaciares em crateras de Marte terminam em paredões de até 200 metros",
+        "resumo": "Estudos revelam que os glaciares escondidos em crateras marcianas culminam em paredões de até 200 metros de altura. Esses depósitos de água são importantes para compreender a história geológica do planeta. No futuro, podem ser usados para abastecer missões espaciais.",
+        "porQueImporta": "A descoberta ajuda a entender a evolução de Marte e a avaliar recursos para futuras missões.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/ciencia/marte-tem-glaciares-ocultos-em-crateras-que-terminam-em-paredoes-de-200-metros/"
+          }
+        ],
+        "updatedAt": "2026-11-18T21:00:08.000Z",
+        "imageUrl": "https://super.abril.com.br/wp-content/uploads/2026/11/SI_Cientistas-encontram-29-geleiras-em-Marte_site.jpg"
+      },
+      {
+        "clusterId": "fe61dcf951c6e928",
+        "slug": "d7587fa4a8a59eb0",
+        "titulo": "USP ajuda a preservar memória do teatro paulista",
+        "resumo": "O acervo do antigo Conservatório Dramático e Musical de São Paulo, composto por cerca de 13 mil itens, está sendo tratado, catalogado e disponibilizado ao público pela USP. A iniciativa visa conservar documentos, peças e objetos relacionados à história teatral da cidade. O trabalho inclui a digitalização e organização de materiais para facilitar o acesso de pesquisadores e interessados.",
+        "porQueImporta": "Preserva a história cultural e facilita o acesso a recursos valiosos para estudos e apreciação do teatro paulista.",
         "category": "ciencia",
         "sources": [
           {
             "name": "Jornal da USP",
-            "url": "https://jornal.usp.br/campus-ribeirao-preto/qualidade-da-educacao-infantil-depende-de-cooperacao-para-transformar-diretrizes-em-politicas-efetivas/"
+            "url": "https://jornal.usp.br/cultura/usp-ajuda-a-preservar-a-memoria-do-teatro-paulista/"
           }
         ],
-        "updatedAt": "2026-11-18T14:03:28.000Z",
-        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/11/20261118_ieaqualidadeeducacao.jpg-1024x538.jpeg"
+        "updatedAt": "2026-11-18T20:14:40.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/11/20261118_conservatorio-1024x538.jpg"
+      },
+      {
+        "clusterId": "8dd466415b404a44",
+        "slug": "091e75659703a0d8",
+        "titulo": "Primavera no Crusp oferece atividades culturais gratuitas aos moradores do Conjunto Residencial",
+        "resumo": "O projeto Primavera no Crusp realiza atividades culturais gratuitas nos finais de semana, com duração até 13 de dezembro. No próximo sábado, haverá oficina de dramaturgia e encontro com a artista Rita von Hunty. As atividades visam promover a cultura e o engajamento comunitário no Conjunto Residencial.",
+        "porQueImporta": "A iniciativa amplia o acesso à cultura para a comunidade local, fortalecendo o vínculo social e a educação artística.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/institucional/primavera-no-crusp-oferece-atividades-culturais-gratuitas-aos-moradores-do-conjunto-residencial/"
+          }
+        ],
+        "updatedAt": "2026-11-18T19:58:12.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/11/Crusp-Danny-Abensur-1024x540.jpeg"
+      },
+      {
+        "clusterId": "eae445c6f8f26a77",
+        "slug": "015cecada64cf8c9",
+        "titulo": "Documentário sobre Paulina Chiziane estreia na 22ª Mostra Internacional do Cinema Negro",
+        "resumo": "O filme dirigido por um professor da USP conta a trajetória de Paulina Chiziane, a primeira mulher a publicar um livro em Moçambique. A obra será exibida na 22ª Mostra Internacional do Cinema Negro (Micine) em São Paulo, no dia 20 de novembro. O documentário destaca a importância da literatura moçambicana e a contribuição de Chiziane para a cultura nacional.",
+        "porQueImporta": "Ilustra a relevância da literatura feminina em Moçambique e a promoção cultural internacional.",
+        "category": "ciencia",
+        "sources": [
+          {
+            "name": "Jornal da USP",
+            "url": "https://jornal.usp.br/diversidade/documentario-aborda-a-trajetoria-de-paulina-chiziane-primeira-mulher-a-publicar-um-livro-em-mocambique/"
+          }
+        ],
+        "updatedAt": "2026-11-18T19:26:20.000Z",
+        "imageUrl": "https://jornal.usp.br/wp-content/uploads/2026/11/20261118_paulina-chiziane-1024x538.jpg"
       }
     ],
     "saude": [
+      {
+        "clusterId": "b992f9272de80df8",
+        "slug": "21b4e6669284a64e",
+        "titulo": "Adolescentes diferenciam raiva e frustração de forma distinta dos adultos",
+        "resumo": "Os jovens percebem a raiva e a frustração de maneira diferente dos adultos, apresentando respostas emocionais e comportamentais distintas. O artigo destaca estratégias para reconhecer e lidar com esses sentimentos em adolescentes. Entender essa diferença ajuda a promover o bem‑estar emocional na adolescência.",
+        "porQueImporta": "Compreender as nuances emocionais dos adolescentes facilita intervenções mais eficazes em saúde mental e educação.",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/videos/especiais/como-os-adolescentes-podem-diferenciar-a-raiva-da-frustracao/"
+          }
+        ],
+        "updatedAt": "2026-11-18T21:31:00.000Z"
+      },
+      {
+        "clusterId": "77eb045bbe3c4adf",
+        "slug": "608e540ebf4c5808",
+        "titulo": "Angioplastia: procedimento cardíaco menos invasivo",
+        "resumo": "A angioplastia é um procedimento cardíaco que envolve a dilatação de artérias coronárias bloqueadas com um balão e, em alguns casos, a colocação de stent. É considerada segura e menos invasiva que cirurgias cardíacas tradicionais. Indicações incluem angina e infarto do miocárdio, e cuidados pré e pós-operatórios são essenciais para o sucesso.",
+        "porQueImporta": "Permite tratamento eficaz de obstruções coronárias com menor risco e recuperação mais rápida.",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/cardiovascular/angioplastia-como-e-realizado-esse-procedimento-cardiaco/"
+          }
+        ],
+        "updatedAt": "2026-11-18T21:00:00.000Z"
+      },
+      {
+        "clusterId": "7e28b30500b4a8e6",
+        "slug": "4099c5dca76024a5",
+        "titulo": "Melanoma pode surgir nos olhos e mucosas",
+        "resumo": "O melanoma, além de afetar a pele, pode se desenvolver nos olhos e nas mucosas. Quando ocorre em locais distintos, os sintomas costumam ser discretos, levando a diagnósticos tardios. O tratamento varia conforme a localização do tumor.",
+        "porQueImporta": "Detectar melanoma em locais menos comuns é crucial para um diagnóstico precoce e tratamento adequado.",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/oncologia/alem-de-afetar-a-pele-o-melanoma-tambem-pode-surgir-nos-olhos-e-nas-mucosas/"
+          }
+        ],
+        "updatedAt": "2026-11-18T20:00:00.000Z"
+      },
+      {
+        "clusterId": "33c4d9514f74d26b",
+        "slug": "ea7397f4726d721a",
+        "titulo": "Novas regras de doação de sangue no Brasil ampliam possibilidades",
+        "resumo": "As novas normas de doação de sangue no Brasil permitem que mais pessoas possam doar, mantendo critérios de segurança para doadores e receptores. As alterações incluem ajustes nos critérios de elegibilidade e na frequência de doação. Os especialistas destacam que a mudança visa atender a demanda crescente por sangue sem comprometer a qualidade.",
+        "porQueImporta": "A ampliação das regras pode melhorar o abastecimento de sangue em hospitais e salvar vidas.",
+        "category": "saude",
+        "sources": [
+          {
+            "name": "Drauzio Varella",
+            "url": "https://drauziovarella.uol.com.br/hematologia/conheca-as-novas-regras-para-doacao-de-sangue-no-brasil/"
+          }
+        ],
+        "updatedAt": "2026-11-18T18:00:00.000Z"
+      },
       {
         "clusterId": "0323075d41dc8d34",
         "slug": "f405a9633206939b",
@@ -1086,8 +1209,8 @@
         "clusterId": "8de4306aeb9b53ce",
         "slug": "2a76778c9354dbd4",
         "titulo": "Nutrição esportiva influencia desempenho nos treinos",
-        "resumo": "A alimentação individualizada pode melhorar o rendimento de atletas profissionais e amadores. Um planejamento nutricional adequado ajuda na recuperação muscular, na manutenção de energia e na prevenção de lesões. Estudos mostram que ajustes na dieta, como a ingestão de carboidratos e proteínas, impactam diretamente a performance durante os treinos.",
-        "porQueImporta": "Entender a relação entre nutrição e desempenho é essencial para otimizar resultados esportivos.",
+        "resumo": "A alimentação individualizada pode melhorar o rendimento de atletas profissionais e amadores. Um planejamento alimentar adequado ajuda na recuperação muscular e na manutenção de energia durante os treinos. Estudos mostram que ajustes nutricionais específicos reduzem fadiga e aumentam a eficiência física.",
+        "porQueImporta": "Melhorar a nutrição esportiva pode elevar o desempenho atlético e reduzir lesões.",
         "category": "saude",
         "sources": [
           {
@@ -1101,8 +1224,8 @@
         "clusterId": "0a2abeae384598fc",
         "slug": "1fab71200e7aa882",
         "titulo": "Cirurgia plástica: 11 cuidados para garantir segurança",
-        "resumo": "Para realizar uma cirurgia plástica com segurança, é fundamental escolher um profissional qualificado e com experiência comprovada. Avaliar as condições de saúde do paciente, realizar exames pré-operatórios e seguir as orientações médicas são passos essenciais. O procedimento deve ser planejado com atenção aos detalhes, incluindo a escolha do local cirúrgico e a preparação adequada do paciente.",
-        "porQueImporta": "Seguir esses cuidados reduz riscos de complicações e aumenta a probabilidade de resultados satisfatórios.",
+        "resumo": "Para realizar uma cirurgia plástica com segurança, é fundamental escolher um profissional qualificado e avaliar as condições de saúde do paciente. É necessário realizar exames pré-operatórios e seguir as orientações médicas. O artigo destaca 11 cuidados que ajudam a minimizar riscos e garantir resultados satisfatórios.",
+        "porQueImporta": "Esses cuidados reduzem complicações e aumentam a confiança dos pacientes no procedimento.",
         "category": "saude",
         "sources": [
           {
@@ -1116,8 +1239,8 @@
         "clusterId": "79c89116d2b2d4a8",
         "slug": "45a349efb7b1451e",
         "titulo": "Imunoterapia amplia a sobrevida de pacientes com mieloma múltiplo",
-        "resumo": "A imunoterapia tem demonstrado aumentar a sobrevida de pacientes com mieloma múltiplo, oferecendo uma alternativa ao transplante tradicional. Estudos recentes apontam que esses tratamentos modulam a resposta imunológica contra as células cancerígenas. A abordagem pode reduzir a necessidade de terapias mais agressivas e melhorar a qualidade de vida dos pacientes.",
-        "porQueImporta": "Esses avanços podem transformar o prognóstico e as opções de tratamento para quem sofre de mieloma múltiplo.",
+        "resumo": "A imunoterapia tem demonstrado aumentar a sobrevida de pacientes com mieloma múltiplo, oferecendo uma alternativa ao transplante tradicional. Estudos recentes apontam que terapias imunológicas podem prolongar a vida e melhorar a qualidade de vida desses pacientes. O avanço representa uma mudança significativa nas opções de tratamento para essa condição.",
+        "porQueImporta": "O aumento da sobrevida pode melhorar a expectativa de vida e a qualidade de vida de quem sofre de mieloma múltiplo.",
         "category": "saude",
         "sources": [
           {
@@ -1126,242 +1249,194 @@
           }
         ],
         "updatedAt": "2026-11-17T18:00:00.000Z"
-      },
-      {
-        "clusterId": "c139e6ac078ed127",
-        "slug": "69089c2e345dfc9f",
-        "titulo": "Nova diretriz brasileira prioriza PSA e ressonância na detecção de câncer de próstata",
-        "resumo": "A nova diretriz mantém o toque retal como opção, mas deixa a decisão ao urologista, e coloca o exame de sangue do antígeno prostático específico (PSA) como primeira escolha. Em pacientes que não são especialistas, a triagem começa com a história clínica e o PSA, sem tocar retal. O toque retal pode ser incluído na consulta com o urologista, combinando o resultado do PSA e fatores de risco. A diretriz também destaca novas tecnologias, como radiofármacos, para tratamento e vigilância ativa.",
-        "porQueImporta": "A mudança de foco para exames menos invasivos pode acelerar o diagnóstico precoce e melhorar a qualidade de vida dos pacientes.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/cancer/cancer-e-infeccoes/"
-          }
-        ],
-        "updatedAt": "2026-11-16T22:43:33.000Z"
-      },
-      {
-        "clusterId": "c8d668841faaa748",
-        "slug": "8038a19cb9e798be",
-        "titulo": "Poluição do ar e queimadas aumentam riscos à saúde humana",
-        "resumo": "As queimadas e a poluição urbana geram partículas finas que penetram nos pulmões e circulam pelo sangue, provocando inflamação e agravando doenças respiratórias, cardiovasculares e neurológicas. Estudos mostram aumento de hospitalizações e mortalidade em regiões com alta poluição. Medidas de proteção incluem uso de máscaras, redução de exposição e monitoramento da qualidade do ar.",
-        "porQueImporta": "Entender esses impactos ajuda a orientar políticas públicas e ações individuais para reduzir danos à saúde.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/videos/como-a-poluicao-do-ar-afeta-o-nosso-organismo/"
-          }
-        ],
-        "updatedAt": "2026-11-16T21:31:00.000Z"
-      },
-      {
-        "clusterId": "9477f3e683f65312",
-        "slug": "eac4244c7f62740d",
-        "titulo": "Transplante de medula óssea: jornada do paciente não termina no procedimento",
-        "resumo": "O transplante de medula óssea é indicado em casos de doenças hematológicas graves e envolve várias etapas, desde a preparação do paciente até a infusão do enxerto. Após o procedimento, o acompanhamento é essencial para detectar e tratar complicações, como a doença do enxerto contra o hospedeiro. A monitorização contínua garante a eficácia do tratamento e a segurança do paciente.",
-        "porQueImporta": "A compreensão da continuidade do cuidado após o transplante é vital para melhorar os resultados clínicos e a qualidade de vida dos pacientes.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/hematologia/transplante-de-medula-ossea-jornada-do-paciente-nao-termina-no-procedimento/"
-          }
-        ],
-        "updatedAt": "2026-11-16T20:00:23.000Z"
-      },
-      {
-        "clusterId": "bf903baa82fcb6f6",
-        "slug": "ecd89644aca9fddf",
-        "titulo": "Insônia: causas e quando buscar ajuda",
-        "resumo": "A insônia pode ser causada por estresse, predisposição genética, hábitos inadequados e problemas respiratórios. O artigo explica como esses fatores interferem no sono e oferece orientações sobre medidas preventivas e quando procurar assistência médica.",
-        "porQueImporta": "Entender as causas ajuda a adotar estratégias eficazes e a buscar tratamento adequado, melhorando a qualidade de vida.",
-        "category": "saude",
-        "sources": [
-          {
-            "name": "Drauzio Varella",
-            "url": "https://drauziovarella.uol.com.br/otorrinolaringologia/por-que-voce-tem-insonia/"
-          }
-        ],
-        "updatedAt": "2026-11-16T19:00:00.000Z"
       }
     ],
     "esportes": [
       {
-        "clusterId": "b34120bb0558f2ef",
-        "slug": "9f00425231642ab1",
-        "titulo": "Paraná registra mais de 20 mil raios em um dia",
-        "resumo": "Na terça-feira (17), o Paraná registrou 20.062 raios nuvem-solo, segundo o Simepar. Rolândia, no norte do estado, liderou a lista com 1.426 descargas elétricas. Os municípios com maior número de raios ficaram concentrados nas regiões norte e noroeste do Paraná.",
-        "porQueImporta": "O alto número de raios indica condições climáticas intensas que podem afetar a segurança e a infraestrutura local.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pr/norte-noroeste/noticia/2026/11/18/parana-registra-raios-veja-ranking.ghtml"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/pr/futebol/taca-fpf/jogo/21-11-2026/parana-atletico-pr.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-18T16:50:35.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/CwGfSOZ-kPynlFAk4lxpEyl0nSg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/u/WvQnxRQ26EQQs9C2k9NQ/raio1.png"
-      },
-      {
-        "clusterId": "984db8328cee1628",
-        "slug": "f72320e396ac22f2",
-        "titulo": "Flamengo e Palmeiras se preparam para duelo decisivo na 36ª rodada",
-        "resumo": "O Flamengo e o Palmeiras, líderes do Campeonato Brasileiro, enfrentam o Athletico-PR e o Cruzeiro, respectivamente, nesta quarta-feira, antes do confronto direto na próxima rodada. Ambos os clubes têm 13 jogadores pendurados, o que pode influenciar a escalação. O técnico do Flamengo, Marcelo Gallardo, esclareceu que a liberação antecipada de Gonzalo Plata foi por pedido do jogador. A partida entre Flamengo e Palmeiras, marcada para sábado, pode decidir o título.",
-        "porQueImporta": "O resultado pode definir o campeão brasileiro e impactar a posição na tabela.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/os-resultados-que-podem-deixar-o-flamengo-com-uma-mao-na-taca-nesta-quarta-18/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/11/18/palmeiras-e-flamengo-tem-13-jogadores-pendurados-antes-de-confronto-decisivo-veja-lista.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-18T16:44:08.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/GettyImages-2303084870.jpg"
-      },
-      {
-        "clusterId": "61e2088520f63622",
-        "slug": "c10a2c6149ec2f5f",
-        "titulo": "Atlético-MG viaja para final da Sul‑Americana com apoio da torcida e novo patrocinador master",
-        "resumo": "O Atlético-MG embarcou para Barranquilla, na Colômbia, para enfrentar o Boca Juniors na final da Sul‑Americana. O elenco está completo, exceto o volante Alan Franco, que cumpre suspensão. O clube firmou um acordo de três anos com o programa de assinatura Torcedor Premiado, que será patrocinador master e aparecerá na frente da camisa na partida.",
-        "porQueImporta": "A partida representa a primeira oportunidade do clube de conquistar um título continental.",
+        "clusterId": "059595455acfd484",
+        "slug": "4ff12653a5254d86",
+        "titulo": "Santos vence Coritiba por 1 a 0 com gol de Gabigol nos acréscimos",
+        "resumo": "O Santos derrotou o Coritiba na 35ª rodada do Brasileirão, com Gabigol marcando nos acréscimos. O gol garantiu a vitória por 1 a 0 no Estádio Couto Pereira. Após o jogo, Neymar e Gabigol provocaram a torcida do Coritiba, chamando-a de “otário” e sugerindo que o time seria rebaixado. O resultado mantém o Santos na disputa pela Libertadores e deixa o Coritiba em risco de queda.",
+        "porQueImporta": "O resultado afeta a posição de ambos os clubes na tabela e a expectativa de participação na Libertadores.",
         "category": "esportes",
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/atletico-mg/noticia/2026/11/18/atletico-mg-viaja-com-elenco-completo-para-a-final-da-sul-americana-com-apoio-da-torcida.ghtml"
+            "url": "https://ge.globo.com/pr/futebol/times/coritiba/noticia/2026/11/18/atuacoes-do-coritiba-josue-e-destaque-mas-ocampo-vacila-no-fim-de-suas-notas.ghtml"
           },
           {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-sportsmkt/atletico-mg-estreia-patrocinio-master-na-final-da-sul-americana/"
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/neymar-discute-com-torcedor-do-coritiba-apos-vitoria-vai-para-b-otario"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/neymar-e-gabigol-debocham-apos-santos-vencer-o-coritiba-vao-cair/"
           }
         ],
-        "updatedAt": "2026-11-18T16:42:16.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/xTX8asfT8Vb9Vpjnqf7fVkiZ4CQ=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/5/T/JP5d4oRcyIqD2BCSNA0w/hxa6ntkxeaa9yy2-1-.jpg"
+        "updatedAt": "2026-11-19T01:29:34.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/m96NVPvmKjoQ6Mzw--7r2XN0oag=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/A/N/s6NJkASAW0xYhnRlemEA/agif26111819443527.jpg"
       },
       {
-        "clusterId": "c58e2b6d190bea39",
-        "slug": "45f476ba9fa1adf6",
-        "titulo": "Clubes de futebol pedem linhas de crédito ao governo federal",
-        "resumo": "Mais de trinta clubes, liderados pelo Corinthians e Internacional, assinaram carta solicitando apoio financeiro por meio de crédito do BNDES ou Caixa Econômica Federal. O pedido visa aliviar dívidas acumuladas nos últimos anos. A presidente do Palmeiras, Leila Pereira, se recusa a assinar, argumentando que os clubes não cumpriram suas obrigações. O governo e o Congresso debatem a viabilidade do apoio em meio a ajustes fiscais.",
-        "porQueImporta": "A decisão pode afetar a saúde financeira dos clubes e a alocação de recursos públicos.",
+        "clusterId": "8bd609ffeedd05c1",
+        "slug": "2443c88d70256857",
+        "titulo": "Remo vence Chapecoense e evita rebaixamento precoce",
+        "resumo": "O Remo venceu a Chapecoense por 2 a 0 na 35ª rodada do Brasileirão, com gols de Jajá e Patrick no primeiro tempo. A vitória garantiu ao Leão Azul a permanência na Série A, afastando a possibilidade de rebaixamento imediato. A Chapecoense, já rebaixada, perdeu a partida fora de casa.",
+        "porQueImporta": "A vitória mantém o Remo na elite do futebol brasileiro, evitando o descenso.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/pa/futebol/brasileirao-serie-a/jogo/18-11-2026/remo-chapecoense.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/brasileirao-remo-vence-chapecoense-e-evita-rebaixamento-antecipado"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/remo-vence-chapecoense-e-mantem-vivo-sonho-de-escapar-do-z4-do-brasileirao/"
+          }
+        ],
+        "updatedAt": "2026-11-19T01:21:41.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/oI3s8PF1BVWfRRhOio2J8QXr-R0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/h/A/AeiEIcTcqCNr3FFbWT4w/agif2611182015254-1-.jpg"
+      },
+      {
+        "clusterId": "76c47b1ad40853de",
+        "slug": "ca2dbbc47bf07ac7",
+        "titulo": "Flamengo vence Athletico-PR no Maracanã e pode ser campeão na próxima rodada",
+        "resumo": "O Flamengo derrotou o Athletico-PR por 2 a 0 no Maracanã, com gols de Gabigol e de um jogador do time visitante. A vitória manteve o Rubro‑negro na liderança do Brasileirão e garantiu que, com um empate contra o Palmeiras na próxima rodada, o título seria assegurado. O time saiu atrás do placar, mas virou a vantagem ainda no primeiro tempo.",
+        "porQueImporta": "A partida define a possibilidade de Flamengo conquistar o campeonato antes da última rodada.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/18-11-2026/flamengo-athletico-pr.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/flamengo-vence-athletico-pr-no-maracana-e-segue-na-lideranca-do-brasileirao"
+          }
+        ],
+        "updatedAt": "2026-11-19T01:41:25.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/11/whatsapp-image-2026-11-18-at-21-45-14.jpg"
+      },
+      {
+        "clusterId": "bdba17594c0e1bc9",
+        "slug": "193c9d3a2c2a272e",
+        "titulo": "Cruzeiro vence Palmeiras por 2 a 1 e se aproxima da vaga direta na Libertadores",
+        "resumo": "O Cruzeiro venceu o Palmeiras por 2 a 1 no Mineirão, com gols de Matheus Pereira e Khelven, após Sosa abrir o placar para o adversário. Matheus Pereira marcou um gol de falta na segunda etapa, enquanto Fabrício Bruno garantiu a defesa. A vitória mantém o Cruzeiro perto da vaga direta na Libertadores e dificulta a rivalidade do Palmeiras na disputa pelo título.",
+        "porQueImporta": "O resultado afeta a posição do Cruzeiro na tabela e a competição pela Libertadores.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/mg/futebol/brasileirao-serie-a/jogo/18-11-2026/cruzeiro-palmeiras.ghtml"
+          },
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/esportes/matheus-pereira-marca-golaco-e-cruzeiro-bate-o-palmeiras-de-virada"
+          }
+        ],
+        "updatedAt": "2026-11-19T01:40:36.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/11/matheus-pereira-cruzeiro-ec.jpg"
+      },
+      {
+        "clusterId": "a6e133968cb2e877",
+        "slug": "dbac32128750da02",
+        "titulo": "Vargas marca gol antológico e Athletico vence Flamengo 2 a 1",
+        "resumo": "Kerwin Vargas abriu o placar com um chute de fora da área antes do meio‑campo, surpreendendo o goleiro Rossi. O Athletico-PR manteve a vantagem e venceu o Flamengo por 2 a 1 no Maracanã. O gol de Vargas foi considerado um dos melhores do campeonato. O resultado garante ao Furacão posição de destaque na tabela.",
+        "porQueImporta": "A vitória reforça a posição do Athletico na disputa pela Libertadores.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/pr/futebol/times/athletico-pr/noticia/2026/11/18/atuacoes-do-athletico-vargas-faz-gol-antologico-e-se-salva-em-derrota-de-suas-notas.ghtml"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-leva-gol-que-pele-nao-fez-contra-o-athletico-pr-veja/"
+          }
+        ],
+        "updatedAt": "2026-11-19T01:40:11.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/5tpI0vWzPzIfa50FFyR631rJtm0=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/n/X/vpPzVBSDajJdwcB4UNgA/4-1-.jpg"
+      },
+      {
+        "clusterId": "b1655b28756c53f1",
+        "slug": "5ebfcb813b253572",
+        "titulo": "Paulinho do Palmeiras permanece em recuperação após trauma na perna",
+        "resumo": "O atacante Paulinho continua em tratamento pelo trauma na panturrilha direita, ocorrido em 21 de outubro, durante a semifinal da Conmebol Libertadores. Exames de imagem descartaram fratura, mas identificaram inflamações persistentes nos tecidos musculares e ósseos. O clube não definiu prazo para o retorno do jogador ao campo.",
+        "porQueImporta": "A ausência de Paulinho pode impactar o desempenho do Palmeiras em competições importantes.",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/entenda-o-movimento-dos-clubes-que-solicitam-ajuda-financeira-do-governo/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/palmeiras/palmeiras-informa-piora-em-recuperacao-de-paulinho-apos-trauma-na-perna/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/blogs/blog-do-alliatti/post/2026/11/18/leila-tem-razao-governo-nao-deveria-liberar-dinheiro-para-os-clubes.ghtml"
+            "url": "https://ge.globo.com/futebol/times/palmeiras/noticia/2026/11/18/palmeiras-justifica-ausencia-de-paulinho-e-nao-define-prazo-para-volta-inflamacoes-persistentes.ghtml"
           }
         ],
-        "updatedAt": "2026-11-18T16:34:35.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/YDqofmmwt969PuiS9f7T9gNAuv8=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/e/C/Saobi7SxGEtHAeAki3AA/agif26091217455522.jpg"
+        "updatedAt": "2026-11-18T23:29:51.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/ho3k5IL71m0SYlaE0_8CQDGIO8M=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/8/O/PuNkyzRu6LIDQAdnYsow/rib3226.jpg"
       },
       {
-        "clusterId": "e7bbc1d1b32a1be0",
-        "slug": "db2ed56354180263",
-        "titulo": "Bahia lança documentário sobre venda da SAF ao Grupo City e crise envolvendo Rogério Ceni",
-        "resumo": "O Bahia vai exibir o documentário \"O Bahia é o Mundo – A Era City\", que narra a trajetória do clube até a venda da SAF ao Grupo City em 2023 e a crise envolvendo o técnico Rogério Ceni. O filme apresenta detalhes inéditos da negociação e depoimentos de ex-presidente Guilherme Bellintani. O lançamento ocorre nesta sexta-feira e promete revelar bastidores pouco divulgados. O documentário oferece uma visão interna sobre decisões recentes que impactaram a gestão e a performance do clube.",
-        "porQueImporta": "A produção traz transparência sobre decisões estratégicas que alteraram a estrutura e a liderança do Bahia.",
+        "clusterId": "4c3bbb61b998642b",
+        "slug": "609a8c4dd1c7f7a4",
+        "titulo": "Ex-jogadora da Seleção Brasileira Gabi Morais é presa em operação contra o Comando Vermelho em Fortaleza",
+        "resumo": "Gabi Morais, 32 anos, ex-jogadora da Seleção Brasileira, foi detida em Fortaleza como parte da Operação Liquidação, que investiga crimes do Comando Vermelho, incluindo tráfico de drogas, homicídios e lavagem de dinheiro. A prisão foi motivada pela apreensão de 216 kg de maconha escondidos em gabinetes de computadores em junho de 2025. A investigação revelou um núcleo suspeito de tráfico na comunidade do Lagamar, no bairro São João do Tauape.",
+        "porQueImporta": "A detenção de uma atleta de alto perfil destaca a extensão das investigações sobre o Comando Vermelho e o combate ao tráfico de drogas no estado.",
         "category": "esportes",
         "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/ba/futebol/times/bahia/noticia/2026/11/18/em-filme-bahia-conta-bastidores-de-venda-da-saf-ao-grupo-city-e-crise-envolvendo-rogerio-ceni.ghtml"
-          },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-18T16:16:54.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/ADyJhDCGgOag-vZwHwSFsmF9y1A=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/A/d/TucA8STsyMHHH62zBbKw/whatsapp-image-2026-11-18-at-13.04.31.jpeg"
-      },
-      {
-        "clusterId": "3d91c0aec9ceac24",
-        "slug": "f394587c3e2dcfe9",
-        "titulo": "Martinelli volta ao Fluminense, Savarino e Canobbio ficam fora, Bobadilla pode desfalcar o São Paulo",
-        "resumo": "O volante Martinelli, que se recuperou de lesão no joelho esquerdo, foi incluído na lista de relacionados do Fluminense para o jogo contra o São Paulo. Os atacantes Savarino e Canobbio, que defenderam suas seleções na Data Fifa, não retornaram a tempo e ficam desfalques. No São Paulo, o volante Bobadilla pode não estar em condições de jogar, sendo o nono desfalque previsto para a partida.",
-        "porQueImporta": "A composição das equipes influencia diretamente na disputa pela vaga na Libertadores 2027.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/fluminense/noticia/2026/11/18/martinelli-volta-aos-relacionados-do-fluminense-e-vai-viajar-para-jogo-contra-o-sao-paulo.ghtml"
+            "url": "https://g1.globo.com/ce/ceara/noticia/2026/11/18/lavagem-de-dinheiro-trafico-e-homicidios-o-que-investiga-a-operacao-que-prendeu-jogadora-gabi-morais.ghtml"
           },
           {
-            "name": "CartaCapital",
-            "url": "https://www.cartacapital.com.br/esporte/fluminense-pode-ter-o-retorno-de-martinelli-contra-o-sao-paulo/"
+            "name": "GE",
+            "url": "https://ge.globo.com/ce/futebol/futebol-feminino/noticia/2026/11/18/prisao-de-gabi-morais-ocorreu-apos-apreensao-de-216-kg-de-droga-em-computadores.ghtml"
           }
         ],
-        "updatedAt": "2026-11-18T16:11:45.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/vDTI9QNVPk3MkfIM5F9Ix5zLDDA=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/A/p/y1x8AiQhOQV4ytABNiXQ/55659296457-b0af03be82-k.jpg"
+        "updatedAt": "2026-11-18T22:32:48.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/EAgQu1VF0Q9wbXPC2ugg3BR1pR4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/I/1c5yn3SIA6Zr6JC4KYlw/caso-94-.jpg"
       },
       {
-        "clusterId": "33587f310fe0e0a6",
-        "slug": "f53bf8430ec9ca07",
-        "titulo": "Especialista avalia notebooks touch e oferece dicas para Cartola",
-        "resumo": "O especialista Adriano Ponte analisa vantagens e desvantagens de telas touch em notebooks, destacando pontos que já foram criticados pela Apple. Em paralelo, o Cartola Digital oferece sugestões de nomes alternativos para a rodada 35 e recomenda um atacante para escalar. O especialista também promove o Cartola PRO, que dá acesso a dicas completas por R$ 1,99 mensais. Ambas as matérias trazem orientações práticas para consumidores e jogadores de fantasy.",
-        "porQueImporta": "Informa consumidores sobre tecnologia de notebooks e oferece estratégias para melhorar desempenho no Cartola.",
+        "clusterId": "26ebc6a12ed04ab9",
+        "slug": "73081b69b36466df",
+        "titulo": "São Paulo abre negociações com banco para naming rights do Morumbi",
+        "resumo": "O clube do São Paulo iniciou conversas com o banco Bradesco para assumir os naming rights do estádio do Morumbi, cujo contrato atual com a Mondelez termina em 31 de janeiro de 2027. As tratativas, conduzidas pelo diretor de marketing André Marques, ainda estão em fase inicial, com expectativa de um acordo de três anos semelhante ao anterior. O valor e o novo nome do estádio ainda não foram divulgados.",
+        "porQueImporta": "A mudança de nome pode gerar novas receitas e fortalecer a parceria entre o clube e o banco.",
         "category": "esportes",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/vale-a-pena-comprar-notebook-com-tela-touch-especialista-da-dicas/"
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/sao-paulo-abre-conversas-com-banco-por-novos-naming-rights-do-morumbi/"
           },
           {
             "name": "GE",
-            "url": "https://ge.globo.com/gato-mestre/dicas/noticia/2026/11/18/dicas-do-cartola-especialista-sugere-nomes-alternativos-para-voce-se-dar-bem-na-35.ghtml"
+            "url": "https://ge.globo.com/futebol/times/sao-paulo/noticia/2026/11/18/sao-paulo-negocia-com-bradesco-por-naming-rights-do-morumbi.ghtml"
           }
         ],
-        "updatedAt": "2026-11-18T14:09:27.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/rvP1klR9wJcooIcs00hpQpsjZfc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/h/o/5HBwXSSEahBlRKyxCdSA/agif26102109424712.jpg"
-      },
-      {
-        "clusterId": "a5c8754d4d693a40",
-        "slug": "7ba275b2126cd029",
-        "titulo": "Joinville e Marcílio Dias se enfrentam na final da Copa Santa Catarina",
-        "resumo": "A final da Copa Santa Catarina será disputada entre Joinville e Marcílio Dias, com a partida de ida marcada para domingo às 17h no Gigantão das Avenidas, em Itajaí. O duelo reitera a final de 2012, quando Joinville venceu por 3 a 1. A partida de volta ocorrerá em 29 de novembro, às 15h, no João Marcatto, em Jaraguá do Sul, com mando do Tricolor.",
-        "porQueImporta": "A competição reúne dois clubes com histórico de títulos na região, reforçando a rivalidade e o interesse do futebol local.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/sc/futebol/copa-santa-catarina/noticia/2026/11/18/jec-e-marcilio-dias-voltam-a-decidir-a-copa-sc-relembre-a-final-de-2012.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-18T16:47:58.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/zKnK4ZBmGvrogSSjhXPP05XO9zs=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/Q/2/yKzJAmTDigNh4BdLTzJQ/meu-padrao-nsc-total-1-.png"
+        "updatedAt": "2026-11-18T22:05:47.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/EGJ5xIObn_kGU8pB5KL4tys_DkY=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/w/S/AgiJ9PSXCg1YuAGquJ4w/agif26040416142090.jpg"
       }
     ],
     "entretenimento": [
       {
-        "clusterId": "ad3f8586dc5f96c0",
-        "slug": "8e2fddc32ab0499f",
+        "clusterId": "4c286f5644d69bbd",
+        "slug": "75c1c37eb68a9efc",
         "titulo": "Robert Pattinson confirmado como novo James Bond",
-        "resumo": "A Amazon MGM Studios anunciou que Robert Pattinson será o próximo ator a interpretar James Bond, sucedendo Daniel Craig. O ator britânico, de 40 anos, já atuou em projetos de cinema autoral e comerciais, incluindo 'Crepúsculo' e 'Batman'. Jeff Bezos, presidente da Amazon, afirmou ter participado dos testes de elenco, que envolveram cinco atores em cenas com figurino completo. A escolha de Pattinson pode afetar seus futuros projetos na DC, pois ele assinou contrato para três filmes de Bond.",
-        "porQueImporta": "A seleção de Pattinson marca a continuidade da franquia 007 e pode influenciar a carreira de atores em grandes estúdios.",
+        "resumo": "O ator britânico Robert Pattinson foi anunciado como o sétimo intérprete de James Bond, sucedendo Daniel Craig. A escolha foi resultado de um processo rigoroso conduzido pela Amazon MGM Studios, com testes de elenco envolvendo cinco atores. Jeff Bezos, presidente da Amazon, afirmou ter participado ativamente da seleção. A decisão foi divulgada em 16 de maio de 2024.",
+        "porQueImporta": "A nomeação marca a continuação da franquia de espionagem mais icônica do cinema, influenciando a indústria e o mercado de entretenimento.",
         "category": "entretenimento",
         "sources": [
           {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/cultura/o-ator-que-teria-desistido-do-papel-de-james-bond-abrindo-caminho-para-robert-pattinson/"
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/pop/cinema/pierce-brosnan-recepciona-robert-pattinson-como-bond-carreira-notavel/"
           },
           {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/cinema/jeff-bezos-da-amazon-diz-que-ajudou-a-escolher-pattinson-como-james-bond/"
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/entretenimento/jeff-bezos-revela-bastidores-de-como-robert-pattinson-virou-o-novo-james-bond/"
           },
           {
             "name": "G1",
@@ -1370,34 +1445,90 @@
           {
             "name": "BBC Brasil",
             "url": "https://www.bbc.com/portuguese/articles/cwm2mlmrn93lo?at_medium=RSS&at_campaign=rss"
+          }
+        ],
+        "updatedAt": "2026-11-19T00:57:32.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/ZyMryWA-rg8k141GIpluz80sGvw=/0x0/filters:format(webp):quality(85)/68e63756-eed7-40fe-946d-c8cb31c5fe26.png"
+      },
+      {
+        "clusterId": "1020835f65ff6cd0",
+        "slug": "6aaa46f6b5f02a8e",
+        "titulo": "Grand Theft Auto VI chega aos consoles em 19 de maio",
+        "resumo": "O jogo Grand Theft Auto VI, da Rockstar Games, foi lançado em 19 de maio para PlayStation 5 e Xbox Series X|S, com liberação por país de acordo com o fuso horário local. O título, que já bateu recorde de pré‑vendas, segue o GTA 5, que vendeu mais de 475 milhões de cópias. O lançamento foi precedido por 13 anos de espera, vazamentos e adiamentos, gerando grande expectativa mundial.",
+        "porQueImporta": "O lançamento marca o retorno de uma das franquias mais vendidas da indústria de videogames.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/games/noticia/2026/11/18/as-primeiras-impressoes-do-gta-vi-pelo-mundo.ghtml"
+          },
+          {
+            "name": "DW Brasil",
+            "url": "https://www.dw.com/pt-br/por-que-gta-6-é-mais-do-que-apenas-um-jogo/a-79979551?maca=bra-rss-br-all-1030-rdf"
+          },
+          {
+            "name": "Super Interessante",
+            "url": "https://super.abril.com.br/cultura/a-saga-de-gta-vi/"
           },
           {
             "name": "Canaltech",
-            "url": "https://canaltech.com.br/entretenimento/escolha-de-robert-pattinson-como-007-ameaca-trilogia-de-batman-na-dc/"
+            "url": "https://canaltech.com.br/seguranca/3-golpes-mais-perigosos-na-semana-de-lancamento-de-gta-6-saiba-como-se-proteger/"
           }
         ],
-        "updatedAt": "2026-11-18T15:33:12.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/Design-sem-nome-17.jpg"
+        "updatedAt": "2026-11-18T21:43:28.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/I4W-_YElSvBSpM5LvPoGCtjlVW8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/x/E/3kUgGWQ4ClO89jfRVBOg/captura-de-tela-2025-05-02-093420.png"
       },
       {
-        "clusterId": "3d04e2c17ade6ba5",
-        "slug": "55986b2a18ba7252",
-        "titulo": "Harry Styles, Billie Eilish e Cher lideram Glastonbury 2027",
-        "resumo": "O festival Glastonbury 2027, que ocorrerá na fazenda Worthy Farm em Pilton, entre 23 e 27 de junho, contará com Harry Styles, Billie Eilish e Cher como atrações principais. O evento, que retornou após uma pausa em 2026, também inclui nomes como Sam Fender, Massive Attack e Sombr. Harry Styles apresentará o festival pela primeira vez, enquanto Cher ocupará o horário reservado às 20h. Os ingressos já foram esgotados.",
-        "porQueImporta": "A presença de artistas de alto perfil reforça a importância internacional do festival e atrai atenção global para a cena musical britânica.",
+        "clusterId": "0600e78380c7748d",
+        "slug": "615c0cd84ffaf7c3",
+        "titulo": "Brad Pitt quer ser vilão de 007 e filme de Fincher exibido em apenas duas salas no Brasil",
+        "resumo": "O filme \"As Novas Desventuras de Cliff Booth\", dirigido por David Fincher, será exibido somente em salas Imax de Campinas e Curitiba. Brad Pitt, que participou do filme, manifestou interesse em interpretar o antagonista do próximo James Bond. Ele ofereceu-se ao diretor Denis Villeneuve para o papel. O filme já foi anunciado como boicotado no Brasil.",
+        "porQueImporta": "A decisão de limitar a exibição do filme e a proposta de Brad Pitt para o papel de vilão podem influenciar a percepção do público e a distribuição de filmes de Hollywood no país.",
         "category": "entretenimento",
         "sources": [
           {
             "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/pop/musica/harry-styles-billie-eilish-e-cher-lideram-glastonbury-2027-saiba-mais/"
+            "url": "https://www.cnnbrasil.com.br/pop/cinema/filme-de-brad-pitt-e-boicotado-e-so-sera-exibido-em-duas-salas-no-brasil/"
           },
           {
             "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/11/18/glastonbury-2027-tera-harry-styles-billie-eilish-e-cher-como-atracoes-do-line-up.ghtml"
+            "url": "https://g1.globo.com/pop-arte/cinema/noticia/2026/11/17/brad-pitt-diz-que-quer-ser-o-vilao-do-proximo-007-podem-me-inscrever.ghtml"
           }
         ],
-        "updatedAt": "2026-11-18T14:59:50.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/UNMOszcC6FbxVbWLT8nwzsVfXag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/e/z/HaysFbSnGETfTvOAlFfQ/harrystyles.jpg"
+        "updatedAt": "2026-11-18T22:31:20.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/HbrWEJg7xdk820F01wDT3tFWFr8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/l/4B9PrBT1egkHyeYECtaQ/007-4-.png"
+      },
+      {
+        "clusterId": "a67e992a6c842531",
+        "slug": "1b0dd29ae06bc03e",
+        "titulo": "Alcione regrava música de Gilberto Gil no EP 'NepoLoba'",
+        "resumo": "Alcione participa da regravação de \"Entre a sola e o salto\", música inédita de Gilberto Gil que ela recebeu em 1978, no EP 'NepoLoba' lançado por Sylvia Nazareth. O EP, que estreou em 27 de novembro, traz a participação da cantora como homenagem à sua trajetória no samba. A faixa original foi lançada em 1978 no álbum 'Alerta geral', onde Alcione já havia consolidado sua carreira. A nova versão destaca a continuidade da influência de Gilberto Gil na música brasileira.",
+        "porQueImporta": "Revela a ligação histórica entre Alcione e Gilberto Gil, reforçando a relevância cultural do EP.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/18/alcione-revisita-musica-que-ganhou-de-gilberto-gil-em-1978-no-ep-nepoloba-de-sylvia-nazareth-sobrinha-da-artista.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-18T19:52:29.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/XBp-QLHXcJC1sIT61Jgayfx1WD4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/5/fKZ7CaRsCP5GNKcdIvEg/sylviaalcione.jpg"
+      },
+      {
+        "clusterId": "2f85c899ea86b1c9",
+        "slug": "270b5c45c3278961",
+        "titulo": "Anitta interpreta médica que comanda podcast sobre sexo em GTA 6",
+        "resumo": "No novo jogo GTA 6 da Rockstar Games, a cantora Anitta faz a voz da Dra. Nita, médica que conduz o podcast fictício \"Ask Dr. Nita\", abordando temas de sexo, relacionamentos e intimidade. A personagem conversa com convidados e responde dúvidas de ouvintes, oferecendo conselhos de relacionamento. Entre os convidados que aparecem no programa está a atriz Barbie Ferreira.",
+        "porQueImporta": "A participação de Anitta destaca a crescente presença de artistas brasileiros em grandes produções de videogames.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/games/noticia/2026/11/18/gta-6-anitta-interpreta-medica-que-comanda-podcast-sobre-sexo-no-jogo.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-18T19:37:21.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/zoMqcpbM78MbtmbHpY79LQHWj7U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/a/1QMwa1SoKdttA5kE7FAw/afp-20261113-d7cf3he-v1-highres-27thannuallatingrammyawardsshow.png"
       },
       {
         "clusterId": "d9bb1858769b290d",
@@ -1416,6 +1547,22 @@
         "imageUrl": "https://s2-g1.glbimg.com/re_5PIGalnxU3esUYkC_Zh2Bf8Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/B/O4jrw0TYGGd7LX6Om0bw/b011cd40-1adc-11f1-801d-ed3cff6bf876.jpg.webp"
       },
       {
+        "clusterId": "b3b4581a0682aa07",
+        "slug": "55986b2a18ba7252",
+        "titulo": "Harry Styles, Billie Eilish e Cher lideram Glastonbury 2027",
+        "resumo": "O festival Glastonbury 2027, que ocorrerá na fazenda Worthy Farm em Pilton, entre 23 e 27 de junho, contará com Harry Styles, Billie Eilish e Cher como atrações principais. O evento, que retornou após uma pausa em 2026, também inclui nomes como Sam Fender, Massive Attack e Sombr. Harry Styles apresentará o festival pela primeira vez, enquanto Cher ocupará o horário reservado às 20h. Os ingressos já foram esgotados.",
+        "porQueImporta": "A presença de artistas de alto perfil reforça a importância internacional do festival e atrai atenção global para a cena musical britânica.",
+        "category": "entretenimento",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/11/18/glastonbury-2027-tera-harry-styles-billie-eilish-e-cher-como-atracoes-do-line-up.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-18T14:51:25.000Z",
+        "imageUrl": "https://s2-g1.glbimg.com/UNMOszcC6FbxVbWLT8nwzsVfXag=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/e/z/HaysFbSnGETfTvOAlFfQ/harrystyles.jpg"
+      },
+      {
         "clusterId": "2960c181360e84c0",
         "slug": "f4136b3969e4fe85",
         "titulo": "Nação Zumbi lança álbum 'Outro Carnaval' após 12 anos",
@@ -1430,70 +1577,6 @@
         ],
         "updatedAt": "2026-11-18T10:30:36.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/j2kFeo9TEujYMf2Xylkl-Z5hLGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/T/x2lx0hTq6LPV3bRRtXVg/nacao-zumbi-77.jpg"
-      },
-      {
-        "clusterId": "ed21d1dc1d718122",
-        "slug": "82171ab24405050c",
-        "titulo": "Alaíde Costa lançará álbum 'Meu vício na dor de amar demais' em 27 de novembro",
-        "resumo": "A cantora Alaíde Costa, nascida em 8 de dezembro de 1935, lançará seu terceiro álbum da trilogia em 27 de novembro, 11 dias antes de seu 91º aniversário. O trabalho, intitulado 'Meu vício na dor de amar demais', segue os álbuns 'O que meus calos dizem sobre mim' (2022) e 'E o tempo agora quer voar' (2024). A capa do disco foi fotografada por Fábio Audi e foi idealizada por Marcus Preto, em parceria com Emicida.",
-        "porQueImporta": "O lançamento marca a continuidade da carreira de longa data de Alaíde Costa e celebra seu aniversário de 91 anos.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/18/alaide-costa-canta-fatima-guedes-ze-renato-joyce-moreno-e-johnny-alf-no-album-meu-vicio-na-dor-de-amar-demais.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-18T07:00:00.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/x1yWBN7XmDIDu4qIVMcfMxyD9o8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/Z/CMgspAQRaGARLW6SntMA/album-meuvicionadordeamardemais.png"
-      },
-      {
-        "clusterId": "cb179ef7e6618d46",
-        "slug": "a67982be329bd440",
-        "titulo": "Integrantes do grupo de pagode Vou Zuar presos em hotel de Barbacena por suspeita de estupro",
-        "resumo": "Bruno e Thiago Pereira Paiva, gêmeos do grupo Vou Zuar, foram detidos preventivamente no presídio de Barbacena após suspeita de estuprar uma mulher de 30 anos em um hotel local. A investigação é conduzida pela Delegacia Especializada de Atendimento à Mulher (Deam). Outros dois integrantes, Carlos Vieira e Vitor Naegele, se pronunciou, afirmando que a acusação é grave e que se opõem à violência contra a mulher.",
-        "porQueImporta": "O caso envolve figuras públicas e levanta questões sobre violência de gênero e responsabilidade de artistas.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/noticia/2026/11/17/integrantes-do-grupo-vou-zuar-se-pronunciam-apos-prisoes-por-suspeita-de-estupro-que-a-justica-seja-feita.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-17T22:56:35.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/qfAL9nRQ0A94TazJmcEdtv8Bfr0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/m/kMcl8FR9exNcxtAoWbhA/fotos-g1-1920-x-1080-px-2026-11-17t195142.696.png"
-      },
-      {
-        "clusterId": "f6bf30dcc7bc68f0",
-        "slug": "bef7b7475316801b",
-        "titulo": "Eliane Elias recebe sétima indicação ao Grammy e lança álbum em homenagem a Tom Jobim",
-        "resumo": "A pianista, cantora e compositora Eliane Elias foi indicada ao Grammy pela sétima vez, nesta edição de 2027, na categoria Álbum de jazz latino, pelo disco \"Eliane Elias ao vivo\". Em 22 de janeiro, ela lançou o álbum \"Dreams of Jobim\", que celebra o centenário de Tom Jobim e inclui a colaboração com Chico Buarque no bolero \"Anos dourados\". O lançamento coincide com a celebração de 100 anos da vida do compositor. Elias também já divulgou o single \"The girl from Ipanema\".",
-        "porQueImporta": "A indicação ao Grammy reforça a relevância internacional de Eliane Elias e destaca a continuidade da influência de Tom Jobim na música brasileira.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/11/17/indicada-ao-grammy-eliane-elias-festeja-em-janeiro-o-centenario-de-tom-jobim-com-album-que-inclui-chico-buarque.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-17T15:55:06.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/wxKHbl6H3aWRDEzFkEc7tT7h-g0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/Z/qLAanLSCyieOqu6I9dvQ/elianecapajobim.jpg"
-      },
-      {
-        "clusterId": "5bf66bc972cc03f7",
-        "slug": "22b7fc7e831aba88",
-        "titulo": "Faith No More anuncia shows no Brasil em 2027",
-        "resumo": "A banda Faith No More confirmou duas apresentações no Brasil em 2027, em São Paulo (29 de outubro) e em Curitiba (31 de outubro). Os shows serão acompanhados pelas bandas Alice in Chains e Mastodon. A venda de ingressos começa em 19 de outubro, com preços que variam de R$172,50 a R$995,00.",
-        "porQueImporta": "É a primeira turnê ao vivo da banda desde 2016, marcando retorno significativo para os fãs.",
-        "category": "entretenimento",
-        "sources": [
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/11/17/faith-no-more-anuncia-shows-no-brasil-em-2027-banda-nao-se-apresenta-desde-2016.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-17T15:39:09.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/uZdaplfMz-uZf6JcP0SvecX9-kQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2016/W/5/1qWlYiQuaZWYJZF69qkw/mike-patton-faith-no-more.jpg"
       }
     ]
   }
