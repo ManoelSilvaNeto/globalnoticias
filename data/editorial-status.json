@@ -1,10 +1,8 @@
 {
-  "ranAt": "2026-11-21T12:11:56.269Z",
-  "editionDate": "2026-11-21",
-  "hourUtc": 12,
-  "outcome": "generated",
-  "reason": "\"Tensão global, crise climática e disputas esportivas marcam o dia\" (4 parágrafos)",
-  "attempts": [
-    "ok"
-  ]
+  "ranAt": "2026-11-22T05:29:10.580Z",
+  "editionDate": "2026-11-22",
+  "hourUtc": 5,
+  "outcome": "skipped",
+  "reason": "fora da janela (5h < 11h UTC)",
+  "attempts": []
 }
