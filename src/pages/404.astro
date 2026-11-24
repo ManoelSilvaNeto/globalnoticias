@@ -1,0 +1,21 @@
+---
+// Página 404 real. Sem ela o Cloudflare Pages cai no modo SPA e responde a home
+// com HTTP 200 para qualquer URL inexistente (soft 404 no Search Console) — o que
+// acontece, p.ex., quando um /tema/<slug>/ deixa de existir entre edições.
+import Layout from '../layouts/Layout.astro';
+import { SITE } from '../lib/site';
+---
+
+<Layout title="Página não encontrada" description={`Esta página não existe mais no ${SITE.name}.`} noindex>
+  <section class="py-16 text-center">
+    <p class="text-sm font-semibold uppercase tracking-wide text-neutral-500">Erro 404</p>
+    <h1 class="mt-2 font-serif text-3xl font-bold tracking-tight">Página não encontrada</h1>
+    <p class="mt-4 text-neutral-700 dark:text-neutral-300">
+      O endereço pode ter mudado ou a página saiu do ar entre uma edição e outra.
+    </p>
+    <p class="mt-8 flex flex-wrap justify-center gap-4">
+      <a href="/" class="font-semibold text-sky-700 hover:underline dark:text-sky-400">Ir para a edição de hoje</a>
+      <a href="/editorial/" class="font-semibold text-sky-700 hover:underline dark:text-sky-400">Ler o panorama do dia</a>
+    </p>
+  </section>
+</Layout>
