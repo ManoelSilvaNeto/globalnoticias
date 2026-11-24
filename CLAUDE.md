@@ -139,8 +139,11 @@ um domínio de nível mais alto válido"). Por isso o site cadastrado é
   `ssh globalnote-prod`) virou **vitrine** da GlobalNote (commit `51f6d51`):
   `/` apresenta GlobalNotícias + Radar + Agenda; login da agenda foi p/
   `/entrar`; `ads.txt` + meta `google-adsense-account`; robots/sitemap.
-- Propriedade verificada por meta tag; **revisão pedida em 2026-11-24**.
-  Status no painel: Sites → `globalnote.com.br`.
+- Propriedade verificada por meta tag; **revisão pedida em 2026-11-24** —
+  status no painel (Sites → `globalnote.com.br`): **"Preparando"** (aguardando
+  o Google, dias a 2-3 semanas; aviso por e-mail).
+- Também em 2026-11-24: cron horário + job `gate` no workflow (o GitHub
+  descartava disparos do cron de 4h); fix de temas lixo + página 404.
 - O dono decidiu **manter** o domínio `globalnote.com.br` (não vende).
 
 **Quando o status virar "Pronto":** ligar `AdSlot.astro` (`enabled = true`)
