@@ -16,6 +16,7 @@ export {
   INDEX_MIN,
   slugifyTopic,
   candidatesFrom,
+  midSentenceProperWords,
   isValidTopic,
   buildTopics,
 } from './topics-core';

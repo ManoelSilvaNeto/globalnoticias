@@ -28,6 +28,12 @@ const GENERIC = new Set([
   'janeiro', 'fevereiro', 'marco', 'abril', 'maio', 'junho', 'julho', 'agosto',
   'setembro', 'outubro', 'novembro', 'dezembro',
   'segunda', 'terca', 'quarta', 'quinta', 'sexta', 'sabado', 'domingo',
+  // Numerais por extenso (abrem muita manchete: "Dois presos…", "Três dicas…")
+  'um', 'uma', 'dois', 'duas', 'tres', 'quatro', 'cinco', 'seis', 'sete', 'oito',
+  'nove', 'dez', 'cem', 'mil', 'dezenas', 'centenas', 'milhares',
+  // Substantivos comuns que abrem manchete e não são assunto em si
+  'estudo', 'estudos', 'pesquisa', 'pesquisas', 'serie', 'series', 'video', 'videos',
+  'foto', 'fotos', 'homem', 'mulher', 'jovem', 'casal', 'familia', 'crianca',
 ]);
 
 export const slugifyTopic = (s: string): string =>
@@ -41,22 +47,45 @@ export const slugifyTopic = (s: string): string =>
 const isProper = (tok: string): boolean => /^[A-ZÀ-Ý][A-Za-zÀ-ÿ'’.-]+$/.test(tok);
 const norm = (tok: string): string => slugifyTopic(tok);
 
+const cleanTok = (t: string): string => t.replace(/[.,;:!?()"“”]+$/g, '').replace(/^["“”(]+/g, '');
+
+// Palavras que aparecem capitalizadas FORA da 1ª posição do título — evidência de
+// nome próprio (manchetes são sentence case: "Estudo aponta alta em São Paulo" → só
+// "São Paulo" prova que é nome próprio; "Estudo" está maiúsculo só por abrir a frase).
+export function midSentenceProperWords(titles: string[]): Set<string> {
+  const out = new Set<string>();
+  for (const title of titles) {
+    const tokens = title.split(/\s+/).filter(Boolean);
+    for (let i = 1; i < tokens.length; i++) {
+      const tok = cleanTok(tokens[i]);
+      if (isProper(tok)) out.add(norm(tok));
+    }
+  }
+  return out;
+}
+
 // Extrai frases-nome próprias do título (runs de palavras capitalizadas, permitindo
 // conectores em minúsculas no meio). Ex.: "Supremo Tribunal Federal", "Copa do Mundo".
-export function candidatesFrom(title: string): string[] {
+// Se `provenProper` vier, um run de UMA palavra que abre o título só vale se essa
+// palavra aparece capitalizada no meio de algum título (senão é só sentence case).
+// Runs multi-palavra no início ("Copa do Mundo", "Banco Central") seguem valendo.
+export function candidatesFrom(title: string, provenProper?: Set<string>): string[] {
   const tokens = title.split(/\s+/).filter(Boolean);
   const out: string[] = [];
   let run: string[] = [];
+  let runStart = 0;
   const flush = () => {
     while (run.length && CONNECTORS.has(norm(run[run.length - 1]))) run.pop(); // tira conector no fim
-    if (run.length) out.push(run.join(' '));
+    const sentenceCaseOnly = provenProper && runStart === 0 && run.length === 1 && !provenProper.has(norm(run[0]));
+    if (run.length && !sentenceCaseOnly) out.push(run.join(' '));
     run = [];
   };
   for (let i = 0; i < tokens.length; i++) {
-    const tok = tokens[i].replace(/[.,;:!?()"“”]+$/g, '').replace(/^["“”(]+/g, '');
+    const tok = cleanTok(tokens[i]);
     if (isProper(tok)) {
+      if (!run.length) runStart = i;
       run.push(tok);
-    } else if (CONNECTORS.has(norm(tok)) && run.length && isProper((tokens[i + 1] ?? '').replace(/[.,;:!?()"“”]+$/g, ''))) {
+    } else if (CONNECTORS.has(norm(tok)) && run.length && isProper(cleanTok(tokens[i + 1] ?? ''))) {
       run.push(tok.toLowerCase());
     } else {
       flush();
@@ -82,9 +111,10 @@ export type Topic = { slug: string; label: string; stories: Story[]; indexable: 
 
 export function buildTopics(stories: Story[]): Topic[] {
   const acc = new Map<string, { label: string; stories: Map<string, Story> }>();
+  const provenProper = midSentenceProperWords(stories.map((s) => s.titulo));
   for (const story of stories) {
     const seenInStory = new Set<string>();
-    for (const cand of candidatesFrom(story.titulo)) {
+    for (const cand of candidatesFrom(story.titulo, provenProper)) {
       if (!isValidTopic(cand)) continue;
       const key = slugifyTopic(cand);
       if (seenInStory.has(key)) continue;

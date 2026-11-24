@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { slugifyTopic, candidatesFrom, isValidTopic, buildTopics, MIN_STORIES, INDEX_MIN } from './topics';
+import { slugifyTopic, candidatesFrom, isValidTopic, buildTopics, midSentenceProperWords, MIN_STORIES, INDEX_MIN } from './topics';
 import type { Story } from './types';
 
 function story(titulo: string, clusterId: string, updatedAt = '2026-05-20T12:00:00.000Z'): Story {
@@ -105,8 +105,8 @@ describe('buildTopics', () => {
   });
 
   it('marca indexable=true só quando >= INDEX_MIN histórias', () => {
-    const just = Array.from({ length: INDEX_MIN - 1 }, (_, i) => story(`Petrobras anuncia algo ${i}`, `a${i}`));
-    const enough = Array.from({ length: INDEX_MIN }, (_, i) => story(`Petrobras anuncia algo ${i}`, `b${i}`));
+    const just = Array.from({ length: INDEX_MIN - 1 }, (_, i) => story(`Mercado reage à Petrobras ${i}`, `a${i}`));
+    const enough = Array.from({ length: INDEX_MIN }, (_, i) => story(`Mercado reage à Petrobras ${i}`, `b${i}`));
     expect(buildTopics(just).find((t) => t.slug === 'petrobras')?.indexable).toBe(false);
     expect(buildTopics(enough).find((t) => t.slug === 'petrobras')?.indexable).toBe(true);
   });
@@ -122,5 +122,29 @@ describe('buildTopics', () => {
     const t = topics.find((x) => x.slug === 'petrobras');
     expect(t).toBeDefined();
     expect(t!.stories).toHaveLength(3); // 3 stories, não 4 (o título com "Petrobras" 2× não duplica)
+  });
+});
+
+describe('temas — sentence case das manchetes', () => {
+  it('palavra comum que só abre o título NÃO vira tema; nome próprio provado no meio vira', () => {
+    const topics = buildTopics([
+      story('Estudo aponta alta de preços em Curitiba', 'a1'),
+      story('Estudo mostra queda de vendas em Curitiba', 'a2'),
+      story('Estudo revela novo dado sobre Curitiba', 'a3'),
+      story('Curitiba registra frio recorde', 'a4'),
+    ]);
+    const slugs = topics.map((t) => t.slug);
+    expect(slugs).toContain('curitiba');
+    expect(slugs).not.toContain('estudo');
+  });
+
+  it('run multi-palavra no início continua valendo', () => {
+    expect(candidatesFrom('Banco Central sobe juros', new Set())).toEqual(['Banco Central']);
+  });
+
+  it('midSentenceProperWords ignora a 1ª palavra', () => {
+    const proven = midSentenceProperWords(['Lula recebe Trump']);
+    expect(proven.has('trump')).toBe(true);
+    expect(proven.has('lula')).toBe(false);
   });
 });
