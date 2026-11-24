@@ -59,7 +59,7 @@ As 5 melhorias priorizadas no `BRIEF.md` foram entregues em 2026-05-27:
 
 ### Habilitação do Google AdSense ✓
 
-Conta `pub-7077758294476082` em onboarding. Trabalho aplicado no commit que
+Conta `pub-7077758294476082` — revisão pedida em 2026-11-24 via domínio raiz (ver "Próximos passos"). Trabalho aplicado no commit que
 adicionou este arquivo:
 
 - `public/ads.txt` — uma linha: `google.com, pub-7077758294476082, DIRECT, f08c47fec0942fa0`
@@ -117,12 +117,24 @@ e cobre os 3 via catch-all.
 
 ## Próximos passos
 
-### Imediato (ação do humano, fora do Claude Code)
+### AdSense — REVISÃO PEDIDA via domínio raiz (2026-11-24)
 
-1. Abrir o painel AdSense (`adsense.google.com/onboarding`) e clicar
-   **"Solicitar revisão"**. Verificação da meta tag deve ser automática.
-   Ver "Quando submeter ao AdSense" abaixo antes de fazer isso.
-2. Aguardar resposta do Google — pode levar de horas a algumas semanas.
+O AdSense **só aceita domínio raiz** — recusa subdomínio ("O URL precisa ser
+um domínio de nível mais alto válido"). Por isso o site cadastrado é
+**`globalnote.com.br`**; quando aprovado, cobre todos os subdomínios
+(`noticias.`, `radar.` e futuros da fábrica) — sem cadastro por portal.
+
+- A raiz (repo `~/Projetos/globalnote`, Next.js na VPS, deploy via
+  `ssh globalnote-prod`) virou **vitrine** da GlobalNote (commit `51f6d51`):
+  `/` apresenta GlobalNotícias + Radar + Agenda; login da agenda foi p/
+  `/entrar`; `ads.txt` + meta `google-adsense-account`; robots/sitemap.
+- Propriedade verificada por meta tag; **revisão pedida em 2026-11-24**.
+  Status no painel: Sites → `globalnote.com.br`.
+- O dono decidiu **manter** o domínio `globalnote.com.br` (não vende).
+
+**Quando o status virar "Pronto":** ligar `AdSlot.astro` (`enabled = true`)
++ script AdSense aqui e no Radar, e remover as marcações de "AdSense ainda
+não ativo" da política de privacidade.
 
 ### Quando submeter ao AdSense (recomendação técnica)
 
