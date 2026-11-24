@@ -1,15 +1,19 @@
 {
   "date": "2026-11-24",
-  "generatedAt": "2026-11-24T18:43:38.167Z",
+  "generatedAt": "2026-11-24T19:00:04.915Z",
   "home": [
     {
-      "clusterId": "69987a71897490c7",
+      "clusterId": "25313dc49e957276",
       "slug": "2e74baa9b6797f14",
       "titulo": "Bolsonaro apresenta melhora discreta e permanece na UTI sem previsão de alta",
       "resumo": "O ex-presidente Jair Bolsonaro, internado desde 20 de novembro, apresenta sinais de melhora clínica discreta, incluindo restabelecimento do trânsito intestinal. Ele continua em tratamento contra broncopneumonia e obstrução abdominal, sem previsão de alta hospitalar. A equipe médica descartou nova cirurgia enquanto houver melhora do quadro. O paciente permanece na Unidade de Terapia Intensiva do Hospital DF Star em Brasília.",
       "porQueImporta": "A condição de Bolsonaro pode influenciar a dinâmica política e a percepção pública de sua saúde e capacidade de atuação.",
       "category": "politica",
       "sources": [
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/bolsonaro-apresenta-melhora-clinica-discreta-mas-nao-ha-previsao-de-alta/"
+        },
         {
           "name": "CartaCapital",
           "url": "https://www.cartacapital.com.br/politica/bolsonaro-tem-melhora-discreta-diz-novo-boletim-medico/"
@@ -35,8 +39,8 @@
           "url": "https://g1.globo.com/politica/noticia/2026/11/23/bolsonaro-continuara-internado-na-uti-por-dores-abdominais-e-pneumonia-medicos-descartam-cirurgia-neste-momento.ghtml"
         }
       ],
-      "updatedAt": "2026-11-24T17:37:56.000Z",
-      "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/jair-bolsonaro-internado.jpg"
+      "updatedAt": "2026-11-24T18:52:09.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-05-04T115544Z_1677632891_RC2Y7DA9KRKD_RTRMADP_3_BRAZIL-BOLSONARO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
     },
     {
       "clusterId": "c16e99a65c5fc715",
@@ -71,7 +75,7 @@
       "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/05/GettyImages-163612367.jpg"
     },
     {
-      "clusterId": "a79cccefc27c7d77",
+      "clusterId": "ec829385123d3a2d",
       "slug": "7e45b337d3910125",
       "titulo": "Jensen Huang retorna ao cargo de CEO da Nvidia após escândalo de espionagem",
       "resumo": "O conselho da Nvidia aprovou, por unanimidade, a reintegração de Jensen Huang ao cargo de CEO, 11 dias após sua renúncia em meio a um escândalo envolvendo um relacionamento extraconjugal com Alice Huang, suspeita de espionagem para a China. O presidente dos Estados Unidos, Donald Trump, afirmou ter pressionado o conselho e se responsabilizou pelo retorno, alegando que a China poderia tentar recrutar Huang caso ele não voltasse. As ações da Nvidia dispararam mais de 30% na abertura do pregão, impulsionando índices como o Nasdaq 100.",
@@ -101,6 +105,34 @@
       ],
       "updatedAt": "2026-11-24T17:06:37.000Z",
       "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/AFP__20261124__D8EZ8T4__v3__MidRes__NvidiaAnnouncesJensenHuangReturnAsTopBoss.jpg"
+    },
+    {
+      "clusterId": "a47092a070638fe5",
+      "slug": "9274547e371e5411",
+      "titulo": "Nunes Marques assume relatoria de ação contra atuação de Fachin no caso Master",
+      "resumo": "O ministro Nunes Marques foi sorteado para relatar a ação movida pela defesa de Daniel Vorcaro, que questiona a competência da presidência do STF na condução da investigação do caso Master. Vorcaro alega que a presidência não pode puxar autos ou tomar decisões em ações que não relata. A ação também pede a revogação da prisão preventiva de Vorcaro.",
+      "porQueImporta": "A decisão pode definir limites de atuação da presidência do STF em processos investigativos.",
+      "category": "politica",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/24/nunes-marques-e-sorteado-relator-de-pedido-de-vorcaro-para-retirar-caso-master-do-gabinete-da-presidencia-do-stf.ghtml"
+        },
+        {
+          "name": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/nunes-marques-volta-ao-caso-master-e-vai-analisar-pedido-de-vorcaro-contra-fachin/"
+        },
+        {
+          "name": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/politica/kassio-e-sorteado-relator-de-acao-que-questiona-atuacao-de-fachin-no-master/"
+        },
+        {
+          "name": "CartaCapital",
+          "url": "https://www.cartacapital.com.br/justica/nunes-marques-vai-relatar-acao-de-vorcaro-contra-atuacao-de-fachin-no-caso-master/"
+        }
+      ],
+      "updatedAt": "2026-11-24T18:53:54.000Z",
+      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/55194149201_5f9db1cf11_o.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
     },
     {
       "clusterId": "d375092ebb4dbf36",
@@ -192,7 +224,7 @@
       "titulo": "WhatsApp libera figurinhas com som",
       "resumo": "O WhatsApp introduziu figurinhas que combinam imagem, animação e áudio, permitindo que o som seja reproduzido tocando na própria figurinha, sem abrir um arquivo separado. A funcionalidade já aparece em conversas de alguns usuários, mas ainda não há confirmação de disponibilidade global. A Meta, dona do aplicativo, não divulgou detalhes adicionais sobre a expansão do recurso.",
       "porQueImporta": "A novidade amplia a forma de comunicação no app, tornando as mensagens mais interativas e expressivas.",
-      "category": "geral",
+      "category": "economia",
       "sources": [
         {
           "name": "Olhar Digital",
@@ -261,42 +293,22 @@
       ],
       "updatedAt": "2026-11-24T18:28:40.000Z",
       "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-24-150751.png"
-    },
-    {
-      "clusterId": "d2a27f66cc1fb509",
-      "slug": "9274547e371e5411",
-      "titulo": "Nunes Marques assume relatoria de ação contra atuação de Fachin no caso Master",
-      "resumo": "O ministro Nunes Marques foi sorteado para relatar a ação movida pela defesa de Daniel Vorcaro, que questiona a competência da presidência do STF na condução da investigação do caso Master. Vorcaro alega que a presidência não pode puxar autos ou tomar decisões em ações que não relata. A ação também pede a revogação da prisão preventiva de Vorcaro.",
-      "porQueImporta": "A decisão pode definir limites de atuação da presidência do STF em processos investigativos.",
-      "category": "geral",
-      "sources": [
-        {
-          "name": "InfoMoney",
-          "url": "https://www.infomoney.com.br/politica/nunes-marques-volta-ao-caso-master-e-vai-analisar-pedido-de-vorcaro-contra-fachin/"
-        },
-        {
-          "name": "CNN Brasil",
-          "url": "https://www.cnnbrasil.com.br/politica/kassio-e-sorteado-relator-de-acao-que-questiona-atuacao-de-fachin-no-master/"
-        },
-        {
-          "name": "CartaCapital",
-          "url": "https://www.cartacapital.com.br/justica/nunes-marques-vai-relatar-acao-de-vorcaro-contra-atuacao-de-fachin-no-caso-master/"
-        }
-      ],
-      "updatedAt": "2026-11-24T18:00:28.000Z",
-      "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/55194149201_5f9db1cf11_o.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
     }
   ],
   "categorias": {
     "politica": [
       {
-        "clusterId": "69987a71897490c7",
+        "clusterId": "25313dc49e957276",
         "slug": "2e74baa9b6797f14",
         "titulo": "Bolsonaro apresenta melhora discreta e permanece na UTI sem previsão de alta",
         "resumo": "O ex-presidente Jair Bolsonaro, internado desde 20 de novembro, apresenta sinais de melhora clínica discreta, incluindo restabelecimento do trânsito intestinal. Ele continua em tratamento contra broncopneumonia e obstrução abdominal, sem previsão de alta hospitalar. A equipe médica descartou nova cirurgia enquanto houver melhora do quadro. O paciente permanece na Unidade de Terapia Intensiva do Hospital DF Star em Brasília.",
         "porQueImporta": "A condição de Bolsonaro pode influenciar a dinâmica política e a percepção pública de sua saúde e capacidade de atuação.",
         "category": "politica",
         "sources": [
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/bolsonaro-apresenta-melhora-clinica-discreta-mas-nao-ha-previsao-de-alta/"
+          },
           {
             "name": "CartaCapital",
             "url": "https://www.cartacapital.com.br/politica/bolsonaro-tem-melhora-discreta-diz-novo-boletim-medico/"
@@ -322,8 +334,36 @@
             "url": "https://g1.globo.com/politica/noticia/2026/11/23/bolsonaro-continuara-internado-na-uti-por-dores-abdominais-e-pneumonia-medicos-descartam-cirurgia-neste-momento.ghtml"
           }
         ],
-        "updatedAt": "2026-11-24T17:37:56.000Z",
-        "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/jair-bolsonaro-internado.jpg"
+        "updatedAt": "2026-11-24T18:52:09.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2025/05/2025-05-04T115544Z_1677632891_RC2Y7DA9KRKD_RTRMADP_3_BRAZIL-BOLSONARO.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
+      },
+      {
+        "clusterId": "a47092a070638fe5",
+        "slug": "9274547e371e5411",
+        "titulo": "Nunes Marques assume relatoria de ação contra atuação de Fachin no caso Master",
+        "resumo": "O ministro Nunes Marques foi sorteado para relatar a ação movida pela defesa de Daniel Vorcaro, que questiona a competência da presidência do STF na condução da investigação do caso Master. Vorcaro alega que a presidência não pode puxar autos ou tomar decisões em ações que não relata. A ação também pede a revogação da prisão preventiva de Vorcaro.",
+        "porQueImporta": "A decisão pode definir limites de atuação da presidência do STF em processos investigativos.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/politica/noticia/2026/11/24/nunes-marques-e-sorteado-relator-de-pedido-de-vorcaro-para-retirar-caso-master-do-gabinete-da-presidencia-do-stf.ghtml"
+          },
+          {
+            "name": "InfoMoney",
+            "url": "https://www.infomoney.com.br/politica/nunes-marques-volta-ao-caso-master-e-vai-analisar-pedido-de-vorcaro-contra-fachin/"
+          },
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/politica/kassio-e-sorteado-relator-de-acao-que-questiona-atuacao-de-fachin-no-master/"
+          },
+          {
+            "name": "CartaCapital",
+            "url": "https://www.cartacapital.com.br/justica/nunes-marques-vai-relatar-acao-de-vorcaro-contra-atuacao-de-fachin-no-caso-master/"
+          }
+        ],
+        "updatedAt": "2026-11-24T18:53:54.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/55194149201_5f9db1cf11_o.webp?fit=300%2C179&amp;quality=70&amp;strip=all"
       },
       {
         "clusterId": "53091e5999d97451",
@@ -354,11 +394,11 @@
         "imageUrl": "https://s2-g1.glbimg.com/DlwcjuFTWrQgoT6qgTTfql4EvfI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/L/BlLqaERFSyqdWfciCJag/2026-11-15t065122z-778288073-rc25ooanixut-rtrmadp-3-philippines-brazil.jpg"
       },
       {
-        "clusterId": "66d4779e6c8e4ffa",
-        "slug": "54ee6390abc3ffbf",
-        "titulo": "Ministro do Trabalho defende que fechamento diário não causa mortes e recomenda acordos coletivos antes da nova escala 6x1",
-        "resumo": "O ministro Luiz Marinho afirmou que \"ninguém vai morrer se fechar um dia\" em relação ao fim da escala 6x1, que garante dois dias de repouso semanal. Ele pediu que empresários e trabalhadores fechem acordos coletivos até 16 de outubro, data em que as novas regras entram em vigor. O ministro também criticou a necessidade de manter o comércio aberto sete dias por semana, citando modelos europeus.",
-        "porQueImporta": "A mudança na escala de trabalho impacta a organização de jornadas e a saúde dos trabalhadores.",
+        "clusterId": "9bd5472a4bf432a7",
+        "slug": "0fc8a6f114de98ad",
+        "titulo": "Ministro do Trabalho defende que fechamento diário não ameaça vidas e recomenda acordos coletivos antes da nova escala 6x1",
+        "resumo": "O ministro Luiz Marinho afirmou que \"ninguém vai morrer se fechar um dia\" em relação ao fim da escala 6x1, que garante dois dias de repouso semanal remunerado. Ele recomendou que empresários e trabalhadores concluam acordos coletivos até 16 de outubro, data de vigência das novas regras. A mudança pode afetar mais de 100 mil trabalhadores domésticos, segundo estimativas do Instituto Doméstica Legal.",
+        "porQueImporta": "A decisão pode alterar significativamente a jornada de trabalho e o número de dias de folga para milhares de trabalhadores.",
         "category": "politica",
         "sources": [
           {
@@ -394,26 +434,6 @@
         "imageUrl": "https://s2-g1.glbimg.com/TRA4L7SftsJfmqNRK4EnsIPbqGY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/P/cpeskUQcGmtlBalghGgw/img20260812113104648.jpeg"
       },
       {
-        "clusterId": "6a286541cd5ff9de",
-        "slug": "e890a2a19dc3003a",
-        "titulo": "Arrecadação federal atinge recorde de outubro",
-        "resumo": "O governo federal arrecadou R$ 293,975 bilhões em outubro, um aumento de 7,3% em relação ao mesmo mês do ano anterior. O valor corresponde ao maior montante já registrado na série histórica iniciada em 1995. O crescimento reflete a expansão da economia brasileira e o aumento das receitas tributárias.",
-        "porQueImporta": "Indica a saúde fiscal e o desempenho econômico do país.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/arrecadacao-federal-cresce-73-em-outubro-e-e-recorde-para-o-mes/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/11/24/arrecadacao-federal-avanca-para-r-294-bilhoes-em-outubro-novo-recorde-para-o-mes.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-24T15:17:58.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/E8LK4BTZ5h-xCehLkbwUKv2jYQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/j/ekL8YAQbAda81pleSByg/pexels-pixabay-259103.jpg"
-      },
-      {
         "clusterId": "31c915bf1cb9806e",
         "slug": "4fa00b79e7eb42c6",
         "titulo": "Mendonça revoga prisão domiciliar de ex‑número 2 da Previdência",
@@ -434,6 +454,21 @@
         "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/09/andre-mendonca-foto-luiz-roberto-tse.jpg"
       },
       {
+        "clusterId": "174c8f0cf88c8350",
+        "slug": "5e83fad020c37eee",
+        "titulo": "Aviação doméstica bate recorde de 85,7 milhões de passageiros",
+        "resumo": "Em janeiro a outubro, o setor de aviação doméstica registrou 85,7 milhões de passageiros, um recorde histórico. O movimento cresceu cerca de 2,9% em relação ao mesmo período de 2025. Os voos internacionais apresentaram aumento de 7,2% no mesmo intervalo.",
+        "porQueImporta": "O crescimento demonstra a recuperação e expansão do mercado aéreo brasileiro após a pandemia.",
+        "category": "politica",
+        "sources": [
+          {
+            "name": "Poder360",
+            "url": "https://www.poder360.com.br/poder-infra/aviacao-domestica-bate-recorde-de-857-mi-de-passageiros/"
+          }
+        ],
+        "updatedAt": "2026-11-24T18:58:54.000Z"
+      },
+      {
         "clusterId": "d5c523c668c8aa57",
         "slug": "9052f0f6de6d5852",
         "titulo": "Senador Paim critica reação empresarial ao fim da escala 6×1 e atribui falta de propostas à extrema-direita",
@@ -448,26 +483,11 @@
         ],
         "updatedAt": "2026-11-24T18:24:54.000Z",
         "imageUrl": "https://www.cartacapital.com.br/wp-content/uploads/2026/11/55660834531_a1f73d8f18_k.jpg"
-      },
-      {
-        "clusterId": "cbbf334164f22343",
-        "slug": "ededa3a5518a30ec",
-        "titulo": "Partidos aliados da esquerda exigem maior presença em ministérios do governo Lula",
-        "resumo": "Partidos de esquerda que apoiaram Lula pedem aumento de representação em cargos ministeriais, buscando reconhecimento pelo trabalho na campanha. A articulação pretende ampliar a participação desses grupos nas decisões do governo. A demanda reflete a busca por maior influência política dentro do atual governo.",
-        "porQueImporta": "A ampliação de representação pode alterar a composição e as políticas do governo federal.",
-        "category": "politica",
-        "sources": [
-          {
-            "name": "Poder360",
-            "url": "https://www.poder360.com.br/poder-governo/setores-negros-da-esquerda-cobram-mais-espaco-no-governo-lula-4/"
-          }
-        ],
-        "updatedAt": "2026-11-24T18:22:42.000Z"
       }
     ],
     "economia": [
       {
-        "clusterId": "a79cccefc27c7d77",
+        "clusterId": "ec829385123d3a2d",
         "slug": "7e45b337d3910125",
         "titulo": "Jensen Huang retorna ao cargo de CEO da Nvidia após escândalo de espionagem",
         "resumo": "O conselho da Nvidia aprovou, por unanimidade, a reintegração de Jensen Huang ao cargo de CEO, 11 dias após sua renúncia em meio a um escândalo envolvendo um relacionamento extraconjugal com Alice Huang, suspeita de espionagem para a China. O presidente dos Estados Unidos, Donald Trump, afirmou ter pressionado o conselho e se responsabilizou pelo retorno, alegando que a China poderia tentar recrutar Huang caso ele não voltasse. As ações da Nvidia dispararam mais de 30% na abertura do pregão, impulsionando índices como o Nasdaq 100.",
@@ -527,6 +547,34 @@
         "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/09/2026-09-23T153541Z_807038525_RC23PNANFL5E_RTRMADP_3_UN-ASSEMBLY.jpg?fit=300%2C200&amp;quality=70&amp;strip=all"
       },
       {
+        "clusterId": "531f873a9476178b",
+        "slug": "93e94b449f35446d",
+        "titulo": "WhatsApp libera figurinhas com som",
+        "resumo": "O WhatsApp introduziu figurinhas que combinam imagem, animação e áudio, permitindo que o som seja reproduzido tocando na própria figurinha, sem abrir um arquivo separado. A funcionalidade já aparece em conversas de alguns usuários, mas ainda não há confirmação de disponibilidade global. A Meta, dona do aplicativo, não divulgou detalhes adicionais sobre a expansão do recurso.",
+        "porQueImporta": "A novidade amplia a forma de comunicação no app, tornando as mensagens mais interativas e expressivas.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/11/24/internet-e-redes-sociais/whatsapp-ganha-figurinhas-com-som-veja-como-funciona-o-recurso/"
+          },
+          {
+            "name": "Veja",
+            "url": "https://veja.abril.com.br/tecnologia/whatsapp-tera-figurinhas-com-som-saiba-como-funciona-a-novidade/"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/tecnologia/noticia/2026/11/24/whatsapp-comeca-a-liberar-figurinhas-com-som.ghtml"
+          },
+          {
+            "name": "Exame",
+            "url": "https://exame.com/tecnologia/figurinhas-com-som-comecam-a-aparecer-no-whatsapp-veja-como-funciona-a-novidade/"
+          }
+        ],
+        "updatedAt": "2026-11-24T17:16:09.000Z",
+        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2026/02/gettyimages-2260397825-594x594-1.jpg"
+      },
+      {
         "clusterId": "aa6a70bc26dcdabf",
         "slug": "2e254c30a22f3ee0",
         "titulo": "Trump pode ter lucrado com retorno de Jensen Huang à Nvidia",
@@ -549,26 +597,6 @@
         ],
         "updatedAt": "2026-11-24T16:32:00.000Z",
         "imageUrl": "https://s2-g1.glbimg.com/Z-cbLatnS8lSwzWylBrlrFSf2mw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/C/Z4xEAjQzyajPrdrpseUA/2026-11-19t152917z-1568396902-rc27znahvx7h-rtrmadp-3-usa-trump-nvidia.jpg"
-      },
-      {
-        "clusterId": "10d81871ceb4686c",
-        "slug": "49db3df3423dde25",
-        "titulo": "Onde assistir à Champions League",
-        "resumo": "Os principais jogos da quinta rodada da Champions League estão disponíveis em plataformas de transmissão ao vivo. O Arsenal enfrenta o Borussia Dortmund na casa do clube inglês, enquanto o PSG encara a Roma no Estádio Parque dos Príncipes. O Real Madrid disputa partida contra o PSV. Os horários e canais de transmissão variam conforme a região e a emissora parceira.",
-        "porQueImporta": "Informar aos torcedores onde acompanhar os jogos facilita o acesso e aumenta o engajamento com a competição.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/esportes/arsenal-borussia-dortmund-onde-assistir-champions-league/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/liga-dos-campeoes/noticia/2026/11/24/psg-x-roma-na-champions-league-onde-assistir-ao-vivo-e-horario.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-24T18:30:00.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/11/thumb-arsenal-x-borussia-dortmund.jpg?fit=300%2C191&amp;quality=70&amp;strip=all"
       },
       {
         "clusterId": "85a0a67bad60f12d",
@@ -611,44 +639,40 @@
         "imageUrl": "https://s2-g1.glbimg.com/bHmNkJhR8njNpD0Vvhu02wG7E1s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/s/WTH8GTQ1KaDgXbbEgnOg/globo-canal-4-20260720-2000-frame-75376.jpeg"
       },
       {
-        "clusterId": "412fbc4cbbeb1dbf",
-        "slug": "69d355db8d06a7e8",
-        "titulo": "Golpes na Black Friday: mais de mil sites falsos identificados",
-        "resumo": "Durante a Black Friday, mais de mil sites falsos foram detectados, usando marcas conhecidas para oferecer promoções enganosas. Criminosos prometem presentes de Natal e utilizam contagens regressivas e avisos de “últimas unidades” para pressionar os consumidores. É recomendável verificar o endereço do site e confirmar que se trata do site oficial antes de efetuar qualquer pagamento. A Cacau Show foi um dos alvos desses golpes.",
-        "porQueImporta": "A informação ajuda consumidores a evitarem fraudes e protegerem seus dados e dinheiro.",
+        "clusterId": "e31581af8f25301b",
+        "slug": "2ed76e1a9dc0a701",
+        "titulo": "Dólar atinge R$6 pela primeira vez em 2026",
+        "resumo": "O dólar chegou a R$6 pela primeira vez desde abril de 2025, impulsionado por fatores internos e externos que se reforçam mutuamente. A moeda americana se valorizou em relação ao real, que voltou a se desvalorizar após liderar perdas entre moedas emergentes. O valor atingido ultrapassou as previsões do Banco Central para o fim do ano, mas recuou e encerrou o dia em R$5,9262. A alta do dólar tem impacto direto no ajuste fiscal e na competitividade das exportações brasileiras.",
+        "porQueImporta": "A valorização do dólar afeta o custo das importações, a inflação e a competitividade das exportações brasileiras.",
+        "category": "economia",
+        "sources": [
+          {
+            "name": "BBC Brasil",
+            "url": "https://www.bbc.com/portuguese/articles/cwm253lr95zjo?at_medium=RSS&at_campaign=rss"
+          },
+          {
+            "name": "G1",
+            "url": "https://g1.globo.com/economia/noticia/2026/11/24/a-tempestade-perfeita-dentro-e-fora-do-brasil-que-fez-dolar-chegar-a-r-6.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-24T09:20:45.000Z",
+        "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/79dc/live/ed3d37e0-e778-11f1-8f1d-19326d289ceb.jpg"
+      },
+      {
+        "clusterId": "8ad9526e50e238d3",
+        "slug": "21cc05d91851c22c",
+        "titulo": "IA analisa 1,6 mil teleconferências e encontra pior humor das empresas da Bolsa no 3T",
+        "resumo": "Uma análise de mais de 1,600 teleconferências de resultados revelou que o sentimento corporativo piorou no terceiro trimestre. O setor de commodities registrou a maior queda de humor, enquanto os setores de transporte, tecnologia e saúde apresentaram maior confiança. A pesquisa indica que as empresas estão mais cautelosas diante das condições econômicas atuais.",
+        "porQueImporta": "O resultado mostra a percepção negativa dos investidores sobre o desempenho futuro das empresas listadas na Bolsa.",
         "category": "economia",
         "sources": [
           {
             "name": "InfoMoney",
-            "url": "https://www.infomoney.com.br/minhas-financas/golpes-na-black-friday-mais-de-mil-sites-falsos-sao-identificados-cacau-show-e-alvo/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/24/black-friday-saiba-como-identificar-sites-e-anuncios-falsos-para-nao-cair-em-golpes-video.ghtml"
+            "url": "https://www.infomoney.com.br/mercados/ia-analisa-16-mil-teleconferencias-e-encontra-pior-humor-das-empresas-da-bolsa-no-3t/"
           }
         ],
-        "updatedAt": "2026-11-24T17:46:52.000Z",
-        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/11/Captura-de-tela-2026-11-24-125751.png?fit=300%2C167&amp;quality=70&amp;strip=all"
-      },
-      {
-        "clusterId": "cca9bcc093827c3a",
-        "slug": "862feb2d145fec1a",
-        "titulo": "Ações da Anthropic caem abaixo do preço do IPO após estreia na Nasdaq",
-        "resumo": "A empresa de inteligência artificial Anthropic abriu suas ações na Nasdaq em 19 de novembro, atingindo um pico de US$ 111,50. No dia 24, as ações caíram para cerca de US$ 81,43, abaixo do preço de US$ 83 estabelecido no IPO. A queda representa uma perda de mais de 7% desde a estreia. A volatilidade reflete a pressão de liquidação no setor de tecnologia.",
-        "porQueImporta": "A queda demonstra a volatilidade de empresas de IA em seus primeiros dias de negociação pública.",
-        "category": "economia",
-        "sources": [
-          {
-            "name": "CNN Brasil",
-            "url": "https://www.cnnbrasil.com.br/economia/money/mercado/apos-estreia-nos-eua-acoes-da-anthropic-caem-abaixo-do-preco-do-ipo/"
-          },
-          {
-            "name": "G1",
-            "url": "https://g1.globo.com/economia/noticia/2026/11/24/acoes-da-anthropic.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-24T15:00:06.000Z",
-        "imageUrl": "https://s2-g1.glbimg.com/E6ry0_9FC6xierZxR_29XkikfwE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/T/c02LQIQ3SZ21tgpzLO8A/2026-11-19t144210z-1448053634-rc21roasdcce-rtrmadp-3-anthropic-ipo-debut.jpg"
+        "updatedAt": "2026-11-24T18:55:00.000Z",
+        "imageUrl": "https://www.infomoney.com.br/wp-content/uploads/2026/08/acoes-balancos.jpg?fit=300%2C169&amp;quality=70&amp;strip=all"
       }
     ],
     "mundo": [
@@ -874,6 +898,22 @@
         "imageUrl": "https://tl.ctcdn.com.br/vqzRUSUXncPqEWb8Jmu5moH3BU0=/1200x675/smart/filters:format(webp):quality(85)/38f20498-751f-4c1f-939b-497b79a658df.jpg"
       },
       {
+        "clusterId": "424eb80bf6f89e8f",
+        "slug": "8adfbae9d901e6fc",
+        "titulo": "Huawei lança Mate X8, dobrável com tela quase sem vinco e bateria de 6.200 mAh",
+        "resumo": "O novo celular dobrável da Huawei, Mate X8, possui tela interna de 8,2 polegadas com tecnologia que minimiza a marca de vinco e bateria de 6.200 mAh. O aparelho conta com processador Kirin 9050 Pro, proteção contra água e poeira, e suporte a acessórios fotográficos externos. Design fino e acabamento sofisticado completam a proposta do modelo.",
+        "porQueImporta": "O lançamento demonstra avanços tecnológicos da Huawei no segmento de dispositivos dobráveis, oferecendo maior durabilidade e recursos fotográficos aprimorados.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Canaltech",
+            "url": "https://canaltech.com.br/smartphone/novo-dobravel-da-huawei-chega-com-tela-quase-sem-vinco-e-bateria-de-6200-mah/"
+          }
+        ],
+        "updatedAt": "2026-11-24T18:54:23.000Z",
+        "imageUrl": "https://tl.ctcdn.com.br/2Y8zLtJuk-4CQA02aq5DtK3tECg=/1200x675/smart/filters:format(webp):quality(85)/d4453967-1cc5-431d-8050-f4b53153ad96.jpg"
+      },
+      {
         "clusterId": "7232dfacc6453ca9",
         "slug": "67ab702daa4dfcc8",
         "titulo": "Unitree lança cão-robô que dança, tira fotos e acompanha sem coleira",
@@ -888,6 +928,21 @@
         ],
         "updatedAt": "2026-11-24T18:35:58.000Z",
         "imageUrl": "https://tl.ctcdn.com.br/OVYgnsa4FaDt0M-oTTWIe9r1x0g=/1200x675/smart/filters:format(webp):quality(85)/ad2317bc-acd4-45b0-8692-7bf7a4d739ba.jpg"
+      },
+      {
+        "clusterId": "8cc18c8a4eeaf6a1",
+        "slug": "bcb0d16624d06fb5",
+        "titulo": "OpenAI e Anthropic temem lançar IAs mais poderosas",
+        "resumo": "A OpenAI e a Anthropic estão adiando o lançamento de suas novas inteligências artificiais mais avançadas, pois os modelos demonstram capacidades que ultrapassam os mecanismos de segurança internos. Ambas as empresas relatam que as IAs apresentam riscos de uso indevido e de gerar conteúdos problemáticos. O atraso visa permitir ajustes de segurança e avaliação de impactos antes da disponibilização pública.",
+        "porQueImporta": "Garantir que tecnologias poderosas sejam lançadas com segurança reduz riscos de abuso e danos sociais.",
+        "category": "tecnologia",
+        "sources": [
+          {
+            "name": "Olhar Digital",
+            "url": "https://olhardigital.com.br/2026/11/24/inteligencia-artificial/openai-e-anthropic-tem-medo-de-lancar-suas-ias-mais-poderosas-entenda-o-motivo/"
+          }
+        ],
+        "updatedAt": "2026-11-24T18:25:36.000Z"
       },
       {
         "clusterId": "58b2db6b598a700a",
@@ -936,37 +991,6 @@
         ],
         "updatedAt": "2026-11-24T18:00:01.000Z",
         "imageUrl": "https://tl.ctcdn.com.br/HsDml78LCfvlRSCwx51HIYxqmVM=/1200x675/smart/filters:format(webp):quality(85)/e1c7a10c-4d99-404d-a608-c20720764dee.png"
-      },
-      {
-        "clusterId": "87c2f234384826d0",
-        "slug": "6899337a66111c5f",
-        "titulo": "Streamer zera GTA 6 em menos de 40 horas e reivindica recorde mundial",
-        "resumo": "O criador de conteúdo BrycexD completou a campanha de GTA 6 em menos de 40 horas, alegando ser o primeiro a fazer isso. O recorde ainda não foi reconhecido oficialmente. O vídeo foi publicado no canal do streamer e recebeu atenção da comunidade de gamers.",
-        "porQueImporta": "Mostra a rapidez e habilidade de jogadores em jogos de grande escala, gerando interesse na comunidade e na indústria.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Olhar Digital",
-            "url": "https://olhardigital.com.br/2026/11/24/games-e-consoles/gta-6-streamer-speedrun-recorde-mundial-40-horas/"
-          }
-        ],
-        "updatedAt": "2026-11-24T18:00:00.000Z"
-      },
-      {
-        "clusterId": "85b713acb73d20c4",
-        "slug": "6916a917c080adac",
-        "titulo": "Amazon oferece iPhone 16e de 128 GB por R$ 2.942 antes da Black Friday",
-        "resumo": "A Amazon disponibilizou o iPhone 16e de 128 GB por R$ 2.942,10 no Pix, dias antes da Black Friday. O modelo, lançado em fevereiro de 2025, possui processador Apple A18, tela OLED de 6,1 polegadas e câmera de 48 MP. O preço abaixo de R$ 3 mil é incomum para aparelhos Apple lançados há menos de dois anos.",
-        "porQueImporta": "A oferta representa uma oportunidade de compra de um iPhone recente a um preço significativamente reduzido.",
-        "category": "tecnologia",
-        "sources": [
-          {
-            "name": "Canaltech",
-            "url": "https://canaltech.com.br/smartphone/amazon-faz-queima-de-iphone-16e-dias-antes-da-black-friday-128-gb-por-r-2942/"
-          }
-        ],
-        "updatedAt": "2026-11-24T17:59:14.000Z",
-        "imageUrl": "https://tl.ctcdn.com.br/FSzJ6Mx2HYqb_TRBNYN7b54DJbY=/1200x675/smart/filters:format(webp):quality(85)/68198357-7c86-408a-8a34-ccc6f46ec03c.jpg"
       }
     ],
     "ciencia": [
@@ -1186,6 +1210,26 @@
     ],
     "esportes": [
       {
+        "clusterId": "a25381fdea0cb155",
+        "slug": "f9621b44405d5a0c",
+        "titulo": "Santos perde 2 a 0 para o Grêmio na 36ª rodada do Brasileirão",
+        "resumo": "O Santos foi derrotado pelo Grêmio por 2 a 0 na última segunda-feira, no Morumbi, na 36ª rodada do Campeonato Brasileiro. O lateral direito Rodinei reconheceu ter cometido um erro que contribuiu para o primeiro gol do adversário, marcado por Francis Amuzu. Ele foi substituído no intervalo. O jogador Neymar Jr. reagiu a provocações do Grêmio nas redes sociais.",
+        "porQueImporta": "A derrota afeta a posição do Santos na tabela e destaca a necessidade de ajustes defensivos.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "Metrópoles",
+            "url": "https://www.metropoles.com/colunas/fabia-oliveira/neymar-jr-rebate-provocacao-do-gremio-apos-derrota-no-brasileirao"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/11/24/rodinei-assume-falha-em-derrota-do-santos-para-o-gremio-erro-que-prejudicou-meus-companheiros.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-24T18:43:08.000Z",
+        "imageUrl": "https://images.metroimg.com/2026/11/neymar-gremio.jpg"
+      },
+      {
         "clusterId": "92329aab1fcbc6b2",
         "slug": "4ce64a2f59ccdccd",
         "titulo": "Atlético-MG e Corinthians enfrentam questões financeiras e de escalação",
@@ -1204,6 +1248,26 @@
         ],
         "updatedAt": "2026-11-24T18:33:05.000Z",
         "imageUrl": "https://s2-ge.glbimg.com/EAaJWz1yieEhMTruarHARly05xc=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/H/c/pt71AqRqOF3jck5awy5g/hx58elqx0aaggm6.jpg"
+      },
+      {
+        "clusterId": "47dfc1cb6a662be5",
+        "slug": "71fefefd312b2401",
+        "titulo": "Arbitro mantém expulsão de Robert Renan sem ver todas as imagens do VAR",
+        "resumo": "O árbitro Bráulio da Silva Machado manteve a expulsão de Robert Renan, zagueiro do Vasco, após partida contra o Bragantino, sem analisar todas as imagens disponibilizadas pelo VAR. O VAR, Marco Aurélio Augusto Fazekas Ferreira, havia indicado que não havia falta. O árbitro deixou o monitor antes de concluir a revisão, apesar das instruções do VAR. A CBF divulgou o vídeo da revisão, evidenciando a divergência entre as decisões.",
+        "porQueImporta": "O caso destaca a importância da correta utilização do VAR para garantir decisões justas em partidas de futebol.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "CNN Brasil",
+            "url": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/cbf-divulga-imagens-e-arbitro-mantem-expulsao-sem-ver-todos-os-angulos/"
+          },
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/11/24/arbitro-ignora-var-e-nao-ve-todas-as-imagens-antes-de-manter-expulsao-de-robert-renan-do-vasco.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-24T18:24:58.000Z",
+        "imageUrl": "https://s2-ge.glbimg.com/lOcnLQYDGdjzOeH-qHAx1GYMFKs=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/f/7/jGYw31RWWcVyMxGFD0Bg/whatsapp-image-2026-11-24-at-12.04.56.jpeg"
       },
       {
         "clusterId": "c6faefec11475d5f",
@@ -1245,11 +1309,11 @@
         "updatedAt": "2026-11-24T17:59:55.000Z"
       },
       {
-        "clusterId": "68a2efe3eb8230ea",
-        "slug": "3a412ae78e7d8735",
-        "titulo": "Grêmio vence Santos e mantém compromisso de Weverton com clube",
-        "resumo": "O Grêmio venceu o Santos por 2 a 0 no Morumbi, garantindo 41 pontos e saindo da zona de rebaixamento do Brasileirão. O goleiro Weverton respondeu a rumores de negociação com o Santos, reafirmando seu compromisso com o Tricolor até 2028. A vitória também impede o Santos de avançar na disputa pela Libertadores. O Grêmio aproveitou a vitória para provocar Neymar e Willian Arão nas redes sociais.",
-        "porQueImporta": "A partida afeta a posição do Grêmio na tabela e a permanência de Weverton no clube.",
+        "clusterId": "6eb053229a9de5f6",
+        "slug": "1485b7a471487f8e",
+        "titulo": "Grêmio vence Santos e sai da zona de rebaixamento",
+        "resumo": "O Grêmio venceu o Santos por 2 a 0, com golos de Pedro e Luan, e alcançou 41 pontos, afastando-se da zona de rebaixamento do Brasileirão. O triunfo também garante ao Tricolor uma posição mais segura na tabela, enquanto o Santos perde a oportunidade de disputar a Libertadores. O goleiro Weverton, que respondeu a especulações sobre negociação, reafirmou seu compromisso com o clube até 2028.",
+        "porQueImporta": "A vitória assegura ao Grêmio estabilidade na competição e afasta a ameaça de rebaixamento.",
         "category": "esportes",
         "sources": [
           {
@@ -1261,62 +1325,10 @@
             "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/brasileirao-serie-a/jogo/23-11-2026/santos-gremio.ghtml"
           }
         ],
-        "updatedAt": "2026-11-24T17:33:45.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/suIefd6-KxRfO-sai12PCOeV7cI=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/I/z/sCPBczQiedsolBhKCp5w/hx2ylxhxcaew4uh.jpg"
+        "updatedAt": "2026-11-24T17:33:45.000Z"
       },
       {
-        "clusterId": "a0fdcb5fb382b534",
-        "slug": "3be9914db66d2243",
-        "titulo": "Ministério Público pede intervenção judicial no Corinthians",
-        "resumo": "O Ministério Público de São Paulo protocolou ação civil pública pedindo intervenção judicial no Corinthians, com o afastamento do presidente Osmar Stabile e do vice‑presidente Armando Mendonça e a substituição por uma comissão interventora. A solicitação se baseia em uma investigação de seis meses que apontou irregularidades em finanças e gestão. O clube respondeu com preocupação, prometendo apresentar defesa e questionando a viabilidade de cumprir a ordem de pagamento de R$ 10,14 milhões no Regime de Centralização de Execuções.",
-        "porQueImporta": "A intervenção pode alterar a administração do clube e impactar suas finanças e operações.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "Veja",
-            "url": "https://veja.abril.com.br/esporte/a-resposta-do-corinthians-ao-pedido-do-ministerio-publico-por-intervencao-judicial/"
-          },
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/11/24/corinthians-critica-pedido-de-intervencao-judicial-e-alerta-sobre-riscos-as-negociacoes.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-24T17:12:53.000Z",
-        "imageUrl": "https://veja.abril.com.br/wp-content/uploads/2025/08/GettyImages-645878484.jpg"
-      },
-      {
-        "clusterId": "ee063843256302b1",
-        "slug": "55fb1651b1d113ab",
-        "titulo": "Vasco oficializa saída de Cuesta",
-        "resumo": "O clube de futebol Vasco da Gama confirmou a saída do técnico José Cuesta. A decisão foi anunciada em comunicado oficial do clube. Cuesta não retornará ao cargo de treinador. O anúncio foi feito em meio a discussões sobre desempenho da equipe.",
-        "porQueImporta": "A mudança de técnico pode influenciar o rumo da equipe na temporada.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/11/24/vasco-oficializa-saida-de-cuesta.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-24T18:33:49.000Z"
-      },
-      {
-        "clusterId": "939d996bfd96811c",
-        "slug": "c297238022ee0d9d",
-        "titulo": "Cristiano Ronaldo marca 987º gol na Champions League da Ásia",
-        "resumo": "Cristiano Ronaldo marcou seu 987º gol em carreira ao converter pênalti na partida entre Al‑Nassr e Al‑Sadd, na quinta rodada da Champions League da Ásia. O gol veio aos 11 minutos da primeira metade, após ser derrubado por Camara. Foi a terceira partida consecutiva em que o jogador marcou, iniciando a sequência com um hat‑trick na vitória por 5 a 3 sobre o Al‑Kholood.",
-        "porQueImporta": "O número de gols demonstra a longevidade e a consistência de Ronaldo como um dos maiores artilheiros da história do futebol.",
-        "category": "esportes",
-        "sources": [
-          {
-            "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/11/24/faltam-13-cristiano-ronaldo-faz-987o-gol-em-jogo-pela-liga-dos-campeoes-da-asia.ghtml"
-          }
-        ],
-        "updatedAt": "2026-11-24T18:27:59.000Z",
-        "imageUrl": "https://s2-ge.glbimg.com/j4MABbaLGJefFnLkbnP7zAKu3ic=/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2026/A/A/IjBKxbRFmtmpZYHOZTUQ/cris.jpg"
-      },
-      {
-        "clusterId": "bbb3055e8ddf0de8",
+        "clusterId": "dbf9a565480dd61f",
         "slug": "c34bae177ce53017",
         "titulo": "Sabah enfrenta Barcelona na Liga dos Campeões 2026/27",
         "resumo": "O duelo entre Sabah e Barcelona será transmitido ao vivo no globoesporte.com, com escalação, informações sobre o jogo e fotos disponíveis. A partida faz parte da fase de grupos da Liga dos Campeões 2026/27.",
@@ -1325,10 +1337,25 @@
         "sources": [
           {
             "name": "GE",
-            "url": "https://ge.globo.com/futebol/futebol-internacional/liga-dos-campeoes/jogo/25-11-2026/sabah-barcelona.ghtml"
+            "url": "https://ge.globo.com/ms/futebol/copa-ms/jogo/11-11-2026/dourados-naviraiense.ghtml"
           }
         ],
-        "updatedAt": "2026-11-24T18:25:28.000Z"
+        "updatedAt": "2026-11-24T18:58:12.000Z"
+      },
+      {
+        "clusterId": "10d8f4018869eeec",
+        "slug": "13f7c6fc6ff365e0",
+        "titulo": "Atleta de Suzano conquista título intercontinental de futsal com Sporting Brasil e clube termina quarto na Copa do Mundo de Futebol para Amputados",
+        "resumo": "Um atleta de Suzano liderou o Sporting Brasil na conquista do campeonato intercontinental de clubes de futsal. O mesmo time terminou em quarto lugar na Copa do Mundo de Futebol para Amputados. A Confederação Brasileira de Voleibol (CBV) solicitou esclarecimentos a Suzano sobre salários atrasados de jogadores.",
+        "porQueImporta": "O desempenho esportivo destaca a qualidade do atleta e do clube, enquanto a questão salarial evidencia problemas financeiros que podem afetar a carreira dos atletas.",
+        "category": "esportes",
+        "sources": [
+          {
+            "name": "GE",
+            "url": "https://ge.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/11/24/veja-os-destaques-do-esporte-no-diario-tv-1a-edicao-desta-terca-feira-24-de-novembro.ghtml"
+          }
+        ],
+        "updatedAt": "2026-11-24T18:55:43.000Z"
       }
     ],
     "entretenimento": [
