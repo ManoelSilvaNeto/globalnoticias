@@ -117,6 +117,17 @@ e cobre os 3 via catch-all.
 
 ## Próximos passos
 
+### Fix de temas lixo + página 404 (2026-11-24, portado do Radar)
+
+- `topics-core.ts`: run de 1 palavra no INÍCIO da manchete só vira tema se a
+  palavra aparece capitalizada no meio de algum título (`midSentenceProperWords`)
+  — manchete é sentence case. Somem /tema/estudo, /serie, /pesquisa, /dois…
+  `GENERIC` ganhou numerais e substantivos comuns. Corpus: 1012→836 temas.
+  Efeito colateral aceito: temas que só aparecem abrindo manchete (Dólar, Aneel)
+  saem.
+- `src/pages/404.astro`: sem ela o Pages servia a home com 200 em URL
+  inexistente (soft 404). Agora 404 real.
+
 ### AdSense — REVISÃO PEDIDA via domínio raiz (2026-11-24)
 
 O AdSense **só aceita domínio raiz** — recusa subdomínio ("O URL precisa ser
